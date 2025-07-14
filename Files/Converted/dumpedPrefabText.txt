@@ -6848,22 +6848,22 @@
   splits:
   - text: "最大boss发生"
     translated: "Main boss has appeared"
-- raw: "脱离卡死"
-  splits:
-  - text: "脱离卡死"
-    translated: "Get unstuck"
-- raw: "开放视角"
-  splits:
-  - text: "开放视角"
-    translated: "Open perspective"
-- raw: "消息"
-  splits:
-  - text: "消息"
-    translated: "News"
 - raw: "江湖传闻"
   splits:
   - text: "江湖传闻"
     translated: "Jianghu rumors"
+- raw: "消息"
+  splits:
+  - text: "消息"
+    translated: "News"
+- raw: "开放视角"
+  splits:
+  - text: "开放视角"
+    translated: "Open perspective"
+- raw: "脱离卡死"
+  splits:
+  - text: "脱离卡死"
+    translated: "Get unstuck"
 - raw: "外观/捏脸"
   splits:
   - text: "外观/捏脸"
@@ -9160,6 +9160,10 @@
   splits:
   - text: "诋毁"
     translated: "Defame"
+- raw: "好感度>75;情分>3500;墨学>5500"
+  splits:
+  - text: "好感度>75;情分>3500;墨学>5500"
+    translated: "Affinity Level > 75; Affection Level > 3500; Mohism > 5500"
 - raw: "赠送数量"
   splits:
   - text: "赠送数量"

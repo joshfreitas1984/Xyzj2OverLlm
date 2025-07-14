@@ -2086,59 +2086,59 @@
   splits:
   - split: 3
     text: "不详"
-- raw: "PopInfoTip,ShowInformation,199,江湖游侠,[System.Int32]"
+- raw: "PopInfoTip,ShowInformation,198,江湖游侠,[System.Int32]"
   splits:
   - split: 3
     text: "江湖游侠"
-- raw: "PopInfoTip,ShowInformation,283,不详,[System.Int32]"
+- raw: "PopInfoTip,ShowInformation,282,不详,[System.Int32]"
   splits:
   - split: 3
     text: "不详"
-- raw: "PopInfoTip,ShowInformation,401,和,[System.Int32]"
+- raw: "PopInfoTip,ShowInformation,400,和,[System.Int32]"
   splits:
   - split: 3
     text: "和"
-- raw: "PopInfoTip,ShowInformation,434,阶及以上,[System.Int32]"
+- raw: "PopInfoTip,ShowInformation,433,阶及以上,[System.Int32]"
   splits:
   - split: 3
     text: "阶及以上"
-- raw: "PopInfoTip,ShowInformation,535,不详,[System.Int32]"
+- raw: "PopInfoTip,ShowInformation,534,不详,[System.Int32]"
   splits:
   - split: 3
     text: "不详"
-- raw: "PopInfoTip,ShowInformation,606,<color=#b8b8b8>好感：</color>{0},[System.Int32]"
+- raw: "PopInfoTip,ShowInformation,605,<color=#b8b8b8>好感：</color>{0},[System.Int32]"
   splits:
   - split: 3
     text: "<color=#b8b8b8>好感：</color>{0}"
-- raw: "PopInfoTip,ShowInformation,643,<color=#b8b8b8>情分：</color>{0},[System.Int32]"
+- raw: "PopInfoTip,ShowInformation,642,<color=#b8b8b8>情分：</color>{0},[System.Int32]"
   splits:
   - split: 3
     text: "<color=#b8b8b8>情分：</color>{0}"
-- raw: "PopInfoTip,ShowInformation,685,<color=#b8b8b8>精力：</color>{0},[System.Int32]"
+- raw: "PopInfoTip,ShowInformation,684,<color=#b8b8b8>精力：</color>{0},[System.Int32]"
   splits:
   - split: 3
     text: "<color=#b8b8b8>精力：</color>{0}"
-- raw: "PopInfoTip,ShowInformation,708,<color=#b8b8b8>性别：</color>{0},[System.Int32]"
+- raw: "PopInfoTip,ShowInformation,707,<color=#b8b8b8>性别：</color>{0},[System.Int32]"
   splits:
   - split: 3
     text: "<color=#b8b8b8>性别：</color>{0}"
-- raw: "PopInfoTip,ShowInformation,721,女,[System.Int32]"
+- raw: "PopInfoTip,ShowInformation,720,女,[System.Int32]"
   splits:
   - split: 3
     text: "女"
-- raw: "PopInfoTip,ShowInformation,728,男,[System.Int32]"
+- raw: "PopInfoTip,ShowInformation,727,男,[System.Int32]"
   splits:
   - split: 3
     text: "男"
-- raw: "PopInfoTip,ShowInformation,749,<color=#b8b8b8>势力：</color>{0},[System.Int32]"
+- raw: "PopInfoTip,ShowInformation,748,<color=#b8b8b8>势力：</color>{0},[System.Int32]"
   splits:
   - split: 3
     text: "<color=#b8b8b8>势力：</color>{0}"
-- raw: "PopInfoTip,ShowInformation,776,<color=#b8b8b8>身份：</color>{0},[System.Int32]"
+- raw: "PopInfoTip,ShowInformation,775,<color=#b8b8b8>身份：</color>{0},[System.Int32]"
   splits:
   - split: 3
     text: "<color=#b8b8b8>身份：</color>{0}"
-- raw: "PopInfoTip,ShowInformation,806,<color=#b8b8b8>兴趣：</color>{0},[System.Int32]"
+- raw: "PopInfoTip,ShowInformation,805,<color=#b8b8b8>兴趣：</color>{0},[System.Int32]"
   splits:
   - split: 3
     text: "<color=#b8b8b8>兴趣：</color>{0}"
@@ -2206,23 +2206,23 @@
   splits:
   - split: 3
     text: "<color=#FFDA5A>力敌群雄</color>"
-- raw: "PopInfoTip,SetShenfenText,100,外门弟子,[System.Int32]"
+- raw: "PopInfoTip,SetShenfenText,95,外门弟子,[System.Int32]"
   splits:
   - split: 3
     text: "外门弟子"
-- raw: "PopInfoTip,SetShenfenText,114,内门弟子,[System.Int32]"
+- raw: "PopInfoTip,SetShenfenText,109,内门弟子,[System.Int32]"
   splits:
   - split: 3
     text: "内门弟子"
-- raw: "PopInfoTip,SetShenfenText,128,关门弟子,[System.Int32]"
+- raw: "PopInfoTip,SetShenfenText,123,关门弟子,[System.Int32]"
   splits:
   - split: 3
     text: "关门弟子"
-- raw: "PopInfoTip,SetShenfenText,142,亲传弟子,[System.Int32]"
+- raw: "PopInfoTip,SetShenfenText,137,亲传弟子,[System.Int32]"
   splits:
   - split: 3
     text: "亲传弟子"
-- raw: "PopInfoTip,SetShenfenText,167,<color=#b8b8b8>身份：</color>{0},[System.Int32]"
+- raw: "PopInfoTip,SetShenfenText,162,<color=#b8b8b8>身份：</color>{0},[System.Int32]"
   splits:
   - split: 3
     text: "<color=#b8b8b8>身份：</color>{0}"
@@ -3630,67 +3630,67 @@
   splits:
   - split: 3
     text: "暗杀指派"
-- raw: "InteractSlot,OnReset,1592,已纳入门下,[]"
+- raw: "InteractSlot,OnReset,1587,已纳入门下,[]"
   splits:
   - split: 3
     text: "已纳入门下"
-- raw: "InteractSlot,OnReset,1702,纳入门下({0}%),[]"
+- raw: "InteractSlot,OnReset,1692,纳入门下({0}%),[]"
   splits:
   - split: 3
     text: "纳入门下({0}%)"
-- raw: "InteractSlot,OnReset,1722,下蛊,[]"
+- raw: "InteractSlot,OnReset,1712,下蛊,[]"
   splits:
   - split: 3
     text: "下蛊"
-- raw: "InteractSlot,OnReset,1730,收押,[]"
+- raw: "InteractSlot,OnReset,1720,收押,[]"
   splits:
   - split: 3
     text: "收押"
-- raw: "InteractSlot,OnReset,1738,羞辱,[]"
+- raw: "InteractSlot,OnReset,1728,羞辱,[]"
   splits:
   - split: 3
     text: "羞辱"
-- raw: "InteractSlot,OnReset,1746,恐吓,[]"
+- raw: "InteractSlot,OnReset,1736,恐吓,[]"
   splits:
   - split: 3
     text: "恐吓"
-- raw: "InteractSlot,OnReset,1754,勒索,[]"
+- raw: "InteractSlot,OnReset,1744,勒索,[]"
   splits:
   - split: 3
     text: "勒索"
-- raw: "InteractSlot,OnReset,1762,招募队友,[]"
+- raw: "InteractSlot,OnReset,1752,招募队友,[]"
   splits:
   - split: 3
     text: "招募队友"
-- raw: "InteractSlot,OnReset,1770,抓捕,[]"
+- raw: "InteractSlot,OnReset,1760,抓捕,[]"
   splits:
   - split: 3
     text: "抓捕"
-- raw: "InteractSlot,OnReset,1778,贿赂,[]"
+- raw: "InteractSlot,OnReset,1768,贿赂,[]"
   splits:
   - split: 3
     text: "贿赂"
-- raw: "InteractSlot,OnReset,1786,示意,[]"
+- raw: "InteractSlot,OnReset,1776,示意,[]"
   splits:
   - split: 3
     text: "示意"
-- raw: "InteractSlot,OnReset,1794,谈论,[]"
+- raw: "InteractSlot,OnReset,1784,谈论,[]"
   splits:
   - split: 3
     text: "谈论"
-- raw: "InteractSlot,OnReset,1802,诋毁,[]"
+- raw: "InteractSlot,OnReset,1792,诋毁,[]"
   splits:
   - split: 3
     text: "诋毁"
-- raw: "InteractSlot,OnReset,1810,谈论门派,[]"
+- raw: "InteractSlot,OnReset,1800,谈论门派,[]"
   splits:
   - split: 3
     text: "谈论门派"
-- raw: "InteractSlot,OnReset,1818,探听,[]"
+- raw: "InteractSlot,OnReset,1808,探听,[]"
   splits:
   - split: 3
     text: "探听"
-- raw: "InteractSlot,OnReset,1826,挑战,[]"
+- raw: "InteractSlot,OnReset,1816,挑战,[]"
   splits:
   - split: 3
     text: "挑战"
@@ -3854,15 +3854,15 @@
   splits:
   - split: 3
     text: "您的精力不足20!"
-- raw: "InteractSlot,GetMenPai,123,你还没有加入,[SweetPotato.MenPaiEntity&，SweetPotato.MenPaiEntity&，MenPai&，System.Boolean]"
+- raw: "InteractSlot,GetMenPai,113,你还没有加入,[SweetPotato.MenPaiEntity&，SweetPotato.MenPaiEntity&，MenPai&，System.Boolean]"
   splits:
   - split: 3
     text: "你还没有加入"
-- raw: "InteractSlot,GetMenPai,177,确定,[SweetPotato.MenPaiEntity&，SweetPotato.MenPaiEntity&，MenPai&，System.Boolean]"
+- raw: "InteractSlot,GetMenPai,167,确定,[SweetPotato.MenPaiEntity&，SweetPotato.MenPaiEntity&，MenPai&，System.Boolean]"
   splits:
   - split: 3
     text: "确定"
-- raw: "InteractSlot,GetMenPai,182,取消,[SweetPotato.MenPaiEntity&，SweetPotato.MenPaiEntity&，MenPai&，System.Boolean]"
+- raw: "InteractSlot,GetMenPai,172,取消,[SweetPotato.MenPaiEntity&，SweetPotato.MenPaiEntity&，MenPai&，System.Boolean]"
   splits:
   - split: 3
     text: "取消"
@@ -3910,31 +3910,31 @@
   splits:
   - split: 3
     text: "无"
-- raw: "AttriPart,ShowAttriRight,320,门派：,[]"
+- raw: "AttriPart,ShowAttriRight,315,门派：,[]"
   splits:
   - split: 3
     text: "门派："
-- raw: "AttriPart,ShowAttriRight,417,门派：无,[]"
+- raw: "AttriPart,ShowAttriRight,407,门派：无,[]"
   splits:
   - split: 3
     text: "门派：无"
-- raw: "AttriPart,ShowAttriRight,424,无,[]"
+- raw: "AttriPart,ShowAttriRight,414,无,[]"
   splits:
   - split: 3
     text: "无"
-- raw: "AttriPart,ShowAttriRight,484,简介：,[]"
+- raw: "AttriPart,ShowAttriRight,474,简介：,[]"
   splits:
   - split: 3
     text: "简介："
-- raw: "AttriPart,ShowAttriRight,549,门派：,[]"
+- raw: "AttriPart,ShowAttriRight,539,门派：,[]"
   splits:
   - split: 3
     text: "门派："
-- raw: "AttriPart,ShowAttriRight,793,气血,[]"
+- raw: "AttriPart,ShowAttriRight,783,气血,[]"
   splits:
   - split: 3
     text: "气血"
-- raw: "AttriPart,ShowAttriRight,897,真气,[]"
+- raw: "AttriPart,ShowAttriRight,887,真气,[]"
   splits:
   - split: 3
     text: "真气"
@@ -4998,6 +4998,26 @@
   splits:
   - split: 3
     text: "天"
+- raw: "PlayerStatusUI,.ctor,51,剑,[]"
+  splits:
+  - split: 3
+    text: "剑"
+- raw: "PlayerStatusUI,.ctor,62,刀,[]"
+  splits:
+  - split: 3
+    text: "刀"
+- raw: "PlayerStatusUI,.ctor,73,枪,[]"
+  splits:
+  - split: 3
+    text: "枪"
+- raw: "PlayerStatusUI,.ctor,84,拳,[]"
+  splits:
+  - split: 3
+    text: "拳"
+- raw: "PlayerStatusUI,.ctor,106,暗器,[]"
+  splits:
+  - split: 3
+    text: "暗器"
 - raw: "SkillItemUI,SetKeyText,70,秘诀,[KeyValue]"
   splits:
   - split: 3
@@ -5542,19 +5562,15 @@
   splits:
   - split: 3
     text: "无名"
-- raw: "SectSystem,ModifySectMember,52,加入退出门派，不存在id为{0}的npc数据,[System.Int32，System.Int64，System.Boolean]"
-  splits:
-  - split: 3
-    text: "加入退出门派，不存在id为{0}的npc数据"
-- raw: "SectSystem,ModifySectMember,227,主角加入{0}， 江湖纷争由此开始！,[System.Int32，System.Int64，System.Boolean]"
+- raw: "SectSystem,ModifySectMember,206,主角加入{0}， 江湖纷争由此开始！,[System.Int32，SweetPotato.NpcEntity，System.Boolean]"
   splits:
   - split: 3
     text: "主角加入{0}， 江湖纷争由此开始！"
-- raw: "SectSystem,ModifySectMember,258,主角退出{0}， 终是厌倦江湖，成为江湖散人！,[System.Int32，System.Int64，System.Boolean]"
+- raw: "SectSystem,ModifySectMember,237,主角退出{0}， 终是厌倦江湖，成为江湖散人！,[System.Int32，SweetPotato.NpcEntity，System.Boolean]"
   splits:
   - split: 3
     text: "主角退出{0}， 终是厌倦江湖，成为江湖散人！"
-- raw: "SectSystem,ModifySectMember,286,主角退出{0}，加入{1},[System.Int32，System.Int64，System.Boolean]"
+- raw: "SectSystem,ModifySectMember,265,主角退出{0}，加入{1},[System.Int32，SweetPotato.NpcEntity，System.Boolean]"
   splits:
   - split: 3
     text: "主角退出{0}，加入{1}"
@@ -5806,23 +5822,23 @@
   splits:
   - split: 3
     text: "<color=#b8b8b8>性别：</color>{0}"
-- raw: "RoleInformation,SetShenfenText,116,外门弟子,[System.Int64]"
+- raw: "RoleInformation,SetShenfenText,111,外门弟子,[System.Int64]"
   splits:
   - split: 3
     text: "外门弟子"
-- raw: "RoleInformation,SetShenfenText,130,内门弟子,[System.Int64]"
+- raw: "RoleInformation,SetShenfenText,125,内门弟子,[System.Int64]"
   splits:
   - split: 3
     text: "内门弟子"
-- raw: "RoleInformation,SetShenfenText,144,关门弟子,[System.Int64]"
+- raw: "RoleInformation,SetShenfenText,139,关门弟子,[System.Int64]"
   splits:
   - split: 3
     text: "关门弟子"
-- raw: "RoleInformation,SetShenfenText,158,亲传弟子,[System.Int64]"
+- raw: "RoleInformation,SetShenfenText,153,亲传弟子,[System.Int64]"
   splits:
   - split: 3
     text: "亲传弟子"
-- raw: "RoleInformation,SetShenfenText,183,<color=#b8b8b8>身份：</color>{0},[System.Int64]"
+- raw: "RoleInformation,SetShenfenText,178,<color=#b8b8b8>身份：</color>{0},[System.Int64]"
   splits:
   - split: 3
     text: "<color=#b8b8b8>身份：</color>{0}"
@@ -11810,15 +11826,15 @@
   splits:
   - split: 3
     text: "经查明，京谕珠在："
-- raw: "BuYeJingManager,ShowJingYuZhuFeige,778,出现过。,[]"
+- raw: "BuYeJingManager,ShowJingYuZhuFeige,783,出现过。,[]"
   splits:
   - split: 3
     text: "出现过。"
-- raw: "BuYeJingManager,ShowJingYuZhuFeige,832,京谕珠正在流转，稍后出现最终消息,[]"
+- raw: "BuYeJingManager,ShowJingYuZhuFeige,837,京谕珠正在流转，稍后出现最终消息,[]"
   splits:
   - split: 3
     text: "京谕珠正在流转，稍后出现最终消息"
-- raw: "BuYeJingManager,ShowJingYuZhuFeige,859,京谕珠已皆在你手，前往不夜京找独孤侑吧。,[]"
+- raw: "BuYeJingManager,ShowJingYuZhuFeige,864,京谕珠已皆在你手，前往不夜京找独孤侑吧。,[]"
   splits:
   - split: 3
     text: "京谕珠已皆在你手，前往不夜京找独孤侑吧。"
@@ -12206,19 +12222,19 @@
   splits:
   - split: 3
     text: "）拒绝了。"
-- raw: "MenPaiQuest,AddRewards,735,因为<,[]"
+- raw: "MenPaiQuest,AddRewards,730,因为<,[]"
   splits:
   - split: 3
     text: "因为<"
-- raw: "MenPaiQuest,AddRewards,753,>尽力说服，<,[]"
+- raw: "MenPaiQuest,AddRewards,748,>尽力说服，<,[]"
   splits:
   - split: 3
     text: ">尽力说服，<"
-- raw: "MenPaiQuest,AddRewards,771,>成为了门人。,[]"
+- raw: "MenPaiQuest,AddRewards,766,>成为了门人。,[]"
   splits:
   - split: 3
     text: ">成为了门人。"
-- raw: "MenPaiQuest,AddRewards,808,该人已查无音讯,[]"
+- raw: "MenPaiQuest,AddRewards,803,该人已查无音讯,[]"
   splits:
   - split: 3
     text: "该人已查无音讯"
@@ -12422,103 +12438,103 @@
   splits:
   - split: 3
     text: "悬赏任务 {0} npc不存在 尝试直接刷一个npc出来 但是么有合适的 SpawnPoint"
-- raw: "XuanShangQuest,DoInitPostAction,1505,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,1525,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "NPC:{0} 没有敌对npc 尝试直接刷一个npc出来"
-- raw: "XuanShangQuest,DoInitPostAction,1556,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是这个npc没有敌对势力 刷出来的npc不知道该设置成那个势力,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,1576,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是这个npc没有敌对势力 刷出来的npc不知道该设置成那个势力,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是这个npc没有敌对势力 刷出来的npc不知道该设置成那个势力"
-- raw: "XuanShangQuest,DoInitPostAction,1737,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是没有合适的 SpawnPoint 尝试生成一个SpawnPoint 但是失败了 不知道怎么生成,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,1757,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是没有合适的 SpawnPoint 尝试生成一个SpawnPoint 但是失败了 不知道怎么生成,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是没有合适的 SpawnPoint 尝试生成一个SpawnPoint 但是失败了 不知道怎么生成"
-- raw: "XuanShangQuest,DoInitPostAction,1884,EntrustEventPrototype.id:{0}中star配置错误，prototype.star * 2超过13了,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,1924,EntrustEventPrototype.id:{0}中star配置错误，prototype.star * 2超过13了,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "EntrustEventPrototype.id:{0}中star配置错误，prototype.star * 2超过13了"
-- raw: "XuanShangQuest,DoInitPostAction,1974,刷了一个npc出来 {0},[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,2014,刷了一个npc出来 {0},[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "刷了一个npc出来 {0}"
-- raw: "XuanShangQuest,DoInitPostAction,2420,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,2460,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
-- raw: "XuanShangQuest,DoInitPostAction,2604,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,2644,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
-- raw: "XuanShangQuest,DoInitPostAction,2733,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,2773,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
-- raw: "XuanShangQuest,DoInitPostAction,3044,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是没有合适的 SpawnPoint 尝试生成一个SpawnPoint 但是失败了 不知道怎么生成,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,3084,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是没有合适的 SpawnPoint 尝试生成一个SpawnPoint 但是失败了 不知道怎么生成,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是没有合适的 SpawnPoint 尝试生成一个SpawnPoint 但是失败了 不知道怎么生成"
-- raw: "XuanShangQuest,DoInitPostAction,3191,EntrustEventPrototype.id:{0}中star配置错误，prototype.star * 2超过13了,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,3231,EntrustEventPrototype.id:{0}中star配置错误，prototype.star * 2超过13了,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "EntrustEventPrototype.id:{0}中star配置错误，prototype.star * 2超过13了"
-- raw: "XuanShangQuest,DoInitPostAction,3355,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,3395,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
-- raw: "XuanShangQuest,DoInitPostAction,3579,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,3619,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
-- raw: "XuanShangQuest,DoInitPostAction,3709,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,3749,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
-- raw: "XuanShangQuest,DoInitPostAction,3898,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,3938,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
-- raw: "XuanShangQuest,DoInitPostAction,4029,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4069,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
-- raw: "XuanShangQuest,DoInitPostAction,4217,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4257,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
-- raw: "XuanShangQuest,DoInitPostAction,4346,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4386,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
-- raw: "XuanShangQuest,DoInitPostAction,4415,生成委托等级错误，m_CurrentXuanShangLevel.star * 2超过13了,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4455,生成委托等级错误，m_CurrentXuanShangLevel.star * 2超过13了,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "生成委托等级错误，m_CurrentXuanShangLevel.star * 2超过13了"
-- raw: "XuanShangQuest,DoInitPostAction,4595,情报,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4635,情报,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "情报"
-- raw: "XuanShangQuest,DoInitPostAction,4638,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4678,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
-- raw: "XuanShangQuest,DoInitPostAction,4696,悬赏：{0} 配置错误,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4736,悬赏：{0} 配置错误,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 配置错误"
-- raw: "XuanShangQuest,DoInitPostAction,4820,悬赏：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4860,悬赏：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 配置错误 没有找到可用的道具"
-- raw: "XuanShangQuest,DoInitPostAction,5098,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,5138,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
-- raw: "XuanShangQuest,DoInitPostAction,5208,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,5248,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
-- raw: "XuanShangQuest,DoInitPostAction,5335,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,5375,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
@@ -12698,7 +12714,7 @@
   splits:
   - split: 3
     text: "略高一筹"
-- raw: "RelationShipManager,InitRandomVirtualRelationShip,388,角色guid:{0}，proGuid:{1}非男非女，m_NpcPrototypeBase.id:{2}配置错误,[System.Int64，System.Int32]"
+- raw: "RelationShipManager,InitRandomVirtualRelationShip,369,角色guid:{0}，proGuid:{1}非男非女，m_NpcPrototypeBase.id:{2}配置错误,[SweetPotato.NpcEntity，System.Int32]"
   splits:
   - split: 3
     text: "角色guid:{0}，proGuid:{1}非男非女，m_NpcPrototypeBase.id:{2}配置错误"
@@ -15530,19 +15546,19 @@
   splits:
   - split: 3
     text: "掌门"
-- raw: "SweetPotato.NpcEntity,get_SectNameAll_NOS,70,无,[]"
+- raw: "SweetPotato.NpcEntity,get_SectNameAll_NOS,60,无,[]"
   splits:
   - split: 3
     text: "无"
-- raw: "SweetPotato.NpcEntity,get_SectNameAll_NOS,92,不详,[]"
+- raw: "SweetPotato.NpcEntity,get_SectNameAll_NOS,82,不详,[]"
   splits:
   - split: 3
     text: "不详"
-- raw: "SweetPotato.NpcEntity,get_SectNameAll_NOS,205,燕国百姓,[]"
+- raw: "SweetPotato.NpcEntity,get_SectNameAll_NOS,185,燕国百姓,[]"
   splits:
   - split: 3
     text: "燕国百姓"
-- raw: "SweetPotato.NpcEntity,get_SectNameAll_NOS,217,燕国,[]"
+- raw: "SweetPotato.NpcEntity,get_SectNameAll_NOS,197,燕国,[]"
   splits:
   - split: 3
     text: "燕国"
@@ -15554,23 +15570,23 @@
   splits:
   - split: 3
     text: "不详"
-- raw: "SweetPotato.NpcEntity,Init,280,魏琦锐，m_NpcPrototype.id:{0}这种NPC_ATTRI属性中含有8的Npc没有配置对应的境界,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.NpcEntity,Init,287,魏琦锐，m_NpcPrototype.id:{0}这种NPC_ATTRI属性中含有8的Npc没有配置对应的境界,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "魏琦锐，m_NpcPrototype.id:{0}这种NPC_ATTRI属性中含有8的Npc没有配置对应的境界"
-- raw: "SweetPotato.NpcEntity,Init,320,魏琦锐，m_NpcPrototype.id:{0}这种NPC_ATTRI属性中含有8的Npc没有配置对应的境界,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.NpcEntity,Init,327,魏琦锐，m_NpcPrototype.id:{0}这种NPC_ATTRI属性中含有8的Npc没有配置对应的境界,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "魏琦锐，m_NpcPrototype.id:{0}这种NPC_ATTRI属性中含有8的Npc没有配置对应的境界"
-- raw: "SweetPotato.NpcEntity,Init,405,guid:{0}，proguid:{1}配置的是动物，但是又错误配置成了随机Npc,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.NpcEntity,Init,412,guid:{0}，proguid:{1}配置的是动物，但是又错误配置成了随机Npc,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "guid:{0}，proguid:{1}配置的是动物，但是又错误配置成了随机Npc"
-- raw: "SweetPotato.NpcEntity,Init,514,随机角色guid:{0}，protoGuid:{1}的门派随到了“不夜京”，错误,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.NpcEntity,Init,521,随机角色guid:{0}，protoGuid:{1}的门派随到了“不夜京”，错误,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "随机角色guid:{0}，protoGuid:{1}的门派随到了“不夜京”，错误"
-- raw: "SweetPotato.NpcEntity,Init,831,proGuid:{0}，RandomName中不包含这个姓氏{1},[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.NpcEntity,Init,838,proGuid:{0}，RandomName中不包含这个姓氏{1},[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "proGuid:{0}，RandomName中不包含这个姓氏{1}"
@@ -18078,7 +18094,7 @@
   splits:
   - split: 3
     text: "快捷物品"
-- raw: "SweetPotato.LoadingView,OnOpen,362,<color=#00ff00>提示：</color>,[]"
+- raw: "SweetPotato.LoadingView,OnOpen,352,<color=#00ff00>提示：</color>,[]"
   splits:
   - split: 3
     text: "<color=#00ff00>提示：</color>"
@@ -18302,15 +18318,15 @@
   splits:
   - split: 3
     text: "请先登录"
-- raw: "SweetPotato.WorldManager/<CheckJingYuZhuRefreshEnum>d__187,MoveNext,1202,城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。,[]"
+- raw: "SweetPotato.WorldManager/<CheckJingYuZhuRefreshEnum>d__187,MoveNext,1197,城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。,[]"
   splits:
   - split: 3
     text: "城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。"
-- raw: "SweetPotato.WorldManager/<RefreshJingYuZhuInfosEnum>d__190,MoveNext,720,有新的持有京瑜珠NPC npcId:{0},[]"
+- raw: "SweetPotato.WorldManager/<RefreshJingYuZhuInfosEnum>d__190,MoveNext,732,有新的持有京瑜珠NPC npcId:{0},[]"
   splits:
   - split: 3
     text: "有新的持有京瑜珠NPC npcId:{0}"
-- raw: "SweetPotato.WorldManager/<RefreshJingYuZhuInfosEnum>d__190,MoveNext,899,城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。,[]"
+- raw: "SweetPotato.WorldManager/<RefreshJingYuZhuInfosEnum>d__190,MoveNext,911,城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。,[]"
   splits:
   - split: 3
     text: "城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。"
@@ -18318,7 +18334,7 @@
   splits:
   - split: 3
     text: "发现了新的宝藏，已在地图上标记"
-- raw: "SweetPotato.WorldManager,UpdateKeyboardInput,2263,当前状态下无法召唤坐骑,[]"
+- raw: "SweetPotato.WorldManager,UpdateKeyboardInput,2265,当前状态下无法召唤坐骑,[]"
   splits:
   - split: 3
     text: "当前状态下无法召唤坐骑"
@@ -18354,43 +18370,43 @@
   splits:
   - split: 3
     text: "随机Npc，guid:{0}属性配置错误，导致初始修为在设置之前就不为0"
-- raw: "SweetPotato.AttriManager,GetAttriResultDes,133,基础+,[SweetPotato.AttriType]"
+- raw: "SweetPotato.AttriManager,GetAttriResultDes,163,基础+,[SweetPotato.AttriType]"
   splits:
   - split: 3
     text: "基础+"
-- raw: "SweetPotato.AttriManager,GetAttriResultDes,142,装备+,[SweetPotato.AttriType]"
+- raw: "SweetPotato.AttriManager,GetAttriResultDes,172,装备+,[SweetPotato.AttriType]"
   splits:
   - split: 3
     text: "装备+"
-- raw: "SweetPotato.AttriManager,GetAttriResultDes,151,状态+,[SweetPotato.AttriType]"
+- raw: "SweetPotato.AttriManager,GetAttriResultDes,181,状态+,[SweetPotato.AttriType]"
   splits:
   - split: 3
     text: "状态+"
-- raw: "SweetPotato.AttriManager,GetAttriResultDes,160,秘籍+,[SweetPotato.AttriType]"
+- raw: "SweetPotato.AttriManager,GetAttriResultDes,190,秘籍+,[SweetPotato.AttriType]"
   splits:
   - split: 3
     text: "秘籍+"
-- raw: "SweetPotato.AttriManager,GetAttriResultDes,169,境界+,[SweetPotato.AttriType]"
+- raw: "SweetPotato.AttriManager,GetAttriResultDes,199,境界+,[SweetPotato.AttriType]"
   splits:
   - split: 3
     text: "境界+"
-- raw: "SweetPotato.AttriManager,GetAttriResultDes,178,经脉+,[SweetPotato.AttriType]"
+- raw: "SweetPotato.AttriManager,GetAttriResultDes,208,经脉+,[SweetPotato.AttriType]"
   splits:
   - split: 3
     text: "经脉+"
-- raw: "SweetPotato.AttriManager,GetAttriResultDes,187,词条+,[SweetPotato.AttriType]"
+- raw: "SweetPotato.AttriManager,GetAttriResultDes,217,词条+,[SweetPotato.AttriType]"
   splits:
   - split: 3
     text: "词条+"
-- raw: "SweetPotato.AttriManager,GetAttriResultDes,196,特技+,[SweetPotato.AttriType]"
+- raw: "SweetPotato.AttriManager,GetAttriResultDes,226,特技+,[SweetPotato.AttriType]"
   splits:
   - split: 3
     text: "特技+"
-- raw: "SweetPotato.AttriManager,GetAttriResultDes,205,连招+,[SweetPotato.AttriType]"
+- raw: "SweetPotato.AttriManager,GetAttriResultDes,235,连招+,[SweetPotato.AttriType]"
   splits:
   - split: 3
     text: "连招+"
-- raw: "SweetPotato.AttriManager,GetAttriResultDes,400,其他+{0},[SweetPotato.AttriType]"
+- raw: "SweetPotato.AttriManager,GetAttriResultDes,452,其他+{0},[SweetPotato.AttriType]"
   splits:
   - split: 3
     text: "其他+{0}"

@@ -2695,81 +2695,81 @@
   - split: 12
     text: "线索：提升儒学大于650，琴棋书画任一大于520。\\n寻稷下先生(312,412)以晋级。"
     translated: "Clue: Confucian studies must be greater than 650, and at least one of music, chess, calligraphy, or painting must be greater than 520.\\nSeek out Master Xun Ji Xia (312,412) to advance in rank."
-- raw: "9100#道士·道士#0#入门道士，初步踏上修行之路，对道法有了最基本的认识。虽技艺尚浅，但心怀追求天地大道之志。道士以道心为根，为日后更高的修行打下根基。\\n效果：解锁更多秘法秘术的学习\\n解锁与清玄道长论道#0#91#0##0#xueshi/ruxue11###线索：提升道学大于50，炼丹、酿酒大于50。\\n寻若愚（1193,513）以晋级。#xueshi/ruxue12#0###0#0#0#1000#0&1|911777|1##"
+- raw: "9100#道士·道士#0#入门道士，初步踏上修行之路，对道法有了最基本的认识。虽技艺尚浅，但心怀追求天地大道之志。道士以道心为根，为日后更高的修行打下根基。\\n效果：使用更多秘法秘术的学习\\n解锁与清玄道长论道#0#91#0##0#xueshi/ruxue11###线索：提升道学大于50，炼丹、酿酒大于50。\\n寻若愚（1193,513）以晋级。#xueshi/ruxue12#0###0#0#0#1000#0&1|911777|1##"
   splits:
   - split: 1
     text: "道士·道士"
     translated: "Daoist · Daoist"
   - split: 3
-    text: "入门道士，初步踏上修行之路，对道法有了最基本的认识。虽技艺尚浅，但心怀追求天地大道之志。道士以道心为根，为日后更高的修行打下根基。\\n效果：解锁更多秘法秘术的学习\\n解锁与清玄道长论道"
-    translated: "Beginner Daoist has taken the first steps on the path of cultivation and gained a basic understanding of Daoist principles. Although their skills are still shallow, they possess an earnest aspiration to pursue the Great Way of Heaven and Earth. The Daoist establishes a foundation for higher cultivation in the future by rooting themselves in the Daoist heart‑mind.\\nEffectiveness: Unlock more learning of secret techniques and methods.\\nUnlocking and Discussing Dao with Master Qingxuan"
+    text: "入门道士，初步踏上修行之路，对道法有了最基本的认识。虽技艺尚浅，但心怀追求天地大道之志。道士以道心为根，为日后更高的修行打下根基。\\n效果：使用更多秘法秘术的学习\\n解锁与清玄道长论道"
+    translated: "A novice Daoist has begun their journey on the path of cultivation and acquired a basic understanding of Daoist principles. Although their skills are still rudimentary, they harbor aspirations to pursue the Great Way of Heaven and Earth. For the Daoist, the Dao heart is the foundation, laying the groundwork for higher future cultivation.\\nEffectiveness: Learn more advanced techniques and methods\\nUnlocking the Discourse on Dao with Master Qingxuan"
   - split: 12
     text: "线索：提升道学大于50，炼丹、酿酒大于50。\\n寻若愚（1193,513）以晋级。"
     translated: "Clue: Taoism is valued above 50, while alchemy and winemaking are considered more significant than 50.\\nSeek out Foolish Yu (1193,513) to advance"
-- raw: "9101#道士·修士#0#表示入门后，初步踏上修行之路的道士，专注于基础的道学修为。\\n效果：解锁更多炼丹配方和秘法秘术\\n解锁归墟剑宗,寻清门论道#0#91#0##1#xueshi/ruxue11#18|1|42|100|>=#效果：解锁更多炼丹配方和秘法秘术\\n解锁归墟剑宗,寻清门论道#线索：提升道学大于100，炼丹、酿酒大于80。\\n寻若愚（1193,513）以晋级。#xueshi/ruxue12#0###0#0#0#1000#0&1|911751|1##"
+- raw: "9101#道士·修士#0#表示入门后，初步踏上修行之路的道士，专注于基础的道学修为。\\n效果：使用更多炼丹配方和秘法秘术\\n解锁归墟剑宗,寻清门论道#0#91#0##1#xueshi/ruxue11#18|1|42|100|>=#效果：解锁更多炼丹配方和秘法秘术\\n解锁归墟剑宗,寻清门论道#线索：提升道学大于100，炼丹、酿酒大于80。\\n寻若愚（1193,513）以晋级。#xueshi/ruxue12#0###0#0#0#1000#0&1|911751|1##"
   splits:
   - split: 1
     text: "道士·修士"
     translated: "Daoist · Cultivator"
   - split: 3
-    text: "表示入门后，初步踏上修行之路的道士，专注于基础的道学修为。\\n效果：解锁更多炼丹配方和秘法秘术\\n解锁归墟剑宗,寻清门论道"
-    translated: "A Daoist who has recently begun their journey and is initially focusing on mastering the basics of Taoist cultivation.\\nEffectiveness: Unlock more alchemy recipes and secret techniques.\\nUnlocked Return to Abyss Sword Sect, Seeking Clarity Gate Discourse."
+    text: "表示入门后，初步踏上修行之路的道士，专注于基础的道学修为。\\n效果：使用更多炼丹配方和秘法秘术\\n解锁归墟剑宗,寻清门论道"
+    translated: "A Daoist who has begun their training and is initially embarking on the path of cultivation focuses on foundational Taoist practice.\\nEffectiveness: Use more alchemical formulas and secret arts\\nUnlocking the Return to Abyss Sword Sect, Discussing the Doctrine of Seeking Clarity Gate."
   - split: 11
     text: "效果：解锁更多炼丹配方和秘法秘术\\n解锁归墟剑宗,寻清门论道"
     translated: "Effectiveness: Unlock more alchemical formulas and secret techniques.\\nUnlocking the Return to Abyss Sword Sect; Discussing the Doctrine of Seeking Clarity Gate."
   - split: 12
     text: "线索：提升道学大于100，炼丹、酿酒大于80。\\n寻若愚（1193,513）以晋级。"
     translated: "Clue: Advancing in Daoxue is greater than 100, while alchemy and winemaking are greater than 80.\\nSeek out Foolish (1193,513) to advance in rank."
-- raw: "9102#道士·法师#0#修行有成，道学精通。\\n效果：解锁更多炼丹配方和秘法秘术\\n解锁绝剑门,凌云门论道#0#91#0##2#xueshi/ruxue11#18|1|42|200|>=#效果：解锁更多炼丹配方和秘法秘术\\n解锁绝剑门,凌云门论道#线索：提升道学大于200，炼丹、酿酒大于160。\\n寻清玄道长（1193,513）以晋级。#xueshi/ruxue12#0###0#0#0#1000#0&1|911732|1##"
+- raw: "9102#道士·法师#0#修行有成，道学精通。\\n效果：使用更多炼丹配方和秘法秘术\\n解锁绝剑门,凌云门论道#0#91#0##2#xueshi/ruxue11#18|1|42|200|>=#效果：解锁更多炼丹配方和秘法秘术\\n解锁绝剑门,凌云门论道#线索：提升道学大于200，炼丹、酿酒大于160。\\n寻清玄道长（1193,513）以晋级。#xueshi/ruxue12#0###0#0#0#1000#0&1|911732|1##"
   splits:
   - split: 1
     text: "道士·法师"
     translated: "Daoist · Wizard"
   - split: 3
-    text: "修行有成，道学精通。\\n效果：解锁更多炼丹配方和秘法秘术\\n解锁绝剑门,凌云门论道"
-    translated: "Training completed; mastery in Taoist scripture achieved\\nEffectiveness: Unlock more alchemical formulas and secret techniques\\nUnlocking the Sword Breaker Gate; Discourse on the Way of the Soaring Clouds Sect."
+    text: "修行有成，道学精通。\\n效果：使用更多炼丹配方和秘法秘术\\n解锁绝剑门,凌云门论道"
+    translated: "Having completed their training, they have mastered Taoist scripture.\\nEffectiveness: Use more alchemy formulas and secret techniques\\nUnlocking the Sword Breaker Gate, discussing principles with the Soaring Clouds Sect."
   - split: 11
     text: "效果：解锁更多炼丹配方和秘法秘术\\n解锁绝剑门,凌云门论道"
     translated: "Effectiveness: Unlock more alchemy formulas and secret arts\\nUnlocking the Sword Breaker Gate; A Discourse by the Soaring Clouds Sect."
   - split: 12
     text: "线索：提升道学大于200，炼丹、酿酒大于160。\\n寻清玄道长（1193,513）以晋级。"
     translated: "Clue: Advancing in Daoxue surpasses 200, while Alchemy and Winemaking exceed 160.\\nSeek out Master Qingxuan to advance in rank. (1193,513)"
-- raw: "9103#道士·天师#0#技艺精湛，修为高深。\\n效果：解锁更多炼丹配方和秘法秘术\\n解锁太初剑宗,清玉门,御虚门论道#0#91#0##3#xueshi/ruxue11#18|1|42|325|>=#效果：解锁更多炼丹配方和秘法秘术\\解锁太初剑宗,清玉门,御虚门论道#线索：提升道学大于325，炼丹、酿酒大于260。\\n寻若愚（1193,513）以晋级。#xueshi/ruxue12#0###0#0#0#1000#0&1|911704|1##"
+- raw: "9103#道士·天师#0#技艺精湛，修为高深。\\n效果：使用更多炼丹配方和秘法秘术\\n解锁太初剑宗,清玉门,御虚门论道#0#91#0##3#xueshi/ruxue11#18|1|42|325|>=#效果：解锁更多炼丹配方和秘法秘术\\解锁太初剑宗,清玉门,御虚门论道#线索：提升道学大于325，炼丹、酿酒大于260。\\n寻若愚（1193,513）以晋级。#xueshi/ruxue12#0###0#0#0#1000#0&1|911704|1##"
   splits:
   - split: 1
     text: "道士·天师"
     translated: "Daoist · Celestial Master"
   - split: 3
-    text: "技艺精湛，修为高深。\\n效果：解锁更多炼丹配方和秘法秘术\\n解锁太初剑宗,清玉门,御虚门论道"
-    translated: "Mastery in skill, profound in cultivation.\\nEffectiveness: Unlock more alchemy recipes and secret techniques.\\nUnveiling the teachings of the Primordial Origin Sword Sect, Pure Jade Gate, and Imperial Void Gate."
+    text: "技艺精湛，修为高深。\\n效果：使用更多炼丹配方和秘法秘术\\n解锁太初剑宗,清玉门,御虚门论道"
+    translated: "Their skill is exquisite and their mastery profound.\\nEffectiveness: Use more alchemy formulas and secret techniques\\nUnlocking the Primordial Origin Sword Sect, Pure Jade Gate, and Imperial Void Gate Discourses."
   - split: 11
     text: "效果：解锁更多炼丹配方和秘法秘术\\解锁太初剑宗,清玉门,御虚门论道"
     translated: "Effectiveness: Unlock more alchemy recipes and secret arts and techniques; unlock the Primordial Origin Sword Sect, Pure Jade Gate, and Imperial Void Gate teachings."
   - split: 12
     text: "线索：提升道学大于325，炼丹、酿酒大于260。\\n寻若愚（1193,513）以晋级。"
     translated: "Clue: Advancing in Taoism is greater than 325, while alchemy and winemaking are more important than 260.\\nSeek out Foolish So‑and‑So (1193,513) to advance in rank."
-- raw: "9104#道士·玄师#0#修为深厚，精通道家玄学，能够与天地相感，修为通玄。\\n效果：解锁更多炼丹配方和秘法秘术\\n可从清玄道长处获得随身炼丹制造道具#0#91#0##4#xueshi/ruxue11#18|1|42|475|>=#效果：解锁更多炼丹配方和秘法秘术\\n可从清玄道长处获得随身炼丹制造道具#线索：提升道学大于475，炼丹、酿酒大于380。\\n寻清玄道长（1193,513）以晋级。#xueshi/ruxue12#0###0#0#0#1000#0&1|911677|1##"
+- raw: "9104#道士·玄师#0#修为深厚，精通道家玄学，能够与天地相感，修为通玄。\\n效果：使用更多炼丹配方和秘法秘术\\n可从清玄道长处获得随身炼丹制造道具#0#91#0##4#xueshi/ruxue11#18|1|42|475|>=#效果：解锁更多炼丹配方和秘法秘术\\n可从清玄道长处获得随身炼丹制造道具#线索：提升道学大于475，炼丹、酿酒大于380。\\n寻清玄道长（1193,513）以晋级。#xueshi/ruxue12#0###0#0#0#1000#0&1|911677|1##"
   splits:
   - split: 1
     text: "道士·玄师"
     translated: "Taoist · Xuan Shi"
   - split: 3
-    text: "修为深厚，精通道家玄学，能够与天地相感，修为通玄。\\n效果：解锁更多炼丹配方和秘法秘术\\n可从清玄道长处获得随身炼丹制造道具"
-    translated: "Possessing profound cultivation, well‑versed in Daoist esotericism, able to resonate with heaven and earth; their cultivation reaches an understanding of the mysterious.\\nEffectiveness: Unlock more alchemical recipes and secret arts.\\nObtain a portable alchemy tool from Master Qingxuan for on‑the‑go elixir crafting."
+    text: "修为深厚，精通道家玄学，能够与天地相感，修为通玄。\\n效果：使用更多炼丹配方和秘法秘术\\n可从清玄道长处获得随身炼丹制造道具"
+    translated: "Their cultivation was profound, mastering Daoist esotericism to be attuned with heaven and earth, achieving a level of mystical transcendence.\\nEffectiveness: Use more alchemy formulas and secret methods\\nObtain a portable alchemy crafting tool from Brother Qingxuan."
   - split: 11
     text: "效果：解锁更多炼丹配方和秘法秘术\\n可从清玄道长处获得随身炼丹制造道具"
     translated: "Effectiveness: Unlock more alchemy recipes and secret techniques.\\nObtain a portable alchemy device for crafting elixirs from Master Qingxuan."
   - split: 12
     text: "线索：提升道学大于475，炼丹、酿酒大于380。\\n寻清玄道长（1193,513）以晋级。"
     translated: "Clue: Prioritize the study of Daoxue more than 475, and value alchemy and winemaking less than 380.\\nSeek out Master Qing Xuan to advance in rank. (1193,513)"
-- raw: "9105#道士·真君#0#达到道士的巅峰境界，修为高深，通达天地大道，为世人敬仰的道家高人。\\n效果：解锁更多秘法秘术的学习#0#91#0##5#xueshi/ruxue11#18|1|42|650|>=#效果：解锁更多炼丹配方和秘法秘术#线索：提升道学大于650，炼丹、酿酒大于520。\\n寻清玄道长（1193,513）以晋级。#xueshi/ruxue12#0###0#0#0#1000#0&1|911658|1##"
+- raw: "9105#道士·真君#0#达到道士的巅峰境界，修为高深，通达天地大道，为世人敬仰的道家高人。\\n效果：使用更多秘法秘术的学习#0#91#0##5#xueshi/ruxue11#18|1|42|650|>=#效果：解锁更多炼丹配方和秘法秘术#线索：提升道学大于650，炼丹、酿酒大于520。\\n寻清玄道长（1193,513）以晋级。#xueshi/ruxue12#0###0#0#0#1000#0&1|911658|1##"
   splits:
   - split: 1
     text: "道士·真君"
     translated: "Daoist · True Lord"
   - split: 3
-    text: "达到道士的巅峰境界，修为高深，通达天地大道，为世人敬仰的道家高人。\\n效果：解锁更多秘法秘术的学习"
-    translated: "Reaching the pinnacle of a Taoist master's realm, possessing profound cultivation and understanding of the grand Dao of heaven and earth, revered by all as an eminent figure in the Way.\\nEffectiveness: Unlock learning more secret techniques and spells."
+    text: "达到道士的巅峰境界，修为高深，通达天地大道，为世人敬仰的道家高人。\\n效果：使用更多秘法秘术的学习"
+    translated: "Reaching the pinnacle of a Daoist's realm, possessing profound cultivation and mastery over the great ways of heaven and earth, revered by people as an esteemed figure in Daoism.\\nEffectiveness: Learn more magic techniques and secret arts"
   - split: 11
     text: "效果：解锁更多炼丹配方和秘法秘术"
     translated: "Effectiveness: Unlock more alchemy recipes and secret arts."
