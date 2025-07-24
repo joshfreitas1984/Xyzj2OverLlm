@@ -138,11 +138,11 @@
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "29#2090#55216#泠香坞#0#0#0#20#1020#"
+- raw: "29#2090#55216#十二连环坞#0#0#0#20#1020#"
   splits:
   - split: 3
-    text: "泠香坞"
-    translated: "Cold Fragrance Cove"
+    text: "十二连环坞"
+    translated: "Twelve‑linked Fortress"
 - raw: "30#2090#55217#黑沙寨#0#0#0#16#1016#"
   splits:
   - split: 3
@@ -358,11 +358,11 @@
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "80#2094#55216#泠香坞#0#0#0#20#1020#"
+- raw: "80#2094#55216#十二连环坞#0#0#0#20#1020#"
   splits:
   - split: 3
-    text: "泠香坞"
-    translated: "Cold Fragrance Cove"
+    text: "十二连环坞"
+    translated: "Twelve‑linked Fortress"
 - raw: "81#2094#55217#黑沙寨#0#0#0#16#1016#"
   splits:
   - split: 3
@@ -573,11 +573,11 @@
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "130#2095#55216#泠香坞#0#0#0#20#1020#"
+- raw: "130#2095#55216#十二连环坞#0#0#0#20#1020#"
   splits:
   - split: 3
-    text: "泠香坞"
-    translated: "Cold Fragrance Cove"
+    text: "十二连环坞"
+    translated: "Twelve‑linked Fortress"
 - raw: "131#2095#55217#黑沙寨#0#0#0#16#1016#"
   splits:
   - split: 3
@@ -788,11 +788,11 @@
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "180#2097#55216#泠香坞#0#0#0#20#1020#"
+- raw: "180#2097#55216#十二连环坞#0#0#0#20#1020#"
   splits:
   - split: 3
-    text: "泠香坞"
-    translated: "Cold Fragrance Cove"
+    text: "十二连环坞"
+    translated: "Twelve‑linked Fortress"
 - raw: "181#2097#55217#黑沙寨#0#0#0#16#1016#"
   splits:
   - split: 3
@@ -1043,11 +1043,11 @@
   - split: 3
     text: "朔海派"
     translated: "North Sea Sect"
-- raw: "237#2096#55216#泠香坞###0#6#1006#"
+- raw: "237#2096#55216#十二连环坞###0#6#1006#"
   splits:
   - split: 3
-    text: "泠香坞"
-    translated: "Cold Fragrance Cove"
+    text: "十二连环坞"
+    translated: "Twelve‑linked Fortress"
 - raw: "238#2096#55217#黑沙寨###0#13#1013#"
   splits:
   - split: 3
@@ -1213,11 +1213,11 @@
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "276#2098#55216#泠香坞#0#0#0#20#1020#"
+- raw: "276#2098#55216#十二连环坞#0#0#0#20#1020#"
   splits:
   - split: 3
-    text: "泠香坞"
-    translated: "Cold Fragrance Cove"
+    text: "十二连环坞"
+    translated: "Twelve‑linked Fortress"
 - raw: "277#2098#55217#黑沙寨#0#0#0#16#1016#"
   splits:
   - split: 3
@@ -1483,11 +1483,11 @@
   - split: 3
     text: "朔海派"
     translated: "North Sea Sect"
-- raw: "336#2099#55216#泠香坞###0#8#1008#"
+- raw: "336#2099#55216#十二连环坞###0#8#1008#"
   splits:
   - split: 3
-    text: "泠香坞"
-    translated: "Cold Fragrance Cove"
+    text: "十二连环坞"
+    translated: "Twelve‑linked Fortress"
 - raw: "337#2099#55217#黑沙寨###0#14#1014#"
   splits:
   - split: 3
@@ -1708,11 +1708,11 @@
   - split: 3
     text: "朔海派"
     translated: "North Sea Sect"
-- raw: "387#2100#55216#泠香坞###0#14#1014#"
+- raw: "387#2100#55216#十二连环坞###0#14#1014#"
   splits:
   - split: 3
-    text: "泠香坞"
-    translated: "Cold Fragrance Cove"
+    text: "十二连环坞"
+    translated: "Twelve‑linked Fortress"
 - raw: "388#2100#55217#黑沙寨###0#4#1004#"
   splits:
   - split: 3
@@ -1853,11 +1853,11 @@
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "421#2101#55216#泠香坞#0#0#0#20#1020#"
+- raw: "421#2101#55216#十二连环坞#0#0#0#20#1020#"
   splits:
   - split: 3
-    text: "泠香坞"
-    translated: "Cold Fragrance Cove"
+    text: "十二连环坞"
+    translated: "Twelve‑linked Fortress"
 - raw: "422#2101#55217#黑沙寨#0#0#0#16#1016#"
   splits:
   - split: 3
@@ -2098,11 +2098,11 @@
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "476#2102#55216#泠香坞#0#0#0#20#1020#"
+- raw: "476#2102#55216#十二连环坞#0#0#0#20#1020#"
   splits:
   - split: 3
-    text: "泠香坞"
-    translated: "Cold Fragrance Cove"
+    text: "十二连环坞"
+    translated: "Twelve‑linked Fortress"
 - raw: "477#2102#55217#黑沙寨#0#0#0#16#1016#"
   splits:
   - split: 3
@@ -2308,11 +2308,11 @@
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "525#2103#55216#泠香坞#0#0#0#20#1020#"
+- raw: "525#2103#55216#十二连环坞#0#0#0#20#1020#"
   splits:
   - split: 3
-    text: "泠香坞"
-    translated: "Cold Fragrance Cove"
+    text: "十二连环坞"
+    translated: "Twelve‑linked Fortress"
 - raw: "526#2103#55217#黑沙寨#0#0#0#16#1016#"
   splits:
   - split: 3
@@ -2528,11 +2528,11 @@
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "575#2104#55216#泠香坞#0#0#0#20#1020#"
+- raw: "575#2104#55216#十二连环坞#0#0#0#20#1020#"
   splits:
   - split: 3
-    text: "泠香坞"
-    translated: "Cold Fragrance Cove"
+    text: "十二连环坞"
+    translated: "Twelve‑linked Fortress"
 - raw: "576#2104#55217#黑沙寨#0#0#0#16#1016#"
   splits:
   - split: 3
@@ -2808,11 +2808,11 @@
   - split: 3
     text: "朔海派"
     translated: "North Sea Sect"
-- raw: "637#2105#55216#泠香坞###0#2#1002#"
+- raw: "637#2105#55216#十二连环坞###0#2#1002#"
   splits:
   - split: 3
-    text: "泠香坞"
-    translated: "Cold Fragrance Cove"
+    text: "十二连环坞"
+    translated: "Twelve‑linked Fortress"
 - raw: "638#2105#55217#黑沙寨###0#14#1014#"
   splits:
   - split: 3
@@ -3033,11 +3033,11 @@
   - split: 3
     text: "朔海派"
     translated: "North Sea Sect"
-- raw: "687#2106#55216#泠香坞###0#5#1005#"
+- raw: "687#2106#55216#十二连环坞###0#5#1005#"
   splits:
   - split: 3
-    text: "泠香坞"
-    translated: "Cold Fragrance Cove"
+    text: "十二连环坞"
+    translated: "Twelve‑linked Fortress"
 - raw: "688#2106#55217#黑沙寨###0#17#1017#"
   splits:
   - split: 3
@@ -3248,11 +3248,11 @@
   - split: 3
     text: "朔海派"
     translated: "North Sea Sect"
-- raw: "736#2107#55216#泠香坞###0#5#1005#"
+- raw: "736#2107#55216#十二连环坞###0#5#1005#"
   splits:
   - split: 3
-    text: "泠香坞"
-    translated: "Cold Fragrance Cove"
+    text: "十二连环坞"
+    translated: "Twelve‑linked Fortress"
 - raw: "737#2107#55217#黑沙寨###0#17#1017#"
   splits:
   - split: 3
@@ -3423,11 +3423,11 @@
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "777#2092#55216#泠香坞#0#0#0#20#1020#"
+- raw: "777#2092#55216#十二连环坞#0#0#0#20#1020#"
   splits:
   - split: 3
-    text: "泠香坞"
-    translated: "Cold Fragrance Cove"
+    text: "十二连环坞"
+    translated: "Twelve‑linked Fortress"
 - raw: "778#2092#55217#黑沙寨#0#0#0#16#1016#"
   splits:
   - split: 3
@@ -3638,11 +3638,11 @@
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "827#2108#55216#泠香坞#0#0#0#20#1020#"
+- raw: "827#2108#55216#十二连环坞#0#0#0#20#1020#"
   splits:
   - split: 3
-    text: "泠香坞"
-    translated: "Cold Fragrance Cove"
+    text: "十二连环坞"
+    translated: "Twelve‑linked Fortress"
 - raw: "828#2108#55217#黑沙寨#0#0#0#16#1016#"
   splits:
   - split: 3
@@ -3858,11 +3858,11 @@
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "877#2109#55216#泠香坞#0#0#0#20#1020#"
+- raw: "877#2109#55216#十二连环坞#0#0#0#20#1020#"
   splits:
   - split: 3
-    text: "泠香坞"
-    translated: "Cold Fragrance Cove"
+    text: "十二连环坞"
+    translated: "Twelve‑linked Fortress"
 - raw: "878#2109#55217#黑沙寨#0#0#0#16#1016#"
   splits:
   - split: 3
@@ -4083,11 +4083,11 @@
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "928#2110#55216#泠香坞#0#0#0#20#1020#"
+- raw: "928#2110#55216#十二连环坞#0#0#0#20#1020#"
   splits:
   - split: 3
-    text: "泠香坞"
-    translated: "Cold Fragrance Cove"
+    text: "十二连环坞"
+    translated: "Twelve‑linked Fortress"
 - raw: "929#2110#55217#黑沙寨#0#0#0#16#1016#"
   splits:
   - split: 3
@@ -4308,11 +4308,11 @@
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "980#2111#55216#泠香坞#0#0#0#20#1020#"
+- raw: "980#2111#55216#十二连环坞#0#0#0#20#1020#"
   splits:
   - split: 3
-    text: "泠香坞"
-    translated: "Cold Fragrance Cove"
+    text: "十二连环坞"
+    translated: "Twelve‑linked Fortress"
 - raw: "981#2111#55217#黑沙寨#0#0#0#16#1016#"
   splits:
   - split: 3
@@ -4528,11 +4528,11 @@
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "1031#2091#55216#泠香坞#0#0#0#20#1020#"
+- raw: "1031#2091#55216#十二连环坞#0#0#0#20#1020#"
   splits:
   - split: 3
-    text: "泠香坞"
-    translated: "Cold Fragrance Cove"
+    text: "十二连环坞"
+    translated: "Twelve‑linked Fortress"
 - raw: "1032#2091#55217#黑沙寨#0#0#0#16#1016#"
   splits:
   - split: 3
@@ -4738,11 +4738,11 @@
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "1080#2093#55216#泠香坞#0#0#0#20#1020#"
+- raw: "1080#2093#55216#十二连环坞#0#0#0#20#1020#"
   splits:
   - split: 3
-    text: "泠香坞"
-    translated: "Cold Fragrance Cove"
+    text: "十二连环坞"
+    translated: "Twelve‑linked Fortress"
 - raw: "1081#2093#55217#黑沙寨#0#0#0#16#1016#"
   splits:
   - split: 3
@@ -4953,11 +4953,11 @@
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "1130#55201#55216#泠香坞#0#0#0#20#1020#"
+- raw: "1130#55201#55216#十二连环坞#0#0#0#20#1020#"
   splits:
   - split: 3
-    text: "泠香坞"
-    translated: "Cold Fragrance Cove"
+    text: "十二连环坞"
+    translated: "Twelve‑linked Fortress"
 - raw: "1131#55201#55217#黑沙寨#0#0#0#16#1016#"
   splits:
   - split: 3

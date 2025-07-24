@@ -79,22 +79,22 @@
   - split: 8
     text: "打开人物界面，选中武器栏后选择心仪的武器点击装备或替换即可装备。"
     translated: "Open the character interface, select the weapons bar, and then choose your desired weapon. Click on equip or replace to equip it"
-- raw: "21#雁行诀#shangzhuzi.mp4##60.0#0##0.0#部分轻功可以让你在树干上借力踏行，学会雁行诀后靠近树干双击空格即可上树。#"
+- raw: "21#雁行诀#shangzhuzi.mp4##60.0#0##0.0#部分轻功可以让你在树干上借力踏行，学会雁行诀后靠近树干双击跳跃即可上树。#"
   splits:
   - split: 1
     text: "雁行诀"
     translated: "The Art of Geese in Formation"
   - split: 8
-    text: "部分轻功可以让你在树干上借力踏行，学会雁行诀后靠近树干双击空格即可上树。"
-    translated: "Some forms of qinggong allow you to climb trees by using them for support. After mastering the Yanxing Jue, move close to a tree trunk and double‑tap the spacebar to climb up."
-- raw: "22#钓鱼#diaoyu.mp4##60.0#0##0.0#江湖上有很多地方都可以钓鱼，选择鱼竿与鱼饵后，使用空格控制鱼鳔保持在白色区域内一段时间即可成功。#"
+    text: "部分轻功可以让你在树干上借力踏行，学会雁行诀后靠近树干双击跳跃即可上树。"
+    translated: "Some forms of qinggong allow you to use a tree trunk for leverage while moving. After mastering the Yanxing Jue, you can approach a tree trunk and double‑tap to jump onto it."
+- raw: "22#钓鱼#diaoyu.mp4##60.0#0##0.0#江湖上有很多地方都可以钓鱼，选择鱼竿与鱼饵后，控制鱼鳔保持在白色区域内一段时间即可成功。#"
   splits:
   - split: 1
     text: "钓鱼"
     translated: "Fishing"
   - split: 8
-    text: "江湖上有很多地方都可以钓鱼，选择鱼竿与鱼饵后，使用空格控制鱼鳔保持在白色区域内一段时间即可成功。"
-    translated: "On the Jianghu, there are many places where you can fish. Once you've chosen your fishing rod and bait, simply use the spacebar to keep the bobber within the white area for a while, and you'll catch fish successfully."
+    text: "江湖上有很多地方都可以钓鱼，选择鱼竿与鱼饵后，控制鱼鳔保持在白色区域内一段时间即可成功。"
+    translated: "In the Jianghu, there are many places where you can fish. Choose a fishing rod and bait, then control the fish's swim bladder to keep it within the white area for a while to succeed."
 - raw: "23#锻造#duanzao.mp4##60.0#0##0.0#习得相关配方后与锻造台互动可打开锻造界面，选中需要锻造的装备后所需材料和角色精力达到炼制要求后即可炼制。可格外投入#"
   splits:
   - split: 1
@@ -205,22 +205,22 @@
   - split: 8
     text: "打开人物界面，选中武器栏后选择心仪的武器点击装备或替换即可装备。"
     translated: "Open the character interface, select the weapons bar, and then choose your desired weapon. Click on equip or replace to equip it"
-- raw: "121#雁行诀#shangzhuzi.mp4##60.0#0##0.0#部分轻功可以让你在树干上借力踏行，学会雁行诀后靠近树干双击空格即可上树。#"
+- raw: "121#雁行诀#shangzhuzi.mp4##60.0#0##0.0#部分轻功可以让你在树干上借力踏行，学会雁行诀后靠近树干双击跳跃即可上树。#"
   splits:
   - split: 1
     text: "雁行诀"
     translated: "The Art of Geese in Formation"
   - split: 8
-    text: "部分轻功可以让你在树干上借力踏行，学会雁行诀后靠近树干双击空格即可上树。"
-    translated: "Some forms of qinggong allow you to climb trees by using them for support. After mastering the Yanxing Jue, move close to a tree trunk and double‑tap the spacebar to climb up."
-- raw: "122#钓鱼#diaoyu_m.mp4##60.0#0##0.0#江湖上有很多地方都可以钓鱼，选择鱼竿与鱼饵后，使用空格控制鱼鳔保持在白色区域内一段时间即可成功。#"
+    text: "部分轻功可以让你在树干上借力踏行，学会雁行诀后靠近树干双击跳跃即可上树。"
+    translated: "Some forms of qinggong allow you to use a tree trunk for leverage while moving. After mastering the Yanxing Jue, you can approach a tree trunk and double‑tap to jump onto it."
+- raw: "122#钓鱼#diaoyu_m.mp4##60.0#0##0.0#江湖上有很多地方都可以钓鱼，选择鱼竿与鱼饵后，控制鱼鳔保持在白色区域内一段时间即可成功。#"
   splits:
   - split: 1
     text: "钓鱼"
     translated: "Fishing"
   - split: 8
-    text: "江湖上有很多地方都可以钓鱼，选择鱼竿与鱼饵后，使用空格控制鱼鳔保持在白色区域内一段时间即可成功。"
-    translated: "On the Jianghu, there are many places where you can fish. Once you've chosen your fishing rod and bait, simply use the spacebar to keep the bobber within the white area for a while, and you'll catch fish successfully."
+    text: "江湖上有很多地方都可以钓鱼，选择鱼竿与鱼饵后，控制鱼鳔保持在白色区域内一段时间即可成功。"
+    translated: "In the Jianghu, there are many places where you can fish. Choose a fishing rod and bait, then control the fish's swim bladder to keep it within the white area for a while to succeed."
 - raw: "123#锻造#duanzao_m.mp4##60.0#0##0.0#习得相关配方后与锻造台互动可打开锻造界面，选中需要锻造的装备后所需材料和角色精力达到炼制要求后即可炼制。可格外投入#"
   splits:
   - split: 1

@@ -1384,17 +1384,17 @@
   - split: 14
     text: "爻光破晓来，黎明前最暗，新日希望生，心携光明行。"
     translated: "As daybreak emerges from the darkness of dawn, new hope arises with the rising sun, and we walk together with light in our hearts."
-- raw: "137#福兴贵客#1#4#137#1#12#18113|4;54087|2;54074|4#0&95|75125|20#于福兴镖局贡献堂主处累积购买二十次#shopcount/value2#600#20#75125#福兴笑声里，人间善意温，一壶酒共饮，天下皆兄弟。#0#0#3#"
+- raw: "137#连环坞贵客#1#4#137#1#12#18113|4;54087|2;54074|4#0&95|75125|20#于十二连环坞贡献堂主处累积购买二十次#shopcount/value2#600#20#75125#连环坞笑声里，人间善意温，一壶酒共饮，天下皆兄弟。#0#0#3#"
   splits:
   - split: 1
-    text: "福兴贵客"
-    translated: "Esteemed Guest, Mr. Fu Xing"
+    text: "连环坞贵客"
+    translated: "Guest of Honor at the Secret Society Headquarters"
   - split: 9
-    text: "于福兴镖局贡献堂主处累积购买二十次"
-    translated: "Accumulated twenty purchases at the Contributions Hall Master of the Great Prosperity Escort Agency."
+    text: "于十二连环坞贡献堂主处累积购买二十次"
+    translated: "Accumulate 20 purchases at the Contribution Hall Master of the Twelve‑linked Fortress."
   - split: 14
-    text: "福兴笑声里，人间善意温，一壶酒共饮，天下皆兄弟。"
-    translated: "In the laughter of Fu Xing, there was the warmth of goodwill in the world; with a pot of wine shared among us all, everyone is like brothers."
+    text: "连环坞笑声里，人间善意温，一壶酒共饮，天下皆兄弟。"
+    translated: "In the laughter of the reed hut, there is a warmth of goodwill in the mortal world. Sharing a pot of wine together makes all under heaven brothers."
 - raw: "138#云川贵客#1#4#138#1#12#18113|4;54092|2;54074|4#0&95|75129|20#于云川镖局贡献堂主处累积购买二十次#shopcount/value2#600#20#75129#云川水悠悠，漂泊自有路，身随清流去，心如其水清。#0#0#3#"
   splits:
   - split: 1

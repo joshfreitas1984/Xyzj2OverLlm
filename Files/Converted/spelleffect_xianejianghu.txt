@@ -38490,7 +38490,7 @@
   - split: 33
     text: "自身对目标施加的内伤叠加上限层数+8"
     translated: "The number of layers for internal injury stacking inflicted by oneself on the target is limited to +8."
-- raw: "100500180#长生诀-天人合一#1#2#0#1#0#5000#0#0#0#0#0#0#0#0#10000#0#0#0#2#0#0#30000#0#0#5##0#1#0#0#天人合一#天人合一：每5秒回复自身根骨*3气血，元气*3的真气；每次攻击时，回复自身5%已损失气血，调息15秒；自身获得的治疗效果增加25%；当自身血量低于5%且未死亡时，获得90%伤害减免，持续10秒，调息90秒#buffnew_yybjue#0#0#100500180#0#0#0#0#0#100500180##0#0#0#0.0#0.0###"
+- raw: "100500180#长生诀-天人合一#1#2#0#1#0#5000#0#0#0#0#0#0#0#0#10000#0#0#0#2#0#0#30000#0#0#5##0#1#0#0#天人合一#每5秒回复自身根骨*3气血，元气*3的真气；每次攻击时，回复自身5%已损失气血，调息15秒；自身获得的治疗效果增加25%；当自身血量低于5%且未死亡时，获得90%伤害减免，持续10秒，调息90秒#buffnew_yybjue#0#0#100500180#0#0#0#0#0#100500180##0#0#0#0.0#0.0###"
   splits:
   - split: 1
     text: "长生诀-天人合一"
@@ -38499,8 +38499,8 @@
     text: "天人合一"
     translated: "Tian Ren He Yi"
   - split: 33
-    text: "天人合一：每5秒回复自身根骨*3气血，元气*3的真气；每次攻击时，回复自身5%已损失气血，调息15秒；自身获得的治疗效果增加25%；当自身血量低于5%且未死亡时，获得90%伤害减免，持续10秒，调息90秒"
-    translated: "Tian Ren He Yi: Every 5 seconds, restore your potential with *3 lifeforce and vitality; recover *3% of your true qi. Upon attacking, heal yourself by 5% of lost lifeforce and meditate for 15 seconds. Increase the effectiveness of healing received by 25%. When your lifeforce is below 5% but you are not dead, gain 90% damage reduction lasting 10 seconds and meditate for 90 seconds."
+    text: "每5秒回复自身根骨*3气血，元气*3的真气；每次攻击时，回复自身5%已损失气血，调息15秒；自身获得的治疗效果增加25%；当自身血量低于5%且未死亡时，获得90%伤害减免，持续10秒，调息90秒"
+    translated: "Every 5 second, restore personal potential*3 lifeforce, vitality*3 of true qi; on each attack, recover 5% of lost lifeforce and rest for 15 seconds; increase healing effects received by 25%; when personal lifeforce is below 5% and not dead, gain 90% damage reduction lasting 10 seconds and rest for 90 seconds."
 - raw: "100500181#长生诀-天人合一#1#3#0#1#0#5000#0#0#0#0#0#0#0#0#10000#0#0#0#2#0#0#30000#0#0#4##0#1#0#0#0#0#0#0#0#100500181#0#0#0#0#0#100500181##0#0#0#0.0#0.0###"
   splits:
   - split: 1

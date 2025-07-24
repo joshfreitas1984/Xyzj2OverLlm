@@ -1460,7 +1460,7 @@
   - split: 20
     text: "仁心仁术，救死扶伤，枰栌百姓，健康有保障。"
     translated: "Compassionate heart and skill, saving the dying and aiding the injured; the people of Pinglu are assured health and safety."
-- raw: "4016#淮陵-码头#10#30#96054#KONG#77019#64#8#480##2#9#720#2#1#1##0#MaTou#淮水悠悠，码头繁忙，船只如梭，货运畅通无阻。#2#"
+- raw: "4016#淮陵-码头#10#30#96059#KONG#77019#64#8#480##2#9#720#2#1#1##0#MaTou#淮水悠悠，码头繁忙，船只如梭，货运畅通无阻。#2#"
   splits:
   - split: 1
     text: "淮陵-码头"
@@ -1468,7 +1468,7 @@
   - split: 20
     text: "淮水悠悠，码头繁忙，船只如梭，货运畅通无阻。"
     translated: "The Huai River flows smoothly, the port is bustling with activity, boats dart back and forth like shuttles, ensuring that cargo moves freely without obstruction."
-- raw: "4017#淮陵-盐场#10#31#96055#KONG#77019#64#8#480##2#10#300#2#1#1##0#YanChang#淮盐名扬四海，盐田广阔无垠，工人辛勤劳作。#2#"
+- raw: "4017#淮陵-盐场#10#31#96060#KONG#77019#64#8#480##2#10#300#2#1#1##0#YanChang#淮盐名扬四海，盐田广阔无垠，工人辛勤劳作。#2#"
   splits:
   - split: 1
     text: "淮陵-盐场"
@@ -1476,7 +1476,7 @@
   - split: 20
     text: "淮盐名扬四海，盐田广阔无垠，工人辛勤劳作。"
     translated: "Salt from Huaiyang is renowned across the seas, with vast and boundless salt fields where workers toil diligently"
-- raw: "4018#淮陵-酒楼#10#26#96056#KONG#77019#64#8#480##2#8#960#2#1#1##0#JiuLou#淮扬美食，色香味俱佳，宾朋相聚，共赏淮陵风光。#2#"
+- raw: "4018#淮陵-酒楼#10#26#96061#KONG#77019#64#8#480##2#8#960#2#1#1##0#JiuLou#淮扬美食，色香味俱佳，宾朋相聚，共赏淮陵风光。#2#"
   splits:
   - split: 1
     text: "淮陵-酒楼"
@@ -1484,7 +1484,7 @@
   - split: 20
     text: "淮扬美食，色香味俱佳，宾朋相聚，共赏淮陵风光。"
     translated: "Huaiyang cuisine is beautiful in color, aroma, and flavor. Friends gather to enjoy the scenic views of Huailing together."
-- raw: "4019#淮陵-青楼#10#25#96057#KONG#77019#64#8#480##2#8#960#2#1#1##0#QinLou#淮陵佳人，才情出众，歌舞翩翩，令人陶醉不已。#2#"
+- raw: "4019#淮陵-青楼#10#25#96062#KONG#77019#64#8#480##2#8#960#2#1#1##0#QinLou#淮陵佳人，才情出众，歌舞翩翩，令人陶醉不已。#2#"
   splits:
   - split: 1
     text: "淮陵-青楼"
@@ -1492,7 +1492,7 @@
   - split: 20
     text: "淮陵佳人，才情出众，歌舞翩翩，令人陶醉不已。"
     translated: "The lady from Huailing is remarkably talented, exuding grace in her singing and dancing that captivates everyone completely."
-- raw: "4020#淮陵-医馆#10#27#96058#KONG#77019#64#8#480##2#9#720#2#1#1##0#YiGuan#医术高超，药到病除，淮陵百姓，安康无忧。#2#"
+- raw: "4020#淮陵-医馆#10#27#96063#KONG#77019#64#8#480##2#9#720#2#1#1##0#YiGuan#医术高超，药到病除，淮陵百姓，安康无忧。#2#"
   splits:
   - split: 1
     text: "淮陵-医馆"

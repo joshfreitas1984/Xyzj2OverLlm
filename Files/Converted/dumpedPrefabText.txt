@@ -122,6 +122,14 @@
   splits:
   - text: "总成就："
     translated: "Total Accomplishments:"
+- raw: "身轻如燕是"
+  splits:
+  - text: "身轻如燕是"
+    translated: "To be light as a swallow"
+- raw: "百战身未败， 剑光寒过霜。独行谁与敌，发生大萨达大叔大婶大叔大婶大叔大婶大啊大大"
+  splits:
+  - text: "百战身未败， 剑光寒过霜。独行谁与敌，发生大萨达大叔大婶大叔大婶大叔大婶大啊大大"
+    translated: "Unbeaten in a hundred battles, his swordlight colder than frost. Who dares oppose him when he walks alone? A great conflict arises with Uncle and Aunt! Oh dear, what's happening!"
 - raw: "获得声望："
   splits:
   - text: "获得声望："
@@ -930,10 +938,10 @@
   splits:
   - text: "体魄体魄"
     translated: "Resilience. Resilience."
-- raw: "当生命降低到1时，不会受到伤害，当生命降低到1时，不会受到伤害，当生命降低到1时，不会受到伤害，"
+- raw: "当生命降低到1时，不会受到伤害，当生命降低到1时，不会受到伤害，当生命降低到1时，不会受到伤害，dasdasdasdasdasdasdasdsadasdasdasds"
   splits:
-  - text: "当生命降低到1时，不会受到伤害，当生命降低到1时，不会受到伤害，当生命降低到1时，不会受到伤害，"
-    translated: "When health is reduced to 1, no damage will be taken; when health is reduced to 1, no damage will be taken; when health is reduced to 1, no damage will be taken."
+  - text: "当生命降低到1时，不会受到伤害，当生命降低到1时，不会受到伤害，当生命降低到1时，不会受到伤害，dasdasdasdasdasdasdasdsadasdasdasds"
+    translated: "When health is lowered to 1, they will not be damaged; when it is lowered to 1, they will not be damaged; when it is lowered to 1, they will not be damaged. dasdasdasdasdasdasdasdsadasdasdasds"
 - raw: "特殊效果"
   splits:
   - text: "特殊效果"
@@ -1154,6 +1162,10 @@
   splits:
   - text: "内攻："
     translated: "Internal Attack:"
+- raw: "当生命降低到1时，不会受到伤害，当生命降低到1时，不会受到伤害，当生命降低到1时，不会受到伤害，"
+  splits:
+  - text: "当生命降低到1时，不会受到伤害，当生命降低到1时，不会受到伤害，当生命降低到1时，不会受到伤害，"
+    translated: "When health is reduced to 1, no damage will be taken; when health is reduced to 1, no damage will be taken; when health is reduced to 1, no damage will be taken."
 - raw: "境界属性"
   splits:
   - text: "境界属性"
@@ -1330,10 +1342,6 @@
   splits:
   - text: "退出游戏"
     translated: "Exit game"
-- raw: "金刚枪"
-  splits:
-  - text: "金刚枪"
-    translated: "Vajra spear"
 - raw: "品质:随机"
   splits:
   - text: "品质:随机"
@@ -1342,6 +1350,10 @@
   splits:
   - text: "1~2阶"
     translated: "Level 1 to 2"
+- raw: "至尊皇帝炒饭"
+  splits:
+  - text: "至尊皇帝炒饭"
+    translated: "Emperor Supreme's Fried Rice"
 - raw: "未得的配方"
   splits:
   - text: "未得的配方"
@@ -1490,6 +1502,10 @@
   splits:
   - text: "废话不多说，现在材料也足够，就直接开始制作吧。"
     translated: "No need to dwell on it; we have enough materials now, so let's start making it right away."
+- raw: "金刚枪"
+  splits:
+  - text: "金刚枪"
+    translated: "Vajra spear"
 - raw: "未获得配方"
   splits:
   - text: "未获得配方"
@@ -1738,14 +1754,14 @@
   splits:
   - text: "时长："
     translated: "Duration:"
-- raw: "坐标:"
+- raw: "难度："
   splits:
-  - text: "坐标:"
-    translated: "Coordinates:"
-- raw: "存档时间："
+  - text: "难度："
+    translated: "Difficulty:"
+- raw: "真实江湖·武道宗师 (困难)"
   splits:
-  - text: "存档时间："
-    translated: "Archive timestamp:"
+  - text: "真实江湖·武道宗师 (困难)"
+    translated: "Authentic Jianghu · Grandmaster (Hard)"
 - raw: "版本."
   splits:
   - text: "版本."
@@ -1766,14 +1782,14 @@
   splits:
   - text: "云存储"
     translated: "Cloud storage"
-- raw: "难度："
+- raw: "坐标:"
   splits:
-  - text: "难度："
-    translated: "Difficulty:"
-- raw: "一代宗师"
+  - text: "坐标:"
+    translated: "Coordinates:"
+- raw: "存档时间："
   splits:
-  - text: "一代宗师"
-    translated: "Sage of an Era"
+  - text: "存档时间："
+    translated: "Archive timestamp:"
 - raw: "一键上传"
   splits:
   - text: "一键上传"
@@ -1826,10 +1842,18 @@
   splits:
   - text: "读取"
     translated: "Read"
+- raw: "真实江湖·武道宗师(围难)"
+  splits:
+  - text: "真实江湖·武道宗师(围难)"
+    translated: "Authentic Jianghu · Grandmaster (Rescuing in Peril)"
 - raw: "云存档："
   splits:
   - text: "云存档："
     translated: "Cloud Storage:"
+- raw: "一代宗师"
+  splits:
+  - text: "一代宗师"
+    translated: "Sage of an Era"
 - raw: "切换账号"
   splits:
   - text: "切换账号"
@@ -2675,6 +2699,14 @@
   splits:
   - text: "剩余石阵"
     translated: "Remaining Stone Array"
+- raw: "光源：点击屏幕右下角的上下左右来移动。"
+  splits:
+  - text: "光源：点击屏幕右下角的上下左右来移动。"
+    translated: "Source of Light: Tap on the upper right corner of the screen to move up, down, left, or right."
+- raw: "按下右键控制光源进入左方向石从而消除火石阵。\\n"
+  splits:
+  - text: "按下右键控制光源进入左方向石从而消除火石阵。\\n"
+    translated: "Hold down the right‑click to control the light source, move it towards the left stone, and eliminate the fire gem formation.\\n"
 - raw: "执行"
   splits:
   - text: "执行"
@@ -3979,26 +4011,58 @@
   splits:
   - text: "回顾推理"
     translated: "Reflect on the reasoning"
+- raw: "蛇的尾巴"
+  splits:
+  - text: "蛇的尾巴"
+    translated: "Tail of a snake"
+- raw: "捕杀的经过不是人为的"
+  splits:
+  - text: "捕杀的经过不是人为的"
+    translated: "The circumstances of the capture and killing were not man‑made."
+- raw: "调整"
+  splits:
+  - text: "调整"
+    translated: "Adjustment"
+- raw: "验证"
+  splits:
+  - text: "验证"
+    translated: "Verification"
+- raw: "推理整合"
+  splits:
+  - text: "推理整合"
+    translated: "Integrating reasoning"
 - raw: "思考中......"
   splits:
   - text: "思考中......"
     translated: "Thinking..."
-- raw: "带毒的腰带"
-  splits:
-  - text: "带毒的腰带"
-    translated: "Poisoned belt"
 - raw: "解密盘"
   splits:
   - text: "解密盘"
     translated: "Decoding disk"
-- raw: "解密盘知晓世间万物，选择<color=#ecc872>两个一组</color>的证词或线索进行验证，若推论正确，则会触发结果"
+- raw: "选择两个一组的证词或显示进行验证，若推理正确，则会触发结果"
   splits:
-  - text: "解密盘知晓世间万物，选择<color=#ecc872>两个一组</color>的证词或线索进行验证，若推论正确，则会触发结果"
-    translated: "The decryption disk knows the secrets of all things. Choose <color=#ecc872>two at a time</color> from testimonies or clues for verification. If your inference is correct, it will trigger a result."
+  - text: "选择两个一组的证词或显示进行验证，若推理正确，则会触发结果"
+    translated: "Choose two pieces of evidence or displays at a time for verification; if your reasoning is correct, it will trigger a result."
+- raw: "选择线索"
+  splits:
+  - text: "选择线索"
+    translated: "Choose a clue"
+- raw: "带毒的腰带"
+  splits:
+  - text: "带毒的腰带"
+    translated: "Poisoned belt"
+- raw: "选择证词"
+  splits:
+  - text: "选择证词"
+    translated: "Choose Testimony"
 - raw: "退出思考"
   splits:
   - text: "退出思考"
     translated: "Exit thought"
+- raw: "点击推理整合按钮可以对已有的线索和证词进行推理。"
+  splits:
+  - text: "点击推理整合按钮可以对已有的线索和证词进行推理。"
+    translated: "Clicking the inference integration button allows you to reason through existing clues and testimonies."
 - raw: "经脉，乃人体之根本，武学之根基。激活经脉点位既可获得<color=#3ad67c>属性提升</color>，也可作为日后<color=#3ad67c>修炼武学</color>所用。请选中需要进行激活的<color=#3ad67c>渊腋</color>经脉点位。"
   splits:
   - text: "经脉，乃人体之根本，武学之根基。激活经脉点位既可获得<color=#3ad67c>属性提升</color>，也可作为日后<color=#3ad67c>修炼武学</color>所用。请选中需要进行激活的<color=#3ad67c>渊腋</color>经脉点位。"
@@ -5299,6 +5363,10 @@
   splits:
   - text: "展开"
     translated: "Unfold"
+- raw: "生效中"
+  splits:
+  - text: "生效中"
+    translated: "In effect"
 - raw: "[吸星]"
   splits:
   - text: "[吸星]"
@@ -5707,10 +5775,26 @@
   splits:
   - text: "经脉加点"
     translated: "Acupuncture points on meridians"
+- raw: "影响角色的攻击"
+  splits:
+  - text: "影响角色的攻击"
+    translated: "Character's attack influence"
 - raw: "炎鸿"
   splits:
   - text: "炎鸿"
     translated: "Huo Yan"
+- raw: "查看详情"
+  splits:
+  - text: "查看详情"
+    translated: "View details"
+- raw: "激活："
+  splits:
+  - text: "激活："
+    translated: "Activate:"
+- raw: "任脉(5/5)"
+  splits:
+  - text: "任脉(5/5)"
+    translated: "Ren Mai (5/5)"
 - raw: "需运行对应主或副功法的同时连线对应经脉点就可以激活对应周天运行效果"
   splits:
   - text: "需运行对应主或副功法的同时连线对应经脉点就可以激活对应周天运行效果"
@@ -5731,10 +5815,6 @@
   splits:
   - text: "需打通以下经脉才可激活"
     translated: "The following meridians must be unblocked to activate it."
-- raw: "武学功法"
-  splits:
-  - text: "武学功法"
-    translated: "Wuxia martial arts techniques"
 - raw: "冥王"
   splits:
   - text: "冥王"
@@ -5895,6 +5975,10 @@
   splits:
   - text: "长生剑fdasdasd"
     translated: "Changsheng Jian Fadasd"
+- raw: "武学功法"
+  splits:
+  - text: "武学功法"
+    translated: "Wuxia martial arts techniques"
 - raw: "提升境界"
   splits:
   - text: "提升境界"
@@ -6351,6 +6435,10 @@
   splits:
   - text: "师妹"
     translated: "Junior Sister"
+- raw: "输入姓名查找"
+  splits:
+  - text: "输入姓名查找"
+    translated: "Input name to search"
 - raw: "信友"
   splits:
   - text: "信友"
@@ -6948,6 +7036,10 @@
   splits:
   - text: "处决"
     translated: "Execution"
+- raw: "返回菜单"
+  splits:
+  - text: "返回菜单"
+    translated: "Return to menu"
 - raw: "内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容"
   splits:
   - text: "内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容"
@@ -7680,6 +7772,10 @@
   splits:
   - text: " 装备"
     translated: "Equipment."
+- raw: "刀者刀者"
+  splits:
+  - text: "刀者刀者"
+    translated: "Blade is blade"
 - raw: "编队"
   splits:
   - text: "编队"
@@ -8140,6 +8236,10 @@
   splits:
   - text: "随机获得一条属性"
     translated: "Receive a random attribute"
+- raw: "消耗：        10000"
+  splits:
+  - text: "消耗：        10000"
+    translated: "Expenditure:         10000"
 - raw: "成功率：    <size=40>90%</size>"
   splits:
   - text: "成功率：    <size=40>90%</size>"
@@ -8148,6 +8248,10 @@
   splits:
   - text: "化境"
     translated: "Transcendent"
+- raw: "提升条件："
+  splits:
+  - text: "提升条件："
+    translated: "Enhance conditions:"
 - raw: "江湖武林之中群雄乱起，豪杰并出，你将面临各个强者生存下去"
   splits:
   - text: "江湖武林之中群雄乱起，豪杰并出，你将面临各个强者生存下去"

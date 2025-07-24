@@ -1,4 +1,4 @@
-- raw: "1#百战不败#1#7#1#1#9#60015|2;60004|2;54506|3#0&83|100#累计击败一百人#killcount/value2#200#100#0#百战场中立，不败誉遍地。身如旧日松，剑气斩云起。#0#0#1#"
+- raw: "1#百战不败#1#3#1#1#9#60015|2;60004|2;54506|3#0&83|100#累计击败一百人#killcount/value2#200#100#0#百战场中立，不败誉遍地。身如旧日松，剑气斩云起。#0#0#1#"
   splits:
   - split: 1
     text: "百战不败"
@@ -537,7 +537,7 @@
   - split: 14
     text: "富贵命中定，不可挡天意。江湖行乐处，金银不换笑。"
     translated: "Prosperity and fate are predetermined; they cannot be blocked by human will. In the world of Jianghu, joy is more valuable than gold or silver."
-- raw: "58#机杼传承#1#3#58#1#5#18097|3;18113|3;54516|2#0&24|1|1#达成机杼墨师身份，在龙蛇寨附近完成机杼传承##700#0#0#机杼声声急，传承百世业。家传户颂中，织就英雄史。#0#0#4#"
+- raw: "58#机杼传承#1#2#58#1#5#18097|3;18113|3;54516|2#0&24|1|1#达成机杼墨师身份，在龙蛇寨附近完成机杼传承##700#0#0#机杼声声急，传承百世业。家传户颂中，织就英雄史。#0#0#4#"
   splits:
   - split: 1
     text: "机杼传承"
@@ -559,7 +559,7 @@
   - split: 14
     text: "兵家事远古，传承世代新。战策从容立，军威震寰瀛。"
     translated: "The art of war dates back to ancient times, passing from one generation to the next. Strategies are established with calmness and assurance; military might reverberates across the world."
-- raw: "62#飞宇扬轩#1#2#62#1#9#60008|2;18011|2;54442|3#0&18|1|4|50|>=#元气达到50#attri|4/value2#200#50#0#飞跃宇内外，扬名四海间。轩辕传奇事，气贯长虹穿。#0#0#1#"
+- raw: "62#飞宇扬轩#1#3#62#1#9#60008|2;18011|2;54442|3#0&18|1|4|50|>=#元气达到50#attri|4/value2#200#50#0#飞跃宇内外，扬名四海间。轩辕传奇事，气贯长虹穿。#0#0#1#"
   splits:
   - split: 1
     text: "飞宇扬轩"
@@ -823,7 +823,7 @@
   - split: 14
     text: "澄心净尘埃，悟透道法真。一念执着断，万法自然亲。"
     translated: "Cheng Xin clears away the dust and dirt, understanding the true principles of Dao. When attachment is severed with a single thought, all things naturally become harmonious."
-- raw: "86#冥冥幽影#1#3#86#1#9#60015|2;45007|1;54442|3#0&18|1|28|50|>=#阴达到50#attri|28/value2#200#50#0#冥冥中幽影，隐隐透光明。步入未知境，探索道心灵。#0#0#1#"
+- raw: "86#冥冥幽影#1#3#86#1#9#60015|2;54442|3#0&18|1|28|50|>=#阴达到50#attri|28/value2#200#50#0#冥冥中幽影，隐隐透光明。步入未知境，探索道心灵。#0#0#1#"
   splits:
   - split: 1
     text: "冥冥幽影"
@@ -834,7 +834,7 @@
   - split: 14
     text: "冥冥中幽影，隐隐透光明。步入未知境，探索道心灵。"
     translated: "In the unseen depths, shadows faintly reveal a glimmer of light. Stepping into unknown realms, exploring the spirit of the Way."
-- raw: "87#深邃玄妙#1#3#86#2#9#60016|2;45008|1;54443|3#0&18|1|28|100|>=#阴达到100#attri|28/value2#300#100#0#深邃法界内，玄妙道无穷。修炼得真意，身心合宇宙。#0#0#1#"
+- raw: "87#深邃玄妙#1#3#86#2#9#60016|2;54443|3#0&18|1|28|100|>=#阴达到100#attri|28/value2#300#100#0#深邃法界内，玄妙道无穷。修炼得真意，身心合宇宙。#0#0#1#"
   splits:
   - split: 1
     text: "深邃玄妙"
@@ -845,7 +845,7 @@
   - split: 14
     text: "深邃法界内，玄妙道无穷。修炼得真意，身心合宇宙。"
     translated: "Within the profound and mysterious realm of the Dao, its subtleties are boundless. Through cultivation to grasp its true essence, one's body and mind unite with the universe."
-- raw: "88#阴秘莫测#1#3#86#3#9#60017|2;45009|1;54444|3#0&18|1|28|150|>=#阴达到150#attri|28/value2#400#150#0#阴谋深不测，秘法掌中藏。夜行服隐身，踪影化为光。#0#0#2#"
+- raw: "88#阴秘莫测#1#3#86#3#9#60017|2;54444|3#0&18|1|28|150|>=#阴达到150#attri|28/value2#400#150#0#阴谋深不测，秘法掌中藏。夜行服隐身，踪影化为光。#0#0#2#"
   splits:
   - split: 1
     text: "阴秘莫测"
@@ -856,7 +856,7 @@
   - split: 14
     text: "阴谋深不测，秘法掌中藏。夜行服隐身，踪影化为光。"
     translated: "The conspiracy is unfathomable deep; the secret technique lies in the palm. Wearing a cloak of invisibility at night, their shadow transforms into light."
-- raw: "89#阳明之志#1#3#89#1#9#60008|2;45017|1;54514|3#0&18|1|29|50|>=#阳达到50#attri|29/value2#200#50#0#阳明心中志，照耀似日光。坚定步前行，道路任我行。#0#0#1#"
+- raw: "89#阳明之志#1#3#89#1#9#60008|2;54514|3#0&18|1|29|50|>=#阳达到50#attri|29/value2#200#50#0#阳明心中志，照耀似日光。坚定步前行，道路任我行。#0#0#1#"
   splits:
   - split: 1
     text: "阳明之志"
@@ -867,7 +867,7 @@
   - split: 14
     text: "阳明心中志，照耀似日光。坚定步前行，道路任我行。"
     translated: "In my heart shines a resolute will, like the brightness of sunlight. With unwavering steps, I proceed forward; on this path, I move as I please."
-- raw: "90#曦光璀璨#1#3#89#2#9#60009|2;45018|1;54515|3#0&18|1|29|100|>=#阳达到100#attri|29/value2#300#100#0#曦光初照地，璀璨万里天。心向往高远，身随曦光前。#0#0#1#"
+- raw: "90#曦光璀璨#1#3#89#2#9#60009|2;54515|3#0&18|1|29|100|>=#阳达到100#attri|29/value2#300#100#0#曦光初照地，璀璨万里天。心向往高远，身随曦光前。#0#0#1#"
   splits:
   - split: 1
     text: "曦光璀璨"
@@ -878,7 +878,7 @@
   - split: 14
     text: "曦光初照地，璀璨万里天。心向往高远，身随曦光前。"
     translated: "As dawn's light first illuminates the earth and the sky shines brightly for miles, my heart yearns for distant heights while I follow in the path of the morning sun."
-- raw: "91#火凤扬羽#1#3#89#3#9#60010|2;45019|1;54516|3#0&18|1|29|150|>=#阳达到150#attri|29/value2#400#150#0#火凤展翅飞，扬羽灿苍穹。浴火重生后，霞光满天空。#0#0#2#"
+- raw: "91#火凤扬羽#1#3#89#3#9#60010|2;54516|3#0&18|1|29|150|>=#阳达到150#attri|29/value2#400#150#0#火凤展翅飞，扬羽灿苍穹。浴火重生后，霞光满天空。#0#0#2#"
   splits:
   - split: 1
     text: "火凤扬羽"
@@ -889,7 +889,7 @@
   - split: 14
     text: "火凤展翅飞，扬羽灿苍穹。浴火重生后，霞光满天空。"
     translated: "The Phoenix spreads its wings and flies, its feathers glistening across the azure sky. After rebirth from flames, radiant colors fill the heavens."
-- raw: "92#傲骨铁脊#1#3#92#1#9#60004|2;45027|1;60009|3#0&18|1|30|50|>=#刚达到50#attri|30/value2#200#50#0#傲骨立云端，铁脊负重天。不屈任风霜，英气十方显。#0#0#1#"
+- raw: "92#傲骨铁脊#1#3#92#1#9#60004|2;60009|3#0&18|1|30|50|>=#刚达到50#attri|30/value2#200#50#0#傲骨立云端，铁脊负重天。不屈任风霜，英气十方显。#0#0#1#"
   splits:
   - split: 1
     text: "傲骨铁脊"
@@ -900,7 +900,7 @@
   - split: 14
     text: "傲骨立云端，铁脊负重天。不屈任风霜，英气十方显。"
     translated: "Pride stands tall in the clouds; an iron backbone bears the weight of the sky. Unyielding to winds and frost, their indomitable spirit shines forth in all directions."
-- raw: "93#霸道威仪#1#3#92#2#9#60103|2;45028|1;60009|3#0&18|1|30|100|>=#刚达到100#attri|30/value2#300#100#0#霸道行世间，威仪震四方。手持断云剑，仗义斩邪浪。#0#0#1#"
+- raw: "93#霸道威仪#1#3#92#2#9#60103|2;60009|3#0&18|1|30|100|>=#刚达到100#attri|30/value2#300#100#0#霸道行世间，威仪震四方。手持断云剑，仗义斩邪浪。#0#0#1#"
   splits:
   - split: 1
     text: "霸道威仪"
@@ -911,7 +911,7 @@
   - split: 14
     text: "霸道行世间，威仪震四方。手持断云剑，仗义斩邪浪。"
     translated: "Dominating the world with an imposing presence, his authority reverberates in all directions. With the sword Duan Yun in hand, he cuts down waves of evil to uphold righteousness."
-- raw: "94#钢铁之躯#1#3#92#3#9#60104|2;45029|1;60009|3#0&18|1|30|150|>=#刚达到150#attri|30/value2#400#150#0#身披钢铁甲，之躯不可破。铁血真英雄，江湖留传说。#0#0#2#"
+- raw: "94#钢铁之躯#1#3#92#3#9#60104|2;60009|3#0&18|1|30|150|>=#刚达到150#attri|30/value2#400#150#0#身披钢铁甲，之躯不可破。铁血真英雄，江湖留传说。#0#0#2#"
   splits:
   - split: 1
     text: "钢铁之躯"
@@ -922,7 +922,7 @@
   - split: 14
     text: "身披钢铁甲，之躯不可破。铁血真英雄，江湖留传说。"
     translated: "Clad in iron armor, his body is impenetrable. The true hero of iron blood, a legend to be passed down in the Jianghu."
-- raw: "95#踏歌而行#1#3#95#1#9#60008|2;45037|1;18412|3#0&18|1|31|50|>=#柔达到50#attri|31/value2#200#50#0#踏歌行江湖，而行无拘束。心随乐声动，自在风云录。#0#0#1#"
+- raw: "95#踏歌而行#1#3#95#1#9#60008|2;18412|3#0&18|1|31|50|>=#柔达到50#attri|31/value2#200#50#0#踏歌行江湖，而行无拘束。心随乐声动，自在风云录。#0#0#1#"
   splits:
   - split: 1
     text: "踏歌而行"
@@ -933,7 +933,7 @@
   - split: 14
     text: "踏歌行江湖，而行无拘束。心随乐声动，自在风云录。"
     translated: "Wandering the Jianghu with music in my step, free from any restraints. My heart moves to the rhythm of joy, writing its own free‑spirited tale among clouds and winds."
-- raw: "96#淡雅如烟#1#3#95#2#9#60009|2;45038|1;18413|3#0&18|1|31|100|>=#柔达到100#attri|31/value2#300#100#0#淡雅心自然，如烟逝水边。无欲则刚强，剑舞出尘烟。#0#0#1#"
+- raw: "96#淡雅如烟#1#3#95#2#9#60009|2;18413|3#0&18|1|31|100|>=#柔达到100#attri|31/value2#300#100#0#淡雅心自然，如烟逝水边。无欲则刚强，剑舞出尘烟。#0#0#1#"
   splits:
   - split: 1
     text: "淡雅如烟"
@@ -944,7 +944,7 @@
   - split: 14
     text: "淡雅心自然，如烟逝水边。无欲则刚强，剑舞出尘烟。"
     translated: "A gentle heart is naturally tranquil, like mist by the edge of fleeting waters. Without desire, one becomes strong; the sword dances out from the dust and smoke."
-- raw: "97#逸群绝伦#1#3#95#3#9#60010|2;45039|1;18414|3#0&18|1|31|150|>=#柔达到150#attri|31/value2#400#150#0#逸出凡尘群，绝伦独自行。步履超尘埃，羽扇纶巾情。#0#0#2#"
+- raw: "97#逸群绝伦#1#3#95#3#9#60010|2;18414|3#0&18|1|31|150|>=#柔达到150#attri|31/value2#400#150#0#逸出凡尘群，绝伦独自行。步履超尘埃，羽扇纶巾情。#0#0#2#"
   splits:
   - split: 1
     text: "逸群绝伦"
@@ -955,7 +955,7 @@
   - split: 14
     text: "逸出凡尘群，绝伦独自行。步履超尘埃，羽扇纶巾情。"
     translated: "Escaping the mundane world, unmatched and walking alone; stepping above dust and dirt, with a feather fan and silk scarf conveying sentiment."
-- raw: "98#明智御阴#1#3#98#1#9#60015|2;46007|1;54442|3#0&18|1|32|50|>=#毒达到50#attri|32/value2#200#50#0#明智破幽暗，御阴见光明。策略超凡入，智慧定乾坤。#0#0#1#"
+- raw: "98#明智御阴#1#3#98#1#9#60015|2;54442|3#0&18|1|32|50|>=#毒达到50#attri|32/value2#200#50#0#明智破幽暗，御阴见光明。策略超凡入，智慧定乾坤。#0#0#1#"
   splits:
   - split: 1
     text: "明智御阴"
@@ -966,7 +966,7 @@
   - split: 14
     text: "明智破幽暗，御阴见光明。策略超凡入，智慧定乾坤。"
     translated: "Wisdom dispels darkness and commands the shadow to reveal light. Strategy transcends the ordinary and dictates the fate of heaven and earth with wisdom."
-- raw: "99#毒焰烈风#1#3#98#2#9#60016|2;46008|1;54443|3#0&18|1|32|100|>=#毒达到100#attri|32/value2#300#100#0#毒焰烧天际，烈风卷地来。一剑扫阴霾，英雄破苍埃。#0#0#1#"
+- raw: "99#毒焰烈风#1#3#98#2#9#60016|2;54443|3#0&18|1|32|100|>=#毒达到100#attri|32/value2#300#100#0#毒焰烧天际，烈风卷地来。一剑扫阴霾，英雄破苍埃。#0#0#1#"
   splits:
   - split: 1
     text: "毒焰烈风"
@@ -977,7 +977,7 @@
   - split: 14
     text: "毒焰烧天际，烈风卷地来。一剑扫阴霾，英雄破苍埃。"
     translated: "Flames of poison scorched the horizon as fierce winds swept across the land. A single sword stroke cleared away the shadows and dust; a hero shattered the grey expanse."
-- raw: "100#蛊眼凝寒#1#3#98#3#9#60017|2;46009|1;54444|3#0&18|1|32|150|>=#毒达到150#attri|32/value2#400#150#0#蛊眼藏秘诀，凝寒霜雪冷。深渊一瞥间，千军万马惊。#0#0#2#"
+- raw: "100#蛊眼凝寒#1#3#98#3#9#60017|2;54444|3#0&18|1|32|150|>=#毒达到150#attri|32/value2#400#150#0#蛊眼藏秘诀，凝寒霜雪冷。深渊一瞥间，千军万马惊。#0#0#2#"
   splits:
   - split: 1
     text: "蛊眼凝寒"
@@ -988,7 +988,7 @@
   - split: 14
     text: "蛊眼藏秘诀，凝寒霜雪冷。深渊一瞥间，千军万马惊。"
     translated: "The secret of the eye‑nectar lies hidden within its depths, chilling like frost and snow. A single glance into the abyss startles thousands of soldiers and ten thousand horses."
-- raw: "101#太初贵客#1#3#101#1#12#54464|4;54516|2;60009|4#0&95|75003|20#于太初剑宗贡献堂主处累积购买二十次#shopcount/value2#600#20#75003#太初界开阔，步云隐仙踪，天地心自宽，洞察尘世空。#0#0#3#"
+- raw: "101#太初贵客#1#4#101#1#12#54464|4;54516|2;60009|4#0&95|75003|20#于太初剑宗贡献堂主处累积购买二十次#shopcount/value2#600#20#75003#太初界开阔，步云隐仙踪，天地心自宽，洞察尘世空。#0#0#3#"
   splits:
   - split: 1
     text: "太初贵客"
@@ -1384,17 +1384,17 @@
   - split: 14
     text: "爻光破晓来，黎明前最暗，新日希望生，心携光明行。"
     translated: "As dawn breaks, the darkest part of the pre‑dawn arrives. As a new day dawns, hope emerges. With hearts carrying light, we move forward."
-- raw: "137#福兴贵客#1#4#137#1#12#18113|4;18226|2;22038|4#0&95|75125|20#于福兴镖局贡献堂主处累积购买二十次#shopcount/value2#600#20#75125#福兴笑声里，人间善意温，一壶酒共饮，天下皆兄弟。#0#0#3#"
+- raw: "137#连环坞贵客#1#4#137#1#12#18113|4;54087|2;54517|4#0&95|75125|20#于十二连环坞贡献堂主处累积购买二十次#shopcount/value2#600#20#75125#连环坞笑声里，人间善意温，一壶酒共饮，天下皆兄弟。#0#0#3#"
   splits:
   - split: 1
-    text: "福兴贵客"
-    translated: "Esteemed Guest, Mr. Fu Xing"
+    text: "连环坞贵客"
+    translated: "Guest of Honor at the Secret Society Headquarters"
   - split: 9
-    text: "于福兴镖局贡献堂主处累积购买二十次"
-    translated: "Accumulated twenty purchases at the Contribution Hall Master of the Great Prosperity Escort Agency."
+    text: "于十二连环坞贡献堂主处累积购买二十次"
+    translated: "Accumulated twenty purchases at the Contribution Hall Master of the Twelve‑linked Fortress."
   - split: 14
-    text: "福兴笑声里，人间善意温，一壶酒共饮，天下皆兄弟。"
-    translated: "In the laughter of Fu Xing, there is a warmth of goodwill in the human world. Sharing a pot of wine together makes us all brothers under heaven."
+    text: "连环坞笑声里，人间善意温，一壶酒共饮，天下皆兄弟。"
+    translated: "Amidst the laughter from the Lianhewan, where humanity's warmth is felt in good intentions, sharing a jug of wine with all makes us brothers under heaven."
 - raw: "138#云川贵客#1#4#138#1#12#18113|4;18227|2;22039|4#0&95|75129|20#于云川镖局贡献堂主处累积购买二十次#shopcount/value2#600#20#75129#云川水悠悠，漂泊自有路，身随清流去，心如其水清。#0#0#3#"
   splits:
   - split: 1
@@ -1483,7 +1483,7 @@
   - split: 14
     text: "淮陵古道长，风烟述往事，一纸抚时光，故人话桑麻。"
     translated: "Huailing's ancient path is long; it speaks of bygone days with winds and mists. A scroll touches upon the passage of time, as old friends talk of mulberry and hemp."
-- raw: "200#铲除恶吏#1#4#200#1#10#60010|1;18007|1;18115|1#1&27|2032|1;27|2032|0#击败总兵##200#0#0#铲恶显忠义，剑光四射辉。正气满天下，邪不胜正归。#0#0#1#"
+- raw: "200#铲除恶吏#1#3#200#1#10#60010|1;18007|1;18115|1#1&27|2032|1;27|2032|0#击败总兵##200#0#0#铲恶显忠义，剑光四射辉。正气满天下，邪不胜正归。#0#0#1#"
   splits:
   - split: 1
     text: "铲除恶吏"
@@ -2033,7 +2033,7 @@
   - split: 14
     text: "风浪大鱼大，风浪小鱼小。功夫再高强，一咸鱼拍倒。"
     translated: "In turbulent waters, big fish swim far; in calm waters, small fish thrive. Even with the highest level of skill, one can be knocked over by a single shrimp."
-- raw: "300#丹道宗师#1#3#300#1#4#5022|5;60004|1;60050|1#0&97|50|20#累计炼丹二十次#lifecount/value2#200#20#50#丹道求长生，宗师炼神丹。炉火纯青烟，药成天地宽。#0#0#1#"
+- raw: "300#丹道宗师#1#2#300#1#4#5022|5;60004|1;60050|1#0&97|50|20#累计炼丹二十次#lifecount/value2#200#20#50#丹道求长生，宗师炼神丹。炉火纯青烟，药成天地宽。#0#0#1#"
   splits:
   - split: 1
     text: "丹道宗师"
@@ -5223,7 +5223,7 @@
   - split: 14
     text: "翊酒风云会，馐伍醉英豪。一饮洗尘嚣，笑谈天地逍。"
     translated: "Yi Jiu Feng Yun Hui: An assembly of distinguished and spirited gentlemen. With a single drink to wash away the dust and din, they laugh heartily, conversing as if roaming freely across heaven and earth."
-- raw: "1000#汇神气海#1#2#1000#1#9#54462|3;54011|3;18517|1#0&74|10040#打通成长气海穴位##300#0#0#汇神气海宽，深藏龙蛇路，练至巅峰时，震撼天地根。#0#0#1#"
+- raw: "1000#汇神气海#1#3#1000#1#9#54462|3;54011|3;18517|1#0&74|10040#打通成长气海穴位##300#0#0#汇神气海宽，深藏龙蛇路，练至巅峰时，震撼天地根。#0#0#1#"
   splits:
   - split: 1
     text: "汇神气海"
@@ -5542,7 +5542,7 @@
   - split: 14
     text: "外显合天意，合地脉内敛，内含宇宙秘，敛力藏锋芒。"
     translated: "The external manifestation aligns with Heaven's will, and internally it gathers along Earth's veins, containing the secrets of the universe while concealing its power within."
-- raw: "1145#定势守心#1#3#1120#1#9#54049|2;54505|1;18181|3#0&74|130000#激活五脏之胃##800#0#0#定心如古井，势稳似山岳，守住一方心，心如止水清。#0#0#5#"
+- raw: "1145#定势守心#1#3#1120#1#9#54517|2;54505|1;18181|3#0&74|130000#激活五脏之胃##800#0#0#定心如古井，势稳似山岳，守住一方心，心如止水清。#0#0#5#"
   splits:
   - split: 1
     text: "定势守心"
@@ -7192,7 +7192,7 @@
   - split: 14
     text: "神兵戒内藏，暗夜步声轻。月影藏秘密，风中细语听。"
     translated: "The divine weapon guards its secrets within; footfalls are light in the silent night. Shadows conceal mysteries beneath the moonlight; listen to whispers carried on the wind."
-- raw: "2007#将门之女#1#3#2007#1#2#60009|2;21008|2;54343|3#0&1|1021015|1#完成支线任务《将门之女》##200#0#0#将门女子傲，横枪走天涯。血溅边烽火，英名誉九霄。#0#0#1#"
+- raw: "2007#将门之女#1#1#2007#1#2#60009|2;21008|2;54343|3#0&1|1021015|1#完成支线任务《将门之女》##200#0#0#将门女子傲，横枪走天涯。血溅边烽火，英名誉九霄。#0#0#1#"
   splits:
   - split: 1
     text: "将门之女"
@@ -9205,7 +9205,7 @@
   - split: 14
     text: "飞仙剑客来，仗剑走天涯。身轻如燕过，剑舞断云霞。"
     translated: "The swordsmen of Flying Immortals have arrived, traveling the world with their swords. Their bodies are as light as swallows in flight; their swords dance among the broken clouds and rainbow hues."
-- raw: "6001#朝廷鹰犬#1#1#6001#1#5#60004|1;60008|1;60092|1#0&89|6900|1#解锁身份：朝廷鹰犬#0#200#0#0#鹰犬卫朝廷，铁爪镇四方。忠心护龙脉，威名震八荒。#0#0#1#"
+- raw: "6001#朝廷鹰犬#1#2#6001#1#5#60004|1;60008|1;60092|1#0&89|6900|1#解锁身份：朝廷鹰犬#0#200#0#0#鹰犬卫朝廷，铁爪镇四方。忠心护龙脉，威名震八荒。#0#0#1#"
   splits:
   - split: 1
     text: "朝廷鹰犬"
@@ -10789,7 +10789,7 @@
   - split: 14
     text: "世无常贵尊，变幻是常态。唯有不断学，方能驾风浪。"
     translated: "Wealth and status are not permanent; change is the norm. Only through continuous learning can one navigate life's challenges."
-- raw: "6200#炎火铸铁#1#2#6200#1#13#54341|1;60015|1;5028|3#0&28|64001|>=|1#学会秘术：炎火铸铁##200#0#0#炎火铸铁术，烈焰锻武魂。铁血炼心志，炎火练剑身。#0#0#1#"
+- raw: "6200#炎火铸铁#1#4#6200#1#13#54341|1;60015|1;5028|3#0&28|64001|>=|1#学会秘术：炎火铸铁##200#0#0#炎火铸铁术，烈焰锻武魂。铁血炼心志，炎火练剑身。#0#0#1#"
   splits:
   - split: 1
     text: "炎火铸铁"
@@ -14375,7 +14375,7 @@
   - split: 14
     text: "神笔妙手生，笔走龙蛇间。妙手神笔引，生出画中天。"
     translated: "A divine brush in skillful hands comes to life, its strokes dancing between dragons and snakes. The wondrous artistry of the divine brush draws forth skies from within the painting."
-- raw: "7000#初踏江湖路#1#4#7000#1#1#54435|2;54462|2;54455|4#0&24|961658|1#出门闯江湖##100#0#0#青锋未锈，壮志盈怀。你背负着对江湖的憧憬，踏出云鹤村，从此告别平淡，踏入这波谲云诡、快意恩仇的武林天地。#0#0#1#"
+- raw: "7000#初踏江湖路#1#1#7000#1#1#54435|2;54462|2;54455|4#0&24|961658|1#出门闯江湖##100#0#0#青锋未锈，壮志盈怀。你背负着对江湖的憧憬，踏出云鹤村，从此告别平淡，踏入这波谲云诡、快意恩仇的武林天地。#0#0#1#"
   splits:
   - split: 1
     text: "初踏江湖路"
@@ -14804,7 +14804,7 @@
   - split: 14
     text: "放下恩怨羁绊，携红颜知己远遁海外，留下盗帅传说，成就最自由的浪子结局。"
     translated: "Set aside grudges and ties, escape abroad with a beloved companion, leave behind legends of the bandit leader, and achieve the most free‑spirited ending for a wandering soul."
-- raw: "80004#紫阳剑尊#1#1#80004#1#8#60104|3;54343|3;21008|3#0&94|100000;94|100010;94|100020;94|100030#对紫阳剑谱之武学精髓有所掌握##600#0#0#紫阳剑尊显，剑法紫气东。阳光下剑尊，紫霞生辉中。#0#0#3#"
+- raw: "80004#紫阳剑尊#1#3#80004#1#8#60104|3;54343|3;21008|3#0&94|100000;94|100010;94|100020;94|100030#对紫阳剑谱之武学精髓有所掌握##600#0#0#紫阳剑尊显，剑法紫气东。阳光下剑尊，紫霞生辉中。#0#0#3#"
   splits:
   - split: 1
     text: "紫阳剑尊"

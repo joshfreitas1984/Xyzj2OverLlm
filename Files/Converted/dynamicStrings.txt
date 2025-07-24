@@ -758,6 +758,16 @@
   - split: 3
     text: "标记数：{0}"
     translated: "Mark Number: {0}"
+- raw: "SoundSwtich,Start,136,<color=#7b5836>正在播放 - </color>,[]"
+  splits:
+  - split: 3
+    text: "<color=#7b5836>正在播放 - </color>"
+    translated: "<color=#7b5836>Currently playing ‑  </color>"
+- raw: "SoundSwtich,UpdateSongText,47,<color=#7b5836>正在播放 - </color>,[]"
+  splits:
+  - split: 3
+    text: "<color=#7b5836>正在播放 - </color>"
+    translated: "<color=#7b5836>Currently playing ‑  </color>"
 - raw: "AIDialogView/<SendQuestionToAI>d__39,MoveNext,93,对不起，大侠今日可用的问答次数已耗尽，请明天再来!,[]"
   splits:
   - split: 3
@@ -1798,6 +1808,16 @@
   - split: 3
     text: "获得天赋点{0}"
     translated: "Obtain {0} Talent Points"
+- raw: "AchievementView,CheckRedPoint,297,成就id={0}类型配置有误！,[]"
+  splits:
+  - split: 3
+    text: "成就id={0}类型配置有误！"
+    translated: "Achievement ID {0} configuration error in type settings!"
+- raw: "AchievementView,CheckRedPoint,338,成就id={0}类型配置有误！,[]"
+  splits:
+  - split: 3
+    text: "成就id={0}类型配置有误！"
+    translated: "Achievement ID {0} configuration error in type settings!"
 - raw: "AchievementView,RefreshAllChengJiu,125,全部成就,[]"
   splits:
   - split: 3
@@ -6145,6 +6165,21 @@
   - split: 3
     text: "取消"
     translated: "Cancel"
+- raw: "MainViewSettings,OnClickBackToMenu,5, 确认退隐江湖吗？,[]"
+  splits:
+  - split: 3
+    text: " 确认退隐江湖吗？"
+    translated: "Are you sure about withdrawing from the Jianghu?"
+- raw: "MainViewSettings,OnClickBackToMenu,42,确定,[]"
+  splits:
+  - split: 3
+    text: "确定"
+    translated: "Confirmed"
+- raw: "MainViewSettings,OnClickBackToMenu,47,取消,[]"
+  splits:
+  - split: 3
+    text: "取消"
+    translated: "Cancel"
 - raw: "MainViewSettings,OnClickChangeForce,25,脱战后才可以切换势力！,[]"
   splits:
   - split: 3
@@ -8440,31 +8475,48 @@
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "FileItemSlot,RefreshUI,574,江湖小卒,[SweetPotato.FileInfoItemData，System.Boolean]"
+- raw: "FileItemSlot,RefreshUI,528,真实江湖·,[SweetPotato.FileInfoItemData，System.Boolean]"
   splits:
   - split: 3
-    text: "江湖小卒"
-    translated: "Jianghu Novice"
-- raw: "FileItemSlot,RefreshUI,592,武林新秀,[SweetPotato.FileInfoItemData，System.Boolean]"
+    text: "真实江湖·"
+    translated: "Authentic Jianghu ·"
+- raw: "FileItemSlot,RefreshUI,566,险恶江湖·,[SweetPotato.FileInfoItemData，System.Boolean]"
   splits:
   - split: 3
-    text: "武林新秀"
-    translated: "Wulin Rising Star"
-- raw: "FileItemSlot,RefreshUI,610,武道宗师,[SweetPotato.FileInfoItemData，System.Boolean]"
+    text: "险恶江湖·"
+    translated: "Dangerous Jianghu ·"
+- raw: "FileItemSlot,RefreshUI,604,爽文江湖·,[SweetPotato.FileInfoItemData，System.Boolean]"
   splits:
   - split: 3
-    text: "武道宗师"
-    translated: "Grandmaster"
-- raw: "FileItemSlot,RefreshUI,628,盖世霸主,[SweetPotato.FileInfoItemData，System.Boolean]"
+    text: "爽文江湖·"
+    translated: "Light Jianghu ·"
+- raw: "FileItemSlot,RefreshUI,697,<color=#72a664>江湖小卒(简单)</color> ,[SweetPotato.FileInfoItemData，System.Boolean]"
   splits:
   - split: 3
-    text: "盖世霸主"
-    translated: "World Conqueror"
-- raw: "FileItemSlot,RefreshUI,646,独步天下,[SweetPotato.FileInfoItemData，System.Boolean]"
+    text: "<color=#72a664>江湖小卒(简单)</color> "
+    translated: "<color=#72a664>Jianghu Novice (Easy)</color>"
+- raw: "FileItemSlot,RefreshUI,726,<color=#6ca2b4>武林新秀(标准)</color> ,[SweetPotato.FileInfoItemData，System.Boolean]"
   splits:
   - split: 3
-    text: "独步天下"
-    translated: "Unrivaled in the World"
+    text: "<color=#6ca2b4>武林新秀(标准)</color> "
+    translated: "<color=#6ca2b4>Martial World Rising Star (Normal)</color>"
+    flaggedForRetranslation: true
+    flaggedMistranslation: "Wulin Rising Star,武林新秀,"
+- raw: "FileItemSlot,RefreshUI,755,<color=#b58750>武道宗师(困难)</color> ,[SweetPotato.FileInfoItemData，System.Boolean]"
+  splits:
+  - split: 3
+    text: "<color=#b58750>武道宗师(困难)</color> "
+    translated: "<color=#b58750>Grandmaster (Hard)</color>"
+- raw: "FileItemSlot,RefreshUI,784,<color=#936acc>盖世霸主(极难)</color> ,[SweetPotato.FileInfoItemData，System.Boolean]"
+  splits:
+  - split: 3
+    text: "<color=#936acc>盖世霸主(极难)</color> "
+    translated: "<color=#936acc>World Conqueror (Extreme)</color>"
+- raw: "FileItemSlot,RefreshUI,813,<color=#ae5446>独步天下(地狱)</color> ,[SweetPotato.FileInfoItemData，System.Boolean]"
+  splits:
+  - split: 3
+    text: "<color=#ae5446>独步天下(地狱)</color> "
+    translated: "<color=#ae5446>Unrivaled in the World (Hell)</color>"
 - raw: "TieziItemSlot/<SendAddZan>d__11,MoveNext,99,操作失败:,[]"
   splits:
   - split: 3
@@ -9817,11 +9869,21 @@
   - split: 3
     text: "(固有)"
     translated: "(Inherent)"
-- raw: "JingMaiAttriItemSlot_mobile,OnReset,514,(材料{0}),[]"
+- raw: "JingMaiAttriItemSlot_mobile,.ctor,7,道具,[]"
   splits:
   - split: 3
-    text: "(材料{0})"
-    translated: "(Materials {0})"
+    text: "道具"
+    translated: "Prop"
+- raw: "JingMaiAttriItemSlot_mobile,.ctor,18,丹药,[]"
+  splits:
+  - split: 3
+    text: "丹药"
+    translated: "Elixir of Immortality"
+- raw: "JingMaiAttriItemSlot_mobile,.ctor,29,秘卷,[]"
+  splits:
+  - split: 3
+    text: "秘卷"
+    translated: "Secret Scroll"
 - raw: "JingMaiGraphDetailView/<>c__DisplayClass110_0,<OnJiHuoAnimFinish>b__4,528,修为：,[]"
   splits:
   - split: 3
@@ -10688,7 +10750,7 @@
   - split: 3
     text: "该任务无法被指引"
     translated: "This task cannot be directed"
-- raw: "MainViewConditionSlotOfOSA,OnQuestLogClick,107,该任务无法被指引,[UnityEngine.EventSystems.PointerEventData]"
+- raw: "MainViewConditionSlotOfOSA,OnQuestLogClick,112,该任务无法被指引,[UnityEngine.EventSystems.PointerEventData]"
   splits:
   - split: 3
     text: "该任务无法被指引"
@@ -11430,11 +11492,11 @@
   - split: 3
     text: "消耗感悟："
     translated: "Expenditure of insight:"
-- raw: "MijiBookImprovePart,RefreshMidInfo,176,消耗：   {0},[MiJiNodeInfo，MiJiNodeInfo，System.Int32]"
+- raw: "MijiBookImprovePart,RefreshMidInfo,176,消耗：        {0}/{1},[MiJiNodeInfo，MiJiNodeInfo，System.Int32]"
   splits:
   - split: 3
-    text: "消耗：   {0}"
-    translated: "Expenditure:    {0}"
+    text: "消耗：        {0}/{1}"
+    translated: "Expenditure:         {0}/{1}"
 - raw: "MijiBookImprovePart,RefreshEffect,734,冲击,[]"
   splits:
   - split: 3
@@ -11445,22 +11507,22 @@
   - split: 3
     text: "获得增强效果"
     translated: "Obtain enhanced effects"
-- raw: "MijiBookView_mobile,RefreshByPageNum,76,领悟,[System.Int32，PageNameType，PageNameType，System.Boolean]"
+- raw: "MijiBookView_mobile,RefreshByPageNum,61,领悟,[System.Int32，PageNameType，PageNameType，System.Boolean]"
   splits:
   - split: 3
     text: "领悟"
     translated: "Comprehension"
-- raw: "MijiBookView_mobile,RefreshByPageNum,299,提升境界,[System.Int32，PageNameType，PageNameType，System.Boolean]"
+- raw: "MijiBookView_mobile,RefreshByPageNum,284,提升境界,[System.Int32，PageNameType，PageNameType，System.Boolean]"
   splits:
   - split: 3
     text: "提升境界"
     translated: "Elevate one's realm"
-- raw: "MijiBookView_mobile,RefreshByPageNum,1311,领悟,[System.Int32，PageNameType，PageNameType，System.Boolean]"
+- raw: "MijiBookView_mobile,RefreshByPageNum,1272,领悟,[System.Int32，PageNameType，PageNameType，System.Boolean]"
   splits:
   - split: 3
     text: "领悟"
     translated: "Comprehension"
-- raw: "MijiBookView_mobile,RefreshByPageNum,1327,消耗：   {0},[System.Int32，PageNameType，PageNameType，System.Boolean]"
+- raw: "MijiBookView_mobile,RefreshByPageNum,1288,消耗：   {0},[System.Int32，PageNameType，PageNameType，System.Boolean]"
   splits:
   - split: 3
     text: "消耗：   {0}"
@@ -12394,62 +12456,62 @@
   - split: 3
     text: "\\n交接：无"
     translated: "\\nHandover: None"
-- raw: "QuestAcceptView,OnQuestLogSelect,1470,你确定接受此委托吗？,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
+- raw: "QuestAcceptView,OnQuestLogSelect,1485,你确定接受此委托吗？,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
   splits:
   - split: 3
     text: "你确定接受此委托吗？"
     translated: "Are you sure about accepting this commission?"
-- raw: "QuestAcceptView,OnQuestLogSelect,1489,确定,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
+- raw: "QuestAcceptView,OnQuestLogSelect,1504,确定,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
   splits:
   - split: 3
     text: "确定"
     translated: "Confirmed"
-- raw: "QuestAcceptView,OnQuestLogSelect,1494,取消,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
+- raw: "QuestAcceptView,OnQuestLogSelect,1509,取消,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
   splits:
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "QuestAcceptView,OnQuestLogSelect,1648,级,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
+- raw: "QuestAcceptView,OnQuestLogSelect,1663,级,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
   splits:
   - split: 3
     text: "级"
     translated: "Level"
-- raw: "QuestAcceptView,OnQuestLogSelect,1670,悬赏,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
+- raw: "QuestAcceptView,OnQuestLogSelect,1685,悬赏,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
   splits:
   - split: 3
     text: "悬赏"
     translated: "Bounty"
-- raw: "QuestAcceptView,OnQuestLogSelect,1764,【悬】,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
+- raw: "QuestAcceptView,OnQuestLogSelect,1779,【悬】,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
   splits:
   - split: 3
     text: "【悬】"
     translated: "【Unfamiliar Faces】"
-- raw: "QuestAcceptView,OnQuestLogSelect,1795,任务截止时间：,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
+- raw: "QuestAcceptView,OnQuestLogSelect,1810,任务截止时间：,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
   splits:
   - split: 3
     text: "任务截止时间："
     translated: "Task deadline:"
-- raw: "QuestAcceptView,OnQuestLogSelect,1846,任务截止时间：不限时,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
+- raw: "QuestAcceptView,OnQuestLogSelect,1861,任务截止时间：不限时,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
   splits:
   - split: 3
     text: "任务截止时间：不限时"
     translated: "Task deadline: Time‑unlimited"
-- raw: "QuestAcceptView,OnQuestLogSelect,1938,交接：,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
+- raw: "QuestAcceptView,OnQuestLogSelect,1953,交接：,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
   splits:
   - split: 3
     text: "交接："
     translated: "Handover:"
-- raw: "QuestAcceptView,OnQuestLogSelect,1969,\\n交接：,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
+- raw: "QuestAcceptView,OnQuestLogSelect,1984,\\n交接：,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
   splits:
   - split: 3
     text: "\\n交接："
     translated: "\\nHandover:"
-- raw: "QuestAcceptView,OnQuestLogSelect,2006,交接：无,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
+- raw: "QuestAcceptView,OnQuestLogSelect,2021,交接：无,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
   splits:
   - split: 3
     text: "交接：无"
     translated: "Handover: None"
-- raw: "QuestAcceptView,OnQuestLogSelect,2030,\\n交接：无,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
+- raw: "QuestAcceptView,OnQuestLogSelect,2045,\\n交接：无,[QuestViewWTXSListAdapterModle，System.Action，System.Action，System.Boolean]"
   splits:
   - split: 3
     text: "\\n交接：无"
@@ -12529,11 +12591,11 @@
   - split: 3
     text: "交接：无"
     translated: "Handover: None"
-- raw: "QuestAcceptView,OnpenMsg,5,你确定接受此悬赏吗？,[]"
+- raw: "QuestAcceptView,OnpenMsg,5,你确定接受此委托或悬赏吗？,[]"
   splits:
   - split: 3
-    text: "你确定接受此悬赏吗？"
-    translated: "Are you sure you accept this bounty?"
+    text: "你确定接受此委托或悬赏吗？"
+    translated: "Are you sure about accepting this commission or bounty?"
 - raw: "QuestAcceptView,OnpenMsg,28,确定,[]"
   splits:
   - split: 3
@@ -12544,11 +12606,11 @@
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "QuestAcceptView,<Awake>b__38_0,5,你确定接受此委托吗？,[]"
+- raw: "QuestAcceptView,<Awake>b__38_0,5,你确定接受此委托或悬赏吗？,[]"
   splits:
   - split: 3
-    text: "你确定接受此委托吗？"
-    translated: "Are you sure about accepting this commission?"
+    text: "你确定接受此委托或悬赏吗？"
+    translated: "Are you sure about accepting this commission or bounty?"
 - raw: "QuestAcceptView,<Awake>b__38_0,23,确定,[]"
   splits:
   - split: 3
@@ -12559,16 +12621,16 @@
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "QuestAcceptView,<Awake>b__38_1,60,不能撤销可以完成的悬赏,[]"
+- raw: "QuestAcceptView,<Awake>b__38_1,60,不能撤销可以完成的委托或悬赏,[]"
   splits:
   - split: 3
-    text: "不能撤销可以完成的悬赏"
-    translated: "Unredeemed rewards cannot be canceled once completed"
-- raw: "QuestAcceptView,<Awake>b__38_1,86,撤销此悬赏？,[]"
+    text: "不能撤销可以完成的委托或悬赏"
+    translated: "Completed commissions or bounties cannot be revoked"
+- raw: "QuestAcceptView,<Awake>b__38_1,86,撤销此委托或悬赏？,[]"
   splits:
   - split: 3
-    text: "撤销此悬赏？"
-    translated: "Revoke this bounty?"
+    text: "撤销此委托或悬赏？"
+    translated: "Revoke this commission or suspend the reward?"
 - raw: "QuestAcceptView,<Awake>b__38_1,104,确定,[]"
   splits:
   - split: 3
@@ -12644,166 +12706,226 @@
   - split: 3
     text: "我:"
     translated: "I:"
-- raw: "QuestViewNew/<>c__DisplayClass77_5,<OnQuestLogSelect>b__13,65,确定要放弃吗？,[]"
+- raw: "QuestViewNew/<>c__DisplayClass79_0,<OnQuestLogSelect>b__0,44,显示追踪,[System.Boolean]"
+  splits:
+  - split: 3
+    text: "显示追踪"
+    translated: "Show tracking display"
+- raw: "QuestViewNew/<>c__DisplayClass79_0,<OnQuestLogSelect>b__0,51,取消显示,[System.Boolean]"
+  splits:
+  - split: 3
+    text: "取消显示"
+    translated: "Cancel display"
+- raw: "QuestViewNew/<>c__DisplayClass79_5,<OnQuestLogSelect>b__13,65,确定要放弃吗？,[]"
   splits:
   - split: 3
     text: "确定要放弃吗？"
     translated: "Are you sure you want to give up?"
-- raw: "QuestViewNew/<>c__DisplayClass77_5,<OnQuestLogSelect>b__13,83,确定,[]"
+- raw: "QuestViewNew/<>c__DisplayClass79_5,<OnQuestLogSelect>b__13,83,确定,[]"
   splits:
   - split: 3
     text: "确定"
     translated: "Confirmed"
-- raw: "QuestViewNew/<>c__DisplayClass77_5,<OnQuestLogSelect>b__13,88,取消,[]"
+- raw: "QuestViewNew/<>c__DisplayClass79_5,<OnQuestLogSelect>b__13,88,取消,[]"
   splits:
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "QuestViewNew/<>c__DisplayClass77_7,<OnQuestLogSelect>b__16,5,确定要放弃吗？,[]"
+- raw: "QuestViewNew/<>c__DisplayClass79_5,<OnQuestLogSelect>b__14,49,显示追踪,[System.Boolean]"
+  splits:
+  - split: 3
+    text: "显示追踪"
+    translated: "Show tracking display"
+- raw: "QuestViewNew/<>c__DisplayClass79_5,<OnQuestLogSelect>b__14,56,取消显示,[System.Boolean]"
+  splits:
+  - split: 3
+    text: "取消显示"
+    translated: "Cancel display"
+- raw: "QuestViewNew/<>c__DisplayClass79_7,<OnQuestLogSelect>b__16,5,确定要放弃吗？,[]"
   splits:
   - split: 3
     text: "确定要放弃吗？"
     translated: "Are you sure you want to give up?"
-- raw: "QuestViewNew/<>c__DisplayClass77_7,<OnQuestLogSelect>b__16,42,确定,[]"
+- raw: "QuestViewNew/<>c__DisplayClass79_7,<OnQuestLogSelect>b__16,42,确定,[]"
   splits:
   - split: 3
     text: "确定"
     translated: "Confirmed"
-- raw: "QuestViewNew/<>c__DisplayClass77_7,<OnQuestLogSelect>b__16,47,取消,[]"
+- raw: "QuestViewNew/<>c__DisplayClass79_7,<OnQuestLogSelect>b__16,47,取消,[]"
   splits:
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "QuestViewNew,OnQuestLogSelect,738,【奇】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew/<>c__DisplayClass79_7,<OnQuestLogSelect>b__17,44,显示追踪,[System.Boolean]"
+  splits:
+  - split: 3
+    text: "显示追踪"
+    translated: "Show tracking display"
+- raw: "QuestViewNew/<>c__DisplayClass79_7,<OnQuestLogSelect>b__17,51,取消显示,[System.Boolean]"
+  splits:
+  - split: 3
+    text: "取消显示"
+    translated: "Cancel display"
+- raw: "QuestViewNew,OnQuestLogSelect,601,显示追踪,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+  splits:
+  - split: 3
+    text: "显示追踪"
+    translated: "Show tracking display"
+- raw: "QuestViewNew,OnQuestLogSelect,608,取消显示,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+  splits:
+  - split: 3
+    text: "取消显示"
+    translated: "Cancel display"
+- raw: "QuestViewNew,OnQuestLogSelect,794,【奇】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "【奇】"
     translated: "【Strange】"
-- raw: "QuestViewNew,OnQuestLogSelect,754,任务截止时间：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,833,任务截止时间：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "任务截止时间：无"
     translated: "Deadline for task completion: None"
-- raw: "QuestViewNew,OnQuestLogSelect,1547,【谜】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,1626,【谜】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "【谜】"
     translated: "【Riddle】"
-- raw: "QuestViewNew,OnQuestLogSelect,1563,任务截止时间：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,1642,任务截止时间：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "任务截止时间：无"
     translated: "Deadline for task completion: None"
-- raw: "QuestViewNew,OnQuestLogSelect,2161,【主】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,2240,【主】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "【主】"
     translated: "【Master】"
-- raw: "QuestViewNew,OnQuestLogSelect,2246,【支】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,2348,【支】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "【支】"
     translated: "【Support】"
-- raw: "QuestViewNew,OnQuestLogSelect,2303,任务截止时间：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,2428,任务截止时间：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "任务截止时间："
     translated: "Task deadline:"
-- raw: "QuestViewNew,OnQuestLogSelect,2350,任务截止时间：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,2475,任务截止时间：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "任务截止时间：无"
     translated: "Deadline for task completion: None"
-- raw: "QuestViewNew,OnQuestLogSelect,2850,的委托,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,2975,的委托,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "的委托"
     translated: "Commission of"
-- raw: "QuestViewNew,OnQuestLogSelect,2934,【委】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,3059,【委】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "【委】"
     translated: "【Delegate】"
-- raw: "QuestViewNew,OnQuestLogSelect,2960,任务截止时间：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,3108,任务截止时间：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "任务截止时间："
     translated: "Task deadline:"
-- raw: "QuestViewNew,OnQuestLogSelect,3025,任务截止时间：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,3173,任务截止时间：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "任务截止时间："
     translated: "Task deadline:"
-- raw: "QuestViewNew,OnQuestLogSelect,3080,任务截止时间：不限时,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,3228,任务截止时间：不限时,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "任务截止时间：不限时"
     translated: "Task deadline: Time‑unlimited"
-- raw: "QuestViewNew,OnQuestLogSelect,3182,交接：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,3330,交接：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "交接："
     translated: "Handover:"
-- raw: "QuestViewNew,OnQuestLogSelect,3213,\\n交接：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,3361,\\n交接：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "\\n交接："
     translated: "\\nHandover:"
-- raw: "QuestViewNew,OnQuestLogSelect,3250,交接：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,3398,交接：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "交接：无"
     translated: "Handover: None"
-- raw: "QuestViewNew,OnQuestLogSelect,3274,\\n交接：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,3422,\\n交接：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "\\n交接：无"
     translated: "\\nHandover: None"
-- raw: "QuestViewNew,OnQuestLogSelect,4694,级,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,3847,显示追踪,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+  splits:
+  - split: 3
+    text: "显示追踪"
+    translated: "Show tracking display"
+- raw: "QuestViewNew,OnQuestLogSelect,3854,取消显示,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+  splits:
+  - split: 3
+    text: "取消显示"
+    translated: "Cancel display"
+- raw: "QuestViewNew,OnQuestLogSelect,4901,级,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "级"
     translated: "Level"
-- raw: "QuestViewNew,OnQuestLogSelect,4716,悬赏,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,4923,悬赏,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "悬赏"
     translated: "Bounty"
-- raw: "QuestViewNew,OnQuestLogSelect,4820,【悬】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,5027,【悬】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "【悬】"
     translated: "【Unfamiliar Faces】"
-- raw: "QuestViewNew,OnQuestLogSelect,4856,任务截止时间：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,5086,任务截止时间：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "任务截止时间："
     translated: "Task deadline:"
-- raw: "QuestViewNew,OnQuestLogSelect,4917,任务截止时间：不限时,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,5147,任务截止时间：不限时,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "任务截止时间：不限时"
     translated: "Task deadline: Time‑unlimited"
-- raw: "QuestViewNew,OnQuestLogSelect,5019,交接：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,5249,交接：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "交接："
     translated: "Handover:"
-- raw: "QuestViewNew,OnQuestLogSelect,5050,\\n交接：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,5280,\\n交接：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "\\n交接："
     translated: "\\nHandover:"
-- raw: "QuestViewNew,OnQuestLogSelect,5087,交接：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,5317,交接：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "交接：无"
     translated: "Handover: None"
-- raw: "QuestViewNew,OnQuestLogSelect,5111,交接：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,5341,交接：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "交接：无"
     translated: "Handover: None"
+- raw: "QuestViewNew,OnQuestLogSelect,5726,显示追踪,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+  splits:
+  - split: 3
+    text: "显示追踪"
+    translated: "Show tracking display"
+- raw: "QuestViewNew,OnQuestLogSelect,5733,取消显示,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+  splits:
+  - split: 3
+    text: "取消显示"
+    translated: "Cancel display"
 - raw: "QuestViewNew,CheckTextLink,473,此人已死,[TMPro.TextMeshProUGUI]"
   splits:
   - split: 3
@@ -14912,212 +15034,212 @@
   - split: 3
     text: "）已送达。"
     translated: ") has been delivered"
-- raw: "EntrustManager/<>c__DisplayClass93_0,<AcceptEntrust>b__1,39,接取了,[]"
+- raw: "EntrustManager/<>c__DisplayClass96_0,<AcceptEntrust>b__1,39,接取了,[]"
   splits:
   - split: 3
     text: "接取了"
     translated: "Accepted"
-- raw: "EntrustManager/<>c__DisplayClass93_0,<AcceptEntrust>b__1,60,的委托,[]"
+- raw: "EntrustManager/<>c__DisplayClass96_0,<AcceptEntrust>b__1,60,的委托,[]"
   splits:
   - split: 3
     text: "的委托"
     translated: "Commission of"
-- raw: "EntrustManager/<>c__DisplayClass93_0,<AcceptEntrust>b__1,80,接取了,[]"
+- raw: "EntrustManager/<>c__DisplayClass96_0,<AcceptEntrust>b__1,80,接取了,[]"
   splits:
   - split: 3
     text: "接取了"
     translated: "Accepted"
-- raw: "EntrustManager/<>c__DisplayClass93_0,<AcceptEntrust>b__1,101,的委托,[]"
+- raw: "EntrustManager/<>c__DisplayClass96_0,<AcceptEntrust>b__1,101,的委托,[]"
   splits:
   - split: 3
     text: "的委托"
     translated: "Commission of"
-- raw: "EntrustManager/<>c__DisplayClass93_0,<AcceptEntrust>b__5,39,接取了,[]"
+- raw: "EntrustManager/<>c__DisplayClass96_0,<AcceptEntrust>b__5,39,接取了,[]"
   splits:
   - split: 3
     text: "接取了"
     translated: "Accepted"
-- raw: "EntrustManager/<>c__DisplayClass93_0,<AcceptEntrust>b__5,60,的委托,[]"
+- raw: "EntrustManager/<>c__DisplayClass96_0,<AcceptEntrust>b__5,60,的委托,[]"
   splits:
   - split: 3
     text: "的委托"
     translated: "Commission of"
-- raw: "EntrustManager/<>c__DisplayClass93_0,<AcceptEntrust>b__5,80,接取了,[]"
+- raw: "EntrustManager/<>c__DisplayClass96_0,<AcceptEntrust>b__5,80,接取了,[]"
   splits:
   - split: 3
     text: "接取了"
     translated: "Accepted"
-- raw: "EntrustManager/<>c__DisplayClass93_0,<AcceptEntrust>b__5,101,的委托,[]"
+- raw: "EntrustManager/<>c__DisplayClass96_0,<AcceptEntrust>b__5,101,的委托,[]"
   splits:
   - split: 3
     text: "的委托"
     translated: "Commission of"
-- raw: "EntrustManager,DoEventAcceptPreAction,409,找不到好感度最高的npc npcId:{0},[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,389,找不到好感度最高的npc npcId:{0},[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "找不到好感度最高的npc npcId:{0}"
     translated: "Could not find NPC with the highest affinity; NPC ID: {0}"
-- raw: "EntrustManager,DoEventAcceptPreAction,517,找不到好感度最低的npc npcId:{0},[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,497,找不到好感度最低的npc npcId:{0},[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "找不到好感度最低的npc npcId:{0}"
     translated: "Can't find the NPC with the lowest affinity level, NPC ID: {0}"
-- raw: "EntrustManager,DoEventAcceptPreAction,1239,npc {0} 没有喜欢的物品，请查看配置,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,1146,npc {0} 没有喜欢的物品，请查看配置,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "npc {0} 没有喜欢的物品，请查看配置"
     translated: "NPC {0} doesn't have any preferred items; please check the configuration."
-- raw: "EntrustManager,DoEventAcceptPreAction,1521,NPC:{0} 的势力没有npc,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,1417,NPC:{0} 的势力没有npc,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "NPC:{0} 的势力没有npc"
     translated: "NPC: {0}'s faction does not have NPCs."
-- raw: "EntrustManager,DoEventAcceptPreAction,1773,委托击败npcId :{0},[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,1669,委托击败npcId :{0},[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托击败npcId :{0}"
     translated: "Commission to defeat NPC ID: {0}"
-- raw: "EntrustManager,DoEventAcceptPreAction,1959,委托:{0} 配置有问题 ,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,1855,委托:{0} 配置有问题 ,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托:{0} 配置有问题 "
     translated: "Commission: {0} configuration issue"
-- raw: "EntrustManager,DoEventAcceptPreAction,2106,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,1986,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
     translated: "Commission: Random NPC generation failed for {0}."
-- raw: "EntrustManager,DoEventAcceptPreAction,2217,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,2097,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
     translated: "Commission: Random NPC generation failed for {0}."
-- raw: "EntrustManager,DoEventAcceptPreAction,2375,委托：{0} 配置错误,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,2249,委托：{0} 配置错误,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误"
     translated: "Commission: Configuration error for {0}."
-- raw: "EntrustManager,DoEventAcceptPreAction,2528,委托：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,2387,委托：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误 没有找到可用的道具"
     translated: "Commission: Configuration error: No available items found. {0}"
-- raw: "EntrustManager,DoEventAcceptPreAction,2634,委托：{0} 配置错误,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,2487,委托：{0} 配置错误,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误"
     translated: "Commission: Configuration error for {0}."
-- raw: "EntrustManager,DoEventAcceptPreAction,2786,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,2619,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
     translated: "Commission: Random NPC generation failed for {0}."
-- raw: "EntrustManager,DoEventAcceptPreAction,2897,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,2730,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
     translated: "Commission: Random NPC generation failed for {0}."
-- raw: "EntrustManager,DoEventAcceptPreAction,3159,委托：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,2977,委托：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误 没有找到可用的道具"
     translated: "Commission: Configuration error: No available items found. {0}"
-- raw: "EntrustManager,DoEventAcceptPreAction,3486,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,3314,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
     translated: "Commission: Random NPC generation failed for {0}."
-- raw: "EntrustManager,DoEventAcceptPreAction,3656,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,3494,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
     translated: "Commission: Random NPC generation failed for {0}."
-- raw: "EntrustManager,DoEventAcceptPreAction,4100,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,3958,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
     translated: "Commission: Random NPC generation failed for {0}."
-- raw: "EntrustManager,DoEventAcceptPreAction,4216,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,4074,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
     translated: "Commission: Random NPC generation failed for {0}."
-- raw: "EntrustManager,DoEventAcceptPreAction,4403,委托：{0} 配置错误,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,4255,委托：{0} 配置错误,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误"
     translated: "Commission: Configuration error for {0}."
-- raw: "EntrustManager,DoEventAcceptPreAction,4524,委托：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,4361,委托：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误 没有找到可用的道具"
     translated: "Commission: Configuration error: No available items found. {0}"
-- raw: "EntrustManager,DoEventAcceptPreAction,4812,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,4639,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
     translated: "Commission: Random NPC generation failed for {0}."
-- raw: "EntrustManager,DoEventAcceptPreAction,4923,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,4750,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
     translated: "Commission: Random NPC generation failed for {0}."
-- raw: "EntrustManager,DoEventAcceptPreAction,5003,委托：{0} npc:{1}不存在,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,4830,委托：{0} npc:{1}不存在,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} npc:{1}不存在"
     translated: "Commission: {0} npc: {1} does not exist"
-- raw: "EntrustManager,DoEventAcceptPreAction,5168,委托：{0} 配置错误,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,4989,委托：{0} 配置错误,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误"
     translated: "Commission: Configuration error for {0}."
-- raw: "EntrustManager,DoEventAcceptPreAction,5317,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,5118,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
     translated: "Commission: Random NPC generation failed for {0}."
-- raw: "EntrustManager,DoEventAcceptPreAction,5428,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,5229,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
     translated: "Commission: Random NPC generation failed for {0}."
-- raw: "EntrustManager,DoEventAcceptPreAction,5695,委托：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,5482,委托：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误 没有找到可用的道具"
     translated: "Commission: Configuration error: No available items found. {0}"
-- raw: "EntrustManager,DoEventAcceptPreAction,5899,委托：{0} 配置错误,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,5680,委托：{0} 配置错误,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误"
     translated: "Commission: Configuration error for {0}."
-- raw: "EntrustManager,DoEventAcceptPreAction,6264,委托：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,6010,委托：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误 没有找到可用的道具"
     translated: "Commission: Configuration error: No available items found. {0}"
-- raw: "EntrustManager,DoEventAcceptPreAction,6483,委托：{0} 配置错误,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,6234,委托：{0} 配置错误,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误"
     translated: "Commission: Configuration error for {0}."
-- raw: "EntrustManager,DoEventAcceptPreAction,6578,委托：{0} 配置错误,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,6329,委托：{0} 配置错误,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误"
     translated: "Commission: Configuration error for {0}."
-- raw: "EntrustManager,DoEventAcceptAction,1139,npcid：{0} sectid：{1} 获取不到门派,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptAction,1074,npcid：{0} sectid：{1} 获取不到门派,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "npcid：{0} sectid：{1} 获取不到门派"
     translated: "Npcid: {0} sectid: {1} could not obtain the sect."
-- raw: "EntrustManager,DoEventAcceptAction,1208,sectid：{0} 该门派没有敌对势力,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptAction,1143,sectid：{0} 该门派没有敌对势力,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "sectid：{0} 该门派没有敌对势力"
     translated: "Sectid: {0}, this sect has no enemy forces."
-- raw: "EntrustManager,DoEventAcceptAction,1556,sectid：{0} 该门派敌对势力npc不够 {1} 个，目前只有 {2} 个,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptAction,1491,sectid：{0} 该门派敌对势力npc不够 {1} 个，目前只有 {2} 个,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "sectid：{0} 该门派敌对势力npc不够 {1} 个，目前只有 {2} 个"
@@ -15162,12 +15284,12 @@
   - split: 3
     text: "的委托失败了"
     translated: "Commission failed"
-- raw: "EntrustManager,CheckKillDiDuiNpcCountEnouph,102,npcid：{0} sectid：{1} 获取不到门派,[]"
+- raw: "EntrustManager,CheckKillDiDuiNpcCountEnouph,112,npcid：{0} sectid：{1} 获取不到门派,[]"
   splits:
   - split: 3
     text: "npcid：{0} sectid：{1} 获取不到门派"
     translated: "Npcid: {0} sectid: {1} could not obtain the sect."
-- raw: "EntrustManager,CheckKillDiDuiNpcCountEnouph,172,sectid：{0} 该门派没有敌对势力,[]"
+- raw: "EntrustManager,CheckKillDiDuiNpcCountEnouph,182,sectid：{0} 该门派没有敌对势力,[]"
   splits:
   - split: 3
     text: "sectid：{0} 该门派没有敌对势力"
@@ -15527,167 +15649,167 @@
   - split: 3
     text: "好感度-5"
     translated: "Affinity ‑5"
-- raw: "XuanShangQuest,DoInitPostAction,101,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,106,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
     translated: "Bounty task {0} configuration incorrect."
-- raw: "XuanShangQuest,DoInitPostAction,494,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,509,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
     translated: "Bounty task {0} configuration incorrect."
-- raw: "XuanShangQuest,DoInitPostAction,821,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,846,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
     translated: "Bounty task {0} configuration incorrect."
-- raw: "XuanShangQuest,DoInitPostAction,884,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,914,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
     translated: "Bounty task {0} configuration incorrect."
-- raw: "XuanShangQuest,DoInitPostAction,948,悬赏任务 {0} npc不存在  ,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,978,悬赏任务 {0} npc不存在  ,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} npc不存在  "
     translated: "Bounty Task {0}: NPC does not exist."
-- raw: "XuanShangQuest,DoInitPostAction,988,悬赏任务 {0} 没有开启随机npc 跳过,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,1018,悬赏任务 {0} 没有开启随机npc 跳过,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 没有开启随机npc 跳过"
     translated: "Bounty Task {0} has not started, skipping random NPC."
-- raw: "XuanShangQuest,DoInitPostAction,1175,NPC:{0} 的势力没有npc 尝试直接刷一个npc出来,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,1205,NPC:{0} 的势力没有npc 尝试直接刷一个npc出来,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "NPC:{0} 的势力没有npc 尝试直接刷一个npc出来"
     translated: "NPC: {0}'s force has no NPC, try to directly spawn an NPC."
-- raw: "XuanShangQuest,DoInitPostAction,1331,悬赏任务 {0} npc不存在 尝试直接刷一个npc出来 但是么有合适的 SpawnPoint,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,1361,悬赏任务 {0} npc不存在 尝试直接刷一个npc出来 但是么有合适的 SpawnPoint,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} npc不存在 尝试直接刷一个npc出来 但是么有合适的 SpawnPoint"
     translated: "Reward Task {0}: NPC does not exist. Attempting to spawn an NPC directly, but no suitable Spawn Point found."
-- raw: "XuanShangQuest,DoInitPostAction,1525,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,1555,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "NPC:{0} 没有敌对npc 尝试直接刷一个npc出来"
     translated: "NPC: {0} has no hostile NPCs; try to spawn an NPC directly."
-- raw: "XuanShangQuest,DoInitPostAction,1576,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是这个npc没有敌对势力 刷出来的npc不知道该设置成那个势力,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,1606,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是这个npc没有敌对势力 刷出来的npc不知道该设置成那个势力,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是这个npc没有敌对势力 刷出来的npc不知道该设置成那个势力"
     translated: "NPC: {0} does not have any opposing NPCs; they attempted to directly spawn an NPC, but the spawned NPC has no opposing forces. It is unclear which force to assign to the spawned NPC."
-- raw: "XuanShangQuest,DoInitPostAction,1757,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是没有合适的 SpawnPoint 尝试生成一个SpawnPoint 但是失败了 不知道怎么生成,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,1787,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是没有合适的 SpawnPoint 尝试生成一个SpawnPoint 但是失败了 不知道怎么生成,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是没有合适的 SpawnPoint 尝试生成一个SpawnPoint 但是失败了 不知道怎么生成"
     translated: "NPC: {0} has no hostile NPCs. Attempted to spawn an NPC directly, but there was no suitable Spawn Point. Tried generating a Spawn Point, but failed. Don't know how to generate it."
-- raw: "XuanShangQuest,DoInitPostAction,1924,EntrustEventPrototype.id:{0}中star配置错误，prototype.star * 2超过13了,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,1954,EntrustEventPrototype.id:{0}中star配置错误，prototype.star * 2超过13了,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "EntrustEventPrototype.id:{0}中star配置错误，prototype.star * 2超过13了"
     translated: "EntrustEventPrototype.id: Star configuration error in {0}; prototype.star multiplied by 2 exceeds 13."
-- raw: "XuanShangQuest,DoInitPostAction,2014,刷了一个npc出来 {0},[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,2044,刷了一个npc出来 {0},[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "刷了一个npc出来 {0}"
     translated: "Summoned an NPC to appear: {0}."
-- raw: "XuanShangQuest,DoInitPostAction,2460,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,2495,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
     translated: "Bounty task {0} configuration incorrect."
-- raw: "XuanShangQuest,DoInitPostAction,2644,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,2684,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
     translated: "Bounty: Random NPC generation failed: {0}."
-- raw: "XuanShangQuest,DoInitPostAction,2773,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,2813,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
     translated: "Bounty: Random NPC generation failed: {0}."
-- raw: "XuanShangQuest,DoInitPostAction,3084,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是没有合适的 SpawnPoint 尝试生成一个SpawnPoint 但是失败了 不知道怎么生成,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,3124,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是没有合适的 SpawnPoint 尝试生成一个SpawnPoint 但是失败了 不知道怎么生成,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是没有合适的 SpawnPoint 尝试生成一个SpawnPoint 但是失败了 不知道怎么生成"
     translated: "NPC: {0} has no hostile NPCs. Attempted to spawn an NPC directly, but there was no suitable Spawn Point. Tried generating a Spawn Point, but failed. Don't know how to generate it."
-- raw: "XuanShangQuest,DoInitPostAction,3231,EntrustEventPrototype.id:{0}中star配置错误，prototype.star * 2超过13了,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,3271,EntrustEventPrototype.id:{0}中star配置错误，prototype.star * 2超过13了,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "EntrustEventPrototype.id:{0}中star配置错误，prototype.star * 2超过13了"
     translated: "EntrustEventPrototype.id: Star configuration error in {0}; prototype.star multiplied by 2 exceeds 13."
-- raw: "XuanShangQuest,DoInitPostAction,3395,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,3440,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
     translated: "Bounty task {0} configuration incorrect."
-- raw: "XuanShangQuest,DoInitPostAction,3619,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,3669,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
     translated: "Bounty: Random NPC generation failed: {0}."
-- raw: "XuanShangQuest,DoInitPostAction,3749,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,3799,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
     translated: "Bounty: Random NPC generation failed: {0}."
-- raw: "XuanShangQuest,DoInitPostAction,3938,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,3993,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
     translated: "Bounty task {0} configuration incorrect."
-- raw: "XuanShangQuest,DoInitPostAction,4069,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4134,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
     translated: "Bounty task {0} configuration incorrect."
-- raw: "XuanShangQuest,DoInitPostAction,4257,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4327,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
     translated: "Bounty: Random NPC generation failed: {0}."
-- raw: "XuanShangQuest,DoInitPostAction,4386,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4456,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
     translated: "Bounty: Random NPC generation failed: {0}."
-- raw: "XuanShangQuest,DoInitPostAction,4455,生成委托等级错误，m_CurrentXuanShangLevel.star * 2超过13了,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4525,生成委托等级错误，m_CurrentXuanShangLevel.star * 2超过13了,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "生成委托等级错误，m_CurrentXuanShangLevel.star * 2超过13了"
     translated: "Generated commission rank error, current XuanShang level multiplied by 2 exceeds 13."
-- raw: "XuanShangQuest,DoInitPostAction,4635,情报,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4705,情报,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "情报"
     translated: "Intelligence report"
-- raw: "XuanShangQuest,DoInitPostAction,4678,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4753,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
     translated: "Bounty task {0} configuration incorrect."
-- raw: "XuanShangQuest,DoInitPostAction,4736,悬赏：{0} 配置错误,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4816,悬赏：{0} 配置错误,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 配置错误"
     translated: "Bounty: Configuration error: {0}."
-- raw: "XuanShangQuest,DoInitPostAction,4860,悬赏：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4940,悬赏：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 配置错误 没有找到可用的道具"
     translated: "Bounty: Configuration error: no available items found for {0}."
-- raw: "XuanShangQuest,DoInitPostAction,5138,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,5233,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
     translated: "Bounty task {0} configuration incorrect."
-- raw: "XuanShangQuest,DoInitPostAction,5248,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,5343,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
     translated: "Bounty: Random NPC generation failed: {0}."
-- raw: "XuanShangQuest,DoInitPostAction,5375,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,5470,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
@@ -15712,7 +15834,7 @@
   - split: 3
     text: "的隐秘。"
     translated: "Secretiveness"
-- raw: "XuanShangQuest,DoAcceptPostAction,111,悬赏接取失败:{0} 没有返回realPointId ,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoAcceptPostAction,116,悬赏接取失败:{0} 没有返回realPointId ,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏接取失败:{0} 没有返回realPointId "
@@ -16087,6 +16209,11 @@
   - split: 3
     text: "Timeline Animation Track Ex 找不到 npc {0}"
     translated: "Timeline Animation Track EX: Cannot find NPC {0}."
+- raw: "SplitDownLoader,MergeFiles,110,分片文件不存在: ,[]"
+  splits:
+  - split: 3
+    text: "分片文件不存在: "
+    translated: "The fragment file does not exist:"
 - raw: "PatchManager,updateState,65,检测更新:本地版本号:{0},[]"
   splits:
   - split: 3
@@ -16107,32 +16234,32 @@
   - split: 3
     text: "本地文件校验[{0}]... {1}"
     translated: "Local file verification [{0}]... {1}"
-- raw: "PatchManager,updateState,420,本地版本:{0} 最新版本:{1},[]"
+- raw: "PatchManager,updateState,465,本地版本:{0} 最新版本:{1},[]"
   splits:
   - split: 3
     text: "本地版本:{0} 最新版本:{1}"
     translated: "Local version: {0} Latest Version: {1}"
-- raw: "PatchManager,updateState,470,清理本地缓存...,[]"
+- raw: "PatchManager,updateState,515,清理本地缓存...,[]"
   splits:
   - split: 3
     text: "清理本地缓存..."
     translated: "Clearing local cache..."
-- raw: "PatchManager,updateState,550,安装补丁文件:{0} {1} [{2}%],[]"
+- raw: "PatchManager,updateState,595,安装补丁文件:{0} {1} [{2}%],[]"
   splits:
   - split: 3
     text: "安装补丁文件:{0} {1} [{2}%]"
     translated: "Install patch files: {0} {1} [{2}%]"
-- raw: "PatchManager,updateState,598,下载缺失文件:{0} {1}/{2},[]"
+- raw: "PatchManager,updateState,643,下载缺失文件:{0} {1}/{2},[]"
   splits:
   - split: 3
     text: "下载缺失文件:{0} {1}/{2}"
     translated: "Download missing file: {0} {1}/{2}"
-- raw: "PatchManager,updateState,653,更新完成.,[]"
+- raw: "PatchManager,updateState,698,更新完成.,[]"
   splits:
   - split: 3
     text: "更新完成."
     translated: "Update completed"
-- raw: "PatchManager,updateState,699,更新出错:{0},[]"
+- raw: "PatchManager,updateState,744,更新出错:{0},[]"
   splits:
   - split: 3
     text: "更新出错:{0}"
@@ -16167,7 +16294,7 @@
   - split: 3
     text: "损坏，请检查完整性"
     translated: "Damaged; please check integrity"
-- raw: "PatchManager,<applyPatchList>b__81_0,2,补丁{0} {1}失败 {2},[DownloadFileInfo，System.Int32]"
+- raw: "PatchManager,<applyPatchList>b__90_0,2,补丁{0} {1}失败 {2},[DownloadFileInfo，System.Int32]"
   splits:
   - split: 3
     text: "补丁{0} {1}失败 {2}"
@@ -16177,16 +16304,6 @@
   - split: 3
     text: "正在应用补丁"
     translated: "Applying patch now"
-- raw: "SoundSwtich,Start,136,<color=#7b5836>正在播放 - </color>,[]"
-  splits:
-  - split: 3
-    text: "<color=#7b5836>正在播放 - </color>"
-    translated: "<color=#7b5836>Currently playing ‑  </color>"
-- raw: "SoundSwtich,UpdateSongText,47,<color=#7b5836>正在播放 - </color>,[]"
-  splits:
-  - split: 3
-    text: "<color=#7b5836>正在播放 - </color>"
-    translated: "<color=#7b5836>Currently playing ‑  </color>"
 - raw: "Com.TheFallenGames.OSA.Demos.Hierarchy.TuJianTreeViewsHolder,UpdateViews,493,(未持有),[Com.TheFallenGames.OSA.Demos.Hierarchy.IHierarchyNodeModel]"
   splits:
   - split: 3
@@ -16282,12 +16399,12 @@
   - split: 3
     text: "无法存档，正在执行功能脚本id:"
     translated: "Unable to save, executing function script ID:"
-- raw: "SweetPotato.ConditionPrototype/<DoConditionShowAnim>d__72,MoveNext,191,没有找到npcId:{0} 的NpcController,[]"
+- raw: "SweetPotato.ConditionPrototype/<DoConditionShowAnim>d__74,MoveNext,191,没有找到npcId:{0} 的NpcController,[]"
   splits:
   - split: 3
     text: "没有找到npcId:{0} 的NpcController"
     translated: "No NPC ID was found: NPC Controller of {0}"
-- raw: "SweetPotato.ConditionPrototype/<DoConditionShowAnim>d__72,MoveNext,886,没有找到npcId:{0} 的NpcController,[]"
+- raw: "SweetPotato.ConditionPrototype/<DoConditionShowAnim>d__74,MoveNext,886,没有找到npcId:{0} 的NpcController,[]"
   splits:
   - split: 3
     text: "没有找到npcId:{0} 的NpcController"
@@ -19730,17 +19847,17 @@
   - split: 3
     text: "无有效目标"
     translated: "No valid target"
-- raw: "SweetPotato.GameSaving/<Load>d__111,MoveNext,829,此存档包含DLC内容 {0} ，无法读取,[]"
+- raw: "SweetPotato.GameSaving/<Load>d__114,MoveNext,1036,此存档包含DLC内容 {0} ，无法读取,[]"
   splits:
   - split: 3
     text: "此存档包含DLC内容 {0} ，无法读取"
     translated: "This archive contains DLC content {0}, cannot be accessed."
-- raw: "SweetPotato.GameSaving/<Load>d__111,MoveNext,888,确认,[]"
+- raw: "SweetPotato.GameSaving/<Load>d__114,MoveNext,1095,确认,[]"
   splits:
   - split: 3
     text: "确认"
     translated: "Confirmed"
-- raw: "SweetPotato.GameSaving/<Load>d__111,MoveNext,893,取消,[]"
+- raw: "SweetPotato.GameSaving/<Load>d__114,MoveNext,1100,取消,[]"
   splits:
   - split: 3
     text: "取消"
@@ -19760,12 +19877,12 @@
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "SweetPotato.GameSaving,Save,2318,未知,[SweetPotato.FileInfoItemData，System.Boolean，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.GameSaving,Save,2349,未知,[SweetPotato.FileInfoItemData，System.Boolean，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "未知"
     translated: "Unknown"
-- raw: "SweetPotato.GameSaving,Save,2519,存档发生了错误 \\n,[SweetPotato.FileInfoItemData，System.Boolean，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.GameSaving,Save,2592,存档发生了错误 \\n,[SweetPotato.FileInfoItemData，System.Boolean，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "存档发生了错误 \\n"
@@ -20330,37 +20447,37 @@
   - split: 3
     text: "交互"
     translated: "Interaction"
-- raw: "SweetPotato.FileView/<UploadFiles>d__84,MoveNext,664,读取存档失败,[]"
+- raw: "SweetPotato.FileView/<UploadFiles>d__84,MoveNext,731,读取存档失败,[]"
   splits:
   - split: 3
     text: "读取存档失败"
     translated: "Failed to load save file"
-- raw: "SweetPotato.FileView/<UploadFiles>d__84,MoveNext,782,读取存档失败,[]"
+- raw: "SweetPotato.FileView/<UploadFiles>d__84,MoveNext,849,读取存档失败,[]"
   splits:
   - split: 3
     text: "读取存档失败"
     translated: "Failed to load save file"
-- raw: "SweetPotato.FileView/<UploadFiles>d__84,MoveNext,1281,上传失败,[]"
+- raw: "SweetPotato.FileView/<UploadFiles>d__84,MoveNext,1383,上传失败,[]"
   splits:
   - split: 3
     text: "上传失败"
     translated: "Upload failed"
-- raw: "SweetPotato.FileView/<UploadFiles>d__84,MoveNext,1401,上传成功,[]"
+- raw: "SweetPotato.FileView/<UploadFiles>d__84,MoveNext,1503,上传成功,[]"
   splits:
   - split: 3
     text: "上传成功"
     translated: "Upload successful"
-- raw: "SweetPotato.FileView/<UploadFiles>d__84,MoveNext,1570,登录失效,[]"
+- raw: "SweetPotato.FileView/<UploadFiles>d__84,MoveNext,1672,登录失效,[]"
   splits:
   - split: 3
     text: "登录失效"
     translated: "Session expired"
-- raw: "SweetPotato.FileView/<UploadFiles>d__84,MoveNext,1609,确定,[]"
+- raw: "SweetPotato.FileView/<UploadFiles>d__84,MoveNext,1711,确定,[]"
   splits:
   - split: 3
     text: "确定"
     translated: "Confirmed"
-- raw: "SweetPotato.FileView/<UploadFiles>d__84,MoveNext,1614,取消,[]"
+- raw: "SweetPotato.FileView/<UploadFiles>d__84,MoveNext,1716,取消,[]"
   splits:
   - split: 3
     text: "取消"
@@ -21080,6 +21197,11 @@
   - split: 3
     text: "取消"
     translated: "Cancel"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnConfirm,595,添加物品: ,[System.Int32，ItemEquip/EQUIP_SUBTYPE，System.Collections.Generic.List`1<SweetPotato.InsViewNewNewTianFuItem>，SweetPotato.AttriManager，System.String]"
+  splits:
+  - split: 3
+    text: "添加物品: "
+    translated: "Add items:"
 - raw: "SweetPotato.InstantiateViewNewNew_mobile,<Awake>b__98_26,36,少侠的姓名包含忌讳之词，请重新输入,[System.String]"
   splits:
   - split: 3
@@ -21095,36 +21217,26 @@
   - split: 3
     text: "少侠的姓名包含忌讳之词，请重新输入"
     translated: "Young hero's name contains a taboo word; please re‑enter."
-- raw: "SweetPotato.JieMiQuestViewNew_TuiLiPanel,OnXSZCSelect,338,证词：,[System.Object]"
+- raw: "SweetPotato.JieMiQuestViewNew_TuiLiPanel,OnXSZCSelect,350,证词：,[System.Object]"
   splits:
   - split: 3
     text: "证词："
     translated: "Testimony:"
-- raw: "SweetPotato.JieMiQuestViewNew_TuiLiPanel,OnXSZCSelect,345,线索：,[System.Object]"
+- raw: "SweetPotato.JieMiQuestViewNew_TuiLiPanel,OnXSZCSelect,357,线索：,[System.Object]"
   splits:
   - split: 3
     text: "线索："
     translated: "Clue:"
-- raw: "SweetPotato.JieMiQuestViewNew_TuiLiPanel,OnXSZCSelect,508,证词：,[System.Object]"
+- raw: "SweetPotato.JieMiQuestViewNew_TuiLiPanel,OnXSZCSelect,520,证词：,[System.Object]"
   splits:
   - split: 3
     text: "证词："
     translated: "Testimony:"
-- raw: "SweetPotato.JieMiQuestViewNew_TuiLiPanel,OnXSZCSelect,515,线索：,[System.Object]"
+- raw: "SweetPotato.JieMiQuestViewNew_TuiLiPanel,OnXSZCSelect,527,线索：,[System.Object]"
   splits:
   - split: 3
     text: "线索："
     translated: "Clue:"
-- raw: "SweetPotato.JieMiQuestViewNew_XianShuoItem,SetData,142,未知线索,[QuestJieMi，System.Int32]"
-  splits:
-  - split: 3
-    text: "未知线索"
-    translated: "Unidentified lead"
-- raw: "SweetPotato.JieMiQuestViewNew_ZhengCiItem,SetData,149,未知证词,[QuestJieMi，System.Int32]"
-  splits:
-  - split: 3
-    text: "未知证词"
-    translated: "Unverified testimony"
 - raw: "SweetPotato.JueYingLouView/<>c__DisplayClass43_4,<DoCurBuSu>b__18,256,幽影,[]"
   splits:
   - split: 3
@@ -21310,7 +21422,12 @@
   - split: 3
     text: "追加内容"
     translated: "Additional Content"
-- raw: "SweetPotato.ArmyInfoPanel,RefreshPanel,203,暂无,[System.Int64]"
+- raw: "SweetPotato.ArmyInfoPanel,RefreshPanel,251,暂无,[System.Int64]"
+  splits:
+  - split: 3
+    text: "暂无"
+    translated: "No information available"
+- raw: "SweetPotato.ArmyInfoPanel,RefreshPanel,278,暂无,[System.Int64]"
   splits:
   - split: 3
     text: "暂无"
@@ -22922,17 +23039,17 @@
   - split: 3
     text: "请先登录"
     translated: "Please log in first"
-- raw: "SweetPotato.WorldManager/<CheckJingYuZhuRefreshEnum>d__187,MoveNext,1197,城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。,[]"
+- raw: "SweetPotato.WorldManager/<CheckJingYuZhuRefreshEnum>d__188,MoveNext,1197,城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。,[]"
   splits:
   - split: 3
     text: "城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。"
     translated: "The City Lord has scattered the Imperial Edict Beads across various locations throughout the land. I have been instructed by the City Lord to inform all of you, the noble swordsmen, of their whereabouts. However, who ultimately claims these beads is up to your abilities."
-- raw: "SweetPotato.WorldManager/<RefreshJingYuZhuInfosEnum>d__190,MoveNext,732,有新的持有京瑜珠NPC npcId:{0},[]"
+- raw: "SweetPotato.WorldManager/<RefreshJingYuZhuInfosEnum>d__191,MoveNext,732,有新的持有京瑜珠NPC npcId:{0},[]"
   splits:
   - split: 3
     text: "有新的持有京瑜珠NPC npcId:{0}"
     translated: "There is a new holder of the Jingyu Zhu NPC with npcId: {0}"
-- raw: "SweetPotato.WorldManager/<RefreshJingYuZhuInfosEnum>d__190,MoveNext,911,城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。,[]"
+- raw: "SweetPotato.WorldManager/<RefreshJingYuZhuInfosEnum>d__191,MoveNext,911,城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。,[]"
   splits:
   - split: 3
     text: "城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。"
@@ -22942,12 +23059,12 @@
   - split: 3
     text: "发现了新的宝藏，已在地图上标记"
     translated: "Discovered a new treasure; it has been marked on the map."
-- raw: "SweetPotato.WorldManager,UpdateKeyboardInput,2265,当前状态下无法召唤坐骑,[]"
+- raw: "SweetPotato.WorldManager,UpdateKeyboardInput,2361,当前状态下无法召唤坐骑,[]"
   splits:
   - split: 3
     text: "当前状态下无法召唤坐骑"
     translated: "Currently unable to summon mount"
-- raw: "SweetPotato.WorldManager,JiaoMa,155,未装备马匹！,[]"
+- raw: "SweetPotato.WorldManager,JiaoMa,186,未装备马匹！,[]"
   splits:
   - split: 3
     text: "未装备马匹！"
@@ -22987,52 +23104,52 @@
   - split: 3
     text: "随机Npc，guid:{0}属性配置错误，导致初始修为在设置之前就不为0"
     translated: "Random NPC, guide: Attribute configuration error caused initial cultivation to be not 0 before settings were established for {0}."
-- raw: "SweetPotato.AttriManager,GetAttriResultDes,163,基础+,[SweetPotato.AttriType]"
+- raw: "SweetPotato.AttriManager,GetAttriResultDes,163,基础,[SweetPotato.AttriType]"
   splits:
   - split: 3
-    text: "基础+"
-    translated: "Foundation Plus"
-- raw: "SweetPotato.AttriManager,GetAttriResultDes,172,装备+,[SweetPotato.AttriType]"
+    text: "基础"
+    translated: "Foundation"
+- raw: "SweetPotato.AttriManager,GetAttriResultDes,172,装备,[SweetPotato.AttriType]"
   splits:
   - split: 3
-    text: "装备+"
-    translated: "Equipment +"
-- raw: "SweetPotato.AttriManager,GetAttriResultDes,181,状态+,[SweetPotato.AttriType]"
+    text: "装备"
+    translated: "Equipment"
+- raw: "SweetPotato.AttriManager,GetAttriResultDes,181,状态,[SweetPotato.AttriType]"
   splits:
   - split: 3
-    text: "状态+"
-    translated: "Status update:"
-- raw: "SweetPotato.AttriManager,GetAttriResultDes,190,秘籍+,[SweetPotato.AttriType]"
+    text: "状态"
+    translated: "State"
+- raw: "SweetPotato.AttriManager,GetAttriResultDes,190,秘籍,[SweetPotato.AttriType]"
   splits:
   - split: 3
-    text: "秘籍+"
-    translated: "Secret Manual +"
-- raw: "SweetPotato.AttriManager,GetAttriResultDes,199,境界+,[SweetPotato.AttriType]"
+    text: "秘籍"
+    translated: "Secret Manual"
+- raw: "SweetPotato.AttriManager,GetAttriResultDes,199,境界,[SweetPotato.AttriType]"
   splits:
   - split: 3
-    text: "境界+"
+    text: "境界"
     translated: "Realm"
-- raw: "SweetPotato.AttriManager,GetAttriResultDes,208,经脉+,[SweetPotato.AttriType]"
+- raw: "SweetPotato.AttriManager,GetAttriResultDes,208,经脉,[SweetPotato.AttriType]"
   splits:
   - split: 3
-    text: "经脉+"
-    translated: "Meridian channels +"
-- raw: "SweetPotato.AttriManager,GetAttriResultDes,217,词条+,[SweetPotato.AttriType]"
+    text: "经脉"
+    translated: "Meridians"
+- raw: "SweetPotato.AttriManager,GetAttriResultDes,217,词条,[SweetPotato.AttriType]"
   splits:
   - split: 3
-    text: "词条+"
-    translated: "Entry:"
-- raw: "SweetPotato.AttriManager,GetAttriResultDes,226,特技+,[SweetPotato.AttriType]"
+    text: "词条"
+    translated: "Entry"
+- raw: "SweetPotato.AttriManager,GetAttriResultDes,226,特技,[SweetPotato.AttriType]"
   splits:
   - split: 3
-    text: "特技+"
-    translated: "Special Techniques +"
-- raw: "SweetPotato.AttriManager,GetAttriResultDes,235,连招+,[SweetPotato.AttriType]"
+    text: "特技"
+    translated: "Special technique"
+- raw: "SweetPotato.AttriManager,GetAttriResultDes,235,连招,[SweetPotato.AttriType]"
   splits:
   - split: 3
-    text: "连招+"
-    translated: "Combo attack +"
-- raw: "SweetPotato.AttriManager,GetAttriResultDes,452,其他+{0},[SweetPotato.AttriType]"
+    text: "连招"
+    translated: "Combination attack sequence"
+- raw: "SweetPotato.AttriManager,GetAttriResultDes,462,其他+{0},[SweetPotato.AttriType]"
   splits:
   - split: 3
     text: "其他+{0}"
