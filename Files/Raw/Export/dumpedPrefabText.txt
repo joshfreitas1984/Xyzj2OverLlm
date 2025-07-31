@@ -1978,6 +1978,9 @@
 - raw: "前往"
   splits:
   - text: "前往"
+- raw: "击杀山贼首领掉落，去大雪山做任务获得。击杀山贼首领掉落，去大雪山做任务获得。大叔大婶大叔大婶"
+  splits:
+  - text: "击杀山贼首领掉落，去大雪山做任务获得。击杀山贼首领掉落，去大雪山做任务获得。大叔大婶大叔大婶"
 - raw: "更新"
   splits:
   - text: "更新"
@@ -2722,72 +2725,84 @@
 - raw: "世家大小姐，自幼离经叛道，不受规矩所缚。为"
   splits:
   - text: "世家大小姐，自幼离经叛道，不受规矩所缚。为"
+- raw: "自选天赋"
+  splits:
+  - text: "自选天赋"
+- raw: "力敌万夫"
+  splits:
+  - text: "力敌万夫"
+- raw: "独马单枪空做去，思考过多则会损失部分收获，悟性增加25，修为感悟获得量减少50%"
+  splits:
+  - text: "独马单枪空做去，思考过多则会损失部分收获，悟性增加25，修为感悟获得量减少50%"
+- raw: "<color=#aa723b>点击</color>右侧天赋进行选择，<color=#aa723b>再次点击</color>取消选择"
+  splits:
+  - text: "<color=#aa723b>点击</color>右侧天赋进行选择，<color=#aa723b>再次点击</color>取消选择"
 - raw: "[选择天赋]"
   splits:
   - text: "[选择天赋]"
+- raw: "清空"
+  splits:
+  - text: "清空"
+- raw: "天赋点分配"
+  splits:
+  - text: "天赋点分配"
+- raw: "确定选择"
+  splits:
+  - text: "确定选择"
 - raw: "五行详情"
   splits:
   - text: "五行详情"
-- raw: "攻击范围："
+- raw: "[身份天赋]                             <color=#616161><size=28>(随角色身份改变)</size></color>"
   splits:
-  - text: "攻击范围："
-- raw: "攻击力：丙     防御力：乙    命中率：甲"
-  splits:
-  - text: "攻击力：丙     防御力：乙    命中率：甲"
-- raw: "刀"
-  splits:
-  - text: "刀"
-- raw: "攻击力：乙     防御力：甲    命中率：乙"
-  splits:
-  - text: "攻击力：乙     防御力：甲    命中率：乙"
-- raw: "枪"
-  splits:
-  - text: "枪"
-- raw: "攻击力：甲     防御力：丙    命中率：丙"
-  splits:
-  - text: "攻击力：甲     防御力：丙    命中率：丙"
-- raw: "拳"
-  splits:
-  - text: "拳"
-- raw: "攻击力：乙     防御力：乙    命中率：乙"
-  splits:
-  - text: "攻击力：乙     防御力：乙    命中率：乙"
-- raw: "攻击力：乙     防御力：丙    命中率：甲"
-  splits:
-  - text: "攻击力：乙     防御力：丙    命中率：甲"
-- raw: "点击切换"
-  splits:
-  - text: "点击切换"
-- raw: "[天赋]"
-  splits:
-  - text: "[天赋]"
+  - text: "[身份天赋]                             <color=#616161><size=28>(随角色身份改变)</size></color>"
 - raw: "[初始武器]"
   splits:
   - text: "[初始武器]"
-- raw: "元气<color=#787a7c>(影响人物气血和闪避)"
+- raw: "攻击范围："
   splits:
-  - text: "元气<color=#787a7c>(影响人物气血和闪避)"
-- raw: "根骨<color=#787a7c>(影响人物气血和闪避)"
+  - text: "攻击范围："
+- raw: "攻击：丙     防御：乙    命中：甲"
   splits:
-  - text: "根骨<color=#787a7c>(影响人物气血和闪避)"
-- raw: "体魄<color=#787a7c>(影响人物内防和外防)"
+  - text: "攻击：丙     防御：乙    命中：甲"
+- raw: "刀"
   splits:
-  - text: "体魄<color=#787a7c>(影响人物内防和外防)"
-- raw: "身法<color=#787a7c>(影响人物命中和闪避)"
+  - text: "刀"
+- raw: "攻击：乙     防御：甲    命中：乙"
   splits:
-  - text: "身法<color=#787a7c>(影响人物命中和闪避)"
+  - text: "攻击：乙     防御：甲    命中：乙"
+- raw: "枪"
+  splits:
+  - text: "枪"
+- raw: "攻击：甲     防御：丙    命中：丙"
+  splits:
+  - text: "攻击：甲     防御：丙    命中：丙"
+- raw: "拳"
+  splits:
+  - text: "拳"
+- raw: "攻击：乙     防御：乙    命中：乙"
+  splits:
+  - text: "攻击：乙     防御：乙    命中：乙"
+- raw: "攻击：乙     防御：丙    命中：甲"
+  splits:
+  - text: "攻击：乙     防御：丙    命中：甲"
+- raw: "未配置"
+  splits:
+  - text: "未配置"
+- raw: "配置"
+  splits:
+  - text: "配置"
+- raw: "[属性点]"
+  splits:
+  - text: "[属性点]"
+- raw: "未分配属性点："
+  splits:
+  - text: "未分配属性点："
+- raw: "元气 <size=28>(影响人物气血，真气和闪避)</size>"
+  splits:
+  - text: "元气 <size=28>(影响人物气血，真气和闪避)</size>"
 - raw: "可用点数："
   splits:
   - text: "可用点数："
-- raw: "身份天赋：                            <color=#848484>(固有天赋，随角色身份改变)"
-  splits:
-  - text: "身份天赋：                            <color=#848484>(固有天赋，随角色身份改变)"
-- raw: "自选天赋：<color=#848484>(消耗天赋点数配置角色自选天赋)"
-  splits:
-  - text: "自选天赋：<color=#848484>(消耗天赋点数配置角色自选天赋)"
-- raw: "点击配置"
-  splits:
-  - text: "点击配置"
 - raw: "将门虎子"
   splits:
   - text: "将门虎子"
@@ -2821,12 +2836,27 @@
 - raw: "<size=53>初</size>始武器"
   splits:
   - text: "<size=53>初</size>始武器"
+- raw: "攻击力：丙     防御力：乙    命中率：甲"
+  splits:
+  - text: "攻击力：丙     防御力：乙    命中率：甲"
+- raw: "攻击力：乙     防御力：甲    命中率：乙"
+  splits:
+  - text: "攻击力：乙     防御力：甲    命中率：乙"
+- raw: "攻击力：甲     防御力：丙    命中率：丙"
+  splits:
+  - text: "攻击力：甲     防御力：丙    命中率：丙"
+- raw: "攻击力：乙     防御力：乙    命中率：乙"
+  splits:
+  - text: "攻击力：乙     防御力：乙    命中率：乙"
+- raw: "攻击力：乙     防御力：丙    命中率：甲"
+  splits:
+  - text: "攻击力：乙     防御力：丙    命中率：甲"
 - raw: "请从左侧选择一种你的初始武器"
   splits:
   - text: "请从左侧选择一种你的初始武器"
-- raw: "消耗分配点数，选择天赋"
+- raw: "独马单枪空做去，思考过多则会损失部分收获，无形增加25，"
   splits:
-  - text: "消耗分配点数，选择天赋"
+  - text: "独马单枪空做去，思考过多则会损失部分收获，无形增加25，"
 - raw: "当使用阴属性招式，阴角色进入阴属性状态，此时角色获得阴属性战斗加成和一些特殊效果：发顺丰水电费水电费收费沙发上大大撒大声地撒大声地撒大萨达四大四大四大打扫打扫打扫打扫打扫大萨达"
   splits:
   - text: "当使用阴属性招式，阴角色进入阴属性状态，此时角色获得阴属性战斗加成和一些特殊效果：发顺丰水电费水电费收费沙发上大大撒大声地撒大声地撒大萨达四大四大四大打扫打扫打扫打扫打扫大萨达"
@@ -3337,9 +3367,6 @@
 - raw: "天阶武学"
   splits:
   - text: "天阶武学"
-- raw: "配置"
-  splits:
-  - text: "配置"
 - raw: "参悟"
   splits:
   - text: "参悟"
@@ -3406,6 +3433,9 @@
 - raw: "通过<color=#3ad67c>拖动</color>技能图标到对应的<color=#3ad67c>招式、秘技或者功体</color>位置以进行装备技能。请拖动万法森罗到秘技的位置。"
   splits:
   - text: "通过<color=#3ad67c>拖动</color>技能图标到对应的<color=#3ad67c>招式、秘技或者功体</color>位置以进行装备技能。请拖动万法森罗到秘技的位置。"
+- raw: "点击切换"
+  splits:
+  - text: "点击切换"
 - raw: "装备技能"
   splits:
   - text: "装备技能"
@@ -4249,9 +4279,6 @@
 - raw: "角色先天情商值增加50点，同时获得"
   splits:
   - text: "角色先天情商值增加50点，同时获得"
-- raw: "自选天赋"
-  splits:
-  - text: "自选天赋"
 - raw: "武器 / 宝物"
   splits:
   - text: "武器 / 宝物"
@@ -5210,9 +5237,9 @@
 - raw: "消息"
   splits:
   - text: "消息"
-- raw: "开放视角"
+- raw: "调整视距"
   splits:
-  - text: "开放视角"
+  - text: "调整视距"
 - raw: "脱离卡死"
   splits:
   - text: "脱离卡死"
@@ -5426,12 +5453,15 @@
 - raw: "该区域未优化完成，若加入，\\n不能拥有完整体验。"
   splits:
   - text: "该区域未优化完成，若加入，\\n不能拥有完整体验。"
-- raw: "刀者"
+- raw: "刀者打啊"
   splits:
-  - text: "刀者"
+  - text: "刀者打啊"
 - raw: "李聪明"
   splits:
   - text: "李聪明"
+- raw: "刀者"
+  splits:
+  - text: "刀者"
 - raw: "进入"
   splits:
   - text: "进入"
@@ -6206,39 +6236,39 @@
 - raw: "通关后天赋值"
   splits:
   - text: "通关后天赋值"
-- raw: "真实江湖"
+- raw: "难度选择"
   splits:
-  - text: "真实江湖"
-- raw: "(爽文江湖模式下各项属性数值成长"
-  splits:
-  - text: "(爽文江湖模式下各项属性数值成长"
-- raw: "选择游戏<color=#f0f0f0>难度"
-  splits:
-  - text: "选择游戏<color=#f0f0f0>难度"
+  - text: "难度选择"
 - raw: "爽文江湖"
   splits:
   - text: "爽文江湖"
 - raw: "险恶江湖"
   splits:
   - text: "险恶江湖"
-- raw: "<color=#acacac>难度：</color>简单"
+- raw: "险恶江湖模式下各项属性数值成长曲线较高，成型之后少侠可在这里体验横扫千军的快感，轻松达成巅峰，笑傲武林dadsadasdasddad"
   splits:
-  - text: "<color=#acacac>难度：</color>简单"
+  - text: "险恶江湖模式下各项属性数值成长曲线较高，成型之后少侠可在这里体验横扫千军的快感，轻松达成巅峰，笑傲武林dadsadasdasddad"
+- raw: "真实江湖"
+  splits:
+  - text: "真实江湖"
+- raw: "江湖小卒 (简单)"
+  splits:
+  - text: "江湖小卒 (简单)"
 - raw: "已通关"
   splits:
   - text: "已通关"
-- raw: "<color=#acacac>难度：</color>标准"
+- raw: "武林新秀 (标准)"
   splits:
-  - text: "<color=#acacac>难度：</color>标准"
-- raw: "<color=#acacac>难度：</color>困难"
+  - text: "武林新秀 (标准)"
+- raw: "武道宗师 (困难)"
   splits:
-  - text: "<color=#acacac>难度：</color>困难"
-- raw: "<color=#acacac>难度：</color>极难"
+  - text: "武道宗师 (困难)"
+- raw: "盖世霸主 (极难)"
   splits:
-  - text: "<color=#acacac>难度：</color>极难"
-- raw: "<color=#acacac>难度：</color>地狱"
+  - text: "盖世霸主 (极难)"
+- raw: "独步天下 (地狱)"
   splits:
-  - text: "<color=#acacac>难度：</color>地狱"
+  - text: "独步天下 (地狱)"
 - raw: "江湖小卒<color=#4c7f5d>【简单】"
   splits:
   - text: "江湖小卒<color=#4c7f5d>【简单】"
@@ -6257,6 +6287,9 @@
 - raw: "通关奖励"
   splits:
   - text: "通关奖励"
+- raw: "(已获得)"
+  splits:
+  - text: "(已获得)"
 - raw: "天赋值"
   splits:
   - text: "天赋值"
@@ -7148,6 +7181,12 @@
 - raw: "开场音乐"
   splits:
   - text: "开场音乐"
+- raw: "锁定类型"
+  splits:
+  - text: "锁定类型"
+- raw: "锁定相机追踪速度"
+  splits:
+  - text: "锁定相机追踪速度"
 - raw: "标题"
   splits:
   - text: "标题"
@@ -7157,6 +7196,9 @@
 - raw: "画面设置影响游戏内整体效果体验，降低画面"
   splits:
   - text: "画面设置影响游戏内整体效果体验，降低画面"
+- raw: "整体画质"
+  splits:
+  - text: "整体画质"
 - raw: "自定义"
   splits:
   - text: "自定义"

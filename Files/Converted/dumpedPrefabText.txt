@@ -2635,6 +2635,10 @@
   splits:
   - text: "前往"
     translated: "Proceed"
+- raw: "击杀山贼首领掉落，去大雪山做任务获得。击杀山贼首领掉落，去大雪山做任务获得。大叔大婶大叔大婶"
+  splits:
+  - text: "击杀山贼首领掉落，去大雪山做任务获得。击杀山贼首领掉落，去大雪山做任务获得。大叔大婶大叔大婶"
+    translated: "Killing the mountain bandit leader yields a drop; obtain it by completing tasks in Great Snow Mountain. Killing the mountain bandit leader yields a drop; obtain it by completing tasks in Great Snow Mountain. Uncle, Auntie! Uncle, Auntie!"
 - raw: "更新"
   splits:
   - text: "更新"
@@ -3627,94 +3631,110 @@
   splits:
   - text: "世家大小姐，自幼离经叛道，不受规矩所缚。为"
     translated: "A noble family's daughter, rebellious since childhood and not confined by conventions. For"
+- raw: "自选天赋"
+  splits:
+  - text: "自选天赋"
+    translated: "Customizable Talent"
+- raw: "力敌万夫"
+  splits:
+  - text: "力敌万夫"
+    translated: "An adversary worthy of a thousand men"
+- raw: "独马单枪空做去，思考过多则会损失部分收获，悟性增加25，修为感悟获得量减少50%"
+  splits:
+  - text: "独马单枪空做去，思考过多则会损失部分收获，悟性增加25，修为感悟获得量减少50%"
+    translated: "Riding alone with a single spear, you venture forth. Overthinking can lead to losing some gains; comprehension increases by 25, while the quantity of attainments from insight decreases by 50%."
+- raw: "<color=#aa723b>点击</color>右侧天赋进行选择，<color=#aa723b>再次点击</color>取消选择"
+  splits:
+  - text: "<color=#aa723b>点击</color>右侧天赋进行选择，<color=#aa723b>再次点击</color>取消选择"
+    translated: "<color=#aa723b>Click</color> on the talent on the right to select, and <color=#aa723b>click again</color> to cancel the selection."
 - raw: "[选择天赋]"
   splits:
   - text: "[选择天赋]"
     translated: "[Select Talent]"
+- raw: "清空"
+  splits:
+  - text: "清空"
+    translated: "Clear all"
+- raw: "天赋点分配"
+  splits:
+  - text: "天赋点分配"
+    translated: "Talent Point Allocation"
+- raw: "确定选择"
+  splits:
+  - text: "确定选择"
+    translated: "Confirm selection"
 - raw: "五行详情"
   splits:
   - text: "五行详情"
     translated: "Five Elements Details"
-- raw: "攻击范围："
+- raw: "[身份天赋]                             <color=#616161><size=28>(随角色身份改变)</size></color>"
   splits:
-  - text: "攻击范围："
-    translated: "Attack range:"
-- raw: "攻击力：丙     防御力：乙    命中率：甲"
-  splits:
-  - text: "攻击力：丙     防御力：乙    命中率：甲"
-    translated: "Attack power: Iron Defense Skill Level B: B    Hit Rate: A"
-- raw: "刀"
-  splits:
-  - text: "刀"
-    translated: "Blade"
-- raw: "攻击力：乙     防御力：甲    命中率：乙"
-  splits:
-  - text: "攻击力：乙     防御力：甲    命中率：乙"
-    translated: "Attack power: Yi: Defense Power: Jia: Hit Rate: B"
-- raw: "枪"
-  splits:
-  - text: "枪"
-    translated: "Spear"
-- raw: "攻击力：甲     防御力：丙    命中率：丙"
-  splits:
-  - text: "攻击力：甲     防御力：丙    命中率：丙"
-    translated: "Attack power: Jia ‑ Defense Power: Bing's Hit Rate: Bing"
-- raw: "拳"
-  splits:
-  - text: "拳"
-    translated: "Fist"
-- raw: "攻击力：乙     防御力：乙    命中率：乙"
-  splits:
-  - text: "攻击力：乙     防御力：乙    命中率：乙"
-    translated: "Attack power: Yi: Defense Power: Beta  Hit Rate: B"
-- raw: "攻击力：乙     防御力：丙    命中率：甲"
-  splits:
-  - text: "攻击力：乙     防御力：丙    命中率：甲"
-    translated: "Attack power: B     Defense Power: Bing Hit Rate: A"
-- raw: "点击切换"
-  splits:
-  - text: "点击切换"
-    translated: "Click to toggle"
-- raw: "[天赋]"
-  splits:
-  - text: "[天赋]"
-    translated: "[Natural Talent]"
+  - text: "[身份天赋]                             <color=#616161><size=28>(随角色身份改变)</size></color>"
+    translated: "[Status Gift] <color=#616161><size=28>(Changes with character status)</size></color>"
 - raw: "[初始武器]"
   splits:
   - text: "[初始武器]"
     translated: "[Initial Weapon]"
-- raw: "元气<color=#787a7c>(影响人物气血和闪避)"
+- raw: "攻击范围："
   splits:
-  - text: "元气<color=#787a7c>(影响人物气血和闪避)"
-    translated: "Vitality <color=#787a7c> (affects a character's lifeforce and dodge)"
-- raw: "根骨<color=#787a7c>(影响人物气血和闪避)"
+  - text: "攻击范围："
+    translated: "Attack range:"
+- raw: "攻击：丙     防御：乙    命中：甲"
   splits:
-  - text: "根骨<color=#787a7c>(影响人物气血和闪避)"
-    translated: "Strength <color=#787a7c>(Affects Character Lifeforce and Dodge)"
-- raw: "体魄<color=#787a7c>(影响人物内防和外防)"
+  - text: "攻击：丙     防御：乙    命中：甲"
+    translated: "Attack: Bing: Defense: Yi's Hit Rate: A"
+- raw: "刀"
   splits:
-  - text: "体魄<color=#787a7c>(影响人物内防和外防)"
-    translated: "Resilience <color=#787a7c>(affects a character's internal and external defense)"
-- raw: "身法<color=#787a7c>(影响人物命中和闪避)"
+  - text: "刀"
+    translated: "Blade"
+- raw: "攻击：乙     防御：甲    命中：乙"
   splits:
-  - text: "身法<color=#787a7c>(影响人物命中和闪避)"
-    translated: "Agility <color=#787a7c>(Affects character hit rate and dodge)"
+  - text: "攻击：乙     防御：甲    命中：乙"
+    translated: "Attack: Yi: Defense: A's Hit Rate: B"
+- raw: "枪"
+  splits:
+  - text: "枪"
+    translated: "Spear"
+- raw: "攻击：甲     防御：丙    命中：丙"
+  splits:
+  - text: "攻击：甲     防御：丙    命中：丙"
+    translated: "Attack: Jia: Defense: Bing's Hit Rate: Bing"
+- raw: "拳"
+  splits:
+  - text: "拳"
+    translated: "Fist"
+- raw: "攻击：乙     防御：乙    命中：乙"
+  splits:
+  - text: "攻击：乙     防御：乙    命中：乙"
+    translated: "Attack: B     Defense: Yi's Hit Rate: B"
+- raw: "攻击：乙     防御：丙    命中：甲"
+  splits:
+  - text: "攻击：乙     防御：丙    命中：甲"
+    translated: "Attack: Yi: Defense: Bing's Hit Rate: A"
+- raw: "未配置"
+  splits:
+  - text: "未配置"
+    translated: "Not configured"
+- raw: "配置"
+  splits:
+  - text: "配置"
+    translated: "Configuration"
+- raw: "[属性点]"
+  splits:
+  - text: "[属性点]"
+    translated: "[Attribute Points]"
+- raw: "未分配属性点："
+  splits:
+  - text: "未分配属性点："
+    translated: "Unassigned attribute points:"
+- raw: "元气 <size=28>(影响人物气血，真气和闪避)</size>"
+  splits:
+  - text: "元气 <size=28>(影响人物气血，真气和闪避)</size>"
+    translated: "Vitality (affects the character's lifeforce, true qi, and dodge) <size=28></size>"
 - raw: "可用点数："
   splits:
   - text: "可用点数："
     translated: "Usable points:"
-- raw: "身份天赋：                            <color=#848484>(固有天赋，随角色身份改变)"
-  splits:
-  - text: "身份天赋：                            <color=#848484>(固有天赋，随角色身份改变)"
-    translated: "Innate identity talents: <color=#848484>(Innate Talent, Changes with Role Identity)"
-- raw: "自选天赋：<color=#848484>(消耗天赋点数配置角色自选天赋)"
-  splits:
-  - text: "自选天赋：<color=#848484>(消耗天赋点数配置角色自选天赋)"
-    translated: "Personal Choice Talent: <color=#848484>(Spend talent points to configure character's chosen talents)"
-- raw: "点击配置"
-  splits:
-  - text: "点击配置"
-    translated: "Click to configure"
 - raw: "将门虎子"
   splits:
   - text: "将门虎子"
@@ -3759,14 +3779,34 @@
   splits:
   - text: "<size=53>初</size>始武器"
     translated: "<size=53>Primordial Weapon</size>"
+- raw: "攻击力：丙     防御力：乙    命中率：甲"
+  splits:
+  - text: "攻击力：丙     防御力：乙    命中率：甲"
+    translated: "Attack power: Iron Defense Skill Level B: B    Hit Rate: A"
+- raw: "攻击力：乙     防御力：甲    命中率：乙"
+  splits:
+  - text: "攻击力：乙     防御力：甲    命中率：乙"
+    translated: "Attack power: Yi: Defense Power: Jia: Hit Rate: B"
+- raw: "攻击力：甲     防御力：丙    命中率：丙"
+  splits:
+  - text: "攻击力：甲     防御力：丙    命中率：丙"
+    translated: "Attack power: Jia ‑ Defense Power: Bing's Hit Rate: Bing"
+- raw: "攻击力：乙     防御力：乙    命中率：乙"
+  splits:
+  - text: "攻击力：乙     防御力：乙    命中率：乙"
+    translated: "Attack power: Yi: Defense Power: Beta  Hit Rate: B"
+- raw: "攻击力：乙     防御力：丙    命中率：甲"
+  splits:
+  - text: "攻击力：乙     防御力：丙    命中率：甲"
+    translated: "Attack power: B     Defense Power: Bing Hit Rate: A"
 - raw: "请从左侧选择一种你的初始武器"
   splits:
   - text: "请从左侧选择一种你的初始武器"
     translated: "Please select your initial weapon from the left side."
-- raw: "消耗分配点数，选择天赋"
+- raw: "独马单枪空做去，思考过多则会损失部分收获，无形增加25，"
   splits:
-  - text: "消耗分配点数，选择天赋"
-    translated: "Spend attribute points to choose a talent"
+  - text: "独马单枪空做去，思考过多则会损失部分收获，无形增加25，"
+    translated: "Riding solo on a single horse with no spear, overthinking can lead to losing some of your gains and inadvertently increase 25."
 - raw: "当使用阴属性招式，阴角色进入阴属性状态，此时角色获得阴属性战斗加成和一些特殊效果：发顺丰水电费水电费收费沙发上大大撒大声地撒大声地撒大萨达四大四大四大打扫打扫打扫打扫打扫大萨达"
   splits:
   - text: "当使用阴属性招式，阴角色进入阴属性状态，此时角色获得阴属性战斗加成和一些特殊效果：发顺丰水电费水电费收费沙发上大大撒大声地撒大声地撒大萨达四大四大四大打扫打扫打扫打扫打扫大萨达"
@@ -4447,10 +4487,6 @@
   splits:
   - text: "天阶武学"
     translated: "Heaven Tier Martial Arts"
-- raw: "配置"
-  splits:
-  - text: "配置"
-    translated: "Configuration"
 - raw: "参悟"
   splits:
   - text: "参悟"
@@ -4539,6 +4575,10 @@
   splits:
   - text: "通过<color=#3ad67c>拖动</color>技能图标到对应的<color=#3ad67c>招式、秘技或者功体</color>位置以进行装备技能。请拖动万法森罗到秘技的位置。"
     translated: "Drag the <color=#3ad67c>skill icon</color> to the corresponding <color=#3ad67c>technique, secret skill, or kungfu position</color> to equip a skill. Please drag Ten Thousand Laws to the secret skill position."
+- raw: "点击切换"
+  splits:
+  - text: "点击切换"
+    translated: "Click to toggle"
 - raw: "装备技能"
   splits:
   - text: "装备技能"
@@ -5663,10 +5703,6 @@
   splits:
   - text: "角色先天情商值增加50点，同时获得"
     translated: "The character's innate emotional intelligence score increases by 50 points, and simultaneously gains."
-- raw: "自选天赋"
-  splits:
-  - text: "自选天赋"
-    translated: "Customizable Talent"
 - raw: "武器 / 宝物"
   splits:
   - text: "武器 / 宝物"
@@ -6944,10 +6980,10 @@
   splits:
   - text: "消息"
     translated: "News"
-- raw: "开放视角"
+- raw: "调整视距"
   splits:
-  - text: "开放视角"
-    translated: "Open perspective"
+  - text: "调整视距"
+    translated: "Adjust focal distance"
 - raw: "脱离卡死"
   splits:
   - text: "脱离卡死"
@@ -7232,14 +7268,18 @@
   splits:
   - text: "该区域未优化完成，若加入，\\n不能拥有完整体验。"
     translated: "This area has not been optimized yet; if you join,\\nCannot have a complete experience."
-- raw: "刀者"
+- raw: "刀者打啊"
   splits:
-  - text: "刀者"
-    translated: "The one who wields the blade"
+  - text: "刀者打啊"
+    translated: "Those who wield the sword, they fight"
 - raw: "李聪明"
   splits:
   - text: "李聪明"
     translated: "Li Congming"
+- raw: "刀者"
+  splits:
+  - text: "刀者"
+    translated: "The one who wields the blade"
 - raw: "进入"
   splits:
   - text: "进入"
@@ -8272,18 +8312,10 @@
   splits:
   - text: "通关后天赋值"
     translated: "Talent Points After Completion"
-- raw: "真实江湖"
+- raw: "难度选择"
   splits:
-  - text: "真实江湖"
-    translated: "Authentic Jianghu"
-- raw: "(爽文江湖模式下各项属性数值成长"
-  splits:
-  - text: "(爽文江湖模式下各项属性数值成长"
-    translated: "(In Light Jianghu Mode, various attribute values increase)"
-- raw: "选择游戏<color=#f0f0f0>难度"
-  splits:
-  - text: "选择游戏<color=#f0f0f0>难度"
-    translated: "Choose game <color=#f0f0f0>difficulty"
+  - text: "难度选择"
+    translated: "Difficulty selection"
 - raw: "爽文江湖"
   splits:
   - text: "爽文江湖"
@@ -8292,30 +8324,38 @@
   splits:
   - text: "险恶江湖"
     translated: "Dangerous Jianghu"
-- raw: "<color=#acacac>难度：</color>简单"
+- raw: "险恶江湖模式下各项属性数值成长曲线较高，成型之后少侠可在这里体验横扫千军的快感，轻松达成巅峰，笑傲武林dadsadasdasddad"
   splits:
-  - text: "<color=#acacac>难度：</color>简单"
-    translated: "<color=#acacac>Difficulty: Easy.  </color>"
+  - text: "险恶江湖模式下各项属性数值成长曲线较高，成型之后少侠可在这里体验横扫千军的快感，轻松达成巅峰，笑傲武林dadsadasdasddad"
+    translated: "In the Dangerous Jianghu mode, various attribute growth curves are significantly higher. After development, young heroes can experience the thrill of sweeping across thousands here and easily reach their peak to laugh down upon the martial world."
+- raw: "真实江湖"
+  splits:
+  - text: "真实江湖"
+    translated: "Authentic Jianghu"
+- raw: "江湖小卒 (简单)"
+  splits:
+  - text: "江湖小卒 (简单)"
+    translated: "Jianghu Novice (Easy)"
 - raw: "已通关"
   splits:
   - text: "已通关"
     translated: "Completed all levels"
-- raw: "<color=#acacac>难度：</color>标准"
+- raw: "武林新秀 (标准)"
   splits:
-  - text: "<color=#acacac>难度：</color>标准"
-    translated: "<color=#acacac>Difficulty: Normal</color>"
-- raw: "<color=#acacac>难度：</color>困难"
+  - text: "武林新秀 (标准)"
+    translated: "Wulin Rising Star (Normal)"
+- raw: "武道宗师 (困难)"
   splits:
-  - text: "<color=#acacac>难度：</color>困难"
-    translated: "<color=#acacac>Difficulty: Hard.  </color>"
-- raw: "<color=#acacac>难度：</color>极难"
+  - text: "武道宗师 (困难)"
+    translated: "Grandmaster (hard)"
+- raw: "盖世霸主 (极难)"
   splits:
-  - text: "<color=#acacac>难度：</color>极难"
-    translated: "<color=#acacac>Difficulty: Extreme</color>"
-- raw: "<color=#acacac>难度：</color>地狱"
+  - text: "盖世霸主 (极难)"
+    translated: "World Conqueror (Extreme)"
+- raw: "独步天下 (地狱)"
   splits:
-  - text: "<color=#acacac>难度：</color>地狱"
-    translated: "<color=#acacac>Difficulty: Hell</color>"
+  - text: "独步天下 (地狱)"
+    translated: "Unrivaled in the World (Hell)"
 - raw: "江湖小卒<color=#4c7f5d>【简单】"
   splits:
   - text: "江湖小卒<color=#4c7f5d>【简单】"
@@ -8340,6 +8380,10 @@
   splits:
   - text: "通关奖励"
     translated: "Completion Reward"
+- raw: "(已获得)"
+  splits:
+  - text: "(已获得)"
+    translated: "(Acquired)"
 - raw: "天赋值"
   splits:
   - text: "天赋值"
@@ -9528,6 +9572,14 @@
   splits:
   - text: "开场音乐"
     translated: "Opening music"
+- raw: "锁定类型"
+  splits:
+  - text: "锁定类型"
+    translated: "Lock Type"
+- raw: "锁定相机追踪速度"
+  splits:
+  - text: "锁定相机追踪速度"
+    translated: "Lock Camera Tracking Speed"
 - raw: "标题"
   splits:
   - text: "标题"
@@ -9540,6 +9592,10 @@
   splits:
   - text: "画面设置影响游戏内整体效果体验，降低画面"
     translated: "The graphics settings affect the overall effect and experience in the game; lowering the graphics can improve performance or reduce lag."
+- raw: "整体画质"
+  splits:
+  - text: "整体画质"
+    translated: "Overall picture quality"
 - raw: "自定义"
   splits:
   - text: "自定义"

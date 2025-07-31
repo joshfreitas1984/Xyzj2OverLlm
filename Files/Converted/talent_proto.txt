@@ -1086,7 +1086,7 @@
   - split: 2
     text: "腹有诗书气自华，根据所读书籍数量，<color=e0834c>提升当前真气10%</color>。"
     translated: "With a wealth of literature in one's mind, one's innate qi naturally flourishes. Based on the number of books read, <color=e0834c>increase current True Qi by 10%.</color>"
-- raw: "20100#刚正不阿#刚属性<color=e0834c>增加10点</color>。#0#20100#0#0#0#0#1#1|2|3|4|5#0##0#0#5#"
+- raw: "20100#刚正不阿#刚属性<color=e0834c>增加10点</color>。#0#20100#0#0#0#0#1#1|2|3|4|5#0##0#0#10#"
   splits:
   - split: 1
     text: "刚正不阿"
@@ -1094,7 +1094,7 @@
   - split: 2
     text: "刚属性<color=e0834c>增加10点</color>。"
     translated: "Hard attribute <color=e0834c>increased by 10 points</color>"
-- raw: "20110#铁骨铮铮#刚属性<color=e0834c>增加20点</color>。#0#20110#0#0#0#0#1#1|2|3|4|5#0##0#0#10#"
+- raw: "20110#铁骨铮铮#刚属性<color=e0834c>增加20点</color>。#0#20110#0#0#0#0#1#1|2|3|4|5#0##0#0#20#"
   splits:
   - split: 1
     text: "铁骨铮铮"
@@ -1238,7 +1238,7 @@
   - split: 2
     text: "毒属性<color=e0834c>增加5%</color>。"
     translated: "Poison attribute <color=e0834c>increased by 5%</color>"
-- raw: "20290#鸩羽千夜#毒属性<color=e0834c>增加10%</color>。#0#20290#0#0#0#0#3#1|2|3|4|5#0##0#0#50#"
+- raw: "20290#鸩羽千夜#毒属性<color=e0834c>增加10%</color>。#0#20290#0#0#0#0#3#1|2|3|4|5#0##0#0#55#"
   splits:
   - split: 1
     text: "鸩羽千夜"

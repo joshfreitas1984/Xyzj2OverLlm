@@ -23691,34 +23691,6 @@
   - split: 37
     text: "秘术：百炼成钢"
     translated: "Secret Technique: Tempered into steel through a hundred trials."
-- raw: "600151#云鹤村锻造秘术#0#0#0#955200#955196#955197#####0&10|2025|2025002|1#0#7001|2&7006|1&7202|1#0##0#0#25#0|1|60056#0##0##0##0#0#0##0#0#0#获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})#将{I}交给{A}#0#秘术：修旧利废#0###0#0#"
-  splits:
-  - split: 1
-    text: "云鹤村锻造秘术"
-    translated: "Cloud Crane Village's Secret Metalworking Techniques"
-  - split: 34
-    text: "获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
-    translated: "Obtained {I} ({HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
-  - split: 35
-    text: "将{I}交给{A}"
-    translated: "Give {I} to {A}"
-  - split: 37
-    text: "秘术：修旧利废"
-    translated: "Secret Technique: Revive what is old and make good use of what is discarded."
-- raw: "600152#云鹤村锻造秘术#0#0#0#955194#955190#955191#####0&10|2025|2025003|1#0#7001|2&7006|1&7203|1#0##0#0#11#51|10#0##0##0##0#0#0##0#0#0#{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})#回禀{A}#0#秘术：铸新淘旧#0###0#0#"
-  splits:
-  - split: 1
-    text: "云鹤村锻造秘术"
-    translated: "Cloud Crane Village's Secret Metalworking Techniques"
-  - split: 34
-    text: "{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
-    translated: "{WaitLifeSkillUseAttritypeName}: Wait {WaitLifeSkillUseAttritypeCount} times ({HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
-  - split: 35
-    text: "回禀{A}"
-    translated: "Report to {A}"
-  - split: 37
-    text: "秘术：铸新淘旧"
-    translated: "Secret technique: Forge anew, refine old"
 - raw: "600153#云鹤村锻造秘术#0#0#0#955188#955184#955185#####0&10|2024|2024001|1#0#7001|2&7006|1&7204|1#0##0#0#25#9001|10|0#0##0##0##0#0#0##0#0#0#获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})#将{I}交给{A}#0#秘术：青铜行渊#0###0#0#"
   splits:
   - split: 1
@@ -23761,48 +23733,6 @@
   - split: 37
     text: "秘法：神农琉璃功"
     translated: "Secret technique: Shennong Luli Gong"
-- raw: "600158#云鹤村锻造秘法#0#0#0#955158#955154#955155#####0&10|2025|2025004|1#0#7001|2&7006|1&7209|1#0##0#0#11#51|10#0##0##0##0#0#0##0#0#0#{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})#回禀{A}#0#秘法：风霜碎影#0###0#0#"
-  splits:
-  - split: 1
-    text: "云鹤村锻造秘法"
-    translated: "Cloud Crane Village's secret forging technique"
-  - split: 34
-    text: "{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
-    translated: "{WaitLifeSkillUseAttritypeName}: Wait {WaitLifeSkillUseAttritypeCount} times ({HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
-  - split: 35
-    text: "回禀{A}"
-    translated: "Report to {A}"
-  - split: 37
-    text: "秘法：风霜碎影"
-    translated: "Secret Technique: Wind and Frost, Shattered Reflections"
-- raw: "600159#云鹤村炼丹秘术#0#0#0#955152#955148#955149#####0&10|5401|5401001|1#0#7001|2&7006|1&7210|1#0##0#0#34#0|3|0|5401|18003#0##0##0##0#0#0##0#0#0#制造｛I}({IsCanFinish:0:1}/3)#回禀{A}#0#秘法：乌金玄汤卷#0###0#0#"
-  splits:
-  - split: 1
-    text: "云鹤村炼丹秘术"
-    translated: "Cloud Crane Village's alchemy secret techniques"
-  - split: 34
-    text: "制造｛I}({IsCanFinish:0:1}/3)"
-    translated: "Manufacture {IsCanFinish:0:1} (3)"
-  - split: 35
-    text: "回禀{A}"
-    translated: "Report to {A}"
-  - split: 37
-    text: "秘法：乌金玄汤卷"
-    translated: "Secret Technique: Black Gold Secret Elixir"
-- raw: "600160#云鹤村炼丹秘法#0#0#0#955146#955142#955143#####0&10|32028|32028001|1#0#7001|2&7006|1&7211|1#0##0#0#25#0|1|60049#0##0##0##0#0#0##0#0#0#获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})#将{I}交给{A}#0#秘法：无相御风#0###0#0#"
-  splits:
-  - split: 1
-    text: "云鹤村炼丹秘法"
-    translated: "Cloud Crane Village's secret alchemy formula"
-  - split: 34
-    text: "获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
-    translated: "Obtained {I} ({HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
-  - split: 35
-    text: "将{I}交给{A}"
-    translated: "Give {I} to {A}"
-  - split: 37
-    text: "秘法：无相御风"
-    translated: "Secret Technique: Wind Riding Without Shape"
 - raw: "600161#云鹤村缝纫秘术#0#0#0#955140#955136#955137#####0&10|30028|30028001|1#0#7001|2&7006|1&7212|1#0##0#0#11#53|10#0##0##0##0#0#0##0#0#0#{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})#回禀{A}#0#秘术：缠丝诀#0###0#0#"
   splits:
   - split: 1
@@ -25761,10 +25691,10 @@
   splits:
   - split: 1
     text: "门派：亲传弟子晋升（6级）"
-    translated: "Sect: Inheritor disciple promoted to (6) level"
+    translated: "Men pai: Directly passed disciple promoted to (6) level."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1）"
-    translated: "Assault {E} ({IsCanFinish:0:1}/1)"
+    translated: "Ambush and Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{A}"
     translated: "Report to {A}"
@@ -25775,10 +25705,10 @@
   splits:
   - split: 1
     text: "门派：亲传弟子晋升（6级）"
-    translated: "Sect: Inheritor disciple promoted to (6) level"
+    translated: "Men pai: Directly passed disciple promoted to (6) level."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1）"
-    translated: "Assault {E} ({IsCanFinish:0:1}/1)"
+    translated: "Ambush and Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{A}"
     translated: "Report to {A}"
@@ -25789,10 +25719,10 @@
   splits:
   - split: 1
     text: "门派：亲传弟子晋升（6级）"
-    translated: "Sect: Inheritor disciple promoted to (6) level"
+    translated: "Men pai: Directly passed disciple promoted to (6) level."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1）"
-    translated: "Assault {E} ({IsCanFinish:0:1}/1)"
+    translated: "Ambush and Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{A}"
     translated: "Report to {A}"
@@ -25803,10 +25733,10 @@
   splits:
   - split: 1
     text: "门派：亲传弟子晋升（6级）"
-    translated: "Sect: Inheritor disciple promoted to (6) level"
+    translated: "Men pai: Directly passed disciple promoted to (6) level."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1）"
-    translated: "Assault {E} ({IsCanFinish:0:1}/1)"
+    translated: "Ambush and Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{A}"
     translated: "Report to {A}"
@@ -25817,10 +25747,10 @@
   splits:
   - split: 1
     text: "门派：亲传弟子晋升（6级）"
-    translated: "Sect: Inheritor disciple promoted to (6) level"
+    translated: "Men pai: Directly passed disciple promoted to (6) level."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1）"
-    translated: "Assault {E} ({IsCanFinish:0:1}/1)"
+    translated: "Ambush and Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{A}"
     translated: "Report to {A}"

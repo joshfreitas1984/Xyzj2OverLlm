@@ -6926,27 +6926,27 @@
   splits:
   - split: 3
     text: "彩色"
-- raw: "HandbookView,RefreshDetails,85,品质：{0},[SweetPotato.Item]"
+- raw: "HandbookView,RefreshDetails,113,品质：{0},[SweetPotato.Item]"
   splits:
   - split: 3
     text: "品质：{0}"
-- raw: "HandbookView,RefreshDetails,112,等级：{0},[SweetPotato.Item]"
+- raw: "HandbookView,RefreshDetails,140,等级：{0},[SweetPotato.Item]"
   splits:
   - split: 3
     text: "等级：{0}"
-- raw: "HandbookView,RefreshDetails,269,品质：{0},[SweetPotato.Item]"
+- raw: "HandbookView,RefreshDetails,297,品质：{0},[SweetPotato.Item]"
   splits:
   - split: 3
     text: "品质：{0}"
-- raw: "HandbookView,RefreshDetails,301,等级：{0},[SweetPotato.Item]"
+- raw: "HandbookView,RefreshDetails,329,等级：{0},[SweetPotato.Item]"
   splits:
   - split: 3
     text: "等级：{0}"
-- raw: "HandbookView,RefreshDetails,331,品质：{0},[SweetPotato.Item]"
+- raw: "HandbookView,RefreshDetails,359,品质：{0},[SweetPotato.Item]"
   splits:
   - split: 3
     text: "品质：{0}"
-- raw: "HandbookView,RefreshDetails,371,等级：{0},[SweetPotato.Item]"
+- raw: "HandbookView,RefreshDetails,399,等级：{0},[SweetPotato.Item]"
   splits:
   - split: 3
     text: "等级：{0}"
@@ -7122,7 +7122,7 @@
   splits:
   - split: 3
     text: "特殊"
-- raw: "ItemDataSlot,UpdateFromModel,97,一阶,[SweetPotato.Item]"
+- raw: "ItemDataSlot,UpdateFromModel,125,一阶,[SweetPotato.Item]"
   splits:
   - split: 3
     text: "一阶"
@@ -7510,10 +7510,10 @@
   splits:
   - split: 3
     text: "境界：第{0}层"
-- raw: "JingJiePartView,RefreshSelected,1415,消耗修为：,[]"
+- raw: "JingJiePartView,RefreshSelected,1415,消耗修为 ：        ,[]"
   splits:
   - split: 3
-    text: "消耗修为："
+    text: "消耗修为 ：        "
 - raw: "JingJiePartView,YongLingCondition,68,<color=#868686>经脉</color>,[SweetPotato.JingJie_node，UnityEngine.RectTransform，UnityEngine.RectTransform]"
   splits:
   - split: 3
@@ -8518,6 +8518,10 @@
   splits:
   - split: 3
     text: "当前状态无法打坐"
+- raw: "MainView,SetCameraDisText,32,视野X{0},[]"
+  splits:
+  - split: 3
+    text: "视野X{0}"
 - raw: "MainView,UpdateQuestHintCursorPos,897,{0}步,[UnityEngine.Vector3，MainView/QuestHintCursorType]"
   splits:
   - split: 3
@@ -9182,6 +9186,22 @@
   splits:
   - split: 3
     text: "消耗感悟："
+- raw: "MiJiActiveConditionItemSlot_mobile,OnReset,272,激活:,[]"
+  splits:
+  - split: 3
+    text: "激活:"
+- raw: "MiJiActiveConditionItemSlot_mobile,OnReset,391,激活:,[]"
+  splits:
+  - split: 3
+    text: "激活:"
+- raw: "MiJiActiveConditionItemSlot_mobile,OnReset,469,激活:,[]"
+  splits:
+  - split: 3
+    text: "激活:"
+- raw: "MiJiActiveConditionItemSlot_mobile,OnReset,490,(五脏),[]"
+  splits:
+  - split: 3
+    text: "(五脏)"
 - raw: "MijiBookImprovePart,RefreshMidInfo,176,消耗：        {0}/{1},[MiJiNodeInfo，MiJiNodeInfo，System.Int32]"
   splits:
   - split: 3
@@ -9306,42 +9326,10 @@
   splits:
   - split: 3
     text: "设计时要求只能有1个buff效果，但实际不是，nodeId:{0}"
-- raw: "NanDuView/<>c__DisplayClass45_0,<Awake>b__0,25,通关后二周目开启！,[System.Boolean]"
+- raw: "NanDuView/<>c__DisplayClass45_0,<Awake>b__0,13,通关后二周目开启！,[System.Boolean]"
   splits:
   - split: 3
     text: "通关后二周目开启！"
-- raw: "NanDuView,RefreshToggle,170,<color=#699967>已通关</color>,[]"
-  splits:
-  - split: 3
-    text: "<color=#699967>已通关</color>"
-- raw: "NanDuView,RefreshToggle,221,<color=#699967>已通关</color>,[]"
-  splits:
-  - split: 3
-    text: "<color=#699967>已通关</color>"
-- raw: "NanDuView,RefreshToggle,269,<color=#699967>已通关</color>,[]"
-  splits:
-  - split: 3
-    text: "<color=#699967>已通关</color>"
-- raw: "NanDuView,RefreshToggle,314,<color=#699967>已通关</color>,[]"
-  splits:
-  - split: 3
-    text: "<color=#699967>已通关</color>"
-- raw: "NanDuView,RefreshToggle,359,<color=#699967>已通关</color>,[]"
-  splits:
-  - split: 3
-    text: "<color=#699967>已通关</color>"
-- raw: "NanDuView,RefreshToggle,381,<color=#c45151>未通关</color>,[]"
-  splits:
-  - split: 3
-    text: "<color=#c45151>未通关</color>"
-- raw: "NanDuView,SetToggleEvent,138,<color=#acacac>难度：</color><color=#f0f0f0>,[UnityEngine.UI.ToggleEx，System.Boolean，UnityEngine.GameObject，System.Int32]"
-  splits:
-  - split: 3
-    text: "<color=#acacac>难度：</color><color=#f0f0f0>"
-- raw: "NanDuView,SetToggleEvent,168,<color=#141313>难度：,[UnityEngine.UI.ToggleEx，System.Boolean，UnityEngine.GameObject，System.Int32]"
-  splits:
-  - split: 3
-    text: "<color=#141313>难度："
 - raw: "NanDuView,OnClickEnterGame,102,确认当前难度，并进入游戏,[]"
   splits:
   - split: 3
@@ -10150,51 +10138,51 @@
   splits:
   - split: 3
     text: "我:"
-- raw: "QuestViewNew/<>c__DisplayClass79_0,<OnQuestLogSelect>b__0,44,显示追踪,[System.Boolean]"
+- raw: "QuestViewNew/<>c__DisplayClass80_0,<OnQuestLogSelect>b__0,44,显示追踪,[System.Boolean]"
   splits:
   - split: 3
     text: "显示追踪"
-- raw: "QuestViewNew/<>c__DisplayClass79_0,<OnQuestLogSelect>b__0,51,取消显示,[System.Boolean]"
+- raw: "QuestViewNew/<>c__DisplayClass80_0,<OnQuestLogSelect>b__0,51,取消显示,[System.Boolean]"
   splits:
   - split: 3
     text: "取消显示"
-- raw: "QuestViewNew/<>c__DisplayClass79_5,<OnQuestLogSelect>b__13,65,确定要放弃吗？,[]"
+- raw: "QuestViewNew/<>c__DisplayClass80_5,<OnQuestLogSelect>b__13,65,确定要放弃吗？,[]"
   splits:
   - split: 3
     text: "确定要放弃吗？"
-- raw: "QuestViewNew/<>c__DisplayClass79_5,<OnQuestLogSelect>b__13,83,确定,[]"
+- raw: "QuestViewNew/<>c__DisplayClass80_5,<OnQuestLogSelect>b__13,83,确定,[]"
   splits:
   - split: 3
     text: "确定"
-- raw: "QuestViewNew/<>c__DisplayClass79_5,<OnQuestLogSelect>b__13,88,取消,[]"
+- raw: "QuestViewNew/<>c__DisplayClass80_5,<OnQuestLogSelect>b__13,88,取消,[]"
   splits:
   - split: 3
     text: "取消"
-- raw: "QuestViewNew/<>c__DisplayClass79_5,<OnQuestLogSelect>b__14,49,显示追踪,[System.Boolean]"
+- raw: "QuestViewNew/<>c__DisplayClass80_5,<OnQuestLogSelect>b__14,49,显示追踪,[System.Boolean]"
   splits:
   - split: 3
     text: "显示追踪"
-- raw: "QuestViewNew/<>c__DisplayClass79_5,<OnQuestLogSelect>b__14,56,取消显示,[System.Boolean]"
+- raw: "QuestViewNew/<>c__DisplayClass80_5,<OnQuestLogSelect>b__14,56,取消显示,[System.Boolean]"
   splits:
   - split: 3
     text: "取消显示"
-- raw: "QuestViewNew/<>c__DisplayClass79_7,<OnQuestLogSelect>b__16,5,确定要放弃吗？,[]"
+- raw: "QuestViewNew/<>c__DisplayClass80_7,<OnQuestLogSelect>b__16,5,确定要放弃吗？,[]"
   splits:
   - split: 3
     text: "确定要放弃吗？"
-- raw: "QuestViewNew/<>c__DisplayClass79_7,<OnQuestLogSelect>b__16,42,确定,[]"
+- raw: "QuestViewNew/<>c__DisplayClass80_7,<OnQuestLogSelect>b__16,42,确定,[]"
   splits:
   - split: 3
     text: "确定"
-- raw: "QuestViewNew/<>c__DisplayClass79_7,<OnQuestLogSelect>b__16,47,取消,[]"
+- raw: "QuestViewNew/<>c__DisplayClass80_7,<OnQuestLogSelect>b__16,47,取消,[]"
   splits:
   - split: 3
     text: "取消"
-- raw: "QuestViewNew/<>c__DisplayClass79_7,<OnQuestLogSelect>b__17,44,显示追踪,[System.Boolean]"
+- raw: "QuestViewNew/<>c__DisplayClass80_7,<OnQuestLogSelect>b__17,44,显示追踪,[System.Boolean]"
   splits:
   - split: 3
     text: "显示追踪"
-- raw: "QuestViewNew/<>c__DisplayClass79_7,<OnQuestLogSelect>b__17,51,取消显示,[System.Boolean]"
+- raw: "QuestViewNew/<>c__DisplayClass80_7,<OnQuestLogSelect>b__17,51,取消显示,[System.Boolean]"
   splits:
   - split: 3
     text: "取消显示"
@@ -11918,19 +11906,19 @@
   splits:
   - split: 3
     text: "取消"
-- raw: "BuYeJingManager,ShowJingYuZhuFeige,457,经查明，京谕珠在：,[]"
+- raw: "BuYeJingManager,ShowJingYuZhuFeige,499,经查明，京谕珠在：,[]"
   splits:
   - split: 3
     text: "经查明，京谕珠在："
-- raw: "BuYeJingManager,ShowJingYuZhuFeige,783,出现过。,[]"
+- raw: "BuYeJingManager,ShowJingYuZhuFeige,825,出现过。,[]"
   splits:
   - split: 3
     text: "出现过。"
-- raw: "BuYeJingManager,ShowJingYuZhuFeige,837,京谕珠正在流转，稍后出现最终消息,[]"
+- raw: "BuYeJingManager,ShowJingYuZhuFeige,879,京谕珠正在流转，稍后出现最终消息,[]"
   splits:
   - split: 3
     text: "京谕珠正在流转，稍后出现最终消息"
-- raw: "BuYeJingManager,ShowJingYuZhuFeige,864,京谕珠已皆在你手，前往不夜京找独孤侑吧。,[]"
+- raw: "BuYeJingManager,ShowJingYuZhuFeige,906,京谕珠已皆在你手，前往不夜京找独孤侑吧。,[]"
   splits:
   - split: 3
     text: "京谕珠已皆在你手，前往不夜京找独孤侑吧。"
@@ -12166,15 +12154,15 @@
   splits:
   - split: 3
     text: "委托：{0} 配置错误"
-- raw: "EntrustManager,DoEventAcceptAction,1074,npcid：{0} sectid：{1} 获取不到门派,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptAction,1054,npcid：{0} sectid：{1} 获取不到门派,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "npcid：{0} sectid：{1} 获取不到门派"
-- raw: "EntrustManager,DoEventAcceptAction,1143,sectid：{0} 该门派没有敌对势力,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptAction,1123,sectid：{0} 该门派没有敌对势力,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "sectid：{0} 该门派没有敌对势力"
-- raw: "EntrustManager,DoEventAcceptAction,1491,sectid：{0} 该门派敌对势力npc不够 {1} 个，目前只有 {2} 个,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptAction,1471,sectid：{0} 该门派敌对势力npc不够 {1} 个，目前只有 {2} 个,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "sectid：{0} 该门派敌对势力npc不够 {1} 个，目前只有 {2} 个"
@@ -15858,15 +15846,15 @@
   splits:
   - split: 3
     text: "无有效目标"
-- raw: "SweetPotato.GameSaving/<Load>d__114,MoveNext,1036,此存档包含DLC内容 {0} ，无法读取,[]"
+- raw: "SweetPotato.GameSaving/<Load>d__115,MoveNext,1036,此存档包含DLC内容 {0} ，无法读取,[]"
   splits:
   - split: 3
     text: "此存档包含DLC内容 {0} ，无法读取"
-- raw: "SweetPotato.GameSaving/<Load>d__114,MoveNext,1095,确认,[]"
+- raw: "SweetPotato.GameSaving/<Load>d__115,MoveNext,1095,确认,[]"
   splits:
   - split: 3
     text: "确认"
-- raw: "SweetPotato.GameSaving/<Load>d__114,MoveNext,1100,取消,[]"
+- raw: "SweetPotato.GameSaving/<Load>d__115,MoveNext,1100,取消,[]"
   splits:
   - split: 3
     text: "取消"
@@ -16854,30 +16842,14 @@
   splits:
   - split: 3
     text: "少侠的姓名包含忌讳之词，请重新输入"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnTianFuItemSelect,138,<size=30>可分配点数<color=#ff0000>不足</color></size>,[SweetPotato.InsViewNewNewTianFuItem，System.Boolean]"
-  splits:
-  - split: 3
-    text: "<size=30>可分配点数<color=#ff0000>不足</color></size>"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,RefreshTalentUI,677,自选天赋：,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,RefreshTalentUI,676,自选天赋：,[]"
   splits:
   - split: 3
     text: "自选天赋："
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,RefreshTalentUI,752,自选天赋：<color=#848484>(消耗天赋点数配置角色自选天赋),[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,RefreshTalentUI,751,自选天赋：<color=#848484>(消耗天赋点数配置角色自选天赋),[]"
   splits:
   - split: 3
     text: "自选天赋：<color=#848484>(消耗天赋点数配置角色自选天赋)"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnPointClick,124,天赋点数不足,[SweetPotato.InsViewNewNewTianFuItem]"
-  splits:
-  - split: 3
-    text: "天赋点数不足"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnPointClick,131,确定,[SweetPotato.InsViewNewNewTianFuItem]"
-  splits:
-  - split: 3
-    text: "确定"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnPointClick,136,取消,[SweetPotato.InsViewNewNewTianFuItem]"
-  splits:
-  - split: 3
-    text: "取消"
 - raw: "SweetPotato.InstantiateViewNewNew_mobile,GetAttriDesc,24,<color=#787a7c>(影响人物{0}和{1})</color>,[SweetPotato.AttriType]"
   splits:
   - split: 3
@@ -16890,51 +16862,51 @@
   splits:
   - split: 3
     text: "其余武器套路请在进入游戏后自行更换"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,224,请输入名字,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,267,请输入名字,[]"
   splits:
   - split: 3
     text: "请输入名字"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,231,确定,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,274,确定,[]"
   splits:
   - split: 3
     text: "确定"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,236,取消,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,279,取消,[]"
   splits:
   - split: 3
     text: "取消"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,373,请选择天赋,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,416,请选择天赋,[]"
   splits:
   - split: 3
     text: "请选择天赋"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,380,确定,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,423,确定,[]"
   splits:
   - split: 3
     text: "确定"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,385,取消,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,428,取消,[]"
   splits:
   - split: 3
     text: "取消"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,442,使用属性点数调整战斗倾向属性。,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,485,使用属性点数调整战斗倾向属性。,[]"
   splits:
   - split: 3
     text: "使用属性点数调整战斗倾向属性。"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,449,确定,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,492,确定,[]"
   splits:
   - split: 3
     text: "确定"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,454,取消,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,497,取消,[]"
   splits:
   - split: 3
     text: "取消"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,600,天赋点数不足,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,643,天赋点数不足,[]"
   splits:
   - split: 3
     text: "天赋点数不足"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,607,确定,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,650,确定,[]"
   splits:
   - split: 3
     text: "确定"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,612,取消,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,655,取消,[]"
   splits:
   - split: 3
     text: "取消"
@@ -16942,15 +16914,27 @@
   splits:
   - split: 3
     text: "添加物品: "
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,<Awake>b__98_26,36,少侠的姓名包含忌讳之词，请重新输入,[System.String]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBtnTalentSelectClick,96,天赋点数不足，不会应用当前选择的天赋，是否退出天赋选择,[]"
+  splits:
+  - split: 3
+    text: "天赋点数不足，不会应用当前选择的天赋，是否退出天赋选择"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBtnTalentSelectClick,114,确定,[]"
+  splits:
+  - split: 3
+    text: "确定"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBtnTalentSelectClick,119,取消,[]"
+  splits:
+  - split: 3
+    text: "取消"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,<Awake>b__99_25,36,少侠的姓名包含忌讳之词，请重新输入,[System.String]"
   splits:
   - split: 3
     text: "少侠的姓名包含忌讳之词，请重新输入"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,<Awake>b__98_26,96,少侠的姓名不得超过七个字,[System.String]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,<Awake>b__99_25,96,少侠的姓名不得超过七个字,[System.String]"
   splits:
   - split: 3
     text: "少侠的姓名不得超过七个字"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,<Awake>b__98_27,36,少侠的姓名包含忌讳之词，请重新输入,[System.String]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,<Awake>b__99_26,36,少侠的姓名包含忌讳之词，请重新输入,[System.String]"
   splits:
   - split: 3
     text: "少侠的姓名包含忌讳之词，请重新输入"
@@ -17730,6 +17714,14 @@
   splits:
   - split: 3
     text: "开启"
+- raw: "SweetPotato.SettingViewNew,SetCameraLockBtn,94,只锁定目标,[]"
+  splits:
+  - split: 3
+    text: "只锁定目标"
+- raw: "SweetPotato.SettingViewNew,SetCameraLockBtn,101,镜头追踪,[]"
+  splits:
+  - split: 3
+    text: "镜头追踪"
 - raw: "SweetPotato.SettingViewNew,SetShoubingView_LR,119,关闭,[]"
   splits:
   - split: 3
@@ -17754,35 +17746,35 @@
   splits:
   - split: 3
     text: "开启"
-- raw: "SweetPotato.SettingViewNew,<OpenAnjianshezhi>b__94_0,18,保存成功！,[]"
+- raw: "SweetPotato.SettingViewNew,<OpenAnjianshezhi>b__97_0,18,保存成功！,[]"
   splits:
   - split: 3
     text: "保存成功！"
-- raw: "SweetPotato.SettingViewNew,<OpenAnjianshezhi>b__94_1,18,已重置！,[]"
+- raw: "SweetPotato.SettingViewNew,<OpenAnjianshezhi>b__97_1,18,已重置！,[]"
   splits:
   - split: 3
     text: "已重置！"
-- raw: "SweetPotato.SettingViewNew,<OpenYingyueshezhi>b__99_0,18,保存成功！,[]"
+- raw: "SweetPotato.SettingViewNew,<OpenYingyueshezhi>b__102_0,18,保存成功！,[]"
   splits:
   - split: 3
     text: "保存成功！"
-- raw: "SweetPotato.SettingViewNew,<OpenYingyueshezhi>b__99_1,18,已重置！,[]"
+- raw: "SweetPotato.SettingViewNew,<OpenYingyueshezhi>b__102_1,18,已重置！,[]"
   splits:
   - split: 3
     text: "已重置！"
-- raw: "SweetPotato.SettingViewNew,<OpenHuamianshezhi>b__104_0,18,保存成功！,[]"
+- raw: "SweetPotato.SettingViewNew,<OpenHuamianshezhi>b__107_0,18,保存成功！,[]"
   splits:
   - split: 3
     text: "保存成功！"
-- raw: "SweetPotato.SettingViewNew,<OpenHuamianshezhi>b__104_1,18,已重置！,[]"
+- raw: "SweetPotato.SettingViewNew,<OpenHuamianshezhi>b__107_1,18,已重置！,[]"
   splits:
   - split: 3
     text: "已重置！"
-- raw: "SweetPotato.SettingViewNew,<OpenChaoZuoSheZhi>b__146_0,18,保存成功！,[]"
+- raw: "SweetPotato.SettingViewNew,<OpenChaoZuoSheZhi>b__149_0,18,保存成功！,[]"
   splits:
   - split: 3
     text: "保存成功！"
-- raw: "SweetPotato.SettingViewNew,<OpenChaoZuoSheZhi>b__146_1,18,已重置！,[]"
+- raw: "SweetPotato.SettingViewNew,<OpenChaoZuoSheZhi>b__149_1,18,已重置！,[]"
   splits:
   - split: 3
     text: "已重置！"
@@ -17938,27 +17930,27 @@
   splits:
   - split: 3
     text: "取消"
-- raw: "SweetPotato.ShangChengViewNew,OnChuanDaiBtnClick,371,卸下,[]"
+- raw: "SweetPotato.ShangChengViewNew,OnChuanDaiBtnClick,326,卸下,[]"
   splits:
   - split: 3
     text: "卸下"
-- raw: "SweetPotato.ShangChengViewNew,OnChuanDaiBtnClick,378,启用,[]"
+- raw: "SweetPotato.ShangChengViewNew,OnChuanDaiBtnClick,333,启用,[]"
   splits:
   - split: 3
     text: "启用"
-- raw: "SweetPotato.ShangChengViewNew,OnChuanDaiBtnClick,551,卸下,[]"
+- raw: "SweetPotato.ShangChengViewNew,OnChuanDaiBtnClick,506,卸下,[]"
   splits:
   - split: 3
     text: "卸下"
-- raw: "SweetPotato.ShangChengViewNew,OnChuanDaiBtnClick,558,启用,[]"
+- raw: "SweetPotato.ShangChengViewNew,OnChuanDaiBtnClick,513,启用,[]"
   splits:
   - split: 3
     text: "启用"
-- raw: "SweetPotato.ShangChengViewNew,OnChuanDaiBtnClick,793,卸下,[]"
+- raw: "SweetPotato.ShangChengViewNew,OnChuanDaiBtnClick,748,卸下,[]"
   splits:
   - split: 3
     text: "卸下"
-- raw: "SweetPotato.ShangChengViewNew,OnChuanDaiBtnClick,800,启用,[]"
+- raw: "SweetPotato.ShangChengViewNew,OnChuanDaiBtnClick,755,启用,[]"
   splits:
   - split: 3
     text: "启用"
@@ -18038,11 +18030,11 @@
   splits:
   - split: 3
     text: "取消"
-- raw: "SweetPotato.SpellEditView,OnMPEventHandler,322,修为：,[MPEventArgs]"
+- raw: "SweetPotato.SpellEditView,OnMPEventHandler,344,修为：,[MPEventArgs]"
   splits:
   - split: 3
     text: "修为："
-- raw: "SweetPotato.SpellEditView,OnMPEventHandler,376,感悟：,[MPEventArgs]"
+- raw: "SweetPotato.SpellEditView,OnMPEventHandler,398,感悟：,[MPEventArgs]"
   splits:
   - split: 3
     text: "感悟："
@@ -18398,11 +18390,11 @@
   splits:
   - split: 3
     text: "--------------存档：数量{0}------------------"
-- raw: "SweetPotato.MenPaiZhongMenDaBiManager/<FinishIE>d__8,MoveNext,565,你在宗门大比获得了第{0}名,[]"
+- raw: "SweetPotato.MenPaiZhongMenDaBiManager/<FinishIE>d__9,MoveNext,565,你在宗门大比获得了第{0}名,[]"
   splits:
   - split: 3
     text: "你在宗门大比获得了第{0}名"
-- raw: "SweetPotato.MenPaiZhongMenDaBiManager/<FinishIE>d__8,MoveNext,591,你在宗门大比获得了第{0}名,[]"
+- raw: "SweetPotato.MenPaiZhongMenDaBiManager/<FinishIE>d__9,MoveNext,591,你在宗门大比获得了第{0}名,[]"
   splits:
   - split: 3
     text: "你在宗门大比获得了第{0}名"
@@ -18410,15 +18402,15 @@
   splits:
   - split: 3
     text: "请先登录"
-- raw: "SweetPotato.WorldManager/<CheckJingYuZhuRefreshEnum>d__188,MoveNext,1197,城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。,[]"
+- raw: "SweetPotato.WorldManager/<CheckJingYuZhuRefreshEnum>d__187,MoveNext,1197,城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。,[]"
   splits:
   - split: 3
     text: "城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。"
-- raw: "SweetPotato.WorldManager/<RefreshJingYuZhuInfosEnum>d__191,MoveNext,732,有新的持有京瑜珠NPC npcId:{0},[]"
+- raw: "SweetPotato.WorldManager/<RefreshJingYuZhuInfosEnum>d__190,MoveNext,732,有新的持有京瑜珠NPC npcId:{0},[]"
   splits:
   - split: 3
     text: "有新的持有京瑜珠NPC npcId:{0}"
-- raw: "SweetPotato.WorldManager/<RefreshJingYuZhuInfosEnum>d__191,MoveNext,911,城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。,[]"
+- raw: "SweetPotato.WorldManager/<RefreshJingYuZhuInfosEnum>d__190,MoveNext,911,城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。,[]"
   splits:
   - split: 3
     text: "城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。"
@@ -18450,14 +18442,14 @@
   splits:
   - split: 3
     text: "已达到瓶颈，提升身份后方可突破瓶颈"
-- raw: "SweetPotato.AttriManager,ModAttriField,572,获得,[SweetPotato.AttriType，System.Int32，System.Boolean，System.Int32，System.Int32，System.Boolean，System.Boolean，System.Boolean，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.AttriManager,ModAttriField,572,<color=#2EDFA3>获得</color>,[SweetPotato.AttriType，System.Int32，System.Boolean，System.Int32，System.Int32，System.Boolean，System.Boolean，System.Boolean，System.Boolean，System.Boolean]"
   splits:
   - split: 3
-    text: "获得"
-- raw: "SweetPotato.AttriManager,ModAttriField,622,<color=#2EDFA3>扣除</color>,[SweetPotato.AttriType，System.Int32，System.Boolean，System.Int32，System.Int32，System.Boolean，System.Boolean，System.Boolean，System.Boolean，System.Boolean]"
+    text: "<color=#2EDFA3>获得</color>"
+- raw: "SweetPotato.AttriManager,ModAttriField,622,<color=#e25757>扣除</color>,[SweetPotato.AttriType，System.Int32，System.Boolean，System.Int32，System.Int32，System.Boolean，System.Boolean，System.Boolean，System.Boolean，System.Boolean]"
   splits:
   - split: 3
-    text: "<color=#2EDFA3>扣除</color>"
+    text: "<color=#e25757>扣除</color>"
 - raw: "SweetPotato.AttriManager,SetXiuWeiByJingjie,24,随机Npc，guid:{0}属性配置错误，导致初始修为在设置之前就不为0,[]"
   splits:
   - split: 3
@@ -18974,10 +18966,10 @@
   splits:
   - split: 3
     text: "未卜·"
-- raw: "SweetPotato.ItemStorage,CreateAndAddByItemId,1030,获得,[System.Int64，System.Int32，System.Boolean，System.Int32，System.Int32]"
+- raw: "SweetPotato.ItemStorage,CreateAndAddByItemId,1030,<color=#2EDFA3>获得</color>,[System.Int64，System.Int32，System.Boolean，System.Int32，System.Int32]"
   splits:
   - split: 3
-    text: "获得"
+    text: "<color=#2EDFA3>获得</color>"
 - raw: "SweetPotato.ItemStorage,RemoveItem,452,<color=#2EDFA3>扣除</color>,[SweetPotato.Item，System.Int32，System.Boolean]"
   splits:
   - split: 3
@@ -19334,6 +19326,10 @@
   splits:
   - split: 3
     text: "因为缺少对应的武器，自动切换为下个套路。"
+- raw: "SweetPotato.Team,AddFollowPlayerNpc,100,驯化成功！,[System.Int64]"
+  splits:
+  - split: 3
+    text: "驯化成功！"
 - raw: "SweetPotato.TeamManager,AddTeamMember,62,队友数量已达上限，无法招募,[System.Int64，System.Int64，System.Boolean，System.Boolean，System.Boolean]"
   splits:
   - split: 3
