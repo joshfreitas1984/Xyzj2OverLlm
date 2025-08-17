@@ -584,6 +584,8 @@
 3868#3868_createure_fangzi02#
 3869#3869_creature_gonggaopai#
 3870#3870_creature_kulou#
+3871#3871_createure_shaoji#
+3872#3872_createure_jiuhu#
 3900#3900_jian#
 3901#3901_jian#
 3902#3902_jian#

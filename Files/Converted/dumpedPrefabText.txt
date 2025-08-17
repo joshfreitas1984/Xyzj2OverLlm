@@ -86,10 +86,6 @@
   splits:
   - text: "领取"
     translated: "Receive"
-- raw: "百战身未败，剑光寒过霜。独行谁与敌，"
-  splits:
-  - text: "百战身未败，剑光寒过霜。独行谁与敌，"
-    translated: "Unbeaten in a hundred battles, swordlight colder than frost. Walking alone, who can be my enemy?"
 - raw: "燕国区域"
   splits:
   - text: "燕国区域"
@@ -126,6 +122,10 @@
   splits:
   - text: "身轻如燕是"
     translated: "To be light as a swallow"
+- raw: "身轻如燕打算"
+  splits:
+  - text: "身轻如燕打算"
+    translated: "Shen Qingru plans to act like a swallow in flight."
 - raw: "百战身未败， 剑光寒过霜。独行谁与敌，发生大萨达大叔大婶大叔大婶大叔大婶大啊大大"
   splits:
   - text: "百战身未败， 剑光寒过霜。独行谁与敌，发生大萨达大叔大婶大叔大婶大叔大婶大啊大大"
@@ -522,6 +522,10 @@
   splits:
   - text: "  获取途径"
     translated: "Acquisition method."
+- raw: "添加"
+  splits:
+  - text: "添加"
+    translated: "Add it"
 - raw: "上阵"
   splits:
   - text: "上阵"
@@ -534,6 +538,10 @@
   splits:
   - text: "已学习"
     translated: "Already learned"
+- raw: "使用冷却中\\n<size=36>0.5秒"
+  splits:
+  - text: "使用冷却中\\n<size=36>0.5秒"
+    translated: "Using cooldown\\n<size=36>0.5 seconds"
 - raw: "使用冷却中：\\n0.5秒"
   splits:
   - text: "使用冷却中：\\n0.5秒"
@@ -1218,6 +1226,10 @@
   splits:
   - text: "<color=#CCA46C>修为</color> 10000      <color=#CCA46C>外功</color> 16"
     translated: "<color=#CCA46C>Cultivation level</color> 10000, <color=#CCA46C>External skill</color> 16."
+- raw: "拖动指针调整打坐时间"
+  splits:
+  - text: "拖动指针调整打坐时间"
+    translated: "Drag the pointer to adjust meditation time"
 - raw: "打坐调息"
   splits:
   - text: "打坐调息"
@@ -1230,22 +1242,14 @@
   splits:
   - text: "(打坐时间最长为5个月)"
     translated: "(Meditation duration can be up to 5 months.)"
-- raw: "月"
-  splits:
-  - text: "月"
-    translated: "Month"
-- raw: "日"
-  splits:
-  - text: "日"
-    translated: "Day"
-- raw: "时"
-  splits:
-  - text: "时"
-    translated: "Time"
 - raw: "打坐结束后日期："
   splits:
   - text: "打坐结束后日期："
     translated: "Date after completing meditation:"
+- raw: "此处山水风景独佳，颇为静心，打坐进行中..."
+  splits:
+  - text: "此处山水风景独佳，颇为静心，打坐进行中..."
+    translated: "The scenery here is exceptionally beautiful, providing a perfect setting for relaxation. Meditation in progress..."
 - raw: "修炼点"
   splits:
   - text: "修炼点"
@@ -1258,6 +1262,18 @@
   splits:
   - text: "完成打坐可获得     "
     translated: "Completing meditation can earn you reward."
+- raw: "月"
+  splits:
+  - text: "月"
+    translated: "Month"
+- raw: "日"
+  splits:
+  - text: "日"
+    translated: "Day"
+- raw: "时"
+  splits:
+  - text: "时"
+    translated: "Time"
 - raw: "此物可用于打造无心"
   splits:
   - text: "此物可用于打造无心"
@@ -2731,10 +2747,6 @@
   splits:
   - text: "飞鸽好友guid:"
     translated: "Flying Pigeon Friend Guide:"
-- raw: "添加"
-  splits:
-  - text: "添加"
-    translated: "Add it"
 - raw: "合成特殊类型"
   splits:
   - text: "合成特殊类型"
@@ -3323,10 +3335,10 @@
   splits:
   - text: "锻造"
     translated: "Forging"
-- raw: "技艺精进\\n入"
+- raw: "技艺精进达大厦大叔大婶大叔大婶达四大四大四大湿哒哒大大叔大婶\\n入"
   splits:
-  - text: "技艺精进\\n入"
-    translated: "Skills honed to perfection\\nEnter"
+  - text: "技艺精进达大厦大叔大婶大叔大婶达四大四大四大湿哒哒大大叔大婶\\n入"
+    translated: "Skill mastery has reached a high level among the elders of the Four Great Families, with both uncles and aunties demonstrating exceptional expertise.\\nEnter"
 - raw: "究竟。"
   splits:
   - text: "究竟。"
@@ -3587,10 +3599,10 @@
   splits:
   - text: "[自选天赋]"
     translated: "[Self‑selected Talent]"
-- raw: "运道亨通规格楼，堆金积玉慢金堂。天生悟性就超过发生发大水发水电费似懂非懂"
+- raw: "运道亨通规格楼，堆金积玉慢金堂。天生悟性就超过发生发大水发水电费似懂非懂dasd"
   splits:
-  - text: "运道亨通规格楼，堆金积玉慢金堂。天生悟性就超过发生发大水发水电费似懂非懂"
-    translated: "Fate favors those who are destined for greatness. Accumulate wealth slowly and with care in the Hall of Prosperity. Those naturally endowed with comprehension surpass even the most fortunate, as if they understand yet do not fully grasp."
+  - text: "运道亨通规格楼，堆金积玉慢金堂。天生悟性就超过发生发大水发水电费似懂非懂dasd"
+    translated: "Running the Dao with auspicious connections and gathering wealth slowly is like building a slow‑gold hall. Born with comprehension, you naturally surpass mere superficial understanding."
 - raw: "配置天赋"
   splits:
   - text: "配置天赋"
@@ -3715,14 +3727,18 @@
   splits:
   - text: "未配置"
     translated: "Not configured"
+- raw: "运道亨通规格楼，堆金积玉慢金堂。天生悟性就超过发生发大水发水电费似懂非懂"
+  splits:
+  - text: "运道亨通规格楼，堆金积玉慢金堂。天生悟性就超过发生发大水发水电费似懂非懂"
+    translated: "Fate favors those who are destined for greatness. Accumulate wealth slowly and with care in the Hall of Prosperity. Those naturally endowed with comprehension surpass even the most fortunate, as if they understand yet do not fully grasp."
 - raw: "配置"
   splits:
   - text: "配置"
     translated: "Configuration"
-- raw: "[属性点]"
+- raw: "[属性点-真实江湖]"
   splits:
-  - text: "[属性点]"
-    translated: "[Attribute Points]"
+  - text: "[属性点-真实江湖]"
+    translated: "Attribute Points ‑ Authentic Jianghu"
 - raw: "未分配属性点："
   splits:
   - text: "未分配属性点："
@@ -5555,6 +5571,18 @@
   splits:
   - text: "套路：枪"
     translated: "Technique: Spear"
+- raw: "切换套路一"
+  splits:
+  - text: "切换套路一"
+    translated: "Switch to technique one"
+- raw: "切换套路二"
+  splits:
+  - text: "切换套路二"
+    translated: "Switch to technique two"
+- raw: "切换套路三"
+  splits:
+  - text: "切换套路三"
+    translated: "Switch to Technique Three"
 - raw: "九阳神功<color=#67696a><size=30>(未修炼)"
   splits:
   - text: "九阳神功<color=#67696a><size=30>(未修炼)"
@@ -5639,10 +5667,10 @@
   splits:
   - text: "未解锁"
     translated: "Unlocked"
-- raw: "消耗 ：        10000"
+- raw: "消耗修为：  10000"
   splits:
-  - text: "消耗 ：        10000"
-    translated: "Consumption:         10000"
+  - text: "消耗修为：  10000"
+    translated: "Consuming one's cultivation energy:   10000"
 - raw: "进阶属性"
   splits:
   - text: "进阶属性"
@@ -5659,10 +5687,10 @@
   splits:
   - text: "已进阶"
     translated: "Advanced to the next step"
-- raw: "消耗：      1000999"
+- raw: "消耗：   1000999"
   splits:
-  - text: "消耗：      1000999"
-    translated: "Expenditure:       1000999"
+  - text: "消耗：   1000999"
+    translated: "Expenditure:    1000999"
 - raw: "人物装备"
   splits:
   - text: "人物装备"
@@ -5851,6 +5879,10 @@
   splits:
   - text: "需打通以下经脉才可激活"
     translated: "The following meridians must be unblocked to activate it."
+- raw: "武学功法"
+  splits:
+  - text: "武学功法"
+    translated: "Wuxia martial arts techniques"
 - raw: "冥王"
   splits:
   - text: "冥王"
@@ -6011,10 +6043,6 @@
   splits:
   - text: "长生剑fdasdasd"
     translated: "Changsheng Jian Fadasd"
-- raw: "武学功法"
-  splits:
-  - text: "武学功法"
-    translated: "Wuxia martial arts techniques"
 - raw: "提升境界"
   splits:
   - text: "提升境界"
@@ -7072,6 +7100,10 @@
   splits:
   - text: "处决"
     translated: "Execution"
+- raw: "视距X1"
+  splits:
+  - text: "视距X1"
+    translated: "View distance X1"
 - raw: "返回菜单"
   splits:
   - text: "返回菜单"
@@ -7516,22 +7548,50 @@
   splits:
   - text: "藏宝阁"
     translated: "Treasure Vault"
+- raw: "藏红花·天蚕地宝"
+  splits:
+  - text: "藏红花·天蚕地宝"
+    translated: "Safflower · Heavenly Silkworm Earth Treasure"
 - raw: "内门弟子"
   splits:
   - text: "内门弟子"
     translated: "Inner Gate Disciple"
-- raw: "外门-内门"
+- raw: "太初剑宗令牌"
   splits:
-  - text: "外门-内门"
-    translated: "Outsider's Gate ‑ Inner Sect"
-- raw: "嫡传-未加入"
+  - text: "太初剑宗令牌"
+    translated: "Primordial Origin Sword Sect Command Token"
+- raw: "我的阶位："
   splits:
-  - text: "嫡传-未加入"
-    translated: "Direct Inheritance ‑ Not Joined"
-- raw: "亲传"
+  - text: "我的阶位："
+    translated: "My rank:"
+- raw: "刷新时间："
   splits:
-  - text: "亲传"
-    translated: "Directly transmitted"
+  - text: "刷新时间："
+    translated: "Refresh time:"
+- raw: "一层"
+  splits:
+  - text: "一层"
+    translated: "One layer"
+- raw: "(未入门、外门)"
+  splits:
+  - text: "(未入门、外门)"
+    translated: "(Uninitiated, Outsider)"
+- raw: "二层"
+  splits:
+  - text: "二层"
+    translated: "Second Floor"
+- raw: "(内门、嫡传)"
+  splits:
+  - text: "(内门、嫡传)"
+    translated: "(Interior Gate, Direct Lineage)"
+- raw: "三层"
+  splits:
+  - text: "三层"
+    translated: "Three floors"
+- raw: "(亲传)"
+  splits:
+  - text: "(亲传)"
+    translated: "(Transmitted by a blood relative)"
 - raw: "购买数量"
   splits:
   - text: "购买数量"
@@ -8292,6 +8352,14 @@
   splits:
   - text: "提升条件："
     translated: "Enhance conditions:"
+- raw: "结果"
+  splits:
+  - text: "结果"
+    translated: "Result"
+- raw: "大力：所造成的物理伤害提升5%(15%)所造成"
+  splits:
+  - text: "大力：所造成的物理伤害提升5%(15%)所造成"
+    translated: "Powerful strength: Physical damage increased by 5% (15% total)"
 - raw: "江湖武林之中群雄乱起，豪杰并出，你将面临各个强者生存下去"
   splits:
   - text: "江湖武林之中群雄乱起，豪杰并出，你将面临各个强者生存下去"
@@ -8312,10 +8380,10 @@
   splits:
   - text: "通关后天赋值"
     translated: "Talent Points After Completion"
-- raw: "难度选择"
+- raw: "模式选择"
   splits:
-  - text: "难度选择"
-    translated: "Difficulty selection"
+  - text: "模式选择"
+    translated: "Mode Selection"
 - raw: "爽文江湖"
   splits:
   - text: "爽文江湖"
@@ -8324,14 +8392,34 @@
   splits:
   - text: "险恶江湖"
     translated: "Dangerous Jianghu"
-- raw: "险恶江湖模式下各项属性数值成长曲线较高，成型之后少侠可在这里体验横扫千军的快感，轻松达成巅峰，笑傲武林dadsadasdasddad"
-  splits:
-  - text: "险恶江湖模式下各项属性数值成长曲线较高，成型之后少侠可在这里体验横扫千军的快感，轻松达成巅峰，笑傲武林dadsadasdasddad"
-    translated: "In the Dangerous Jianghu mode, various attribute growth curves are significantly higher. After development, young heroes can experience the thrill of sweeping across thousands here and easily reach their peak to laugh down upon the martial world."
 - raw: "真实江湖"
   splits:
   - text: "真实江湖"
     translated: "Authentic Jianghu"
+- raw: "该模式下各项属性数值成长曲线较高，成型之后少侠可在这里体验横扫"
+  splits:
+  - text: "该模式下各项属性数值成长曲线较高，成型之后少侠可在这里体验横扫"
+    translated: "In this mode, the growth curve for various attributes is quite high. Once developed, heroes can experience sweeping success here."
+- raw: "[属性点-险恶江湖]"
+  splits:
+  - text: "[属性点-险恶江湖]"
+    translated: "Attribute Points ‑ Dangerous Jianghu"
+- raw: "选择爽文江湖和险恶江湖，创角时可分配<color=#b9794e>八项</color>属性，且角色对应的<color=#b9794e>二级属性</color>会变"
+  splits:
+  - text: "选择爽文江湖和险恶江湖，创角时可分配<color=#b9794e>八项</color>属性，且角色对应的<color=#b9794e>二级属性</color>会变"
+    translated: "Choose between the Light Jianghu and Dangerous Jianghu. When creating a character, you can allocate up to <color=#b9794e>eight attributes</color>, and the corresponding <color=#b9794e>secondary attributes</color> of the character will change accordingly."
+- raw: "元气<color=#616161><size=#28>(获得的大量的内防和外防)"
+  splits:
+  - text: "元气<color=#616161><size=#28>(获得的大量的内防和外防)"
+    translated: "Vitality <color=#616161><size=#28>(provides substantial internal and external defense)"
+- raw: "元气<color=#616161><size=#28>(影响人物气血，真气和闪避)"
+  splits:
+  - text: "元气<color=#616161><size=#28>(影响人物气血，真气和闪避)"
+    translated: "Vitality <color=#616161><size=#28>(affects character lifeforce, true Qi, and dodge)"
+- raw: "通关后二周目开启"
+  splits:
+  - text: "通关后二周目开启"
+    translated: "After completing the game, a second playthrough becomes available two weeks later."
 - raw: "江湖小卒 (简单)"
   splits:
   - text: "江湖小卒 (简单)"
@@ -8772,6 +8860,10 @@
   splits:
   - text: "关门"
     translated: "Close door"
+- raw: "亲传"
+  splits:
+  - text: "亲传"
+    translated: "Directly transmitted"
 - raw: "两派好感达到"
   splits:
   - text: "两派好感达到"
@@ -8964,10 +9056,10 @@
   splits:
   - text: "佛学"
     translated: "Buddhism"
-- raw: "乱剑"
+- raw: "乱剑达到达大厦大打"
   splits:
-  - text: "乱剑"
-    translated: "Clash of Swords"
+  - text: "乱剑达到达大厦大打"
+    translated: "Chaos of swords reaches the height of a tall building."
 - raw: "已学会"
   splits:
   - text: "已学会"
@@ -9248,26 +9340,6 @@
   splits:
   - text: "获得"
     translated: "Obtained"
-- raw: "【委】"
-  splits:
-  - text: "【委】"
-    translated: "【Delegate】"
-- raw: "截止时间：靖康三二六年十二月二十四日"
-  splits:
-  - text: "截止时间：靖康三二六年十二月二十四日"
-    translated: "Deadline: The twenty‑fourth day of December in the year 326 of the Jingkang era."
-- raw: "絮叨娘："
-  splits:
-  - text: "絮叨娘："
-    translated: "Chatterbox mother:"
-- raw: "最近江湖不太太平呢最近不太太平呢最近不太太平呢最近不"
-  splits:
-  - text: "最近江湖不太太平呢最近不太太平呢最近不太太平呢最近不"
-    translated: "Recently, the Jianghu hasn't been very peaceful recently, not very peaceful. Recently, it's not very peaceful. Recently, it's not..."
-- raw: "追踪任务"
-  splits:
-  - text: "追踪任务"
-    translated: "Tracking mission"
 - raw: "遇见大师"
   splits:
   - text: "遇见大师"
@@ -9280,6 +9352,26 @@
   splits:
   - text: "任务类型："
     translated: "Task Type:"
+- raw: "【委】"
+  splits:
+  - text: "【委】"
+    translated: "【Delegate】"
+- raw: "截止时间：靖康三二六年十二月二十四日"
+  splits:
+  - text: "截止时间：靖康三二六年十二月二十四日"
+    translated: "Deadline: The twenty‑fourth day of December in the year 326 of the Jingkang era."
+- raw: "絮叨娘打："
+  splits:
+  - text: "絮叨娘打："
+    translated: "Chattering old woman strikes:"
+- raw: "最近江湖不太太平呢最近不太太平呢最近不太太平呢最\\n打\\n打"
+  splits:
+  - text: "最近江湖不太太平呢最近不太太平呢最近不太太平呢最\\n打\\n打"
+    translated: "The recent atmosphere in the Jianghu is quite unsettled. The recent atmosphere in the Jianghu is quite unsettled. The recent atmosphere in the Jianghu is quite unsettled. The\\nStrike\\nStrike"
+- raw: "追踪任务"
+  splits:
+  - text: "追踪任务"
+    translated: "Tracking mission"
 - raw: "千山币"
   splits:
   - text: "千山币"
@@ -9620,6 +9712,10 @@
   splits:
   - text: "草的密度"
     translated: "Density of the grass"
+- raw: "镜头移动灵敏度"
+  splits:
+  - text: "镜头移动灵敏度"
+    translated: "Camera sensitivity to movement adjustment"
 - raw: "按键"
   splits:
   - text: "按键"
@@ -10068,6 +10164,10 @@
   splits:
   - text: "密码"
     translated: "Password"
+- raw: "用户"
+  splits:
+  - text: "用户"
+    translated: "User"
 - raw: "登录"
   splits:
   - text: "登录"
@@ -10076,6 +10176,10 @@
   splits:
   - text: "注册"
     translated: "Registration"
+- raw: "云账号"
+  splits:
+  - text: "云账号"
+    translated: "Cloud account number"
 - raw: "请输入账号"
   splits:
   - text: "请输入账号"
@@ -10108,6 +10212,10 @@
   splits:
   - text: " 确认注册"
     translated: "Confirm registration."
+- raw: "用户:"
+  splits:
+  - text: "用户:"
+    translated: "User:"
 - raw: "当前账号"
   splits:
   - text: "当前账号"
@@ -10184,10 +10292,6 @@
   splits:
   - text: "存储外观"
     translated: "Appearance Storage"
-- raw: "云账号"
-  splits:
-  - text: "云账号"
-    translated: "Cloud account number"
 - raw: "斩工时佛挡杀佛水电"
   splits:
   - text: "斩工时佛挡杀佛水电"

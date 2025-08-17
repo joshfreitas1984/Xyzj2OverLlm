@@ -1,4 +1,4 @@
-- raw: "AudioController/<LoadAudioSubItem>d__154,MoveNext,274,音乐：{0}不存在,[]"
+- raw: "AudioController/<LoadAudioSubItem>d__155,MoveNext,274,音乐：{0}不存在,[]"
   splits:
   - split: 3
     text: "音乐：{0}不存在"
@@ -213,7 +213,7 @@
   - split: 3
     text: "WorldManager.Instance.m_EntityDir.不包含id:{0}"
     translated: "WorldManager.Instance.m_EntityDir does not contain id: {0}"
-- raw: "AutomatManager,Script_SetNpcPostion,222,WorldManager.Instance.m_EntityDir.不包含id:{0},[AutomatScript，CallFunc]"
+- raw: "AutomatManager,Script_SetNpcPostion,215,WorldManager.Instance.m_EntityDir.不包含id:{0},[AutomatScript，CallFunc]"
   splits:
   - split: 3
     text: "WorldManager.Instance.m_EntityDir.不包含id:{0}"
@@ -243,7 +243,7 @@
   - split: 3
     text: "少侠你和本门派好感度为:"
     translated: "Young hero, your affection level with our sect is as follows::"
-- raw: "AutomatManager,Script_StartAnswer,368,Script_StartAnswer taklID:{0} 找不到,[AutomatScript，CallFunc]"
+- raw: "AutomatManager,Script_StartAnswer,361,Script_StartAnswer taklID:{0} 找不到,[AutomatScript，CallFunc]"
   splits:
   - split: 3
     text: "Script_StartAnswer taklID:{0} 找不到"
@@ -453,17 +453,17 @@
   - split: 3
     text: "SpawnPointPrototype，{0}id 重复"
     translated: "SpawnPointPrototype, {0} id repeated"
-- raw: "ItemPrototype,LoadCSV,723,物品randomNpcSpecial配置格式错误，ItemPrototype.Id:{0},[System.Int32，System.String[]]"
+- raw: "ItemPrototype,LoadCSV,695,物品randomNpcSpecial配置格式错误，ItemPrototype.Id:{0},[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "物品randomNpcSpecial配置格式错误，ItemPrototype.Id:{0}"
     translated: "Item configuration format error for random NPC special item: ItemPrototype.Id: {0}"
-- raw: "ItemPrototype,LoadCSV,856,物品randomNpcGenreid配置格式错误，ItemPrototype.Id:{0},[System.Int32，System.String[]]"
+- raw: "ItemPrototype,LoadCSV,828,物品randomNpcGenreid配置格式错误，ItemPrototype.Id:{0},[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "物品randomNpcGenreid配置格式错误，ItemPrototype.Id:{0}"
     translated: "Item configuration format error, random NPC genre ID; Item Prototype ID: {0}"
-- raw: "ItemPrototype,LoadCSV,1214,当前道具itemid{0}characterlineFlag-{1}与游戏characterlineFlag{2}不一致跳过,[System.Int32，System.String[]]"
+- raw: "ItemPrototype,LoadCSV,1186,当前道具itemid{0}characterlineFlag-{1}与游戏characterlineFlag{2}不一致跳过,[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "当前道具itemid{0}characterlineFlag-{1}与游戏characterlineFlag{2}不一致跳过"
@@ -773,7 +773,7 @@
   - split: 3
     text: "对不起，大侠今日可用的问答次数已耗尽，请明天再来!"
     translated: "Apologies, Great Hero. The number of questions you can ask today has been exhausted. Please come back tomorrow!"
-- raw: "AIDialogView/<SendWebQuestion>d__41,MoveNext,177,大侠，对不起！因网络原因暂时无法回答您的问题,[]"
+- raw: "AIDialogView/<SendWebQuestion>d__41,MoveNext,181,大侠，对不起！因网络原因暂时无法回答您的问题,[]"
   splits:
   - split: 3
     text: "大侠，对不起！因网络原因暂时无法回答您的问题"
@@ -918,22 +918,22 @@
   - split: 3
     text: "的主要材料"
     translated: "Main material"
-- raw: "ItemDetailFabrication,CheckTextLink,463,此人已死,[TMPro.TextMeshProUGUI]"
+- raw: "ItemDetailFabrication,CheckTextLink,478,此人已死,[TMPro.TextMeshProUGUI]"
   splits:
   - split: 3
     text: "此人已死"
     translated: "This person has died"
-- raw: "ItemDetailFabrication,CheckTextLink,481,此人在{0}一带({1}，{2})活动,[TMPro.TextMeshProUGUI]"
+- raw: "ItemDetailFabrication,CheckTextLink,496,此人在{0}一带({1}，{2})活动,[TMPro.TextMeshProUGUI]"
   splits:
   - split: 3
     text: "此人在{0}一带({1}，{2})活动"
     translated: "This person has been active in the {0} area ({1}, {2})."
-- raw: "ItemDetailFabrication,CheckTextLink,523,此人在({0}，{1})附近活动,[TMPro.TextMeshProUGUI]"
+- raw: "ItemDetailFabrication,CheckTextLink,538,此人在({0}，{1})附近活动,[TMPro.TextMeshProUGUI]"
   splits:
   - split: 3
     text: "此人在({0}，{1})附近活动"
     translated: "This person has been active in the vicinity of ({0}, {1})."
-- raw: "ItemDetailFabrication,CheckTextLink,578,此人已失联,[TMPro.TextMeshProUGUI]"
+- raw: "ItemDetailFabrication,CheckTextLink,593,此人已失联,[TMPro.TextMeshProUGUI]"
   splits:
   - split: 3
     text: "此人已失联"
@@ -958,217 +958,217 @@
   - split: 3
     text: "装备无耐久，无法穿戴"
     translated: "Equipment has no durability and cannot be worn."
-- raw: "ItemDetailView,ShowItem,1174,品质: {0},[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,1186,品质: {0},[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "品质: {0}"
     translated: "Quality:  {0}"
-- raw: "ItemDetailView,ShowItem,1230,品质: {0},[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,1242,品质: {0},[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "品质: {0}"
     translated: "Quality:  {0}"
-- raw: "ItemDetailView,ShowItem,1258,等级: ,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,1270,等级: ,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "等级: "
     translated: "Rank:"
-- raw: "ItemDetailView,ShowItem,1265,等级: ,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,1277,等级: ,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "等级: "
     translated: "Rank:"
-- raw: "ItemDetailView,ShowItem,1394,出售价格: ,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,1406,出售价格: ,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "出售价格: "
     translated: "Selling Price:"
-- raw: "ItemDetailView,ShowItem,2202,装备属性,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,2214,装备属性,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "装备属性"
     translated: "Equipment attributes"
-- raw: "ItemDetailView,ShowItem,2235,耐久: ,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,2247,耐久: ,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "耐久: "
     translated: "Durability:"
-- raw: "ItemDetailView,ShowItem,3502,卸下,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,3514,卸下,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "卸下"
     translated: "Take off"
-- raw: "ItemDetailView,ShowItem,3610,装备,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,3622,装备,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "装备"
     translated: "Equipment"
-- raw: "ItemDetailView,ShowItem,3617,替换,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,3629,替换,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "替换"
     translated: "Replace"
-- raw: "ItemDetailView,ShowItem,3717,，同时获得,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,3729,，同时获得,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "，同时获得"
     translated: ", simultaneously obtaining"
-- raw: "ItemDetailView,ShowItem,3729,效果:,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,3741,效果:,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "效果:"
     translated: "Effectiveness:"
-- raw: "ItemDetailView,ShowItem,3754,<nobr>装备上可替换主角模型，对话立绘和泡泡表情,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,3766,<nobr>装备上可替换主角模型，对话立绘和泡泡表情,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "<nobr>装备上可替换主角模型，对话立绘和泡泡表情"
     translated: "Equip to replace protagonist model, dialogue portrait, and bubble expression"
-- raw: "ItemDetailView,ShowItem,3934,提示,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,3946,提示,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "提示"
     translated: "Prompt"
-- raw: "ItemDetailView,ShowItem,4055,行动,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,4067,行动,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "行动"
     translated: "Action"
-- raw: "ItemDetailView,ShowItem,4140,材料属性,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,4152,材料属性,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "材料属性"
     translated: "Material Attributes"
-- raw: "ItemDetailView,ShowItem,4217,，可在武学洗练时作为道具使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,4229,，可在武学洗练时作为道具使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "，可在武学洗练时作为道具使用"
     translated: ", which can be used as equipment during martial arts refinement."
-- raw: "ItemDetailView,ShowItem,4261,，可在武学洗练时作为丹药使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,4273,，可在武学洗练时作为丹药使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "，可在武学洗练时作为丹药使用"
     translated: "Can be used as a medicinal pill during martial arts training."
-- raw: "ItemDetailView,ShowItem,4305,，可在武学洗练时作为密卷使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,4317,，可在武学洗练时作为密卷使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "，可在武学洗练时作为密卷使用"
     translated: ", which can be used as a secret scroll during martial arts refinement."
-- raw: "ItemDetailView,ShowItem,4356,物品属性,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,4368,物品属性,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "物品属性"
     translated: "Item Attributes"
-- raw: "ItemDetailView,ShowItem,4592,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,4604,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "使用"
     translated: "Using"
-- raw: "ItemDetailView,ShowItem,4802,已处于醉酒状态,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,4814,已处于醉酒状态,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "已处于醉酒状态"
     translated: "Already in a state of intoxication"
-- raw: "ItemDetailView,ShowItem,4809,已处于饱腹状态,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,4821,已处于饱腹状态,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "已处于饱腹状态"
     translated: "Satiated or fully satisfied"
-- raw: "ItemDetailView,ShowItem,4913,已处于醉酒状态,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,4925,已处于醉酒状态,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "已处于醉酒状态"
     translated: "Already in a state of intoxication"
-- raw: "ItemDetailView,ShowItem,4920,已处于饱腹状态,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,4932,已处于饱腹状态,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "已处于饱腹状态"
     translated: "Satiated or fully satisfied"
-- raw: "ItemDetailView,ShowItem,5022,当前{0}度({1}/3),[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5034,当前{0}度({1}/3),[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "当前{0}度({1}/3)"
     translated: "The current temperature is {0} degrees ({1}/3)"
-- raw: "ItemDetailView,ShowItem,5031,醉酒,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5043,醉酒,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "醉酒"
     translated: "Drunk"
-- raw: "ItemDetailView,ShowItem,5038,饱腹,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5050,饱腹,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "饱腹"
     translated: "Sated"
-- raw: "ItemDetailView,ShowItem,5319,卸下,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5331,卸下,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "卸下"
     translated: "Take off"
-- raw: "ItemDetailView,ShowItem,5337,装备,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5349,装备,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "装备"
     translated: "Equipment"
-- raw: "ItemDetailView,ShowItem,5379,覆写,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5391,覆写,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "覆写"
     translated: "Recompose"
-- raw: "ItemDetailView,ShowItem,5400,萃取,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5412,萃取,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "萃取"
     translated: "Extraction"
-- raw: "ItemDetailView,ShowItem,5438,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5450,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "使用"
     translated: "Using"
-- raw: "ItemDetailView,ShowItem,5549,耐久: ,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5561,耐久: ,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "耐久: "
     translated: "Durability:"
-- raw: "ItemDetailView,ShowItem,5834,外攻伤害：{0}\\n内攻伤害：{1}\\n伤害范围：{2}\\n命中效果：{3},[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5846,外攻伤害：{0}\\n内攻伤害：{1}\\n伤害范围：{2}\\n命中效果：{3},[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "外攻伤害：{0}\\n内攻伤害：{1}\\n伤害范围：{2}\\n命中效果：{3}"
     translated: "External attack damage: {0}\\nInternal attack damage: {1}\\nHarm range: {2}\\nHit Rate Effect: {3}"
-- raw: "ItemDetailView,ShowItem,5887,造成伤害,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5899,造成伤害,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "造成伤害"
     translated: "Cause harm"
-- raw: "ItemDetailView,ShowItem,5957,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5969,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "使用"
     translated: "Using"
-- raw: "ItemDetailView,ShowItem,6014,使用后学习{0}，用于论辩，可在论辩中替换主角言技.,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,6026,使用后学习{0}，用于论辩，可在论辩中替换主角言技.,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "使用后学习{0}，用于论辩，可在论辩中替换主角言技."
     translated: "Use after learning {0} for debates; it can replace the protagonist's argumentative skills during a debate."
-- raw: "ItemDetailView,ShowItem,6078,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,6090,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "使用"
     translated: "Using"
-- raw: "ItemDetailView,ShowItem,6166,使用后增加{0}天寿命,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,6178,使用后增加{0}天寿命,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "使用后增加{0}天寿命"
     translated: "Increases lifespan by {0} days upon usage"
-- raw: "ItemDetailView,ShowItem,6249,行动,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,6261,行动,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "行动"
     translated: "Action"
-- raw: "ItemDetailView,ShowItem,6296,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,6308,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "使用"
     translated: "Using"
-- raw: "ItemDetailView,ShowItem,6343,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,6355,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "使用"
@@ -1183,67 +1183,67 @@
   - split: 3
     text: "暂无来源"
     translated: "No source available"
-- raw: "ItemDetailView,ShowItem,643,随机,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
+- raw: "ItemDetailView,ShowItem,655,随机,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
   splits:
   - split: 3
     text: "随机"
     translated: "Randomly"
-- raw: "ItemDetailView,ShowItem,669,品质: {0},[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
+- raw: "ItemDetailView,ShowItem,681,品质: {0},[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
   splits:
   - split: 3
     text: "品质: {0}"
     translated: "Quality:  {0}"
-- raw: "ItemDetailView,ShowItem,689,稀有度: ,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
+- raw: "ItemDetailView,ShowItem,701,稀有度: ,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
   splits:
   - split: 3
     text: "稀有度: "
     translated: "Rarity level:"
-- raw: "ItemDetailView,ShowItem,696,装备等级: ,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
+- raw: "ItemDetailView,ShowItem,708,装备等级: ,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
   splits:
   - split: 3
     text: "装备等级: "
     translated: "Equipment level:"
-- raw: "ItemDetailView,ShowItem,706,随机,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
+- raw: "ItemDetailView,ShowItem,718,随机,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
   splits:
   - split: 3
     text: "随机"
     translated: "Randomly"
-- raw: "ItemDetailView,ShowItem,868,价格：,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
+- raw: "ItemDetailView,ShowItem,880,价格：,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
   splits:
   - split: 3
     text: "价格："
     translated: "Price:"
-- raw: "ItemDetailView,ShowItem,1303,装备属性,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
+- raw: "ItemDetailView,ShowItem,1315,装备属性,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
   splits:
   - split: 3
     text: "装备属性"
     translated: "Equipment attributes"
-- raw: "ItemDetailView,ShowItem,1336,耐久: ,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
+- raw: "ItemDetailView,ShowItem,1348,耐久: ,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
   splits:
   - split: 3
     text: "耐久: "
     translated: "Durability:"
-- raw: "ItemDetailView,ShowItem,1433,要求: ,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
+- raw: "ItemDetailView,ShowItem,1445,要求: ,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
   splits:
   - split: 3
     text: "要求: "
     translated: "Requirement:"
-- raw: "ItemDetailView,ShowItem,2155,要求: ,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
+- raw: "ItemDetailView,ShowItem,2167,要求: ,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
   splits:
   - split: 3
     text: "要求: "
     translated: "Requirement:"
-- raw: "ItemDetailView,ShowItem,2217,物品属性,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
+- raw: "ItemDetailView,ShowItem,2229,物品属性,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
   splits:
   - split: 3
     text: "物品属性"
     translated: "Item Attributes"
-- raw: "ItemDetailView,ShowItem,2287,百分比,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
+- raw: "ItemDetailView,ShowItem,2299,百分比,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
   splits:
   - split: 3
     text: "百分比"
     translated: "Percentage"
-- raw: "ItemDetailView,ShowItem,2397,耐久: ,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
+- raw: "ItemDetailView,ShowItem,2409,耐久: ,[System.Int64，System.Int32，System.Int32，System.Int32，ShopStoreItemData]"
   splits:
   - split: 3
     text: "耐久: "
@@ -1683,7 +1683,7 @@
   - split: 3
     text: "降序"
     translated: "Descending Order"
-- raw: "DaZuoView/<AddTime>d__64,MoveNext,177,打坐获取修为已达上限!,[]"
+- raw: "DaZuoView/<AddTime>d__67,MoveNext,177,打坐获取修为已达上限!,[]"
   splits:
   - split: 3
     text: "打坐获取修为已达上限!"
@@ -4083,6 +4083,16 @@
   - split: 3
     text: "品质/等级：随机"
     translated: "Quality/Rank: Randomly"
+- raw: "IdentityPanel/<>c__DisplayClass29_0,<ShowStunt>b__0,60,失去效果,[]"
+  splits:
+  - split: 3
+    text: "失去效果"
+    translated: "Lose effect"
+- raw: "IdentityPanel/<>c__DisplayClass29_0,<ShowStunt>b__1,60,效果生效,[]"
+  splits:
+  - split: 3
+    text: "效果生效"
+    translated: "Effectiveness takes effect"
 - raw: "IdentityPanel,OnBtnGroupClick,1341,身份未知,[]"
   splits:
   - split: 3
@@ -4913,37 +4923,37 @@
   - split: 3
     text: "无"
     translated: "None"
-- raw: "AttriPart,ShowAttriRight,315,门派：,[]"
+- raw: "AttriPart,ShowAttriRight,355,门派：,[]"
   splits:
   - split: 3
     text: "门派："
     translated: "Sect:"
-- raw: "AttriPart,ShowAttriRight,407,门派：无,[]"
+- raw: "AttriPart,ShowAttriRight,412,门派：无,[]"
   splits:
   - split: 3
     text: "门派：无"
     translated: "Martial sect: Nothing"
-- raw: "AttriPart,ShowAttriRight,414,无,[]"
+- raw: "AttriPart,ShowAttriRight,419,无,[]"
   splits:
   - split: 3
     text: "无"
     translated: "None"
-- raw: "AttriPart,ShowAttriRight,474,简介：,[]"
+- raw: "AttriPart,ShowAttriRight,479,简介：,[]"
   splits:
   - split: 3
     text: "简介："
     translated: "Introduction:"
-- raw: "AttriPart,ShowAttriRight,539,门派：,[]"
+- raw: "AttriPart,ShowAttriRight,544,简介：,[]"
   splits:
   - split: 3
-    text: "门派："
-    translated: "Sect:"
-- raw: "AttriPart,ShowAttriRight,783,气血,[]"
+    text: "简介："
+    translated: "Introduction:"
+- raw: "AttriPart,ShowAttriRight,788,气血,[]"
   splits:
   - split: 3
     text: "气血"
     translated: "Lifeforce"
-- raw: "AttriPart,ShowAttriRight,887,真气,[]"
+- raw: "AttriPart,ShowAttriRight,892,真气,[]"
   splits:
   - split: 3
     text: "真气"
@@ -5615,57 +5625,77 @@
     text: "Prefab/UISprite/UI_ItemBG/道具框-"
     translated: "Item Frame ‑"
     safeToTranslate: false
-- raw: "RoleBagItemSlot,UpdateFromModel,809,已学习,[RoleBagItemListModel]"
+- raw: "RoleBagItemSlot,UpdateFromModel,824,已学习,[RoleBagItemListModel]"
   splits:
   - split: 3
     text: "已学习"
     translated: "Already learned"
-- raw: "RoleBagItemSlot,UpdateFromModel,867,已学习,[RoleBagItemListModel]"
+- raw: "RoleBagItemSlot,UpdateFromModel,888,已学习,[RoleBagItemListModel]"
   splits:
   - split: 3
     text: "已学习"
     translated: "Already learned"
-- raw: "RoleBagItemSlot,UpdateFromModel,988,已学习,[RoleBagItemListModel]"
+- raw: "RoleBagItemSlot,UpdateFromModel,1041,已学习,[RoleBagItemListModel]"
   splits:
   - split: 3
     text: "已学习"
     translated: "Already learned"
-- raw: "RoleBagItemSlot,UpdateFromModel,1073,使用冷却中：\\n,[RoleBagItemListModel]"
+- raw: "RoleBagItemSlot,UpdateFromModel,1105,已学习,[RoleBagItemListModel]"
   splits:
   - split: 3
-    text: "使用冷却中：\\n"
-    translated: "Using cooldown: \\n"
-- raw: "RoleBagItemSlot,UpdateFromModel,1103,秒,[RoleBagItemListModel]"
+    text: "已学习"
+    translated: "Already learned"
+- raw: "RoleBagItemSlot,UpdateFromModel,1275,已学习,[RoleBagItemListModel]"
+  splits:
+  - split: 3
+    text: "已学习"
+    translated: "Already learned"
+- raw: "RoleBagItemSlot,UpdateFromModel,1329,已学习,[RoleBagItemListModel]"
+  splits:
+  - split: 3
+    text: "已学习"
+    translated: "Already learned"
+- raw: "RoleBagItemSlot,UpdateFromModel,1450,已学习,[RoleBagItemListModel]"
+  splits:
+  - split: 3
+    text: "已学习"
+    translated: "Already learned"
+- raw: "RoleBagItemSlot,RefreshCd,133,使用冷却中\\n,[]"
+  splits:
+  - split: 3
+    text: "使用冷却中\\n"
+    translated: "Using cooldown\\n"
+- raw: "RoleBagItemSlot,RefreshCd,150,秒,[]"
   splits:
   - split: 3
     text: "秒"
     translated: "Second"
-- raw: "RoleBagItemSlot,UpdateFromModel,1179,使用冷却中：\\n,[RoleBagItemListModel]"
+- raw: "RoleBagItemSlot,RefreshCd,339,使用冷却中\\n,[]"
   splits:
   - split: 3
-    text: "使用冷却中：\\n"
-    translated: "Using cooldown: \\n"
-- raw: "RoleBagItemSlot,UpdateFromModel,1209,秒,[RoleBagItemListModel]"
-  splits:
-  - split: 3
-    text: "秒"
-    translated: "Second"
-- raw: "RoleBagItemSlot,UpdateFromModel,1286,使用冷却中：\\n,[RoleBagItemListModel]"
-  splits:
-  - split: 3
-    text: "使用冷却中：\\n"
-    translated: "Using cooldown: \\n"
-- raw: "RoleBagItemSlot,UpdateFromModel,1316,秒,[RoleBagItemListModel]"
+    text: "使用冷却中\\n"
+    translated: "Using cooldown\\n"
+- raw: "RoleBagItemSlot,RefreshCd,356,秒,[]"
   splits:
   - split: 3
     text: "秒"
     translated: "Second"
-- raw: "RoleBagItemSlot,UpdateFromModel,1400,使用冷却中：\\n,[RoleBagItemListModel]"
+- raw: "RoleBagItemSlot,RefreshCd,546,使用冷却中\\n,[]"
   splits:
   - split: 3
-    text: "使用冷却中：\\n"
-    translated: "Using cooldown: \\n"
-- raw: "RoleBagItemSlot,UpdateFromModel,1430,秒,[RoleBagItemListModel]"
+    text: "使用冷却中\\n"
+    translated: "Using cooldown\\n"
+- raw: "RoleBagItemSlot,RefreshCd,563,秒,[]"
+  splits:
+  - split: 3
+    text: "秒"
+    translated: "Second"
+- raw: "RoleBagItemSlot,RefreshCd,768,使用冷却中\\n,[]"
+  splits:
+  - split: 3
+    text: "使用冷却中\\n"
+    translated: "Using cooldown\\n"
+- raw: "RoleBagItemSlot,RefreshCd,785,秒,[]"
   splits:
   - split: 3
     text: "秒"
@@ -6845,11 +6875,11 @@
   - split: 3
     text: "当期物品已经售空"
     translated: "The item for this period has sold out."
-- raw: "MenPaiShopStoreView_mobile,RefreshInfo,28,持有{0}令牌,[]"
+- raw: "MenPaiShopStoreView_mobile,RefreshInfo,28,{0}令牌,[]"
   splits:
   - split: 3
-    text: "持有{0}令牌"
-    translated: "Holding {0} token"
+    text: "{0}令牌"
+    translated: "{0} token"
 - raw: "MenPaiSoldierCreatePanel,ModSoldierNumber,216,当前材料,[]"
   splits:
   - split: 3
@@ -8155,12 +8185,12 @@
   - split: 3
     text: "{0}个{1}!"
     translated: "{0} {1}s!"
-- raw: "WineGameView,OnSet,78,请至少增加一个点数或个数,[]"
+- raw: "WineGameView,OnSet,60,请至少增加一个点数或个数,[]"
   splits:
   - split: 3
     text: "请至少增加一个点数或个数"
     translated: "Please add at least one more point or unit."
-- raw: "WineGameView,OnSet,99,{0}个{1}!,[]"
+- raw: "WineGameView,OnSet,81,{0}个{1}!,[]"
   splits:
   - split: 3
     text: "{0}个{1}!"
@@ -8175,11 +8205,6 @@
   - split: 3
     text: "你是口渴了吗"
     translated: "Are you thirsty?"
-- raw: "WineGameView,DownCount,59,最少要叫{0}个数,[]"
-  splits:
-  - split: 3
-    text: "最少要叫{0}个数"
-    translated: "At least count to {0}"
 - raw: "XsySelectItemView,GetItemType,40,喂食,[]"
   splits:
   - split: 3
@@ -8475,42 +8500,42 @@
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "FileItemSlot,RefreshUI,528,真实江湖·,[SweetPotato.FileInfoItemData，System.Boolean]"
+- raw: "FileItemSlot,RefreshUI,553,真实江湖·,[SweetPotato.FileInfoItemData，System.Boolean]"
   splits:
   - split: 3
     text: "真实江湖·"
     translated: "Authentic Jianghu ·"
-- raw: "FileItemSlot,RefreshUI,566,险恶江湖·,[SweetPotato.FileInfoItemData，System.Boolean]"
+- raw: "FileItemSlot,RefreshUI,591,险恶江湖·,[SweetPotato.FileInfoItemData，System.Boolean]"
   splits:
   - split: 3
     text: "险恶江湖·"
     translated: "Dangerous Jianghu ·"
-- raw: "FileItemSlot,RefreshUI,604,爽文江湖·,[SweetPotato.FileInfoItemData，System.Boolean]"
+- raw: "FileItemSlot,RefreshUI,629,爽文江湖·,[SweetPotato.FileInfoItemData，System.Boolean]"
   splits:
   - split: 3
     text: "爽文江湖·"
     translated: "Light Jianghu ·"
-- raw: "FileItemSlot,RefreshUI,697,<color=#72a664>江湖小卒(简单)</color> ,[SweetPotato.FileInfoItemData，System.Boolean]"
+- raw: "FileItemSlot,RefreshUI,722,<color=#72a664>江湖小卒(简单)</color> ,[SweetPotato.FileInfoItemData，System.Boolean]"
   splits:
   - split: 3
     text: "<color=#72a664>江湖小卒(简单)</color> "
     translated: "<color=#72a664>Jianghu Novice (Easy)</color>"
-- raw: "FileItemSlot,RefreshUI,726,<color=#6ca2b4>武林新秀(标准)</color> ,[SweetPotato.FileInfoItemData，System.Boolean]"
+- raw: "FileItemSlot,RefreshUI,751,<color=#6ca2b4>武林新秀(标准)</color> ,[SweetPotato.FileInfoItemData，System.Boolean]"
   splits:
   - split: 3
     text: "<color=#6ca2b4>武林新秀(标准)</color> "
     translated: "<color=#6ca2b4>Wulin Rising Star (Normal)</color>"
-- raw: "FileItemSlot,RefreshUI,755,<color=#b58750>武道宗师(困难)</color> ,[SweetPotato.FileInfoItemData，System.Boolean]"
+- raw: "FileItemSlot,RefreshUI,780,<color=#b58750>武道宗师(困难)</color> ,[SweetPotato.FileInfoItemData，System.Boolean]"
   splits:
   - split: 3
     text: "<color=#b58750>武道宗师(困难)</color> "
     translated: "<color=#b58750>Grandmaster (Hard)</color>"
-- raw: "FileItemSlot,RefreshUI,784,<color=#936acc>盖世霸主(极难)</color> ,[SweetPotato.FileInfoItemData，System.Boolean]"
+- raw: "FileItemSlot,RefreshUI,809,<color=#936acc>盖世霸主(极难)</color> ,[SweetPotato.FileInfoItemData，System.Boolean]"
   splits:
   - split: 3
     text: "<color=#936acc>盖世霸主(极难)</color> "
     translated: "<color=#936acc>World Conqueror (Extreme)</color>"
-- raw: "FileItemSlot,RefreshUI,813,<color=#ae5446>独步天下(地狱)</color> ,[SweetPotato.FileInfoItemData，System.Boolean]"
+- raw: "FileItemSlot,RefreshUI,838,<color=#ae5446>独步天下(地狱)</color> ,[SweetPotato.FileInfoItemData，System.Boolean]"
   splits:
   - split: 3
     text: "<color=#ae5446>独步天下(地狱)</color> "
@@ -8545,17 +8570,17 @@
   - split: 3
     text: "操作错误 errcode:"
     translated: "Operation error: error code:"
-- raw: "ChessView,paint,537,你赢了,[]"
+- raw: "ChessView,paint,658,你赢了,[]"
   splits:
   - split: 3
     text: "你赢了"
     translated: "You won"
-- raw: "ChessView,paint,687,你输了,[]"
+- raw: "ChessView,paint,808,你输了,[]"
   splits:
   - split: 3
     text: "你输了"
     translated: "You lost"
-- raw: "ChessView,paint,758,和棋,[]"
+- raw: "ChessView,paint,879,和棋,[]"
   splits:
   - split: 3
     text: "和棋"
@@ -9650,10 +9675,10 @@
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "JingJiePartView,OpenXinFa,128,消耗：      ,[]"
+- raw: "JingJiePartView,OpenXinFa,128,消耗：   ,[]"
   splits:
   - split: 3
-    text: "消耗：      "
+    text: "消耗：   "
     translated: "Expenditure:"
 - raw: "JingJiePartView,OpenXinFa,178,消耗修为：,[]"
   splits:
@@ -9680,17 +9705,22 @@
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "JingJiePartView,RefreshGuDing,111,消耗修为：,[]"
+- raw: "JingJiePartView,RefreshGuDing,123,消耗修为：  ,[]"
+  splits:
+  - split: 3
+    text: "消耗修为：  "
+    translated: "Consume cultivation essence:"
+- raw: "JingJiePartView,RefreshGuDing,153,消耗修为：,[]"
   splits:
   - split: 3
     text: "消耗修为："
     translated: "Consume Cultivation:"
-- raw: "JingJiePartView,RefreshGuDing,239,添加心法洗练,[]"
+- raw: "JingJiePartView,RefreshGuDing,281,添加心法洗练,[]"
   splits:
   - split: 3
     text: "添加心法洗练"
     translated: "Incorporate Heart Method refinement"
-- raw: "JingJiePartView,RefreshGuDing,255,添加心法,[]"
+- raw: "JingJiePartView,RefreshGuDing,297,添加心法,[]"
   splits:
   - split: 3
     text: "添加心法"
@@ -9715,22 +9745,22 @@
   - split: 3
     text: "心法"
     translated: "Heart Method"
-- raw: "ChooseItemSlot_mobile,OnReset,242,道具,[]"
+- raw: "ChooseItemSlot_mobile,OnReset,250,道具,[]"
   splits:
   - split: 3
     text: "道具"
     translated: "Prop"
-- raw: "ChooseItemSlot_mobile,OnReset,259,丹药,[]"
+- raw: "ChooseItemSlot_mobile,OnReset,271,丹药,[]"
   splits:
   - split: 3
     text: "丹药"
     translated: "Elixir of Immortality"
-- raw: "ChooseItemSlot_mobile,OnReset,276,密卷,[]"
+- raw: "ChooseItemSlot_mobile,OnReset,292,密卷,[]"
   splits:
   - split: 3
     text: "密卷"
     translated: "Secret Scroll"
-- raw: "ChooseItemSlot_mobile,OnReset,435,心法,[]"
+- raw: "ChooseItemSlot_mobile,OnReset,456,心法,[]"
   splits:
   - split: 3
     text: "心法"
@@ -9837,32 +9867,37 @@
   - split: 3
     text: "随机获得一条属性"
     translated: "Receive a random attribute"
-- raw: "JingMaiAttriItemSlot_mobile,RefreshDesc,112,添加材料后可获得属性,[System.Boolean]"
+- raw: "JingMaiAttriItemSlot_mobile,RefreshDesc,118,添加材料后可获得属性,[System.Boolean]"
   splits:
   - split: 3
     text: "添加材料后可获得属性"
     translated: "Adding materials afterward allows you to gain attributes."
-- raw: "JingMaiAttriItemSlot_mobile,RefreshDesc,119,随机获得一条属性,[System.Boolean]"
+- raw: "JingMaiAttriItemSlot_mobile,RefreshDesc,125,随机获得一条属性,[System.Boolean]"
   splits:
   - split: 3
     text: "随机获得一条属性"
     translated: "Receive a random attribute"
-- raw: "JingMaiAttriItemSlot_mobile,OnReset,347,离莹・,[]"
+- raw: "JingMaiAttriItemSlot_mobile,Refresh,341,离莹・,[]"
   splits:
   - split: 3
     text: "离莹・"
     translated: "Li Ying ‑"
-- raw: "JingMaiAttriItemSlot_mobile,OnReset,371,扶山・,[]"
+- raw: "JingMaiAttriItemSlot_mobile,Refresh,365,扶山・,[]"
   splits:
   - split: 3
     text: "扶山・"
     translated: "Helping Mountains"
-- raw: "JingMaiAttriItemSlot_mobile,OnReset,395,战好・,[]"
+- raw: "JingMaiAttriItemSlot_mobile,Refresh,389,战好・,[]"
   splits:
   - split: 3
     text: "战好・"
     translated: "Battle well!"
-- raw: "JingMaiAttriItemSlot_mobile,OnReset,497,(固有),[]"
+- raw: "JingMaiAttriItemSlot_mobile,Refresh,473,添加材料后可获得属性,[]"
+  splits:
+  - split: 3
+    text: "添加材料后可获得属性"
+    translated: "Adding materials afterward allows you to gain attributes."
+- raw: "JingMaiAttriItemSlot_mobile,Refresh,509,(固有),[]"
   splits:
   - split: 3
     text: "(固有)"
@@ -10167,42 +10202,52 @@
   - split: 3
     text: "\\r\\n前式："
     translated: "\\r\\nTraditional style:"
-- raw: "LianZhaoPartView,RefreshSelected,996,感悟：{0},[]"
+- raw: "LianZhaoPartView,RefreshSelected,1058,感悟：<color={0}>{1}</color>/{2},[]"
+  splits:
+  - split: 3
+    text: "感悟：<color={0}>{1}</color>/{2}"
+    translated: "Insight: <color={0}>{1}</color>/{2}"
+- raw: "LianZhaoPartView,RefreshSelected,1102,感悟：{0},[]"
   splits:
   - split: 3
     text: "感悟：{0}"
     translated: "Insight: {0}"
-- raw: "LianZhaoPartView,RefreshSelected,1092,洗练,[]"
+- raw: "LianZhaoPartView,RefreshSelected,1198,洗练,[]"
   splits:
   - split: 3
     text: "洗练"
     translated: "Refine"
-- raw: "LianZhaoPartView,RefreshSelected,1292,拥有：,[]"
+- raw: "LianZhaoPartView,RefreshSelected,1398,拥有：,[]"
   splits:
   - split: 3
     text: "拥有："
     translated: "Having:"
-- raw: "LianZhaoPartView,RefreshSelected,1347,感悟：{0},[]"
+- raw: "LianZhaoPartView,RefreshSelected,1489,感悟：<color={0}>{1}</color>/{2},[]"
+  splits:
+  - split: 3
+    text: "感悟：<color={0}>{1}</color>/{2}"
+    translated: "Insight: <color={0}>{1}</color>/{2}"
+- raw: "LianZhaoPartView,RefreshSelected,1532,感悟：{0},[]"
   splits:
   - split: 3
     text: "感悟：{0}"
     translated: "Insight: {0}"
-- raw: "LianZhaoPartView,RefreshSelected,1445,修炼,[]"
+- raw: "LianZhaoPartView,RefreshSelected,1630,修炼,[]"
   splits:
   - split: 3
     text: "修炼"
     translated: "Cultivation"
-- raw: "LianZhaoPartView,RefreshSelected,1555,秘卷：,[]"
+- raw: "LianZhaoPartView,RefreshSelected,1740,秘卷：,[]"
   splits:
   - split: 3
     text: "秘卷："
     translated: "Secret Scroll:"
-- raw: "LianZhaoPartView,RefreshSelected,1599,拥有：,[]"
+- raw: "LianZhaoPartView,RefreshSelected,1784,拥有：,[]"
   splits:
   - split: 3
     text: "拥有："
     translated: "Having:"
-- raw: "LianZhaoPartView,RefreshSelected,1861,拥有：,[]"
+- raw: "LianZhaoPartView,RefreshSelected,2046,拥有：,[]"
   splits:
   - split: 3
     text: "拥有："
@@ -10658,6 +10703,21 @@
   - split: 3
     text: "当前状态无法打坐"
     translated: "Current state does not allow for meditation"
+- raw: "MainView,OnClickChangeCameraDistence,23,开启最远距离可能会被树叶、房屋等遮挡，是否开启？,[]"
+  splits:
+  - split: 3
+    text: "开启最远距离可能会被树叶、房屋等遮挡，是否开启？"
+    translated: "Activating the longest range may be obstructed by leaves and buildings; do you wish to proceed?"
+- raw: "MainView,OnClickChangeCameraDistence,41,是,[]"
+  splits:
+  - split: 3
+    text: "是"
+    translated: "Yes"
+- raw: "MainView,OnClickChangeCameraDistence,46,否,[]"
+  splits:
+  - split: 3
+    text: "否"
+    translated: "No"
 - raw: "MainView,SetCameraDisText,32,视野X{0},[]"
   splits:
   - split: 3
@@ -11190,161 +11250,171 @@
   - split: 3
     text: "状态码非法"
     translated: "Invalid status code"
-- raw: "UploadFile/<SendLogin>d__63,MoveNext,99,登录失败:,[]"
+- raw: "UploadFile/<SendLogin>d__68,MoveNext,99,登录失败:,[]"
   splits:
   - split: 3
     text: "登录失败:"
     translated: "Login failed:"
-- raw: "UploadFile/<SendLogin>d__63,MoveNext,1116,登录成功,[]"
+- raw: "UploadFile/<SendLogin>d__68,MoveNext,1116,登录成功,[]"
   splits:
   - split: 3
     text: "登录成功"
     translated: "Login successful"
-- raw: "UploadFile/<SendLogin>d__63,MoveNext,1230,用户名或密码输入不规范,[]"
+- raw: "UploadFile/<SendLogin>d__68,MoveNext,1230,用户名或密码输入不规范,[]"
   splits:
   - split: 3
     text: "用户名或密码输入不规范"
     translated: "Username or password input is incorrect"
-- raw: "UploadFile/<SendLogin>d__63,MoveNext,1253,用户名不存在,[]"
+- raw: "UploadFile/<SendLogin>d__68,MoveNext,1253,用户名不存在,[]"
   splits:
   - split: 3
     text: "用户名不存在"
     translated: "Username does not exist"
-- raw: "UploadFile/<SendLogin>d__63,MoveNext,1276,密码错误,[]"
+- raw: "UploadFile/<SendLogin>d__68,MoveNext,1276,密码错误,[]"
   splits:
   - split: 3
     text: "密码错误"
     translated: "Incorrect password"
-- raw: "UploadFile/<SendRegis>d__64,MoveNext,92,注册失败:,[]"
+- raw: "UploadFile/<SendRegis>d__69,MoveNext,92,注册失败:,[]"
   splits:
   - split: 3
     text: "注册失败:"
     translated: "Registration failed:"
-- raw: "UploadFile/<SendRegis>d__64,MoveNext,220,注册成功,[]"
+- raw: "UploadFile/<SendRegis>d__69,MoveNext,220,注册成功,[]"
   splits:
   - split: 3
     text: "注册成功"
     translated: "Registration successful"
-- raw: "UploadFile/<SendRegis>d__64,MoveNext,260,用户名或密码不规范,[]"
+- raw: "UploadFile/<SendRegis>d__69,MoveNext,266,用户名或密码不规范,[]"
   splits:
   - split: 3
     text: "用户名或密码不规范"
     translated: "Username or password not in compliance"
-- raw: "UploadFile/<SendRegis>d__64,MoveNext,283,该用户名已经存在,[]"
+- raw: "UploadFile/<SendRegis>d__69,MoveNext,289,该用户名已经存在,[]"
   splits:
   - split: 3
     text: "该用户名已经存在"
     translated: "This username already exists"
-- raw: "UploadFile/<SendUpload>d__65,MoveNext,121,上传失败:,[]"
+- raw: "UploadFile/<SendRegis>d__69,MoveNext,385,当前账号下云账号数量已达注册上限,[]"
+  splits:
+  - split: 3
+    text: "当前账号下云账号数量已达注册上限"
+    translated: "The number of cloud accounts under this current account has reached the registration limit."
+- raw: "UploadFile/<SendUpload>d__70,MoveNext,121,上传失败:,[]"
   splits:
   - split: 3
     text: "上传失败:"
     translated: "Upload failed:"
-- raw: "UploadFile/<SendUpload>d__65,MoveNext,248,上传成功,[]"
+- raw: "UploadFile/<SendUpload>d__70,MoveNext,248,上传成功,[]"
   splits:
   - split: 3
     text: "上传成功"
     translated: "Upload successful"
-- raw: "UploadFile/<SendUpload>d__65,MoveNext,274,登录失效,[]"
+- raw: "UploadFile/<SendUpload>d__70,MoveNext,274,登录失效,[]"
   splits:
   - split: 3
     text: "登录失效"
     translated: "Session expired"
-- raw: "UploadFile/<SendGetFaceData>d__68,MoveNext,121,上传失败:,[]"
+- raw: "UploadFile/<SendGetFaceData>d__73,MoveNext,121,上传失败:,[]"
   splits:
   - split: 3
     text: "上传失败:"
     translated: "Upload failed:"
-- raw: "UploadFile/<SendGetFaceData>d__68,MoveNext,248,上传成功,[]"
+- raw: "UploadFile/<SendGetFaceData>d__73,MoveNext,248,上传成功,[]"
   splits:
   - split: 3
     text: "上传成功"
     translated: "Upload successful"
-- raw: "UploadFile/<SendGetFaceData>d__68,MoveNext,366,登录失效,[]"
+- raw: "UploadFile/<SendGetFaceData>d__73,MoveNext,366,登录失效,[]"
   splits:
   - split: 3
     text: "登录失效"
     translated: "Session expired"
-- raw: "UploadFile/<SendUpFace>d__70,MoveNext,121,上传失败:,[]"
+- raw: "UploadFile/<SendUpFace>d__75,MoveNext,121,上传失败:,[]"
   splits:
   - split: 3
     text: "上传失败:"
     translated: "Upload failed:"
-- raw: "UploadFile/<SendUpFace>d__70,MoveNext,248,上传成功,[]"
+- raw: "UploadFile/<SendUpFace>d__75,MoveNext,248,上传成功,[]"
   splits:
   - split: 3
     text: "上传成功"
     translated: "Upload successful"
-- raw: "UploadFile/<SendUpFace>d__70,MoveNext,343,失效,[]"
+- raw: "UploadFile/<SendUpFace>d__75,MoveNext,343,失效,[]"
   splits:
   - split: 3
     text: "失效"
     translated: "Expired"
-- raw: "UploadFile/<SendDownload>d__71,MoveNext,121,下载失败:,[]"
+- raw: "UploadFile/<SendDownload>d__76,MoveNext,121,下载失败:,[]"
   splits:
   - split: 3
     text: "下载失败:"
     translated: "Download failed:"
-- raw: "UploadFile/<SendDownload>d__71,MoveNext,463,下载成功!,[]"
+- raw: "UploadFile/<SendDownload>d__76,MoveNext,463,下载成功!,[]"
   splits:
   - split: 3
     text: "下载成功!"
     translated: "Download successful!"
-- raw: "UploadFile/<SendDownload>d__71,MoveNext,529,登录失效,[]"
+- raw: "UploadFile/<SendDownload>d__76,MoveNext,529,登录失效,[]"
   splits:
   - split: 3
     text: "登录失效"
     translated: "Session expired"
-- raw: "UploadFile/<SendUseActivationCode>d__72,MoveNext,120,请求失败:,[]"
+- raw: "UploadFile/<SendUseActivationCode>d__77,MoveNext,120,请求失败:,[]"
   splits:
   - split: 3
     text: "请求失败:"
     translated: "Request failed:"
-- raw: "UploadFile/<SendUseActivationCode>d__72,MoveNext,244,请求成功,[]"
+- raw: "UploadFile/<SendUseActivationCode>d__77,MoveNext,244,请求成功,[]"
   splits:
   - split: 3
     text: "请求成功"
     translated: "Request successful"
-- raw: "UploadFile/<SendUseActivationCode>d__72,MoveNext,291,激活码错误,[]"
+- raw: "UploadFile/<SendUseActivationCode>d__77,MoveNext,291,激活码错误,[]"
   splits:
   - split: 3
     text: "激活码错误"
     translated: "Activation code error"
-- raw: "UploadFile/<SendUseActivationCode>d__72,MoveNext,338,激活码已被使用,[]"
+- raw: "UploadFile/<SendUseActivationCode>d__77,MoveNext,338,激活码已被使用,[]"
   splits:
   - split: 3
     text: "激活码已被使用"
     translated: "The activation code has already been used"
-- raw: "UploadFile/<SendUseActivationCode>d__72,MoveNext,385,已领取,[]"
+- raw: "UploadFile/<SendUseActivationCode>d__77,MoveNext,385,已领取,[]"
   splits:
   - split: 3
     text: "已领取"
     translated: "Already received"
-- raw: "UploadFile/<SendUseActivationCode>d__72,MoveNext,430,登录失效,[]"
+- raw: "UploadFile/<SendUseActivationCode>d__77,MoveNext,430,登录失效,[]"
   splits:
   - split: 3
     text: "登录失效"
     translated: "Session expired"
-- raw: "UploadFile/<SendDownloadNewDB>d__73,MoveNext,209,登录失效,[]"
+- raw: "UploadFile/<SendDownloadNewDB>d__78,MoveNext,209,登录失效,[]"
   splits:
   - split: 3
     text: "登录失效"
     translated: "Session expired"
-- raw: "UploadFile/<SendGetNewDBVersion>d__74,MoveNext,209,登录失效,[]"
+- raw: "UploadFile/<SendGetNewDBVersion>d__79,MoveNext,209,登录失效,[]"
   splits:
   - split: 3
     text: "登录失效"
     translated: "Session expired"
-- raw: "UploadFile/<SendBuyOrder>d__75,MoveNext,233,登录失效,[]"
+- raw: "UploadFile/<SendBuyOrder>d__80,MoveNext,233,登录失效,[]"
   splits:
   - split: 3
     text: "登录失效"
     translated: "Session expired"
-- raw: "UploadFile/<SendUserInfo>d__76,MoveNext,233,登录失效,[]"
+- raw: "UploadFile/<SendUserInfo>d__81,MoveNext,233,登录失效,[]"
   splits:
   - split: 3
     text: "登录失效"
     translated: "Session expired"
+- raw: "UploadFile,ShowRegisPart,23,平台账号未登录，无法创建云账号,[]"
+  splits:
+  - split: 3
+    text: "平台账号未登录，无法创建云账号"
+    translated: "Platform account not logged in; unable to create cloud account."
 - raw: "UploadFile,ShowActivationCodePanel,40,1、登录游戏云账号，并确认当前绑定账号。\\n2、在兑换框中输入激活码，点击激活即可。\\n3、激活码一经使用即作废，不可再次使用激活，请一定确认需要绑定领取的账号。\\n4、账号绑定的激活码会显示在信息栏中，可滑动查看兑换的东西。,[]"
   splits:
   - split: 3
@@ -11420,11 +11490,6 @@
   - split: 3
     text: "两次密码输入不一致"
     translated: "Passwords do not match on two occasions"
-- raw: "UploadFile,OnClickSendRegis,613,两次密码不一致,[]"
-  splits:
-  - split: 3
-    text: "两次密码不一致"
-    translated: "The passwords do not match twice"
 - raw: "UploadFile,OnClickSendLogin,24,用户名中不能为空,[]"
   splits:
   - split: 3
@@ -11495,31 +11560,86 @@
   - split: 3
     text: "消耗感悟："
     translated: "Expenditure of insight:"
-- raw: "MiJiActiveConditionItemSlot_mobile,OnReset,272,激活:,[]"
+- raw: "MiJiActiveConditionItemSlot_mobile,OnReset,303,激活:,[]"
   splits:
   - split: 3
     text: "激活:"
     translated: "Activate:"
-- raw: "MiJiActiveConditionItemSlot_mobile,OnReset,391,激活:,[]"
+- raw: "MiJiActiveConditionItemSlot_mobile,OnReset,422,激活:,[]"
   splits:
   - split: 3
     text: "激活:"
     translated: "Activate:"
-- raw: "MiJiActiveConditionItemSlot_mobile,OnReset,469,激活:,[]"
+- raw: "MiJiActiveConditionItemSlot_mobile,OnReset,500,激活:,[]"
   splits:
   - split: 3
     text: "激活:"
     translated: "Activate:"
-- raw: "MiJiActiveConditionItemSlot_mobile,OnReset,490,(五脏),[]"
+- raw: "MiJiActiveConditionItemSlot_mobile,OnReset,521,(五脏),[]"
   splits:
   - split: 3
     text: "(五脏)"
     translated: "Five Viscera (Five Organs)"
-- raw: "MijiBookImprovePart,RefreshMidInfo,176,消耗：        {0}/{1},[MiJiNodeInfo，MiJiNodeInfo，System.Int32]"
+- raw: "MiJiActiveConditionItemSlot_mobile,OnReset,673,需激活,[]"
   splits:
   - split: 3
-    text: "消耗：        {0}/{1}"
-    translated: "Expenditure:         {0}/{1}"
+    text: "需激活"
+    translated: "Activate required"
+- raw: "MiJiActiveConditionItemSlot_mobile,OnReset,700,条经脉(已激活,[]"
+  splits:
+  - split: 3
+    text: "条经脉(已激活"
+    translated: "Activated meridian line(s)"
+- raw: "MiJiActiveConditionItemSlot_mobile,OnReset,804,需激活,[]"
+  splits:
+  - split: 3
+    text: "需激活"
+    translated: "Activate required"
+- raw: "MiJiActiveConditionItemSlot_mobile,OnReset,831,个五脏(已激活,[]"
+  splits:
+  - split: 3
+    text: "个五脏(已激活"
+    translated: "Five Viscera (Activated)"
+- raw: "MiJiActiveConditionItemSlot_mobile,OnReset,984,(拥有,[]"
+  splits:
+  - split: 3
+    text: "(拥有"
+    translated: "(Owning)"
+- raw: "MiJiActiveConditionItemSlot_mobile,OnReset,1169,(拥有,[]"
+  splits:
+  - split: 3
+    text: "(拥有"
+    translated: "(Owning)"
+- raw: "MiJiActiveConditionItemSlot_mobile,OnReset,1278,需激活,[]"
+  splits:
+  - split: 3
+    text: "需激活"
+    translated: "Activate required"
+- raw: "MijiBookImprovePart,RefreshMidInfo,80,洗练,[MiJiNodeInfo，MiJiNodeInfo，System.Int32]"
+  splits:
+  - split: 3
+    text: "洗练"
+    translated: "Refine"
+- raw: "MijiBookImprovePart,RefreshMidInfo,101,未领悟,[MiJiNodeInfo，MiJiNodeInfo，System.Int32]"
+  splits:
+  - split: 3
+    text: "未领悟"
+    translated: "Not yet comprehended"
+- raw: "MijiBookImprovePart,RefreshMidInfo,117,提升境界,[MiJiNodeInfo，MiJiNodeInfo，System.Int32]"
+  splits:
+  - split: 3
+    text: "提升境界"
+    translated: "Elevate one's realm"
+- raw: "MijiBookImprovePart,RefreshMidInfo,157,提升境界,[MiJiNodeInfo，MiJiNodeInfo，System.Int32]"
+  splits:
+  - split: 3
+    text: "提升境界"
+    translated: "Elevate one's realm"
+- raw: "MijiBookImprovePart,RefreshMidInfo,277,消耗：        <color={0}>{1}</color>/{2},[MiJiNodeInfo，MiJiNodeInfo，System.Int32]"
+  splits:
+  - split: 3
+    text: "消耗：        <color={0}>{1}</color>/{2}"
+    translated: "Expenditure:         <color={0}>{1}</color>/{2}"
 - raw: "MijiBookImprovePart,RefreshEffect,734,冲击,[]"
   splits:
   - split: 3
@@ -11530,26 +11650,46 @@
   - split: 3
     text: "获得增强效果"
     translated: "Obtain enhanced effects"
+- raw: "MijiBookView_mobile/<>c__DisplayClass53_0,<RefreshByPageNum>b__1,17,材料不足！,[]"
+  splits:
+  - split: 3
+    text: "材料不足！"
+    translated: "Insufficient materials!"
 - raw: "MijiBookView_mobile,RefreshByPageNum,61,领悟,[System.Int32，PageNameType，PageNameType，System.Boolean]"
   splits:
   - split: 3
     text: "领悟"
     translated: "Comprehension"
-- raw: "MijiBookView_mobile,RefreshByPageNum,284,提升境界,[System.Int32，PageNameType，PageNameType，System.Boolean]"
+- raw: "MijiBookView_mobile,RefreshByPageNum,268,提升境界,[System.Int32，PageNameType，PageNameType，System.Boolean]"
   splits:
   - split: 3
     text: "提升境界"
     translated: "Elevate one's realm"
-- raw: "MijiBookView_mobile,RefreshByPageNum,1272,领悟,[System.Int32，PageNameType，PageNameType，System.Boolean]"
+- raw: "MijiBookView_mobile,RefreshByPageNum,389,领悟,[System.Int32，PageNameType，PageNameType，System.Boolean]"
   splits:
   - split: 3
     text: "领悟"
     translated: "Comprehension"
-- raw: "MijiBookView_mobile,RefreshByPageNum,1288,消耗：   {0},[System.Int32，PageNameType，PageNameType，System.Boolean]"
+- raw: "MijiBookView_mobile,RefreshByPageNum,1354,领悟,[System.Int32，PageNameType，PageNameType，System.Boolean]"
+  splits:
+  - split: 3
+    text: "领悟"
+    translated: "Comprehension"
+- raw: "MijiBookView_mobile,RefreshByPageNum,1370,消耗：   {0},[System.Int32，PageNameType，PageNameType，System.Boolean]"
   splits:
   - split: 3
     text: "消耗：   {0}"
     translated: "Expenditure:    {0}"
+- raw: "MijiBookView_mobile,FindNode,399,洗练,[]"
+  splits:
+  - split: 3
+    text: "洗练"
+    translated: "Refine"
+- raw: "MijiBookView_mobile,FindNode,483,未领悟,[]"
+  splits:
+  - split: 3
+    text: "未领悟"
+    translated: "Not yet comprehended"
 - raw: "MiJiMgr,Add,108,秘籍Item的misvalue2套路类型配置错误，ItemId:{0},[SweetPotato.Item]"
   splits:
   - split: 3
@@ -11670,37 +11810,62 @@
   - split: 3
     text: "设计时要求只能有1个buff效果，但实际不是，nodeId:{0}"
     translated: "During design, it was required to have only 1 buff effects, but in reality, this is not the case. Node ID: {0}"
-- raw: "NanDuView/<>c__DisplayClass45_0,<Awake>b__0,13,通关后二周目开启！,[System.Boolean]"
+- raw: "NanDuView/<>c__DisplayClass55_0,<Awake>b__0,77,通关后二周目开启！,[System.Boolean]"
   splits:
   - split: 3
     text: "通关后二周目开启！"
     translated: "Main Story Completion Unlocks New Game Plus!"
-- raw: "NanDuView,OnClickEnterGame,102,确认当前难度，并进入游戏,[]"
+- raw: "NanDuView,Open,57,进入游戏,[System.Boolean]"
+  splits:
+  - split: 3
+    text: "进入游戏"
+    translated: "Enter the game"
+- raw: "NanDuView,Open,64,选择人物,[System.Boolean]"
+  splits:
+  - split: 3
+    text: "选择人物"
+    translated: "Select Characters"
+- raw: "NanDuView,OnClickNanDUToggleForMobile,161,[属性点-,[UnityEngine.UI.Toggle，System.Boolean，System.Int32]"
+  splits:
+  - split: 3
+    text: "[属性点-"
+    translated: "Attributes Points ‑"
+- raw: "NanDuView,OnClickNanDUToggleForMobile,217,选择爽文江湖和险恶江湖，创角时可分配<color=#b9794e>八项</color>属性，且角色对应的<color=#b9794e>二级属性</color>会变,[UnityEngine.UI.Toggle，System.Boolean，System.Int32]"
+  splits:
+  - split: 3
+    text: "选择爽文江湖和险恶江湖，创角时可分配<color=#b9794e>八项</color>属性，且角色对应的<color=#b9794e>二级属性</color>会变"
+    translated: "Choose between Light Jianghu and Dangerous Jianghu. When creating a character, you can distribute <color=#b9794e>eight attributes</color>, and the corresponding <color=#b9794e>secondary attributes</color> of the character will change."
+- raw: "NanDuView,OnClickNanDUToggleForMobile,224,选择真实江湖，创角时可分配<color=#b9794e>五项</color>属性，且角色为常规<color=#b9794e>二级属性</color>,[UnityEngine.UI.Toggle，System.Boolean，System.Int32]"
+  splits:
+  - split: 3
+    text: "选择真实江湖，创角时可分配<color=#b9794e>五项</color>属性，且角色为常规<color=#b9794e>二级属性</color>"
+    translated: "Choose the authentic Jianghu; when creating a character, you can allocate <color=#b9794e>five attributes</color>, and the character will have regular <color=#b9794e>second‑level attributes</color>."
+- raw: "NanDuView,OnClickEnterGame,139,确认当前难度，并进入游戏,[]"
   splits:
   - split: 3
     text: "确认当前难度，并进入游戏"
     translated: "Confirm current difficulty level and enter the game."
-- raw: "NanDuView,OnClickEnterGame,120,确认,[]"
+- raw: "NanDuView,OnClickEnterGame,157,确认,[]"
   splits:
   - split: 3
     text: "确认"
     translated: "Confirmed"
-- raw: "NanDuView,OnClickEnterGame,125,取消,[]"
+- raw: "NanDuView,OnClickEnterGame,162,取消,[]"
   splits:
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "NanDuView,OnClickEnterGame,172,难度未解锁，无法进入游戏,[]"
+- raw: "NanDuView,OnClickEnterGame,209,难度未解锁，无法进入游戏,[]"
   splits:
   - split: 3
     text: "难度未解锁，无法进入游戏"
     translated: "Difficulty not unlocked; cannot enter the game"
-- raw: "NanDuView,OnClickEnterGame,209,确认,[]"
+- raw: "NanDuView,OnClickEnterGame,246,确认,[]"
   splits:
   - split: 3
     text: "确认"
     translated: "Confirmed"
-- raw: "NanDuView,OnClickEnterGame,214,取消,[]"
+- raw: "NanDuView,OnClickEnterGame,251,取消,[]"
   splits:
   - split: 3
     text: "取消"
@@ -11720,27 +11885,42 @@
   - split: 3
     text: "(<color=#f0f0f0>真实江湖</color>模式下各项属性数值成长曲线相对真实，通过装备、武学提升更加明显。少侠在此难度下更有江湖奇遇、寻宝的快感)"
     translated: "(<color=#f0f0f0>Authentic Jianghu</color> mode features more realistic attribute growth curves; enhancements from equipment and martial skills become more pronounced. Young Hero has more wuxia encounters and an enhanced treasure‑hunting thrill in this difficulty setting.)"
-- raw: "NanDuView,.ctor,51,简单,[]"
+- raw: "NanDuView,.ctor,51,爽文江湖,[]"
+  splits:
+  - split: 3
+    text: "爽文江湖"
+    translated: "Light Jianghu"
+- raw: "NanDuView,.ctor,62,险恶江湖,[]"
+  splits:
+  - split: 3
+    text: "险恶江湖"
+    translated: "Dangerous Jianghu"
+- raw: "NanDuView,.ctor,73,真实江湖,[]"
+  splits:
+  - split: 3
+    text: "真实江湖"
+    translated: "Authentic Jianghu"
+- raw: "NanDuView,.ctor,95,简单,[]"
   splits:
   - split: 3
     text: "简单"
     translated: "Easy"
-- raw: "NanDuView,.ctor,62,标准,[]"
+- raw: "NanDuView,.ctor,106,标准,[]"
   splits:
   - split: 3
     text: "标准"
     translated: "Normal"
-- raw: "NanDuView,.ctor,73,困难,[]"
+- raw: "NanDuView,.ctor,117,困难,[]"
   splits:
   - split: 3
     text: "困难"
     translated: "Hard"
-- raw: "NanDuView,.ctor,84,极难,[]"
+- raw: "NanDuView,.ctor,128,极难,[]"
   splits:
   - split: 3
     text: "极难"
     translated: "Extreme"
-- raw: "NanDuView,.ctor,95,地狱,[]"
+- raw: "NanDuView,.ctor,139,地狱,[]"
   splits:
   - split: 3
     text: "地狱"
@@ -11750,7 +11930,7 @@
   - split: 3
     text: "{dlg.chatlangid}对应的stringlang未空字符串"
     translated: "{dlg.chatlangid} corresponds to a string in the language that is an empty string."
-- raw: "NpcChatView,OnReset,4059,dlg.chatlangid:{0}对应的stringlang未空字符串,[]"
+- raw: "NpcChatView,OnReset,4083,dlg.chatlangid:{0}对应的stringlang未空字符串,[]"
   splits:
   - split: 3
     text: "dlg.chatlangid:{0}对应的stringlang未空字符串"
@@ -12689,242 +12869,242 @@
   - split: 3
     text: "我:"
     translated: "I:"
-- raw: "QuestViewNew/<>c__DisplayClass80_0,<OnQuestLogSelect>b__0,44,显示追踪,[System.Boolean]"
+- raw: "QuestViewNew/<>c__DisplayClass81_0,<OnQuestLogSelect>b__0,44,显示追踪,[System.Boolean]"
   splits:
   - split: 3
     text: "显示追踪"
     translated: "Show tracking display"
-- raw: "QuestViewNew/<>c__DisplayClass80_0,<OnQuestLogSelect>b__0,51,取消显示,[System.Boolean]"
+- raw: "QuestViewNew/<>c__DisplayClass81_0,<OnQuestLogSelect>b__0,51,取消显示,[System.Boolean]"
   splits:
   - split: 3
     text: "取消显示"
     translated: "Cancel display"
-- raw: "QuestViewNew/<>c__DisplayClass80_5,<OnQuestLogSelect>b__13,65,确定要放弃吗？,[]"
+- raw: "QuestViewNew/<>c__DisplayClass81_5,<OnQuestLogSelect>b__13,65,确定要放弃吗？,[]"
   splits:
   - split: 3
     text: "确定要放弃吗？"
     translated: "Are you sure you want to give up?"
-- raw: "QuestViewNew/<>c__DisplayClass80_5,<OnQuestLogSelect>b__13,83,确定,[]"
+- raw: "QuestViewNew/<>c__DisplayClass81_5,<OnQuestLogSelect>b__13,83,确定,[]"
   splits:
   - split: 3
     text: "确定"
     translated: "Confirmed"
-- raw: "QuestViewNew/<>c__DisplayClass80_5,<OnQuestLogSelect>b__13,88,取消,[]"
+- raw: "QuestViewNew/<>c__DisplayClass81_5,<OnQuestLogSelect>b__13,88,取消,[]"
   splits:
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "QuestViewNew/<>c__DisplayClass80_5,<OnQuestLogSelect>b__14,49,显示追踪,[System.Boolean]"
+- raw: "QuestViewNew/<>c__DisplayClass81_5,<OnQuestLogSelect>b__14,49,显示追踪,[System.Boolean]"
   splits:
   - split: 3
     text: "显示追踪"
     translated: "Show tracking display"
-- raw: "QuestViewNew/<>c__DisplayClass80_5,<OnQuestLogSelect>b__14,56,取消显示,[System.Boolean]"
+- raw: "QuestViewNew/<>c__DisplayClass81_5,<OnQuestLogSelect>b__14,56,取消显示,[System.Boolean]"
   splits:
   - split: 3
     text: "取消显示"
     translated: "Cancel display"
-- raw: "QuestViewNew/<>c__DisplayClass80_7,<OnQuestLogSelect>b__16,5,确定要放弃吗？,[]"
+- raw: "QuestViewNew/<>c__DisplayClass81_7,<OnQuestLogSelect>b__16,5,确定要放弃吗？,[]"
   splits:
   - split: 3
     text: "确定要放弃吗？"
     translated: "Are you sure you want to give up?"
-- raw: "QuestViewNew/<>c__DisplayClass80_7,<OnQuestLogSelect>b__16,42,确定,[]"
+- raw: "QuestViewNew/<>c__DisplayClass81_7,<OnQuestLogSelect>b__16,42,确定,[]"
   splits:
   - split: 3
     text: "确定"
     translated: "Confirmed"
-- raw: "QuestViewNew/<>c__DisplayClass80_7,<OnQuestLogSelect>b__16,47,取消,[]"
+- raw: "QuestViewNew/<>c__DisplayClass81_7,<OnQuestLogSelect>b__16,47,取消,[]"
   splits:
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "QuestViewNew/<>c__DisplayClass80_7,<OnQuestLogSelect>b__17,44,显示追踪,[System.Boolean]"
+- raw: "QuestViewNew/<>c__DisplayClass81_7,<OnQuestLogSelect>b__17,44,显示追踪,[System.Boolean]"
   splits:
   - split: 3
     text: "显示追踪"
     translated: "Show tracking display"
-- raw: "QuestViewNew/<>c__DisplayClass80_7,<OnQuestLogSelect>b__17,51,取消显示,[System.Boolean]"
+- raw: "QuestViewNew/<>c__DisplayClass81_7,<OnQuestLogSelect>b__17,51,取消显示,[System.Boolean]"
   splits:
   - split: 3
     text: "取消显示"
     translated: "Cancel display"
-- raw: "QuestViewNew,OnQuestLogSelect,601,显示追踪,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,648,显示追踪,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "显示追踪"
     translated: "Show tracking display"
-- raw: "QuestViewNew,OnQuestLogSelect,608,取消显示,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,655,取消显示,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "取消显示"
     translated: "Cancel display"
-- raw: "QuestViewNew,OnQuestLogSelect,794,【奇】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,841,【奇】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "【奇】"
     translated: "【Strange】"
-- raw: "QuestViewNew,OnQuestLogSelect,833,任务截止时间：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,880,任务截止时间：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "任务截止时间：无"
     translated: "Deadline for task completion: None"
-- raw: "QuestViewNew,OnQuestLogSelect,1626,【谜】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,1673,【谜】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "【谜】"
     translated: "【Riddle】"
-- raw: "QuestViewNew,OnQuestLogSelect,1642,任务截止时间：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,1689,任务截止时间：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "任务截止时间：无"
     translated: "Deadline for task completion: None"
-- raw: "QuestViewNew,OnQuestLogSelect,2240,【主】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,2287,【主】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "【主】"
     translated: "【Master】"
-- raw: "QuestViewNew,OnQuestLogSelect,2348,【支】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,2395,【支】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "【支】"
     translated: "【Support】"
-- raw: "QuestViewNew,OnQuestLogSelect,2428,任务截止时间：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,2475,任务截止时间：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "任务截止时间："
     translated: "Task deadline:"
-- raw: "QuestViewNew,OnQuestLogSelect,2475,任务截止时间：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,2522,任务截止时间：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "任务截止时间：无"
     translated: "Deadline for task completion: None"
-- raw: "QuestViewNew,OnQuestLogSelect,2975,的委托,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,3022,的委托,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "的委托"
     translated: "Commission of"
-- raw: "QuestViewNew,OnQuestLogSelect,3059,【委】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,3106,【委】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "【委】"
     translated: "【Delegate】"
-- raw: "QuestViewNew,OnQuestLogSelect,3108,任务截止时间：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,3155,任务截止时间：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "任务截止时间："
     translated: "Task deadline:"
-- raw: "QuestViewNew,OnQuestLogSelect,3173,任务截止时间：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,3220,任务截止时间：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "任务截止时间："
     translated: "Task deadline:"
-- raw: "QuestViewNew,OnQuestLogSelect,3228,任务截止时间：不限时,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,3275,任务截止时间：不限时,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "任务截止时间：不限时"
     translated: "Task deadline: Time‑unlimited"
-- raw: "QuestViewNew,OnQuestLogSelect,3330,交接：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,3377,交接：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "交接："
     translated: "Handover:"
-- raw: "QuestViewNew,OnQuestLogSelect,3361,\\n交接：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,3408,\\n交接：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "\\n交接："
     translated: "\\nHandover:"
-- raw: "QuestViewNew,OnQuestLogSelect,3398,交接：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,3445,交接：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "交接：无"
     translated: "Handover: None"
-- raw: "QuestViewNew,OnQuestLogSelect,3422,\\n交接：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,3469,\\n交接：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "\\n交接：无"
     translated: "\\nHandover: None"
-- raw: "QuestViewNew,OnQuestLogSelect,3847,显示追踪,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,3894,显示追踪,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "显示追踪"
     translated: "Show tracking display"
-- raw: "QuestViewNew,OnQuestLogSelect,3854,取消显示,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,3901,取消显示,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "取消显示"
     translated: "Cancel display"
-- raw: "QuestViewNew,OnQuestLogSelect,4901,级,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,4948,级,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "级"
     translated: "Level"
-- raw: "QuestViewNew,OnQuestLogSelect,4923,悬赏,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,4970,悬赏,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "悬赏"
     translated: "Bounty"
-- raw: "QuestViewNew,OnQuestLogSelect,5027,【悬】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,5074,【悬】,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "【悬】"
     translated: "【Unfamiliar Faces】"
-- raw: "QuestViewNew,OnQuestLogSelect,5086,任务截止时间：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,5133,任务截止时间：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "任务截止时间："
     translated: "Task deadline:"
-- raw: "QuestViewNew,OnQuestLogSelect,5147,任务截止时间：不限时,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,5194,任务截止时间：不限时,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "任务截止时间：不限时"
     translated: "Task deadline: Time‑unlimited"
-- raw: "QuestViewNew,OnQuestLogSelect,5249,交接：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,5296,交接：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "交接："
     translated: "Handover:"
-- raw: "QuestViewNew,OnQuestLogSelect,5280,\\n交接：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,5327,\\n交接：,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "\\n交接："
     translated: "\\nHandover:"
-- raw: "QuestViewNew,OnQuestLogSelect,5317,交接：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,5364,交接：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "交接：无"
     translated: "Handover: None"
-- raw: "QuestViewNew,OnQuestLogSelect,5341,交接：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,5388,交接：无,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "交接：无"
     translated: "Handover: None"
-- raw: "QuestViewNew,OnQuestLogSelect,5726,显示追踪,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,5773,显示追踪,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "显示追踪"
     translated: "Show tracking display"
-- raw: "QuestViewNew,OnQuestLogSelect,5733,取消显示,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
+- raw: "QuestViewNew,OnQuestLogSelect,5780,取消显示,[QuestViewTimePointItem，QuestViewWTXSListAdapterModle]"
   splits:
   - split: 3
     text: "取消显示"
     translated: "Cancel display"
-- raw: "QuestViewNew,CheckTextLink,473,此人已死,[TMPro.TextMeshProUGUI]"
+- raw: "QuestViewNew,CheckTextLink,488,此人已死,[TMPro.TextMeshProUGUI]"
   splits:
   - split: 3
     text: "此人已死"
     translated: "This person has died"
-- raw: "QuestViewNew,CheckTextLink,491,在{0}一带({1}，{2}),[TMPro.TextMeshProUGUI]"
+- raw: "QuestViewNew,CheckTextLink,506,在{0}一带({1}，{2}),[TMPro.TextMeshProUGUI]"
   splits:
   - split: 3
     text: "在{0}一带({1}，{2})"
     translated: "In the {0} area ({1}, {2})"
-- raw: "QuestViewNew,CheckTextLink,533,在({0}，{1})附近,[TMPro.TextMeshProUGUI]"
+- raw: "QuestViewNew,CheckTextLink,548,在({0}，{1})附近,[TMPro.TextMeshProUGUI]"
   splits:
   - split: 3
     text: "在({0}，{1})附近"
     translated: "Near ({0}, {1})"
-- raw: "QuestViewNew,CheckTextLink,588,此人已失联,[TMPro.TextMeshProUGUI]"
+- raw: "QuestViewNew,CheckTextLink,603,此人已失联,[TMPro.TextMeshProUGUI]"
   splits:
   - split: 3
     text: "此人已失联"
@@ -13897,42 +14077,42 @@
   - split: 3
     text: "拖动技能已配置在连招中，不能更换"
     translated: "The skill drag has been configured within the combo and cannot be changed."
-- raw: "SpellItemSlotNew,OnReset,1019,入门,[]"
+- raw: "SpellItemSlotNew,OnReset,1036,入门,[]"
   splits:
   - split: 3
     text: "入门"
     translated: "Beginner's level"
-- raw: "SpellItemSlotNew,OnReset,1028,熟练,[]"
+- raw: "SpellItemSlotNew,OnReset,1045,熟练,[]"
   splits:
   - split: 3
     text: "熟练"
     translated: "Proficient"
-- raw: "SpellItemSlotNew,OnReset,1037,精通,[]"
+- raw: "SpellItemSlotNew,OnReset,1054,精通,[]"
   splits:
   - split: 3
     text: "精通"
     translated: "Proficient"
-- raw: "SpellItemSlotNew,OnReset,1046,化境,[]"
+- raw: "SpellItemSlotNew,OnReset,1063,化境,[]"
   splits:
   - split: 3
     text: "化境"
     translated: "Transcendent"
-- raw: "SpellItemSlotNew,OnReset,1175,招式,[]"
+- raw: "SpellItemSlotNew,OnReset,1192,招式,[]"
   splits:
   - split: 3
     text: "招式"
     translated: "Technique"
-- raw: "SpellItemSlotNew,OnReset,1193,被动,[]"
+- raw: "SpellItemSlotNew,OnReset,1210,被动,[]"
   splits:
   - split: 3
     text: "被动"
     translated: "Passive"
-- raw: "SpellItemSlotNew,OnReset,1211,功体,[]"
+- raw: "SpellItemSlotNew,OnReset,1228,功体,[]"
   splits:
   - split: 3
     text: "功体"
     translated: "Martial Body"
-- raw: "SpellItemSlotNew,OnReset,1229,其他,[]"
+- raw: "SpellItemSlotNew,OnReset,1246,其他,[]"
   splits:
   - split: 3
     text: "其他"
@@ -16382,27 +16562,27 @@
   - split: 3
     text: "无法存档，正在执行功能脚本id:"
     translated: "Unable to save, executing function script ID:"
-- raw: "SweetPotato.ConditionPrototype/<DoConditionShowAnim>d__74,MoveNext,191,没有找到npcId:{0} 的NpcController,[]"
+- raw: "SweetPotato.ConditionPrototype/<DoConditionShowAnim>d__75,MoveNext,191,没有找到npcId:{0} 的NpcController,[]"
   splits:
   - split: 3
     text: "没有找到npcId:{0} 的NpcController"
     translated: "No NPC ID was found: NPC Controller of {0}"
-- raw: "SweetPotato.ConditionPrototype/<DoConditionShowAnim>d__74,MoveNext,886,没有找到npcId:{0} 的NpcController,[]"
+- raw: "SweetPotato.ConditionPrototype/<DoConditionShowAnim>d__75,MoveNext,886,没有找到npcId:{0} 的NpcController,[]"
   splits:
   - split: 3
     text: "没有找到npcId:{0} 的NpcController"
     translated: "No NPC ID was found: NPC Controller of {0}"
-- raw: "SweetPotato.ConditionPrototype,ParseCondition,754,条件完成需要的物品字符串配置格式错误，ConditionPrototype.Id:{0},[]"
+- raw: "SweetPotato.ConditionPrototype,ParseCondition,719,条件完成需要的物品字符串配置格式错误，ConditionPrototype.Id:{0},[]"
   splits:
   - split: 3
     text: "条件完成需要的物品字符串配置格式错误，ConditionPrototype.Id:{0}"
     translated: "The configuration format of the string for required items is incorrect; ConditionPrototype.Id: {0}"
-- raw: "SweetPotato.ConditionPrototype,LoadCSV,446,条件完成扣除的物品字符串配置格式错误，ConditionPrototype.Id:{0},[System.Int32，System.String[]]"
+- raw: "SweetPotato.ConditionPrototype,LoadCSV,432,条件完成扣除的物品字符串配置格式错误，ConditionPrototype.Id:{0},[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "条件完成扣除的物品字符串配置格式错误，ConditionPrototype.Id:{0}"
     translated: "Item string configuration format error, ConditionPrototype.Id: {0}"
-- raw: "SweetPotato.ConditionPrototype,LoadCSV,630,条件完成添加的物品字符串配置格式错误，ConditionPrototype.Id:{0},[System.Int32，System.String[]]"
+- raw: "SweetPotato.ConditionPrototype,LoadCSV,616,条件完成添加的物品字符串配置格式错误，ConditionPrototype.Id:{0},[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "条件完成添加的物品字符串配置格式错误，ConditionPrototype.Id:{0}"
@@ -17062,12 +17242,12 @@
   - split: 3
     text: "NpcPrototypeBase中id:{0}没有性别"
     translated: "NPC Prototype Base ID: {0} is genderless"
-- raw: "SweetPotato.NpcPrototype,LoadCSV,986,NpcPrototype.id:{0}中sectGenreId中配置的流派错误,[System.Int32，System.String[]]"
+- raw: "SweetPotato.NpcPrototype,LoadCSV,972,NpcPrototype.id:{0}中sectGenreId中配置的流派错误,[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "NpcPrototype.id:{0}中sectGenreId中配置的流派错误"
     translated: "NpcPrototype.id: The stream configured in sectGenreId within {0} has an error."
-- raw: "SweetPotato.NpcPrototype,LoadCSV,1049,NpcPrototype.id:{0}中强行配置的随机战斗Npc需要配制成不能交互NA_NO_INTERACT,[System.Int32，System.String[]]"
+- raw: "SweetPotato.NpcPrototype,LoadCSV,1035,NpcPrototype.id:{0}中强行配置的随机战斗Npc需要配制成不能交互NA_NO_INTERACT,[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "NpcPrototype.id:{0}中强行配置的随机战斗Npc需要配制成不能交互NA_NO_INTERACT"
@@ -17420,6 +17600,11 @@
     text: "Prefab/UISprite/UI_ItemBG/道具框-"
     translated: "Item Frame ‑"
     safeToTranslate: false
+- raw: "SweetPotato.Tools,FormatString,46,万,[System.Int64]"
+  splits:
+  - split: 3
+    text: "万"
+    translated: "Wan"
 - raw: "SweetPotato.Tools,.cctor,66,气血,[]"
   splits:
   - split: 3
@@ -19830,21 +20015,6 @@
   - split: 3
     text: "无有效目标"
     translated: "No valid target"
-- raw: "SweetPotato.GameSaving/<Load>d__115,MoveNext,1036,此存档包含DLC内容 {0} ，无法读取,[]"
-  splits:
-  - split: 3
-    text: "此存档包含DLC内容 {0} ，无法读取"
-    translated: "This archive contains DLC content {0}, cannot be accessed."
-- raw: "SweetPotato.GameSaving/<Load>d__115,MoveNext,1095,确认,[]"
-  splits:
-  - split: 3
-    text: "确认"
-    translated: "Confirmed"
-- raw: "SweetPotato.GameSaving/<Load>d__115,MoveNext,1100,取消,[]"
-  splits:
-  - split: 3
-    text: "取消"
-    translated: "Cancel"
 - raw: "SweetPotato.GameSaving,set_IsNoCacheResource,35,需要重启游戏，才能够生效,[System.Boolean]"
   splits:
   - split: 3
@@ -19860,12 +20030,12 @@
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "SweetPotato.GameSaving,Save,2349,未知,[SweetPotato.FileInfoItemData，System.Boolean，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.GameSaving,Save,3036,未知,[SweetPotato.FileInfoItemData，System.Boolean，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "未知"
     translated: "Unknown"
-- raw: "SweetPotato.GameSaving,Save,2592,存档发生了错误 \\n,[SweetPotato.FileInfoItemData，System.Boolean，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.GameSaving,Save,3279,存档发生了错误 \\n,[SweetPotato.FileInfoItemData，System.Boolean，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "存档发生了错误 \\n"
@@ -20345,22 +20515,22 @@
   - split: 3
     text: "{0}天"
     translated: "In {0} days"
-- raw: "SweetPotato.ChuanWenDetail,CheckTextLink,463,此人已死,[TMPro.TextMeshProUGUI]"
+- raw: "SweetPotato.ChuanWenDetail,CheckTextLink,478,此人已死,[TMPro.TextMeshProUGUI]"
   splits:
   - split: 3
     text: "此人已死"
     translated: "This person has died"
-- raw: "SweetPotato.ChuanWenDetail,CheckTextLink,481,此人在{0}一带({1}，{2})活动,[TMPro.TextMeshProUGUI]"
+- raw: "SweetPotato.ChuanWenDetail,CheckTextLink,496,此人在{0}一带({1}，{2})活动,[TMPro.TextMeshProUGUI]"
   splits:
   - split: 3
     text: "此人在{0}一带({1}，{2})活动"
-    translated: "This person was active in the {0} area ({1}, {2})."
-- raw: "SweetPotato.ChuanWenDetail,CheckTextLink,523,此人在({0}，{1})附近活动,[TMPro.TextMeshProUGUI]"
+    translated: "This person has been active in the {0} area ({1}, {2})."
+- raw: "SweetPotato.ChuanWenDetail,CheckTextLink,538,此人在({0}，{1})附近活动,[TMPro.TextMeshProUGUI]"
   splits:
   - split: 3
     text: "此人在({0}，{1})附近活动"
-    translated: "This person was active near ({0}, {1})"
-- raw: "SweetPotato.ChuanWenDetail,CheckTextLink,578,此人已失联,[TMPro.TextMeshProUGUI]"
+    translated: "This person has been active in the vicinity of ({0}, {1})."
+- raw: "SweetPotato.ChuanWenDetail,CheckTextLink,593,此人已失联,[TMPro.TextMeshProUGUI]"
   splits:
   - split: 3
     text: "此人已失联"
@@ -20430,87 +20600,87 @@
   - split: 3
     text: "交互"
     translated: "Interaction"
-- raw: "SweetPotato.FileView/<UploadFiles>d__84,MoveNext,731,读取存档失败,[]"
+- raw: "SweetPotato.FileView/<UploadFiles>d__85,MoveNext,731,读取存档失败,[]"
   splits:
   - split: 3
     text: "读取存档失败"
     translated: "Failed to load save file"
-- raw: "SweetPotato.FileView/<UploadFiles>d__84,MoveNext,849,读取存档失败,[]"
+- raw: "SweetPotato.FileView/<UploadFiles>d__85,MoveNext,849,读取存档失败,[]"
   splits:
   - split: 3
     text: "读取存档失败"
     translated: "Failed to load save file"
-- raw: "SweetPotato.FileView/<UploadFiles>d__84,MoveNext,1383,上传失败,[]"
+- raw: "SweetPotato.FileView/<UploadFiles>d__85,MoveNext,1383,上传失败,[]"
   splits:
   - split: 3
     text: "上传失败"
     translated: "Upload failed"
-- raw: "SweetPotato.FileView/<UploadFiles>d__84,MoveNext,1503,上传成功,[]"
+- raw: "SweetPotato.FileView/<UploadFiles>d__85,MoveNext,1503,上传成功,[]"
   splits:
   - split: 3
     text: "上传成功"
     translated: "Upload successful"
-- raw: "SweetPotato.FileView/<UploadFiles>d__84,MoveNext,1672,登录失效,[]"
+- raw: "SweetPotato.FileView/<UploadFiles>d__85,MoveNext,1672,登录失效,[]"
   splits:
   - split: 3
     text: "登录失效"
     translated: "Session expired"
-- raw: "SweetPotato.FileView/<UploadFiles>d__84,MoveNext,1711,确定,[]"
+- raw: "SweetPotato.FileView/<UploadFiles>d__85,MoveNext,1711,确定,[]"
   splits:
   - split: 3
     text: "确定"
     translated: "Confirmed"
-- raw: "SweetPotato.FileView/<UploadFiles>d__84,MoveNext,1716,取消,[]"
+- raw: "SweetPotato.FileView/<UploadFiles>d__85,MoveNext,1716,取消,[]"
   splits:
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "SweetPotato.FileView/<DownloadFiles>d__86,MoveNext,467,下载失败,[]"
+- raw: "SweetPotato.FileView/<DownloadFiles>d__87,MoveNext,467,下载失败,[]"
   splits:
   - split: 3
     text: "下载失败"
     translated: "Download failed"
-- raw: "SweetPotato.FileView/<DownloadFiles>d__86,MoveNext,582,下载成功,[]"
+- raw: "SweetPotato.FileView/<DownloadFiles>d__87,MoveNext,582,下载成功,[]"
   splits:
   - split: 3
     text: "下载成功"
     translated: "Download successful"
-- raw: "SweetPotato.FileView/<DownloadFiles>d__86,MoveNext,849,登录失效,[]"
+- raw: "SweetPotato.FileView/<DownloadFiles>d__87,MoveNext,849,登录失效,[]"
   splits:
   - split: 3
     text: "登录失效"
     translated: "Session expired"
-- raw: "SweetPotato.FileView/<DownloadFiles>d__86,MoveNext,888,确定,[]"
+- raw: "SweetPotato.FileView/<DownloadFiles>d__87,MoveNext,888,确定,[]"
   splits:
   - split: 3
     text: "确定"
     translated: "Confirmed"
-- raw: "SweetPotato.FileView/<DownloadFiles>d__86,MoveNext,893,取消,[]"
+- raw: "SweetPotato.FileView/<DownloadFiles>d__87,MoveNext,893,取消,[]"
   splits:
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "SweetPotato.FileView/<DeleteFiles>d__88,MoveNext,190,删除失败,[]"
+- raw: "SweetPotato.FileView/<DeleteFiles>d__89,MoveNext,190,删除失败,[]"
   splits:
   - split: 3
     text: "删除失败"
     translated: "Deletion failed"
-- raw: "SweetPotato.FileView/<DeleteFiles>d__88,MoveNext,299,删除成功,[]"
+- raw: "SweetPotato.FileView/<DeleteFiles>d__89,MoveNext,299,删除成功,[]"
   splits:
   - split: 3
     text: "删除成功"
     translated: "Successfully deleted"
-- raw: "SweetPotato.FileView/<DeleteFiles>d__88,MoveNext,352,登录失效,[]"
+- raw: "SweetPotato.FileView/<DeleteFiles>d__89,MoveNext,352,登录失效,[]"
   splits:
   - split: 3
     text: "登录失效"
     translated: "Session expired"
-- raw: "SweetPotato.FileView/<DeleteFiles>d__88,MoveNext,391,确定,[]"
+- raw: "SweetPotato.FileView/<DeleteFiles>d__89,MoveNext,391,确定,[]"
   splits:
   - split: 3
     text: "确定"
     translated: "Confirmed"
-- raw: "SweetPotato.FileView/<DeleteFiles>d__88,MoveNext,396,取消,[]"
+- raw: "SweetPotato.FileView/<DeleteFiles>d__89,MoveNext,396,取消,[]"
   splits:
   - split: 3
     text: "取消"
@@ -20630,22 +20800,22 @@
   - split: 3
     text: "该账号没有购买对应资料片。请登录购买"
     translated: "This account has not purchased the corresponding expansion pack. Please log in to purchase."
-- raw: "SweetPotato.FileView,ChangeSelect,202,请勿手动操作快速存档栏位,[FileItemSlot]"
+- raw: "SweetPotato.FileView,ChangeSelect,218,请勿手动操作快速存档栏位,[FileItemSlot]"
   splits:
   - split: 3
     text: "请勿手动操作快速存档栏位"
     translated: "Do not manually operate the quick save slot."
-- raw: "SweetPotato.FileView,ChangeSelect,285,是否覆盖？,[FileItemSlot]"
+- raw: "SweetPotato.FileView,ChangeSelect,301,是否覆盖？,[FileItemSlot]"
   splits:
   - split: 3
     text: "是否覆盖？"
     translated: "Is it covered?"
-- raw: "SweetPotato.FileView,ChangeSelect,303,确定,[FileItemSlot]"
+- raw: "SweetPotato.FileView,ChangeSelect,319,确定,[FileItemSlot]"
   splits:
   - split: 3
     text: "确定"
     translated: "Confirmed"
-- raw: "SweetPotato.FileView,ChangeSelect,308,取消,[FileItemSlot]"
+- raw: "SweetPotato.FileView,ChangeSelect,324,取消,[FileItemSlot]"
   splits:
   - split: 3
     text: "取消"
@@ -20710,7 +20880,7 @@
   - split: 3
     text: "请先登录"
     translated: "Please log in first"
-- raw: "SweetPotato.FileView,<Awake>b__52_0,30,请先登录,[]"
+- raw: "SweetPotato.FileView,<Awake>b__53_0,30,请先登录,[]"
   splits:
   - split: 3
     text: "请先登录"
@@ -21085,81 +21255,76 @@
   - split: 3
     text: "自选天赋：<color=#848484>(消耗天赋点数配置角色自选天赋)"
     translated: "Personalized Talent Choice: <color=#848484>(Spend talent points to configure character‑selected talents.)"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,GetAttriDesc,24,<color=#787a7c>(影响人物{0}和{1})</color>,[SweetPotato.AttriType]"
-  splits:
-  - split: 3
-    text: "<color=#787a7c>(影响人物{0}和{1})</color>"
-    translated: "<color=#787a7c>(Influencing characters {0} and {1})</color>"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,GetAttriDesc,35,<color=#787a7c>(影响人物{0}，{1}和{2})</color>,[SweetPotato.AttriType]"
-  splits:
-  - split: 3
-    text: "<color=#787a7c>(影响人物{0}，{1}和{2})</color>"
-    translated: "<color=#787a7c>(Character {0}, affected by {1} and {2})</color>"
 - raw: "SweetPotato.InstantiateViewNewNew_mobile,OnTaoLuSelect,25,其余武器套路请在进入游戏后自行更换,[ItemEquip/EQUIP_SUBTYPE]"
   splits:
   - split: 3
     text: "其余武器套路请在进入游戏后自行更换"
     translated: "Please change other weapon techniques after entering the game."
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,267,请输入名字,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,290,请输入名字,[]"
   splits:
   - split: 3
     text: "请输入名字"
     translated: "Please enter your name"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,274,确定,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,297,确定,[]"
   splits:
   - split: 3
     text: "确定"
     translated: "Confirmed"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,279,取消,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,302,取消,[]"
   splits:
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,416,请选择天赋,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,437,请选择天赋,[]"
   splits:
   - split: 3
     text: "请选择天赋"
     translated: "Choose your talent"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,423,确定,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,444,确定,[]"
   splits:
   - split: 3
     text: "确定"
     translated: "Confirmed"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,428,取消,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,449,取消,[]"
   splits:
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,485,使用属性点数调整战斗倾向属性。,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,506,使用属性点数调整战斗倾向属性。,[]"
   splits:
   - split: 3
     text: "使用属性点数调整战斗倾向属性。"
     translated: "Use attribute points to adjust combat‑bias attributes"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,492,确定,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,513,确定,[]"
   splits:
   - split: 3
     text: "确定"
     translated: "Confirmed"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,497,取消,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,518,取消,[]"
   splits:
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,643,天赋点数不足,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,664,天赋点数不足,[]"
   splits:
   - split: 3
     text: "天赋点数不足"
     translated: "Insufficient talent points"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,650,确定,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,671,确定,[]"
   splits:
   - split: 3
     text: "确定"
     translated: "Confirmed"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,655,取消,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,676,取消,[]"
   splits:
   - split: 3
     text: "取消"
     translated: "Cancel"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,1114,[属性点-,[]"
+  splits:
+  - split: 3
+    text: "[属性点-"
+    translated: "Attributes Points ‑"
 - raw: "SweetPotato.InstantiateViewNewNew_mobile,OnConfirm,595,添加物品: ,[System.Int32，ItemEquip/EQUIP_SUBTYPE，System.Collections.Generic.List`1<SweetPotato.InsViewNewNewTianFuItem>，SweetPotato.AttriManager，System.String]"
   splits:
   - split: 3
@@ -21180,17 +21345,97 @@
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,<Awake>b__99_25,36,少侠的姓名包含忌讳之词，请重新输入,[System.String]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,.ctor,648,爽文江湖,[]"
+  splits:
+  - split: 3
+    text: "爽文江湖"
+    translated: "Light Jianghu"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,.ctor,659,险恶江湖,[]"
+  splits:
+  - split: 3
+    text: "险恶江湖"
+    translated: "Dangerous Jianghu"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,.ctor,670,真实江湖,[]"
+  splits:
+  - split: 3
+    text: "真实江湖"
+    translated: "Authentic Jianghu"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,.cctor,13,增加大量气血，和少量物理外防,[]"
+  splits:
+  - split: 3
+    text: "增加大量气血，和少量物理外防"
+    translated: "Increase a large amount of lifeforce and a small amount of external physical defense."
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,.cctor,24,增加大量真气，并少量增加内防和化解,[]"
+  splits:
+  - split: 3
+    text: "增加大量真气，并少量增加内防和化解"
+    translated: "Increase a substantial amount of True Qi and slightly enhance Internal Defense and Counter."
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,.cctor,47,增加外攻攻击能力，并少量增加要害,[]"
+  splits:
+  - split: 3
+    text: "增加外攻攻击能力，并少量增加要害"
+    translated: "Increase external attack capabilities and slightly enhance vital points."
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,.cctor,58,增加外攻攻击能力，并少量增加命中值,[]"
+  splits:
+  - split: 3
+    text: "增加外攻攻击能力，并少量增加命中值"
+    translated: "Increase external attack power and slightly increase hit rate."
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,.cctor,81,增加内攻攻击能力，并少量增加化解,[]"
+  splits:
+  - split: 3
+    text: "增加内攻攻击能力，并少量增加化解"
+    translated: "Increase internal attack capability and slightly increase counter."
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,.cctor,92,增加内攻攻击能力，并少量增加命中值,[]"
+  splits:
+  - split: 3
+    text: "增加内攻攻击能力，并少量增加命中值"
+    translated: "Increase internal attack capability and slightly increase hit rate."
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,.cctor,115,获得的大量的物理外防御，少量的气血,[]"
+  splits:
+  - split: 3
+    text: "获得的大量的物理外防御，少量的气血"
+    translated: "Acquired a large amount of physical external defense and a small amount of lifeforce."
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,.cctor,126,获得的大量的内防和外防,[]"
+  splits:
+  - split: 3
+    text: "获得的大量的内防和外防"
+    translated: "Acquired a large amount of internal and external defense."
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,.cctor,150,获得的大量移动速度，轻功加成，同时增加闪避能力,[]"
+  splits:
+  - split: 3
+    text: "获得的大量移动速度，轻功加成，同时增加闪避能力"
+    translated: "Acquire a significant increase in mobility speed and qinggong enhancement, while also boosting dodge ability."
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,.cctor,161,获得的大量命中值，同时增加闪避能力,[]"
+  splits:
+  - split: 3
+    text: "获得的大量命中值，同时增加闪避能力"
+    translated: "Acquire a large amount of hit rate while simultaneously increasing dodge ability."
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,.cctor,184,增加大量真气，并少量增加内防和化解,[]"
+  splits:
+  - split: 3
+    text: "增加大量真气，并少量增加内防和化解"
+    translated: "Increase a substantial amount of True Qi and slightly enhance Internal Defense and Counter."
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,.cctor,219,获得大量的内攻防御能力，同时获得少量真气,[]"
+  splits:
+  - split: 3
+    text: "获得大量的内攻防御能力，同时获得少量真气"
+    translated: "Gain substantial internal defense capabilities while acquiring a small amount of true Qi."
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,.cctor,254,获得大量的命中和少量的要害,[]"
+  splits:
+  - split: 3
+    text: "获得大量的命中和少量的要害"
+    translated: "Obtain a high hit rate and a few vital points."
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,<Awake>b__100_25,36,少侠的姓名包含忌讳之词，请重新输入,[System.String]"
   splits:
   - split: 3
     text: "少侠的姓名包含忌讳之词，请重新输入"
     translated: "Young hero's name contains a taboo word; please re‑enter."
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,<Awake>b__99_25,96,少侠的姓名不得超过七个字,[System.String]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,<Awake>b__100_25,96,少侠的姓名不得超过七个字,[System.String]"
   splits:
   - split: 3
     text: "少侠的姓名不得超过七个字"
     translated: "The name of the young hero must not exceed seven characters."
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,<Awake>b__99_26,36,少侠的姓名包含忌讳之词，请重新输入,[System.String]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,<Awake>b__100_26,36,少侠的姓名包含忌讳之词，请重新输入,[System.String]"
   splits:
   - split: 3
     text: "少侠的姓名包含忌讳之词，请重新输入"
@@ -21655,227 +21900,227 @@
   - split: 3
     text: "全屏模式"
     translated: "Full‑screen mode"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,358,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,377,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "关闭"
     translated: "Close"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,369,低,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,388,低,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "低"
     translated: "Low"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,380,中,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,399,中,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "中"
     translated: "Middle"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,391,高,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,410,高,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "高"
     translated: "Gao"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,447,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,466,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "关闭"
     translated: "Close"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,458,低,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,477,低,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "低"
     translated: "Low"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,469,高,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,488,高,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "高"
     translated: "Gao"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,525,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,544,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "关闭"
     translated: "Close"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,536,开启,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,555,开启,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "开启"
     translated: "Begin"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,592,极致,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,611,极致,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "极致"
     translated: "Extreme"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,603,高级,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,622,高级,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "高级"
     translated: "Advanced"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,614,普通,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,633,普通,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "普通"
     translated: "Common"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,625,流畅,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,644,流畅,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "流畅"
     translated: "Smoothly fluent"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,681,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,700,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "关闭"
     translated: "Close"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,692,开启,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,711,开启,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "开启"
     translated: "Begin"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,748,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,767,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "关闭"
     translated: "Close"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,759,开启,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,778,开启,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "开启"
     translated: "Begin"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,815,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,834,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "关闭"
     translated: "Close"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,826,开启,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,845,开启,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "开启"
     translated: "Begin"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,883,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,902,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "关闭"
     translated: "Close"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,894,开启,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,913,开启,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "开启"
     translated: "Begin"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,951,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,970,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "关闭"
     translated: "Close"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,962,开启,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,981,开启,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "开启"
     translated: "Begin"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1109,极致,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1194,极致,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "极致"
     translated: "Extreme"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1120,高级,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1205,高级,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "高级"
     translated: "Advanced"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1131,普通,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1216,普通,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "普通"
     translated: "Common"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1142,流畅,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1227,流畅,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "流畅"
     translated: "Smoothly fluent"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1199,开启,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1284,开启,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "开启"
     translated: "Begin"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1210,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1295,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "关闭"
     translated: "Close"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1267,开启,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1352,开启,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "开启"
     translated: "Begin"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1278,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1363,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "关闭"
     translated: "Close"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1335,开启,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1420,开启,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "开启"
     translated: "Begin"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1346,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1431,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "关闭"
     translated: "Close"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1403,极致,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1488,极致,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "极致"
     translated: "Extreme"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1414,高级,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1499,高级,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "高级"
     translated: "Advanced"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1425,普通,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1510,普通,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "普通"
     translated: "Common"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1436,流畅,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1521,流畅,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "流畅"
     translated: "Smoothly fluent"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1493,开启,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1578,开启,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "开启"
     translated: "Begin"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1504,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1589,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "关闭"
     translated: "Close"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1561,极致,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1646,极致,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "极致"
     translated: "Extreme"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1572,高级,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1657,高级,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "高级"
     translated: "Advanced"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1583,普通,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1668,普通,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "普通"
     translated: "Common"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1594,流畅,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1679,流畅,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "流畅"
     translated: "Smoothly fluent"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1651,开启,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1736,开启,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "开启"
     translated: "Begin"
-- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1662,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
+- raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1747,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
     text: "关闭"
@@ -22165,12 +22410,12 @@
   - split: 3
     text: "开启"
     translated: "Begin"
-- raw: "SweetPotato.SettingViewNew,SetCameraLockBtn,94,只锁定目标,[]"
+- raw: "SweetPotato.SettingViewNew,SetCameraLockBtn,108,只锁定目标,[]"
   splits:
   - split: 3
     text: "只锁定目标"
     translated: "Lock on target only"
-- raw: "SweetPotato.SettingViewNew,SetCameraLockBtn,101,镜头追踪,[]"
+- raw: "SweetPotato.SettingViewNew,SetCameraLockBtn,115,镜头追踪,[]"
   splits:
   - split: 3
     text: "镜头追踪"
@@ -22205,42 +22450,42 @@
   - split: 3
     text: "开启"
     translated: "Begin"
-- raw: "SweetPotato.SettingViewNew,<OpenAnjianshezhi>b__97_0,18,保存成功！,[]"
+- raw: "SweetPotato.SettingViewNew,<OpenAnjianshezhi>b__99_0,18,保存成功！,[]"
   splits:
   - split: 3
     text: "保存成功！"
     translated: "Success in saving!"
-- raw: "SweetPotato.SettingViewNew,<OpenAnjianshezhi>b__97_1,18,已重置！,[]"
+- raw: "SweetPotato.SettingViewNew,<OpenAnjianshezhi>b__99_1,18,已重置！,[]"
   splits:
   - split: 3
     text: "已重置！"
     translated: "Reset completed!"
-- raw: "SweetPotato.SettingViewNew,<OpenYingyueshezhi>b__102_0,18,保存成功！,[]"
+- raw: "SweetPotato.SettingViewNew,<OpenYingyueshezhi>b__104_0,18,保存成功！,[]"
   splits:
   - split: 3
     text: "保存成功！"
     translated: "Success in saving!"
-- raw: "SweetPotato.SettingViewNew,<OpenYingyueshezhi>b__102_1,18,已重置！,[]"
+- raw: "SweetPotato.SettingViewNew,<OpenYingyueshezhi>b__104_1,18,已重置！,[]"
   splits:
   - split: 3
     text: "已重置！"
     translated: "Reset completed!"
-- raw: "SweetPotato.SettingViewNew,<OpenHuamianshezhi>b__107_0,18,保存成功！,[]"
+- raw: "SweetPotato.SettingViewNew,<OpenHuamianshezhi>b__109_0,18,保存成功！,[]"
   splits:
   - split: 3
     text: "保存成功！"
     translated: "Success in saving!"
-- raw: "SweetPotato.SettingViewNew,<OpenHuamianshezhi>b__107_1,18,已重置！,[]"
+- raw: "SweetPotato.SettingViewNew,<OpenHuamianshezhi>b__109_1,18,已重置！,[]"
   splits:
   - split: 3
     text: "已重置！"
     translated: "Reset completed!"
-- raw: "SweetPotato.SettingViewNew,<OpenChaoZuoSheZhi>b__149_0,18,保存成功！,[]"
+- raw: "SweetPotato.SettingViewNew,<OpenChaoZuoSheZhi>b__152_0,18,保存成功！,[]"
   splits:
   - split: 3
     text: "保存成功！"
     translated: "Success in saving!"
-- raw: "SweetPotato.SettingViewNew,<OpenChaoZuoSheZhi>b__149_1,18,已重置！,[]"
+- raw: "SweetPotato.SettingViewNew,<OpenChaoZuoSheZhi>b__152_1,18,已重置！,[]"
   splits:
   - split: 3
     text: "已重置！"
@@ -22330,11 +22575,6 @@
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "SweetPotato.ShangChengViewNew,RefreshList_ForMoible,67,普通时装,[]"
-  splits:
-  - split: 3
-    text: "普通时装"
-    translated: "Casual clothing"
 - raw: "SweetPotato.ShangChengViewNew,RefreshJiHuoMaList,17,请登录,[]"
   splits:
   - split: 3
@@ -23007,11 +23247,6 @@
   - split: 3
     text: "你成为了"
     translated: "You have become"
-- raw: "SweetPotato.MenPaiManager,Save,164,--------------存档：数量{0}------------------,[LitJson.JsonData]"
-  splits:
-  - split: 3
-    text: "--------------存档：数量{0}------------------"
-    translated: "‑  ‑  ‑  ‑  ‑  ‑  ‑  ‑  ‑  ‑  ‑  ‑  ‑  ‑ Archive: Number {0} ‑  ‑  ‑  ‑  ‑  ‑  ‑  ‑  ‑  ‑  ‑  ‑  ‑  ‑  ‑  ‑  ‑  ‑"
 - raw: "SweetPotato.MenPaiZhongMenDaBiManager/<FinishIE>d__9,MoveNext,565,你在宗门大比获得了第{0}名,[]"
   splits:
   - split: 3
@@ -23832,82 +24067,82 @@
   - split: 3
     text: "当前属性已经到达瓶颈，请找提升对应身份后使用"
     translated: "Current attributes have reached their limit; please upgrade your identity first before using them again."
-- raw: "SweetPotato.ItemStorage,UseItem,1033,秘法,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
+- raw: "SweetPotato.ItemStorage,UseItem,1062,秘法,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
   splits:
   - split: 3
     text: "秘法"
     translated: "Secret Technique"
-- raw: "SweetPotato.ItemStorage,UseItem,1040,秘术,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
+- raw: "SweetPotato.ItemStorage,UseItem,1069,秘术,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
   splits:
   - split: 3
     text: "秘术"
     translated: "Secret Technique"
-- raw: "SweetPotato.ItemStorage,UseItem,1074,您已学过,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
+- raw: "SweetPotato.ItemStorage,UseItem,1103,您已学过,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
   splits:
   - split: 3
     text: "您已学过"
     translated: "You have studied it"
-- raw: "SweetPotato.ItemStorage,UseItem,1139,学会,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
+- raw: "SweetPotato.ItemStorage,UseItem,1168,学会,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
   splits:
   - split: 3
     text: "学会"
     translated: "Learned it"
-- raw: "SweetPotato.ItemStorage,UseItem,1150,学会,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
+- raw: "SweetPotato.ItemStorage,UseItem,1179,学会,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
   splits:
   - split: 3
     text: "学会"
     translated: "Learned it"
-- raw: "SweetPotato.ItemStorage,UseItem,1303,已学会,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
+- raw: "SweetPotato.ItemStorage,UseItem,1332,已学会,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
   splits:
   - split: 3
     text: "已学会"
     translated: "Already learned"
-- raw: "SweetPotato.ItemStorage,UseItem,1319,已学会,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
+- raw: "SweetPotato.ItemStorage,UseItem,1348,已学会,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
   splits:
   - split: 3
     text: "已学会"
     translated: "Already learned"
-- raw: "SweetPotato.ItemStorage,UseItem,1521,【可以对<color=#5DBCF3>,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
+- raw: "SweetPotato.ItemStorage,UseItem,1550,【可以对<color=#5DBCF3>,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
   splits:
   - split: 3
     text: "【可以对<color=#5DBCF3>"
     translated: "Can you action or object? <color=#5DBCF3>"
-- raw: "SweetPotato.ItemStorage,UseItem,1585,</color>进行冲灵了】,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
+- raw: "SweetPotato.ItemStorage,UseItem,1614,</color>进行冲灵了】,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
   splits:
   - split: 3
     text: "</color>进行冲灵了】"
     translated: "Initiating Soul Ascension</color>"
-- raw: "SweetPotato.ItemStorage,UseItem,1628,未学习,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
+- raw: "SweetPotato.ItemStorage,UseItem,1657,未学习,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
   splits:
   - split: 3
     text: "未学习"
     translated: "Not learned"
-- raw: "SweetPotato.ItemStorage,UseItem,1708,已学会该言技,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
+- raw: "SweetPotato.ItemStorage,UseItem,1737,已学会该言技,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
   splits:
   - split: 3
     text: "已学会该言技"
     translated: "Have mastered that technique of speech"
-- raw: "SweetPotato.ItemStorage,UseItem,1779,学会{0},[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
+- raw: "SweetPotato.ItemStorage,UseItem,1808,学会{0},[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
   splits:
   - split: 3
     text: "学会{0}"
     translated: "Learn {0}"
-- raw: "SweetPotato.ItemStorage,UseItem,1906,您的精力不足{0}点,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
+- raw: "SweetPotato.ItemStorage,UseItem,1935,您的精力不足{0}点,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
   splits:
   - split: 3
     text: "您的精力不足{0}点"
     translated: "Your energy is insufficient by {0} points"
-- raw: "SweetPotato.ItemStorage,UseItem,2101,暂时搜索不到此等级的宝物,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
+- raw: "SweetPotato.ItemStorage,UseItem,2130,暂时搜索不到此等级的宝物,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
   splits:
   - split: 3
     text: "暂时搜索不到此等级的宝物"
     translated: "No treasure of this level can currently be found."
-- raw: "SweetPotato.ItemStorage,UseItem,2210,暂时搜索不到此等级的宝物,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
+- raw: "SweetPotato.ItemStorage,UseItem,2239,暂时搜索不到此等级的宝物,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
   splits:
   - split: 3
     text: "暂时搜索不到此等级的宝物"
     translated: "No treasure of this level can currently be found."
-- raw: "SweetPotato.ItemStorage,UseItem,2440,您的精力不足{0}点,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
+- raw: "SweetPotato.ItemStorage,UseItem,2469,您的精力不足{0}点,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.NpcEntity]"
   splits:
   - split: 3
     text: "您的精力不足{0}点"
@@ -24383,6 +24618,51 @@
   - split: 3
     text: "暂无来源"
     translated: "No source available"
+- raw: "SweetPotato.Upload.UploadUserAccountPanel/<GetUserAccount>d__15,MoveNext,238,获取账号数据失败：,[]"
+  splits:
+  - split: 3
+    text: "获取账号数据失败："
+    translated: "Failed to retrieve account data:"
+- raw: "SweetPotato.Upload.UploadUserAccountPanel/<DeleteAccount>d__18,MoveNext,291,服务器原因无法删除账号，请稍后再试,[]"
+  splits:
+  - split: 3
+    text: "服务器原因无法删除账号，请稍后再试"
+    translated: "Due to server issues, account deletion is not possible at this time. Please try again later."
+- raw: "SweetPotato.Upload.UploadUserAccountPanel/<DeleteAccount>d__18,MoveNext,378,账号删除成功,[]"
+  splits:
+  - split: 3
+    text: "账号删除成功"
+    translated: "Account deletion successful"
+- raw: "SweetPotato.Upload.UploadUserAccountPanel/<DeleteAccount>d__18,MoveNext,452,账号删除失败，账号不存在,[]"
+  splits:
+  - split: 3
+    text: "账号删除失败，账号不存在"
+    translated: "Account deletion failed; account does not exist"
+- raw: "SweetPotato.Upload.UploadUserAccountPanel/<DeleteAccount>d__18,MoveNext,480,服务器原因无法删除账号，请稍后再试,[]"
+  splits:
+  - split: 3
+    text: "服务器原因无法删除账号，请稍后再试"
+    translated: "Due to server issues, account deletion is not possible at this time. Please try again later."
+- raw: "SweetPotato.Upload.UploadUserAccountPanel/<DeleteAccount>d__18,MoveNext,499,账号删除失败,[]"
+  splits:
+  - split: 3
+    text: "账号删除失败"
+    translated: "Account deletion failed"
+- raw: "SweetPotato.Upload.UploadUserAccountPanel,DeleteUserAccount,55,确认删除云存档账号,[System.String，SweetPotato.Upload.UploadUserAccountItem]"
+  splits:
+  - split: 3
+    text: "确认删除云存档账号"
+    translated: "Confirm deletion of cloud archive account"
+- raw: "SweetPotato.Upload.UploadUserAccountPanel,DeleteUserAccount,84,是,[System.String，SweetPotato.Upload.UploadUserAccountItem]"
+  splits:
+  - split: 3
+    text: "是"
+    translated: "Yes"
+- raw: "SweetPotato.Upload.UploadUserAccountPanel,DeleteUserAccount,89,否,[System.String，SweetPotato.Upload.UploadUserAccountItem]"
+  splits:
+  - split: 3
+    text: "否"
+    translated: "No"
 - raw: "SweetPotato.JingMai.JingMaiAttriPartItemSlot,UseAttriPoint,49,可分配属性点不足,[]"
   splits:
   - split: 3

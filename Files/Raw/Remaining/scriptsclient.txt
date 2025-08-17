@@ -21,7 +21,6 @@
 777#777_ceshi_suiji#
 778#778_xs_ceshi#
 779#779_text_starttimer#
-990#990_Quest_NewRegister_101000#
 991#991_Quest_TrigEnterBattle_101000#
 992#992_Quest_TrigEnterBattle_101000#
 993#993_Quest_BattleSetPos_101000#
@@ -3533,6 +3532,18 @@
 40360#40360_itembase_180009#
 40361#40361_Quest_1231034_Condition_4009201#
 40362#40362_NpcChatScript_165594#
+40363#40363_NewNewjiangmen_init#
+40364#40364_Quest_101200_Condition_4009601#
+40365#40365_Quest_101200_Condition_4009602#
+40366#40366_Quest_101200_Condition_4009603#
+40367#40367_Quest_101200_Condition_4009604#
+40368#40368_jiangmenStart_trigger_165608#
+40369#40369_yunhechunAudioSfx_165662#
+40393#40393_yunhecunai#
+40394#40394_yunhecunai#
+40395#40395_yunhecunai#
+40396#40396_yunhecunai#
+40397#40397_yunhecunai#
 45001#45001_03_06_Condition_47006001#
 45002#45002_03_06_Condition_47006006#
 45003#45003_03_06_Condition_46003003#
