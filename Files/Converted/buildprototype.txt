@@ -1164,14 +1164,14 @@
   - split: 20
     text: "聚贤房，乃宗门之中英才汇聚之地。其名寓意“聚集贤能之士”，是宗门用以招揽、培养与款待各方英雄豪杰的重要场所。<color=FFD700>可以提升宗门人数上限。</color>"
     translated: "Juxianfang is the place within the sect where talented individuals gather. Its name signifies gathering talented and capable people, serving as an important location for the sect to attract, nurture, and entertain heroes and distinguished figures from all directions.<color=FFD700> It can increase the upper limit of the sect's membership.</color>"
-- raw: "2023#藏宝阁#1#5#96073#CangJinGe#77019#16#8#480##2#0#0#0#0#1##0#CangJinGe#藏宝阁，宗门之珍稀宝藏汇聚之所。阁内珍藏无数，既有历代先辈遗留下的稀世珍宝，也有宗门弟子在外历练所得之奇珍异宝。阁内布置典雅，光线柔和。可以升级。#0#"
+- raw: "2023#藏经阁#1#5#96073#CangJinGe#77019#16#8#480##2#0#0#0#0#1##0#CangJinGe#藏经阁，宗门之珍稀宝藏汇聚之所。阁内珍藏无数，既有历代先辈遗留下的稀世珍宝，也有宗门弟子在外历练所得之奇珍异宝。阁内布置典雅，光线柔和。可以升级。#0#"
   splits:
   - split: 1
-    text: "藏宝阁"
-    translated: "Secret Treasure Hall"
+    text: "藏经阁"
+    translated: "Library of Scriptures"
   - split: 20
-    text: "藏宝阁，宗门之珍稀宝藏汇聚之所。阁内珍藏无数，既有历代先辈遗留下的稀世珍宝，也有宗门弟子在外历练所得之奇珍异宝。阁内布置典雅，光线柔和。可以升级。"
-    translated: "Treasure Vault, a place where the rare and precious treasures of our sect are amassed. The vault houses countless treasures: from priceless heirlooms left by our ancestors to unique treasures acquired by our disciples through their trials beyond the gates. Inside the vault, the arrangement is elegant, with soft lighting. It can be upgraded"
+    text: "藏经阁，宗门之珍稀宝藏汇聚之所。阁内珍藏无数，既有历代先辈遗留下的稀世珍宝，也有宗门弟子在外历练所得之奇珍异宝。阁内布置典雅，光线柔和。可以升级。"
+    translated: "The Scripture Repository is the collection point of the sect's rare and precious treasures. The repository houses countless valuables: from ancient relics left by past ancestors to unique and extraordinary treasures acquired by disciples during their external training. The interior is elegantly arranged with soft lighting. It can be upgraded."
 - raw: "2024#坊堂#1#6#96074#TianGongFang#77019#16#8#480##2#0#0#0#0#1##0#TianGongFang#天工坊，宗门之锻造与制作圣地。坊内汇聚了宗门中最顶尖的工匠，他们技艺高超，匠心独运，能够打造出各种精美绝伦的装备。可以升级。#0#"
   splits:
   - split: 1

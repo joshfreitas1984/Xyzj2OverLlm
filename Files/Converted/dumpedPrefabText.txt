@@ -134,6 +134,10 @@
   splits:
   - text: "获得声望："
     translated: "Gained reputation:"
+- raw: "当前进行中的活动"
+  splits:
+  - text: "当前进行中的活动"
+    translated: "Ongoing activity"
 - raw: "由于目前AI为测试阶段，每人每天限制提问"
   splits:
   - text: "由于目前AI为测试阶段，每人每天限制提问"
@@ -1246,10 +1250,6 @@
   splits:
   - text: "打坐结束后日期："
     translated: "Date after completing meditation:"
-- raw: "此处山水风景独佳，颇为静心，打坐进行中..."
-  splits:
-  - text: "此处山水风景独佳，颇为静心，打坐进行中..."
-    translated: "The scenery here is exceptionally beautiful, providing a perfect setting for relaxation. Meditation in progress..."
 - raw: "修炼点"
   splits:
   - text: "修炼点"
@@ -1274,6 +1274,10 @@
   splits:
   - text: "时"
     translated: "Time"
+- raw: "此处山水风景独佳，颇为静心，打坐进行中..."
+  splits:
+  - text: "此处山水风景独佳，颇为静心，打坐进行中..."
+    translated: "The scenery here is exceptionally beautiful, providing a perfect setting for relaxation. Meditation in progress..."
 - raw: "此物可用于打造无心"
   splits:
   - text: "此物可用于打造无心"
@@ -1322,14 +1326,14 @@
   splits:
   - text: "江湖霸业。开宗立派"
     translated: "Dominating the Jianghu; founding a new sect"
-- raw: "追加内容\\n"
-  splits:
-  - text: "追加内容\\n"
-    translated: "Additional Content\\n"
 - raw: "已拥有"
   splits:
   - text: "已拥有"
     translated: "Already possessed"
+- raw: "追加内容\\n"
+  splits:
+  - text: "追加内容\\n"
+    translated: "Additional Content\\n"
 - raw: "启用"
   splits:
   - text: "启用"
@@ -1538,13 +1542,13 @@
   splits:
   - text: "秘法材料"
     translated: "Secret formula materials"
-- raw: "添加秘术"
-  splits:
-  - text: "添加秘术"
-    translated: "Add secret techniques"
 - raw: "添加秘法"
   splits:
   - text: "添加秘法"
+    translated: "Add secret techniques"
+- raw: "添加秘术"
+  splits:
+  - text: "添加秘术"
     translated: "Add secret techniques"
 - raw: "精良"
   splits:
@@ -3823,10 +3827,10 @@
   splits:
   - text: "独马单枪空做去，思考过多则会损失部分收获，无形增加25，"
     translated: "Riding solo on a single horse with no spear, overthinking can lead to losing some of your gains and inadvertently increase 25."
-- raw: "当使用阴属性招式，阴角色进入阴属性状态，此时角色获得阴属性战斗加成和一些特殊效果：发顺丰水电费水电费收费沙发上大大撒大声地撒大声地撒大萨达四大四大四大打扫打扫打扫打扫打扫大萨达"
+- raw: "当使用阴属性招式，阴角色进入阴属性状态，此时角色获得阴属性战斗加成和一些特殊效果：发顺丰水dasdsadddfsdfdscffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
   splits:
-  - text: "当使用阴属性招式，阴角色进入阴属性状态，此时角色获得阴属性战斗加成和一些特殊效果：发顺丰水电费水电费收费沙发上大大撒大声地撒大声地撒大萨达四大四大四大打扫打扫打扫打扫打扫大萨达"
-    translated: "When using Yin attribute techniques, when a Yin character enters the Yin attribute state, the character gains Yin attribute combat bonuses and some special effects: Shipped via SF Express, utilities bill. Utilities bill charge on the sofa loudly scattered loudly scattered Loudly Scattered Sada Four Great Four Great Four Great Sweep sweep sweep sweep sweep sweep sweep Sada Da"
+  - text: "当使用阴属性招式，阴角色进入阴属性状态，此时角色获得阴属性战斗加成和一些特殊效果：发顺丰水dasdsadddfsdfdscffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    translated: "When using yin‑type techniques, when a yin character enters the yin attribute state, at that time the character gains battle bonuses for the yin attribute and some special effects: Send via SF Express"
 - raw: "顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿"
   splits:
   - text: "顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿顿"
@@ -5611,6 +5615,10 @@
   splits:
   - text: "词条<color=#67696a>(可洗练)"
     translated: "Entry <color=#67696a>(trainable)"
+- raw: "感悟：200dasdasdsads"
+  splits:
+  - text: "感悟：200dasdasdsads"
+    translated: "Insight: 200dasdasdsads"
 - raw: "壁虎游墙"
   splits:
   - text: "壁虎游墙"
@@ -5651,6 +5659,10 @@
   splits:
   - text: "熟练              <color=#e2b35e>化境"
     translated: "Proficient in <color=#e2b35e>Transcendence."
+- raw: "感悟"
+  splits:
+  - text: "感悟"
+    translated: "Insight"
 - raw: "境界：第五层"
   splits:
   - text: "境界：第五层"
@@ -6315,10 +6327,10 @@
   splits:
   - text: "退隐江湖"
     translated: "Retire from the Jianghu"
-- raw: "著作权人：成都忆墨轩网络科技有限公司    运营单位：成都忆墨轩网络科技有限公司\\n抵制不良游戏，拒绝盗版游戏。主要自我保护，谨防上当受骗。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。"
+- raw: "出版物号：ISBN 978-7-498-13258-1 ICP备案号：蜀ICP备2020028310号-3A\\n著作权人：成都忆墨轩网络科技有限公司    运营单位：成都忆墨轩网络科技有限公司\\n抵制不良游戏，拒绝盗版游戏。主要自我保护，谨防上当受骗。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。"
   splits:
-  - text: "著作权人：成都忆墨轩网络科技有限公司    运营单位：成都忆墨轩网络科技有限公司\\n抵制不良游戏，拒绝盗版游戏。主要自我保护，谨防上当受骗。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。"
-    translated: "Copyright holder: Chengdu Yi Mu Xuan Network Technology Co., Ltd ‑ Operating Unit: Chengdu Yi Mexuan Network Technology Co., Ltd.\\nResist bad games and reject pirated games. The main purpose is self‑protection; beware of being deceived. Moderate gaming benefits the brain, but excessive gaming harms the body. Arrange your time reasonably to enjoy a healthy life."
+  - text: "出版物号：ISBN 978-7-498-13258-1 ICP备案号：蜀ICP备2020028310号-3A\\n著作权人：成都忆墨轩网络科技有限公司    运营单位：成都忆墨轩网络科技有限公司\\n抵制不良游戏，拒绝盗版游戏。主要自我保护，谨防上当受骗。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。"
+    translated: "Publication number: ISBN 978‑7‑498‑13258‑1 Registered No. of ICP: Sichuan ICP license number 2020028310 ‑3 A\\nCopyright holder: Chengdu Yi Mu Xuan Network Technology Co., Ltd. – Operating Unit: Chengdu Yi Mexuan Network Technology Co., Ltd.\\nResist bad games and reject pirated games. Primarily for self‑protection, be cautious of being deceived. Moderate gaming benefits the brain; excessive gaming harms the body. Arrange your time reasonably to enjoy a healthy life."
 - raw: "公告"
   splits:
   - text: "公告"
@@ -6543,10 +6555,6 @@
   splits:
   - text: "修为"
     translated: "Cultivation"
-- raw: "感悟"
-  splits:
-  - text: "感悟"
-    translated: "Insight"
 - raw: "词条"
   splits:
   - text: "词条"
@@ -7000,6 +7008,10 @@
   splits:
   - text: "最大boss发生"
     translated: "Main boss has appeared"
+- raw: "视距X1"
+  splits:
+  - text: "视距X1"
+    translated: "View distance X1"
 - raw: "江湖传闻"
   splits:
   - text: "江湖传闻"
@@ -7008,10 +7020,6 @@
   splits:
   - text: "消息"
     translated: "News"
-- raw: "调整视距"
-  splits:
-  - text: "调整视距"
-    translated: "Adjust focal distance"
 - raw: "脱离卡死"
   splits:
   - text: "脱离卡死"
@@ -7100,10 +7108,6 @@
   splits:
   - text: "处决"
     translated: "Execution"
-- raw: "视距X1"
-  splits:
-  - text: "视距X1"
-    translated: "View distance X1"
 - raw: "返回菜单"
   splits:
   - text: "返回菜单"
@@ -8508,6 +8512,10 @@
   splits:
   - text: "你果，你果然还在这里听着就胡扯我不会放过你你果，你果然还在这里听着就胡扯我不会放过你你果，你"
     translated: "You, indeed, are still here listening and rambling on. I will not let you get away with it. You, indeed, are still here listening and rambling on. I will not let you get away with it. You, indeed, ..."
+- raw: "你果，你果然还在这里听着就胡扯我不会放过你你果，你果然还在这里听着就胡扯我不会放过你你果，你大大叔大婶打撒发生发顺丰发发的发顺丰东方闪电发发的方式电风扇"
+  splits:
+  - text: "你果，你果然还在这里听着就胡扯我不会放过你你果，你果然还在这里听着就胡扯我不会放过你你果，你大大叔大婶打撒发生发顺丰发发的发顺丰东方闪电发发的方式电风扇"
+    translated: "Oh, you're still here listening to my rambling? I won't let you off the hook. Oh, you're really still here listening to all this nonsense! I won't forgive you. Oh, big uncle and auntie, how did you manage with the delivery from SF Express? How did you handle it using their way? The fan is running."
 - raw: "对方"
   splits:
   - text: "对方"
@@ -9540,6 +9548,10 @@
   splits:
   - text: "屏幕全局光照"
     translated: "Global Screen Lighting"
+- raw: "全局阴影"
+  splits:
+  - text: "全局阴影"
+    translated: "Global shadowing"
 - raw: "阴影质量"
   splits:
   - text: "阴影质量"
@@ -9712,6 +9724,10 @@
   splits:
   - text: "草的密度"
     translated: "Density of the grass"
+- raw: "打印日志"
+  splits:
+  - text: "打印日志"
+    translated: "Print log"
 - raw: "镜头移动灵敏度"
   splits:
   - text: "镜头移动灵敏度"
@@ -9740,6 +9756,10 @@
   splits:
   - text: "武器特效"
     translated: "Weapon Special Effects"
+- raw: "PC端渠道专属福利"
+  splits:
+  - text: "PC端渠道专属福利"
+    translated: "Mobile platform exclusive benefits"
 - raw: "衣橱仅为少侠提供更换服装、坐骑，以便少侠闯荡江湖之用。"
   splits:
   - text: "衣橱仅为少侠提供更换服装、坐骑，以便少侠闯荡江湖之用。"
@@ -9932,6 +9952,10 @@
   splits:
   - text: "偷窃中......"
     translated: "Stealing in the midst of..."
+- raw: "点击按钮保持光标停留在白色区域，带蓝色进度满后即可完成盗窃"
+  splits:
+  - text: "点击按钮保持光标停留在白色区域，带蓝色进度满后即可完成盗窃"
+    translated: "Click the button to keep the cursor in the white area; once the blue progress bar is full, the theft will be completed."
 - raw: "系统说明"
   splits:
   - text: "系统说明"

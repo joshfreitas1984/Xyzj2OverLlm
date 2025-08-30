@@ -5,6 +5,7 @@ using Xunit.Sdk;
 using System.Security.Cryptography;
 using Translate.Support;
 using Translate.Utility;
+using SweetPotato;
 
 namespace Translate.Tests;
 
@@ -242,6 +243,64 @@ public class SupportTests
         }
 
         File.WriteAllLines($"{workingDirectory}/TestResults/ExportEmoji.yaml", emojiNames);
+    }
+
+    [Fact]
+    public void TestDLCPrototype()
+    {                      
+        var lines = File.ReadAllLines($"{workingDirectory}/Mod/Formatted/dlc_prototype.txt");
+
+        foreach (var line in lines)
+        {
+            var array = line.Split('#');
+            
+            if (array.Length != 8)
+                Console.WriteLine(line);
+
+            DLC_Prototype dlc = new DLC_Prototype();
+            int index = 0;
+
+            // Parse fields from array
+            int.TryParse(array[index++], out dlc.id);
+            int.TryParse(array[index++], out dlc.dlctype);
+            dlc.dlcId = array[index++];
+            dlc.itemids = array[index++];
+            int.TryParse(array[index++], out dlc.unlock);
+
+            if (index < array.Length)
+                dlc.dlcName = array[index++];
+
+            int.TryParse(array[index++], out dlc.bothContain);
+
+            // Store in main template list
+            DLC_Prototype.mTemplateList[dlc.id] = dlc;
+
+            // Stop if type is 0
+            if (dlc.dlctype == 0)
+                continue;
+
+            // Process item IDs
+            foreach (string part in dlc.itemids.Split('&', StringSplitOptions.None))
+            {
+                if (int.TryParse(part.Split('|', StringSplitOptions.None)[0], out int itemId))
+                {
+                    if (!DLC_Prototype.mTemplateListByDLCId.ContainsKey(dlc.dlcId))
+                        DLC_Prototype.mTemplateListByDLCId[dlc.dlcId] = new List<long>();
+
+                    if (!DLC_Prototype.mTemplateListByDLCId[dlc.dlcId].Contains(itemId))
+                        DLC_Prototype.mTemplateListByDLCId[dlc.dlcId].Add(itemId);
+
+                    if (dlc.bothContain == 1 && !DLC_Prototype.bothContainItemList.Contains(itemId))
+                        DLC_Prototype.bothContainItemList.Add(itemId);
+
+                    if (!DLC_Prototype.allItems.Contains(itemId))
+                        DLC_Prototype.allItems.Add(itemId);
+                }
+            }
+
+            // Keep DLC name mapped
+            DLC_Prototype.mTemplateListForName[dlc.dlcId] = dlc.dlcName;
+        }        
     }
 
     [Fact]

@@ -11,6 +11,7 @@ using System.Linq;
 using System.Text.RegularExpressions;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.UIElements.StyleSheets;
 
 namespace EnglishPatch.Sprites;
 
@@ -23,7 +24,7 @@ public class SpriteReplacerV2Plugin : BaseUnityPlugin
     public static Dictionary<string, SpriteReplacerContract> Contracts = [];
     public static Dictionary<string, SpriteReplacerContract> CachedMatchesContracts = [];
     private static string _folder;
-    
+
     private ConfigEntry<bool> _devMode;
     private KeyCode _addAtCursorHotKey = KeyCode.F1;
     private KeyCode _addAllHotKey = KeyCode.F2;
@@ -151,12 +152,12 @@ public class SpriteReplacerV2Plugin : BaseUnityPlugin
         {
             // Get the RectTransform to check if it contains the cursor position
             var rectTransform = element.rectTransform;
-            if (rectTransform == null) 
+            if (rectTransform == null)
                 continue;
 
             // Check if the text element's screen rect overlaps with our cursor area
             var canvas = element.canvas;
-            if (canvas == null) 
+            if (canvas == null)
                 continue;
 
             // Get the screen rect of the text element
@@ -211,7 +212,7 @@ public class SpriteReplacerV2Plugin : BaseUnityPlugin
 
                 var spritePath = $"{_folder}/dumped/{newContract.ReplacementSprite}";
                 //Logger.LogWarning($"Found Sprite Path: {spritePath}");
-                
+
                 if (!File.Exists(spritePath))
                 {
                     var texture = element.sprite.texture;
@@ -365,8 +366,14 @@ public class SpriteReplacerV2Plugin : BaseUnityPlugin
         {
             var bytes = File.ReadAllBytes(spriteReplacementPath);
             var originalTexture = image.sprite.texture;
-            var texture = new Texture2D(originalTexture.width, originalTexture.height, originalTexture.format, false);
+
+            // We use an uncompressed format to avoid issues with compression requiring specific sizes (eg. DXT1, DXT5, BC7, BC6H)
+            // Texture size doesn't matter, will be replaced by Unity in LoadImage to match texture
+            var texture = new Texture2D(2, 2, TextureFormat.RGBA32, false);
             texture.LoadImage(bytes);
+
+            // Ensure preserve aspect is on to avoid stretching issues where replacement sprite dimensions differ
+            image.preserveAspect = true;
 
             // Ensure the rect fits within the new texture dimensions 
             var rect = image.sprite.rect;

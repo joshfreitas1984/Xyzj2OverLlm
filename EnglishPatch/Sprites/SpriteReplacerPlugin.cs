@@ -19,8 +19,8 @@ namespace EnglishPatch.Sprites
         private Dictionary<string, byte[]> _cachedReplacements = [];
         private List<string> _cachedSpriteNames = [];
         private string _spritesPath;
-        //public static bool Enabled = !SpriteReplacerV2Plugin.Enabled;
-        public static bool Enabled = false;
+        public static bool Enabled = !SpriteReplacerV2Plugin.Enabled;
+        //public static bool Enabled = false;
 
         private void Awake()
         {
@@ -154,18 +154,25 @@ namespace EnglishPatch.Sprites
 
             if (child.sprite != null && child.sprite.name != null)
             {
-                var shouldMatch = _cachedSpriteNames.Contains(child?.name) || _cachedSpriteNames.Contains(child.sprite?.name);
-                //var spritePath = child.GetObjectPath();
+                var shouldMatch = _cachedSpriteNames.Contains(child?.name) ||
+                                  _cachedSpriteNames.Contains(child.sprite?.name);
 
                 var spriteKey = PrepareSpriteKey(parentAssetName, child.sprite.name);
 
                 if (_cachedReplacements.TryGetValue(spriteKey, out var replacementBytes))
-                { 
+                {
                     var originalTexture = child.sprite.texture;
-                    var texture = new Texture2D(originalTexture.width, originalTexture.height, originalTexture.format, false);
-                    texture.LoadImage(replacementBytes);
 
-                    // Ensure the rect fits within the new texture dimensions 
+                    // We use an uncompressed format to avoid issues with compression requiring specific sizes (eg. DXT1, DXT5, BC7, BC6H)
+                    // Texture size doesn't matter, will be replaced by Unity in LoadImage to match texture
+                    var texture = new Texture2D(2, 2, TextureFormat.RGBA32, false); 
+                    texture.LoadImage(replacementBytes, false);
+
+
+                    // Ensure preserve aspect is on to avoid stretching issues where replacement sprite dimensions differ
+                    child.preserveAspect = true;
+
+                    // Rect handling
                     var rect = child.sprite.rect;
                     if (rect.width > texture.width || rect.height > texture.height)
                     {
@@ -174,7 +181,8 @@ namespace EnglishPatch.Sprites
                         rect.height = Mathf.Min(rect.height, texture.height);
                     }
 
-                    child.sprite = Sprite.Create(texture, rect, child.sprite.pivot, child.sprite.pixelsPerUnit); 
+                    // Replace sprite
+                    child.sprite = Sprite.Create(texture, rect, child.sprite.pivot, child.sprite.pixelsPerUnit);
                 }
             }
         }

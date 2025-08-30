@@ -4998,5602 +4998,5602 @@
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "1139#55201#2096#枰栌北###0#16#1016#"
+- raw: "1139#55201#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "1140#55201#2102#法华村###0#4#1004#"
+- raw: "1140#55201#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "1141#55201#2105#淮陵西###0#4#1004#"
+- raw: "1141#55201#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "1142#55201#2106#重天外滩###0#12#1012#"
+- raw: "1142#55201#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "1143#55201#2107#太初驿站###0#20#1020#"
+- raw: "1143#55201#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "1151#55202#2094#枰栌南#0#0#0#1#1001#"
+- raw: "1151#55202#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "1152#55202#2095#枰栌西#0#0#0#2#1002#"
+- raw: "1152#55202#2095#枰栌西#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "1153#55202#2097#枰栌外城#0#0#0#3#1003#"
+    translated: "Pinglu West"
+- raw: "1153#55202#2097#枰栌外城#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "1154#55202#2103#淮陵北#0#0#0#4#1004#"
+- raw: "1154#55202#2103#淮陵北#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "1155#55202#2104#淮陵南#0#0#0#5#1005#"
+- raw: "1155#55202#2104#淮陵南#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "1156#55202#2108#雁州南#0#0#0#17#1017#"
+- raw: "1156#55202#2108#雁州南#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "1157#55202#2109#雁州北#0#0#0#5#1005#"
+- raw: "1157#55202#2109#雁州北#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "1158#55202#2111#豫京南#0#0#0#8#1008#"
+- raw: "1158#55202#2111#豫京南#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "1159#55202#2090#云鹤村#0#0#0#18#1018#"
+- raw: "1159#55202#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "1160#55202#2098#小石镇#0#0#0#12#1012#"
+- raw: "1160#55202#2098#小石镇#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "1161#55202#55224#玉沙关#0#0#0#6#1006#"
+- raw: "1161#55202#55224#玉沙关#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "玉沙关"
     translated: "Jade Sand Pass"
-- raw: "1162#55202#2091#太初#0#0#0#19#1019#"
+- raw: "1162#55202#2091#太初#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "太初"
     translated: "Primordial Origin"
-- raw: "1163#55202#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "1163#55202#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "1164#55202#2093#长旌军营地#0#0#0#17#1017#"
+- raw: "1164#55202#2093#长旌军营地#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "长旌军营地"
     translated: "Long Standard Army Camp"
-- raw: "1165#55202#2100#云潇码头#0#0#0#13#1013#"
+- raw: "1165#55202#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
     text: "云潇码头"
     translated: "Yun Xiao Port"
-- raw: "1166#55202#55201#嵩室山#0#0#0#6#1006#"
+- raw: "1166#55202#55201#嵩室山#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "1167#55202#55203#清玉门#0#0#0#14#1014#"
+- raw: "1167#55202#55203#清玉门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "清玉门"
     translated: "Pure Jade Gate"
-- raw: "1168#55202#55204#大雪山#0#0#0#4#1004#"
+- raw: "1168#55202#55204#大雪山#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "大雪山"
     translated: "Great Snow Mountain"
-- raw: "1169#55202#55205#麓山书院#0#0#0#19#1019#"
+- raw: "1169#55202#55205#麓山书院#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "麓山书院"
     translated: "Mount Lu Academy"
-- raw: "1170#55202#55206#昭月宗#0#0#0#14#1014#"
+- raw: "1170#55202#55206#昭月宗#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "昭月宗"
     translated: "Bright Moon Clan"
-- raw: "1171#55202#55207#穆特族#0#0#0#16#1016#"
+- raw: "1171#55202#55207#穆特族#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "穆特族"
     translated: "Mu Te Tribe"
-- raw: "1172#55202#55208#信陵宗#0#0#0#4#1004#"
+- raw: "1172#55202#55208#信陵宗#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "信陵宗"
     translated: "Xinling Sect"
-- raw: "1173#55202#55209#丐门#0#0#0#7#1007#"
+- raw: "1173#55202#55209#丐门#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "丐门"
     translated: "Beggar Sect"
-- raw: "1174#55202#55210#捭阖谷#0#0#0#7#1007#"
+- raw: "1174#55202#55210#捭阖谷#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "捭阖谷"
     translated: "Baihe Valley"
-- raw: "1175#55202#55211#神兵山庄#0#0#0#19#1019#"
+- raw: "1175#55202#55211#神兵山庄#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
-- raw: "1176#55202#55212#楚军#0#0#0#5#1005#"
+- raw: "1176#55202#55212#楚军#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "楚军"
     translated: "Chu army"
-- raw: "1177#55202#55213#齐军#0#0#0#4#1004#"
+- raw: "1177#55202#55213#齐军#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "齐军"
     translated: "Qi Army"
-- raw: "1178#55202#55214#遥雪峰#0#0#0#4#1004#"
+- raw: "1178#55202#55214#遥雪峰#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "遥雪峰"
     translated: "Distant Snow Peak"
-- raw: "1179#55202#55215#溯海派#0#0#0#12#1012#"
+- raw: "1179#55202#55215#溯海派#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "1180#55202#55216#泠香坞#0#0#0#20#1020#"
+- raw: "1180#55202#55216#泠香坞#0#0#1000#20#1020#"
   splits:
   - split: 3
     text: "泠香坞"
     translated: "Cold Fragrance Cove"
-- raw: "1181#55202#55217#黑沙寨#0#0#0#16#1016#"
+- raw: "1181#55202#55217#黑沙寨#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "黑沙寨"
     translated: "Black Sand Stronghold"
-- raw: "1182#55202#55218#拂松门#0#0#0#3#1003#"
+- raw: "1182#55202#55218#拂松门#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "拂松门"
     translated: "Pine Brushing Gate"
-- raw: "1183#55202#55219#岭花谷#0#0#0#3#1003#"
+- raw: "1183#55202#55219#岭花谷#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "岭花谷"
     translated: "Ridge Flower Valley"
-- raw: "1184#55202#55220#鸿月派#0#0#0#8#1008#"
+- raw: "1184#55202#55220#鸿月派#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "鸿月派"
     translated: "Grand Moon Sect"
-- raw: "1185#55202#55221#普贤门#0#0#0#14#1014#"
+- raw: "1185#55202#55221#普贤门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "普贤门"
     translated: "Universal Virtue Gate"
-- raw: "1186#55202#55222#爻光谷#0#0#0#5#1005#"
+- raw: "1186#55202#55222#爻光谷#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "爻光谷"
     translated: "Light of Divination Valley"
-- raw: "1187#55202#55223#不夜京#0#0#0#9#1009#"
+- raw: "1187#55202#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
     text: "不夜京"
     translated: "Evernight Capital"
-- raw: "1188#55202#2092#御虚门###0#19#1019#"
+- raw: "1188#55202#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "1189#55202#2096#枰栌北###0#16#1016#"
+- raw: "1189#55202#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "1190#55202#2102#法华村###0#4#1004#"
+- raw: "1190#55202#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "1191#55202#2105#淮陵西###0#4#1004#"
+- raw: "1191#55202#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "1192#55202#2106#重天外滩###0#12#1012#"
+- raw: "1192#55202#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "1193#55202#2107#太初驿站###0#20#1020#"
+- raw: "1193#55202#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "1201#55203#2094#枰栌南#0#0#0#1#1001#"
+- raw: "1201#55203#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "1202#55203#2095#枰栌西#0#0#0#2#1002#"
+- raw: "1202#55203#2095#枰栌西#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "1203#55203#2097#枰栌外城#0#0#0#3#1003#"
+    translated: "Pinglu West"
+- raw: "1203#55203#2097#枰栌外城#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "1204#55203#2103#淮陵北#0#0#0#4#1004#"
+- raw: "1204#55203#2103#淮陵北#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "1205#55203#2104#淮陵南#0#0#0#5#1005#"
+- raw: "1205#55203#2104#淮陵南#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "1206#55203#2108#雁州南#0#0#0#17#1017#"
+- raw: "1206#55203#2108#雁州南#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "1207#55203#2109#雁州北#0#0#0#5#1005#"
+- raw: "1207#55203#2109#雁州北#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "1208#55203#2111#豫京南#0#0#0#8#1008#"
+- raw: "1208#55203#2111#豫京南#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "1209#55203#2090#云鹤村#0#0#0#18#1018#"
+- raw: "1209#55203#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "1210#55203#2098#小石镇#0#0#0#12#1012#"
+- raw: "1210#55203#2098#小石镇#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "1211#55203#55224#玉沙关#0#0#0#6#1006#"
+- raw: "1211#55203#55224#玉沙关#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "玉沙关"
     translated: "Jade Sand Pass"
-- raw: "1212#55203#2091#太初#0#0#0#19#1019#"
+- raw: "1212#55203#2091#太初#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "太初"
     translated: "Primordial Origin"
-- raw: "1213#55203#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "1213#55203#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "1214#55203#2093#长旌军营地#0#0#0#17#1017#"
+- raw: "1214#55203#2093#长旌军营地#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "长旌军营地"
     translated: "Long Standard Army Camp"
-- raw: "1215#55203#2100#云潇码头#0#0#0#13#1013#"
+- raw: "1215#55203#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
     text: "云潇码头"
     translated: "Yun Xiao Port"
-- raw: "1216#55203#55201#嵩室山#0#0#0#6#1006#"
+- raw: "1216#55203#55201#嵩室山#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "1217#55203#55202#砚溪山庄#0#0#0#2#1002#"
+- raw: "1217#55203#55202#砚溪山庄#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "砚溪山庄"
     translated: "Ink Stream Mountain Villa"
-- raw: "1218#55203#55204#大雪山#0#0#0#4#1004#"
+- raw: "1218#55203#55204#大雪山#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "大雪山"
     translated: "Great Snow Mountain"
-- raw: "1219#55203#55205#麓山书院#0#0#0#19#1019#"
+- raw: "1219#55203#55205#麓山书院#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "麓山书院"
     translated: "Mount Lu Academy"
-- raw: "1220#55203#55206#昭月宗#0#0#0#14#1014#"
+- raw: "1220#55203#55206#昭月宗#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "昭月宗"
     translated: "Bright Moon Clan"
-- raw: "1221#55203#55207#穆特族#0#0#0#16#1016#"
+- raw: "1221#55203#55207#穆特族#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "穆特族"
     translated: "Mu Te Tribe"
-- raw: "1222#55203#55208#信陵宗#0#0#0#4#1004#"
+- raw: "1222#55203#55208#信陵宗#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "信陵宗"
     translated: "Xinling Sect"
-- raw: "1223#55203#55209#丐门#0#0#0#7#1007#"
+- raw: "1223#55203#55209#丐门#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "丐门"
     translated: "Beggar Sect"
-- raw: "1224#55203#55210#捭阖谷#0#0#0#7#1007#"
+- raw: "1224#55203#55210#捭阖谷#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "捭阖谷"
     translated: "Baihe Valley"
-- raw: "1225#55203#55211#神兵山庄#0#0#0#19#1019#"
+- raw: "1225#55203#55211#神兵山庄#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
-- raw: "1226#55203#55212#楚军#0#0#0#5#1005#"
+- raw: "1226#55203#55212#楚军#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "楚军"
     translated: "Chu army"
-- raw: "1227#55203#55213#齐军#0#0#0#4#1004#"
+- raw: "1227#55203#55213#齐军#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "齐军"
     translated: "Qi Army"
-- raw: "1228#55203#55214#遥雪峰#0#0#0#4#1004#"
+- raw: "1228#55203#55214#遥雪峰#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "遥雪峰"
     translated: "Distant Snow Peak"
-- raw: "1229#55203#55215#溯海派#0#0#0#12#1012#"
+- raw: "1229#55203#55215#溯海派#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "1230#55203#55216#泠香坞#0#0#0#20#1020#"
+- raw: "1230#55203#55216#泠香坞#0#0#1000#20#1020#"
   splits:
   - split: 3
     text: "泠香坞"
     translated: "Cold Fragrance Cove"
-- raw: "1231#55203#55217#黑沙寨#0#0#0#16#1016#"
+- raw: "1231#55203#55217#黑沙寨#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "黑沙寨"
     translated: "Black Sand Stronghold"
-- raw: "1232#55203#55218#拂松门#0#0#0#3#1003#"
+- raw: "1232#55203#55218#拂松门#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "拂松门"
     translated: "Pine Brushing Gate"
-- raw: "1233#55203#55219#岭花谷#0#0#0#3#1003#"
+- raw: "1233#55203#55219#岭花谷#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "岭花谷"
     translated: "Ridge Flower Valley"
-- raw: "1234#55203#55220#鸿月派#0#0#0#8#1008#"
+- raw: "1234#55203#55220#鸿月派#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "鸿月派"
     translated: "Grand Moon Sect"
-- raw: "1235#55203#55221#普贤门#0#0#0#14#1014#"
+- raw: "1235#55203#55221#普贤门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "普贤门"
     translated: "Universal Virtue Gate"
-- raw: "1236#55203#55222#爻光谷#0#0#0#5#1005#"
+- raw: "1236#55203#55222#爻光谷#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "爻光谷"
     translated: "Light of Divination Valley"
-- raw: "1237#55203#55223#不夜京#0#0#0#9#1009#"
+- raw: "1237#55203#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
     text: "不夜京"
     translated: "Evernight Capital"
-- raw: "1238#55203#2092#御虚门###0#19#1019#"
+- raw: "1238#55203#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "1239#55203#2096#枰栌北###0#16#1016#"
+- raw: "1239#55203#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "1240#55203#2102#法华村###0#4#1004#"
+- raw: "1240#55203#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "1241#55203#2105#淮陵西###0#4#1004#"
+- raw: "1241#55203#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "1242#55203#2106#重天外滩###0#12#1012#"
+- raw: "1242#55203#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "1243#55203#2107#太初驿站###0#20#1020#"
+- raw: "1243#55203#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "1251#55204#2094#枰栌南#0#0#0#1#1001#"
+- raw: "1251#55204#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "1252#55204#2095#枰栌西#0#0#0#2#1002#"
+- raw: "1252#55204#2095#枰栌西#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "1253#55204#2097#枰栌外城#0#0#0#3#1003#"
+    translated: "Pinglu West"
+- raw: "1253#55204#2097#枰栌外城#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "1254#55204#2103#淮陵北#0#0#0#4#1004#"
+- raw: "1254#55204#2103#淮陵北#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "1255#55204#2104#淮陵南#0#0#0#5#1005#"
+- raw: "1255#55204#2104#淮陵南#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "1256#55204#2108#雁州南#0#0#0#17#1017#"
+- raw: "1256#55204#2108#雁州南#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "1257#55204#2109#雁州北#0#0#0#5#1005#"
+- raw: "1257#55204#2109#雁州北#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "1258#55204#2111#豫京南#0#0#0#8#1008#"
+- raw: "1258#55204#2111#豫京南#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "1259#55204#2107#太初驿站#0#0#0#9#1009#"
+- raw: "1259#55204#2107#太初驿站#0#0#1000#9#1009#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "1260#55204#2090#云鹤村#0#0#0#18#1018#"
+- raw: "1260#55204#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "1261#55204#2098#小石镇#0#0#0#12#1012#"
+- raw: "1261#55204#2098#小石镇#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "1262#55204#55224#玉沙关#0#0#0#6#1006#"
+- raw: "1262#55204#55224#玉沙关#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "玉沙关"
     translated: "Jade Sand Pass"
-- raw: "1263#55204#2091#太初#0#0#0#19#1019#"
+- raw: "1263#55204#2091#太初#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "太初"
     translated: "Primordial Origin"
-- raw: "1264#55204#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "1264#55204#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "1265#55204#2093#长旌军营地#0#0#0#17#1017#"
+- raw: "1265#55204#2093#长旌军营地#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "长旌军营地"
     translated: "Long Standard Army Camp"
-- raw: "1266#55204#2100#云潇码头#0#0#0#13#1013#"
+- raw: "1266#55204#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
     text: "云潇码头"
     translated: "Yun Xiao Port"
-- raw: "1267#55204#55201#嵩室山#0#0#0#6#1006#"
+- raw: "1267#55204#55201#嵩室山#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "1268#55204#55202#砚溪山庄#0#0#0#2#1002#"
+- raw: "1268#55204#55202#砚溪山庄#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "砚溪山庄"
     translated: "Ink Stream Mountain Villa"
-- raw: "1269#55204#55203#清玉门#0#0#0#14#1014#"
+- raw: "1269#55204#55203#清玉门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "清玉门"
     translated: "Pure Jade Gate"
-- raw: "1270#55204#55205#麓山书院#0#0#0#19#1019#"
+- raw: "1270#55204#55205#麓山书院#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "麓山书院"
     translated: "Mount Lu Academy"
-- raw: "1271#55204#55206#昭月宗#0#0#0#14#1014#"
+- raw: "1271#55204#55206#昭月宗#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "昭月宗"
     translated: "Bright Moon Clan"
-- raw: "1272#55204#55207#穆特族#0#0#0#16#1016#"
+- raw: "1272#55204#55207#穆特族#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "穆特族"
     translated: "Mu Te Tribe"
-- raw: "1273#55204#55208#信陵宗#0#0#0#4#1004#"
+- raw: "1273#55204#55208#信陵宗#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "信陵宗"
     translated: "Xinling Sect"
-- raw: "1274#55204#55209#丐门#0#0#0#7#1007#"
+- raw: "1274#55204#55209#丐门#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "丐门"
     translated: "Beggar Sect"
-- raw: "1275#55204#55210#捭阖谷#0#0#0#7#1007#"
+- raw: "1275#55204#55210#捭阖谷#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "捭阖谷"
     translated: "Baihe Valley"
-- raw: "1276#55204#55211#神兵山庄#0#0#0#19#1019#"
+- raw: "1276#55204#55211#神兵山庄#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
-- raw: "1277#55204#55212#楚军#0#0#0#5#1005#"
+- raw: "1277#55204#55212#楚军#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "楚军"
     translated: "Chu army"
-- raw: "1278#55204#55213#齐军#0#0#0#4#1004#"
+- raw: "1278#55204#55213#齐军#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "齐军"
     translated: "Qi Army"
-- raw: "1279#55204#55214#遥雪峰#0#0#0#4#1004#"
+- raw: "1279#55204#55214#遥雪峰#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "遥雪峰"
     translated: "Distant Snow Peak"
-- raw: "1280#55204#55215#溯海派#0#0#0#12#1012#"
+- raw: "1280#55204#55215#溯海派#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "1281#55204#55216#泠香坞#0#0#0#20#1020#"
+- raw: "1281#55204#55216#泠香坞#0#0#1000#20#1020#"
   splits:
   - split: 3
     text: "泠香坞"
     translated: "Cold Fragrance Cove"
-- raw: "1282#55204#55217#黑沙寨#0#0#0#16#1016#"
+- raw: "1282#55204#55217#黑沙寨#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "黑沙寨"
     translated: "Black Sand Stronghold"
-- raw: "1283#55204#55218#拂松门#0#0#0#3#1003#"
+- raw: "1283#55204#55218#拂松门#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "拂松门"
     translated: "Pine Brushing Gate"
-- raw: "1284#55204#55219#岭花谷#0#0#0#3#1003#"
+- raw: "1284#55204#55219#岭花谷#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "岭花谷"
     translated: "Ridge Flower Valley"
-- raw: "1285#55204#55220#鸿月派#0#0#0#8#1008#"
+- raw: "1285#55204#55220#鸿月派#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "鸿月派"
     translated: "Grand Moon Sect"
-- raw: "1286#55204#55221#普贤门#0#0#0#14#1014#"
+- raw: "1286#55204#55221#普贤门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "普贤门"
     translated: "Universal Virtue Gate"
-- raw: "1287#55204#55222#爻光谷#0#0#0#5#1005#"
+- raw: "1287#55204#55222#爻光谷#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "爻光谷"
     translated: "Light of Divination Valley"
-- raw: "1288#55204#55223#不夜京#0#0#0#9#1009#"
+- raw: "1288#55204#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
     text: "不夜京"
     translated: "Evernight Capital"
-- raw: "1289#55204#2092#御虚门###0#19#1019#"
+- raw: "1289#55204#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "1290#55204#2096#枰栌北###0#16#1016#"
+- raw: "1290#55204#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "1291#55204#2102#法华村###0#4#1004#"
+- raw: "1291#55204#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "1292#55204#2105#淮陵西###0#4#1004#"
+- raw: "1292#55204#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "1293#55204#2106#重天外滩###0#12#1012#"
+- raw: "1293#55204#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "1294#55204#2107#太初驿站###0#20#1020#"
+- raw: "1294#55204#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "1301#55205#2094#枰栌南#0#0#0#1#1001#"
+- raw: "1301#55205#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "1302#55205#2095#枰栌西#0#0#0#2#1002#"
+- raw: "1302#55205#2095#枰栌西#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "1303#55205#2097#枰栌外城#0#0#0#3#1003#"
+    translated: "Pinglu West"
+- raw: "1303#55205#2097#枰栌外城#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "1304#55205#2103#淮陵北#0#0#0#4#1004#"
+- raw: "1304#55205#2103#淮陵北#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "1305#55205#2104#淮陵南#0#0#0#5#1005#"
+- raw: "1305#55205#2104#淮陵南#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "1306#55205#2108#雁州南#0#0#0#17#1017#"
+- raw: "1306#55205#2108#雁州南#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "1307#55205#2109#雁州北#0#0#0#5#1005#"
+- raw: "1307#55205#2109#雁州北#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "1308#55205#2111#豫京南#0#0#0#8#1008#"
+- raw: "1308#55205#2111#豫京南#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "1309#55205#2090#云鹤村#0#0#0#18#1018#"
+- raw: "1309#55205#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "1310#55205#2098#小石镇#0#0#0#12#1012#"
+- raw: "1310#55205#2098#小石镇#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "1311#55205#55224#玉沙关#0#0#0#6#1006#"
+- raw: "1311#55205#55224#玉沙关#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "玉沙关"
     translated: "Jade Sand Pass"
-- raw: "1312#55205#2091#太初#0#0#0#19#1019#"
+- raw: "1312#55205#2091#太初#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "太初"
     translated: "Primordial Origin"
-- raw: "1313#55205#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "1313#55205#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "1314#55205#2093#长旌军营地#0#0#0#17#1017#"
+- raw: "1314#55205#2093#长旌军营地#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "长旌军营地"
     translated: "Long Standard Army Camp"
-- raw: "1315#55205#2100#云潇码头#0#0#0#13#1013#"
+- raw: "1315#55205#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
     text: "云潇码头"
     translated: "Yun Xiao Port"
-- raw: "1316#55205#55201#嵩室山#0#0#0#6#1006#"
+- raw: "1316#55205#55201#嵩室山#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "1317#55205#55202#砚溪山庄#0#0#0#2#1002#"
+- raw: "1317#55205#55202#砚溪山庄#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "砚溪山庄"
     translated: "Ink Stream Mountain Villa"
-- raw: "1318#55205#55203#清玉门#0#0#0#14#1014#"
+- raw: "1318#55205#55203#清玉门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "清玉门"
     translated: "Pure Jade Gate"
-- raw: "1319#55205#55204#大雪山#0#0#0#4#1004#"
+- raw: "1319#55205#55204#大雪山#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "大雪山"
     translated: "Great Snow Mountain"
-- raw: "1320#55205#55206#昭月宗#0#0#0#14#1014#"
+- raw: "1320#55205#55206#昭月宗#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "昭月宗"
     translated: "Bright Moon Clan"
-- raw: "1321#55205#55207#穆特族#0#0#0#16#1016#"
+- raw: "1321#55205#55207#穆特族#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "穆特族"
     translated: "Mu Te Tribe"
-- raw: "1322#55205#55208#信陵宗#0#0#0#4#1004#"
+- raw: "1322#55205#55208#信陵宗#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "信陵宗"
     translated: "Xinling Sect"
-- raw: "1323#55205#55209#丐门#0#0#0#7#1007#"
+- raw: "1323#55205#55209#丐门#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "丐门"
     translated: "Beggar Sect"
-- raw: "1324#55205#55210#捭阖谷#0#0#0#7#1007#"
+- raw: "1324#55205#55210#捭阖谷#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "捭阖谷"
     translated: "Baihe Valley"
-- raw: "1325#55205#55211#神兵山庄#0#0#0#19#1019#"
+- raw: "1325#55205#55211#神兵山庄#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
-- raw: "1326#55205#55212#楚军#0#0#0#5#1005#"
+- raw: "1326#55205#55212#楚军#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "楚军"
     translated: "Chu army"
-- raw: "1327#55205#55213#齐军#0#0#0#4#1004#"
+- raw: "1327#55205#55213#齐军#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "齐军"
     translated: "Qi Army"
-- raw: "1328#55205#55214#遥雪峰#0#0#0#4#1004#"
+- raw: "1328#55205#55214#遥雪峰#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "遥雪峰"
     translated: "Distant Snow Peak"
-- raw: "1329#55205#55215#溯海派#0#0#0#12#1012#"
+- raw: "1329#55205#55215#溯海派#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "1330#55205#55216#泠香坞#0#0#0#20#1020#"
+- raw: "1330#55205#55216#泠香坞#0#0#1000#20#1020#"
   splits:
   - split: 3
     text: "泠香坞"
     translated: "Cold Fragrance Cove"
-- raw: "1331#55205#55217#黑沙寨#0#0#0#16#1016#"
+- raw: "1331#55205#55217#黑沙寨#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "黑沙寨"
     translated: "Black Sand Stronghold"
-- raw: "1332#55205#55218#拂松门#0#0#0#3#1003#"
+- raw: "1332#55205#55218#拂松门#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "拂松门"
     translated: "Pine Brushing Gate"
-- raw: "1333#55205#55219#岭花谷#0#0#0#3#1003#"
+- raw: "1333#55205#55219#岭花谷#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "岭花谷"
     translated: "Ridge Flower Valley"
-- raw: "1334#55205#55220#鸿月派#0#0#0#8#1008#"
+- raw: "1334#55205#55220#鸿月派#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "鸿月派"
     translated: "Grand Moon Sect"
-- raw: "1335#55205#55221#普贤门#0#0#0#14#1014#"
+- raw: "1335#55205#55221#普贤门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "普贤门"
     translated: "Universal Virtue Gate"
-- raw: "1336#55205#55222#爻光谷#0#0#0#5#1005#"
+- raw: "1336#55205#55222#爻光谷#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "爻光谷"
     translated: "Light of Divination Valley"
-- raw: "1337#55205#55223#不夜京#0#0#0#9#1009#"
+- raw: "1337#55205#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
     text: "不夜京"
     translated: "Evernight Capital"
-- raw: "1338#55205#2092#御虚门###0#19#1019#"
+- raw: "1338#55205#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "1339#55205#2096#枰栌北###0#16#1016#"
+- raw: "1339#55205#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "1340#55205#2102#法华村###0#4#1004#"
+- raw: "1340#55205#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "1341#55205#2105#淮陵西###0#4#1004#"
+- raw: "1341#55205#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "1342#55205#2106#重天外滩###0#12#1012#"
+- raw: "1342#55205#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "1343#55205#2107#太初驿站###0#20#1020#"
+- raw: "1343#55205#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "1351#55206#2094#枰栌南#0#0#0#1#1001#"
+- raw: "1351#55206#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "1352#55206#2095#枰栌西#0#0#0#2#1002#"
+- raw: "1352#55206#2095#枰栌西#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "1353#55206#2097#枰栌外城#0#0#0#3#1003#"
+    translated: "Pinglu West"
+- raw: "1353#55206#2097#枰栌外城#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "1354#55206#2103#淮陵北#0#0#0#4#1004#"
+- raw: "1354#55206#2103#淮陵北#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "1355#55206#2104#淮陵南#0#0#0#5#1005#"
+- raw: "1355#55206#2104#淮陵南#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "1356#55206#2108#雁州南#0#0#0#17#1017#"
+- raw: "1356#55206#2108#雁州南#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "1357#55206#2109#雁州北#0#0#0#5#1005#"
+- raw: "1357#55206#2109#雁州北#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "1358#55206#2111#豫京南#0#0#0#8#1008#"
+- raw: "1358#55206#2111#豫京南#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "1359#55206#2090#云鹤村#0#0#0#18#1018#"
+- raw: "1359#55206#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "1360#55206#2098#小石镇#0#0#0#12#1012#"
+- raw: "1360#55206#2098#小石镇#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "1361#55206#55224#玉沙关#0#0#0#6#1006#"
+- raw: "1361#55206#55224#玉沙关#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "玉沙关"
     translated: "Jade Sand Pass"
-- raw: "1362#55206#2091#太初#0#0#0#19#1019#"
+- raw: "1362#55206#2091#太初#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "太初"
     translated: "Primordial Origin"
-- raw: "1363#55206#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "1363#55206#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "1364#55206#2093#长旌军营地#0#0#0#17#1017#"
+- raw: "1364#55206#2093#长旌军营地#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "长旌军营地"
     translated: "Long Standard Army Camp"
-- raw: "1365#55206#2100#云潇码头#0#0#0#13#1013#"
+- raw: "1365#55206#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
     text: "云潇码头"
     translated: "Yun Xiao Port"
-- raw: "1366#55206#55201#嵩室山#0#0#0#6#1006#"
+- raw: "1366#55206#55201#嵩室山#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "1367#55206#55202#砚溪山庄#0#0#0#2#1002#"
+- raw: "1367#55206#55202#砚溪山庄#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "砚溪山庄"
     translated: "Ink Stream Mountain Villa"
-- raw: "1368#55206#55203#清玉门#0#0#0#14#1014#"
+- raw: "1368#55206#55203#清玉门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "清玉门"
     translated: "Pure Jade Gate"
-- raw: "1369#55206#55204#大雪山#0#0#0#4#1004#"
+- raw: "1369#55206#55204#大雪山#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "大雪山"
     translated: "Great Snow Mountain"
-- raw: "1370#55206#55205#麓山书院#0#0#0#19#1019#"
+- raw: "1370#55206#55205#麓山书院#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "麓山书院"
     translated: "Mount Lu Academy"
-- raw: "1371#55206#55207#穆特族#0#0#0#16#1016#"
+- raw: "1371#55206#55207#穆特族#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "穆特族"
     translated: "Mu Te Tribe"
-- raw: "1372#55206#55208#信陵宗#0#0#0#4#1004#"
+- raw: "1372#55206#55208#信陵宗#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "信陵宗"
     translated: "Xinling Sect"
-- raw: "1373#55206#55209#丐门#0#0#0#7#1007#"
+- raw: "1373#55206#55209#丐门#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "丐门"
     translated: "Beggar Sect"
-- raw: "1374#55206#55210#捭阖谷#0#0#0#7#1007#"
+- raw: "1374#55206#55210#捭阖谷#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "捭阖谷"
     translated: "Baihe Valley"
-- raw: "1375#55206#55211#神兵山庄#0#0#0#19#1019#"
+- raw: "1375#55206#55211#神兵山庄#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
-- raw: "1376#55206#55212#楚军#0#0#0#5#1005#"
+- raw: "1376#55206#55212#楚军#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "楚军"
     translated: "Chu army"
-- raw: "1377#55206#55213#齐军#0#0#0#4#1004#"
+- raw: "1377#55206#55213#齐军#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "齐军"
     translated: "Qi Army"
-- raw: "1378#55206#55214#遥雪峰#0#0#0#4#1004#"
+- raw: "1378#55206#55214#遥雪峰#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "遥雪峰"
     translated: "Distant Snow Peak"
-- raw: "1379#55206#55215#溯海派#0#0#0#12#1012#"
+- raw: "1379#55206#55215#溯海派#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "1380#55206#55216#泠香坞#0#0#0#20#1020#"
+- raw: "1380#55206#55216#泠香坞#0#0#1000#20#1020#"
   splits:
   - split: 3
     text: "泠香坞"
     translated: "Cold Fragrance Cove"
-- raw: "1381#55206#55217#黑沙寨#0#0#0#16#1016#"
+- raw: "1381#55206#55217#黑沙寨#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "黑沙寨"
     translated: "Black Sand Stronghold"
-- raw: "1382#55206#55218#拂松门#0#0#0#3#1003#"
+- raw: "1382#55206#55218#拂松门#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "拂松门"
     translated: "Pine Brushing Gate"
-- raw: "1383#55206#55219#岭花谷#0#0#0#3#1003#"
+- raw: "1383#55206#55219#岭花谷#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "岭花谷"
     translated: "Ridge Flower Valley"
-- raw: "1384#55206#55220#鸿月派#0#0#0#8#1008#"
+- raw: "1384#55206#55220#鸿月派#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "鸿月派"
     translated: "Grand Moon Sect"
-- raw: "1385#55206#55221#普贤门#0#0#0#14#1014#"
+- raw: "1385#55206#55221#普贤门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "普贤门"
     translated: "Universal Virtue Gate"
-- raw: "1386#55206#55222#爻光谷#0#0#0#5#1005#"
+- raw: "1386#55206#55222#爻光谷#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "爻光谷"
     translated: "Light of Divination Valley"
-- raw: "1387#55206#55223#不夜京#0#0#0#9#1009#"
+- raw: "1387#55206#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
     text: "不夜京"
     translated: "Evernight Capital"
-- raw: "1388#55206#2092#御虚门###0#19#1019#"
+- raw: "1388#55206#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "1389#55206#2096#枰栌北###0#16#1016#"
+- raw: "1389#55206#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "1390#55206#2102#法华村###0#4#1004#"
+- raw: "1390#55206#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "1391#55206#2105#淮陵西###0#4#1004#"
+- raw: "1391#55206#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "1392#55206#2106#重天外滩###0#12#1012#"
+- raw: "1392#55206#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "1393#55206#2107#太初驿站###0#20#1020#"
+- raw: "1393#55206#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "1401#55207#2094#枰栌南#0#0#0#1#1001#"
+- raw: "1401#55207#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "1402#55207#2095#枰栌西#0#0#0#2#1002#"
+- raw: "1402#55207#2095#枰栌西#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "1403#55207#2097#枰栌外城#0#0#0#3#1003#"
+    translated: "Pinglu West"
+- raw: "1403#55207#2097#枰栌外城#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "1404#55207#2103#淮陵北#0#0#0#4#1004#"
+- raw: "1404#55207#2103#淮陵北#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "1405#55207#2104#淮陵南#0#0#0#5#1005#"
+- raw: "1405#55207#2104#淮陵南#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "1406#55207#2108#雁州南#0#0#0#17#1017#"
+- raw: "1406#55207#2108#雁州南#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "1407#55207#2109#雁州北#0#0#0#5#1005#"
+- raw: "1407#55207#2109#雁州北#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "1408#55207#2111#豫京南#0#0#0#8#1008#"
+- raw: "1408#55207#2111#豫京南#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "1409#55207#2090#云鹤村#0#0#0#18#1018#"
+- raw: "1409#55207#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "1410#55207#2098#小石镇#0#0#0#12#1012#"
+- raw: "1410#55207#2098#小石镇#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "1411#55207#55224#玉沙关#0#0#0#6#1006#"
+- raw: "1411#55207#55224#玉沙关#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "玉沙关"
     translated: "Jade Sand Pass"
-- raw: "1412#55207#2091#太初#0#0#0#19#1019#"
+- raw: "1412#55207#2091#太初#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "太初"
     translated: "Primordial Origin"
-- raw: "1413#55207#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "1413#55207#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "1414#55207#2093#长旌军营地#0#0#0#17#1017#"
+- raw: "1414#55207#2093#长旌军营地#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "长旌军营地"
     translated: "Long Standard Army Camp"
-- raw: "1415#55207#2100#云潇码头#0#0#0#13#1013#"
+- raw: "1415#55207#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
     text: "云潇码头"
     translated: "Yun Xiao Port"
-- raw: "1416#55207#55201#嵩室山#0#0#0#6#1006#"
+- raw: "1416#55207#55201#嵩室山#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "1417#55207#55202#砚溪山庄#0#0#0#2#1002#"
+- raw: "1417#55207#55202#砚溪山庄#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "砚溪山庄"
     translated: "Ink Stream Mountain Villa"
-- raw: "1418#55207#55203#清玉门#0#0#0#14#1014#"
+- raw: "1418#55207#55203#清玉门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "清玉门"
     translated: "Pure Jade Gate"
-- raw: "1419#55207#55204#大雪山#0#0#0#4#1004#"
+- raw: "1419#55207#55204#大雪山#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "大雪山"
     translated: "Great Snow Mountain"
-- raw: "1420#55207#55205#麓山书院#0#0#0#19#1019#"
+- raw: "1420#55207#55205#麓山书院#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "麓山书院"
     translated: "Mount Lu Academy"
-- raw: "1421#55207#55206#昭月宗#0#0#0#14#1014#"
+- raw: "1421#55207#55206#昭月宗#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "昭月宗"
     translated: "Bright Moon Clan"
-- raw: "1422#55207#55208#信陵宗#0#0#0#4#1004#"
+- raw: "1422#55207#55208#信陵宗#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "信陵宗"
     translated: "Xinling Sect"
-- raw: "1423#55207#55209#丐门#0#0#0#7#1007#"
+- raw: "1423#55207#55209#丐门#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "丐门"
     translated: "Beggar Sect"
-- raw: "1424#55207#55210#捭阖谷#0#0#0#7#1007#"
+- raw: "1424#55207#55210#捭阖谷#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "捭阖谷"
     translated: "Baihe Valley"
-- raw: "1425#55207#55211#神兵山庄#0#0#0#19#1019#"
+- raw: "1425#55207#55211#神兵山庄#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
-- raw: "1426#55207#55212#楚军#0#0#0#5#1005#"
+- raw: "1426#55207#55212#楚军#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "楚军"
     translated: "Chu army"
-- raw: "1427#55207#55213#齐军#0#0#0#4#1004#"
+- raw: "1427#55207#55213#齐军#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "齐军"
     translated: "Qi Army"
-- raw: "1428#55207#55214#遥雪峰#0#0#0#4#1004#"
+- raw: "1428#55207#55214#遥雪峰#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "遥雪峰"
     translated: "Distant Snow Peak"
-- raw: "1429#55207#55215#溯海派#0#0#0#12#1012#"
+- raw: "1429#55207#55215#溯海派#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "1430#55207#55216#泠香坞#0#0#0#20#1020#"
+- raw: "1430#55207#55216#泠香坞#0#0#1000#20#1020#"
   splits:
   - split: 3
     text: "泠香坞"
     translated: "Cold Fragrance Cove"
-- raw: "1431#55207#55217#黑沙寨#0#0#0#16#1016#"
+- raw: "1431#55207#55217#黑沙寨#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "黑沙寨"
     translated: "Black Sand Stronghold"
-- raw: "1432#55207#55218#拂松门#0#0#0#3#1003#"
+- raw: "1432#55207#55218#拂松门#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "拂松门"
     translated: "Pine Brushing Gate"
-- raw: "1433#55207#55219#岭花谷#0#0#0#3#1003#"
+- raw: "1433#55207#55219#岭花谷#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "岭花谷"
     translated: "Ridge Flower Valley"
-- raw: "1434#55207#55220#鸿月派#0#0#0#8#1008#"
+- raw: "1434#55207#55220#鸿月派#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "鸿月派"
     translated: "Grand Moon Sect"
-- raw: "1435#55207#55221#普贤门#0#0#0#14#1014#"
+- raw: "1435#55207#55221#普贤门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "普贤门"
     translated: "Universal Virtue Gate"
-- raw: "1436#55207#55222#爻光谷#0#0#0#5#1005#"
+- raw: "1436#55207#55222#爻光谷#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "爻光谷"
     translated: "Light of Divination Valley"
-- raw: "1437#55207#55223#不夜京#0#0#0#9#1009#"
+- raw: "1437#55207#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
     text: "不夜京"
     translated: "Evernight Capital"
-- raw: "1438#55207#2092#御虚门###0#19#1019#"
+- raw: "1438#55207#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "1439#55207#2096#枰栌北###0#16#1016#"
+- raw: "1439#55207#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "1440#55207#2102#法华村###0#4#1004#"
+- raw: "1440#55207#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "1441#55207#2105#淮陵西###0#4#1004#"
+- raw: "1441#55207#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "1442#55207#2106#重天外滩###0#12#1012#"
+- raw: "1442#55207#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "1443#55207#2107#太初驿站###0#20#1020#"
+- raw: "1443#55207#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "1451#55208#2094#枰栌南#0#0#0#1#1001#"
+- raw: "1451#55208#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "1452#55208#2095#枰栌西#0#0#0#2#1002#"
+- raw: "1452#55208#2095#枰栌西#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "1453#55208#2097#枰栌外城#0#0#0#3#1003#"
+    translated: "Pinglu West"
+- raw: "1453#55208#2097#枰栌外城#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "1454#55208#2103#淮陵北#0#0#0#4#1004#"
+- raw: "1454#55208#2103#淮陵北#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "1455#55208#2104#淮陵南#0#0#0#5#1005#"
+- raw: "1455#55208#2104#淮陵南#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "1456#55208#2108#雁州南#0#0#0#17#1017#"
+- raw: "1456#55208#2108#雁州南#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "1457#55208#2109#雁州北#0#0#0#5#1005#"
+- raw: "1457#55208#2109#雁州北#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "1458#55208#2111#豫京南#0#0#0#8#1008#"
+- raw: "1458#55208#2111#豫京南#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "1459#55208#2090#云鹤村#0#0#0#18#1018#"
+- raw: "1459#55208#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "1460#55208#2098#小石镇#0#0#0#12#1012#"
+- raw: "1460#55208#2098#小石镇#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "1461#55208#55224#玉沙关#0#0#0#6#1006#"
+- raw: "1461#55208#55224#玉沙关#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "玉沙关"
     translated: "Jade Sand Pass"
-- raw: "1462#55208#2091#太初#0#0#0#19#1019#"
+- raw: "1462#55208#2091#太初#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "太初"
     translated: "Primordial Origin"
-- raw: "1463#55208#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "1463#55208#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "1464#55208#2093#长旌军营地#0#0#0#17#1017#"
+- raw: "1464#55208#2093#长旌军营地#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "长旌军营地"
     translated: "Long Standard Army Camp"
-- raw: "1465#55208#2100#云潇码头#0#0#0#13#1013#"
+- raw: "1465#55208#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
     text: "云潇码头"
     translated: "Yun Xiao Port"
-- raw: "1466#55208#55201#嵩室山#0#0#0#6#1006#"
+- raw: "1466#55208#55201#嵩室山#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "1467#55208#55202#砚溪山庄#0#0#0#2#1002#"
+- raw: "1467#55208#55202#砚溪山庄#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "砚溪山庄"
     translated: "Ink Stream Mountain Villa"
-- raw: "1468#55208#55203#清玉门#0#0#0#14#1014#"
+- raw: "1468#55208#55203#清玉门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "清玉门"
     translated: "Pure Jade Gate"
-- raw: "1469#55208#55204#大雪山#0#0#0#4#1004#"
+- raw: "1469#55208#55204#大雪山#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "大雪山"
     translated: "Great Snow Mountain"
-- raw: "1470#55208#55205#麓山书院#0#0#0#19#1019#"
+- raw: "1470#55208#55205#麓山书院#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "麓山书院"
     translated: "Mount Lu Academy"
-- raw: "1471#55208#55206#昭月宗#0#0#0#14#1014#"
+- raw: "1471#55208#55206#昭月宗#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "昭月宗"
     translated: "Bright Moon Clan"
-- raw: "1472#55208#55207#穆特族#0#0#0#16#1016#"
+- raw: "1472#55208#55207#穆特族#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "穆特族"
     translated: "Mu Te Tribe"
-- raw: "1473#55208#55209#丐门#0#0#0#7#1007#"
+- raw: "1473#55208#55209#丐门#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "丐门"
     translated: "Beggar Sect"
-- raw: "1474#55208#55210#捭阖谷#0#0#0#7#1007#"
+- raw: "1474#55208#55210#捭阖谷#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "捭阖谷"
     translated: "Baihe Valley"
-- raw: "1475#55208#55211#神兵山庄#0#0#0#19#1019#"
+- raw: "1475#55208#55211#神兵山庄#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
-- raw: "1476#55208#55212#楚军#0#0#0#5#1005#"
+- raw: "1476#55208#55212#楚军#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "楚军"
     translated: "Chu army"
-- raw: "1477#55208#55213#齐军#0#0#0#4#1004#"
+- raw: "1477#55208#55213#齐军#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "齐军"
     translated: "Qi Army"
-- raw: "1478#55208#55214#遥雪峰#0#0#0#4#1004#"
+- raw: "1478#55208#55214#遥雪峰#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "遥雪峰"
     translated: "Distant Snow Peak"
-- raw: "1479#55208#55215#溯海派#0#0#0#12#1012#"
+- raw: "1479#55208#55215#溯海派#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "1480#55208#55216#泠香坞#0#0#0#20#1020#"
+- raw: "1480#55208#55216#泠香坞#0#0#1000#20#1020#"
   splits:
   - split: 3
     text: "泠香坞"
     translated: "Cold Fragrance Cove"
-- raw: "1481#55208#55217#黑沙寨#0#0#0#16#1016#"
+- raw: "1481#55208#55217#黑沙寨#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "黑沙寨"
     translated: "Black Sand Stronghold"
-- raw: "1482#55208#55218#拂松门#0#0#0#3#1003#"
+- raw: "1482#55208#55218#拂松门#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "拂松门"
     translated: "Pine Brushing Gate"
-- raw: "1483#55208#55219#岭花谷#0#0#0#3#1003#"
+- raw: "1483#55208#55219#岭花谷#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "岭花谷"
     translated: "Ridge Flower Valley"
-- raw: "1484#55208#55220#鸿月派#0#0#0#8#1008#"
+- raw: "1484#55208#55220#鸿月派#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "鸿月派"
     translated: "Grand Moon Sect"
-- raw: "1485#55208#55221#普贤门#0#0#0#14#1014#"
+- raw: "1485#55208#55221#普贤门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "普贤门"
     translated: "Universal Virtue Gate"
-- raw: "1486#55208#55222#爻光谷#0#0#0#5#1005#"
+- raw: "1486#55208#55222#爻光谷#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "爻光谷"
     translated: "Light of Divination Valley"
-- raw: "1487#55208#55223#不夜京#0#0#0#9#1009#"
+- raw: "1487#55208#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
     text: "不夜京"
     translated: "Evernight Capital"
-- raw: "1488#55208#2092#御虚门###0#19#1019#"
+- raw: "1488#55208#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "1489#55208#2096#枰栌北###0#16#1016#"
+- raw: "1489#55208#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "1490#55208#2102#法华村###0#4#1004#"
+- raw: "1490#55208#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "1491#55208#2105#淮陵西###0#4#1004#"
+- raw: "1491#55208#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "1492#55208#2106#重天外滩###0#12#1012#"
+- raw: "1492#55208#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "1493#55208#2107#太初驿站###0#20#1020#"
+- raw: "1493#55208#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "1501#55209#2094#枰栌南#0#0#0#1#1001#"
+- raw: "1501#55209#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "1502#55209#2095#枰栌西#0#0#0#2#1002#"
+- raw: "1502#55209#2095#枰栌西#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "1503#55209#2097#枰栌外城#0#0#0#3#1003#"
+    translated: "Pinglu West"
+- raw: "1503#55209#2097#枰栌外城#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "1504#55209#2103#淮陵北#0#0#0#4#1004#"
+- raw: "1504#55209#2103#淮陵北#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "1505#55209#2104#淮陵南#0#0#0#5#1005#"
+- raw: "1505#55209#2104#淮陵南#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "1506#55209#2108#雁州南#0#0#0#17#1017#"
+- raw: "1506#55209#2108#雁州南#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "1507#55209#2109#雁州北#0#0#0#5#1005#"
+- raw: "1507#55209#2109#雁州北#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "1508#55209#2111#豫京南#0#0#0#8#1008#"
+- raw: "1508#55209#2111#豫京南#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "1509#55209#2090#云鹤村#0#0#0#18#1018#"
+- raw: "1509#55209#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "1510#55209#2098#小石镇#0#0#0#12#1012#"
+- raw: "1510#55209#2098#小石镇#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "1511#55209#55224#玉沙关#0#0#0#6#1006#"
+- raw: "1511#55209#55224#玉沙关#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "玉沙关"
     translated: "Jade Sand Pass"
-- raw: "1512#55209#2091#太初#0#0#0#19#1019#"
+- raw: "1512#55209#2091#太初#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "太初"
     translated: "Primordial Origin"
-- raw: "1513#55209#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "1513#55209#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "1514#55209#2093#长旌军营地#0#0#0#17#1017#"
+- raw: "1514#55209#2093#长旌军营地#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "长旌军营地"
     translated: "Long Standard Army Camp"
-- raw: "1515#55209#2100#云潇码头#0#0#0#13#1013#"
+- raw: "1515#55209#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
     text: "云潇码头"
     translated: "Yun Xiao Port"
-- raw: "1516#55209#55201#嵩室山#0#0#0#6#1006#"
+- raw: "1516#55209#55201#嵩室山#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "1517#55209#55202#砚溪山庄#0#0#0#2#1002#"
+- raw: "1517#55209#55202#砚溪山庄#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "砚溪山庄"
     translated: "Ink Stream Mountain Villa"
-- raw: "1518#55209#55203#清玉门#0#0#0#14#1014#"
+- raw: "1518#55209#55203#清玉门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "清玉门"
     translated: "Pure Jade Gate"
-- raw: "1519#55209#55204#大雪山#0#0#0#4#1004#"
+- raw: "1519#55209#55204#大雪山#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "大雪山"
     translated: "Great Snow Mountain"
-- raw: "1520#55209#55205#麓山书院#0#0#0#19#1019#"
+- raw: "1520#55209#55205#麓山书院#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "麓山书院"
     translated: "Mount Lu Academy"
-- raw: "1521#55209#55206#昭月宗#0#0#0#14#1014#"
+- raw: "1521#55209#55206#昭月宗#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "昭月宗"
     translated: "Bright Moon Clan"
-- raw: "1522#55209#55207#穆特族#0#0#0#16#1016#"
+- raw: "1522#55209#55207#穆特族#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "穆特族"
     translated: "Mu Te Tribe"
-- raw: "1523#55209#55208#信陵宗#0#0#0#4#1004#"
+- raw: "1523#55209#55208#信陵宗#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "信陵宗"
     translated: "Xinling Sect"
-- raw: "1524#55209#55210#捭阖谷#0#0#0#7#1007#"
+- raw: "1524#55209#55210#捭阖谷#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "捭阖谷"
     translated: "Baihe Valley"
-- raw: "1525#55209#55211#神兵山庄#0#0#0#19#1019#"
+- raw: "1525#55209#55211#神兵山庄#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
-- raw: "1526#55209#55212#楚军#0#0#0#5#1005#"
+- raw: "1526#55209#55212#楚军#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "楚军"
     translated: "Chu army"
-- raw: "1527#55209#55213#齐军#0#0#0#4#1004#"
+- raw: "1527#55209#55213#齐军#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "齐军"
     translated: "Qi Army"
-- raw: "1528#55209#55214#遥雪峰#0#0#0#4#1004#"
+- raw: "1528#55209#55214#遥雪峰#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "遥雪峰"
     translated: "Distant Snow Peak"
-- raw: "1529#55209#55215#溯海派#0#0#0#12#1012#"
+- raw: "1529#55209#55215#溯海派#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "1530#55209#55216#泠香坞#0#0#0#20#1020#"
+- raw: "1530#55209#55216#泠香坞#0#0#1000#20#1020#"
   splits:
   - split: 3
     text: "泠香坞"
     translated: "Cold Fragrance Cove"
-- raw: "1531#55209#55217#黑沙寨#0#0#0#16#1016#"
+- raw: "1531#55209#55217#黑沙寨#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "黑沙寨"
     translated: "Black Sand Stronghold"
-- raw: "1532#55209#55218#拂松门#0#0#0#3#1003#"
+- raw: "1532#55209#55218#拂松门#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "拂松门"
     translated: "Pine Brushing Gate"
-- raw: "1533#55209#55219#岭花谷#0#0#0#3#1003#"
+- raw: "1533#55209#55219#岭花谷#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "岭花谷"
     translated: "Ridge Flower Valley"
-- raw: "1534#55209#55220#鸿月派#0#0#0#8#1008#"
+- raw: "1534#55209#55220#鸿月派#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "鸿月派"
     translated: "Grand Moon Sect"
-- raw: "1535#55209#55221#普贤门#0#0#0#14#1014#"
+- raw: "1535#55209#55221#普贤门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "普贤门"
     translated: "Universal Virtue Gate"
-- raw: "1536#55209#55222#爻光谷#0#0#0#5#1005#"
+- raw: "1536#55209#55222#爻光谷#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "爻光谷"
     translated: "Light of Divination Valley"
-- raw: "1537#55209#55223#不夜京#0#0#0#9#1009#"
+- raw: "1537#55209#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
     text: "不夜京"
     translated: "Evernight Capital"
-- raw: "1538#55209#2092#御虚门###0#19#1019#"
+- raw: "1538#55209#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "1539#55209#2096#枰栌北###0#16#1016#"
+- raw: "1539#55209#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "1540#55209#2102#法华村###0#4#1004#"
+- raw: "1540#55209#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "1541#55209#2105#淮陵西###0#4#1004#"
+- raw: "1541#55209#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "1542#55209#2106#重天外滩###0#12#1012#"
+- raw: "1542#55209#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "1543#55209#2107#太初驿站###0#20#1020#"
+- raw: "1543#55209#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "1551#55210#2094#枰栌南#0#0#0#1#1001#"
+- raw: "1551#55210#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "1552#55210#2095#枰栌西#0#0#0#2#1002#"
+- raw: "1552#55210#2095#枰栌西#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "1553#55210#2097#枰栌外城#0#0#0#3#1003#"
+    translated: "Pinglu West"
+- raw: "1553#55210#2097#枰栌外城#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "1554#55210#2103#淮陵北#0#0#0#4#1004#"
+- raw: "1554#55210#2103#淮陵北#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "1555#55210#2104#淮陵南#0#0#0#5#1005#"
+- raw: "1555#55210#2104#淮陵南#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "1556#55210#2108#雁州南#0#0#0#17#1017#"
+- raw: "1556#55210#2108#雁州南#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "1557#55210#2109#雁州北#0#0#0#5#1005#"
+- raw: "1557#55210#2109#雁州北#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "1558#55210#2111#豫京南#0#0#0#8#1008#"
+- raw: "1558#55210#2111#豫京南#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "1559#55210#2090#云鹤村#0#0#0#18#1018#"
+- raw: "1559#55210#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "1560#55210#2098#小石镇#0#0#0#12#1012#"
+- raw: "1560#55210#2098#小石镇#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "1561#55210#55224#玉沙关#0#0#0#6#1006#"
+- raw: "1561#55210#55224#玉沙关#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "玉沙关"
     translated: "Jade Sand Pass"
-- raw: "1562#55210#2091#太初#0#0#0#19#1019#"
+- raw: "1562#55210#2091#太初#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "太初"
     translated: "Primordial Origin"
-- raw: "1563#55210#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "1563#55210#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "1564#55210#2093#长旌军营地#0#0#0#17#1017#"
+- raw: "1564#55210#2093#长旌军营地#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "长旌军营地"
     translated: "Long Standard Army Camp"
-- raw: "1565#55210#2100#云潇码头#0#0#0#13#1013#"
+- raw: "1565#55210#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
     text: "云潇码头"
     translated: "Yun Xiao Port"
-- raw: "1566#55210#55201#嵩室山#0#0#0#6#1006#"
+- raw: "1566#55210#55201#嵩室山#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "1567#55210#55202#砚溪山庄#0#0#0#2#1002#"
+- raw: "1567#55210#55202#砚溪山庄#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "砚溪山庄"
     translated: "Ink Stream Mountain Villa"
-- raw: "1568#55210#55203#清玉门#0#0#0#14#1014#"
+- raw: "1568#55210#55203#清玉门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "清玉门"
     translated: "Pure Jade Gate"
-- raw: "1569#55210#55204#大雪山#0#0#0#4#1004#"
+- raw: "1569#55210#55204#大雪山#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "大雪山"
     translated: "Great Snow Mountain"
-- raw: "1570#55210#55205#麓山书院#0#0#0#19#1019#"
+- raw: "1570#55210#55205#麓山书院#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "麓山书院"
     translated: "Mount Lu Academy"
-- raw: "1571#55210#55206#昭月宗#0#0#0#14#1014#"
+- raw: "1571#55210#55206#昭月宗#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "昭月宗"
     translated: "Bright Moon Clan"
-- raw: "1572#55210#55207#穆特族#0#0#0#16#1016#"
+- raw: "1572#55210#55207#穆特族#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "穆特族"
     translated: "Mu Te Tribe"
-- raw: "1573#55210#55208#信陵宗#0#0#0#4#1004#"
+- raw: "1573#55210#55208#信陵宗#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "信陵宗"
     translated: "Xinling Sect"
-- raw: "1574#55210#55209#丐门#0#0#0#7#1007#"
+- raw: "1574#55210#55209#丐门#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "丐门"
     translated: "Beggar Sect"
-- raw: "1575#55210#55211#神兵山庄#0#0#0#19#1019#"
+- raw: "1575#55210#55211#神兵山庄#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
-- raw: "1576#55210#55212#楚军#0#0#0#5#1005#"
+- raw: "1576#55210#55212#楚军#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "楚军"
     translated: "Chu army"
-- raw: "1577#55210#55213#齐军#0#0#0#4#1004#"
+- raw: "1577#55210#55213#齐军#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "齐军"
     translated: "Qi Army"
-- raw: "1578#55210#55214#遥雪峰#0#0#0#4#1004#"
+- raw: "1578#55210#55214#遥雪峰#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "遥雪峰"
     translated: "Distant Snow Peak"
-- raw: "1579#55210#55215#溯海派#0#0#0#12#1012#"
+- raw: "1579#55210#55215#溯海派#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "1580#55210#55216#泠香坞#0#0#0#20#1020#"
+- raw: "1580#55210#55216#泠香坞#0#0#1000#20#1020#"
   splits:
   - split: 3
     text: "泠香坞"
     translated: "Cold Fragrance Cove"
-- raw: "1581#55210#55217#黑沙寨#0#0#0#16#1016#"
+- raw: "1581#55210#55217#黑沙寨#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "黑沙寨"
     translated: "Black Sand Stronghold"
-- raw: "1582#55210#55218#拂松门#0#0#0#3#1003#"
+- raw: "1582#55210#55218#拂松门#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "拂松门"
     translated: "Pine Brushing Gate"
-- raw: "1583#55210#55219#岭花谷#0#0#0#3#1003#"
+- raw: "1583#55210#55219#岭花谷#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "岭花谷"
     translated: "Ridge Flower Valley"
-- raw: "1584#55210#55220#鸿月派#0#0#0#8#1008#"
+- raw: "1584#55210#55220#鸿月派#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "鸿月派"
     translated: "Grand Moon Sect"
-- raw: "1585#55210#55221#普贤门#0#0#0#14#1014#"
+- raw: "1585#55210#55221#普贤门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "普贤门"
     translated: "Universal Virtue Gate"
-- raw: "1586#55210#55222#爻光谷#0#0#0#5#1005#"
+- raw: "1586#55210#55222#爻光谷#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "爻光谷"
     translated: "Light of Divination Valley"
-- raw: "1587#55210#55223#不夜京#0#0#0#9#1009#"
+- raw: "1587#55210#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
     text: "不夜京"
     translated: "Evernight Capital"
-- raw: "1588#55210#2092#御虚门###0#19#1019#"
+- raw: "1588#55210#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "1589#55210#2096#枰栌北###0#16#1016#"
+- raw: "1589#55210#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "1590#55210#2102#法华村###0#4#1004#"
+- raw: "1590#55210#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "1591#55210#2105#淮陵西###0#4#1004#"
+- raw: "1591#55210#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "1592#55210#2106#重天外滩###0#12#1012#"
+- raw: "1592#55210#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "1593#55210#2107#太初驿站###0#20#1020#"
+- raw: "1593#55210#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "1601#55211#2094#枰栌南#0#0#0#1#1001#"
+- raw: "1601#55211#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "1602#55211#2095#枰栌西#0#0#0#2#1002#"
+- raw: "1602#55211#2095#枰栌西#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "1603#55211#2097#枰栌外城#0#0#0#3#1003#"
+    translated: "Pinglu West"
+- raw: "1603#55211#2097#枰栌外城#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "1604#55211#2103#淮陵北#0#0#0#4#1004#"
+- raw: "1604#55211#2103#淮陵北#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "1605#55211#2104#淮陵南#0#0#0#5#1005#"
+- raw: "1605#55211#2104#淮陵南#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "1606#55211#2108#雁州南#0#0#0#17#1017#"
+- raw: "1606#55211#2108#雁州南#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "1607#55211#2109#雁州北#0#0#0#5#1005#"
+- raw: "1607#55211#2109#雁州北#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "1608#55211#2111#豫京南#0#0#0#8#1008#"
+- raw: "1608#55211#2111#豫京南#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "1609#55211#2090#云鹤村#0#0#0#18#1018#"
+- raw: "1609#55211#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "1610#55211#2098#小石镇#0#0#0#12#1012#"
+- raw: "1610#55211#2098#小石镇#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "1611#55211#55224#玉沙关#0#0#0#6#1006#"
+- raw: "1611#55211#55224#玉沙关#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "玉沙关"
     translated: "Jade Sand Pass"
-- raw: "1612#55211#2091#太初#0#0#0#19#1019#"
+- raw: "1612#55211#2091#太初#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "太初"
     translated: "Primordial Origin"
-- raw: "1613#55211#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "1613#55211#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "1614#55211#2093#长旌军营地#0#0#0#17#1017#"
+- raw: "1614#55211#2093#长旌军营地#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "长旌军营地"
     translated: "Long Standard Army Camp"
-- raw: "1615#55211#2100#云潇码头#0#0#0#13#1013#"
+- raw: "1615#55211#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
     text: "云潇码头"
     translated: "Yun Xiao Port"
-- raw: "1616#55211#55201#嵩室山#0#0#0#6#1006#"
+- raw: "1616#55211#55201#嵩室山#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "1617#55211#55202#砚溪山庄#0#0#0#2#1002#"
+- raw: "1617#55211#55202#砚溪山庄#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "砚溪山庄"
     translated: "Ink Stream Mountain Villa"
-- raw: "1618#55211#55203#清玉门#0#0#0#14#1014#"
+- raw: "1618#55211#55203#清玉门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "清玉门"
     translated: "Pure Jade Gate"
-- raw: "1619#55211#55204#大雪山#0#0#0#4#1004#"
+- raw: "1619#55211#55204#大雪山#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "大雪山"
     translated: "Great Snow Mountain"
-- raw: "1620#55211#55205#麓山书院#0#0#0#19#1019#"
+- raw: "1620#55211#55205#麓山书院#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "麓山书院"
     translated: "Mount Lu Academy"
-- raw: "1621#55211#55206#昭月宗#0#0#0#14#1014#"
+- raw: "1621#55211#55206#昭月宗#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "昭月宗"
     translated: "Bright Moon Clan"
-- raw: "1622#55211#55207#穆特族#0#0#0#16#1016#"
+- raw: "1622#55211#55207#穆特族#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "穆特族"
     translated: "Mu Te Tribe"
-- raw: "1623#55211#55208#信陵宗#0#0#0#4#1004#"
+- raw: "1623#55211#55208#信陵宗#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "信陵宗"
     translated: "Xinling Sect"
-- raw: "1624#55211#55209#丐门#0#0#0#7#1007#"
+- raw: "1624#55211#55209#丐门#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "丐门"
     translated: "Beggar Sect"
-- raw: "1625#55211#55210#捭阖谷#0#0#0#7#1007#"
+- raw: "1625#55211#55210#捭阖谷#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "捭阖谷"
     translated: "Baihe Valley"
-- raw: "1626#55211#55212#楚军#0#0#0#5#1005#"
+- raw: "1626#55211#55212#楚军#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "楚军"
     translated: "Chu army"
-- raw: "1627#55211#55213#齐军#0#0#0#4#1004#"
+- raw: "1627#55211#55213#齐军#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "齐军"
     translated: "Qi Army"
-- raw: "1628#55211#55214#遥雪峰#0#0#0#4#1004#"
+- raw: "1628#55211#55214#遥雪峰#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "遥雪峰"
     translated: "Distant Snow Peak"
-- raw: "1629#55211#55215#溯海派#0#0#0#12#1012#"
+- raw: "1629#55211#55215#溯海派#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "溯海派"
     translated: "River's Source Faction"
-- raw: "1630#55211#55216#泠香坞#0#0#0#20#1020#"
+- raw: "1630#55211#55216#泠香坞#0#0#1000#20#1020#"
   splits:
   - split: 3
     text: "泠香坞"
     translated: "Cold Fragrance Cove"
-- raw: "1631#55211#55217#黑沙寨#0#0#0#16#1016#"
+- raw: "1631#55211#55217#黑沙寨#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "黑沙寨"
     translated: "Black Sand Stronghold"
-- raw: "1632#55211#55218#拂松门#0#0#0#3#1003#"
+- raw: "1632#55211#55218#拂松门#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "拂松门"
     translated: "Pine Brushing Gate"
-- raw: "1633#55211#55219#岭花谷#0#0#0#3#1003#"
+- raw: "1633#55211#55219#岭花谷#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "岭花谷"
     translated: "Ridge Flower Valley"
-- raw: "1634#55211#55220#鸿月派#0#0#0#8#1008#"
+- raw: "1634#55211#55220#鸿月派#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "鸿月派"
     translated: "Grand Moon Sect"
-- raw: "1635#55211#55221#普贤门#0#0#0#14#1014#"
+- raw: "1635#55211#55221#普贤门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "普贤门"
     translated: "Universal Virtue Gate"
-- raw: "1636#55211#55222#爻光谷#0#0#0#5#1005#"
+- raw: "1636#55211#55222#爻光谷#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "爻光谷"
     translated: "Light of Divination Valley"
-- raw: "1637#55211#55223#不夜京#0#0#0#9#1009#"
+- raw: "1637#55211#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
     text: "不夜京"
     translated: "Evernight Capital"
-- raw: "1638#55211#2092#御虚门###0#19#1019#"
+- raw: "1638#55211#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "1639#55211#2096#枰栌北###0#16#1016#"
+- raw: "1639#55211#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "1640#55211#2102#法华村###0#4#1004#"
+- raw: "1640#55211#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "1641#55211#2105#淮陵西###0#4#1004#"
+- raw: "1641#55211#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "1642#55211#2106#重天外滩###0#12#1012#"
+- raw: "1642#55211#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "1643#55211#2107#太初驿站###0#20#1020#"
+- raw: "1643#55211#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "1651#55212#2094#枰栌南#0#0#0#1#1001#"
+- raw: "1651#55212#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "1652#55212#2095#枰栌西#0#0#0#2#1002#"
+- raw: "1652#55212#2095#枰栌西#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "1653#55212#2097#枰栌外城#0#0#0#3#1003#"
+    translated: "Pinglu West"
+- raw: "1653#55212#2097#枰栌外城#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "1654#55212#2103#淮陵北#0#0#0#4#1004#"
+- raw: "1654#55212#2103#淮陵北#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "1655#55212#2104#淮陵南#0#0#0#5#1005#"
+- raw: "1655#55212#2104#淮陵南#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "1656#55212#2108#雁州南#0#0#0#17#1017#"
+- raw: "1656#55212#2108#雁州南#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "1657#55212#2109#雁州北#0#0#0#5#1005#"
+- raw: "1657#55212#2109#雁州北#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "1658#55212#2111#豫京南#0#0#0#8#1008#"
+- raw: "1658#55212#2111#豫京南#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "1659#55212#2090#云鹤村#0#0#0#18#1018#"
+- raw: "1659#55212#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "1660#55212#2098#小石镇#0#0#0#12#1012#"
+- raw: "1660#55212#2098#小石镇#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "1661#55212#55224#玉沙关#0#0#0#6#1006#"
+- raw: "1661#55212#55224#玉沙关#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "玉沙关"
     translated: "Jade Sand Pass"
-- raw: "1662#55212#2091#太初#0#0#0#19#1019#"
+- raw: "1662#55212#2091#太初#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "太初"
     translated: "Primordial Origin"
-- raw: "1663#55212#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "1663#55212#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "1664#55212#2093#长旌军营地#0#0#0#17#1017#"
+- raw: "1664#55212#2093#长旌军营地#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "长旌军营地"
     translated: "Long Standard Army Camp"
-- raw: "1665#55212#2100#云潇码头#0#0#0#13#1013#"
+- raw: "1665#55212#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
     text: "云潇码头"
     translated: "Yun Xiao Port"
-- raw: "1666#55212#55201#嵩室山#0#0#0#6#1006#"
+- raw: "1666#55212#55201#嵩室山#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "1667#55212#55202#砚溪山庄#0#0#0#2#1002#"
+- raw: "1667#55212#55202#砚溪山庄#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "砚溪山庄"
     translated: "Ink Stream Mountain Villa"
-- raw: "1668#55212#55203#清玉门#0#0#0#14#1014#"
+- raw: "1668#55212#55203#清玉门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "清玉门"
     translated: "Pure Jade Gate"
-- raw: "1669#55212#55204#大雪山#0#0#0#4#1004#"
+- raw: "1669#55212#55204#大雪山#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "大雪山"
     translated: "Great Snow Mountain"
-- raw: "1670#55212#55205#麓山书院#0#0#0#19#1019#"
+- raw: "1670#55212#55205#麓山书院#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "麓山书院"
     translated: "Mount Lu Academy"
-- raw: "1671#55212#55206#昭月宗#0#0#0#14#1014#"
+- raw: "1671#55212#55206#昭月宗#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "昭月宗"
     translated: "Bright Moon Clan"
-- raw: "1672#55212#55207#穆特族#0#0#0#16#1016#"
+- raw: "1672#55212#55207#穆特族#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "穆特族"
     translated: "Mu Te Tribe"
-- raw: "1673#55212#55208#信陵宗#0#0#0#4#1004#"
+- raw: "1673#55212#55208#信陵宗#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "信陵宗"
     translated: "Xinling Sect"
-- raw: "1674#55212#55209#丐门#0#0#0#7#1007#"
+- raw: "1674#55212#55209#丐门#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "丐门"
     translated: "Beggar Sect"
-- raw: "1675#55212#55210#捭阖谷#0#0#0#7#1007#"
+- raw: "1675#55212#55210#捭阖谷#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "捭阖谷"
     translated: "Baihe Valley"
-- raw: "1676#55212#55211#神兵山庄#0#0#0#19#1019#"
+- raw: "1676#55212#55211#神兵山庄#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
-- raw: "1677#55212#55213#齐军#0#0#0#4#1004#"
+- raw: "1677#55212#55213#齐军#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "齐军"
     translated: "Qi Army"
-- raw: "1678#55212#55214#遥雪峰#0#0#0#4#1004#"
+- raw: "1678#55212#55214#遥雪峰#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "遥雪峰"
     translated: "Distant Snow Peak"
-- raw: "1679#55212#55215#朔海派#0#0#0#12#1012#"
+- raw: "1679#55212#55215#朔海派#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "朔海派"
     translated: "North Sea Sect"
-- raw: "1680#55212#55216#泠香坞#0#0#0#20#1020#"
+- raw: "1680#55212#55216#泠香坞#0#0#1000#20#1020#"
   splits:
   - split: 3
     text: "泠香坞"
     translated: "Cold Fragrance Cove"
-- raw: "1681#55212#55217#黑沙寨#0#0#0#16#1016#"
+- raw: "1681#55212#55217#黑沙寨#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "黑沙寨"
     translated: "Black Sand Stronghold"
-- raw: "1682#55212#55218#拂松门#0#0#0#3#1003#"
+- raw: "1682#55212#55218#拂松门#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "拂松门"
     translated: "Pine Brushing Gate"
-- raw: "1683#55212#55219#岭花谷#0#0#0#3#1003#"
+- raw: "1683#55212#55219#岭花谷#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "岭花谷"
     translated: "Ridge Flower Valley"
-- raw: "1684#55212#55220#鸿月派#0#0#0#8#1008#"
+- raw: "1684#55212#55220#鸿月派#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "鸿月派"
     translated: "Grand Moon Sect"
-- raw: "1685#55212#55221#普贤门#0#0#0#14#1014#"
+- raw: "1685#55212#55221#普贤门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "普贤门"
     translated: "Universal Virtue Gate"
-- raw: "1686#55212#55222#爻光谷#0#0#0#5#1005#"
+- raw: "1686#55212#55222#爻光谷#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "爻光谷"
     translated: "Light of Divination Valley"
-- raw: "1687#55212#55223#不夜京#0#0#0#9#1009#"
+- raw: "1687#55212#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
     text: "不夜京"
     translated: "Evernight Capital"
-- raw: "1688#55212#2092#御虚门###0#19#1019#"
+- raw: "1688#55212#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "1689#55212#2096#枰栌北###0#16#1016#"
+- raw: "1689#55212#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "1690#55212#2102#法华村###0#4#1004#"
+- raw: "1690#55212#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "1691#55212#2105#淮陵西###0#4#1004#"
+- raw: "1691#55212#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "1692#55212#2106#重天外滩###0#12#1012#"
+- raw: "1692#55212#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "1693#55212#2107#太初驿站###0#20#1020#"
+- raw: "1693#55212#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "1701#55213#2094#枰栌南#0#0#0#1#1001#"
+- raw: "1701#55213#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "1702#55213#2095#枰栌西#0#0#0#2#1002#"
+- raw: "1702#55213#2095#枰栌西#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "1703#55213#2097#枰栌外城#0#0#0#3#1003#"
+    translated: "Pinglu West"
+- raw: "1703#55213#2097#枰栌外城#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "1704#55213#2103#淮陵北#0#0#0#4#1004#"
+- raw: "1704#55213#2103#淮陵北#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "1705#55213#2104#淮陵南#0#0#0#5#1005#"
+- raw: "1705#55213#2104#淮陵南#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "1706#55213#2108#雁州南#0#0#0#17#1017#"
+- raw: "1706#55213#2108#雁州南#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "1707#55213#2109#雁州北#0#0#0#5#1005#"
+- raw: "1707#55213#2109#雁州北#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "1708#55213#2111#豫京南#0#0#0#8#1008#"
+- raw: "1708#55213#2111#豫京南#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "1709#55213#2090#云鹤村#0#0#0#18#1018#"
+- raw: "1709#55213#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "1710#55213#2098#小石镇#0#0#0#12#1012#"
+- raw: "1710#55213#2098#小石镇#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "1711#55213#55224#玉沙关#0#0#0#6#1006#"
+- raw: "1711#55213#55224#玉沙关#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "玉沙关"
     translated: "Jade Sand Pass"
-- raw: "1712#55213#2091#太初#0#0#0#19#1019#"
+- raw: "1712#55213#2091#太初#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "太初"
     translated: "Primordial Origin"
-- raw: "1713#55213#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "1713#55213#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "1714#55213#2093#长旌军营地#0#0#0#17#1017#"
+- raw: "1714#55213#2093#长旌军营地#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "长旌军营地"
     translated: "Long Standard Army Camp"
-- raw: "1715#55213#2100#云潇码头#0#0#0#13#1013#"
+- raw: "1715#55213#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
     text: "云潇码头"
     translated: "Yun Xiao Port"
-- raw: "1716#55213#55201#嵩室山#0#0#0#6#1006#"
+- raw: "1716#55213#55201#嵩室山#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "1717#55213#55202#砚溪山庄#0#0#0#2#1002#"
+- raw: "1717#55213#55202#砚溪山庄#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "砚溪山庄"
     translated: "Ink Stream Mountain Villa"
-- raw: "1718#55213#55203#清玉门#0#0#0#14#1014#"
+- raw: "1718#55213#55203#清玉门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "清玉门"
     translated: "Pure Jade Gate"
-- raw: "1719#55213#55204#大雪山#0#0#0#4#1004#"
+- raw: "1719#55213#55204#大雪山#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "大雪山"
     translated: "Great Snow Mountain"
-- raw: "1720#55213#55205#麓山书院#0#0#0#19#1019#"
+- raw: "1720#55213#55205#麓山书院#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "麓山书院"
     translated: "Mount Lu Academy"
-- raw: "1721#55213#55206#昭月宗#0#0#0#14#1014#"
+- raw: "1721#55213#55206#昭月宗#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "昭月宗"
     translated: "Bright Moon Clan"
-- raw: "1722#55213#55207#穆特族#0#0#0#16#1016#"
+- raw: "1722#55213#55207#穆特族#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "穆特族"
     translated: "Mu Te Tribe"
-- raw: "1723#55213#55208#信陵宗#0#0#0#4#1004#"
+- raw: "1723#55213#55208#信陵宗#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "信陵宗"
     translated: "Xinling Sect"
-- raw: "1724#55213#55209#丐门#0#0#0#7#1007#"
+- raw: "1724#55213#55209#丐门#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "丐门"
     translated: "Beggar Sect"
-- raw: "1725#55213#55210#捭阖谷#0#0#0#7#1007#"
+- raw: "1725#55213#55210#捭阖谷#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "捭阖谷"
     translated: "Baihe Valley"
-- raw: "1726#55213#55211#神兵山庄#0#0#0#19#1019#"
+- raw: "1726#55213#55211#神兵山庄#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
-- raw: "1727#55213#55212#楚军#0#0#0#5#1005#"
+- raw: "1727#55213#55212#楚军#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "楚军"
     translated: "Chu army"
-- raw: "1728#55213#55214#遥雪峰#0#0#0#4#1004#"
+- raw: "1728#55213#55214#遥雪峰#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "遥雪峰"
     translated: "Distant Snow Peak"
-- raw: "1729#55213#55215#朔海派#0#0#0#12#1012#"
+- raw: "1729#55213#55215#朔海派#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "朔海派"
     translated: "North Sea Sect"
-- raw: "1730#55213#55216#泠香坞#0#0#0#20#1020#"
+- raw: "1730#55213#55216#泠香坞#0#0#1000#20#1020#"
   splits:
   - split: 3
     text: "泠香坞"
     translated: "Cold Fragrance Cove"
-- raw: "1731#55213#55217#黑沙寨#0#0#0#16#1016#"
+- raw: "1731#55213#55217#黑沙寨#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "黑沙寨"
     translated: "Black Sand Stronghold"
-- raw: "1732#55213#55218#拂松门#0#0#0#3#1003#"
+- raw: "1732#55213#55218#拂松门#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "拂松门"
     translated: "Pine Brushing Gate"
-- raw: "1733#55213#55219#岭花谷#0#0#0#3#1003#"
+- raw: "1733#55213#55219#岭花谷#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "岭花谷"
     translated: "Ridge Flower Valley"
-- raw: "1734#55213#55220#鸿月派#0#0#0#8#1008#"
+- raw: "1734#55213#55220#鸿月派#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "鸿月派"
     translated: "Grand Moon Sect"
-- raw: "1735#55213#55221#普贤门#0#0#0#14#1014#"
+- raw: "1735#55213#55221#普贤门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "普贤门"
     translated: "Universal Virtue Gate"
-- raw: "1736#55213#55222#爻光谷#0#0#0#5#1005#"
+- raw: "1736#55213#55222#爻光谷#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "爻光谷"
     translated: "Light of Divination Valley"
-- raw: "1737#55213#55223#不夜京#0#0#0#9#1009#"
+- raw: "1737#55213#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
     text: "不夜京"
     translated: "Evernight Capital"
-- raw: "1738#55213#2092#御虚门###0#19#1019#"
+- raw: "1738#55213#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "1739#55213#2096#枰栌北###0#16#1016#"
+- raw: "1739#55213#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "1740#55213#2102#法华村###0#4#1004#"
+- raw: "1740#55213#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "1741#55213#2105#淮陵西###0#4#1004#"
+- raw: "1741#55213#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "1742#55213#2106#重天外滩###0#12#1012#"
+- raw: "1742#55213#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "1743#55213#2107#太初驿站###0#20#1020#"
+- raw: "1743#55213#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "1751#55214#2094#枰栌南#0#0#0#1#1001#"
+- raw: "1751#55214#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "1752#55214#2095#枰栌西#0#0#0#2#1002#"
+- raw: "1752#55214#2095#枰栌西#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "1753#55214#2097#枰栌外城#0#0#0#3#1003#"
+    translated: "Pinglu West"
+- raw: "1753#55214#2097#枰栌外城#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "1754#55214#2103#淮陵北#0#0#0#4#1004#"
+- raw: "1754#55214#2103#淮陵北#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "1755#55214#2104#淮陵南#0#0#0#5#1005#"
+- raw: "1755#55214#2104#淮陵南#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "1756#55214#2108#雁州南#0#0#0#17#1017#"
+- raw: "1756#55214#2108#雁州南#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "1757#55214#2109#雁州北#0#0#0#5#1005#"
+- raw: "1757#55214#2109#雁州北#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "1758#55214#2111#豫京南#0#0#0#8#1008#"
+- raw: "1758#55214#2111#豫京南#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "1759#55214#2090#云鹤村#0#0#0#18#1018#"
+- raw: "1759#55214#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "1760#55214#2098#小石镇#0#0#0#12#1012#"
+- raw: "1760#55214#2098#小石镇#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "1761#55214#55224#玉沙关#0#0#0#6#1006#"
+- raw: "1761#55214#55224#玉沙关#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "玉沙关"
     translated: "Jade Sand Pass"
-- raw: "1762#55214#2091#太初#0#0#0#19#1019#"
+- raw: "1762#55214#2091#太初#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "太初"
     translated: "Primordial Origin"
-- raw: "1763#55214#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "1763#55214#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "1764#55214#2093#长旌军营地#0#0#0#17#1017#"
+- raw: "1764#55214#2093#长旌军营地#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "长旌军营地"
     translated: "Long Standard Army Camp"
-- raw: "1765#55214#2100#云潇码头#0#0#0#13#1013#"
+- raw: "1765#55214#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
     text: "云潇码头"
     translated: "Yun Xiao Port"
-- raw: "1766#55214#55201#嵩室山#0#0#0#6#1006#"
+- raw: "1766#55214#55201#嵩室山#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "1767#55214#55202#砚溪山庄#0#0#0#2#1002#"
+- raw: "1767#55214#55202#砚溪山庄#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "砚溪山庄"
     translated: "Ink Stream Mountain Villa"
-- raw: "1768#55214#55203#清玉门#0#0#0#14#1014#"
+- raw: "1768#55214#55203#清玉门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "清玉门"
     translated: "Pure Jade Gate"
-- raw: "1769#55214#55204#大雪山#0#0#0#4#1004#"
+- raw: "1769#55214#55204#大雪山#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "大雪山"
     translated: "Great Snow Mountain"
-- raw: "1770#55214#55205#麓山书院#0#0#0#19#1019#"
+- raw: "1770#55214#55205#麓山书院#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "麓山书院"
     translated: "Mount Lu Academy"
-- raw: "1771#55214#55206#昭月宗#0#0#0#14#1014#"
+- raw: "1771#55214#55206#昭月宗#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "昭月宗"
     translated: "Bright Moon Clan"
-- raw: "1772#55214#55207#穆特族#0#0#0#16#1016#"
+- raw: "1772#55214#55207#穆特族#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "穆特族"
     translated: "Mu Te Tribe"
-- raw: "1773#55214#55208#信陵宗#0#0#0#4#1004#"
+- raw: "1773#55214#55208#信陵宗#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "信陵宗"
     translated: "Xinling Sect"
-- raw: "1774#55214#55209#丐门#0#0#0#7#1007#"
+- raw: "1774#55214#55209#丐门#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "丐门"
     translated: "Beggar Sect"
-- raw: "1775#55214#55210#捭阖谷#0#0#0#7#1007#"
+- raw: "1775#55214#55210#捭阖谷#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "捭阖谷"
     translated: "Baihe Valley"
-- raw: "1776#55214#55211#神兵山庄#0#0#0#19#1019#"
+- raw: "1776#55214#55211#神兵山庄#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
-- raw: "1777#55214#55212#楚军#0#0#0#5#1005#"
+- raw: "1777#55214#55212#楚军#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "楚军"
     translated: "Chu army"
-- raw: "1778#55214#55213#齐军#0#0#0#4#1004#"
+- raw: "1778#55214#55213#齐军#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "齐军"
     translated: "Qi Army"
-- raw: "1779#55214#55215#朔海派#0#0#0#12#1012#"
+- raw: "1779#55214#55215#朔海派#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "朔海派"
     translated: "North Sea Sect"
-- raw: "1780#55214#55216#泠香坞#0#0#0#20#1020#"
+- raw: "1780#55214#55216#泠香坞#0#0#1000#20#1020#"
   splits:
   - split: 3
     text: "泠香坞"
     translated: "Cold Fragrance Cove"
-- raw: "1781#55214#55217#黑沙寨#0#0#0#16#1016#"
+- raw: "1781#55214#55217#黑沙寨#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "黑沙寨"
     translated: "Black Sand Stronghold"
-- raw: "1782#55214#55218#拂松门#0#0#0#3#1003#"
+- raw: "1782#55214#55218#拂松门#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "拂松门"
     translated: "Pine Brushing Gate"
-- raw: "1783#55214#55219#岭花谷#0#0#0#3#1003#"
+- raw: "1783#55214#55219#岭花谷#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "岭花谷"
     translated: "Ridge Flower Valley"
-- raw: "1784#55214#55220#鸿月派#0#0#0#8#1008#"
+- raw: "1784#55214#55220#鸿月派#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "鸿月派"
     translated: "Grand Moon Sect"
-- raw: "1785#55214#55221#普贤门#0#0#0#14#1014#"
+- raw: "1785#55214#55221#普贤门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "普贤门"
     translated: "Universal Virtue Gate"
-- raw: "1786#55214#55222#爻光谷#0#0#0#5#1005#"
+- raw: "1786#55214#55222#爻光谷#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "爻光谷"
     translated: "Light of Divination Valley"
-- raw: "1787#55214#55223#不夜京#0#0#0#9#1009#"
+- raw: "1787#55214#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
     text: "不夜京"
     translated: "Evernight Capital"
-- raw: "1788#55214#2092#御虚门###0#19#1019#"
+- raw: "1788#55214#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "1789#55214#2096#枰栌北###0#16#1016#"
+- raw: "1789#55214#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "1790#55214#2102#法华村###0#4#1004#"
+- raw: "1790#55214#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "1791#55214#2105#淮陵西###0#4#1004#"
+- raw: "1791#55214#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "1792#55214#2106#重天外滩###0#12#1012#"
+- raw: "1792#55214#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "1793#55214#2107#太初驿站###0#20#1020#"
+- raw: "1793#55214#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "1801#55215#2094#枰栌南#0#0#0#1#1001#"
+- raw: "1801#55215#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "1802#55215#2095#枰栌西#0#0#0#2#1002#"
+- raw: "1802#55215#2095#枰栌西#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "1803#55215#2097#枰栌外城#0#0#0#3#1003#"
+    translated: "Pinglu West"
+- raw: "1803#55215#2097#枰栌外城#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "1804#55215#2103#淮陵北#0#0#0#4#1004#"
+- raw: "1804#55215#2103#淮陵北#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "1805#55215#2104#淮陵南#0#0#0#5#1005#"
+- raw: "1805#55215#2104#淮陵南#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "1806#55215#2108#雁州南#0#0#0#17#1017#"
+- raw: "1806#55215#2108#雁州南#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "1807#55215#2109#雁州北#0#0#0#5#1005#"
+- raw: "1807#55215#2109#雁州北#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "1808#55215#2111#豫京南#0#0#0#8#1008#"
+- raw: "1808#55215#2111#豫京南#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "1809#55215#2090#云鹤村#0#0#0#18#1018#"
+- raw: "1809#55215#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "1810#55215#2098#小石镇#0#0#0#12#1012#"
+- raw: "1810#55215#2098#小石镇#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "1811#55215#55224#玉沙关#0#0#0#6#1006#"
+- raw: "1811#55215#55224#玉沙关#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "玉沙关"
     translated: "Jade Sand Pass"
-- raw: "1812#55215#2091#太初#0#0#0#19#1019#"
+- raw: "1812#55215#2091#太初#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "太初"
     translated: "Primordial Origin"
-- raw: "1813#55215#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "1813#55215#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "1814#55215#2093#长旌军营地#0#0#0#17#1017#"
+- raw: "1814#55215#2093#长旌军营地#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "长旌军营地"
     translated: "Long Standard Army Camp"
-- raw: "1815#55215#2100#云潇码头#0#0#0#13#1013#"
+- raw: "1815#55215#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
     text: "云潇码头"
     translated: "Yun Xiao Port"
-- raw: "1816#55215#55201#嵩室山#0#0#0#6#1006#"
+- raw: "1816#55215#55201#嵩室山#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "1817#55215#55202#砚溪山庄#0#0#0#2#1002#"
+- raw: "1817#55215#55202#砚溪山庄#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "砚溪山庄"
     translated: "Ink Stream Mountain Villa"
-- raw: "1818#55215#55203#清玉门#0#0#0#14#1014#"
+- raw: "1818#55215#55203#清玉门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "清玉门"
     translated: "Pure Jade Gate"
-- raw: "1819#55215#55204#大雪山#0#0#0#4#1004#"
+- raw: "1819#55215#55204#大雪山#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "大雪山"
     translated: "Great Snow Mountain"
-- raw: "1820#55215#55205#麓山书院#0#0#0#19#1019#"
+- raw: "1820#55215#55205#麓山书院#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "麓山书院"
     translated: "Mount Lu Academy"
-- raw: "1821#55215#55206#昭月宗#0#0#0#14#1014#"
+- raw: "1821#55215#55206#昭月宗#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "昭月宗"
     translated: "Bright Moon Clan"
-- raw: "1822#55215#55207#穆特族#0#0#0#16#1016#"
+- raw: "1822#55215#55207#穆特族#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "穆特族"
     translated: "Mu Te Tribe"
-- raw: "1823#55215#55208#信陵宗#0#0#0#4#1004#"
+- raw: "1823#55215#55208#信陵宗#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "信陵宗"
     translated: "Xinling Sect"
-- raw: "1824#55215#55209#丐门#0#0#0#7#1007#"
+- raw: "1824#55215#55209#丐门#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "丐门"
     translated: "Beggar Sect"
-- raw: "1825#55215#55210#捭阖谷#0#0#0#7#1007#"
+- raw: "1825#55215#55210#捭阖谷#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "捭阖谷"
     translated: "Baihe Valley"
-- raw: "1826#55215#55211#神兵山庄#0#0#0#19#1019#"
+- raw: "1826#55215#55211#神兵山庄#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
-- raw: "1827#55215#55212#楚军#0#0#0#5#1005#"
+- raw: "1827#55215#55212#楚军#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "楚军"
     translated: "Chu army"
-- raw: "1828#55215#55213#齐军#0#0#0#4#1004#"
+- raw: "1828#55215#55213#齐军#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "齐军"
     translated: "Qi Army"
-- raw: "1829#55215#55214#遥雪峰#0#0#0#4#1004#"
+- raw: "1829#55215#55214#遥雪峰#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "遥雪峰"
     translated: "Distant Snow Peak"
-- raw: "1830#55215#55216#泠香坞#0#0#0#20#1020#"
+- raw: "1830#55215#55216#泠香坞#0#0#1000#20#1020#"
   splits:
   - split: 3
     text: "泠香坞"
     translated: "Cold Fragrance Cove"
-- raw: "1831#55215#55217#黑沙寨#0#0#0#16#1016#"
+- raw: "1831#55215#55217#黑沙寨#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "黑沙寨"
     translated: "Black Sand Stronghold"
-- raw: "1832#55215#55218#拂松门#0#0#0#3#1003#"
+- raw: "1832#55215#55218#拂松门#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "拂松门"
     translated: "Pine Brushing Gate"
-- raw: "1833#55215#55219#岭花谷#0#0#0#3#1003#"
+- raw: "1833#55215#55219#岭花谷#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "岭花谷"
     translated: "Ridge Flower Valley"
-- raw: "1834#55215#55220#鸿月派#0#0#0#8#1008#"
+- raw: "1834#55215#55220#鸿月派#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "鸿月派"
     translated: "Grand Moon Sect"
-- raw: "1835#55215#55221#普贤门#0#0#0#14#1014#"
+- raw: "1835#55215#55221#普贤门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "普贤门"
     translated: "Universal Virtue Gate"
-- raw: "1836#55215#55222#爻光谷#0#0#0#5#1005#"
+- raw: "1836#55215#55222#爻光谷#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "爻光谷"
     translated: "Light of Divination Valley"
-- raw: "1837#55215#55223#不夜京#0#0#0#9#1009#"
+- raw: "1837#55215#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
     text: "不夜京"
     translated: "Evernight Capital"
-- raw: "1838#55215#2092#御虚门###0#19#1019#"
+- raw: "1838#55215#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "1839#55215#2096#枰栌北###0#16#1016#"
+- raw: "1839#55215#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "1840#55215#2102#法华村###0#4#1004#"
+- raw: "1840#55215#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "1841#55215#2105#淮陵西###0#4#1004#"
+- raw: "1841#55215#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "1842#55215#2106#重天外滩###0#12#1012#"
+- raw: "1842#55215#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "1843#55215#2107#太初驿站###0#20#1020#"
+- raw: "1843#55215#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "1851#55216#2094#枰栌南#0#0#0#1#1001#"
+- raw: "1851#55216#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "1852#55216#2095#枰栌西#0#0#0#2#1002#"
+- raw: "1852#55216#2095#枰栌西#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "1853#55216#2097#枰栌外城#0#0#0#3#1003#"
+    translated: "Pinglu West"
+- raw: "1853#55216#2097#枰栌外城#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "1854#55216#2103#淮陵北#0#0#0#4#1004#"
+- raw: "1854#55216#2103#淮陵北#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "1855#55216#2104#淮陵南#0#0#0#5#1005#"
+- raw: "1855#55216#2104#淮陵南#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "1856#55216#2108#雁州南#0#0#0#17#1017#"
+- raw: "1856#55216#2108#雁州南#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "1857#55216#2109#雁州北#0#0#0#5#1005#"
+- raw: "1857#55216#2109#雁州北#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "1858#55216#2111#豫京南#0#0#0#8#1008#"
+- raw: "1858#55216#2111#豫京南#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "1859#55216#2090#云鹤村#0#0#0#18#1018#"
+- raw: "1859#55216#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "1860#55216#2098#小石镇#0#0#0#12#1012#"
+- raw: "1860#55216#2098#小石镇#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "1861#55216#55224#玉沙关#0#0#0#6#1006#"
+- raw: "1861#55216#55224#玉沙关#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "玉沙关"
     translated: "Jade Sand Pass"
-- raw: "1862#55216#2091#太初#0#0#0#19#1019#"
+- raw: "1862#55216#2091#太初#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "太初"
     translated: "Primordial Origin"
-- raw: "1863#55216#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "1863#55216#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "1864#55216#2093#长旌军营地#0#0#0#17#1017#"
+- raw: "1864#55216#2093#长旌军营地#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "长旌军营地"
     translated: "Long Standard Army Camp"
-- raw: "1865#55216#2100#云潇码头#0#0#0#13#1013#"
+- raw: "1865#55216#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
     text: "云潇码头"
     translated: "Yun Xiao Port"
-- raw: "1866#55216#55201#嵩室山#0#0#0#6#1006#"
+- raw: "1866#55216#55201#嵩室山#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "1867#55216#55202#砚溪山庄#0#0#0#2#1002#"
+- raw: "1867#55216#55202#砚溪山庄#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "砚溪山庄"
     translated: "Ink Stream Mountain Villa"
-- raw: "1868#55216#55203#清玉门#0#0#0#14#1014#"
+- raw: "1868#55216#55203#清玉门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "清玉门"
     translated: "Pure Jade Gate"
-- raw: "1869#55216#55204#大雪山#0#0#0#4#1004#"
+- raw: "1869#55216#55204#大雪山#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "大雪山"
     translated: "Great Snow Mountain"
-- raw: "1870#55216#55205#麓山书院#0#0#0#19#1019#"
+- raw: "1870#55216#55205#麓山书院#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "麓山书院"
     translated: "Mount Lu Academy"
-- raw: "1871#55216#55206#昭月宗#0#0#0#14#1014#"
+- raw: "1871#55216#55206#昭月宗#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "昭月宗"
     translated: "Bright Moon Clan"
-- raw: "1872#55216#55207#穆特族#0#0#0#16#1016#"
+- raw: "1872#55216#55207#穆特族#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "穆特族"
     translated: "Mu Te Tribe"
-- raw: "1873#55216#55208#信陵宗#0#0#0#4#1004#"
+- raw: "1873#55216#55208#信陵宗#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "信陵宗"
     translated: "Xinling Sect"
-- raw: "1874#55216#55209#丐门#0#0#0#7#1007#"
+- raw: "1874#55216#55209#丐门#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "丐门"
     translated: "Beggar Sect"
-- raw: "1875#55216#55210#捭阖谷#0#0#0#7#1007#"
+- raw: "1875#55216#55210#捭阖谷#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "捭阖谷"
     translated: "Baihe Valley"
-- raw: "1876#55216#55211#神兵山庄#0#0#0#19#1019#"
+- raw: "1876#55216#55211#神兵山庄#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
-- raw: "1877#55216#55212#楚军#0#0#0#5#1005#"
+- raw: "1877#55216#55212#楚军#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "楚军"
     translated: "Chu army"
-- raw: "1878#55216#55213#齐军#0#0#0#4#1004#"
+- raw: "1878#55216#55213#齐军#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "齐军"
     translated: "Qi Army"
-- raw: "1879#55216#55214#遥雪峰#0#0#0#4#1004#"
+- raw: "1879#55216#55214#遥雪峰#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "遥雪峰"
     translated: "Distant Snow Peak"
-- raw: "1880#55216#55215#朔海派#0#0#0#12#1012#"
+- raw: "1880#55216#55215#朔海派#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "朔海派"
     translated: "North Sea Sect"
-- raw: "1881#55216#55217#黑沙寨#0#0#0#16#1016#"
+- raw: "1881#55216#55217#黑沙寨#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "黑沙寨"
     translated: "Black Sand Stronghold"
-- raw: "1882#55216#55218#拂松门#0#0#0#3#1003#"
+- raw: "1882#55216#55218#拂松门#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "拂松门"
     translated: "Pine Brushing Gate"
-- raw: "1883#55216#55219#岭花谷#0#0#0#3#1003#"
+- raw: "1883#55216#55219#岭花谷#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "岭花谷"
     translated: "Ridge Flower Valley"
-- raw: "1884#55216#55220#鸿月派#0#0#0#8#1008#"
+- raw: "1884#55216#55220#鸿月派#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "鸿月派"
     translated: "Grand Moon Sect"
-- raw: "1885#55216#55221#普贤门#0#0#0#14#1014#"
+- raw: "1885#55216#55221#普贤门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "普贤门"
     translated: "Universal Virtue Gate"
-- raw: "1886#55216#55222#爻光谷#0#0#0#5#1005#"
+- raw: "1886#55216#55222#爻光谷#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "爻光谷"
     translated: "Light of Divination Valley"
-- raw: "1887#55216#55223#不夜京#0#0#0#9#1009#"
+- raw: "1887#55216#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
     text: "不夜京"
     translated: "Evernight Capital"
-- raw: "1888#55216#2092#御虚门###0#19#1019#"
+- raw: "1888#55216#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "1889#55216#2096#枰栌北###0#16#1016#"
+- raw: "1889#55216#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "1890#55216#2102#法华村###0#4#1004#"
+- raw: "1890#55216#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "1891#55216#2105#淮陵西###0#4#1004#"
+- raw: "1891#55216#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "1892#55216#2106#重天外滩###0#12#1012#"
+- raw: "1892#55216#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "1893#55216#2107#太初驿站###0#20#1020#"
+- raw: "1893#55216#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "1901#55217#2094#枰栌南#0#0#0#1#1001#"
+- raw: "1901#55217#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "1902#55217#2095#枰栌西#0#0#0#2#1002#"
+- raw: "1902#55217#2095#枰栌西#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "1903#55217#2097#枰栌外城#0#0#0#3#1003#"
+    translated: "Pinglu West"
+- raw: "1903#55217#2097#枰栌外城#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "1904#55217#2103#淮陵北#0#0#0#4#1004#"
+- raw: "1904#55217#2103#淮陵北#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "1905#55217#2104#淮陵南#0#0#0#5#1005#"
+- raw: "1905#55217#2104#淮陵南#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "1906#55217#2108#雁州南#0#0#0#17#1017#"
+- raw: "1906#55217#2108#雁州南#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "1907#55217#2109#雁州北#0#0#0#5#1005#"
+- raw: "1907#55217#2109#雁州北#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "1908#55217#2111#豫京南#0#0#0#8#1008#"
+- raw: "1908#55217#2111#豫京南#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "1909#55217#2090#云鹤村#0#0#0#18#1018#"
+- raw: "1909#55217#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "1910#55217#2098#小石镇#0#0#0#12#1012#"
+- raw: "1910#55217#2098#小石镇#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "1911#55217#55224#玉沙关#0#0#0#6#1006#"
+- raw: "1911#55217#55224#玉沙关#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "玉沙关"
     translated: "Jade Sand Pass"
-- raw: "1912#55217#2091#太初#0#0#0#19#1019#"
+- raw: "1912#55217#2091#太初#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "太初"
     translated: "Primordial Origin"
-- raw: "1913#55217#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "1913#55217#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "1914#55217#2093#长旌军营地#0#0#0#17#1017#"
+- raw: "1914#55217#2093#长旌军营地#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "长旌军营地"
     translated: "Long Standard Army Camp"
-- raw: "1915#55217#2100#云潇码头#0#0#0#13#1013#"
+- raw: "1915#55217#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
     text: "云潇码头"
     translated: "Yun Xiao Port"
-- raw: "1916#55217#55201#嵩室山#0#0#0#6#1006#"
+- raw: "1916#55217#55201#嵩室山#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "1917#55217#55202#砚溪山庄#0#0#0#2#1002#"
+- raw: "1917#55217#55202#砚溪山庄#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "砚溪山庄"
     translated: "Ink Stream Mountain Villa"
-- raw: "1918#55217#55203#清玉门#0#0#0#14#1014#"
+- raw: "1918#55217#55203#清玉门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "清玉门"
     translated: "Pure Jade Gate"
-- raw: "1919#55217#55204#大雪山#0#0#0#4#1004#"
+- raw: "1919#55217#55204#大雪山#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "大雪山"
     translated: "Great Snow Mountain"
-- raw: "1920#55217#55205#麓山书院#0#0#0#19#1019#"
+- raw: "1920#55217#55205#麓山书院#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "麓山书院"
     translated: "Mount Lu Academy"
-- raw: "1921#55217#55206#昭月宗#0#0#0#14#1014#"
+- raw: "1921#55217#55206#昭月宗#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "昭月宗"
     translated: "Bright Moon Clan"
-- raw: "1922#55217#55207#穆特族#0#0#0#16#1016#"
+- raw: "1922#55217#55207#穆特族#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "穆特族"
     translated: "Mu Te Tribe"
-- raw: "1923#55217#55208#信陵宗#0#0#0#4#1004#"
+- raw: "1923#55217#55208#信陵宗#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "信陵宗"
     translated: "Xinling Sect"
-- raw: "1924#55217#55209#丐门#0#0#0#7#1007#"
+- raw: "1924#55217#55209#丐门#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "丐门"
     translated: "Beggar Sect"
-- raw: "1925#55217#55210#捭阖谷#0#0#0#7#1007#"
+- raw: "1925#55217#55210#捭阖谷#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "捭阖谷"
     translated: "Baihe Valley"
-- raw: "1926#55217#55211#神兵山庄#0#0#0#19#1019#"
+- raw: "1926#55217#55211#神兵山庄#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
-- raw: "1927#55217#55212#楚军#0#0#0#5#1005#"
+- raw: "1927#55217#55212#楚军#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "楚军"
     translated: "Chu army"
-- raw: "1928#55217#55213#齐军#0#0#0#4#1004#"
+- raw: "1928#55217#55213#齐军#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "齐军"
     translated: "Qi Army"
-- raw: "1929#55217#55214#遥雪峰#0#0#0#4#1004#"
+- raw: "1929#55217#55214#遥雪峰#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "遥雪峰"
     translated: "Distant Snow Peak"
-- raw: "1930#55217#55215#朔海派#0#0#0#12#1012#"
+- raw: "1930#55217#55215#朔海派#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "朔海派"
     translated: "North Sea Sect"
-- raw: "1931#55217#55216#泠香坞#0#0#0#20#1020#"
+- raw: "1931#55217#55216#泠香坞#0#0#1000#20#1020#"
   splits:
   - split: 3
     text: "泠香坞"
     translated: "Cold Fragrance Cove"
-- raw: "1932#55217#55218#拂松门#0#0#0#3#1003#"
+- raw: "1932#55217#55218#拂松门#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "拂松门"
     translated: "Pine Brushing Gate"
-- raw: "1933#55217#55219#岭花谷#0#0#0#3#1003#"
+- raw: "1933#55217#55219#岭花谷#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "岭花谷"
     translated: "Ridge Flower Valley"
-- raw: "1934#55217#55220#鸿月派#0#0#0#8#1008#"
+- raw: "1934#55217#55220#鸿月派#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "鸿月派"
     translated: "Grand Moon Sect"
-- raw: "1935#55217#55221#普贤门#0#0#0#14#1014#"
+- raw: "1935#55217#55221#普贤门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "普贤门"
     translated: "Universal Virtue Gate"
-- raw: "1936#55217#55222#爻光谷#0#0#0#5#1005#"
+- raw: "1936#55217#55222#爻光谷#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "爻光谷"
     translated: "Light of Divination Valley"
-- raw: "1937#55217#55223#不夜京#0#0#0#9#1009#"
+- raw: "1937#55217#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
     text: "不夜京"
     translated: "Evernight Capital"
-- raw: "1938#55217#2092#御虚门###0#19#1019#"
+- raw: "1938#55217#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "1939#55217#2096#枰栌北###0#16#1016#"
+- raw: "1939#55217#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "1940#55217#2102#法华村###0#4#1004#"
+- raw: "1940#55217#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "1941#55217#2105#淮陵西###0#4#1004#"
+- raw: "1941#55217#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "1942#55217#2106#重天外滩###0#12#1012#"
+- raw: "1942#55217#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "1943#55217#2107#太初驿站###0#20#1020#"
+- raw: "1943#55217#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "1951#55218#2094#枰栌南#0#0#0#1#1001#"
+- raw: "1951#55218#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "1952#55218#2095#枰栌西#0#0#0#2#1002#"
+- raw: "1952#55218#2095#枰栌西#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "1953#55218#2097#枰栌外城#0#0#0#3#1003#"
+    translated: "Pinglu West"
+- raw: "1953#55218#2097#枰栌外城#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "1954#55218#2103#淮陵北#0#0#0#4#1004#"
+- raw: "1954#55218#2103#淮陵北#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "1955#55218#2104#淮陵南#0#0#0#5#1005#"
+- raw: "1955#55218#2104#淮陵南#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "1956#55218#2108#雁州南#0#0#0#17#1017#"
+- raw: "1956#55218#2108#雁州南#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "1957#55218#2109#雁州北#0#0#0#5#1005#"
+- raw: "1957#55218#2109#雁州北#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "1958#55218#2111#豫京南#0#0#0#8#1008#"
+- raw: "1958#55218#2111#豫京南#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "1959#55218#2090#云鹤村#0#0#0#18#1018#"
+- raw: "1959#55218#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "1960#55218#2098#小石镇#0#0#0#12#1012#"
+- raw: "1960#55218#2098#小石镇#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "1961#55218#55224#玉沙关#0#0#0#6#1006#"
+- raw: "1961#55218#55224#玉沙关#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "玉沙关"
     translated: "Jade Sand Pass"
-- raw: "1962#55218#2091#太初#0#0#0#19#1019#"
+- raw: "1962#55218#2091#太初#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "太初"
     translated: "Primordial Origin"
-- raw: "1963#55218#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "1963#55218#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "1964#55218#2093#长旌军营地#0#0#0#17#1017#"
+- raw: "1964#55218#2093#长旌军营地#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "长旌军营地"
     translated: "Long Standard Army Camp"
-- raw: "1965#55218#2100#云潇码头#0#0#0#13#1013#"
+- raw: "1965#55218#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
     text: "云潇码头"
     translated: "Yun Xiao Port"
-- raw: "1966#55218#55201#嵩室山#0#0#0#6#1006#"
+- raw: "1966#55218#55201#嵩室山#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "1967#55218#55202#砚溪山庄#0#0#0#2#1002#"
+- raw: "1967#55218#55202#砚溪山庄#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "砚溪山庄"
     translated: "Ink Stream Mountain Villa"
-- raw: "1968#55218#55203#清玉门#0#0#0#14#1014#"
+- raw: "1968#55218#55203#清玉门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "清玉门"
     translated: "Pure Jade Gate"
-- raw: "1969#55218#55204#大雪山#0#0#0#4#1004#"
+- raw: "1969#55218#55204#大雪山#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "大雪山"
     translated: "Great Snow Mountain"
-- raw: "1970#55218#55205#麓山书院#0#0#0#19#1019#"
+- raw: "1970#55218#55205#麓山书院#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "麓山书院"
     translated: "Mount Lu Academy"
-- raw: "1971#55218#55206#昭月宗#0#0#0#14#1014#"
+- raw: "1971#55218#55206#昭月宗#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "昭月宗"
     translated: "Bright Moon Clan"
-- raw: "1972#55218#55207#穆特族#0#0#0#16#1016#"
+- raw: "1972#55218#55207#穆特族#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "穆特族"
     translated: "Mu Te Tribe"
-- raw: "1973#55218#55208#信陵宗#0#0#0#4#1004#"
+- raw: "1973#55218#55208#信陵宗#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "信陵宗"
     translated: "Xinling Sect"
-- raw: "1974#55218#55209#丐门#0#0#0#7#1007#"
+- raw: "1974#55218#55209#丐门#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "丐门"
     translated: "Beggar Sect"
-- raw: "1975#55218#55210#捭阖谷#0#0#0#7#1007#"
+- raw: "1975#55218#55210#捭阖谷#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "捭阖谷"
     translated: "Baihe Valley"
-- raw: "1976#55218#55211#神兵山庄#0#0#0#19#1019#"
+- raw: "1976#55218#55211#神兵山庄#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
-- raw: "1977#55218#55212#楚军#0#0#0#5#1005#"
+- raw: "1977#55218#55212#楚军#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "楚军"
     translated: "Chu army"
-- raw: "1978#55218#55213#齐军#0#0#0#4#1004#"
+- raw: "1978#55218#55213#齐军#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "齐军"
     translated: "Qi Army"
-- raw: "1979#55218#55214#遥雪峰#0#0#0#4#1004#"
+- raw: "1979#55218#55214#遥雪峰#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "遥雪峰"
     translated: "Distant Snow Peak"
-- raw: "1980#55218#55215#朔海派#0#0#0#12#1012#"
+- raw: "1980#55218#55215#朔海派#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "朔海派"
     translated: "North Sea Sect"
-- raw: "1981#55218#55216#泠香坞#0#0#0#20#1020#"
+- raw: "1981#55218#55216#泠香坞#0#0#1000#20#1020#"
   splits:
   - split: 3
     text: "泠香坞"
     translated: "Cold Fragrance Cove"
-- raw: "1982#55218#55217#黑沙寨#0#0#0#16#1016#"
+- raw: "1982#55218#55217#黑沙寨#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "黑沙寨"
     translated: "Black Sand Stronghold"
-- raw: "1983#55218#55219#岭花谷#0#0#0#3#1003#"
+- raw: "1983#55218#55219#岭花谷#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "岭花谷"
     translated: "Ridge Flower Valley"
-- raw: "1984#55218#55220#鸿月派#0#0#0#8#1008#"
+- raw: "1984#55218#55220#鸿月派#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "鸿月派"
     translated: "Grand Moon Sect"
-- raw: "1985#55218#55221#普贤门#0#0#0#14#1014#"
+- raw: "1985#55218#55221#普贤门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "普贤门"
     translated: "Universal Virtue Gate"
-- raw: "1986#55218#55222#爻光谷#0#0#0#5#1005#"
+- raw: "1986#55218#55222#爻光谷#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "爻光谷"
     translated: "Light of Divination Valley"
-- raw: "1987#55218#55223#不夜京#0#0#0#9#1009#"
+- raw: "1987#55218#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
     text: "不夜京"
     translated: "Evernight Capital"
-- raw: "1988#55218#2092#御虚门###0#19#1019#"
+- raw: "1988#55218#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "1989#55218#2096#枰栌北###0#16#1016#"
+- raw: "1989#55218#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "1990#55218#2102#法华村###0#4#1004#"
+- raw: "1990#55218#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "1991#55218#2105#淮陵西###0#4#1004#"
+- raw: "1991#55218#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "1992#55218#2106#重天外滩###0#12#1012#"
+- raw: "1992#55218#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "1993#55218#2107#太初驿站###0#20#1020#"
+- raw: "1993#55218#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "2001#55219#2094#枰栌南#0#0#0#1#1001#"
+- raw: "2001#55219#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "2002#55219#2095#枰栌西#0#0#0#2#1002#"
+- raw: "2002#55219#2095#枰栌西#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "2003#55219#2097#枰栌外城#0#0#0#3#1003#"
+    translated: "Pinglu West"
+- raw: "2003#55219#2097#枰栌外城#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "2004#55219#2103#淮陵北#0#0#0#4#1004#"
+- raw: "2004#55219#2103#淮陵北#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "2005#55219#2104#淮陵南#0#0#0#5#1005#"
+- raw: "2005#55219#2104#淮陵南#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "2006#55219#2108#雁州南#0#0#0#17#1017#"
+- raw: "2006#55219#2108#雁州南#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "2007#55219#2109#雁州北#0#0#0#5#1005#"
+- raw: "2007#55219#2109#雁州北#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "2008#55219#2111#豫京南#0#0#0#8#1008#"
+- raw: "2008#55219#2111#豫京南#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "2009#55219#2090#云鹤村#0#0#0#18#1018#"
+- raw: "2009#55219#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "2010#55219#2098#小石镇#0#0#0#12#1012#"
+- raw: "2010#55219#2098#小石镇#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "2011#55219#55224#玉沙关#0#0#0#6#1006#"
+- raw: "2011#55219#55224#玉沙关#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "玉沙关"
     translated: "Jade Sand Pass"
-- raw: "2012#55219#2091#太初#0#0#0#19#1019#"
+- raw: "2012#55219#2091#太初#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "太初"
     translated: "Primordial Origin"
-- raw: "2013#55219#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "2013#55219#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "2014#55219#2093#长旌军营地#0#0#0#17#1017#"
+- raw: "2014#55219#2093#长旌军营地#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "长旌军营地"
     translated: "Long Standard Army Camp"
-- raw: "2015#55219#2100#云潇码头#0#0#0#13#1013#"
+- raw: "2015#55219#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
     text: "云潇码头"
     translated: "Yun Xiao Port"
-- raw: "2016#55219#55201#嵩室山#0#0#0#6#1006#"
+- raw: "2016#55219#55201#嵩室山#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "2017#55219#55202#砚溪山庄#0#0#0#2#1002#"
+- raw: "2017#55219#55202#砚溪山庄#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "砚溪山庄"
     translated: "Ink Stream Mountain Villa"
-- raw: "2018#55219#55203#清玉门#0#0#0#14#1014#"
+- raw: "2018#55219#55203#清玉门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "清玉门"
     translated: "Pure Jade Gate"
-- raw: "2019#55219#55204#大雪山#0#0#0#4#1004#"
+- raw: "2019#55219#55204#大雪山#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "大雪山"
     translated: "Great Snow Mountain"
-- raw: "2020#55219#55205#麓山书院#0#0#0#19#1019#"
+- raw: "2020#55219#55205#麓山书院#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "麓山书院"
     translated: "Mount Lu Academy"
-- raw: "2021#55219#55206#昭月宗#0#0#0#14#1014#"
+- raw: "2021#55219#55206#昭月宗#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "昭月宗"
     translated: "Bright Moon Clan"
-- raw: "2022#55219#55207#穆特族#0#0#0#16#1016#"
+- raw: "2022#55219#55207#穆特族#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "穆特族"
     translated: "Mu Te Tribe"
-- raw: "2023#55219#55208#信陵宗#0#0#0#4#1004#"
+- raw: "2023#55219#55208#信陵宗#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "信陵宗"
     translated: "Xinling Sect"
-- raw: "2024#55219#55209#丐门#0#0#0#7#1007#"
+- raw: "2024#55219#55209#丐门#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "丐门"
     translated: "Beggar Sect"
-- raw: "2025#55219#55210#捭阖谷#0#0#0#7#1007#"
+- raw: "2025#55219#55210#捭阖谷#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "捭阖谷"
     translated: "Baihe Valley"
-- raw: "2026#55219#55211#神兵山庄#0#0#0#19#1019#"
+- raw: "2026#55219#55211#神兵山庄#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
-- raw: "2027#55219#55212#楚军#0#0#0#5#1005#"
+- raw: "2027#55219#55212#楚军#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "楚军"
     translated: "Chu army"
-- raw: "2028#55219#55213#齐军#0#0#0#4#1004#"
+- raw: "2028#55219#55213#齐军#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "齐军"
     translated: "Qi Army"
-- raw: "2029#55219#55214#遥雪峰#0#0#0#4#1004#"
+- raw: "2029#55219#55214#遥雪峰#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "遥雪峰"
     translated: "Distant Snow Peak"
-- raw: "2030#55219#55215#朔海派#0#0#0#12#1012#"
+- raw: "2030#55219#55215#朔海派#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "朔海派"
     translated: "North Sea Sect"
-- raw: "2031#55219#55216#泠香坞#0#0#0#20#1020#"
+- raw: "2031#55219#55216#泠香坞#0#0#1000#20#1020#"
   splits:
   - split: 3
     text: "泠香坞"
     translated: "Cold Fragrance Cove"
-- raw: "2032#55219#55217#黑沙寨#0#0#0#16#1016#"
+- raw: "2032#55219#55217#黑沙寨#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "黑沙寨"
     translated: "Black Sand Stronghold"
-- raw: "2033#55219#55218#拂松门#0#0#0#3#1003#"
+- raw: "2033#55219#55218#拂松门#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "拂松门"
     translated: "Pine Brushing Gate"
-- raw: "2034#55219#55220#鸿月派#0#0#0#8#1008#"
+- raw: "2034#55219#55220#鸿月派#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "鸿月派"
     translated: "Grand Moon Sect"
-- raw: "2035#55219#55221#普贤门#0#0#0#14#1014#"
+- raw: "2035#55219#55221#普贤门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "普贤门"
     translated: "Universal Virtue Gate"
-- raw: "2036#55219#55222#爻光谷#0#0#0#5#1005#"
+- raw: "2036#55219#55222#爻光谷#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "爻光谷"
     translated: "Light of Divination Valley"
-- raw: "2037#55219#55223#不夜京#0#0#0#9#1009#"
+- raw: "2037#55219#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
     text: "不夜京"
     translated: "Evernight Capital"
-- raw: "2038#55219#2092#御虚门###0#19#1019#"
+- raw: "2038#55219#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "2039#55219#2096#枰栌北###0#16#1016#"
+- raw: "2039#55219#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "2040#55219#2102#法华村###0#4#1004#"
+- raw: "2040#55219#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "2041#55219#2105#淮陵西###0#4#1004#"
+- raw: "2041#55219#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "2042#55219#2106#重天外滩###0#12#1012#"
+- raw: "2042#55219#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "2043#55219#2107#太初驿站###0#20#1020#"
+- raw: "2043#55219#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "2051#55220#2094#枰栌南#0#0#0#1#1001#"
+- raw: "2051#55220#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "2052#55220#2095#枰栌西#0#0#0#2#1002#"
+- raw: "2052#55220#2095#枰栌西#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "2053#55220#2097#枰栌外城#0#0#0#3#1003#"
+    translated: "Pinglu West"
+- raw: "2053#55220#2097#枰栌外城#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "2054#55220#2103#淮陵北#0#0#0#4#1004#"
+- raw: "2054#55220#2103#淮陵北#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "2055#55220#2104#淮陵南#0#0#0#5#1005#"
+- raw: "2055#55220#2104#淮陵南#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "2056#55220#2108#雁州南#0#0#0#17#1017#"
+- raw: "2056#55220#2108#雁州南#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "2057#55220#2109#雁州北#0#0#0#5#1005#"
+- raw: "2057#55220#2109#雁州北#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "2058#55220#2111#豫京南#0#0#0#8#1008#"
+- raw: "2058#55220#2111#豫京南#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "2059#55220#2090#云鹤村#0#0#0#18#1018#"
+- raw: "2059#55220#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "2060#55220#2098#小石镇#0#0#0#12#1012#"
+- raw: "2060#55220#2098#小石镇#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "2061#55220#55224#玉沙关#0#0#0#6#1006#"
+- raw: "2061#55220#55224#玉沙关#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "玉沙关"
     translated: "Jade Sand Pass"
-- raw: "2062#55220#2091#太初#0#0#0#19#1019#"
+- raw: "2062#55220#2091#太初#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "太初"
     translated: "Primordial Origin"
-- raw: "2063#55220#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "2063#55220#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "2064#55220#2093#长旌军营地#0#0#0#17#1017#"
+- raw: "2064#55220#2093#长旌军营地#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "长旌军营地"
     translated: "Long Standard Army Camp"
-- raw: "2065#55220#2100#云潇码头#0#0#0#13#1013#"
+- raw: "2065#55220#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
     text: "云潇码头"
     translated: "Yun Xiao Port"
-- raw: "2066#55220#55201#嵩室山#0#0#0#6#1006#"
+- raw: "2066#55220#55201#嵩室山#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "2067#55220#55202#砚溪山庄#0#0#0#2#1002#"
+- raw: "2067#55220#55202#砚溪山庄#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "砚溪山庄"
     translated: "Ink Stream Mountain Villa"
-- raw: "2068#55220#55203#清玉门#0#0#0#14#1014#"
+- raw: "2068#55220#55203#清玉门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "清玉门"
     translated: "Pure Jade Gate"
-- raw: "2069#55220#55204#大雪山#0#0#0#4#1004#"
+- raw: "2069#55220#55204#大雪山#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "大雪山"
     translated: "Great Snow Mountain"
-- raw: "2070#55220#55205#麓山书院#0#0#0#19#1019#"
+- raw: "2070#55220#55205#麓山书院#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "麓山书院"
     translated: "Mount Lu Academy"
-- raw: "2071#55220#55206#昭月宗#0#0#0#14#1014#"
+- raw: "2071#55220#55206#昭月宗#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "昭月宗"
     translated: "Bright Moon Clan"
-- raw: "2072#55220#55207#穆特族#0#0#0#16#1016#"
+- raw: "2072#55220#55207#穆特族#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "穆特族"
     translated: "Mu Te Tribe"
-- raw: "2073#55220#55208#信陵宗#0#0#0#4#1004#"
+- raw: "2073#55220#55208#信陵宗#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "信陵宗"
     translated: "Xinling Sect"
-- raw: "2074#55220#55209#丐门#0#0#0#7#1007#"
+- raw: "2074#55220#55209#丐门#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "丐门"
     translated: "Beggar Sect"
-- raw: "2075#55220#55210#捭阖谷#0#0#0#7#1007#"
+- raw: "2075#55220#55210#捭阖谷#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "捭阖谷"
     translated: "Baihe Valley"
-- raw: "2076#55220#55211#神兵山庄#0#0#0#19#1019#"
+- raw: "2076#55220#55211#神兵山庄#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
-- raw: "2077#55220#55212#楚军#0#0#0#5#1005#"
+- raw: "2077#55220#55212#楚军#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "楚军"
     translated: "Chu army"
-- raw: "2078#55220#55213#齐军#0#0#0#4#1004#"
+- raw: "2078#55220#55213#齐军#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "齐军"
     translated: "Qi Army"
-- raw: "2079#55220#55214#遥雪峰#0#0#0#4#1004#"
+- raw: "2079#55220#55214#遥雪峰#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "遥雪峰"
     translated: "Distant Snow Peak"
-- raw: "2080#55220#55215#朔海派#0#0#0#12#1012#"
+- raw: "2080#55220#55215#朔海派#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "朔海派"
     translated: "North Sea Sect"
-- raw: "2081#55220#55216#泠香坞#0#0#0#20#1020#"
+- raw: "2081#55220#55216#泠香坞#0#0#1000#20#1020#"
   splits:
   - split: 3
     text: "泠香坞"
     translated: "Cold Fragrance Cove"
-- raw: "2082#55220#55217#黑沙寨#0#0#0#16#1016#"
+- raw: "2082#55220#55217#黑沙寨#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "黑沙寨"
     translated: "Black Sand Stronghold"
-- raw: "2083#55220#55218#拂松门#0#0#0#3#1003#"
+- raw: "2083#55220#55218#拂松门#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "拂松门"
     translated: "Pine Brushing Gate"
-- raw: "2084#55220#55219#岭花谷#0#0#0#3#1003#"
+- raw: "2084#55220#55219#岭花谷#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "岭花谷"
     translated: "Ridge Flower Valley"
-- raw: "2085#55220#55221#普贤门#0#0#0#14#1014#"
+- raw: "2085#55220#55221#普贤门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "普贤门"
     translated: "Universal Virtue Gate"
-- raw: "2086#55220#55222#爻光谷#0#0#0#5#1005#"
+- raw: "2086#55220#55222#爻光谷#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "爻光谷"
     translated: "Light of Divination Valley"
-- raw: "2087#55220#55223#不夜京#0#0#0#9#1009#"
+- raw: "2087#55220#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
     text: "不夜京"
     translated: "Evernight Capital"
-- raw: "2088#55220#2092#御虚门###0#19#1019#"
+- raw: "2088#55220#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "2089#55220#2096#枰栌北###0#16#1016#"
+- raw: "2089#55220#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "2090#55220#2102#法华村###0#4#1004#"
+- raw: "2090#55220#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "2091#55220#2105#淮陵西###0#4#1004#"
+- raw: "2091#55220#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "2092#55220#2106#重天外滩###0#12#1012#"
+- raw: "2092#55220#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "2093#55220#2107#太初驿站###0#20#1020#"
+- raw: "2093#55220#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "2101#55221#2094#枰栌南#0#0#0#1#1001#"
+- raw: "2101#55221#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "2102#55221#2095#枰栌西#0#0#0#2#1002#"
+- raw: "2102#55221#2095#枰栌西#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "2103#55221#2097#枰栌外城#0#0#0#3#1003#"
+    translated: "Pinglu West"
+- raw: "2103#55221#2097#枰栌外城#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "2104#55221#2103#淮陵北#0#0#0#4#1004#"
+- raw: "2104#55221#2103#淮陵北#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "2105#55221#2104#淮陵南#0#0#0#5#1005#"
+- raw: "2105#55221#2104#淮陵南#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "2106#55221#2108#雁州南#0#0#0#17#1017#"
+- raw: "2106#55221#2108#雁州南#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "2107#55221#2109#雁州北#0#0#0#5#1005#"
+- raw: "2107#55221#2109#雁州北#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "2108#55221#2111#豫京南#0#0#0#8#1008#"
+- raw: "2108#55221#2111#豫京南#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "2109#55221#2090#云鹤村#0#0#0#18#1018#"
+- raw: "2109#55221#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "2110#55221#2098#小石镇#0#0#0#12#1012#"
+- raw: "2110#55221#2098#小石镇#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "2111#55221#55224#玉沙关#0#0#0#6#1006#"
+- raw: "2111#55221#55224#玉沙关#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "玉沙关"
     translated: "Jade Sand Pass"
-- raw: "2112#55221#2091#太初#0#0#0#19#1019#"
+- raw: "2112#55221#2091#太初#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "太初"
     translated: "Primordial Origin"
-- raw: "2113#55221#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "2113#55221#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "2114#55221#2093#长旌军营地#0#0#0#17#1017#"
+- raw: "2114#55221#2093#长旌军营地#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "长旌军营地"
     translated: "Long Standard Army Camp"
-- raw: "2115#55221#2100#云潇码头#0#0#0#13#1013#"
+- raw: "2115#55221#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
     text: "云潇码头"
     translated: "Yun Xiao Port"
-- raw: "2116#55221#55201#嵩室山#0#0#0#6#1006#"
+- raw: "2116#55221#55201#嵩室山#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "2117#55221#55202#砚溪山庄#0#0#0#2#1002#"
+- raw: "2117#55221#55202#砚溪山庄#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "砚溪山庄"
     translated: "Ink Stream Mountain Villa"
-- raw: "2118#55221#55203#清玉门#0#0#0#14#1014#"
+- raw: "2118#55221#55203#清玉门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "清玉门"
     translated: "Pure Jade Gate"
-- raw: "2119#55221#55204#大雪山#0#0#0#4#1004#"
+- raw: "2119#55221#55204#大雪山#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "大雪山"
     translated: "Great Snow Mountain"
-- raw: "2120#55221#55205#麓山书院#0#0#0#19#1019#"
+- raw: "2120#55221#55205#麓山书院#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "麓山书院"
     translated: "Mount Lu Academy"
-- raw: "2121#55221#55206#昭月宗#0#0#0#14#1014#"
+- raw: "2121#55221#55206#昭月宗#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "昭月宗"
     translated: "Bright Moon Clan"
-- raw: "2122#55221#55207#穆特族#0#0#0#16#1016#"
+- raw: "2122#55221#55207#穆特族#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "穆特族"
     translated: "Mu Te Tribe"
-- raw: "2123#55221#55208#信陵宗#0#0#0#4#1004#"
+- raw: "2123#55221#55208#信陵宗#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "信陵宗"
     translated: "Xinling Sect"
-- raw: "2124#55221#55209#丐门#0#0#0#7#1007#"
+- raw: "2124#55221#55209#丐门#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "丐门"
     translated: "Beggar Sect"
-- raw: "2125#55221#55210#捭阖谷#0#0#0#7#1007#"
+- raw: "2125#55221#55210#捭阖谷#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "捭阖谷"
     translated: "Baihe Valley"
-- raw: "2126#55221#55211#神兵山庄#0#0#0#19#1019#"
+- raw: "2126#55221#55211#神兵山庄#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
-- raw: "2127#55221#55212#楚军#0#0#0#5#1005#"
+- raw: "2127#55221#55212#楚军#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "楚军"
     translated: "Chu army"
-- raw: "2128#55221#55213#齐军#0#0#0#4#1004#"
+- raw: "2128#55221#55213#齐军#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "齐军"
     translated: "Qi Army"
-- raw: "2129#55221#55214#遥雪峰#0#0#0#4#1004#"
+- raw: "2129#55221#55214#遥雪峰#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "遥雪峰"
     translated: "Distant Snow Peak"
-- raw: "2130#55221#55215#朔海派#0#0#0#12#1012#"
+- raw: "2130#55221#55215#朔海派#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "朔海派"
     translated: "North Sea Sect"
-- raw: "2131#55221#55216#泠香坞#0#0#0#20#1020#"
+- raw: "2131#55221#55216#泠香坞#0#0#1000#20#1020#"
   splits:
   - split: 3
     text: "泠香坞"
     translated: "Cold Fragrance Cove"
-- raw: "2132#55221#55217#黑沙寨#0#0#0#16#1016#"
+- raw: "2132#55221#55217#黑沙寨#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "黑沙寨"
     translated: "Black Sand Stronghold"
-- raw: "2133#55221#55218#拂松门#0#0#0#3#1003#"
+- raw: "2133#55221#55218#拂松门#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "拂松门"
     translated: "Pine Brushing Gate"
-- raw: "2134#55221#55219#岭花谷#0#0#0#3#1003#"
+- raw: "2134#55221#55219#岭花谷#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "岭花谷"
     translated: "Ridge Flower Valley"
-- raw: "2135#55221#55220#鸿月派#0#0#0#8#1008#"
+- raw: "2135#55221#55220#鸿月派#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "鸿月派"
     translated: "Grand Moon Sect"
-- raw: "2136#55221#55222#爻光谷#0#0#0#5#1005#"
+- raw: "2136#55221#55222#爻光谷#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "爻光谷"
     translated: "Light of Divination Valley"
-- raw: "2137#55221#55223#不夜京#0#0#0#9#1009#"
+- raw: "2137#55221#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
     text: "不夜京"
     translated: "Evernight Capital"
-- raw: "2138#55221#2092#御虚门###0#19#1019#"
+- raw: "2138#55221#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "2139#55221#2096#枰栌北###0#16#1016#"
+- raw: "2139#55221#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "2140#55221#2102#法华村###0#4#1004#"
+- raw: "2140#55221#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "2141#55221#2105#淮陵西###0#4#1004#"
+- raw: "2141#55221#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "2142#55221#2106#重天外滩###0#12#1012#"
+- raw: "2142#55221#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "2143#55221#2107#太初驿站###0#20#1020#"
+- raw: "2143#55221#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "2151#55222#2094#枰栌南#0#0#0#1#1001#"
+- raw: "2151#55222#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "2152#55222#2095#枰栌西#0#0#0#2#1002#"
+- raw: "2152#55222#2095#枰栌西#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "2153#55222#2097#枰栌外城#0#0#0#3#1003#"
+    translated: "Pinglu West"
+- raw: "2153#55222#2097#枰栌外城#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "2154#55222#2103#淮陵北#0#0#0#4#1004#"
+- raw: "2154#55222#2103#淮陵北#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "2155#55222#2104#淮陵南#0#0#0#5#1005#"
+- raw: "2155#55222#2104#淮陵南#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "2156#55222#2108#雁州南#0#0#0#17#1017#"
+- raw: "2156#55222#2108#雁州南#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "2157#55222#2109#雁州北#0#0#0#5#1005#"
+- raw: "2157#55222#2109#雁州北#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "2158#55222#2111#豫京南#0#0#0#8#1008#"
+- raw: "2158#55222#2111#豫京南#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "2159#55222#2090#云鹤村#0#0#0#18#1018#"
+- raw: "2159#55222#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "2160#55222#2098#小石镇#0#0#0#12#1012#"
+- raw: "2160#55222#2098#小石镇#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "2161#55222#55224#玉沙关#0#0#0#6#1006#"
+- raw: "2161#55222#55224#玉沙关#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "玉沙关"
     translated: "Jade Sand Pass"
-- raw: "2162#55222#2091#太初#0#0#0#19#1019#"
+- raw: "2162#55222#2091#太初#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "太初"
     translated: "Primordial Origin"
-- raw: "2163#55222#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "2163#55222#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "2164#55222#2093#长旌军营地#0#0#0#17#1017#"
+- raw: "2164#55222#2093#长旌军营地#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "长旌军营地"
     translated: "Long Standard Army Camp"
-- raw: "2165#55222#2100#云潇码头#0#0#0#13#1013#"
+- raw: "2165#55222#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
     text: "云潇码头"
     translated: "Yun Xiao Port"
-- raw: "2166#55222#55201#嵩室山#0#0#0#6#1006#"
+- raw: "2166#55222#55201#嵩室山#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "2167#55222#55202#砚溪山庄#0#0#0#2#1002#"
+- raw: "2167#55222#55202#砚溪山庄#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "砚溪山庄"
     translated: "Ink Stream Mountain Villa"
-- raw: "2168#55222#55203#清玉门#0#0#0#14#1014#"
+- raw: "2168#55222#55203#清玉门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "清玉门"
     translated: "Pure Jade Gate"
-- raw: "2169#55222#55204#大雪山#0#0#0#4#1004#"
+- raw: "2169#55222#55204#大雪山#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "大雪山"
     translated: "Great Snow Mountain"
-- raw: "2170#55222#55205#麓山书院#0#0#0#19#1019#"
+- raw: "2170#55222#55205#麓山书院#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "麓山书院"
     translated: "Mount Lu Academy"
-- raw: "2171#55222#55206#昭月宗#0#0#0#14#1014#"
+- raw: "2171#55222#55206#昭月宗#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "昭月宗"
     translated: "Bright Moon Clan"
-- raw: "2172#55222#55207#穆特族#0#0#0#16#1016#"
+- raw: "2172#55222#55207#穆特族#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "穆特族"
     translated: "Mu Te Tribe"
-- raw: "2173#55222#55208#信陵宗#0#0#0#4#1004#"
+- raw: "2173#55222#55208#信陵宗#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "信陵宗"
     translated: "Xinling Sect"
-- raw: "2174#55222#55209#丐门#0#0#0#7#1007#"
+- raw: "2174#55222#55209#丐门#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "丐门"
     translated: "Beggar Sect"
-- raw: "2175#55222#55210#捭阖谷#0#0#0#7#1007#"
+- raw: "2175#55222#55210#捭阖谷#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "捭阖谷"
     translated: "Baihe Valley"
-- raw: "2176#55222#55211#神兵山庄#0#0#0#19#1019#"
+- raw: "2176#55222#55211#神兵山庄#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
-- raw: "2177#55222#55212#楚军#0#0#0#5#1005#"
+- raw: "2177#55222#55212#楚军#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "楚军"
     translated: "Chu army"
-- raw: "2178#55222#55213#齐军#0#0#0#4#1004#"
+- raw: "2178#55222#55213#齐军#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "齐军"
     translated: "Qi Army"
-- raw: "2179#55222#55214#遥雪峰#0#0#0#4#1004#"
+- raw: "2179#55222#55214#遥雪峰#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "遥雪峰"
     translated: "Distant Snow Peak"
-- raw: "2180#55222#55215#朔海派#0#0#0#12#1012#"
+- raw: "2180#55222#55215#朔海派#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "朔海派"
     translated: "North Sea Sect"
-- raw: "2181#55222#55216#泠香坞#0#0#0#20#1020#"
+- raw: "2181#55222#55216#泠香坞#0#0#1000#20#1020#"
   splits:
   - split: 3
     text: "泠香坞"
     translated: "Cold Fragrance Cove"
-- raw: "2182#55222#55217#黑沙寨#0#0#0#16#1016#"
+- raw: "2182#55222#55217#黑沙寨#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "黑沙寨"
     translated: "Black Sand Stronghold"
-- raw: "2183#55222#55218#拂松门#0#0#0#3#1003#"
+- raw: "2183#55222#55218#拂松门#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "拂松门"
     translated: "Pine Brushing Gate"
-- raw: "2184#55222#55219#岭花谷#0#0#0#3#1003#"
+- raw: "2184#55222#55219#岭花谷#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "岭花谷"
     translated: "Ridge Flower Valley"
-- raw: "2185#55222#55220#鸿月派#0#0#0#8#1008#"
+- raw: "2185#55222#55220#鸿月派#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "鸿月派"
     translated: "Grand Moon Sect"
-- raw: "2186#55222#55221#普贤门#0#0#0#14#1014#"
+- raw: "2186#55222#55221#普贤门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "普贤门"
     translated: "Universal Virtue Gate"
-- raw: "2187#55222#55223#不夜京#0#0#0#9#1009#"
+- raw: "2187#55222#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
     text: "不夜京"
     translated: "Evernight Capital"
-- raw: "2188#55222#2092#御虚门###0#19#1019#"
+- raw: "2188#55222#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "2189#55222#2096#枰栌北###0#16#1016#"
+- raw: "2189#55222#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "2190#55222#2102#法华村###0#4#1004#"
+- raw: "2190#55222#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "2191#55222#2105#淮陵西###0#4#1004#"
+- raw: "2191#55222#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "2192#55222#2106#重天外滩###0#12#1012#"
+- raw: "2192#55222#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "2193#55222#2107#太初驿站###0#20#1020#"
+- raw: "2193#55222#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "2201#55223#2094#枰栌南#0#0#0#1#1001#"
+- raw: "2201#55223#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "2202#55223#2095#枰栌西#0#0#0#2#1002#"
+- raw: "2202#55223#2095#枰栌西#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "2203#55223#2097#枰栌外城#0#0#0#3#1003#"
+    translated: "Pinglu West"
+- raw: "2203#55223#2097#枰栌外城#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "2204#55223#2103#淮陵北#0#0#0#4#1004#"
+- raw: "2204#55223#2103#淮陵北#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "2205#55223#2104#淮陵南#0#0#0#5#1005#"
+- raw: "2205#55223#2104#淮陵南#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "2206#55223#2108#雁州南#0#0#0#17#1017#"
+- raw: "2206#55223#2108#雁州南#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "2207#55223#2109#雁州北#0#0#0#5#1005#"
+- raw: "2207#55223#2109#雁州北#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "2208#55223#2111#豫京南#0#0#0#8#1008#"
+- raw: "2208#55223#2111#豫京南#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "2209#55223#2090#云鹤村#0#0#0#18#1018#"
+- raw: "2209#55223#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "2210#55223#2098#小石镇#0#0#0#12#1012#"
+- raw: "2210#55223#2098#小石镇#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "2211#55223#55224#玉沙关#0#0#0#6#1006#"
+- raw: "2211#55223#55224#玉沙关#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "玉沙关"
     translated: "Jade Sand Pass"
-- raw: "2212#55223#2091#太初#0#0#0#19#1019#"
+- raw: "2212#55223#2091#太初#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "太初"
     translated: "Primordial Origin"
-- raw: "2213#55223#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "2213#55223#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "2214#55223#2093#长旌军营地#0#0#0#17#1017#"
+- raw: "2214#55223#2093#长旌军营地#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "长旌军营地"
     translated: "Long Standard Army Camp"
-- raw: "2215#55223#2100#云潇码头#0#0#0#13#1013#"
+- raw: "2215#55223#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
     text: "云潇码头"
     translated: "Yun Xiao Port"
-- raw: "2216#55223#55201#嵩室山#0#0#0#6#1006#"
+- raw: "2216#55223#55201#嵩室山#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "2217#55223#55202#砚溪山庄#0#0#0#2#1002#"
+- raw: "2217#55223#55202#砚溪山庄#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "砚溪山庄"
     translated: "Ink Stream Mountain Villa"
-- raw: "2218#55223#55203#清玉门#0#0#0#14#1014#"
+- raw: "2218#55223#55203#清玉门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "清玉门"
     translated: "Pure Jade Gate"
-- raw: "2219#55223#55204#大雪山#0#0#0#4#1004#"
+- raw: "2219#55223#55204#大雪山#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "大雪山"
     translated: "Great Snow Mountain"
-- raw: "2220#55223#55205#麓山书院#0#0#0#19#1019#"
+- raw: "2220#55223#55205#麓山书院#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "麓山书院"
     translated: "Mount Lu Academy"
-- raw: "2221#55223#55206#昭月宗#0#0#0#14#1014#"
+- raw: "2221#55223#55206#昭月宗#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "昭月宗"
     translated: "Bright Moon Clan"
-- raw: "2222#55223#55207#穆特族#0#0#0#16#1016#"
+- raw: "2222#55223#55207#穆特族#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "穆特族"
     translated: "Mu Te Tribe"
-- raw: "2223#55223#55208#信陵宗#0#0#0#4#1004#"
+- raw: "2223#55223#55208#信陵宗#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "信陵宗"
     translated: "Xinling Sect"
-- raw: "2224#55223#55209#丐门#0#0#0#7#1007#"
+- raw: "2224#55223#55209#丐门#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "丐门"
     translated: "Beggar Sect"
-- raw: "2225#55223#55210#捭阖谷#0#0#0#7#1007#"
+- raw: "2225#55223#55210#捭阖谷#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "捭阖谷"
     translated: "Baihe Valley"
-- raw: "2226#55223#55211#神兵山庄#0#0#0#19#1019#"
+- raw: "2226#55223#55211#神兵山庄#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
-- raw: "2227#55223#55212#楚军#0#0#0#5#1005#"
+- raw: "2227#55223#55212#楚军#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "楚军"
     translated: "Chu army"
-- raw: "2228#55223#55213#齐军#0#0#0#4#1004#"
+- raw: "2228#55223#55213#齐军#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "齐军"
     translated: "Qi Army"
-- raw: "2229#55223#55214#遥雪峰#0#0#0#4#1004#"
+- raw: "2229#55223#55214#遥雪峰#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "遥雪峰"
     translated: "Distant Snow Peak"
-- raw: "2230#55223#55215#朔海派#0#0#0#12#1012#"
+- raw: "2230#55223#55215#朔海派#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "朔海派"
     translated: "North Sea Sect"
-- raw: "2231#55223#55216#泠香坞#0#0#0#20#1020#"
+- raw: "2231#55223#55216#泠香坞#0#0#1000#20#1020#"
   splits:
   - split: 3
     text: "泠香坞"
     translated: "Cold Fragrance Cove"
-- raw: "2232#55223#55217#黑沙寨#0#0#0#16#1016#"
+- raw: "2232#55223#55217#黑沙寨#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "黑沙寨"
     translated: "Black Sand Stronghold"
-- raw: "2233#55223#55218#拂松门#0#0#0#3#1003#"
+- raw: "2233#55223#55218#拂松门#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "拂松门"
     translated: "Pine Brushing Gate"
-- raw: "2234#55223#55219#岭花谷#0#0#0#3#1003#"
+- raw: "2234#55223#55219#岭花谷#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "岭花谷"
     translated: "Ridge Flower Valley"
-- raw: "2235#55223#55220#鸿月派#0#0#0#8#1008#"
+- raw: "2235#55223#55220#鸿月派#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "鸿月派"
     translated: "Grand Moon Sect"
-- raw: "2236#55223#55221#普贤门#0#0#0#14#1014#"
+- raw: "2236#55223#55221#普贤门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "普贤门"
     translated: "Universal Virtue Gate"
-- raw: "2237#55223#55222#爻光谷#0#0#0#5#1005#"
+- raw: "2237#55223#55222#爻光谷#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "爻光谷"
     translated: "Light of Divination Valley"
-- raw: "2238#55223#2092#御虚门###0#19#1019#"
+- raw: "2238#55223#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "2239#55223#2096#枰栌北###0#16#1016#"
+- raw: "2239#55223#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "2240#55223#2102#法华村###0#4#1004#"
+- raw: "2240#55223#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "2241#55223#2105#淮陵西###0#4#1004#"
+- raw: "2241#55223#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "2242#55223#2106#重天外滩###0#12#1012#"
+- raw: "2242#55223#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "2243#55223#2107#太初驿站###0#20#1020#"
+- raw: "2243#55223#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "2251#55224#2094#枰栌南#0#0#0#1#1001#"
+- raw: "2251#55224#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "2252#55224#2095#枰栌西#0#0#0#2#1002#"
+- raw: "2252#55224#2095#枰栌西#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "2253#55224#2097#枰栌外城#0#0#0#3#1003#"
+    translated: "Pinglu West"
+- raw: "2253#55224#2097#枰栌外城#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "2254#55224#2103#淮陵北#0#0#0#4#1004#"
+- raw: "2254#55224#2103#淮陵北#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "2255#55224#2104#淮陵南#0#0#0#5#1005#"
+- raw: "2255#55224#2104#淮陵南#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "2256#55224#2108#雁州南#0#0#0#17#1017#"
+- raw: "2256#55224#2108#雁州南#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "2257#55224#2109#雁州北#0#0#0#5#1005#"
+- raw: "2257#55224#2109#雁州北#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "2258#55224#2111#豫京南#0#0#0#8#1008#"
+- raw: "2258#55224#2111#豫京南#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "2259#55224#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "2259#55224#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "2260#55224#2090#云鹤村#0#0#0#18#1018#"
+- raw: "2260#55224#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "2261#55224#2098#小石镇#0#0#0#12#1012#"
+- raw: "2261#55224#2098#小石镇#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "2262#55224#2091#太初#0#0#0#19#1019#"
+- raw: "2262#55224#2091#太初#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "太初"
     translated: "Primordial Origin"
-- raw: "2263#55224#2110#望尘客栈#0#0#0#10#1010#"
+- raw: "2263#55224#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "2264#55224#2093#长旌军营地#0#0#0#17#1017#"
+- raw: "2264#55224#2093#长旌军营地#0#0#1000#17#1017#"
   splits:
   - split: 3
     text: "长旌军营地"
     translated: "Long Standard Army Camp"
-- raw: "2265#55224#2100#云潇码头#0#0#0#13#1013#"
+- raw: "2265#55224#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
     text: "云潇码头"
     translated: "Yun Xiao Port"
-- raw: "2266#55224#55201#嵩室山#0#0#0#6#1006#"
+- raw: "2266#55224#55201#嵩室山#0#0#1000#6#1006#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "2267#55224#55202#砚溪山庄#0#0#0#2#1002#"
+- raw: "2267#55224#55202#砚溪山庄#0#0#1000#2#1002#"
   splits:
   - split: 3
     text: "砚溪山庄"
     translated: "Ink Stream Mountain Villa"
-- raw: "2268#55224#55203#清玉门#0#0#0#14#1014#"
+- raw: "2268#55224#55203#清玉门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "清玉门"
     translated: "Pure Jade Gate"
-- raw: "2269#55224#55204#大雪山#0#0#0#4#1004#"
+- raw: "2269#55224#55204#大雪山#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "大雪山"
     translated: "Great Snow Mountain"
-- raw: "2270#55224#55205#麓山书院#0#0#0#19#1019#"
+- raw: "2270#55224#55205#麓山书院#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "麓山书院"
     translated: "Mount Lu Academy"
-- raw: "2271#55224#55206#昭月宗#0#0#0#14#1014#"
+- raw: "2271#55224#55206#昭月宗#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "昭月宗"
     translated: "Bright Moon Clan"
-- raw: "2272#55224#55207#穆特族#0#0#0#16#1016#"
+- raw: "2272#55224#55207#穆特族#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "穆特族"
     translated: "Mu Te Tribe"
-- raw: "2273#55224#55208#信陵宗#0#0#0#4#1004#"
+- raw: "2273#55224#55208#信陵宗#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "信陵宗"
     translated: "Xinling Sect"
-- raw: "2274#55224#55209#丐门#0#0#0#7#1007#"
+- raw: "2274#55224#55209#丐门#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "丐门"
     translated: "Beggar Sect"
-- raw: "2275#55224#55210#捭阖谷#0#0#0#7#1007#"
+- raw: "2275#55224#55210#捭阖谷#0#0#1000#7#1007#"
   splits:
   - split: 3
     text: "捭阖谷"
     translated: "Baihe Valley"
-- raw: "2276#55224#55211#神兵山庄#0#0#0#19#1019#"
+- raw: "2276#55224#55211#神兵山庄#0#0#1000#19#1019#"
   splits:
   - split: 3
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
-- raw: "2277#55224#55212#楚军#0#0#0#5#1005#"
+- raw: "2277#55224#55212#楚军#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "楚军"
     translated: "Chu army"
-- raw: "2278#55224#55213#齐军#0#0#0#4#1004#"
+- raw: "2278#55224#55213#齐军#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "齐军"
     translated: "Qi Army"
-- raw: "2279#55224#55214#遥雪峰#0#0#0#4#1004#"
+- raw: "2279#55224#55214#遥雪峰#0#0#1000#4#1004#"
   splits:
   - split: 3
     text: "遥雪峰"
     translated: "Distant Snow Peak"
-- raw: "2280#55224#55215#朔海派#0#0#0#12#1012#"
+- raw: "2280#55224#55215#朔海派#0#0#1000#12#1012#"
   splits:
   - split: 3
     text: "朔海派"
     translated: "North Sea Sect"
-- raw: "2281#55224#55216#泠香坞#0#0#0#20#1020#"
+- raw: "2281#55224#55216#泠香坞#0#0#1000#20#1020#"
   splits:
   - split: 3
     text: "泠香坞"
     translated: "Cold Fragrance Cove"
-- raw: "2282#55224#55217#黑沙寨#0#0#0#16#1016#"
+- raw: "2282#55224#55217#黑沙寨#0#0#1000#16#1016#"
   splits:
   - split: 3
     text: "黑沙寨"
     translated: "Black Sand Stronghold"
-- raw: "2283#55224#55218#拂松门#0#0#0#3#1003#"
+- raw: "2283#55224#55218#拂松门#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "拂松门"
     translated: "Pine Brushing Gate"
-- raw: "2284#55224#55219#岭花谷#0#0#0#3#1003#"
+- raw: "2284#55224#55219#岭花谷#0#0#1000#3#1003#"
   splits:
   - split: 3
     text: "岭花谷"
     translated: "Ridge Flower Valley"
-- raw: "2285#55224#55220#鸿月派#0#0#0#8#1008#"
+- raw: "2285#55224#55220#鸿月派#0#0#1000#8#1008#"
   splits:
   - split: 3
     text: "鸿月派"
     translated: "Grand Moon Sect"
-- raw: "2286#55224#55221#普贤门#0#0#0#14#1014#"
+- raw: "2286#55224#55221#普贤门#0#0#1000#14#1014#"
   splits:
   - split: 3
     text: "普贤门"
     translated: "Universal Virtue Gate"
-- raw: "2287#55224#55222#爻光谷#0#0#0#5#1005#"
+- raw: "2287#55224#55222#爻光谷#0#0#1000#5#1005#"
   splits:
   - split: 3
     text: "爻光谷"
     translated: "Light of Divination Valley"
-- raw: "2288#55224#55223#不夜京#0#0#0#9#1009#"
+- raw: "2288#55224#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
     text: "不夜京"
     translated: "Evernight Capital"
-- raw: "2289#55224#2092#御虚门###0#19#1019#"
+- raw: "2289#55224#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "2290#55224#2096#枰栌北###0#16#1016#"
+- raw: "2290#55224#2096#枰栌北###1000#16#1016#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "2291#55224#2102#法华村###0#4#1004#"
+- raw: "2291#55224#2102#法华村###1000#4#1004#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "2292#55224#2105#淮陵西###0#4#1004#"
+- raw: "2292#55224#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "2293#55224#2106#重天外滩###0#12#1012#"
+- raw: "2293#55224#2106#重天外滩###1000#12#1012#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "2294#55224#2107#太初驿站###0#20#1020#"
+- raw: "2294#55224#2107#太初驿站###1000#20#1020#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "2300#55201#55225#监牢岛#0&3|80044|1##0#18#1018#"
+- raw: "2300#55201#55225#监牢岛#0&3|80044|1##1000#18#1018#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2301#55202#55225#监牢岛#0&3|80044|1##0#12#1012#"
+- raw: "2301#55202#55225#监牢岛#0&3|80044|1##1000#12#1012#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2302#55203#55225#监牢岛#0&3|80044|1##0#19#1019#"
+- raw: "2302#55203#55225#监牢岛#0&3|80044|1##1000#19#1019#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2303#55204#55225#监牢岛#0&3|80044|1##0#10#1010#"
+- raw: "2303#55204#55225#监牢岛#0&3|80044|1##1000#10#1010#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2304#55205#55225#监牢岛#0&3|80044|1##0#17#1017#"
+- raw: "2304#55205#55225#监牢岛#0&3|80044|1##1000#17#1017#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2305#55206#55225#监牢岛#0&3|80044|1##0#13#1013#"
+- raw: "2305#55206#55225#监牢岛#0&3|80044|1##1000#13#1013#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2306#55207#55225#监牢岛#0&3|80044|1##0#6#1006#"
+- raw: "2306#55207#55225#监牢岛#0&3|80044|1##1000#6#1006#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2307#55208#55225#监牢岛#0&3|80044|1##0#2#1002#"
+- raw: "2307#55208#55225#监牢岛#0&3|80044|1##1000#2#1002#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2308#55209#55225#监牢岛#0&3|80044|1##0#14#1014#"
+- raw: "2308#55209#55225#监牢岛#0&3|80044|1##1000#14#1014#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2309#55210#55225#监牢岛#0&3|80044|1##0#4#1004#"
+- raw: "2309#55210#55225#监牢岛#0&3|80044|1##1000#4#1004#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2310#55211#55225#监牢岛#0&3|80044|1##0#19#1019#"
+- raw: "2310#55211#55225#监牢岛#0&3|80044|1##1000#19#1019#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2311#55212#55225#监牢岛#0&3|80044|1##0#14#1014#"
+- raw: "2311#55212#55225#监牢岛#0&3|80044|1##1000#14#1014#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2312#55213#55225#监牢岛#0&3|80044|1##0#16#1016#"
+- raw: "2312#55213#55225#监牢岛#0&3|80044|1##1000#16#1016#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2313#55214#55225#监牢岛#0&3|80044|1##0#4#1004#"
+- raw: "2313#55214#55225#监牢岛#0&3|80044|1##1000#4#1004#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2314#55215#55225#监牢岛#0&3|80044|1##0#7#1007#"
+- raw: "2314#55215#55225#监牢岛#0&3|80044|1##1000#7#1007#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2315#55216#55225#监牢岛#0&3|80044|1##0#7#1007#"
+- raw: "2315#55216#55225#监牢岛#0&3|80044|1##1000#7#1007#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2316#55217#55225#监牢岛#0&3|80044|1##0#19#1019#"
+- raw: "2316#55217#55225#监牢岛#0&3|80044|1##1000#19#1019#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2317#55218#55225#监牢岛#0&3|80044|1##0#5#1005#"
+- raw: "2317#55218#55225#监牢岛#0&3|80044|1##1000#5#1005#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2318#55219#55225#监牢岛#0&3|80044|1##0#4#1004#"
+- raw: "2318#55219#55225#监牢岛#0&3|80044|1##1000#4#1004#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2319#55220#55225#监牢岛#0&3|80044|1##0#4#1004#"
+- raw: "2319#55220#55225#监牢岛#0&3|80044|1##1000#4#1004#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2320#55221#55225#监牢岛#0&3|80044|1##0#12#1012#"
+- raw: "2320#55221#55225#监牢岛#0&3|80044|1##1000#12#1012#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2321#55222#55225#监牢岛#0&3|80044|1##0#20#1020#"
+- raw: "2321#55222#55225#监牢岛#0&3|80044|1##1000#20#1020#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2322#55223#55225#监牢岛#0&3|80044|1##0#16#1016#"
+- raw: "2322#55223#55225#监牢岛#0&3|80044|1##1000#16#1016#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2323#55224#55225#监牢岛#0&3|80044|1##0#3#1003#"
+- raw: "2323#55224#55225#监牢岛#0&3|80044|1##1000#3#1003#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2324#2090#55225#监牢岛#0&3|80044|1##0#3#1003#"
+- raw: "2324#2090#55225#监牢岛#0&3|80044|1##1000#3#1003#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2325#2091#55225#监牢岛#0&3|80044|1##0#8#1008#"
+- raw: "2325#2091#55225#监牢岛#0&3|80044|1##1000#8#1008#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2326#2092#55225#监牢岛#0&3|80044|1##0#14#1014#"
+- raw: "2326#2092#55225#监牢岛#0&3|80044|1##1000#14#1014#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2327#2093#55225#监牢岛#0&3|80044|1##0#5#1005#"
+- raw: "2327#2093#55225#监牢岛#0&3|80044|1##1000#5#1005#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2328#2094#55225#监牢岛#0&3|80044|1##0#9#1009#"
+- raw: "2328#2094#55225#监牢岛#0&3|80044|1##1000#9#1009#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2329#2095#55225#监牢岛#0&3|80044|1##0#19#1019#"
+- raw: "2329#2095#55225#监牢岛#0&3|80044|1##1000#19#1019#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2330#2096#55225#监牢岛#0&3|80044|1##0#16#1016#"
+- raw: "2330#2096#55225#监牢岛#0&3|80044|1##1000#16#1016#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2331#2097#55225#监牢岛#0&3|80044|1##0#4#1004#"
+- raw: "2331#2097#55225#监牢岛#0&3|80044|1##1000#4#1004#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2332#2098#55225#监牢岛#0&3|80044|1##0#4#1004#"
+- raw: "2332#2098#55225#监牢岛#0&3|80044|1##1000#4#1004#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2333#2099#55225#监牢岛#0&3|80044|1##0#12#1012#"
+- raw: "2333#2099#55225#监牢岛#0&3|80044|1##1000#12#1012#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2334#2100#55225#监牢岛#0&3|80044|1##0#20#1020#"
+- raw: "2334#2100#55225#监牢岛#0&3|80044|1##1000#20#1020#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2335#2101#55225#监牢岛#0&3|80044|1##0#18#1018#"
+- raw: "2335#2101#55225#监牢岛#0&3|80044|1##1000#18#1018#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2336#2102#55225#监牢岛#0&3|80044|1##0#12#1012#"
+- raw: "2336#2102#55225#监牢岛#0&3|80044|1##1000#12#1012#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2337#2103#55225#监牢岛#0&3|80044|1##0#19#1019#"
+- raw: "2337#2103#55225#监牢岛#0&3|80044|1##1000#19#1019#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2338#2104#55225#监牢岛#0&3|80044|1##0#10#1010#"
+- raw: "2338#2104#55225#监牢岛#0&3|80044|1##1000#10#1010#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2339#2105#55225#监牢岛#0&3|80044|1##0#17#1017#"
+- raw: "2339#2105#55225#监牢岛#0&3|80044|1##1000#17#1017#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2340#2106#55225#监牢岛#0&3|80044|1##0#13#1013#"
+- raw: "2340#2106#55225#监牢岛#0&3|80044|1##1000#13#1013#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2341#2107#55225#监牢岛#0&3|80044|1##0#6#1006#"
+- raw: "2341#2107#55225#监牢岛#0&3|80044|1##1000#6#1006#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2342#2108#55225#监牢岛#0&3|80044|1##0#2#1002#"
+- raw: "2342#2108#55225#监牢岛#0&3|80044|1##1000#2#1002#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2343#2109#55225#监牢岛#0&3|80044|1##0#14#1014#"
+- raw: "2343#2109#55225#监牢岛#0&3|80044|1##1000#14#1014#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2344#2110#55225#监牢岛#0&3|80044|1##0#4#1004#"
+- raw: "2344#2110#55225#监牢岛#0&3|80044|1##1000#4#1004#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2345#2111#55225#监牢岛#0&3|80044|1##0#19#1019#"
+- raw: "2345#2111#55225#监牢岛#0&3|80044|1##1000#19#1019#"
   splits:
   - split: 3
     text: "监牢岛"
     translated: "Prison Island"
-- raw: "2350#55225#55201#嵩室山###0#14#1014#"
+- raw: "2350#55225#55201#嵩室山###1000#14#1014#"
   splits:
   - split: 3
     text: "嵩室山"
     translated: "Songshi Mountain"
-- raw: "2351#55225#55202#砚溪山庄###0#16#1016#"
+- raw: "2351#55225#55202#砚溪山庄###1000#16#1016#"
   splits:
   - split: 3
     text: "砚溪山庄"
     translated: "Ink Stream Mountain Villa"
-- raw: "2352#55225#55203#清玉门###0#4#1004#"
+- raw: "2352#55225#55203#清玉门###1000#4#1004#"
   splits:
   - split: 3
     text: "清玉门"
     translated: "Pure Jade Gate"
-- raw: "2353#55225#55204#大雪山###0#7#1007#"
+- raw: "2353#55225#55204#大雪山###1000#7#1007#"
   splits:
   - split: 3
     text: "大雪山"
     translated: "Great Snow Mountain"
-- raw: "2354#55225#55205#麓山书院###0#7#1007#"
+- raw: "2354#55225#55205#麓山书院###1000#7#1007#"
   splits:
   - split: 3
     text: "麓山书院"
     translated: "Mount Lu Academy"
-- raw: "2355#55225#55206#昭月宗###0#19#1019#"
+- raw: "2355#55225#55206#昭月宗###1000#19#1019#"
   splits:
   - split: 3
     text: "昭月宗"
     translated: "Bright Moon Clan"
-- raw: "2356#55225#55207#穆特族###0#5#1005#"
+- raw: "2356#55225#55207#穆特族###1000#5#1005#"
   splits:
   - split: 3
     text: "穆特族"
     translated: "Mu Te Tribe"
-- raw: "2357#55225#55208#信陵宗###0#4#1004#"
+- raw: "2357#55225#55208#信陵宗###1000#4#1004#"
   splits:
   - split: 3
     text: "信陵宗"
     translated: "Xinling Sect"
-- raw: "2358#55225#55209#丐门###0#4#1004#"
+- raw: "2358#55225#55209#丐门###1000#4#1004#"
   splits:
   - split: 3
     text: "丐门"
     translated: "Beggar Sect"
-- raw: "2359#55225#55210#捭阖谷###0#12#1012#"
+- raw: "2359#55225#55210#捭阖谷###1000#12#1012#"
   splits:
   - split: 3
     text: "捭阖谷"
     translated: "Baihe Valley"
-- raw: "2360#55225#55211#神兵山庄###0#20#1020#"
+- raw: "2360#55225#55211#神兵山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
-- raw: "2361#55225#55212#楚军###0#16#1016#"
+- raw: "2361#55225#55212#楚军###1000#16#1016#"
   splits:
   - split: 3
     text: "楚军"
     translated: "Chu army"
-- raw: "2362#55225#55213#齐军###0#3#1003#"
+- raw: "2362#55225#55213#齐军###1000#3#1003#"
   splits:
   - split: 3
     text: "齐军"
     translated: "Qi Army"
-- raw: "2363#55225#55214#遥雪峰###0#3#1003#"
+- raw: "2363#55225#55214#遥雪峰###1000#3#1003#"
   splits:
   - split: 3
     text: "遥雪峰"
     translated: "Distant Snow Peak"
-- raw: "2364#55225#55215#朔海派###0#8#1008#"
+- raw: "2364#55225#55215#朔海派###1000#8#1008#"
   splits:
   - split: 3
     text: "朔海派"
     translated: "North Sea Sect"
-- raw: "2365#55225#55216#泠香坞###0#14#1014#"
+- raw: "2365#55225#55216#泠香坞###1000#14#1014#"
   splits:
   - split: 3
     text: "泠香坞"
     translated: "Cold Fragrance Cove"
-- raw: "2366#55225#55217#黑沙寨###0#5#1005#"
+- raw: "2366#55225#55217#黑沙寨###1000#5#1005#"
   splits:
   - split: 3
     text: "黑沙寨"
     translated: "Black Sand Stronghold"
-- raw: "2367#55225#55218#拂松门###0#9#1009#"
+- raw: "2367#55225#55218#拂松门###1000#9#1009#"
   splits:
   - split: 3
     text: "拂松门"
     translated: "Pine Brushing Gate"
-- raw: "2368#55225#55219#岭花谷###0#19#1019#"
+- raw: "2368#55225#55219#岭花谷###1000#19#1019#"
   splits:
   - split: 3
     text: "岭花谷"
     translated: "Ridge Flower Valley"
-- raw: "2369#55225#55220#鸿月派###0#16#1016#"
+- raw: "2369#55225#55220#鸿月派###1000#16#1016#"
   splits:
   - split: 3
     text: "鸿月派"
     translated: "Grand Moon Sect"
-- raw: "2370#55225#55221#普贤门###0#4#1004#"
+- raw: "2370#55225#55221#普贤门###1000#4#1004#"
   splits:
   - split: 3
     text: "普贤门"
     translated: "Universal Virtue Gate"
-- raw: "2371#55225#55222#爻光谷###0#4#1004#"
+- raw: "2371#55225#55222#爻光谷###1000#4#1004#"
   splits:
   - split: 3
     text: "爻光谷"
     translated: "Light of Divination Valley"
-- raw: "2372#55225#55223#不夜京###0#12#1012#"
+- raw: "2372#55225#55223#不夜京###1000#12#1012#"
   splits:
   - split: 3
     text: "不夜京"
     translated: "Evernight Capital"
-- raw: "2373#55225#55224#玉沙关###0#20#1020#"
+- raw: "2373#55225#55224#玉沙关###1000#20#1020#"
   splits:
   - split: 3
     text: "玉沙关"
     translated: "Jade Sand Pass"
-- raw: "2374#55225#2090#云鹤村###0#18#1018#"
+- raw: "2374#55225#2090#云鹤村###1000#18#1018#"
   splits:
   - split: 3
     text: "云鹤村"
     translated: "Cloud Crane Village"
-- raw: "2375#55225#2091#太初剑宗###0#12#1012#"
+- raw: "2375#55225#2091#太初剑宗###1000#12#1012#"
   splits:
   - split: 3
     text: "太初剑宗"
     translated: "Primordial Origin Sword Sect"
-- raw: "2376#55225#2092#御虚门###0#19#1019#"
+- raw: "2376#55225#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
     text: "御虚门"
     translated: "Imperial Void Gate"
-- raw: "2377#55225#2093#长旌军###0#10#1010#"
+- raw: "2377#55225#2093#长旌军###1000#10#1010#"
   splits:
   - split: 3
     text: "长旌军"
     translated: "Long Standard Army"
-- raw: "2378#55225#2094#枰栌南###0#17#1017#"
+- raw: "2378#55225#2094#枰栌南###1000#17#1017#"
   splits:
   - split: 3
     text: "枰栌南"
     translated: "Pinglu South"
-- raw: "2379#55225#2095#枰栌西###0#13#1013#"
+- raw: "2379#55225#2095#枰栌西###1000#13#1013#"
   splits:
   - split: 3
     text: "枰栌西"
-    translated: "Pinglu to the west"
-- raw: "2380#55225#2096#枰栌北###0#6#1006#"
+    translated: "Pinglu West"
+- raw: "2380#55225#2096#枰栌北###1000#6#1006#"
   splits:
   - split: 3
     text: "枰栌北"
     translated: "Pinglu North"
-- raw: "2381#55225#2097#枰栌外城###0#2#1002#"
+- raw: "2381#55225#2097#枰栌外城###1000#2#1002#"
   splits:
   - split: 3
     text: "枰栌外城"
     translated: "Outer City of Pinglu"
-- raw: "2382#55225#2098#小石镇###0#14#1014#"
+- raw: "2382#55225#2098#小石镇###1000#14#1014#"
   splits:
   - split: 3
     text: "小石镇"
     translated: "Little Stone Town"
-- raw: "2385#55225#2101#云潇山庄###0#4#1004#"
+- raw: "2385#55225#2101#云潇山庄###1000#4#1004#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2386#55225#2102#法华村###0#19#1019#"
+- raw: "2386#55225#2102#法华村###1000#19#1019#"
   splits:
   - split: 3
     text: "法华村"
     translated: "Dharma Blossom Village"
-- raw: "2387#55225#2103#淮陵北###0#14#1014#"
+- raw: "2387#55225#2103#淮陵北###1000#14#1014#"
   splits:
   - split: 3
     text: "淮陵北"
     translated: "Huailing North"
-- raw: "2388#55225#2104#淮陵南###0#16#1016#"
+- raw: "2388#55225#2104#淮陵南###1000#16#1016#"
   splits:
   - split: 3
     text: "淮陵南"
     translated: "Huailing South"
-- raw: "2389#55225#2105#淮陵西###0#4#1004#"
+- raw: "2389#55225#2105#淮陵西###1000#4#1004#"
   splits:
   - split: 3
     text: "淮陵西"
     translated: "Huailing West"
-- raw: "2390#55225#2106#重天外滩###0#7#1007#"
+- raw: "2390#55225#2106#重天外滩###1000#7#1007#"
   splits:
   - split: 3
     text: "重天外滩"
     translated: "Zhong Tian Wa Tan"
-- raw: "2391#55225#2107#太初驿站###0#7#1007#"
+- raw: "2391#55225#2107#太初驿站###1000#7#1007#"
   splits:
   - split: 3
     text: "太初驿站"
     translated: "Primordial Origin Inn"
-- raw: "2392#55225#2108#雁州南###0#19#1019#"
+- raw: "2392#55225#2108#雁州南###1000#19#1019#"
   splits:
   - split: 3
     text: "雁州南"
     translated: "Yan Prefecture South"
-- raw: "2393#55225#2109#雁州北###0#5#1005#"
+- raw: "2393#55225#2109#雁州北###1000#5#1005#"
   splits:
   - split: 3
     text: "雁州北"
     translated: "North of Yan Prefecture"
-- raw: "2394#55225#2110#望尘客栈###0#4#1004#"
+- raw: "2394#55225#2110#望尘客栈###1000#4#1004#"
   splits:
   - split: 3
     text: "望尘客栈"
     translated: "Whispering Dust Inn"
-- raw: "2395#55225#2111#豫京南###0#4#1004#"
+- raw: "2395#55225#2111#豫京南###1000#4#1004#"
   splits:
   - split: 3
     text: "豫京南"
     translated: "South of the Yu Capital"
-- raw: "2400#2102#2101#云潇山庄###0#2#1002#"
+- raw: "2400#2102#2101#云潇山庄###1000#2#1002#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2401#2105#2101#云潇山庄###0#20#1020#"
+- raw: "2401#2105#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2402#2092#2101#云潇山庄###0#9#1009#"
+- raw: "2402#2092#2101#云潇山庄###1000#9#1009#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2403#2108#2101#云潇山庄###0#16#1016#"
+- raw: "2403#2108#2101#云潇山庄###1000#16#1016#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2404#2109#2101#云潇山庄###0#16#1016#"
+- raw: "2404#2109#2101#云潇山庄###1000#16#1016#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2405#2110#2101#云潇山庄###0#17#1017#"
+- raw: "2405#2110#2101#云潇山庄###1000#17#1017#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2406#2111#2101#云潇山庄###0#9#1009#"
+- raw: "2406#2111#2101#云潇山庄###1000#9#1009#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2407#2091#2101#云潇山庄###0#9#1009#"
+- raw: "2407#2091#2101#云潇山庄###1000#9#1009#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2408#2093#2101#云潇山庄###0#9#1009#"
+- raw: "2408#2093#2101#云潇山庄###1000#9#1009#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2409#55201#2101#云潇山庄###0#20#1020#"
+- raw: "2409#55201#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2410#55202#2101#云潇山庄###0#20#1020#"
+- raw: "2410#55202#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2411#55203#2101#云潇山庄###0#20#1020#"
+- raw: "2411#55203#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2412#55204#2101#云潇山庄###0#9#1009#"
+- raw: "2412#55204#2101#云潇山庄###1000#9#1009#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2413#55204#2101#云潇山庄###0#20#1020#"
+- raw: "2413#55204#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2414#55205#2101#云潇山庄###0#20#1020#"
+- raw: "2414#55205#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2415#55206#2101#云潇山庄###0#20#1020#"
+- raw: "2415#55206#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2416#55207#2101#云潇山庄###0#20#1020#"
+- raw: "2416#55207#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2417#55208#2101#云潇山庄###0#20#1020#"
+- raw: "2417#55208#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2418#55209#2101#云潇山庄###0#20#1020#"
+- raw: "2418#55209#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2419#55210#2101#云潇山庄###0#20#1020#"
+- raw: "2419#55210#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2420#55211#2101#云潇山庄###0#20#1020#"
+- raw: "2420#55211#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2421#55212#2101#云潇山庄###0#20#1020#"
+- raw: "2421#55212#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2422#55213#2101#云潇山庄###0#20#1020#"
+- raw: "2422#55213#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2423#55214#2101#云潇山庄###0#20#1020#"
+- raw: "2423#55214#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2424#55215#2101#云潇山庄###0#20#1020#"
+- raw: "2424#55215#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2425#55216#2101#云潇山庄###0#20#1020#"
+- raw: "2425#55216#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2426#55217#2101#云潇山庄###0#20#1020#"
+- raw: "2426#55217#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2427#55218#2101#云潇山庄###0#20#1020#"
+- raw: "2427#55218#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2428#55219#2101#云潇山庄###0#20#1020#"
+- raw: "2428#55219#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2429#55220#2101#云潇山庄###0#20#1020#"
+- raw: "2429#55220#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2430#55221#2101#云潇山庄###0#20#1020#"
+- raw: "2430#55221#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2431#55222#2101#云潇山庄###0#20#1020#"
+- raw: "2431#55222#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2432#55223#2101#云潇山庄###0#20#1020#"
+- raw: "2432#55223#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"
     translated: "Cloudy Breeze Mountain Villa"
-- raw: "2433#55224#2101#云潇山庄###0#20#1020#"
+- raw: "2433#55224#2101#云潇山庄###1000#20#1020#"
   splits:
   - split: 3
     text: "云潇山庄"

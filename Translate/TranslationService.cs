@@ -29,7 +29,10 @@ public static class TranslationService
             //new() {Path = "custom_data.txt", Output = true, OutputRawResource = true},
             //new() {Path = "born_points.txt", Output = true},
             //new() {Path = "emoji.txt", PackageOutput = true},
-            
+            new() {Path = "dlc_prototype.txt", PackageOutput = true },
+            new() {Path = "dlcinfo.txt", PackageOutput = true },
+            new() {Path = "dlc_data.txt", PackageOutput = true },
+
             new() {Path = "achievement.txt", PackageOutput = true},
             new() {Path = "achievement_xianejianghu.txt", PackageOutput = true},
             new() {Path = "achievement_zhenshijianghu.txt", PackageOutput = true},
@@ -39,9 +42,7 @@ public static class TranslationService
             new() {Path = "condition_group.txt", PackageOutput = true},
             new() {Path = "condition_show_anim.txt", PackageOutput = true},
             new() {Path = "dumpedPrefabText.txt", TextFileType = TextFileType.PrefabText, AllowMissingColorTags = false},
-            new() {Path = "dlcinfo.txt", PackageOutput = true },
-            new() {Path = "dlc_data.txt", PackageOutput = true },
-            new() {Path = "dlc_prototype.txt", PackageOutput = true },
+            
             new() {Path = "dynamicStrings.txt", TextFileType = TextFileType.DynamicStrings, AllowMissingColorTags = false},
             new() {Path = "entrust_event_prototype.txt", PackageOutput = true},
             new() {Path = "fuben_prototype.txt", PackageOutput = true},

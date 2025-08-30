@@ -1461,7 +1461,7 @@
   - split: 14
     text: "淮陵古道长，风烟述往事，一纸抚时光，故人话桑麻。"
     translated: "Huailing's ancient road is long and full of history. With the smoke of past tales recounted, it brushes through time on a single scroll. Old friends speak of mulberry trees and hemp, sharing their stories."
-- raw: "200#铲除恶吏#1#3#200#1#10#60010|1;18007|1;18115|1#1&27|2032|1;27|2032|0#击败总兵##200#0#0#铲恶显忠义，剑光四射辉。正气满天下，邪不胜正归。#0#0#1#"
+- raw: "200#铲除恶吏#1#3#200#1#10#60010|1;18007|1;18115|1#1&27|2032|1;27|2032|0;27|6898|0;27|6898|1#击败总兵##200#0#0#铲恶显忠义，剑光四射辉。正气满天下，邪不胜正归。#1#0#1#"
   splits:
   - split: 1
     text: "铲除恶吏"
@@ -1516,7 +1516,7 @@
   - split: 14
     text: "挑战强敌胜，勇往直前行。一剑定高下，名扬四海声。"
     translated: "Challenge the strong to achieve victory; move forward with courage. A single sword stroke determines supremacy; make your name known across the seas."
-- raw: "205#击败杨恒#1#3#205#1#10#60010|2;54002|2;18103|1#1&27|15003|1;27|15003|0#击败杨恒##300#0#0#风云会战场，英勇斗狂澜。力破强敌阵，誉满武林传。#0#0#1#"
+- raw: "205#击败杨恒#1#3#205#1#10#60010|2;54002|2;18103|1#1&27|15003|1;27|15003|0#击败杨恒##300#0#0#风云会战场，英勇斗狂澜。力破强敌阵，誉满武林传。#1#0#1#"
   splits:
   - split: 1
     text: "击败杨恒"
@@ -1549,7 +1549,7 @@
   - split: 14
     text: "煞神遇真命，剑下魂归宁。清风拂山谷，正气净天地。"
     translated: "The immortal spirit encounters true fate; under the sword's influence, souls return home. A clear breeze sweeps through the mountains and valleys, purifying the earth and heavens with righteous energy."
-- raw: "208#击败百槐涯#1#3#208#1#10#60004|2;54010|2;18099|1#1&27|20032|1;27|20032|0#击败百槐涯##400#0#0#强敌亦降伏，英姿独领风。剑舞凌乱云，威名传千古。#0#0#2#"
+- raw: "208#击败百槐涯#1#3#208#1#10#60004|2;54010|2;18099|1#1&27|20032|1;27|20032|0#击败百槐涯##400#0#0#强敌亦降伏，英姿独领风。剑舞凌乱云，威名传千古。#1#0#2#"
   splits:
   - split: 1
     text: "击败百槐涯"
@@ -1560,7 +1560,7 @@
   - split: 14
     text: "强敌亦降伏，英姿独领风。剑舞凌乱云，威名传千古。"
     translated: "Even formidable foes were vanquished, as their elegance stood unrivaled in the wind. Swordsmanship danced among chaotic clouds, a legacy that would echo through the ages."
-- raw: "209#雪河夫人#1#3#209#1#10#60004|2;54010|2;18104|1#1&27|15018|1;27|15018|0#击败雪河夫人##400#0#0#冰雪美人立，凛冽似寒河。一剑决雌雄，冷眸映雪色。#0#0#2#"
+- raw: "209#雪河夫人#1#3#209#1#10#60004|2;54010|2;18104|1#1&27|15018|1;27|15018|0#击败雪河夫人##400#0#0#冰雪美人立，凛冽似寒河。一剑决雌雄，冷眸映雪色。#1#0#2#"
   splits:
   - split: 1
     text: "雪河夫人"
@@ -1659,7 +1659,7 @@
   - split: 14
     text: "熊王遭挫败，力大山河移。英雄勇无畏，名传武林记。"
     translated: "The Bear King faced defeat; his mighty strength could not move mountains. The hero was fearless and brave, with a name recorded in the Martial World chronicles."
-- raw: "218#美人心蝎#1#3#218#1#10#54039|3;54435|1;18019|1#1&27|10029|1;27|10029|0#击败洛柔##500#0#0#美人藏心蝎，外柔内刚强。智勇双全展，绝代风华长。#0#0#2#"
+- raw: "218#美人心蝎#1#3#218#1#10#54039|3;54435|1;18019|1#1&27|10029|1;27|10029|0#击败洛柔##500#0#0#美人藏心蝎，外柔内刚强。智勇双全展，绝代风华长。#1#0#2#"
   splits:
   - split: 1
     text: "美人心蝎"
@@ -1681,7 +1681,7 @@
   - split: 14
     text: "艾里甫落败，英雄威名显。剑光如日出，独步天下间。"
     translated: "Alif's defeat has made his name famous as a hero. The swordlight is like the sunrise, unmatched across the world."
-- raw: "220#昭月圣兽#1#3#220#1#10#54039|3;54435|1;18021|1#1&27|35009|1;27|35009|0#击败昭月守护兽##500#0#0#昭月下圣兽，仙灵守夜空。光华溢四方，神秘护乾坤。#0#0#2#"
+- raw: "220#昭月圣兽#1#3#220#1#10#54039|3;54435|1;18021|1#1&27|35009|1;27|35009|0#击败昭月守护兽##500#0#0#昭月下圣兽，仙灵守夜空。光华溢四方，神秘护乾坤。#1#0#2#"
   splits:
   - split: 1
     text: "昭月圣兽"
@@ -1692,7 +1692,7 @@
   - split: 14
     text: "昭月下圣兽，仙灵守夜空。光华溢四方，神秘护乾坤。"
     translated: "In the month of Zhao, beneath the sacred beasts, celestial spirits guard the night sky. Radiance overflows in all directions, shrouding mysteries that protect the heavens and earth."
-- raw: "221#大漠霸主#1#3#221#1#10#54039|3;54435|1;18022|1#1&27|10075|1;27|10075|0#击败万步狼##500#0#0#大漠称霸主，独立沙海中。风沙中建业，英姿独一方。#0#0#2#"
+- raw: "221#大漠霸主#1#3#221#1#10#54039|3;54435|1;18022|1#1&27|10075|1;27|10075|0#击败万步狼##500#0#0#大漠称霸主，独立沙海中。风沙中建业，英姿独一方。#1#0#2#"
   splits:
   - split: 1
     text: "大漠霸主"
@@ -1813,7 +1813,7 @@
   - split: 14
     text: "力斗恶强敌，正义总胜邪。一剑定乾坤，英名誉四海。"
     translated: "Struggle against evil foes with strength; righteousness will always triumph over wickedness. With one sword, determine the fate of heaven and earth; earn a noble reputation across the seas."
-- raw: "232#阿勒亚斯#1#3#232#1#10#54436|1;54449|2;18037|1;60018|2#1&27|5756|1;27|5756|0#击败阿勒亚斯##700#0#0#迷雾中传说，神秘莫可寻。英雄破幻境，留名史册深。#0#0#4#"
+- raw: "232#阿勒亚斯#1#3#232#1#10#54436|1;54449|2;18037|1;60018|2#1&27|5756|1;27|5756|0#击败阿勒亚斯##700#0#0#迷雾中传说，神秘莫可寻。英雄破幻境，留名史册深。#1#0#4#"
   splits:
   - split: 1
     text: "阿勒亚斯"
@@ -1846,7 +1846,7 @@
   - split: 14
     text: "力战见真章，勇者无畏惧。天下无难事，正道永为依。"
     translated: "In battle, true character is revealed; the brave know no fear. There are no impossible tasks in the world, and righteousness will always be our guide."
-- raw: "235#击败郑万山#1#3#235#1#10#54436|1;54449|2;18040|1;60018|2#1&27|35022|1;27|35022|0#击败郑万山##700#0#0#挑战强敌胜，一剑决高下。天下英雄路，勇者独行天。#0#0#4#"
+- raw: "235#击败郑万山#1#3#235#1#10#54436|1;54449|2;18040|1;60018|2#1&27|35022|1;27|35022|0#击败郑万山##700#0#0#挑战强敌胜，一剑决高下。天下英雄路，勇者独行天。#1#0#4#"
   splits:
   - split: 1
     text: "击败郑万山"
@@ -1879,7 +1879,7 @@
   - split: 14
     text: "挑战之中胜，高山仰止敬。英雄独步天，万人之上名。"
     translated: "Triumph in the midst of challenges; look up to great mountains with reverence and respect. A hero stands alone under heaven, exalted above ten thousand others by name."
-- raw: "238#击败公孙坞#1#3#238#1#10#54464|1;54074|2;18043|1;60105|2#1&27|5512|1;27|5512|0#击败公孙坞##800#0#0#策略与勇斗，智破万难关。英雄留足迹，天地记英篇。#0#0#5#"
+- raw: "238#击败公孙坞#1#3#238#1#10#54464|1;54074|2;18043|1;60105|2#1&27|5512|1;27|5512|0#击败公孙坞##800#0#0#策略与勇斗，智破万难关。英雄留足迹，天地记英篇。#1#0#5#"
   splits:
   - split: 1
     text: "击败公孙坞"
@@ -1890,7 +1890,7 @@
   - split: 14
     text: "策略与勇斗，智破万难关。英雄留足迹，天地记英篇。"
     translated: "Strategy confronts bravery, wisdom overcomes countless obstacles. The hero leaves a lasting mark; the heavens and earth chronicle his epic tale."
-- raw: "239#击败姜朝#1#3#239#1#10#54464|1;54074|2;18044|1;60105|2#1&27|31043|1;27|31043|0#击败姜朝##800#0#0#挑战强敌胜，英勇展现力。剑光破虚空，正义恢复天。#0#0#5#"
+- raw: "239#击败姜朝#1#3#239#1#10#54464|1;54074|2;18044|1;60105|2#1&27|31043|1;27|31043|0#击败姜朝##800#0#0#挑战强敌胜，英勇展现力。剑光破虚空，正义恢复天。#1#0#5#"
   splits:
   - split: 1
     text: "击败姜朝"
@@ -1901,7 +1901,7 @@
   - split: 14
     text: "挑战强敌胜，英勇展现力。剑光破虚空，正义恢复天。"
     translated: "Confronting a formidable foe and emerging victorious showcases bravery. The sword's light pierces the void as justice is restored to heaven."
-- raw: "240#击败颜天晖#1#3#240#1#10#54464|1;54074|2;18045|1;60105|2#1&27|5446|1;27|5446|0#击败颜天晖##800#0#0#破敌显威名，光明正大中。一战成名立，勇者赢天下。#0#0#5#"
+- raw: "240#击败颜天晖#1#3#240#1#10#54464|1;54074|2;18045|1;60105|2#1&27|5446|1;27|5446|0#击败颜天晖##800#0#0#破敌显威名，光明正大中。一战成名立，勇者赢天下。#1#0#5#"
   splits:
   - split: 1
     text: "击败颜天晖"
@@ -1934,7 +1934,7 @@
   - split: 14
     text: "兵道展雄风，策略胜千里。铁血染战袍，英魂不灭志。"
     translated: "The display of martial prowess shows strength; strategic advantage prevails over a thousand miles. The battle garment stained with iron blood, the spirit of valor will not perish."
-- raw: "243#重天之主#1#3#243#1#10#54464|1;54074|2;18125|1;60105|2#1&27|5511|1;27|5511|0#击败林一朝##800#0#0#主宰九重天，威仪凌云上。天地尽收眼，独步穹苍旁。#0#0#5#"
+- raw: "243#重天之主#1#3#243#1#10#54464|1;54074|2;18125|1;60105|2#1&27|5511|1;27|5511|0#击败林一朝##800#0#0#主宰九重天，威仪凌云上。天地尽收眼，独步穹苍旁。#1#0#5#"
   splits:
   - split: 1
     text: "重天之主"
@@ -1945,7 +1945,7 @@
   - split: 14
     text: "主宰九重天，威仪凌云上。天地尽收眼，独步穹苍旁。"
     translated: "Sovereign of the Nine Heavens, imposing majesty soaring above clouds. Encompasses all within sight, striding alone by the vast sky's edge."
-- raw: "244#击败素怀#1#3#244#1#10#54464|1;54074|2;18126|1;60105|2#1&27|5535|1;27|5535|0#击败素怀##800#0#0#激战终见胜，智勇破万难。真功不可挡，名传四海间。#0#0#5#"
+- raw: "244#击败素怀#1#3#244#1#10#54464|1;54074|2;18126|1;60105|2#1&27|5535|1;27|5535|0#击败素怀##800#0#0#激战终见胜，智勇破万难。真功不可挡，名传四海间。#1#0#5#"
   splits:
   - split: 1
     text: "击败素怀"
@@ -1956,7 +1956,7 @@
   - split: 14
     text: "激战终见胜，智勇破万难。真功不可挡，名传四海间。"
     translated: "Fierce battles are finally won through wisdom and bravery; true talent cannot be stopped, with fame spreading across the seas."
-- raw: "245#击败宗和#1#3#245#1#10#54465|1;54075|2;18127|1;60105|2#1&27|35056|1;27|35056|0#击败宗和##900#0#0#正义斗邪恶，勇者威名扬。一剑定乾坤，恶势力终降。#0#0#6#"
+- raw: "245#击败宗和#1#3#245#1#10#54465|1;54075|2;18127|1;60105|2#1&27|35056|1;27|35056|0#击败宗和##900#0#0#正义斗邪恶，勇者威名扬。一剑定乾坤，恶势力终降。#1#0#6#"
   splits:
   - split: 1
     text: "击败宗和"
@@ -1967,7 +1967,7 @@
   - split: 14
     text: "正义斗邪恶，勇者威名扬。一剑定乾坤，恶势力终降。"
     translated: "Justice fights evil; the brave's reputation spreads far and wide. With a single sword, they determine the fate of heaven and earth; the evil force is ultimately subdued."
-- raw: "246#冤家路窄#1#3#246#1#10#54465|1;54075|2;18128|1;60105|2#1&27|2121|1;27|2121|0#击败重刃##900#0#0#路遇故人来，宿怨今何处。剑下云风轻，旧恨随风去。#0#0#6#"
+- raw: "246#冤家路窄#1#3#246#1#10#54465|1;54075|2;18128|1;60105|2#1&27|2121|1;27|2121|0#击败重刃##900#0#0#路遇故人来，宿怨今何处。剑下云风轻，旧恨随风去。#1#0#6#"
   splits:
   - split: 1
     text: "冤家路窄"
@@ -12395,7 +12395,7 @@
   - split: 14
     text: "归雁剑诀长，雁归剑法藏。诀中有归途，剑指天边望。"
     translated: "The Yan Ge Secret of the Return Swallow Sword is long; the Returning Swallow Sword Technique conceals it. Within the secret lies a path home; with the sword pointed towards the horizon, one gazes into the sky."
-- raw: "80026#天行无字#1#3#80026#1#8#60010|3;18037|2;5040|6#0&94|102200;94|102210;94|102220;94|102230#对天行无字诀之武学精髓有所掌握##600#0#0#天行无字经，天道行无言。无字藏真诀，天意自然显。#0#0#3#"
+- raw: "80026#天行无字#1#3#80026#1#8#60010|3;18037|2;5040|6#0&94|102200#对天行无字诀之武学精髓有所掌握##600#0#0#天行无字经，天道行无言。无字藏真诀，天意自然显。#0#0#3#"
   splits:
   - split: 1
     text: "天行无字"
@@ -12406,7 +12406,7 @@
   - split: 14
     text: "天行无字经，天道行无言。无字藏真诀，天意自然显。"
     translated: "The Book of Celestial Characters contains no script; The Way of Heaven operates without speech. In the Art of Concealing Truth Lies the Scriptless, the Intentions of Heaven are naturally revealed."
-- raw: "80027#飞仙剑韵#1#3#80027#1#8#60010|3;18038|2;5041|6#0&94|102300;94|102310;94|102320;94|102330#对飞仙剑诀之武学精髓有所掌握##600#0#0#飞仙剑韵轻，剑舞飞仙步。韵律天地间，剑行若仙乐。#0#0#3#"
+- raw: "80027#飞仙剑韵#1#3#80027#1#8#60010|3;18038|2;5041|6#0&94|102300#对飞仙剑诀之武学精髓有所掌握##600#0#0#飞仙剑韵轻，剑舞飞仙步。韵律天地间，剑行若仙乐。#0#0#3#"
   splits:
   - split: 1
     text: "飞仙剑韵"
@@ -12417,7 +12417,7 @@
   - split: 14
     text: "飞仙剑韵轻，剑舞飞仙步。韵律天地间，剑行若仙乐。"
     translated: "The flight of the sword seems ethereal, its dance a celestial step. Its rhythm resonates through heaven and earth, as if playing heavenly music with every move."
-- raw: "80029#墨羽非攻#1#3#80029#1#8#60017|3;54402|4;9114|6#0&94|102500;94|102510;94|102520;94|102530#对非攻之武学精髓有所掌握##600#0#0#墨羽非攻道，墨染羽翼间。非攻守平和，墨羽护天涯。#0#0#3#"
+- raw: "80029#墨羽非攻#1#3#80029#1#8#60017|3;54402|4;9114|6#0&94|102500#对非攻之武学精髓有所掌握##600#0#0#墨羽非攻道，墨染羽翼间。非攻守平和，墨羽护天涯。#0#0#3#"
   splits:
   - split: 1
     text: "墨羽非攻"
@@ -12428,7 +12428,7 @@
   - split: 14
     text: "墨羽非攻道，墨染羽翼间。非攻守平和，墨羽护天涯。"
     translated: "Moyu adheres to the path of non‑aggression; Moran finds her wings within. The principles of non‑aggression uphold peace and harmony, as Moyu guards distant horizons."
-- raw: "80030#天下一剑#1#3#80030#1#8#60017|3;54407|4;9115|6#0&94|102600;94|102610;94|102620;94|102630#对天下第一剑之武学精髓有所掌握##600#0#0#天下一剑尊，剑出天下惊。一剑定乾坤，尊崇无上名。#0#0#3#"
+- raw: "80030#天下一剑#1#3#80030#1#8#60017|3;54407|4;9115|6#0&94|102600#对天下第一剑之武学精髓有所掌握##600#0#0#天下一剑尊，剑出天下惊。一剑定乾坤，尊崇无上名。#0#0#3#"
   splits:
   - split: 1
     text: "天下一剑"
