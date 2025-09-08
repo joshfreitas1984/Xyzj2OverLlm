@@ -39726,96 +39726,72 @@
   - split: 41
     text: "免费时装"
     translated: "Free fashion"
-- raw: "87001#免费剑特效1：碧波流云#6#2#14#16#0#1#0#1#0#0#jian7#8700101#0#8700102#0#3600#0#sfx_weapon_jian_Level1#1###0#0#0#0#0#0####0###0##0#0#0#0#免费福利#0#0#0#1#"
+- raw: "87001#免费剑特效1：碧波流云#6#2#14#16#0#1#0#1#0#0#jian7#8700101#0#8700102#0#3600#0#sfx_weapon_jian_Level1#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "免费剑特效1：碧波流云"
     translated: "Free sword special effect 1: Rippling Waters, Flowing Clouds"
-  - split: 41
-    text: "免费福利"
-    translated: "Free Benefit"
-- raw: "87002#付费剑特效2：冰魄寒光#6#2#14#16#0#1#0#1#0#0#jian7#8700201#0#8700202#0#3600#0#sfx_weapon_jian_Level2#1###0#0#0#0#0#0####0###0##0#0#0#0#DLC《舞弄太极》专属特效#0#0#0#1#"
+- raw: "87002#付费剑特效2：冰魄寒光#6#2#14#16#0#1#0#1#0#0#jian7#8700201#0#8700202#0#3600#0#sfx_weapon_jian_Level2#1###0#0#0#0#0#0####0###0####0##0##0#0#0#"
   splits:
   - split: 1
     text: "付费剑特效2：冰魄寒光"
     translated: "Pay‑for‑Feature Sword Special Effect 2: Ice Spirit Frost Radiance"
-  - split: 41
-    text: "DLC《舞弄太极》专属特效"
-    translated: "DLC Mastery of Tai Chi Exclusive Special Effects"
 - raw: "87003#激活码剑特效3：火麟剑#6#2#14#16#0#1#0#1#0#0#jian7#8700301#0#8700302#0#3600#0#sfx_weapon_jian#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "激活码剑特效3：火麟剑"
     translated: "Activate code for sword effect 3: Fire Dragon Sword"
-- raw: "87011#免费刀特效1：苍霞流转#6#3#14#16#0#1#0#1#0#0#dao7#8701101#0#8701102#0#3600#0#sfx_weapon_Dao_Level1#1###0#0#0#0#0#0####0###0##0#0#0#0#免费福利#0#0#0#1#"
+- raw: "87011#免费刀特效1：苍霞流转#6#3#14#16#0#1#0#1#0#0#dao7#8701101#0#8701102#0#3600#0#sfx_weapon_Dao_Level1#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "免费刀特效1：苍霞流转"
     translated: "Free knife effects 1: Cloudy Flow of Azure."
-  - split: 41
-    text: "免费福利"
-    translated: "Free Benefit"
-- raw: "87012#付费刀特效2：烈影斩风#6#3#14#16#0#1#0#1#0#0#dao7#8701201#0#8701202#0#3600#0#sfx_weapon_Dao_Level2#1###0#0#0#0#0#0####0###0##0#0#0#0#DLC《舞弄太极》专属特效#0#0#0#1#"
+- raw: "87012#付费刀特效2：烈影斩风#6#3#14#16#0#1#0#1#0#0#dao7#8701201#0#8701202#0#3600#0#sfx_weapon_Dao_Level2#1###0#0#0#0#0#0####0###0####0##0##0#0#0#"
   splits:
   - split: 1
     text: "付费刀特效2：烈影斩风"
     translated: "Pay for special effects for the 2 blade: Blazing Shadow Cuts Through the Wind."
-  - split: 41
-    text: "DLC《舞弄太极》专属特效"
-    translated: "DLC Mastery of Tai Chi Exclusive Special Effects"
-- raw: "87013#免费刀特效2：大夏龙雀#6#3#14#16#0#1#0#1#0#0#dao7#8701101#0#8701102#0#3600#0#sfx_weapon_effect_dao #1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#"
+- raw: "87013#免费刀特效2：大夏龙雀#6#3#14#16#0#1#0#1#0#0#dao7#8703101#0#8703102#0#3600#0#sfx_weapon_effect_dao #1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "免费刀特效2：大夏龙雀"
     translated: "Free sword effect 2: Dragon Quail of Great Xia"
-- raw: "87014#激活码特效4：北霸枪#6#3#14#16#0#1#0#1#0#0#dao7#8701101#0#8701102#0#3600#0#sfx_weapon_qiang#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#"
+- raw: "87014#激活码特效4：北霸枪#6#4#14#16#0#1#0#1#0#0#qiang2#8700305#0#8700306#0#3600#0#sfx_weapon_qiang#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "激活码特效4：北霸枪"
     translated: "Activation code effect 4: Northern Emperor's Spear"
-- raw: "87021#免费枪特效1：翠竹破风#6#4#14#16#0#1#0#1#0#0#qiang2#8702101#0#8702102#0#3600#0#sfx_weapon_Qiang_Level1#1###0#0#0#0#0#0####0###0##0#0#0#0#免费福利#0#0#0#1#"
+- raw: "87021#免费枪特效1：翠竹破风#6#4#14#16#0#1#0#1#0#0#qiang2#8702101#0#8702102#0#3600#0#sfx_weapon_Qiang_Level1#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "免费枪特效1：翠竹破风"
     translated: "Free spear effect 1: Cleaving Bamboo in a Windstorm"
-  - split: 41
-    text: "免费福利"
-    translated: "Free Benefit"
-- raw: "87022#付费枪特效2：雷霆九天#6#4#14#16#0#1#0#1#0#0#qiang2#8702201#0#8702202#0#3600#0#sfx_weapon_Qiang_Level2#1###0#0#0#0#0#0####0###0##0#0#0#0#DLC《舞弄太极》专属特效#0#0#0#1#"
+- raw: "87022#付费枪特效2：雷霆九天#6#4#14#16#0#1#0#1#0#0#qiang2#8702201#0#8702202#0#3600#0#sfx_weapon_Qiang_Level2#1###0#0#0#0#0#0####0###0####0##0##0#0#0#"
   splits:
   - split: 1
     text: "付费枪特效2：雷霆九天"
     translated: "Premium spear effect 2: Thundering Nine Heavens"
-  - split: 41
-    text: "DLC《舞弄太极》专属特效"
-    translated: "DLC Mastery of Tai Chi Exclusive Special Effects"
-- raw: "87023#免费枪特效2：丈八红缨#6#4#14#16#0#1#0#1#0#0#qiang2#8702101#0#8702102#0#3600#0#sfx_weapon_effect_qiang#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#"
+- raw: "87023#免费枪特效2：丈八红缨#6#4#14#16#0#1#0#1#0#0#qiang2#8701303#0#8701304#0#3600#0#sfx_weapon_effect_qiang#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "免费枪特效2：丈八红缨"
     translated: "Free spear effect 2: Dajiao Hongying"
-- raw: "87024#激活码特效4：小楼一夜听春雨#6#4#14#16#0#1#0#1#0#0#qiang2#8702101#0#8702102#0#3600#0#sfx_weapon_dao#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#"
+- raw: "87024#激活码特效4：小楼一夜听春雨#6#3#14#16#0#1#0#1#0#0#dao7#8700303#0#8700304#0#3600#0#sfx_weapon_dao#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "激活码特效4：小楼一夜听春雨"
     translated: "Activation Code Special Effect 4: In a small tower, spring rain is heard all through the night."
-- raw: "87031#免费拳特效1：明月凌波#6#5#14#16#0#1#0#1#0#0#shoutao4#8703101#0#8703102#0#3600#0#sfx_weapon_Boji_Level1#1###0#0#0#0#0#0####0###0##0#0#0#0#免费福利#0#0#0#1#"
+- raw: "87031#免费拳特效1：明月凌波#6#5#14#16#0#1#0#1#0#0#shoutao4#8701103#0#8701104##3600#0#sfx_weapon_Boji_Level1#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "免费拳特效1：明月凌波"
     translated: "Free special effect of martial arts technique 1: Gleaming Moon on the Rippling Waves"
-  - split: 41
-    text: "免费福利"
-    translated: "Free Benefit"
-- raw: "87032#付费拳特效2：烈焰罡气#6#5#14#16#0#1#0#1#0#0#shoutao4#8703201#0#8703202#0#3600#0#sfx_weapon_Boji_Level2#1###0#0#0#0#0#0####0###0##0#0#0#0#DLC《舞弄太极》专属特效#0#0#0#1#"
+- raw: "87032#付费拳特效2：烈焰罡气#6#5#14#16#0#1#0#1#0#0#shoutao4#8703201#0#8703202#0#3600#0#sfx_weapon_Boji_Level2#1###0#0#0#0#0#0####0###0####0##0##0#0#0#"
   splits:
   - split: 1
     text: "付费拳特效2：烈焰罡气"
     translated: "Paid martial arts special effect 2: Blazing inferno qi"
-  - split: 41
-    text: "DLC《舞弄太极》专属特效"
-    translated: "DLC Mastery of Tai Chi Exclusive Special Effects"
-- raw: "87034#激活码特效3：南斗拳#6#5#14#16#0#1#0#1#0#0#shoutao4#8703101#0#8703102#0#3600#0#sfx_weapon_quan#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#"
+- raw: "87034#激活码特效3：南斗拳#6#5#14#16#0#1#0#1#0#0#shoutao4#8700307#0#8700308#0#3600#0#sfx_weapon_quan#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "激活码特效3：南斗拳"

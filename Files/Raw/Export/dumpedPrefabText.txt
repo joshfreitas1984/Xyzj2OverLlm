@@ -7295,6 +7295,9 @@
 - raw: "草的密度"
   splits:
   - text: "草的密度"
+- raw: "启用2d血条"
+  splits:
+  - text: "启用2d血条"
 - raw: "打印日志"
   splits:
   - text: "打印日志"

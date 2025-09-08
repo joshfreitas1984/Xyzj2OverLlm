@@ -9724,6 +9724,10 @@
   splits:
   - text: "草的密度"
     translated: "Density of the grass"
+- raw: "启用2d血条"
+  splits:
+  - text: "启用2d血条"
+    translated: "Enable 2 damage health bar"
 - raw: "打印日志"
   splits:
   - text: "打印日志"

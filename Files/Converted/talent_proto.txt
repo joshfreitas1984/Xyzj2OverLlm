@@ -414,94 +414,94 @@
   - split: 2
     text: "一生自有逍遥福，安享富贵胜班超。天生获得庇佑，战斗中有一定几率会获得上苍庇佑，获得<color=e0834c>免疫伤害</color>的能力，同时还可以获得<color=e0834c>福气加成</color>。"
     translated: "A lifetime of leisure and fortune is better than surpassing Ban Chao in wealth. Naturally endowed with protection, there's a chance during battles to receive celestial favor, gaining immunity to damage while also earning luck bonuses."
-- raw: "53#散修传承#<color=4ccdf7>【来自山门与幻境】</color>父亲就是个散修，教会了他打不过就跑的修仙法则，闪避<color=e0834c>增加5%</color>。#0#10650#0#0#0#0#2#2|3|4#0##0#0#30#"
+- raw: "53#散修传承#父亲就是个散修，教会了他打不过就跑的修仙法则，闪避<color=e0834c>增加5%</color>。#0#10650#0#0#0#0#2#2|3|4#0##0#0#30#"
   splits:
   - split: 1
     text: "散修传承"
     translated: "Scattered Immortals' Lineage"
   - split: 2
-    text: "<color=4ccdf7>【来自山门与幻境】</color>父亲就是个散修，教会了他打不过就跑的修仙法则，闪避<color=e0834c>增加5%</color>。"
-    translated: "<color=4ccdf7>From the Mountain Gate and Illusion</color> Father was a recluse, teaching him the principle of 'fighting is for fighting; running away when defeated' in cultivation. Evasion <color=e0834c>increases by 5%</color>."
-- raw: "54#狗中一霸#<color=4ccdf7>【来自山门与幻境】</color>年幼时和狗抢过食，颇懂得进退自如的精髓，人送外号“护食王”，命中<color=e0834c>增加5%</color>。#0#10660#0#0#0#0#2#2|3|4#0##0#0#30#"
+    text: "父亲就是个散修，教会了他打不过就跑的修仙法则，闪避<color=e0834c>增加5%</color>。"
+    translated: "Father is an independent practitioner who taught him the Daoist principle of flee if you cannot win, increasing <color=e0834c>Dodge by 5%</color>."
+- raw: "54#狗中一霸#年幼时和狗抢过食，颇懂得进退自如的精髓，人送外号“护食王”，命中<color=e0834c>增加5%</color>。#0#10660#0#0#0#0#2#2|3|4#0##0#0#30#"
   splits:
   - split: 1
     text: "狗中一霸"
     translated: "Alpha of the pack"
   - split: 2
-    text: "<color=4ccdf7>【来自山门与幻境】</color>年幼时和狗抢过食，颇懂得进退自如的精髓，人送外号“护食王”，命中<color=e0834c>增加5%</color>。"
-    translated: "<color=4ccdf7>【From the Mountain Gate and Illusion】</color> As a child, you have competed with dogs for food and understood the essence of moving freely between advance and retreat. People give you the nickname Protector of Food, which increases your hit rate by <color=e0834c>5%</color>."
-- raw: "55#金蝉遗蜕#<color=4ccdf7>【来自山门与幻境】</color>自从有个和尚赠予金蝉后，总是不自觉的想喊“大威天龙”之类的话，要害、诛心<color=e0834c>增加10%</color>。#0#10610#0#0#0#0#3#2|3|4#0##0#0#50#"
+    text: "年幼时和狗抢过食，颇懂得进退自如的精髓，人送外号“护食王”，命中<color=e0834c>增加5%</color>。"
+    translated: "As a child, he often scuffled with dogs over food and truly understood the essence of knowing when to advance and retreat. People gave him the nickname Protector of Food. <color=e0834c>Command Hit Rate increases by 5%. </color>"
+- raw: "55#金蝉遗蜕#自从有个和尚赠予金蝉后，总是不自觉的想喊“大威天龙”之类的话，要害、诛心<color=e0834c>增加10%</color>。#0#10610#0#0#0#0#3#2|3|4#0##0#0#50#"
   splits:
   - split: 1
     text: "金蝉遗蜕"
     translated: "Remnants of a golden cicada's shed skin"
   - split: 2
-    text: "<color=4ccdf7>【来自山门与幻境】</color>自从有个和尚赠予金蝉后，总是不自觉的想喊“大威天龙”之类的话，要害、诛心<color=e0834c>增加10%</color>。"
-    translated: "<color=4ccdf7>【From the Mountain Gate and Illusion】</color> Since receiving the Golden Cicada from a monk, I can't help but instinctively call out Da Wei Tianlong and similar phrases. Vital Point, Mind Attack <color=e0834c>increase by 10%.</color>"
-- raw: "56#心口鳞片#<color=4ccdf7>【来自山门与幻境】</color>自从见过手持乾坤圈的小孩后，总会梦见被扒皮抽筋的场景，心口还长出了鳞片，化解、御心<color=e0834c>增加10%</color>。#0#10620#0#0#0#0#3#2|3|4#0##0#0#50#"
+    text: "自从有个和尚赠予金蝉后，总是不自觉的想喊“大威天龙”之类的话，要害、诛心<color=e0834c>增加10%</color>。"
+    translated: "Ever since a monk gave him the Golden Cicada, he unconsciously finds himself wanting to shout things like Great Mighty Dragon. Vital Point, Mind Attack <color=e0834c>Increase 10%</color>."
+- raw: "56#心口鳞片#自从见过手持乾坤圈的小孩后，总会梦见被扒皮抽筋的场景，心口还长出了鳞片，化解、御心<color=e0834c>增加10%</color>。#0#10620#0#0#0#0#3#2|3|4#0##0#0#50#"
   splits:
   - split: 1
     text: "心口鳞片"
     translated: "A heart shaped scale"
   - split: 2
-    text: "<color=4ccdf7>【来自山门与幻境】</color>自从见过手持乾坤圈的小孩后，总会梦见被扒皮抽筋的场景，心口还长出了鳞片，化解、御心<color=e0834c>增加10%</color>。"
-    translated: "<color=4ccdf7>【From the Mountain Gate and Illusion】</color> Ever since meeting the child holding the Kunlun Disc, I have nightmares of being flayed alive and stripped of my flesh. My chest has even grown scales, which helps with Counter and Discipline <color=e0834c>increasing 10%</color>."
-- raw: "57#在下姓萧#<color=4ccdf7>【来自山门与幻境】</color>很多时候，一个姓氏就能决定这个人有多强，真的……，外攻、內攻<color=e0834c>增加10%</color>。#0#10630#0#0#0#0#3#2|3|4#0##0#0#50#"
+    text: "自从见过手持乾坤圈的小孩后，总会梦见被扒皮抽筋的场景，心口还长出了鳞片，化解、御心<color=e0834c>增加10%</color>。"
+    translated: "Ever since seeing the child with the Quan Kun Ring, I've been haunted by dreams of flaying and dismemberment. My chest has even grown scales; this discipline increases <color=e0834c>10%</color> in countering and controlling emotions."
+- raw: "57#在下姓萧#很多时候，一个姓氏就能决定这个人有多强，真的……，外攻、內攻<color=e0834c>增加10%</color>。#0#10630#0#0#0#0#3#2|3|4#0##0#0#50#"
   splits:
   - split: 1
     text: "在下姓萧"
     translated: "I am of the XIAO family"
   - split: 2
-    text: "<color=4ccdf7>【来自山门与幻境】</color>很多时候，一个姓氏就能决定这个人有多强，真的……，外攻、內攻<color=e0834c>增加10%</color>。"
-    translated: "<color=4ccdf7>【From the Mountain Gate and Illusion】</color> Very often, a surname can determine how strong a person is... Truly so. For external attack or internal strength, <color=e0834c>increased by 10%.</color>"
-- raw: "58#钢筋铁骨#<color=4ccdf7>【来自山门与幻境】</color>力道皮膜，天生坚韧异常，外防、内防<color=e0834c>增加10%</color>。#0#10640#0#0#0#0#3#2|3|4#0##0#0#50#"
+    text: "很多时候，一个姓氏就能决定这个人有多强，真的……，外攻、內攻<color=e0834c>增加10%</color>。"
+    translated: "Many times, a surname alone can determine how strong someone is... Really..., external attack and internal strength <color=e0834c>increase by 10%</color>."
+- raw: "58#钢筋铁骨#力道皮膜，天生坚韧异常，外防、内防<color=e0834c>增加10%</color>。#0#10640#0#0#0#0#3#2|3|4#0##0#0#50#"
   splits:
   - split: 1
     text: "钢筋铁骨"
     translated: "Steel‑reinforced skeleton"
   - split: 2
-    text: "<color=4ccdf7>【来自山门与幻境】</color>力道皮膜，天生坚韧异常，外防、内防<color=e0834c>增加10%</color>。"
-    translated: "<color=4ccdf7>【From the Mountain Gate and Illusion】</color> Force Membrane, inherently extremely tough, external defense, internal defense <color=e0834c>increased by 10%</color>."
-- raw: "59#太阴·真#<color=4ccdf7>【来自山门与幻境】</color>打通太阴之穴，劲力延展，可随心所欲渗透血肉，真气、内力<color=e0834c>增加10%</color>，阴<color=e0834c>加5%</color>。#0#10570#0#0#0#0#4#1|2|3|4|5#0##0#0#100#"
+    text: "力道皮膜，天生坚韧异常，外防、内防<color=e0834c>增加10%</color>。"
+    translated: "Toughness Skin, naturally exceptionally resilient, enhances <color=e0834c>external defense by 10%</color> and <color=e0834c>internal defense by 10%</color>."
+- raw: "59#太阴·真#打通太阴之穴，劲力延展，可随心所欲渗透血肉，真气、内力<color=e0834c>增加10%</color>，阴<color=e0834c>加5%</color>。#0#10570#0#0#0#0#4#1|2|3|4|5#0##0#0#100#"
   splits:
   - split: 1
     text: "太阴·真"
     translated: "Great Yin · True"
   - split: 2
-    text: "<color=4ccdf7>【来自山门与幻境】</color>打通太阴之穴，劲力延展，可随心所欲渗透血肉，真气、内力<color=e0834c>增加10%</color>，阴<color=e0834c>加5%</color>。"
-    translated: "<color=4ccdf7>【From the Mountain Gate and Illusion】</color> Unblock the Great Yin aperture; extend your power to freely permeate flesh, blood, True Qi, Inner Power. <color=e0834c>Increase by 10%</color>, add <color=e0834c>5%</color> to Yin."
-- raw: "60#太阳·御#<color=4ccdf7>【来自山门与幻境】</color>打通太阳之穴，内聚阳炎，气血奔腾可环护躯体，根骨、力道<color=e0834c>增加10%</color>，阳<color=e0834c>加5%</color>。#0#10580#0#0#0#0#4#1|2|3|4|5#0##0#0#100#"
+    text: "打通太阴之穴，劲力延展，可随心所欲渗透血肉，真气、内力<color=e0834c>增加10%</color>，阴<color=e0834c>加5%</color>。"
+    translated: "Unblocking the Great Yin acupoint allows energy to extend freely, enabling it to penetrate flesh and blood at will. True Qi and Inner Power <color=e0834c>increase by 10%</color>, while Yin <color=e0834c>increases by 5%</color>."
+- raw: "60#太阳·御#打通太阳之穴，内聚阳炎，气血奔腾可环护躯体，根骨、力道<color=e0834c>增加10%</color>，阳<color=e0834c>加5%</color>。#0#10580#0#0#0#0#4#1|2|3|4|5#0##0#0#100#"
   splits:
   - split: 1
     text: "太阳·御"
     translated: "Great Yang · Supreme Ruler"
   - split: 2
-    text: "<color=4ccdf7>【来自山门与幻境】</color>打通太阳之穴，内聚阳炎，气血奔腾可环护躯体，根骨、力道<color=e0834c>增加10%</color>，阳<color=e0834c>加5%</color>。"
-    translated: "<color=4ccdf7>From the Mountain Gate and Illusion</color> Unblock the Great Yang's aperture, concentrate the solar blaze within, allowing lifeforce to surge in a protective embrace around the body. Potential and strength increase by <color=e0834c>10%</color>, and Yang grows by <color=e0834c>5%</color>."
-- raw: "61#双极·衡#<color=4ccdf7>【来自山门与幻境】</color>打通双极之穴，内寻人体诸多奥秘，于众妙渐寻秘术，体魄、要害<color=e0834c>增加10%</color>，柔<color=e0834c>加5%</color>。#0#10590#0#0#0#0#4#2|3|4#0##0#0#100#"
+    text: "打通太阳之穴，内聚阳炎，气血奔腾可环护躯体，根骨、力道<color=e0834c>增加10%</color>，阳<color=e0834c>加5%</color>。"
+    translated: "Unblock the Great Yang aperture and concentrate on internal yang fire; when the lifeforce surges around the body to protect it, potential and strength <color=e0834c>increase by 10%</color>, while yang <color=e0834c>grows by 5%</color>."
+- raw: "61#双极·衡#打通双极之穴，内寻人体诸多奥秘，于众妙渐寻秘术，体魄、要害<color=e0834c>增加10%</color>，柔<color=e0834c>加5%</color>。#0#10590#0#0#0#0#4#1|2|3|4|5#0##0#0#100#"
   splits:
   - split: 1
     text: "双极·衡"
     translated: "Balance of Extremes·Equilibrium"
   - split: 2
-    text: "<color=4ccdf7>【来自山门与幻境】</color>打通双极之穴，内寻人体诸多奥秘，于众妙渐寻秘术，体魄、要害<color=e0834c>增加10%</color>，柔<color=e0834c>加5%</color>。"
-    translated: "<color=4ccdf7>From the Mountain Gate and Illusion</color> Unblock the Dual Pole's Nexus to explore the myriad mysteries of the human body, gradually uncovering secret techniques. Increase resilience by <color=e0834c>10%</color>, increase softness by <color=e0834c>5%</color>."
-- raw: "62#涌泉·命#<color=4ccdf7>【来自山门与幻境】</color>灵气充斥，贯穿穴位，从而凝聚内外一气，生生不息，气机永不绝眠，诛心、身法<color=e0834c>增加10%</color>，刚<color=e0834c>加5%</color>。#0#10600#0#0#0#0#4#2|3|4#0##0#0#100#"
+    text: "打通双极之穴，内寻人体诸多奥秘，于众妙渐寻秘术，体魄、要害<color=e0834c>增加10%</color>，柔<color=e0834c>加5%</color>。"
+    translated: "Unblocking the Twin Pole's Nexus and delving into the myriad mysteries of the human body, one gradually discovers secret techniques, enhancing resilience by <color=e0834c>10%</color> and increasing softness by <color=e0834c>5%</color>."
+- raw: "62#涌泉·命#灵气充斥，贯穿穴位，从而凝聚内外一气，生生不息，气机永不绝眠，诛心、身法<color=e0834c>增加10%</color>，刚<color=e0834c>加5%</color>。#0#10600#0#0#0#0#4#1|2|3|4|5#0##0#0#100#"
   splits:
   - split: 1
     text: "涌泉·命"
     translated: "Surging Spring · Fate"
   - split: 2
-    text: "<color=4ccdf7>【来自山门与幻境】</color>灵气充斥，贯穿穴位，从而凝聚内外一气，生生不息，气机永不绝眠，诛心、身法<color=e0834c>增加10%</color>，刚<color=e0834c>加5%</color>。"
-    translated: "<color=4ccdf7>【From the Mountain Gate and Illusion】</color>Spirit energy permeates and flows through the acupoints, coalescing internal and external forces into a ceaseless life force where the qi remains eternally vibrant. Mind Attack; Agility increases by <color=e0834c>10%</color>; Hardness is increased by <color=e0834c>5%</color>."
-- raw: "63#北冥·焚#<color=4ccdf7>【来自山门与幻境】</color>气之北冥，贯以穿群，三洲四界，无所求不可救，真气、根骨<color=e0834c>增加10%</color>，毒<color=e0834c>加5%</color>。#0#10890#0#0#0#0#4#1|2|3|4|5#0##0#0#100#"
+    text: "灵气充斥，贯穿穴位，从而凝聚内外一气，生生不息，气机永不绝眠，诛心、身法<color=e0834c>增加10%</color>，刚<color=e0834c>加5%</color>。"
+    translated: "Charged with spiritual energy permeating and coursing through the acupoints, it consolidates inner and outer energies into a continuous cycle of life and vitality. The energy mechanism never ceases to rest, resulting in Heartbreak; Agility increased by <color=e0834c>10%</color>, Hardness enhanced by <color=e0834c>5%</color>."
+- raw: "63#北冥·焚#气之北冥，贯以穿群，三洲四界，无所求不可救，真气、根骨<color=e0834c>增加10%</color>，毒<color=e0834c>加5%</color>。#0#10890#0#0#0#0#4#1|2|3|4|5#0##0#0#100#"
   splits:
   - split: 1
     text: "北冥·焚"
     translated: "Northern Darkness · Conflagration"
   - split: 2
-    text: "<color=4ccdf7>【来自山门与幻境】</color>气之北冥，贯以穿群，三洲四界，无所求不可救，真气、根骨<color=e0834c>增加10%</color>，毒<color=e0834c>加5%</color>。"
-    translated: "<color=4ccdf7>【From the Mountain Gate and Illusion】</color>The Qi of Northern Abyss pierces through all realms in the three continents and four corners, capable of achieving any salvation. True Qi and Potential increase by <color=e0834c>10%</color>, while Poison is augmented by <color=e0834c>5%</color>."
+    text: "气之北冥，贯以穿群，三洲四界，无所求不可救，真气、根骨<color=e0834c>增加10%</color>，毒<color=e0834c>加5%</color>。"
+    translated: "Northernmost Qi, penetrating through the multitude, across three continents and four directions, nothing sought cannot be rescued. True Qi and Potential increase by <color=e0834c>10%</color>; Poison increases by <color=e0834c>5%</color>."
 - raw: "501#机杼传承#巧手匠心制器械，机关巧思妙无穷。得机杼传承，解锁第四技能栏位。#0#10530#0#0#0#0#3##0##0#0#0#"
   splits:
   - split: 1
@@ -1374,14 +1374,14 @@
   - split: 2
     text: "NPC好感度获取速度<color=e0834c>增加50%</color>。"
     translated: "NPC affinity gain speed <color=e0834c>increased by 50%</color>"
-- raw: "20460#名门之后#开局获得一个随机紫色武学#0#20460#0#0#0#0#3#1|2|3|4|5#0##34503#1#40#"
+- raw: "20460#名门之后#开局获得紫色武学秘籍《众生相》#0#20460#0#0#0#0#3#1|2|3|4|5#0##34503#1#40#"
   splits:
   - split: 1
     text: "名门之后"
     translated: "Heir of a prestigious family"
   - split: 2
-    text: "开局获得一个随机紫色武学"
-    translated: "Begin by obtaining a random purple martial arts skill."
+    text: "开局获得紫色武学秘籍《众生相》"
+    translated: "Starting with the acquisition of the purple martial arts secret manual, Faces of All Beings."
 - raw: "20461#禅宗后人 #开局获得紫色拳脚秘籍《明禅拈花指》##20460#0#0#0#0#3#1|2|3|4|5#0##34308#1#60#"
   splits:
   - split: 1
@@ -1422,14 +1422,14 @@
   - split: 2
     text: "开局获得紫色暗器秘籍《血炼》"
     translated: "Start by obtaining the purple hidden weapon secret manual, Blood Refining."
-- raw: "20470#江湖新秀#开局获得一个随机蓝色护体#0#20470#0#0#0#0#2#1|2|3|4|5#0##34469#1#25#"
+- raw: "20470#江湖新秀#开局获得蓝色护体秘籍《金钟罩》#0#20470#0#0#0#0#2#1|2|3|4|5#0##34469#1#25#"
   splits:
   - split: 1
     text: "江湖新秀"
     translated: "Newcomer of the Jianghu"
   - split: 2
-    text: "开局获得一个随机蓝色护体"
-    translated: "Start with a randomly acquired blue protective shield."
+    text: "开局获得蓝色护体秘籍《金钟罩》"
+    translated: "Start with the acquisition of the blue protective secret manual Golden Bell Shield."
 - raw: "20480#脱胎换骨#每次突破境界，获得的隐藏属性加倍#0#20480#0#0#0#0#3#1|2|3|4|5#0##0#0#60#"
   splits:
   - split: 1

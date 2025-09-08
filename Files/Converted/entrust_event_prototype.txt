@@ -699,104 +699,6 @@
   - split: 1
     text: "读书提升"
     translated: "Enhance Knowledge through Reading"
-- raw: "366#采集无奖励#0#0#0#0#0#0######7104#0#0#0#0#0#108##3#0#0##0##0#0#0##0#0#0###0##0###0#0#"
-  splits:
-  - split: 1
-    text: "采集无奖励"
-    translated: "Collection without reward"
-- raw: "367#切磋有奖励#0#0#0#0#0#0######7105#7001|1#0#0#0#0#109##3#0#0##0##0#0#0##0#0#0###0##0###0#0#"
-  splits:
-  - split: 1
-    text: "切磋有奖励"
-    translated: "There are rewards for sparring"
-- raw: "368#决斗有奖励#0#0#0#0#0#0######7106#7001|1#0#0#0#0#110##3#0#0##0##0#0#0##0#0#0#{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})#前往宗门考核处完成#0##0###0#0#"
-  splits:
-  - split: 1
-    text: "决斗有奖励"
-    translated: "There is a reward for dueling"
-  - split: 34
-    text: "{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
-    translated: "{WaitLifeSkillUseAttritypeName} {WaitLifeSkillUseAttritypeCount} times ({HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
-  - split: 35
-    text: "前往宗门考核处完成"
-    translated: "Proceed to the Sect Headquarters for the Evaluation"
-- raw: "369#剿怪有奖励#0#0#0#0#0#0######7107#7001|1#0#0#0#0#111##3#0#0##0##0#0#0##0#0#0#{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})#前往宗门考核处完成#0##0###0#0#"
-  splits:
-  - split: 1
-    text: "剿怪有奖励"
-    translated: "Monster extermination rewards are available"
-  - split: 34
-    text: "{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
-    translated: "{WaitLifeSkillUseAttritypeName} {WaitLifeSkillUseAttritypeCount} times ({HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
-  - split: 35
-    text: "前往宗门考核处完成"
-    translated: "Proceed to the Sect Headquarters for the Evaluation"
-- raw: "370#寻物有奖励#0#0#0#0#0#0######7108#7001|1#0#0#0#0#112##3#0#0##0##0#0#0##0#0#0#{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})#前往宗门考核处完成#0##0###0#0#"
-  splits:
-  - split: 1
-    text: "寻物有奖励"
-    translated: "Finding lost items is rewarded"
-  - split: 34
-    text: "{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
-    translated: "{WaitLifeSkillUseAttritypeName} {WaitLifeSkillUseAttritypeCount} times ({HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
-  - split: 35
-    text: "前往宗门考核处完成"
-    translated: "Proceed to the Sect Headquarters for the Evaluation"
-- raw: "371#商店买东西#0#0#0#0#0#0######7104#0#0#0#0#0#114##3#0#0##0##0#0#0##0#0#0#{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})#前往宗门考核处完成#0##0###0#0#"
-  splits:
-  - split: 1
-    text: "商店买东西"
-    translated: "Shopping for items at a store"
-  - split: 34
-    text: "{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
-    translated: "{WaitLifeSkillUseAttritypeName} {WaitLifeSkillUseAttritypeCount} times ({HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
-  - split: 35
-    text: "前往宗门考核处完成"
-    translated: "Proceed to the Sect Headquarters for the Evaluation"
-- raw: "372#钓鱼#0#0#0#0#0#0######7104#0#0#0#0#0#115##3#0#0##0##0#0#0##0#0#0#{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})#前往宗门考核处完成#0##0###0#0#"
-  splits:
-  - split: 1
-    text: "钓鱼"
-    translated: "Fishing"
-  - split: 34
-    text: "{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
-    translated: "{WaitLifeSkillUseAttritypeName} {WaitLifeSkillUseAttritypeCount} times ({HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
-  - split: 35
-    text: "前往宗门考核处完成"
-    translated: "Proceed to the Sect Headquarters for the Evaluation"
-- raw: "373#辩论#0#0#0#0#0#0######7102#7101|1#0#0#0#0#116##3#0#0##0##0#0#0##0#0#0#{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})#前往宗门考核处完成#0##0###0#0#"
-  splits:
-  - split: 1
-    text: "辩论"
-    translated: "Debate"
-  - split: 34
-    text: "{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
-    translated: "{WaitLifeSkillUseAttritypeName} {WaitLifeSkillUseAttritypeCount} times ({HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
-  - split: 35
-    text: "前往宗门考核处完成"
-    translated: "Proceed to the Sect Headquarters for the Evaluation"
-- raw: "374#npc背包增加物品#0#0#0#0#0#0######7104#0#0#0#0#0#117##3#0#0##0##0#0#0##0#0#0#{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})#前往宗门考核处完成#0##0###0#0#"
-  splits:
-  - split: 1
-    text: "npc背包增加物品"
-    translated: "NPC's backpack has been increased with items"
-  - split: 34
-    text: "{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
-    translated: "{WaitLifeSkillUseAttritypeName} {WaitLifeSkillUseAttritypeCount} times ({HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
-  - split: 35
-    text: "前往宗门考核处完成"
-    translated: "Proceed to the Sect Headquarters for the Evaluation"
-- raw: "375#npc背包失去物品#0#0#0#0#0#0######7104#0#0#0#0#0#118##3#0#0##0##0#0#0##0#0#0#{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})#前往宗门考核处完成#0##0###0#0#"
-  splits:
-  - split: 1
-    text: "npc背包失去物品"
-    translated: "NPC's inventory lost items"
-  - split: 34
-    text: "{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
-    translated: "{WaitLifeSkillUseAttritypeName} {WaitLifeSkillUseAttritypeCount} times ({HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
-  - split: 35
-    text: "前往宗门考核处完成"
-    translated: "Proceed to the Sect Headquarters for the Evaluation"
 - raw: "401#不夜京刷京谕珠#0#0#0#0#0#0######0#7010|1#0##0#0#0##4#0#0##0#0&1|101014|1;54#0#0#0##0#0#0##0#0#0#0###0#0#"
   splits:
   - split: 1
@@ -12107,7 +12009,7 @@
     translated: "Message from Zhaomu"
   - split: 34
     text: "与{E}交谈（{IsCanFinish:0:1}/1）"
-    translated: "Talk to {E} ({IsCanFinish:0:1}/1)"
+    translated: "Converse with {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{A}"
     translated: "Report to {A}"
@@ -12140,7 +12042,7 @@
     translated: "Black Sand Sparring"
   - split: 34
     text: "与{E}切磋并获胜（{WaitEntrustTargetNpcId:0:1}/1)"
-    translated: "Sparring with {E} and emerging victorious ({WaitEntrustTargetNpcId:0:1}/1)"
+    translated: "To spar and emerge victorious against {E} ({WaitEntrustTargetNpcId:0:1}/1)."
   - split: 35
     text: "回禀{A}"
     translated: "Report to {A}"
@@ -12162,7 +12064,7 @@
     translated: "Heisha reading"
   - split: 34
     text: "阅读｛I}｛N}次（{WaitEntrustTargetItemMatchCount}/{N})"
-    translated: "Read {I}{N} times ({WaitEntrustTargetItemMatchCount}/{N})"
+    translated: "Read {I} {N} times ({WaitEntrustTargetItemMatchCount}/{N})"
   - split: 35
     text: "回禀{E}"
     translated: "Report to {E}"
@@ -25761,10 +25663,10 @@
   splits:
   - split: 1
     text: "门派：亲传弟子晋升（6级）"
-    translated: "Sect: Inheritor disciple promoted to (6) level"
+    translated: "Men pai: Directly passed disciple promoted to (6) level."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1）"
-    translated: "Assault {E} ({IsCanFinish:0:1}/1)"
+    translated: "Ambush and Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{A}"
     translated: "Report to {A}"
@@ -25775,10 +25677,10 @@
   splits:
   - split: 1
     text: "门派：亲传弟子晋升（6级）"
-    translated: "Sect: Inheritor disciple promoted to (6) level"
+    translated: "Men pai: Directly passed disciple promoted to (6) level."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1）"
-    translated: "Assault {E} ({IsCanFinish:0:1}/1)"
+    translated: "Ambush and Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{A}"
     translated: "Report to {A}"
@@ -25789,10 +25691,10 @@
   splits:
   - split: 1
     text: "门派：亲传弟子晋升（6级）"
-    translated: "Sect: Inheritor disciple promoted to (6) level"
+    translated: "Men pai: Directly passed disciple promoted to (6) level."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1）"
-    translated: "Assault {E} ({IsCanFinish:0:1}/1)"
+    translated: "Ambush and Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{A}"
     translated: "Report to {A}"
@@ -25803,10 +25705,10 @@
   splits:
   - split: 1
     text: "门派：亲传弟子晋升（6级）"
-    translated: "Sect: Inheritor disciple promoted to (6) level"
+    translated: "Men pai: Directly passed disciple promoted to (6) level."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1）"
-    translated: "Assault {E} ({IsCanFinish:0:1}/1)"
+    translated: "Ambush and Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{A}"
     translated: "Report to {A}"
@@ -25817,10 +25719,10 @@
   splits:
   - split: 1
     text: "门派：亲传弟子晋升（6级）"
-    translated: "Sect: Inheritor disciple promoted to (6) level"
+    translated: "Men pai: Directly passed disciple promoted to (6) level."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1）"
-    translated: "Assault {E} ({IsCanFinish:0:1}/1)"
+    translated: "Ambush and Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{A}"
     translated: "Report to {A}"
@@ -25831,10 +25733,10 @@
   splits:
   - split: 1
     text: "门派：亲传弟子晋升（6级）"
-    translated: "Sect: Inheritor disciple promoted to (6) level"
+    translated: "Men pai: Directly passed disciple promoted to (6) level."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1）"
-    translated: "Assault {E} ({IsCanFinish:0:1}/1)"
+    translated: "Ambush and Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{A}"
     translated: "Report to {A}"
@@ -25845,10 +25747,10 @@
   splits:
   - split: 1
     text: "门派：亲传弟子晋升（6级）"
-    translated: "Sect: Inheritor disciple promoted to (6) level"
+    translated: "Men pai: Directly passed disciple promoted to (6) level."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1）"
-    translated: "Assault {E} ({IsCanFinish:0:1}/1)"
+    translated: "Ambush and Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{A}"
     translated: "Report to {A}"
@@ -25859,10 +25761,10 @@
   splits:
   - split: 1
     text: "门派：亲传弟子晋升（6级）"
-    translated: "Sect: Inheritor disciple promoted to (6) level"
+    translated: "Men pai: Directly passed disciple promoted to (6) level."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1）"
-    translated: "Assault {E} ({IsCanFinish:0:1}/1)"
+    translated: "Ambush and Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{A}"
     translated: "Report to {A}"
@@ -25873,10 +25775,10 @@
   splits:
   - split: 1
     text: "门派：亲传弟子晋升（6级）"
-    translated: "Sect: Inheritor disciple promoted to (6) level"
+    translated: "Men pai: Directly passed disciple promoted to (6) level."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1）"
-    translated: "Assault {E} ({IsCanFinish:0:1}/1)"
+    translated: "Ambush and Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{A}"
     translated: "Report to {A}"
@@ -25890,7 +25792,7 @@
     translated: "Sect: Foster brother(s) promoted to (2) level"
   - split: 34
     text: "与{E}切磋并获胜（{WaitEntrustTargetNpcId:0:1}/1)"
-    translated: "Engage in sparring with {E} and emerge victorious ({WaitEntrustTargetNpcId:0:1}/1)."
+    translated: "Sparring with {E} and emerging victorious ({WaitEntrustTargetNpcId:0:1}/1)"
   - split: 35
     text: "回禀{A}"
     translated: "Report to {A}"

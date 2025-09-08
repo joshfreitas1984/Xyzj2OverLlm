@@ -83,16 +83,6 @@
 363#技能成长心法#0#0#0#0#0#0######7112#0#0#0#0#0#105##3#0#0##0##0#0#0##0#0#0###0##0###0#0#
 364#属性提升#0#0#0#0#0#0######7102#7101|1#0#0#0#0#106##3#0#0##0##0#0#0##0#0#0###0##0###0#0#
 365#读书提升#0#0#0#0#0#0######7103#7113|1#0#0#0#0#107##3#0#0##0##0#0#0##0#0#0###0##0###0#0#
-366#采集无奖励#0#0#0#0#0#0######7104#0#0#0#0#0#108##3#0#0##0##0#0#0##0#0#0###0##0###0#0#
-367#切磋有奖励#0#0#0#0#0#0######7105#7001|1#0#0#0#0#109##3#0#0##0##0#0#0##0#0#0###0##0###0#0#
-368#决斗有奖励#0#0#0#0#0#0######7106#7001|1#0#0#0#0#110##3#0#0##0##0#0#0##0#0#0#{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})#前往宗门考核处完成#0##0###0#0#
-369#剿怪有奖励#0#0#0#0#0#0######7107#7001|1#0#0#0#0#111##3#0#0##0##0#0#0##0#0#0#{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})#前往宗门考核处完成#0##0###0#0#
-370#寻物有奖励#0#0#0#0#0#0######7108#7001|1#0#0#0#0#112##3#0#0##0##0#0#0##0#0#0#{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})#前往宗门考核处完成#0##0###0#0#
-371#商店买东西#0#0#0#0#0#0######7104#0#0#0#0#0#114##3#0#0##0##0#0#0##0#0#0#{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})#前往宗门考核处完成#0##0###0#0#
-372#钓鱼#0#0#0#0#0#0######7104#0#0#0#0#0#115##3#0#0##0##0#0#0##0#0#0#{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})#前往宗门考核处完成#0##0###0#0#
-373#辩论#0#0#0#0#0#0######7102#7101|1#0#0#0#0#116##3#0#0##0##0#0#0##0#0#0#{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})#前往宗门考核处完成#0##0###0#0#
-374#npc背包增加物品#0#0#0#0#0#0######7104#0#0#0#0#0#117##3#0#0##0##0#0#0##0#0#0#{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})#前往宗门考核处完成#0##0###0#0#
-375#npc背包失去物品#0#0#0#0#0#0######7104#0#0#0#0#0#118##3#0#0##0##0#0#0##0#0#0#{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})#前往宗门考核处完成#0##0###0#0#
 401#不夜京刷京谕珠#0#0#0#0#0#0######0#7010|1#0##0#0#0##4#0#0##0#0&1|101014|1;54#0#0#0##0#0#0##0#0#0#0###0#0#
 776#271.735#1039#0#0#0#0#0######0#7010|1#0##0#0#0##0#0#0##0##0#0#0##0#0#0##0#0#0#0###0#0#
 30007#《重霄掌》#0#0#0#952335#952330#952331##65043|99##0&24|952358|1##0#7001|2&7002|2#0##0#0#25#0|1|37339#0##0##0##0#0#0##0#0#0#获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})#将{I}交给{A}#0#《重霄掌》#0###0#0#
