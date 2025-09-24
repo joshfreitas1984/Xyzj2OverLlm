@@ -339,33 +339,33 @@
   - split: 14
     text: "剑走偏锋路，无畏也无惧。所向披靡去，留名青史书。"
     translated: "A sword path walks the edge of convention, fearless and unafraid. Striking down without resistance, it leaves its mark in the annals of history."
-- raw: "32#知羞识廉#1#3#8#1#9#60008|2;54502|3;54455|3#0&18|1|17|20|>=#主角修养达到20#attri|17/value2#200#20#0#行义知羞耻，识廉心自宽。侠之大者胸，江湖留白璧。#0#0#1#"
+- raw: "32#明心守廉#1#3#8#1#9#60008|2;54502|3;54455|3#0&18|1|17|20|>=#主角修养达到20#attri|17/value2#200#20#0#明辨是非，洞察人心善恶，懂得在诱惑面前坚守本心。廉洁自律，不为私欲所困；知耻近勇，不堕江湖浊流。#0#0#1#"
   splits:
   - split: 1
-    text: "知羞识廉"
-    translated: "Know what is shameful and recognize what is proper"
+    text: "明心守廉"
+    translated: "Maintain sincerity and integrity"
   - split: 9
     text: "主角修养达到20"
     translated: "Protagonist's cultivation reaches 20"
   - split: 14
-    text: "行义知羞耻，识廉心自宽。侠之大者胸，江湖留白璧。"
-    translated: "To act with integrity is to know shame; to recognize honor is to find peace of mind. For a true hero, the great thing is their heart; in the Jianghu, they leave behind an unblemished legacy."
-- raw: "33#德才兼备#1#3#8#2#9#60008|3;54503|4;54455|4#0&18|1|17|50|>=#主角修养达到50#attri|17/value2#300#50#0#德高望重重，才广武林称。兼备风云志，胸怀揽星辰。#0#0#1#"
+    text: "明辨是非，洞察人心善恶，懂得在诱惑面前坚守本心。廉洁自律，不为私欲所困；知耻近勇，不堕江湖浊流。"
+    translated: "To discern right from wrong and understand the goodness or evil in people's hearts; to maintain one's integrity even in the face of temptation. Upholding justice and self‑discipline, not succumbing to selfish desires; knowing shame brings courage and not falling into the corrupt currents of Jianghu."
+- raw: "33#才德兼修#1#3#8#2#9#60008|3;54503|4;54455|4#0&18|1|17|50|>=#主角修养达到50#attri|17/value2#300#50#0#德高望重重，才广武林称。兼备风云志，胸怀揽星辰。#0#0#1#"
   splits:
   - split: 1
-    text: "德才兼备"
-    translated: "Possesses both virtue and talent"
+    text: "才德兼修"
+    translated: "Cultivating both talent and virtue"
   - split: 9
     text: "主角修养达到50"
     translated: "The protagonist's cultivation reaches level 50"
   - split: 14
     text: "德高望重重，才广武林称。兼备风云志，胸怀揽星辰。"
     translated: "Esteemed and respected in the martial world for his vast talents. Possessing a spirit of ambition and an open heart that encompasses the stars themselves."
-- raw: "34#八面玲珑#1#3#8#3#9#60009|2;54504|3;54456|3#0&18|1|17|100|>=#主角修养达到100#attri|17/value2#400#100#0#八方风云集，面面俱到情。玲珑心计巧，处世无不胜。#0#0#2#"
+- raw: "34#圆融通达#1#3#8#3#9#60009|2;54504|3;54456|3#0&18|1|17|100|>=#主角修养达到100#attri|17/value2#400#100#0#八方风云集，面面俱到情。玲珑心计巧，处世无不胜。#0#0#2#"
   splits:
   - split: 1
-    text: "八面玲珑"
-    translated: "Adaptable, versatile, able to handle anything"
+    text: "圆融通达"
+    translated: "Compassionate and well‑connected"
   - split: 9
     text: "主角修养达到100"
     translated: "Protagonist's cultivation reaches 100"
@@ -1043,7 +1043,7 @@
   - split: 14
     text: "昭月照寒窗，夜谈星辉旁，清光心更明，月色道相忘。"
     translated: "The moon shines on a cold window, night conversations with starlight by its side; the clear light makes the heart even more lucid, and the moon's glow leads to mutual forgetting."
-- raw: "108#穆特贵客#1#4#108#1#12#54457|4;18221|2;54507|4#0&95|75036|20#于穆特族贡献堂主处累积购买二十次#shopcount/value2#600#20#75036#穆特沙漠深，风沙行踪灭，宝藏沙海中，心道更奇绝。#0#0#3#"
+- raw: "108#穆特贵客#1#4#108#1#3#54457|4;54092|2;54074|4#0&95|75036|20#于穆特族贡献堂主处累积购买二十次#shopcount/value2#600#20#75036#穆特沙漠深，风沙行踪灭，宝藏沙海中，心道更奇绝。#0#0#3#"
   splits:
   - split: 1
     text: "穆特贵客"
@@ -1076,7 +1076,7 @@
   - split: 14
     text: "丐门逍遥外，懂得世间情，豪情布衣间，天门手杖敲。"
     translated: "Beyond the Beggar Sect's realm lies one who understands worldly affairs. With a spirit of boldness among simple clothes and a staff in hand at the gate of heaven."
-- raw: "111#捭阖贵客#1#4#111#1#12#54457|4;18224|2;60015|4#0&95|75045|20#于捭阖谷贡献堂主处累积购买二十次#shopcount/value2#600#20#75045#捭阖策千秋，智慧胜天机，千里筹谋定，云卷笑中开。#0#0#3#"
+- raw: "111#捭阖贵客#1#3#111#1#3#54457|4;54112|2;54074|4#0&95|75045|20#于捭阖谷贡献堂主处累积购买二十次#shopcount/value2#600#20#75045#捭阖策千秋，智慧胜天机，千里筹谋定，云卷笑中开。#0#0#3#"
   splits:
   - split: 1
     text: "捭阖贵客"
@@ -1131,7 +1131,7 @@
   - split: 14
     text: "御虚骑鹤游，四海为家园，云海界无边，心光照虚空。"
     translated: "Riding a hawk beyond emptiness, the world becomes home; in the boundless realm of clouds and sea, their heart's light illuminates the void."
-- raw: "116#凌云贵客#1#4#116#1#12#54450|4;54516|2;18303|2#0&95|75060|20#于凌云门贡献堂主处累积购买二十次#shopcount/value2#600#20#75060#凌云高望远，天际思无限，日出雾散时，心飞天地间。#0#0#3#"
+- raw: "116#凌云贵客#1#2#116#1#3#54450|4;54048|2;54102|2#0&95|75060|20#于凌云门贡献堂主处累积购买二十次#shopcount/value2#600#20#75060#凌云高望远，天际思无限，日出雾散时，心飞天地间。#0#0#3#"
   splits:
   - split: 1
     text: "凌云贵客"
@@ -1230,7 +1230,7 @@
   - split: 14
     text: "骆家老宅静，世代藏风云，门前古道长，传说绘心间。"
     translated: "The Lu family's ancestral mansion is serene, sheltering generations of secrets within its walls; a venerable path stretches before the gate. Legends say it bears a map in one's heart."
-- raw: "125#黑沙贵客#1#4#125#1#12#18113|4;54504|2;60015|4#0&95|75087|20#于黑沙寨贡献堂主处累积购买二十次#shopcount/value2#600#20#75087#黑沙漫天走，独步穿荒原，夜营星下寒，梦回风沙中。#0#0#3#"
+- raw: "125#黑沙贵客#1#4#125#1#3#18113|4;54048|2;54074|4#0&95|150468|20#于黑沙寨贡献堂主处累积购买二十次#shopcount/value2#600#20#75087#黑沙漫天走，独步穿荒原，夜营星下寒，梦回风沙中。#0#0#3#"
   splits:
   - split: 1
     text: "黑沙贵客"
@@ -1274,7 +1274,7 @@
   - split: 14
     text: "千山云雾里，隐士修道高，一径通幽深，步出天地宽。"
     translated: "In the misty clouds among a thousand mountains, a hermit practices his lofty way of life. A path leads into the profound depths; stepping out, one finds the vastness of heaven and earth."
-- raw: "129#望尘贵客#1#4#129#1#12#18113|4;54504|2;5045|4#0&95|75099|20#于望尘客栈贡献堂主处累积购买二十次#shopcount/value2#600#20#75099#望尘追旧梦，马蹄声声急，过往云烟散，心随道自定。#0#0#3#"
+- raw: "129#望尘贵客#1#4#129#1#3#18113|4;54048|2;54074|4#0&95|75099|20#于望尘客栈贡献堂主处累积购买二十次#shopcount/value2#600#20#75099#望尘追旧梦，马蹄声声急，过往云烟散，心随道自定。#0#0#3#"
   splits:
   - split: 1
     text: "望尘贵客"
@@ -1362,7 +1362,7 @@
   - split: 14
     text: "爻光破晓来，黎明前最暗，新日希望生，心携光明行。"
     translated: "As dawn breaks, the darkest part of the pre‑dawn arrives. As a new day dawns, hope emerges. With hearts carrying light, we move forward."
-- raw: "137#连环坞贵客#1#4#137#1#12#18113|4;54517|4#0&95|75125|20#于十二连环坞贡献堂主处累积购买二十次#shopcount/value2#600#20#75125#连环坞笑声里，人间善意温，一壶酒共饮，天下皆兄弟。#0#0#3#"
+- raw: "137#连环坞贵客#1#1#137#1#3#18113|4;54087|2;54074|4#0&95|75081|20#于十二连环坞贡献堂主处累积购买二十次#shopcount/value2#600#20#75125#连环坞笑声里，人间善意温，一壶酒共饮，天下皆兄弟。#0#0#3#"
   splits:
   - split: 1
     text: "连环坞贵客"
@@ -1450,7 +1450,7 @@
   - split: 14
     text: "寻清流水曲，幽径自花开，心随青石去，步入古林深。"
     translated: "Seeking the clear stream's song, wandering paths where flowers bloom on their own; my heart follows along the green stones, stepping into the depths of ancient woods."
-- raw: "145#淮陵贵客#1#4#145#1#12#60008|4;75177|2;22040|4#0&95|75142|20#于淮陵贡献堂主处累积购买二十次#shopcount/value2#600#20#75142#淮陵古道长，风烟述往事，一纸抚时光，故人话桑麻。#0#0#3#"
+- raw: "145#淮陵贵客#1#2#145#1#3#54041|4;54097|2;54074|4#0&95|75142|20#于淮陵贡献堂主处累积购买二十次#shopcount/value2#600#20#75142#淮陵古道长，风烟述往事，一纸抚时光，故人话桑麻。#0#0#3#"
   splits:
   - split: 1
     text: "淮陵贵客"
@@ -1527,7 +1527,7 @@
   - split: 14
     text: "风云会战场，英勇斗狂澜。力破强敌阵，誉满武林传。"
     translated: "In the battlefield of Fengyun's Gathering, courageously clash with raging waves. Break through the enemy formations and earn renown throughout the Martial World."
-- raw: "206#击败何藉#1#3#206#1#10#60010|2;54002|2;18110|1#1&27|94709|1;27|94709|0#击败何藉##300#0#0#恶势力终灭，正义再显光。一战封神志，威震九州旁。#0#0#1#"
+- raw: "206#击败何藉#1#3#206#1#10#60010|2;54002|2;18110|1#1&27|94709|1;27|94709|0;27|94709|0;27|94709|1#击败何藉##300#0#0#恶势力终灭，正义再显光。一战封神志，威震九州旁。#0#0#1#"
   splits:
   - split: 1
     text: "击败何藉"
@@ -1571,7 +1571,7 @@
   - split: 14
     text: "冰雪美人立，凛冽似寒河。一剑决雌雄，冷眸映雪色。"
     translated: "Ice maiden stands, as chilling as a frigid river. A single sword decides the victor, cold eyes reflecting snow‑white hues."
-- raw: "210#击败常贤#1#3#210#1#10#60004|2;54010|2;18111|1#1&27|25384|1;27|25384|0#击败常贤##400#0#0#挑战接连胜，英气劲风中。高山仰止目，声名振八荒。#0#0#2#"
+- raw: "210#击败常贤#1#3#210#1#10#60004|2;54010|2;18111|1#1&27|25384|1;27|25384|0;27|94710|0;27|94710|1#击败常贤##400#0#0#挑战接连胜，英气劲风中。高山仰止目，声名振八荒。#0#0#2#"
   splits:
   - split: 1
     text: "击败常贤"
@@ -1582,7 +1582,7 @@
   - split: 14
     text: "挑战接连胜，英气劲风中。高山仰止目，声名振八荒。"
     translated: "Challenges met with successive victories, an unyielding spirit amidst the gusts of qi force. Aspiring high like towering peaks, earning renown across all corners of the world."
-- raw: "211#击败盛瑞渊#1#3#211#1#10#60004|2;54010|2;18099|1#1&27|25387|1;27|25387|0#击败盛瑞渊##400#0#0#激战成英勇，豪情天地宽。剑光如破晓，胜者独尊名。#0#0#2#"
+- raw: "211#击败盛瑞渊#1#3#211#1#10#60004|2;54010|2;18099|1#1&27|25387|1;27|25387|0;27|94713|0;27|94713|1#击败盛瑞渊##400#0#0#激战成英勇，豪情天地宽。剑光如破晓，胜者独尊名。#0#0#2#"
   splits:
   - split: 1
     text: "击败盛瑞渊"
@@ -1615,7 +1615,7 @@
   - split: 14
     text: "忘世外红尘，棋逢对手时。超然玄门外，心境如止水。"
     translated: "Forget worldly passions beyond the mundane world; when you meet your equal in chess, remain detached and untroubled. Beyond the mysterious realms of Xuanmen, let your heart be as still as a pond."
-- raw: "214#击败刘青#1#3#214#1#10#60004|2;54010|2;18099|1#1&27|25378|1;27|25378|0#击败刘青##400#0#0#勇斗诸强敌，一人独横行。剑下无留情，威震武林界。#0#0#2#"
+- raw: "214#击败刘青#1#3#214#1#10#60004|2;54010|2;18099|1#1&27|25378|1;27|25378|0;27|94704|0;27|94704|1#击败刘青##400#0#0#勇斗诸强敌，一人独横行。剑下无留情，威震武林界。#0#0#2#"
   splits:
   - split: 1
     text: "击败刘青"
@@ -1637,7 +1637,7 @@
   - split: 14
     text: "宝藏寻奇遇，机关智多星。古迹藏秘密，勇者得真经。"
     translated: "In the quest for treasure, encounters are filled with marvels and ingenious mechanisms. The ancient site conceals secrets, and the brave obtain the true scripture."
-- raw: "216#击败骆破虏#1#3#216#1#10#18604|3;54435|1;18017|1#1&27|25381|1;27|25381|0#击败骆破虏##500#0#0#骆破虏终降，勇者展英姿。剑舞破敌阵，名扬九州地。#0#0#2#"
+- raw: "216#击败骆破虏#1#3#216#1#10#18604|3;54435|1;18017|1#1&27|25381|1;27|25381|0;27|94706|0;27|94706|1#击败骆破虏##500#0#0#骆破虏终降，勇者展英姿。剑舞破敌阵，名扬九州地。#0#0#2#"
   splits:
   - split: 1
     text: "击败骆破虏"
@@ -1670,7 +1670,7 @@
   - split: 14
     text: "美人藏心蝎，外柔内刚强。智勇双全展，绝代风华长。"
     translated: "A beautiful person hides a scorpion in their heart; outwardly soft but inwardly strong. With wisdom and courage displayed, they maintain unparalleled elegance forever."
-- raw: "219#击败艾里甫#1#3#219#1#10#18607|3;54435|1;18020|1#1&27|25385|1;27|25385|0#击败艾里甫##500#0#0#艾里甫落败，英雄威名显。剑光如日出，独步天下间。#0#0#2#"
+- raw: "219#击败艾里甫#1#3#219#1#10#18607|3;54435|1;18020|1#1&27|25385|1;27|25385|0;27|94711|0;27|94711|1#击败艾里甫##500#0#0#艾里甫落败，英雄威名显。剑光如日出，独步天下间。#0#0#2#"
   splits:
   - split: 1
     text: "击败艾里甫"
@@ -1703,7 +1703,7 @@
   - split: 14
     text: "大漠称霸主，独立沙海中。风沙中建业，英姿独一方。"
     translated: "The Great Desert Overlord reigns supreme, independent in the sea of sands. Amidst winds and sandstorms, he builds his realm, distinguished by his unique grace."
-- raw: "222#击败陶奚#1#3#222#1#10#18610|3;54435|1;18023|1#1&27|25014|1;27|25014|0#击败陶奚##500#0#0#陶奚面对败，勇者力斗强。一战成名立，英雄故事长。#0#0#2#"
+- raw: "222#击败陶奚#1#3#222#1#10#18610|3;54435|1;18023|1#1&27|25014|1;27|25014|0;27|94702|0;27|94702|1#击败陶奚##500#0#0#陶奚面对败，勇者力斗强。一战成名立，英雄故事长。#0#0#2#"
   splits:
   - split: 1
     text: "击败陶奚"
@@ -1747,7 +1747,7 @@
   - split: 14
     text: "守魁长老智，古寺传法音。守护真理门，慧光普照心。"
     translated: "Elder Zhi of the Guardian Elite guards the teachings within the ancient temple. Protecting the gate to truth, his wisdom illuminates all hearts."
-- raw: "226#击败巩致#1#3#226#1#10#54515|1;54442|2;18033|1#1&27|25386|1;27|25386|0#击败巩致##600#0#0#巩致终不敌，正义之光胜。一剑定高下，正气满乾坤。#0#0#3#"
+- raw: "226#击败巩致#1#3#226#1#10#54515|1;54442|2;18033|1#1&27|25386|1;27|25386|0;27|94712|0;27|94712|1#击败巩致##600#0#0#巩致终不敌，正义之光胜。一剑定高下，正气满乾坤。#0#0#3#"
   splits:
   - split: 1
     text: "击败巩致"
@@ -1758,7 +1758,7 @@
   - split: 14
     text: "巩致终不敌，正义之光胜。一剑定高下，正气满乾坤。"
     translated: "Gong Zhi will ultimately be no match; the light of justice prevails. One sword to determine superiority, righteous spirit fills the heavens and earth."
-- raw: "227#击败祝青柏#1#3#227#1#10#54515|1;54442|2;18034|1#1&27|25382|1;27|25382|0#击败祝青柏##600#0#0#祝青柏败下，真功不可挡。智破千年谜，勇者名传扬。#0#0#3#"
+- raw: "227#击败祝青柏#1#3#227#1#10#54515|1;54442|2;18034|1#1&27|25382|1;27|25382|0;27|94708|0;27|94708|1#击败祝青柏##600#0#0#祝青柏败下，真功不可挡。智破千年谜，勇者名传扬。#0#0#3#"
   splits:
   - split: 1
     text: "击败祝青柏"
@@ -1802,7 +1802,7 @@
   - split: 14
     text: "白狼王亦败，世间恢复静。一战震荒野，英名载史册。"
     translated: "The White Wolf King also fell; peace returned to the world. A single battle shook the wilderness, and their glorious name was recorded in history."
-- raw: "231#击败方元正#1#3#231#1#10#54436|1;54449|2;18036|1#1&27|25008|1;27|25008|0#击败方元正##700#0#0#力斗恶强敌，正义总胜邪。一剑定乾坤，英名誉四海。#0#0#4#"
+- raw: "231#击败方元正#1#3#231#1#10#54436|1;54449|2;18036|1#1&27|25008|1;27|25008|0;27|94701|0;27|94701|1#击败方元正##700#0#0#力斗恶强敌，正义总胜邪。一剑定乾坤，英名誉四海。#0#0#4#"
   splits:
   - split: 1
     text: "击败方元正"
@@ -1857,7 +1857,7 @@
   - split: 14
     text: "挑战强敌胜，一剑决高下。天下英雄路，勇者独行天。"
     translated: "Defeat a formidable foe to prove your strength; one sword decides the victor. A path for heroes across the land, where only the brave dare venture under heaven."
-- raw: "236#赫舍里玉山#1#3#236#1#10#54436|1;54449|2;18041|1#1&27|25037|1;27|25037|0#击败赫舍里玉山##700#0#0#传奇一世人，英雄独领风。踏雪留清迹，名垂史册中。#0#0#4#"
+- raw: "236#赫舍里玉山#1#3#236#1#10#54436|1;54449|2;18041|1#1&27|25037|1;27|25037|0;27|94703|0;27|94703|1#击败赫舍里玉山##700#0#0#传奇一世人，英雄独领风。踏雪留清迹，名垂史册中。#0#0#4#"
   splits:
   - split: 1
     text: "赫舍里玉山"
@@ -2319,102 +2319,102 @@
   - split: 14
     text: "钓誉满江湖，高手竞风流。江边钓叟多，誉满四方游。"
     translated: "Famed throughout the Jianghu for his skill, a master of both martial arts and refined arts. Many anglers by the river have gained renown far and wide."
-- raw: "370#初涉渔道#1#2#370#1#6#60004|1;54435|1;54339|3#1&96|37083|1;96|37120|1;96|37202|1;96|14054|1;96|14055|1;96|14056|1;96|14057|1;96|14058|1;96|14059|1;96|14060|1;96|14061|1;96|14062|1;96|14063|1;96|14064|1;96|14065|1;96|14066|1;96|14067|1;96|14068|1;96|14069|1;96|14070|1#获得一种常见鱼##200#0#0#江湖初试竿，银鳞跃清波。渔途自此始，天地入篓中。#0#0#1#"
+- raw: "370#初涉渔道#1#2#370#1#6#60004|1;54435|1;54339|3#1&96|37083|1;96|37120|1;96|37202|1;96|14054|1;96|14055|1;96|14056|1;96|14057|1;96|14058|1;96|14059|1;96|14060|1;96|14061|1;96|14062|1;96|14063|1;96|14064|1;96|14065|1;96|14066|1;96|14067|1;96|14068|1;96|14069|1;96|14070|1#获得一种三阶鱼##200#0#0#江湖初试竿，银鳞跃清波。渔途自此始，天地入篓中。#0#0#1#"
   splits:
   - split: 1
     text: "初涉渔道"
     translated: "Taking my first steps on the path of fishing."
   - split: 9
-    text: "获得一种常见鱼"
-    translated: "Obtained a type of common fish"
+    text: "获得一种三阶鱼"
+    translated: "Obtain a Tier 3 fish"
   - split: 14
     text: "江湖初试竿，银鳞跃清波。渔途自此始，天地入篓中。"
     translated: "Entering the Jianghu for the first time and testing one's skills, a silver‑scaled fish leaps into the clear waters. From this moment, his fishing journey begins as he brings the entire world within his net."
-- raw: "371#珍鳞初现#1#2#370#2#6#60004|1;54435|1;54340|3#1&96|14071|1;96|14072|1;96|14073|1;96|14074|1;96|14075|1;96|14076|1;96|14077|1;96|14078|1;96|14079|1;96|14080|1;96|14081|1;96|14082|1;96|14083|1;96|14084|1;96|14085|1;96|14086|1;96|14087|1;96|14088|1;96|14089|1;96|14090|1#获得一种名贵鱼##200#0#0#金鳞破浪来，珍品映日辉。钓得稀世物，江湖扬名威。#0#0#1#"
+- raw: "371#珍鳞初现#1#2#370#2#6#60004|1;54435|1;54340|3#1&96|14071|1;96|14072|1;96|14073|1;96|14074|1;96|14075|1;96|14076|1;96|14077|1;96|14078|1;96|14079|1;96|14080|1;96|14081|1;96|14082|1;96|14083|1;96|14084|1;96|14085|1;96|14086|1;96|14087|1;96|14088|1;96|14089|1;96|14090|1#获得一种四阶鱼##200#0#0#金鳞破浪来，珍品映日辉。钓得稀世物，江湖扬名威。#0#0#1#"
   splits:
   - split: 1
     text: "珍鳞初现"
     translated: "Rare scales just begin to show"
   - split: 9
-    text: "获得一种名贵鱼"
-    translated: "Acquire a precious fish"
+    text: "获得一种四阶鱼"
+    translated: "Acquiring a Tier 4 fish"
   - split: 14
     text: "金鳞破浪来，珍品映日辉。钓得稀世物，江湖扬名威。"
     translated: "A golden scale breaks through the waves, reflecting a rare treasure in the sunlight. Catching such an extraordinary creature, they gain fame and renown across the Jianghu."
-- raw: "372#机缘天授#1#2#370#3#6#60004|1;54435|1;54350|3#1&96|14030|1;96|14031|1;96|14032|1;96|14033|1;96|14091|1;96|14092|1;96|14093|1;96|14094|1#获得一种稀有鱼##200#0#0#玄鳞出深渊，天机落钓竿。一念惊涛起，缘法自天然。#0#0#2#"
+- raw: "372#机缘天授#1#2#370#3#6#60004|1;54435|1;54350|3#1&96|14030|1;96|14031|1;96|14032|1;96|14033|1;96|14091|1;96|14092|1;96|14093|1;96|14094|1#获得一种五阶鱼##200#0#0#玄鳞出深渊，天机落钓竿。一念惊涛起，缘法自天然。#0#0#2#"
   splits:
   - split: 1
     text: "机缘天授"
     translated: "Fortune favors the prepared mind"
   - split: 9
-    text: "获得一种稀有鱼"
-    translated: "Obtained a rare fish"
+    text: "获得一种五阶鱼"
+    translated: "Obtain a Tier 5 fish"
   - split: 14
     text: "玄鳞出深渊，天机落钓竿。一念惊涛起，缘法自天然。"
     translated: "The mythic scales emerge from the abyss, celestial secrets fall to a fishing rod. A thought stirs up tempestuous waves; fate's law unfolds naturally."
-- raw: "387#小有所获#1#2#380#8#6#60004|1;54435|1;54351|3#3&96|37083|1;96|37120|1;96|37202|1;96|14054|1;96|14055|1;96|14056|1;96|14057|1;96|14058|1;96|14059|1;96|14060|1;96|14061|1;96|14062|1;96|14063|1;96|14064|1;96|14065|1;96|14066|1;96|14067|1;96|14068|1;96|14069|1;96|14070|1#获得三种常见鱼##400#0#0#三鱼聚篓中，技艺渐纯熟。竿起风云动，江湖显锋芒。#0#0#2#"
+- raw: "387#小有所获#1#2#380#8#6#60004|1;54435|1;54351|3#3&96|37083|1;96|37120|1;96|37202|1;96|14054|1;96|14055|1;96|14056|1;96|14057|1;96|14058|1;96|14059|1;96|14060|1;96|14061|1;96|14062|1;96|14063|1;96|14064|1;96|14065|1;96|14066|1;96|14067|1;96|14068|1;96|14069|1;96|14070|1#获得三种三阶鱼##400#0#0#三鱼聚篓中，技艺渐纯熟。竿起风云动，江湖显锋芒。#0#0#2#"
   splits:
   - split: 1
     text: "小有所获"
     translated: "A modest gain"
   - split: 9
-    text: "获得三种常见鱼"
-    translated: "Obtain three common types of fish"
+    text: "获得三种三阶鱼"
+    translated: "Obtain three types of tier 3 fish"
   - split: 14
     text: "三鱼聚篓中，技艺渐纯熟。竿起风云动，江湖显锋芒。"
     translated: "As the three fish gather in the basket, their skills become more refined. With a flick of the rod, they stir up winds and clouds, revealing their prowess to the Jianghu."
-- raw: "388#宝光映波#1#2#380#9#6#60004|1;54435|1;54360|3#3&96|14071|1;96|14072|1;96|14073|1;96|14074|1;96|14075|1;96|14076|1;96|14077|1;96|14078|1;96|14079|1;96|14080|1;96|14081|1;96|14082|1;96|14083|1;96|14084|1;96|14085|1;96|14086|1;96|14087|1;96|14088|1;96|14089|1;96|14090|1#获得三种名贵鱼##400#0#0#三珍耀寒潭，宝气冲云霄。竿收风云聚，碧水化龙绡。#0#0#2#"
+- raw: "388#宝光映波#1#2#380#9#6#60004|1;54435|1;54360|3#3&96|14071|1;96|14072|1;96|14073|1;96|14074|1;96|14075|1;96|14076|1;96|14077|1;96|14078|1;96|14079|1;96|14080|1;96|14081|1;96|14082|1;96|14083|1;96|14084|1;96|14085|1;96|14086|1;96|14087|1;96|14088|1;96|14089|1;96|14090|1#获得三种四阶鱼##400#0#0#三珍耀寒潭，宝气冲云霄。竿收风云聚，碧水化龙绡。#0#0#2#"
   splits:
   - split: 1
     text: "宝光映波"
     translated: "Sparkling Radiance Reflects Waves"
   - split: 9
-    text: "获得三种名贵鱼"
-    translated: "Acquire three types of precious fish"
+    text: "获得三种四阶鱼"
+    translated: "Obtain three types of Tier 4 fish"
   - split: 14
     text: "三珍耀寒潭，宝气冲云霄。竿收风云聚，碧水化龙绡。"
     translated: "The Three Jewels illuminate the cold pool, their splendor reaching the clouds. As the rods are reeled in, gathering wind and cloud; the emerald waters transform into a dragon's tapestry."
-- raw: "389#稀世奇珍#1#2#380#10#6#60004|1;54435|1;54361|3#3&96|14030|1;96|14031|1;96|14032|1;96|14033|1;96|14091|1;96|14092|1;96|14093|1;96|14094|1#获得三种稀有鱼##400#0#0#三异聚风云，奇珍动九霄。竿摇星河颤，江湖仰天骄。#0#0#3#"
+- raw: "389#稀世奇珍#1#2#380#10#6#60004|1;54435|1;54361|3#3&96|14030|1;96|14031|1;96|14032|1;96|14033|1;96|14091|1;96|14092|1;96|14093|1;96|14094|1#获得三种五阶鱼##400#0#0#三异聚风云，奇珍动九霄。竿摇星河颤，江湖仰天骄。#0#0#3#"
   splits:
   - split: 1
     text: "稀世奇珍"
     translated: "A rare and precious treasure"
   - split: 9
-    text: "获得三种稀有鱼"
-    translated: "Obtained three types of uncommon fish"
+    text: "获得三种五阶鱼"
+    translated: "Obtain three types of Tier 5 fish"
   - split: 14
     text: "三异聚风云，奇珍动九霄。竿摇星河颤，江湖仰天骄。"
     translated: "Three strange forces gather to stir the winds and clouds; precious wonders move through the celestial realm. The pole sways as the river of stars trembles, and the Jianghu gazes with pride upon the heavens."
-- raw: "415#江湖钓客#1#2#410#6#6#60004|1;5022|3;54361|3#8&96|37083|1;96|37120|1;96|37202|1;96|14054|1;96|14055|1;96|14056|1;96|14057|1;96|14058|1;96|14059|1;96|14060|1;96|14061|1;96|14062|1;96|14063|1;96|14064|1;96|14065|1;96|14066|1;96|14067|1;96|14068|1;96|14069|1;96|14070|1#获得八种常见鱼##600#0#0#八鱼映日辉，碧波任逍遥。竿挑江河月，钓尽凡尘嚣。#0#0#3#"
+- raw: "415#江湖钓客#1#2#410#6#6#60004|1;5022|3;54361|3#8&96|37083|1;96|37120|1;96|37202|1;96|14054|1;96|14055|1;96|14056|1;96|14057|1;96|14058|1;96|14059|1;96|14060|1;96|14061|1;96|14062|1;96|14063|1;96|14064|1;96|14065|1;96|14066|1;96|14067|1;96|14068|1;96|14069|1;96|14070|1#获得八种三阶鱼##600#0#0#八鱼映日辉，碧波任逍遥。竿挑江河月，钓尽凡尘嚣。#0#0#3#"
   splits:
   - split: 1
     text: "江湖钓客"
     translated: "Jianghu angler"
   - split: 9
-    text: "获得八种常见鱼"
-    translated: "Obtained eight types of common fish"
+    text: "获得八种三阶鱼"
+    translated: "Obtained eight types of tier 3 fish"
   - split: 14
     text: "八鱼映日辉，碧波任逍遥。竿挑江河月，钓尽凡尘嚣。"
     translated: "Eight fish reflect the sun's rays, on emerald waves they float freely. Pole tips pluck moonlit rivers, reeling in all mundane commotion."
-- raw: "416#御钓宗师#1#2#410#7#6#60004|1;5023|3;54377|3#8&96|14071|1;96|14072|1;96|14073|1;96|14074|1;96|14075|1;96|14076|1;96|14077|1;96|14078|1;96|14079|1;96|14080|1;96|14081|1;96|14082|1;96|14083|1;96|14084|1;96|14085|1;96|14086|1;96|14087|1;96|14088|1;96|14089|1;96|14090|1#获得八种名贵鱼##600#0#0#八珍绕竿游，御术动乾坤。钓尽天下贵，宗师立昆仑。#0#0#3#"
+- raw: "416#御钓宗师#1#2#410#7#6#60004|1;5023|3;54377|3#8&96|14071|1;96|14072|1;96|14073|1;96|14074|1;96|14075|1;96|14076|1;96|14077|1;96|14078|1;96|14079|1;96|14080|1;96|14081|1;96|14082|1;96|14083|1;96|14084|1;96|14085|1;96|14086|1;96|14087|1;96|14088|1;96|14089|1;96|14090|1#获得八种四阶鱼##600#0#0#八珍绕竿游，御术动乾坤。钓尽天下贵，宗师立昆仑。#0#0#3#"
   splits:
   - split: 1
     text: "御钓宗师"
     translated: "Imperial Fishing Master"
   - split: 9
-    text: "获得八种名贵鱼"
-    translated: "Acquired eight types of precious fish"
+    text: "获得八种四阶鱼"
+    translated: "Obtained eight types of tier‑four fish"
   - split: 14
     text: "八珍绕竿游，御术动乾坤。钓尽天下贵，宗师立昆仑。"
     translated: "Eight rare treasures encircle a pole and move, their skills able to shift the heavens and earth. They catch all that is precious in the world; the master stands on Mount Kunlun."
-- raw: "417#钓破虚空#1#2#410#8#6#60004|1;5024|3;54378|3#8&96|14030|1;96|14031|1;96|14032|1;96|14033|1;96|14091|1;96|14092|1;96|14093|1;96|14094|1#获得八种稀有鱼##600#0#0#八稀有鲲鹏，竿裂沧海东。钓破虚空界，笑傲云雾中。#0#0#5#"
+- raw: "417#钓破虚空#1#2#410#8#6#60004|1;5024|3;54378|3#8&96|14030|1;96|14031|1;96|14032|1;96|14033|1;96|14091|1;96|14092|1;96|14093|1;96|14094|1#获得八种五阶鱼##600#0#0#八稀有鲲鹏，竿裂沧海东。钓破虚空界，笑傲云雾中。#0#0#5#"
   splits:
   - split: 1
     text: "钓破虚空"
     translated: "Hook a hole in emptiness"
   - split: 9
-    text: "获得八种稀有鱼"
-    translated: "Obtained eight types of uncommon fish"
+    text: "获得八种五阶鱼"
+    translated: "Obtain eight types of tier five fish"
   - split: 14
     text: "八稀有鲲鹏，竿裂沧海东。钓破虚空界，笑傲云雾中。"
     translated: "The rare Peng of the Kraken tears open the sea to the east. Fishing through the void beyond realms, it laughs amidst the clouds and mists."
@@ -2473,135 +2473,135 @@
   - split: 14
     text: "甄绮渔伍梦，绘画水国秋。渔情深似海，绮景随波流。"
     translated: "Zhen Qiyu and Wu Meng paint the autumn of Water Country. The fisherman's feelings are as deep as the sea, while the beautiful scenery drifts with the waves."
-- raw: "440#初识百草#1#2#440#1#4#60008|1;54435|1;54361|1#1&96|18048|1;96|18049|1;96|18050|1;96|18051|1;96|18052|1;96|18053|1;96|22075|1;96|22076|1;96|22077|1#获得一种粗制药##200###江湖初探秘，百草入囊中。药香随风起，前路渐通明。#0#0#1#"
+- raw: "440#初识百草#1#2#440#1#4#60008|1;54435|1;54361|1#1&96|18048|1;96|18049|1;96|18050|1;96|18051|1;96|18052|1;96|18053|1;96|22075|1;96|22076|1;96|22077|1#获得任意一种一阶或二阶药##200###江湖初探秘，百草入囊中。药香随风起，前路渐通明。#0#0#1#"
   splits:
   - split: 1
     text: "初识百草"
     translated: "First acquaintance with a hundred herbs"
   - split: 9
-    text: "获得一种粗制药"
-    translated: "Obtain a roughly made medicine"
+    text: "获得任意一种一阶或二阶药"
+    translated: "Obtain any Tier 1 or Tier 2 medicine."
   - split: 14
     text: "江湖初探秘，百草入囊中。药香随风起，前路渐通明。"
     translated: "Venturing into the world of Jianghu for the first time, I gathered a hundred herbs in my pouch. The scent of the medicine rose with the wind, and the path ahead gradually became clear."
-- raw: "441#巧遇奇珍#1#2#440#2#4#60008|1;54435|1;54377|1#1&96|18058|1;96|18059|1;96|18060|1;96|18061|1;96|18054|1;96|18055|1;96|18056|1;96|18057|1;96|18063|1;96|18064|1;96|18065|1;96|18066|1;96|18067|1;96|18068|1;96|18069|1;96|18070|1;96|18071|1;96|18072|1;96|18073|1#获得一种基础丹药##200###机缘逢异宝，金匣透华光。偶得名门物，暗夜生异香。#0#0#1#"
+- raw: "441#巧遇奇珍#1#2#440#2#4#60008|1;54435|1;54377|1#1&96|18058|1;96|18059|1;96|18060|1;96|18061|1;96|18054|1;96|18055|1;96|18056|1;96|18057|1;96|18063|1;96|18064|1;96|18065|1;96|18066|1;96|18067|1;96|18068|1;96|18069|1;96|18070|1;96|18071|1;96|18072|1;96|18073|1#获得一种三阶丹药##200###机缘逢异宝，金匣透华光。偶得名门物，暗夜生异香。#0#0#1#"
   splits:
   - split: 1
     text: "巧遇奇珍"
     translated: "Chance encounter with a rare treasure"
   - split: 9
-    text: "获得一种基础丹药"
-    translated: "Acquire a basic elixir"
+    text: "获得一种三阶丹药"
+    translated: "Obtain a Tier 3 Elixir"
   - split: 14
     text: "机缘逢异宝，金匣透华光。偶得名门物，暗夜生异香。"
     translated: "Fateful encounter with a rare treasure; golden box radiates brilliant light. Unintentionally acquired precious artifact from a renowned lineage; releases an unusual fragrance in the night."
-- raw: "442#天赐玄丹#1#2#440#3#4#60008|1;54435|1;54378|1#1&96|18078|1;96|18079|1;96|18080|1;96|18081|1;96|18082|1;96|18083|1;96|18084|1;96|18085|1;96|18062|1;96|18074|1;96|18075|1;96|18076|1;96|18077|1#获得一种稀有丹药##200###踏破铁鞋处，天赐玄玉瓶。幽光映寒月，异香引鹤鸣。#0#0#2#"
+- raw: "442#天赐玄丹#1#2#440#3#4#60008|1;54435|1;54378|1#1&96|18078|1;96|18079|1;96|18080|1;96|18081|1;96|18082|1;96|18083|1;96|18084|1;96|18085|1;96|18062|1;96|18074|1;96|18075|1;96|18076|1;96|18077|1#获得一种四阶丹药##200###踏破铁鞋处，天赐玄玉瓶。幽光映寒月，异香引鹤鸣。#0#0#2#"
   splits:
   - split: 1
     text: "天赐玄丹"
     translated: "Divine Mysterious Elixir"
   - split: 9
-    text: "获得一种稀有丹药"
-    translated: "Obtaining a rare elixir"
+    text: "获得一种四阶丹药"
+    translated: "Obtain a Tier 4 elixir"
   - split: 14
     text: "踏破铁鞋处，天赐玄玉瓶。幽光映寒月，异香引鹤鸣。"
     translated: "At the place where iron shoes are worn thin, a dark jade bottle is bestowed by heaven. Its faint light reflects on the cold moon, and its strange fragrance draws forth the call of cranes."
-- raw: "443#灵光乍现#1#2#440#4#4#60008|1;54435|1;54385|1#1&96|18088|1;96|18089|1;96|18090|1;96|18091|1;96|18092|1;96|18093|1;96|18094|1;96|18086|1;96|18087|1#获得一种灵丹##200###霞光破云处，灵丹现尘寰。触手生暖玉，似有仙气缠。#0#0#2#"
+- raw: "443#灵光乍现#1#2#440#4#4#60008|1;54435|1;54385|1#1&96|18088|1;96|18089|1;96|18090|1;96|18091|1;96|18092|1;96|18093|1;96|18094|1;96|18086|1;96|18087|1#获得一种五阶灵丹##200###霞光破云处，灵丹现尘寰。触手生暖玉，似有仙气缠。#0#0#2#"
   splits:
   - split: 1
     text: "灵光乍现"
     translated: "Eureka moment"
   - split: 9
-    text: "获得一种灵丹"
-    translated: "Obtained a divine elixir"
+    text: "获得一种五阶灵丹"
+    translated: "Obtain a Tier 5 Spiritual Pill"
   - split: 14
     text: "霞光破云处，灵丹现尘寰。触手生暖玉，似有仙气缠。"
     translated: "Where sunbeams pierce the clouds, the elixir appears in the mortal realm. At a touch, it feels like jade warmed by life force, as if imbued with ethereal spirit."
-- raw: "458#小集凡珍#1#2#450#9#4#60008|1;54435|1;54397|1#3&96|18048|1;96|18049|1;96|18050|1;96|18051|1;96|18052|1;96|18053|1;96|22075|1;96|22076|1;96|22077|1#获得三种粗制药##400###三丹藏袖里，凡品亦通灵。步履江湖远，妙药护征程。#0#0#2#"
+- raw: "458#小集凡珍#1#2#450#9#4#60008|1;54435|1;54397|1#3&96|18048|1;96|18049|1;96|18050|1;96|18051|1;96|18052|1;96|18053|1;96|22075|1;96|22076|1;96|22077|1#获得三种一阶或二阶药##400###三丹藏袖里，凡品亦通灵。步履江湖远，妙药护征程。#0#0#2#"
   splits:
   - split: 1
     text: "小集凡珍"
     translated: "Xiao Jie Fan Zhen"
   - split: 9
-    text: "获得三种粗制药"
-    translated: "Obtained three types of roughly made medicines"
+    text: "获得三种一阶或二阶药"
+    translated: "Obtain three kinds of Tier 1 or Tier 2 herbs."
   - split: 14
     text: "三丹藏袖里，凡品亦通灵。步履江湖远，妙药护征程。"
     translated: "The three elixirs are concealed in her sleeve, allowing even the ordinary to gain spiritual insight. As she journeys across the Jianghu, a miraculous medicine protects her travels."
-- raw: "459#锦藏三绝#1#2#450#10#4#60008|1;54435|1;54361|1#3&96|18058|1;96|18059|1;96|18060|1;96|18061|1;96|18054|1;96|18055|1;96|18056|1;96|18057|1;96|18063|1;96|18064|1;96|18065|1;96|18066|1;96|18067|1;96|18068|1;96|18069|1;96|18070|1;96|18071|1;96|18072|1;96|18073|1#获得三种基础丹药##400###三珍隐绣囊，暗香动四方。非是池中物，出世惊龙凰。#0#0#2#"
+- raw: "459#锦藏三绝#1#2#450#10#4#60008|1;54435|1;54361|1#3&96|18058|1;96|18059|1;96|18060|1;96|18061|1;96|18054|1;96|18055|1;96|18056|1;96|18057|1;96|18063|1;96|18064|1;96|18065|1;96|18066|1;96|18067|1;96|18068|1;96|18069|1;96|18070|1;96|18071|1;96|18072|1;96|18073|1#获得三种三阶丹药##400###三珍隐绣囊，暗香动四方。非是池中物，出世惊龙凰。#0#0#2#"
   splits:
   - split: 1
     text: "锦藏三绝"
     translated: "Jin Cang's Three Rare Treasures"
   - split: 9
-    text: "获得三种基础丹药"
-    translated: "Acquire three basic elixirs"
+    text: "获得三种三阶丹药"
+    translated: "Obtained three types of Tier 3 elixirs"
   - split: 14
     text: "三珍隐绣囊，暗香动四方。非是池中物，出世惊龙凰。"
     translated: "The Three Rare Concealed Embroidered Satchels: A subtle fragrance stirs all around. Not a creature from the pond, yet in the world it astonishes both dragons and phoenixes."
-- raw: "460#秘藏三异#1#2#460#1#4#60008|1;22043|1;54377|1#3&96|18078|1;96|18079|1;96|18080|1;96|18081|1;96|18082|1;96|18083|1;96|18084|1;96|18085|1;96|18062|1;96|18074|1;96|18075|1;96|18076|1;96|18077|1#获得三种稀有丹药##400###三异聚风云，秘匣隐雷声。江湖传言起：奇珍属某名！#0#0#3#"
+- raw: "460#秘藏三异#1#2#460#1#4#60008|1;22043|1;54377|1#3&96|18078|1;96|18079|1;96|18080|1;96|18081|1;96|18082|1;96|18083|1;96|18084|1;96|18085|1;96|18062|1;96|18074|1;96|18075|1;96|18076|1;96|18077|1#获得三种四阶丹药##400###三异聚风云，秘匣隐雷声。江湖传言起：奇珍属某名！#0#0#3#"
   splits:
   - split: 1
     text: "秘藏三异"
     translated: "Hidden Three Oddities"
   - split: 9
-    text: "获得三种稀有丹药"
-    translated: "Obtained three types of uncommon elixirs"
+    text: "获得三种四阶丹药"
+    translated: "Acquire three types of Tier 4 elixirs"
   - split: 14
     text: "三异聚风云，秘匣隐雷声。江湖传言起：奇珍属某名！"
     translated: "Three unusual phenomena gather amid the turbulent clouds; secrets hidden within a mysterious box conceal thunderous echoes. Rumors stir across the Jianghu: Unique treasures belong to a certain name!"
-- raw: "461#三霞聚顶#1#2#460#2#4#60008|1;22044|1;54378|1#3&96|18088|1;96|18089|1;96|18090|1;96|18091|1;96|18092|1;96|18093|1;96|18094|1;96|18086|1;96|18087|1#获得三种灵丹##400###三灵耀顶冠，丹霞染青天。非是凡间物，疑似谪仙遗。#0#0#3#"
+- raw: "461#三霞聚顶#1#2#460#2#4#60008|1;22044|1;54378|1#3&96|18088|1;96|18089|1;96|18090|1;96|18091|1;96|18092|1;96|18093|1;96|18094|1;96|18086|1;96|18087|1#获得三种五阶灵丹##400###三灵耀顶冠，丹霞染青天。非是凡间物，疑似谪仙遗。#0#0#3#"
   splits:
   - split: 1
     text: "三霞聚顶"
     translated: "Three Stars Converge at the Peak"
   - split: 9
-    text: "获得三种灵丹"
-    translated: "Obtained three types of elixirs"
+    text: "获得三种五阶灵丹"
+    translated: "Acquire three types of Tier 5 Elixirs"
   - split: 14
     text: "三灵耀顶冠，丹霞染青天。非是凡间物，疑似谪仙遗。"
     translated: "The Tri‑Spirit Crown glows atop, while Vermilion Clouds dye the blue sky. Not of this mortal realm, it seems a relic left by banished immortals."
-- raw: "483#琳琅医匣#1#2#480#4#4#60008|1;9071|1;54360|1#8&96|18048|1;96|18049|1;96|18050|1;96|18051|1;96|18052|1;96|18053|1;96|22075|1;96|22076|1;96|22077|1#获得八种粗制药##600###八药满锦匣，琳琅映日辉。悬壶济世客，仁心照翠微。#0#0#3#"
+- raw: "483#琳琅医匣#1#2#480#4#4#60008|1;9071|1;54360|1#8&96|18048|1;96|18049|1;96|18050|1;96|18051|1;96|18052|1;96|18053|1;96|22075|1;96|22076|1;96|22077|1#获得八种一阶或二阶药##600###八药满锦匣，琳琅映日辉。悬壶济世客，仁心照翠微。#0#0#3#"
   splits:
   - split: 1
     text: "琳琅医匣"
     translated: "Lanlan's Healing Box"
   - split: 9
-    text: "获得八种粗制药"
-    translated: "Obtain eight types of roughly made medicine"
+    text: "获得八种一阶或二阶药"
+    translated: "Obtain eight types of Tier 1 or Tier 2 medicines."
   - split: 14
     text: "八药满锦匣，琳琅映日辉。悬壶济世客，仁心照翠微。"
     translated: "Eight herbs fill the embroidered box, their brilliance shimmering in the sunlight. The traveler with a jar of medicine acts for the sake of all, his benevolent heart reflecting in the verdant mists."
-- raw: "484#宝阁琳琅#1#2#480#5#4#60008|1;9072|1;54361|1#8&96|18058|1;96|18059|1;96|18060|1;96|18061|1;96|18054|1;96|18055|1;96|18056|1;96|18057|1;96|18063|1;96|18064|1;96|18065|1;96|18066|1;96|18067|1;96|18068|1;96|18069|1;96|18070|1;96|18071|1;96|18072|1;96|18073|1#获得八种基础丹药##600###八宝汇玉阁，丹气冲云霄。武林谁不羡？袖里藏天骄。#0#0#3#"
+- raw: "484#宝阁琳琅#1#2#480#5#4#60008|1;9072|1;54361|1#8&96|18058|1;96|18059|1;96|18060|1;96|18061|1;96|18054|1;96|18055|1;96|18056|1;96|18057|1;96|18063|1;96|18064|1;96|18065|1;96|18066|1;96|18067|1;96|18068|1;96|18069|1;96|18070|1;96|18071|1;96|18072|1;96|18073|1#获得八种三阶丹药##600###八宝汇玉阁，丹气冲云霄。武林谁不羡？袖里藏天骄。#0#0#3#"
   splits:
   - split: 1
     text: "宝阁琳琅"
     translated: "Treasure Hall of a Thousand Treasures"
   - split: 9
-    text: "获得八种基础丹药"
-    translated: "Obtain eight types of basic elixirs"
+    text: "获得八种三阶丹药"
+    translated: "Obtain eight types of Tier 3 elixirs"
   - split: 14
     text: "八宝汇玉阁，丹气冲云霄。武林谁不羡？袖里藏天骄。"
     translated: "Babao Huiyuge, the aura of elixirs ascends to the clouds. Who in the martial world doesn't envy it? Hidden within their sleeves are celestial heroes."
-- raw: "485#乾坤纳珍#1#2#480#6#4#60008|1;5025|1;54361|1#8&96|18078|1;96|18079|1;96|18080|1;96|18081|1;96|18082|1;96|18083|1;96|18084|1;96|18085|1;96|18062|1;96|18074|1;96|18075|1;96|18076|1;96|18077|1#获得八种稀有丹药##600###八珍汇乾坤，袖纳星河辉。弹指惊四座，天下奇物归。#0#0#5#"
+- raw: "485#乾坤纳珍#1#2#480#6#4#60008|1;5025|1;54361|1#8&96|18078|1;96|18079|1;96|18080|1;96|18081|1;96|18082|1;96|18083|1;96|18084|1;96|18085|1;96|18062|1;96|18074|1;96|18075|1;96|18076|1;96|18077|1#获得八种四阶丹药##600###八珍汇乾坤，袖纳星河辉。弹指惊四座，天下奇物归。#0#0#5#"
   splits:
   - split: 1
     text: "乾坤纳珍"
     translated: "The Jade of the Celestial Sphere"
   - split: 9
-    text: "获得八种稀有丹药"
-    translated: "Obtained eight types of rare elixirs"
+    text: "获得八种四阶丹药"
+    translated: "Obtain eight four‑tier elixirs"
   - split: 14
     text: "八珍汇乾坤，袖纳星河辉。弹指惊四座，天下奇物归。"
     translated: "Eight wonders gathered to form the cosmos; within his sleeve, he holds the brilliance of a thousand stars. With a flick of his finger, four corners of the hall were astonished, and all wondrous objects in the world returned."
-- raw: "486#八荒纳灵#1#2#480#7#4#60008|1;5026|1;54377|1#8&96|18088|1;96|18089|1;96|18090|1;96|18091|1;96|18092|1;96|18093|1;96|18094|1;96|18086|1;96|18087|1#获得八种灵丹##600###八灵镇八荒，囊括日月精。呼吸通天地，飘然似鹤轻。#0#0#5#"
+- raw: "486#八荒纳灵#1#2#480#7#4#60008|1;5026|1;54377|1#8&96|18088|1;96|18089|1;96|18090|1;96|18091|1;96|18092|1;96|18093|1;96|18094|1;96|18086|1;96|18087|1#获得八种五阶灵丹##600###八灵镇八荒，囊括日月精。呼吸通天地，飘然似鹤轻。#0#0#5#"
   splits:
   - split: 1
     text: "八荒纳灵"
     translated: "Hail the Spirits of Eight Realms"
   - split: 9
-    text: "获得八种灵丹"
-    translated: "Obtained eight types of mystical elixirs"
+    text: "获得八种五阶灵丹"
+    translated: "Obtained eight types of tier 5 spiritual pills."
   - split: 14
     text: "八灵镇八荒，囊括日月精。呼吸通天地，飘然似鹤轻。"
     translated: "Ba Ling Zhen's eight wonders encompass the essence of day and moon. Breathing in harmony with heaven and earth, they glide gracefully like a light goose."
@@ -2660,135 +2660,135 @@
   - split: 14
     text: "漪丹夕照深，集伍歌声远，夕阳无限好，英名传四边。"
     translated: "The dusk's reflection deepens as the sun sets; the distant songs of five gather. The evening sunlight is infinitely beautiful, and his renowned name spreads far and wide."
-- raw: "500#初品江湖#1#2#500#1#4#60015|1;54435|1;54361|3#1&96|22013|1;96|22014|1;96|22015|1;96|22016|1;96|22017|1;96|22018|1;96|22078|1;96|22079|1;96|22080|1;96|22081|1;96|22082|1;96|22083|1;96|22084|1;96|22139|1;96|22140|1;96|22141|1;96|22142|1#获得一种常见粗肴##200#0#0#箸点烟火味，初尝市井春。江湖从此始，百味启征程。#0#0#1#"
+- raw: "500#初品江湖#1#2#500#1#4#60015|1;54435|1;54361|3#1&96|22013|1;96|22014|1;96|22015|1;96|22016|1;96|22017|1;96|22018|1;96|22078|1;96|22079|1;96|22080|1;96|22081|1;96|22082|1;96|22083|1;96|22084|1;96|22139|1;96|22140|1;96|22141|1;96|22142|1#获得一种一阶或二阶粗肴##200#0#0#箸点烟火味，初尝市井春。江湖从此始，百味启征程。#0#0#1#"
   splits:
   - split: 1
     text: "初品江湖"
     translated: "Jianghu Initiation Ceremony"
   - split: 9
-    text: "获得一种常见粗肴"
-    translated: "Obtain a common coarse food"
+    text: "获得一种一阶或二阶粗肴"
+    translated: "Obtain a type of coarse delicacy at either Tier 1 or Tier 2."
   - split: 14
     text: "箸点烟火味，初尝市井春。江湖从此始，百味启征程。"
     translated: "Tasting the smoky flavors of fireworks at dawn, experiencing spring in the bustling market. The Jianghu journey begins here, and a hundred flavors embark on their quest."
-- raw: "501#偶得珍馐#1#2#500#2#4#60015|1;54435|1;54377|3#1&96|22019|1;96|22020|1;96|22021|1;96|22022|1;96|22023|1;96|22024|1;96|22085|1;96|22086|1;96|22087|1;96|22088|1;96|22089|1;96|22090|1;96|22091|1;96|22092|1;96|22093|1;96|22094|1;96|22095|1;96|22096|1;96|22097|1;96|22098|1;96|22099|1;96|22100|1;96|22143|1#获得一种名贵佳味##200#0#0#缘逢玉馔，金樽映华庭。箸落惊四座，暗香透画屏。#0#0#1#"
+- raw: "501#偶得珍馐#1#2#500#2#4#60015|1;54435|1;54377|3#1&96|22019|1;96|22020|1;96|22021|1;96|22022|1;96|22023|1;96|22024|1;96|22085|1;96|22086|1;96|22087|1;96|22088|1;96|22089|1;96|22090|1;96|22091|1;96|22092|1;96|22093|1;96|22094|1;96|22095|1;96|22096|1;96|22097|1;96|22098|1;96|22099|1;96|22100|1;96|22143|1#获得一种三阶佳味##200#0#0#缘逢玉馔，金樽映华庭。箸落惊四座，暗香透画屏。#0#0#1#"
   splits:
   - split: 1
     text: "偶得珍馐"
     translated: "I fortuitously acquired a delicacy"
   - split: 9
-    text: "获得一种名贵佳味"
-    translated: "Obtain a precious exquisite taste"
+    text: "获得一种三阶佳味"
+    translated: "Obtaining a Tier 3 delicacy"
   - split: 14
     text: "缘逢玉馔，金樽映华庭。箸落惊四座，暗香透画屏。"
     translated: "Fate brings exquisite dishes and gold cups glisten in the garden courtyard. A dropped chopstick surprises the onlookers, while hidden fragrances drift through the painted screen."
-- raw: "502#秘境尝奇#1#2#500#3#4#60015|1;54435|1;54378|3#1&96|22108|1;96|22109|1;96|22110|1;96|22111|1;96|22112|1;96|22113|1;96|22114|1;96|22115|1;96|22116|1;96|22101|1;96|22102|1;96|22103|1;96|22104|1;96|22105|1;96|22106|1;96|22107|1;96|22147|1;96|22148|1;96|22149|1;96|22150|1#获得一种稀有秘膳##200#0#0#踏雪寻异馔，冰盏盛霞辉。一啖山河动，鹤鸣云外归。#0#0#2#"
+- raw: "502#秘境尝奇#1#2#500#3#4#60015|1;54435|1;54378|3#1&96|22108|1;96|22109|1;96|22110|1;96|22111|1;96|22112|1;96|22113|1;96|22114|1;96|22115|1;96|22116|1;96|22101|1;96|22102|1;96|22103|1;96|22104|1;96|22105|1;96|22106|1;96|22107|1;96|22147|1;96|22148|1;96|22149|1;96|22150|1#获得一种四阶秘膳##200#0#0#踏雪寻异馔，冰盏盛霞辉。一啖山河动，鹤鸣云外归。#0#0#2#"
   splits:
   - split: 1
     text: "秘境尝奇"
     translated: "Exploring Hidden Wonders"
   - split: 9
-    text: "获得一种稀有秘膳"
-    translated: "Obtain a dish of rare secret cuisine"
+    text: "获得一种四阶秘膳"
+    translated: "Acquire a Tier 4 secret feast"
   - split: 14
     text: "踏雪寻异馔，冰盏盛霞辉。一啖山河动，鹤鸣云外归。"
     translated: "Traverse snowy paths in search of rare delicacies; a cup of ice holds the glow of dawn. A single bite stirs mountains and rivers; as cranes call beyond the clouds, they return."
-- raw: "503#仙宴遗珠#1#2#500#4#4#60015|1;54435|1;54385|3#1&96|22117|1;96|22118|1;96|22119|1;96|22120|1;96|22121|1;96|22122|1;96|22151|1;96|22152|1;96|22123|1;96|22124|1#获得一种天厨秘脍##200#0#0#云间落玉膳，疑似瑶台倾。触箸生幻境，鹤舞绕梁鸣。#0#0#2#"
+- raw: "503#仙宴遗珠#1#2#500#4#4#60015|1;54435|1;54385|3#1&96|22117|1;96|22118|1;96|22119|1;96|22120|1;96|22121|1;96|22122|1;96|22151|1;96|22152|1;96|22123|1;96|22124|1#获得一种五阶秘脍##200#0#0#云间落玉膳，疑似瑶台倾。触箸生幻境，鹤舞绕梁鸣。#0#0#2#"
   splits:
   - split: 1
     text: "仙宴遗珠"
     translated: "Immortal Banquet's Lost Pearl"
   - split: 9
-    text: "获得一种天厨秘脍"
-    translated: "Obtain a secret dish from the Heavenly Kitchen."
+    text: "获得一种五阶秘脍"
+    translated: "Obtain a Tier 5 secret technique"
   - split: 14
     text: "云间落玉膳，疑似瑶台倾。触箸生幻境，鹤舞绕梁鸣。"
     translated: "The jade platter descends from the clouds, as if tilted on a fairy terrace. Touching the chopsticks conjures an illusionary realm where cranes dance around beams in song."
-- raw: "524#小集巷香#1#2#515#10#4#60015|1;22047|2;54397|3#3&96|22013|1;96|22014|1;96|22015|1;96|22016|1;96|22017|1;96|22018|1;96|22078|1;96|22079|1;96|22080|1;96|22081|1;96|22082|1;96|22083|1;96|22084|1;96|22139|1;96|22140|1;96|22141|1;96|22142|1#获得三种常见粗肴##400#0#0#三味绕舌尖，巷深藏真淳。炊烟袅袅处，侠客暂栖身。#0#0#2#"
+- raw: "524#小集巷香#1#2#515#10#4#60015|1;22047|2;54397|3#3&96|22013|1;96|22014|1;96|22015|1;96|22016|1;96|22017|1;96|22018|1;96|22078|1;96|22079|1;96|22080|1;96|22081|1;96|22082|1;96|22083|1;96|22084|1;96|22139|1;96|22140|1;96|22141|1;96|22142|1#获得三种一阶或二阶粗肴##400#0#0#三味绕舌尖，巷深藏真淳。炊烟袅袅处，侠客暂栖身。#0#0#2#"
   splits:
   - split: 1
     text: "小集巷香"
     translated: "Small Lane's Fragrance"
   - split: 9
-    text: "获得三种常见粗肴"
-    translated: "Obtain three common types of coarse meat dishes."
+    text: "获得三种一阶或二阶粗肴"
+    translated: "Obtain three types of either Tier 1 or Tier 2 coarse fare."
   - split: 14
     text: "三味绕舌尖，巷深藏真淳。炊烟袅袅处，侠客暂栖身。"
     translated: "The taste of three flavors lingers on the tip of my tongue, hidden in the deep alleys is pure sincerity. Where wisps of cooking smoke rise gently, a wanderer finds temporary refuge."
-- raw: "525#锦席三绝#1#2#515#11#4#60015|1;22048|2;54398|3#3&96|22019|1;96|22020|1;96|22021|1;96|22022|1;96|22023|1;96|22024|1;96|22085|1;96|22086|1;96|22087|1;96|22088|1;96|22089|1;96|22090|1;96|22091|1;96|22092|1;96|22093|1;96|22094|1;96|22095|1;96|22096|1;96|22097|1;96|22098|1;96|22099|1;96|22100|1;96|22143|1#获得三种名贵佳味##400#0#0#三珍耀华宴，飞盏动檐铃。非是寻常物，出匣引龙吟。#0#0#2#"
+- raw: "525#锦席三绝#1#2#515#11#4#60015|1;22048|2;54398|3#3&96|22019|1;96|22020|1;96|22021|1;96|22022|1;96|22023|1;96|22024|1;96|22085|1;96|22086|1;96|22087|1;96|22088|1;96|22089|1;96|22090|1;96|22091|1;96|22092|1;96|22093|1;96|22094|1;96|22095|1;96|22096|1;96|22097|1;96|22098|1;96|22099|1;96|22100|1;96|22143|1#获得三种三阶佳味##400#0#0#三珍耀华宴，飞盏动檐铃。非是寻常物，出匣引龙吟。#0#0#2#"
   splits:
   - split: 1
     text: "锦席三绝"
     translated: "The Three Unsurpassed at the Brocade Table"
   - split: 9
-    text: "获得三种名贵佳味"
-    translated: "Acquire three rare and exquisite delicacies"
+    text: "获得三种三阶佳味"
+    translated: "Obtained three types of tier 3 exquisite flavors."
   - split: 14
     text: "三珍耀华宴，飞盏动檐铃。非是寻常物，出匣引龙吟。"
     translated: "At a banquet graced by the Three Precious Jewels, cups fly above as eaves rattle with sound. Not an ordinary spectacle, it's from the case they draw forth a dragon's roar."
-- raw: "526#三味惊鸿#1#2#515#12#4#60015|1;22049|2;54415|3#3&96|22108|1;96|22109|1;96|22110|1;96|22111|1;96|22112|1;96|22113|1;96|22114|1;96|22115|1;96|22116|1;96|22101|1;96|22102|1;96|22103|1;96|22104|1;96|22105|1;96|22106|1;96|22107|1;96|22147|1;96|22148|1;96|22149|1;96|22150|1#获得三种稀有秘膳##400#0#0#三奇汇玉盘，光转九霄低。箸停风骤起，传奇满旌旗。#0#0#3#"
+- raw: "526#三味惊鸿#1#2#515#12#4#60015|1;22049|2;54415|3#3&96|22108|1;96|22109|1;96|22110|1;96|22111|1;96|22112|1;96|22113|1;96|22114|1;96|22115|1;96|22116|1;96|22101|1;96|22102|1;96|22103|1;96|22104|1;96|22105|1;96|22106|1;96|22107|1;96|22147|1;96|22148|1;96|22149|1;96|22150|1#获得三种四阶秘膳##400#0#0#三奇汇玉盘，光转九霄低。箸停风骤起，传奇满旌旗。#0#0#3#"
   splits:
   - split: 1
     text: "三味惊鸿"
     translated: "Three Wonders Astonish the Dawn Skies"
   - split: 9
-    text: "获得三种稀有秘膳"
-    translated: "Acquired three types of uncommon secret delicacies"
+    text: "获得三种四阶秘膳"
+    translated: "Obtain three types of Tier 4 secret banquets."
   - split: 14
     text: "三奇汇玉盘，光转九霄低。箸停风骤起，传奇满旌旗。"
     translated: "The Jade Plate of the Three Wonders spins brightly in the low heavens. The chopsticks pause as a sudden gust rises, spreading legends across the flags."
-- raw: "527#三霞宴阙#1#2#515#13#4#60015|1;22050|2;54427|3#3&96|22117|1;96|22118|1;96|22119|1;96|22120|1;96|22121|1;96|22122|1;96|22151|1;96|22152|1;96|22123|1;96|22124|1#获得三种天厨秘脍##400#0#0#三灵耀天阙，琼液洗尘心。举杯邀北斗，飘然羽衣轻。#0#0#3#"
+- raw: "527#三霞宴阙#1#2#515#13#4#60015|1;22050|2;54427|3#3&96|22117|1;96|22118|1;96|22119|1;96|22120|1;96|22121|1;96|22122|1;96|22151|1;96|22152|1;96|22123|1;96|22124|1#获得三种五阶秘脍##400#0#0#三灵耀天阙，琼液洗尘心。举杯邀北斗，飘然羽衣轻。#0#0#3#"
   splits:
   - split: 1
     text: "三霞宴阙"
     translated: "The Third Gathering of the Three Hua is missing."
   - split: 9
-    text: "获得三种天厨秘脍"
-    translated: "Obtain three types of secret recipes from Tianchu cuisine."
+    text: "获得三种五阶秘脍"
+    translated: "Obtain three types of fifth‑tier secret recipes"
   - split: 14
     text: "三灵耀天阙，琼液洗尘心。举杯邀北斗，飘然羽衣轻。"
     translated: "The Three Spirits Illuminate the Heavenly Terrace; Nectar washes away the dust from my heart. Raising a cup to invite the Northern Dipper, floating lightly in celestial robes."
-- raw: "572#八珍过肆#1#2#560#13#4#60015|1;33164|1;54350|2#8&96|22013|1;96|22014|1;96|22015|1;96|22016|1;96|22017|1;96|22018|1;96|22078|1;96|22079|1;96|22080|1;96|22081|1;96|22082|1;96|22083|1;96|22084|1;96|22139|1;96|22140|1;96|22141|1;96|22142|1#获得八种常见粗肴##600#0#0#八味穿闹肆，香引故人归。马歇酒旗下，笑谈剑影飞。#0#0#3#"
+- raw: "572#八珍过肆#1#2#560#13#4#60015|1;33164|1;54350|2#8&96|22013|1;96|22014|1;96|22015|1;96|22016|1;96|22017|1;96|22018|1;96|22078|1;96|22079|1;96|22080|1;96|22081|1;96|22082|1;96|22083|1;96|22084|1;96|22139|1;96|22140|1;96|22141|1;96|22142|1#获得八种一阶或二阶粗肴##600#0#0#八味穿闹肆，香引故人归。马歇酒旗下，笑谈剑影飞。#0#0#3#"
   splits:
   - split: 1
     text: "八珍过肆"
     translated: "Eight Rare Delicacies Over a Meal"
   - split: 9
-    text: "获得八种常见粗肴"
-    translated: "Obtain eight common types of coarse‑grained meats"
+    text: "获得八种一阶或二阶粗肴"
+    translated: "Acquire eight types of Tier 1 or Tier 2 coarse cuisine."
   - split: 14
     text: "八味穿闹肆，香引故人归。马歇酒旗下，笑谈剑影飞。"
     translated: "The eight flavors stir up the bustling inn, enticing old friends to return. Beneath the tavern's sign of wine, laughter and tales soar as shadows dance with swords in flight."
-- raw: "573#珍楼宴月#1#2#560#14#4#60015|1;33165|1;54351|2#8&96|22019|1;96|22020|1;96|22021|1;96|22022|1;96|22023|1;96|22024|1;96|22085|1;96|22086|1;96|22087|1;96|22088|1;96|22089|1;96|22090|1;96|22091|1;96|22092|1;96|22093|1;96|22094|1;96|22095|1;96|22096|1;96|22097|1;96|22098|1;96|22099|1;96|22100|1;96|22143|1#获得八种名贵佳味##600#0#0#八珍叠琼阁，月下宴群英。举箸风云起，江湖留盛名。#0#0#3#"
+- raw: "573#珍楼宴月#1#2#560#14#4#60015|1;33165|1;54351|2#8&96|22019|1;96|22020|1;96|22021|1;96|22022|1;96|22023|1;96|22024|1;96|22085|1;96|22086|1;96|22087|1;96|22088|1;96|22089|1;96|22090|1;96|22091|1;96|22092|1;96|22093|1;96|22094|1;96|22095|1;96|22096|1;96|22097|1;96|22098|1;96|22099|1;96|22100|1;96|22143|1#获得八种三阶佳味##600#0#0#八珍叠琼阁，月下宴群英。举箸风云起，江湖留盛名。#0#0#3#"
   splits:
   - split: 1
     text: "珍楼宴月"
     translated: "Zhen Lou Banquet of the Month"
   - split: 9
-    text: "获得八种名贵佳味"
-    translated: "Obtained eight exquisite delicacies"
+    text: "获得八种三阶佳味"
+    translated: "Acquire eight types of tier 3 exquisite flavors."
   - split: 14
     text: "八珍叠琼阁，月下宴群英。举箸风云起，江湖留盛名。"
     translated: "In the Pavilion of Jade Layered with Eight Treasures, a banquet under the moon was held for the distinguished guests. As they raised their chopsticks, winds and clouds stirred; their remarkable deeds would remain celebrated in the Jianghu."
-- raw: "574#四海珍录#1#2#560#15#4#60015|1;33166|1;54360|2#8&96|22108|1;96|22109|1;96|22110|1;96|22111|1;96|22112|1;96|22113|1;96|22114|1;96|22115|1;96|22116|1;96|22101|1;96|22102|1;96|22103|1;96|22104|1;96|22105|1;96|22106|1;96|22107|1;96|22147|1;96|22148|1;96|22149|1;96|22150|1#获得八种稀有秘膳##600#0#0#八奇纳四海，味撼昆仑西。宴罢拂衣去，乾坤袖中栖。#0#0#5#"
+- raw: "574#四海珍录#1#2#560#15#4#60015|1;33166|1;54360|2#8&96|22108|1;96|22109|1;96|22110|1;96|22111|1;96|22112|1;96|22113|1;96|22114|1;96|22115|1;96|22116|1;96|22101|1;96|22102|1;96|22103|1;96|22104|1;96|22105|1;96|22106|1;96|22107|1;96|22147|1;96|22148|1;96|22149|1;96|22150|1#获得八种四阶秘膳##600#0#0#八奇纳四海，味撼昆仑西。宴罢拂衣去，乾坤袖中栖。#0#0#5#"
   splits:
   - split: 1
     text: "四海珍录"
     translated: "Four Seas Collection of Rare Items"
   - split: 9
-    text: "获得八种稀有秘膳"
-    translated: "Obtained eight types of rare secret dishes"
+    text: "获得八种四阶秘膳"
+    translated: "Obtained eight types of Tier 4 Secret Banquets."
   - split: 14
     text: "八奇纳四海，味撼昆仑西。宴罢拂衣去，乾坤袖中栖。"
     translated: "Eight wonders astonish the four seas, flavors that shake the Western Kunlun. After the feast, they brush off their robes and leave; the vastness of heaven rests in their sleeves."
-- raw: "575#八荒宴圣#1#2#560#16#4#60015|1;33019|1;54361|2#8&96|22117|1;96|22118|1;96|22119|1;96|22120|1;96|22121|1;96|22122|1;96|22151|1;96|22152|1;96|22123|1;96|22124|1#获得八种天厨秘脍##600#0#0#八圣镇八荒，箸动日月停。呼吸通星汉，宴罢步太清。#0#0#5#"
+- raw: "575#八荒宴圣#1#2#560#16#4#60015|1;33019|1;54361|2#8&96|22117|1;96|22118|1;96|22119|1;96|22120|1;96|22121|1;96|22122|1;96|22151|1;96|22152|1;96|22123|1;96|22124|1#获得八种五阶秘脍##600#0#0#八圣镇八荒，箸动日月停。呼吸通星汉，宴罢步太清。#0#0#5#"
   splits:
   - split: 1
     text: "八荒宴圣"
     translated: "Eight Extremes Celestial Banquet"
   - split: 9
-    text: "获得八种天厨秘脍"
-    translated: "Obtain the Eight Heavenly Culinary Secrets"
+    text: "获得八种五阶秘脍"
+    translated: "Acquired eight types of Tier 5 secret recipes."
   - split: 14
     text: "八圣镇八荒，箸动日月停。呼吸通星汉，宴罢步太清。"
     translated: "In the Eight Sanctuaries of Ba Sheng Town, chaos reigns as time itself halts with every gesture. Their breath connects the celestial constellations; after feasting, they tread upon the Pure Supreme."
@@ -2847,135 +2847,135 @@
   - split: 14
     text: "馐异膳伍来，珍馐满桌摆。食为天下美，味胜过长安。"
     translated: "Exquisite dishes from five regions arrive, filling the table with delicacies. Eating is regarded as a universal delight; its flavors surpass those of Chang'an."
-- raw: "601#初尝浊酿#1#2#600#2#7#60004|1;54435|1;54340|2#1&96|21009|1;96|21010|1;96|21011|1;96|21012|1;96|21013|1;96|21068|1;96|21069|1;96|21070|1;96|21071|1;96|21072|1;96|21073|1;96|21074|1;96|21075|1;96|21076|1;96|21077|1;96|21078|1;96|21079|1;96|21132|1;96|21133|1;96|21134|1;96|21131|1#获得一种浊酒##200#0#0#初尝浊酿酒，江湖风雨行。杯中有天地，侠义自此明。#0#0#1#"
+- raw: "601#初尝浊酿#1#2#600#2#7#60004|1;54435|1;54340|2#1&96|21009|1;96|21010|1;96|21011|1;96|21012|1;96|21013|1;96|21068|1;96|21069|1;96|21070|1;96|21071|1;96|21072|1;96|21073|1;96|21074|1;96|21075|1;96|21076|1;96|21077|1;96|21078|1;96|21079|1;96|21132|1;96|21133|1;96|21134|1;96|21131|1#获得一种一阶或二阶酒##200#0#0#初尝浊酿酒，江湖风雨行。杯中有天地，侠义自此明。#0#0#1#"
   splits:
   - split: 1
     text: "初尝浊酿"
     translated: "Tasting murky brews for the first time"
   - split: 9
-    text: "获得一种浊酒"
-    translated: "Obtain a type of cloudy wine"
+    text: "获得一种一阶或二阶酒"
+    translated: "Obtain a Tier 1 or Tier 2 wine."
   - split: 14
     text: "初尝浊酿酒，江湖风雨行。杯中有天地，侠义自此明。"
     translated: "Tasting the cloudy brew for the first time, wandering through the tempests of Jianghu. In a cup lies heaven and earth; here, chivalry becomes clear."
-- raw: "602#偶得清酿#1#2#600#3#7#60004|1;54435|1;54350|2#1&96|21014|1;96|21015|1;96|21080|1;96|21081|1;96|21082|1;96|21083|1;96|21084|1;96|21085|1;96|21086|1;96|21087|1;96|21088|1;96|21089|1;96|21090|1;96|21091|1;96|21092|1;96|21093|1;96|21094|1;96|21135|1;96|21136|1#获得一种清酿##200#0#0#偶得清酿酒，清香透玉壶。侠客轻酌饮，步履踏云舒#0#0#1#"
+- raw: "602#偶得清酿#1#2#600#3#7#60004|1;54435|1;54350|2#1&96|21014|1;96|21015|1;96|21080|1;96|21081|1;96|21082|1;96|21083|1;96|21084|1;96|21085|1;96|21086|1;96|21087|1;96|21088|1;96|21089|1;96|21090|1;96|21091|1;96|21092|1;96|21093|1;96|21094|1;96|21135|1;96|21136|1#获得一种三阶酒##200#0#0#偶得清酿酒，清香透玉壶。侠客轻酌饮，步履踏云舒#0#0#1#"
   splits:
   - split: 1
     text: "偶得清酿"
     translated: "I chanced upon some clear‑brewed ale"
   - split: 9
-    text: "获得一种清酿"
-    translated: "Obtain a batch of pure‑fermented wine"
+    text: "获得一种三阶酒"
+    translated: "Acquire a Tier 3 wine"
   - split: 14
     text: "偶得清酿酒，清香透玉壶。侠客轻酌饮，步履踏云舒"
     translated: "I happened upon a delicately brewed wine, its fragrance so pure it seems to flow through jade goblets. The wanderer takes a gentle sip and with each step feels the clouds beneath his feet ease."
-- raw: "603#琼浆初品#1#2#600#4#7#60004|1;54435|1;54351|2#1&96|21016|1;96|21095|1;96|21096|1;96|21097|1;96|21098|1;96|21099|1;96|21100|1;96|21101|1;96|21102|1;96|21103|1;96|21104|1;96|21105|1;96|21106|1;96|21107|1;96|21108|1;96|21109|1;96|21110|1;96|21137|1;96|21138|1;96|21139|1;96|21140|1#获得一种琼浆##200#0#0#初品琼浆液，甘露润心田。酒香引鹤至，飘然似神仙。#0#0#2#"
+- raw: "603#琼浆初品#1#2#600#4#7#60004|1;54435|1;54351|2#1&96|21016|1;96|21095|1;96|21096|1;96|21097|1;96|21098|1;96|21099|1;96|21100|1;96|21101|1;96|21102|1;96|21103|1;96|21104|1;96|21105|1;96|21106|1;96|21107|1;96|21108|1;96|21109|1;96|21110|1;96|21137|1;96|21138|1;96|21139|1;96|21140|1#获得一种四阶酒##200#0#0#初品琼浆液，甘露润心田。酒香引鹤至，飘然似神仙。#0#0#2#"
   splits:
   - split: 1
     text: "琼浆初品"
     translated: "First savor of the nectar dew"
   - split: 9
-    text: "获得一种琼浆"
-    translated: "Obtain a potion of nectar"
+    text: "获得一种四阶酒"
+    translated: "Obtain a Tier 4 wine"
   - split: 14
     text: "初品琼浆液，甘露润心田。酒香引鹤至，飘然似神仙。"
     translated: "Savoring the first sip of nectar, sweet dew refreshes the heart. The aroma of wine draws in cranes; it seems like floating with immortals."
-- raw: "604#玉露沾唇#1#2#600#5#7#60004|1;54435|1;54360|2#1&96|21111|1;96|21112|1;96|21113|1;96|21114|1;96|21115|1;96|21117|1;96|21116|1;96|21118|1;96|21141|1;96|21142|1#获得一种玉露##200#0#0#露初沾唇，清冽胜甘泉。酒香透云霄，侠影舞翩跹。#0#0#2#"
+- raw: "604#玉露沾唇#1#2#600#5#7#60004|1;54435|1;54360|2#1&96|21111|1;96|21112|1;96|21113|1;96|21114|1;96|21115|1;96|21117|1;96|21116|1;96|21118|1;96|21141|1;96|21142|1#获得一种五阶酒##200#0#0#露初沾唇，清冽胜甘泉。酒香透云霄，侠影舞翩跹。#0#0#2#"
   splits:
   - split: 1
     text: "玉露沾唇"
     translated: "Jade dew graces her lips"
   - split: 9
-    text: "获得一种玉露"
-    translated: "Obtained a kind of jade dew"
+    text: "获得一种五阶酒"
+    translated: "Obtain a Tier 5 wine"
   - split: 14
     text: "露初沾唇，清冽胜甘泉。酒香透云霄，侠影舞翩跹。"
     translated: "Just as a fresh touch of dew lingers on the lips, its taste surpasses that of sweet springs. The fragrance of wine drifts through clouds and skies; gallant shadows dance gracefully."
-- raw: "637#三杯巷韵#1#2#630#8#7#60004|1;9065|1;54397|2#3&96|21009|1;96|21010|1;96|21011|1;96|21012|1;96|21013|1;96|21068|1;96|21069|1;96|21070|1;96|21071|1;96|21072|1;96|21073|1;96|21074|1;96|21075|1;96|21076|1;96|21077|1;96|21078|1;96|21079|1;96|21132|1;96|21133|1;96|21134|1;96|21131|1#获得三种浊酒##400#0#0#三盏暖肝肠，巷深藏真淳。旗亭炉火旺，侠客暂栖身。#0#0#2#"
+- raw: "637#三杯巷韵#1#2#630#8#7#60004|1;9065|1;54397|2#3&96|21009|1;96|21010|1;96|21011|1;96|21012|1;96|21013|1;96|21068|1;96|21069|1;96|21070|1;96|21071|1;96|21072|1;96|21073|1;96|21074|1;96|21075|1;96|21076|1;96|21077|1;96|21078|1;96|21079|1;96|21132|1;96|21133|1;96|21134|1;96|21131|1#获得三种一阶或二阶酒##400#0#0#三盏暖肝肠，巷深藏真淳。旗亭炉火旺，侠客暂栖身。#0#0#2#"
   splits:
   - split: 1
     text: "三杯巷韵"
     translated: "Sanbei Village's Rhythm"
   - split: 9
-    text: "获得三种浊酒"
-    translated: "Obtain three types of fermented beverages"
+    text: "获得三种一阶或二阶酒"
+    translated: "Acquire three kinds of Tier 1 or Tier 2 wine."
   - split: 14
     text: "三盏暖肝肠，巷深藏真淳。旗亭炉火旺，侠客暂栖身。"
     translated: "Three lanterns warm the heart and belly, in deep alleys hides true sincerity. At the inn by the flagpole, a lively fire burns; the wanderer finds temporary refuge here."
-- raw: "638#三樽流霞#1#2#630#9#7#60004|1;9066|1;54398|2#3&96|21014|1;96|21015|1;96|21080|1;96|21081|1;96|21082|1;96|21083|1;96|21084|1;96|21085|1;96|21086|1;96|21087|1;96|21088|1;96|21089|1;96|21090|1;96|21091|1;96|21092|1;96|21093|1;96|21094|1;96|21135|1;96|21136|1#获得三种清酿##400#0#0#三清耀玉案，飞盏动风铃。非是寻常物，出瓮引鹤鸣。#0#0#2#"
+- raw: "638#三樽流霞#1#2#630#9#7#60004|1;9066|1;54398|2#3&96|21014|1;96|21015|1;96|21080|1;96|21081|1;96|21082|1;96|21083|1;96|21084|1;96|21085|1;96|21086|1;96|21087|1;96|21088|1;96|21089|1;96|21090|1;96|21091|1;96|21092|1;96|21093|1;96|21094|1;96|21135|1;96|21136|1#获得三种三阶酒##400#0#0#三清耀玉案，飞盏动风铃。非是寻常物，出瓮引鹤鸣。#0#0#2#"
   splits:
   - split: 1
     text: "三樽流霞"
     translated: "Three Cups of Sunset Glow"
   - split: 9
-    text: "获得三种清酿"
-    translated: "Obtained three varieties of clear brews"
+    text: "获得三种三阶酒"
+    translated: "Obtain three types of tier 3 wine"
   - split: 14
     text: "三清耀玉案，飞盏动风铃。非是寻常物，出瓮引鹤鸣。"
     translated: "The jade table of the Three Pure Ones gleams as the flying cup stirs the wind chimes. This is no ordinary object; drawn from a jar, it summons the cry of cranes."
-- raw: "639#三味流觞#1#2#630#10#7#60004|1;9067|1;54415|2#3&96|21016|1;96|21095|1;96|21096|1;96|21097|1;96|21098|1;96|21099|1;96|21100|1;96|21101|1;96|21102|1;96|21103|1;96|21104|1;96|21105|1;96|21106|1;96|21107|1;96|21108|1;96|21109|1;96|21110|1;96|21137|1;96|21138|1;96|21139|1;96|21140|1#获得三种琼浆##400#0#0#三奇汇玉斗，光转九霄低。杯停风骤起，传奇满酒旗。#0#0#3#"
+- raw: "639#三味流觞#1#2#630#10#7#60004|1;9067|1;54415|2#3&96|21016|1;96|21095|1;96|21096|1;96|21097|1;96|21098|1;96|21099|1;96|21100|1;96|21101|1;96|21102|1;96|21103|1;96|21104|1;96|21105|1;96|21106|1;96|21107|1;96|21108|1;96|21109|1;96|21110|1;96|21137|1;96|21138|1;96|21139|1;96|21140|1#获得三种四阶酒##400#0#0#三奇汇玉斗，光转九霄低。杯停风骤起，传奇满酒旗。#0#0#3#"
   splits:
   - split: 1
     text: "三味流觞"
     translated: "Three Flavors of Savoring Wine"
   - split: 9
-    text: "获得三种琼浆"
-    translated: "Obtain three types of ambrosial nectar"
+    text: "获得三种四阶酒"
+    translated: "Obtained three kinds of Tier 4 wine"
   - split: 14
     text: "三奇汇玉斗，光转九霄低。杯停风骤起，传奇满酒旗。"
     translated: "In a remarkable gathering of three rare jade fighters, the light shifted in the vast heavens. The cup paused as an abrupt wind arose, carrying legends to fill the banners with wine."
-- raw: "640#三盏天香#1#2#630#11#7#60004|1;9068|1;54427|2#3&96|21111|1;96|21112|1;96|21113|1;96|21114|1;96|21115|1;96|21117|1;96|21116|1;96|21118|1;96|21141|1;96|21142|1#获得三种玉露##400#0#0#三盏天香醉，玉露润仙骨。剑舞惊鸿影，酒中悟真如。#0#0#3#"
+- raw: "640#三盏天香#1#2#630#11#7#60004|1;9068|1;54427|2#3&96|21111|1;96|21112|1;96|21113|1;96|21114|1;96|21115|1;96|21117|1;96|21116|1;96|21118|1;96|21141|1;96|21142|1#获得三种五阶酒##400#0#0#三盏天香醉，玉露润仙骨。剑舞惊鸿影，酒中悟真如。#0#0#3#"
   splits:
   - split: 1
     text: "三盏天香"
     translated: "Three Heavenly Fragrances"
   - split: 9
-    text: "获得三种玉露"
-    translated: "Obtain three varieties of jade dew"
+    text: "获得三种五阶酒"
+    translated: "Obtained three types of tier five wine"
   - split: 14
     text: "三盏天香醉，玉露润仙骨。剑舞惊鸿影，酒中悟真如。"
     translated: "Three lamps daze with heavenly fragrance, jade dew nourishes the ethereal bones. In swordplay, swan shadows startle; in wine, true realization is found."
-- raw: "667#清阁揽月#1#2#660#8#7#60004|1;33255|1;54415|3#8&96|21009|1;96|21010|1;96|21011|1;96|21012|1;96|21013|1;96|21068|1;96|21069|1;96|21070|1;96|21071|1;96|21072|1;96|21073|1;96|21074|1;96|21075|1;96|21076|1;96|21077|1;96|21078|1;96|21079|1;96|21132|1;96|21133|1;96|21134|1;96|21131|1#获得八种浊酒##600#0#0#八瓮穿闹市，香引故人归。马歇杏旗下，笑谈刀剑飞。#0#0#3#"
+- raw: "667#清阁揽月#1#2#660#8#7#60004|1;33255|1;54415|3#8&96|21009|1;96|21010|1;96|21011|1;96|21012|1;96|21013|1;96|21068|1;96|21069|1;96|21070|1;96|21071|1;96|21072|1;96|21073|1;96|21074|1;96|21075|1;96|21076|1;96|21077|1;96|21078|1;96|21079|1;96|21132|1;96|21133|1;96|21134|1;96|21131|1#获得八种一阶或二阶酒##600#0#0#八瓮穿闹市，香引故人归。马歇杏旗下，笑谈刀剑飞。#0#0#3#"
   splits:
   - split: 1
     text: "清阁揽月"
     translated: "Clear Pavilion Embracing the Moon"
   - split: 9
-    text: "获得八种浊酒"
-    translated: "Obtain eight types of muddy wine"
+    text: "获得八种一阶或二阶酒"
+    translated: "Obtain eight types of first or second tier wines."
   - split: 14
     text: "八瓮穿闹市，香引故人归。马歇杏旗下，笑谈刀剑飞。"
     translated: "In the bustling city streets, the scent of incense draws old friends back. Beneath the peach banner, they jest about swords and blades soaring through the air as if in flight."
-- raw: "668#八珍凝脂#1#2#660#9#7#60004|1;33256|1;54427|3#8&96|21014|1;96|21015|1;96|21080|1;96|21081|1;96|21082|1;96|21083|1;96|21084|1;96|21085|1;96|21086|1;96|21087|1;96|21088|1;96|21089|1;96|21090|1;96|21091|1;96|21092|1;96|21093|1;96|21094|1;96|21135|1;96|21136|1#获得八种清酿##600#0#0#八清叠琼阁，月下宴群英。举杯风云起，江湖留酒名。#0#0#3#"
+- raw: "668#八珍凝脂#1#2#660#9#7#60004|1;33256|1;54427|3#8&96|21014|1;96|21015|1;96|21080|1;96|21081|1;96|21082|1;96|21083|1;96|21084|1;96|21085|1;96|21086|1;96|21087|1;96|21088|1;96|21089|1;96|21090|1;96|21091|1;96|21092|1;96|21093|1;96|21094|1;96|21135|1;96|21136|1#获得八种三阶酒##600#0#0#八清叠琼阁，月下宴群英。举杯风云起，江湖留酒名。#0#0#3#"
   splits:
   - split: 1
     text: "八珍凝脂"
     translated: "Eight Treasures Essence Cream"
   - split: 9
-    text: "获得八种清酿"
-    translated: "Obtain eight types of refined brews"
+    text: "获得八种三阶酒"
+    translated: "Obtain eight kinds of tier three alcohol"
   - split: 14
     text: "八清叠琼阁，月下宴群英。举杯风云起，江湖留酒名。"
     translated: "On the Clear Jade Terrace, under the moonlight they hosted a gathering of distinguished heroes. With a toast, winds and clouds stirred; in Jianghu, their banquet became renowned."
-- raw: "669#八斗星辉#1#2#660#10#7#60004|1;33084|1;54428|3#8&96|21016|1;96|21095|1;96|21096|1;96|21097|1;96|21098|1;96|21099|1;96|21100|1;96|21101|1;96|21102|1;96|21103|1;96|21104|1;96|21105|1;96|21106|1;96|21107|1;96|21108|1;96|21109|1;96|21110|1;96|21137|1;96|21138|1;96|21139|1;96|21140|1#获得八种琼浆##600#0#0#三杯玉露饮，琼浆映月华。侠名传四海，酒香醉云霞。#0#0#5#"
+- raw: "669#八斗星辉#1#2#660#10#7#60004|1;33084|1;54428|3#8&96|21016|1;96|21095|1;96|21096|1;96|21097|1;96|21098|1;96|21099|1;96|21100|1;96|21101|1;96|21102|1;96|21103|1;96|21104|1;96|21105|1;96|21106|1;96|21107|1;96|21108|1;96|21109|1;96|21110|1;96|21137|1;96|21138|1;96|21139|1;96|21140|1#获得八种四阶酒##600#0#0#三杯玉露饮，琼浆映月华。侠名传四海，酒香醉云霞。#0#0#5#"
   splits:
   - split: 1
     text: "八斗星辉"
     translated: "Eight Brooms Star Brilliance"
   - split: 9
-    text: "获得八种琼浆"
-    translated: "Obtained the eight types of celestial nectar"
+    text: "获得八种四阶酒"
+    translated: "Obtained eight types of tier four alcohol"
   - split: 14
     text: "三杯玉露饮，琼浆映月华。侠名传四海，酒香醉云霞。"
     translated: "Three cups of jade dew wine, with nectar reflecting the moonlight. A hero's name spreads across the seas; the fragrance of wine intoxicates the clouds and flowers."
-- raw: "670#精酿缥醪#1#2#660#11#7#60004|1;33223|1;54339|3#8&96|21111|1;96|21112|1;96|21113|1;96|21114|1;96|21115|1;96|21117|1;96|21116|1;96|21118|1;96|21141|1;96|21142|1#获得八种玉露##600#0#0#八斗星辉落，玉露酿成河。醉揽九天月，长歌踏星河。#0#0#5#"
+- raw: "670#精酿缥醪#1#2#660#11#7#60004|1;33223|1;54339|3#8&96|21111|1;96|21112|1;96|21113|1;96|21114|1;96|21115|1;96|21117|1;96|21116|1;96|21118|1;96|21141|1;96|21142|1#获得八种五阶酒##600#0#0#八斗星辉落，玉露酿成河。醉揽九天月，长歌踏星河。#0#0#5#"
   splits:
   - split: 1
     text: "精酿缥醪"
     translated: "Masterfully crafted ethereal wine"
   - split: 9
-    text: "获得八种玉露"
-    translated: "Obtain eight varieties of jade dew"
+    text: "获得八种五阶酒"
+    translated: "Obtained eight types of tier 5 wine"
   - split: 14
     text: "八斗星辉落，玉露酿成河。醉揽九天月，长歌踏星河。"
     translated: "With the glory of Eight Dipper diminished and jade dew transformed into a river, I grasp the moon from the Nine Heavens and sing along while stepping across the starry river."
@@ -5960,7 +5960,7 @@
   - split: 14
     text: "无心之地宫，机关锁古謎。冒险者无畏，秘宝光芒里。"
     translated: "The Guan Mansion of the Unintended Realm, its ancient mechanism a mystery. Adventurers undaunted, within the glow of the secret treasure."
-- raw: "2400#丢失手镯#1#1#2400#1#3#60008|1;5027|3;22043|1#0&1|301001|1#完成奇遇任务《丢失的手镯》##200#0#0#手镯丢失夜，心绪如丝乱。寻觅千百转，遗憾满心间。#0#0#1#"
+- raw: "2400#丢失手镯#1#1#2400#1#3#60008|1;5027|3;22043|1#1&24|972542|1;24|953511|1#完成奇遇任务《丢失的手镯》##200###手镯丢失夜，心绪如丝乱。寻觅千百转，遗憾满心间。#0#0#1#"
   splits:
   - split: 1
     text: "丢失手镯"
@@ -5971,7 +5971,7 @@
   - split: 14
     text: "手镯丢失夜，心绪如丝乱。寻觅千百转，遗憾满心间。"
     translated: "The bracelet was lost one night, and my thoughts were all in disarray. After searching countless times, regret filled my heart."
-- raw: "2401#毕生之憾#1#1#2401#1#3#60008|1;5028|3;22044|1#0&1|301002|1#完成奇遇任务《毕生之憾》##200#0#0#毕生憾事重，回忆绕心头。遗梦随风去，往事不复求。#0#0#1#"
+- raw: "2401#毕生之憾#1#1#2401#1#3#60008|1;5028|3;22044|1#0&24|988850|1#完成奇遇任务《毕生之憾》##200###毕生憾事重，回忆绕心头。遗梦随风去，往事不复求。#0#0#1#"
   splits:
   - split: 1
     text: "毕生之憾"
@@ -5982,29 +5982,7 @@
   - split: 14
     text: "毕生憾事重，回忆绕心头。遗梦随风去，往事不复求。"
     translated: "A lifetime of regrets weighs heavily on my heart as memories linger within. Let go of past dreams carried away by the wind; do not seek what once was again."
-- raw: "2402#竹间棋奕#1#1#2402#1#3#60008|1;22045|1;5028|3#0&1|301003|1#完成奇遇任务《竹间棋奕》##200#0#0#竹间棋奕静，智慧斗心机。布局间藏意，对弈乐悠悠。#0#0#1#"
-  splits:
-  - split: 1
-    text: "竹间棋奕"
-    translated: "Playing chess amidst bamboo"
-  - split: 9
-    text: "完成奇遇任务《竹间棋奕》"
-    translated: "Complete the quest 'Chess in the Bamboo Grove.'"
-  - split: 14
-    text: "竹间棋奕静，智慧斗心机。布局间藏意，对弈乐悠悠。"
-    translated: "In the quiet of bamboo alleys, chess is played‑wisdom against cunning. Hidden strategies unfold on the board; the game unfolds leisurely."
-- raw: "2403#伤重之人#1#1#2403#1#3#60008|1;5030|3;22046|1#0&1|301004|1#完成奇遇任务《伤重之人》##200#0#0#伤痕累累身，生命力仍存。疗愈在黄昏，重拾战意浓。#0#0#1#"
-  splits:
-  - split: 1
-    text: "伤重之人"
-    translated: "A gravely injured person"
-  - split: 9
-    text: "完成奇遇任务《伤重之人》"
-    translated: "Complete the adventure task The Injured Person"
-  - split: 14
-    text: "伤痕累累身，生命力仍存。疗愈在黄昏，重拾战意浓。"
-    translated: "Battered and bruised yet alive, my vitality remains. As twilight brings healing, the will to fight resurges strongly."
-- raw: "2404#昂贵秘籍#1#1#2404#1#3#60008|1;5031|3;22047|1#0&1|301005|1#完成奇遇任务《昂贵的秘籍》##200#0#0#昂贵秘籍藏，知识价连城。智者夜读中，探索无穷尽。#0#0#1#"
+- raw: "2404#昂贵秘籍#1#1#2404#1#3#60008|1;5031|3;22047|1#0&24|988763|1#完成奇遇任务《昂贵的秘籍》##200###昂贵秘籍藏，知识价连城。智者夜读中，探索无穷尽。#0#0#1#"
   splits:
   - split: 1
     text: "昂贵秘籍"
@@ -6015,18 +5993,7 @@
   - split: 14
     text: "昂贵秘籍藏，知识价连城。智者夜读中，探索无穷尽。"
     translated: "The precious secret manual is stored away, its knowledge worth a fortune. In the quiet of night, wise ones delve into it endlessly, their quest for understanding boundless."
-- raw: "2405#论战会友#1#1#2405#1#3#60008|1;5032|3;22048|1#0&1|301006|1#完成奇遇任务《论道会友》##200#0#0#论战结良缘，会友在烽烟。比武交心意，知己两相悦。#0#0#1#"
-  splits:
-  - split: 1
-    text: "论战会友"
-    translated: "Engage in a battle of wits"
-  - split: 9
-    text: "完成奇遇任务《论道会友》"
-    translated: "Complete the adventure task 'Discussing Philosophy with a Friend.'"
-  - split: 14
-    text: "论战结良缘，会友在烽烟。比武交心意，知己两相悦。"
-    translated: "Debating in battle forges good connections; meeting friends amidst smoke signals. Competing and exchanging hearts leads to mutual joy between those who are kindred spirits."
-- raw: "2406#吃鱼的狗#1#1#2406#1#3#60008|1;22049|1;5028|3#0&1|301007|1#完成奇遇任务《爱吃鱼的狗》##200#0#0#吃鱼倾心狗，湖畔日常忙。鱼跃狗眼快，欢腾水波旁。#0#0#1#"
+- raw: "2406#吃鱼的狗#1#1#2406#1#3#60008|1;22049|1;5028|3#1&27|30072|1;24|972489|1#完成奇遇任务《爱吃鱼的狗》##200###吃鱼倾心狗，湖畔日常忙。鱼跃狗眼快，欢腾水波旁。#0#0#1#"
   splits:
   - split: 1
     text: "吃鱼的狗"
@@ -6037,7 +6004,7 @@
   - split: 14
     text: "吃鱼倾心狗，湖畔日常忙。鱼跃狗眼快，欢腾水波旁。"
     translated: "Fond of fish and dogs alike, the lakeside life is bustling every day. Fish leap swiftly past watchful dog eyes; joyously, ripples dance along their sides."
-- raw: "2407#井中之物#1#1#2407#1#3#60008|1;9074|3;22050|1#0&1|301008|1#完成奇遇任务《井中之物》##200#0#0#井中物隐秘，深藏不露面。探头窥一瞥，奥秘水中显。#0#0#1#"
+- raw: "2407#井中之物#1#1#2407#1#3#60008|1;9074|3;22050|1#0&24|988681|1#完成奇遇任务《井中之物》##200###井中物隐秘，深藏不露面。探头窥一瞥，奥秘水中显。#0#0#1#"
   splits:
   - split: 1
     text: "井中之物"
@@ -6048,18 +6015,7 @@
   - split: 14
     text: "井中物隐秘，深藏不露面。探头窥一瞥，奥秘水中显。"
     translated: "Mysteries lie hidden deep within the well, veiled and concealed from sight. Peering in for a glimpse reveals secrets unfolding beneath the water's surface."
-- raw: "2408#缅怀故人#1#1#2408#1#3#60008|1;9075|3;22131|1#0&1|301009|1#完成奇遇任务《缅怀故人》##200#0#0#缅怀逝去人，心绪如秋温。月光照旧影，低吟忆故友。#0#0#1#"
-  splits:
-  - split: 1
-    text: "缅怀故人"
-    translated: "Remembering dear friends who have passed away"
-  - split: 9
-    text: "完成奇遇任务《缅怀故人》"
-    translated: "Complete the adventure quest 'In Memoriam Friends'"
-  - split: 14
-    text: "缅怀逝去人，心绪如秋温。月光照旧影，低吟忆故友。"
-    translated: "In mourning those who have passed, my thoughts are as gentle as an autumn breeze. The moonlight illuminates familiar shadows, and in a low whisper, I recall old friends."
-- raw: "2409#瀑布锻体#1#1#2409#1#3#60008|1;9075|3;22131|1#0&1|301010|1#完成奇遇任务《瀑布锻体》##200#0#0#瀑布锻体劲，水势如雷鸣。身经百战者，磨砺更坚定。#0#0#1#"
+- raw: "2409#瀑布锻体#1#1#2409#1#3#60008|1;9075|3;22131|1#0&24|988578|1#完成奇遇任务《瀑布锻体》##200###瀑布锻体劲，水势如雷鸣。身经百战者，磨砺更坚定。#0#0#1#"
   splits:
   - split: 1
     text: "瀑布锻体"
@@ -6070,7 +6026,7 @@
   - split: 14
     text: "瀑布锻体劲，水势如雷鸣。身经百战者，磨砺更坚定。"
     translated: "The waterfall forges a formidable strength; its current roars like thunder. Those who have experienced a hundred battles become even more resilient through such trials."
-- raw: "2410#落跑公主#1#1#2410#1#3#60008|1;9077|3;21036|1#0&1|301011|1#完成奇遇任务《落跑公主》##200#0#0#公主夜落跑，逃离金笼开。自由恋江湖，风月伴身边。#0#0#1#"
+- raw: "2410#落跑公主#1#1#2410#1#3#60008|1;9077|3;21036|1#0&24|988544|1#完成奇遇任务《落跑公主》##200###公主夜落跑，逃离金笼开。自由恋江湖，风月伴身边。#0#0#1#"
   splits:
   - split: 1
     text: "落跑公主"
@@ -6081,18 +6037,7 @@
   - split: 14
     text: "公主夜落跑，逃离金笼开。自由恋江湖，风月伴身边。"
     translated: "The princess fled into the night from her golden cage. She sought freedom in the Jianghu, with wind and moon by her side."
-- raw: "2411#年久失修#1#1#2411#1#3#60008|1;9078|3;21037|1#0&1|301012|1#完成奇遇任务《年久失修》##200#0#0#年久失修地，荒废见岁月。旧迹斑驳中，寻觅往日痕。#0#0#1#"
-  splits:
-  - split: 1
-    text: "年久失修"
-    translated: "Long‑neglected"
-  - split: 9
-    text: "完成奇遇任务《年久失修》"
-    translated: "Complete the adventure task Years of Neglect"
-  - split: 14
-    text: "年久失修地，荒废见岁月。旧迹斑驳中，寻觅往日痕。"
-    translated: "Long‑neglected and left to decay by the passage of time. Amongst the worn remnants, I search for traces of days gone by."
-- raw: "2412#菩提石像#1#1#2412#1#3#60008|1;9079|3;21038|1#0&1|301013|1#有特制礼香后去试试给菩提像上香吧##200#0#0#菩提石像前，修行问心源。静坐感悟深，心灵得净化。#0#0#1#"
+- raw: "2412#菩提石像#1#1#2412#1#3#60008|1;9079|3;21038|1#0&24|973710|1#有特制礼香后去试试给菩提像上香吧##200###菩提石像前，修行问心源。静坐感悟深，心灵得净化。#0#0#1#"
   splits:
   - split: 1
     text: "菩提石像"
@@ -6103,7 +6048,7 @@
   - split: 14
     text: "菩提石像前，修行问心源。静坐感悟深，心灵得净化。"
     translated: "Before the statue of Bodhi, seek the source within your heart through practice. In quiet sitting, delve into deep understanding; thus, your spirit achieves purification."
-- raw: "2413#云鹤疑云#1#1#2413#1#3#60008|1;9080|3;21039|1#0&1|301014|1#完成奇遇任务《云鹤疑云》##200#0#0#云鹤疑云间，仙影隐山川。飘渺间探寻，仙踪难再现。#0#0#1#"
+- raw: "2413#云鹤疑云#1#1#2413#1#3#60008|1;9080|3;21039|1#1&24|990336|1;24|990313|1#完成奇遇任务《云鹤疑云》##200###云鹤疑云间，仙影隐山川。飘渺间探寻，仙踪难再现。#0#0#1#"
   splits:
   - split: 1
     text: "云鹤疑云"
@@ -6114,7 +6059,7 @@
   - split: 14
     text: "云鹤疑云间，仙影隐山川。飘渺间探寻，仙踪难再现。"
     translated: "A cloud of mystery hovers in the sky, with a celestial shadow hidden among the mountains. In this ethereal realm, searching reveals that the traces of divinity are hard to find again."
-- raw: "2414#天门山上#1#1#2414#1#3#60008|1;9081|3;21040|1#0&1|301015|1#完成奇遇任务《天门山上》##200#0#0#天门山之巅，仙气绕峰转。登高望神州，心旷神怡情。#0#0#1#"
+- raw: "2414#天门山上#1#1#2414#1#3#60008|1;9081|3;21040|1#1&24|990356|1;24|990336|1#完成奇遇任务《天门山上》##200###天门山之巅，仙气绕峰转。登高望神州，心旷神怡情。#0#0#1#"
   splits:
   - split: 1
     text: "天门山上"
@@ -6125,7 +6070,7 @@
   - split: 14
     text: "天门山之巅，仙气绕峰转。登高望神州，心旷神怡情。"
     translated: "At the peak of Heavenly Gate Mountain, ethereal mists swirl around the summits. Gazing far across the realm from this height fills one with an expansive and joyful spirit."
-- raw: "2415#金光圃旁#1#1#2415#1#3#60008|1;9082|1;21041|1#0&1|301016|1#完成奇遇任务《金光圃旁》##200#0#0#金光圃旁晚，花影舞轻扬。闲步中沉思，岁月静好长。#0#0#1#"
+- raw: "2415#金光圃旁#1#1#2415#1#3#60008|1;9082|1;21041|1#0&24|949349|1#完成奇遇任务《金光圃旁》##200###金光圃旁晚，花影舞轻扬。闲步中沉思，岁月静好长。#0#0#1#"
   splits:
   - split: 1
     text: "金光圃旁"
@@ -6136,7 +6081,7 @@
   - split: 14
     text: "金光圃旁晚，花影舞轻扬。闲步中沉思，岁月静好长。"
     translated: "By the side of the Golden Light Garden in the evening, floral shadows dance lightly. Strolling leisurely, I ponder, with time passing quietly and peacefully."
-- raw: "2416#酒楼轶闻#1#1#2416#1#3#60008|1;9083|3;21042|1#0&1|301017|1#完成奇遇任务《酒楼轶闻》##200#0#0#酒楼传轶闻，故事醉人心。举杯邀月影，佳话共欢欣。#0#0#1#"
+- raw: "2416#酒楼轶闻#1#1#2416#1#3#60008|1;9083|3;21042|1#0&3|37033|1;3|37090|1#完成奇遇任务《酒楼轶闻》##200###酒楼传轶闻，故事醉人心。举杯邀月影，佳话共欢欣。#0#0#1#"
   splits:
   - split: 1
     text: "酒楼轶闻"
@@ -6147,29 +6092,7 @@
   - split: 14
     text: "酒楼传轶闻，故事醉人心。举杯邀月影，佳话共欢欣。"
     translated: "Tavern tales are captivating and heart‑stealing. Raising a cup to invite the moon's shadow, sharing splendid stories in joyful company."
-- raw: "2417#令羽之墓#1#1#2417#1#3#60008|1;9084|3;21123|1#0&1|301018|1#完成奇遇任务《虞令羽之墓》##200#0#0#令羽将军墓，英魂葬此中。献花祭英烈，仁勇永传颂。#0#0#1#"
-  splits:
-  - split: 1
-    text: "令羽之墓"
-    translated: "Mausoleum of Qingyu"
-  - split: 9
-    text: "完成奇遇任务《虞令羽之墓》"
-    translated: "Complete the adventure task Yu Lingyu's Tomb"
-  - split: 14
-    text: "令羽将军墓，英魂葬此中。献花祭英烈，仁勇永传颂。"
-    translated: "Here lies the tomb of General Lingyu, where his spirit rests. Offer flowers to honor this hero, whose benevolence and bravery will be celebrated forever."
-- raw: "2418#菩提奇缘#1#1#2418#1#3#60008|1;9085|3;21124|1#0&1|301019|1#完成奇遇任务《菩提奇缘》##200#0#0#菩提树下缘，奇遇生心田。修行获真谛，灵魂得净化。#0#0#1#"
-  splits:
-  - split: 1
-    text: "菩提奇缘"
-    translated: "Enlightenment by Chance"
-  - split: 9
-    text: "完成奇遇任务《菩提奇缘》"
-    translated: "Complete the quest Bodhi's Encounter"
-  - split: 14
-    text: "菩提树下缘，奇遇生心田。修行获真谛，灵魂得净化。"
-    translated: "Beneath the Bodhi tree's bond, a serendipitous encounter grows in one's heart. Through practice, truth is attained, and the soul is purified."
-- raw: "2419#月下剑舞#1#1#2419#1#3#60008|1;9086|3;21043|1#0&1|301021|1#完成奇遇任务《月下剑舞》##200#0#0#月下舞长剑，银光洒清辉。剑舞映人影，悠然自得意。#0#0#1#"
+- raw: "2419#月下剑舞#1#1#2419#1#3#60008|1;9086|3;21043|1#1&24|972460|1;24|972450|1#完成奇遇任务《月下剑舞》##200###月下舞长剑，银光洒清辉。剑舞映人影，悠然自得意。#0#0#1#"
   splits:
   - split: 1
     text: "月下剑舞"
@@ -6180,18 +6103,7 @@
   - split: 14
     text: "月下舞长剑，银光洒清辉。剑舞映人影，悠然自得意。"
     translated: "Dancing with the long sword under the moonlight, silver light spills in a clear glow. The sword dance reflects human shadows, exuding serene contentment."
-- raw: "2421#何为霞璃#1#1#2421#1#3#60008|1;9088|3;22044|1#0&1|301023|1#完成奇遇任务《何为霞璃》##200#0#0#霞璃何物乎，天工奇宝现。彩光映日辉，美丽藏玲珑。#0#0#1#"
-  splits:
-  - split: 1
-    text: "何为霞璃"
-    translated: "What is Xiaru?"
-  - split: 9
-    text: "完成奇遇任务《何为霞璃》"
-    translated: "Complete the quest What Is Xialiri"
-  - split: 14
-    text: "霞璃何物乎，天工奇宝现。彩光映日辉，美丽藏玲珑。"
-    translated: "What is Xia Li? A wondrous creation of the heavens. Its colorful radiance reflects sunlight, beautifully intricate and elegant."
-- raw: "2422#落水之人#1#1#2422#1#3#60008|1;5027|3;22045|1#0&1|301024|1#完成奇遇任务《落水之人》##200#0#0#落水人挣扎，江流急又寒。英雄伸援手，暖意溢心间。#0#0#1#"
+- raw: "2422#落水之人#1#1#2422#1#3#60008|1;5027|3;22045|1#0&24|971217|1#完成奇遇任务《落水之人》##200###落水人挣扎，江流急又寒。英雄伸援手，暖意溢心间。#0#0#1#"
   splits:
   - split: 1
     text: "落水之人"
@@ -6202,7 +6114,7 @@
   - split: 14
     text: "落水人挣扎，江流急又寒。英雄伸援手，暖意溢心间。"
     translated: "The man struggling in the water fights against the fast and cold current. The hero extends a helping hand, filling him with warmth."
-- raw: "2423#茅草暗藏#1#1#2423#1#3#60008|1;22046|1;5028|3#0&1|301025|1#完成奇遇任务《茅草暗藏》##200#0#0#茅草中暗藏，风吹麦浪香。狡兔三窟深，机巧自保全。#0#0#1#"
+- raw: "2423#茅草暗藏#1#1#2423#1#3#60008|1;22046|1;5028|3#0&24|961945|1#完成奇遇任务《茅草暗藏》##200###茅草中暗藏，风吹麦浪香。狡兔三窟深，机巧自保全。#0#0#1#"
   splits:
   - split: 1
     text: "茅草暗藏"
@@ -6213,7 +6125,7 @@
   - split: 14
     text: "茅草中暗藏，风吹麦浪香。狡兔三窟深，机巧自保全。"
     translated: "Hidden in the thatch lies a secret; as the wind blows, the fragrance of wheat waves. The cunning rabbit has three burrows deep; with its cleverness, it remains whole."
-- raw: "2424#轻功高手#1#1#2424#1#3#60008|1;5029|1;22047|1#0&1|301026|1#完成奇遇任务《轻功高手》##200#0#0#轻功高手至，身影若飞燕。足踏碎影轻，掠过湖面寒。#0#0#1#"
+- raw: "2424#轻功高手#1#1#2424#1#3#60008|1;5029|1;22047|1#0&24|971236|1#完成奇遇任务《轻功高手》##200###轻功高手至，身影若飞燕。足踏碎影轻，掠过湖面寒。#0#0#1#"
   splits:
   - split: 1
     text: "轻功高手"
@@ -6224,40 +6136,7 @@
   - split: 14
     text: "轻功高手至，身影若飞燕。足踏碎影轻，掠过湖面寒。"
     translated: "A master of qinggong, their form like a swallow in flight. With steps that crackle shadows lightly, they sweep across the cold lake's surface."
-- raw: "2425#琉璃重宝#1#1#2425#1#3#60008|1;5030|3;22048|1#0&1|301027|1#完成奇遇任务《琉璃重宝》##200#0#0#琉璃宝重珍，光彩夺目人。传世古今间，价值连城显。#0#0#1#"
-  splits:
-  - split: 1
-    text: "琉璃重宝"
-    translated: "Valuable jade"
-  - split: 9
-    text: "完成奇遇任务《琉璃重宝》"
-    translated: "Complete the adventure task Jade Treasure"
-  - split: 14
-    text: "琉璃宝重珍，光彩夺目人。传世古今间，价值连城显。"
-    translated: "The lapis lazuli jewel is precious and dazzling. It has been a treasured relic through the ages, with value beyond price."
-- raw: "2426#神秘书信#1#1#2426#1#3#60008|1;5031|3;22049|1#0&1|301028|1#完成奇遇任务《神秘书信》##200#0#0#神秘书信来，载着秘密开。夜读灯下影，心思细细猜。#0#0#1#"
-  splits:
-  - split: 1
-    text: "神秘书信"
-    translated: "A mysterious letter"
-  - split: 9
-    text: "完成奇遇任务《神秘书信》"
-    translated: "Complete the adventure task 'Mysterious Letter.'"
-  - split: 14
-    text: "神秘书信来，载着秘密开。夜读灯下影，心思细细猜。"
-    translated: "A mysterious letter arrives, revealing secrets within. By night's light, I read its shadow, pondering carefully in my thoughts."
-- raw: "2427#焕然一新#1#1#2427#1#3#60008|1;5032|3;22050|1#0&1|301029|1#完成奇遇任务《焕然一新》##200#0#0#焕然一新景，旧貌换新颜。凤凰涅槃后，再展锦绣篇。#0#0#1#"
-  splits:
-  - split: 1
-    text: "焕然一新"
-    translated: "A fresh new look"
-  - split: 9
-    text: "完成奇遇任务《焕然一新》"
-    translated: "Complete the adventure quest Renewed as if by Magic."
-  - split: 14
-    text: "焕然一新景，旧貌换新颜。凤凰涅槃后，再展锦绣篇。"
-    translated: "A completely transformed scene, a new face replaces the old one. After rising from ashes, the phoenix unfolds its embroidered masterpiece once more."
-- raw: "2428#货物纠纷#1#1#2428#1#3#60008|1;9073|3;22131|1#0&1|301100|1#完成奇遇任务《货物纠纷》##200#0#0#货物纠纷起，市井闹声连。明理公平裁，争端得解圆。#0#0#1#"
+- raw: "2428#货物纠纷#1#1#2428#1#3#60008|1;9073|3;22131|1#0&24|973557|1#完成奇遇任务《货物纠纷》##200###货物纠纷起，市井闹声连。明理公平裁，争端得解圆。#0#0#1#"
   splits:
   - split: 1
     text: "货物纠纷"
@@ -6268,7 +6147,7 @@
   - split: 14
     text: "货物纠纷起，市井闹声连。明理公平裁，争端得解圆。"
     translated: "A dispute over goods arose, causing a commotion in the marketplace. The just and fair adjudicator resolved it, bringing an end to the contention."
-- raw: "2429#咸甜之争#1#1#2429#1#3#60008|1;9074|3;22132|1#0&1|301101|1#完成奇遇任务《咸甜之争》##200#0#0#咸甜之争长，饮食各有爱。口味不同路，和谐共共在。#0#0#1#"
+- raw: "2429#咸甜之争#1#1#2429#1#3#60008|1;9074|3;22132|1#0&24|986242|1;24|986244|1#完成奇遇任务《咸甜之争》##200###咸甜之争长，饮食各有爱。口味不同路，和谐共共在。#0#0#1#"
   splits:
   - split: 1
     text: "咸甜之争"
@@ -6279,7 +6158,7 @@
   - split: 14
     text: "咸甜之争长，饮食各有爱。口味不同路，和谐共共在。"
     translated: "The debate over what's salty and what's sweet may be endless, as each has its own appeal. Different tastes walk different paths, yet harmony can still prevail."
-- raw: "2430#豫京食神#1#1#2430#1#3#60008|1;9075|3;21036|1#0&1|301102|1#完成奇遇任务《豫京食神》##200#0#0#豫京食神名，厨艺胜天成。食客云集下，美馔传声声。#0#0#1#"
+- raw: "2430#豫京食神#1#1#2430#1#3#60008|1;9075|3;21036|1#0&24|952953|1#完成奇遇任务《豫京食神》##200###豫京食神名，厨艺胜天成。食客云集下，美馔传声声。#0#0#1#"
   splits:
   - split: 1
     text: "豫京食神"
@@ -6290,7 +6169,7 @@
   - split: 14
     text: "豫京食神名，厨艺胜天成。食客云集下，美馔传声声。"
     translated: "Yu Capital's culinary masterpieces are renowned far and wide. Their cooking artistry is unparalleled, elevating meals to a heavenly level. Food enthusiasts flock here, drawn by the delicious delicacies that echo through the streets."
-- raw: "2431#江海图志#1#1#2431#1#3#60008|1;9076|3;21037|1#0&1|301103|1#完成奇遇任务《江海图志·枰栌》##200#0#0#江海图志绘，波涛卷秋水。遨游天下间，壮丽在心扉。#0#0#1#"
+- raw: "2431#江海图志#1#1#2431#1#3#60008|1;9076|3;21037|1#0&24|986180|1#完成奇遇任务《江海图志·枰栌》##200###江海图志绘，波涛卷秋水。遨游天下间，壮丽在心扉。#0#0#1#"
   splits:
   - split: 1
     text: "江海图志"
@@ -6301,7 +6180,7 @@
   - split: 14
     text: "江海图志绘，波涛卷秋水。遨游天下间，壮丽在心扉。"
     translated: "Chronicles of Rivers and Seas depicted, waves rolling over the autumn waters. Roaming through the world's expanse, its splendor resides in one's heart."
-- raw: "2432#利来之害#1#1#2432#1#3#60008|1;9077|3;21038|1#0&1|301104|1#完成奇遇任务《金利来之害》##200#0#0#利来之害隐，甘霖转祸端。慎重每一步，免得自受损。#0#0#1#"
+- raw: "2432#利来之害#1#1#2432#1#3#60008|1;9077|3;21038|1#0&24|957433|1#完成奇遇任务《金利来之害》##200###利来之害隐，甘霖转祸端。慎重每一步，免得自受损。#0#0#1#"
   splits:
   - split: 1
     text: "利来之害"
@@ -6312,7 +6191,7 @@
   - split: 14
     text: "利来之害隐，甘霖转祸端。慎重每一步，免得自受损。"
     translated: "The harm of what comes can be hidden; a gentle rain might turn into a source of disaster. Be cautious with each step to avoid harming yourself."
-- raw: "2433#良配佳缘#1#1#2433#1#3#60008|1;9078|3;21039|1#0&1|301105|1#完成奇遇任务《良配佳缘》##200#0#0#良配佳缘至，情深意更浓。缘分天注定，共结连理梦。#0#0#1#"
+- raw: "2433#良配佳缘#1#1#2433#1#3#60008|1;9078|3;21039|1#0&24|986115|1#完成奇遇任务《良配佳缘》##200###良配佳缘至，情深意更浓。缘分天注定，共结连理梦。#0#0#1#"
   splits:
   - split: 1
     text: "良配佳缘"
@@ -6323,7 +6202,7 @@
   - split: 14
     text: "良配佳缘至，情深意更浓。缘分天注定，共结连理梦。"
     translated: "Perfect matches lead to blissful unions; deeper feelings make bonds stronger. Destiny connects them; together they fulfill their dream of lifelong partnership."
-- raw: "2434#少女之恼#1#1#2434#1#3#60008|1;9079|3;21040|1#0&1|301106|1#完成奇遇任务《少女之恼》##200#0#0#少女之恼多，心事如丝绕。月下独自愁，谁解其中苦。#0#0#1#"
+- raw: "2434#少女之恼#1#1#2434#1#3#60008|1;9079|3;21040|1#0&24|986107|1#完成奇遇任务《少女之恼》##200###少女之恼多，心事如丝绕。月下独自愁，谁解其中苦。#0#0#1#"
   splits:
   - split: 1
     text: "少女之恼"
@@ -6334,18 +6213,7 @@
   - split: 14
     text: "少女之恼多，心事如丝绕。月下独自愁，谁解其中苦。"
     translated: "A maiden's sorrows are numerous; her heart is entangled like threads. Alone under the moonlight, she broods‑ who can understand her hidden anguish?"
-- raw: "2437#何仇何怨#1#1#2437#1#3#60008|1;9082|3;21123|1#0&1|301109|1#完成奇遇任务《何仇何怨》##200#0#0#何仇何怨问，恩怨情难绝。剑解不能清，唯有心释放。#0#0#1#"
-  splits:
-  - split: 1
-    text: "何仇何怨"
-    translated: "What grudges do you hold against them?"
-  - split: 9
-    text: "完成奇遇任务《何仇何怨》"
-    translated: "Complete the adventure quest What Grudge What Resentment."
-  - split: 14
-    text: "何仇何怨问，恩怨情难绝。剑解不能清，唯有心释放。"
-    translated: "What grudge or grievance asks it? Bonds of favor and enmity are hard to sever. The sword cannot resolve what is unclear; only with the heart's release can one find peace."
-- raw: "2438#祖传宝刀#1#1#2438#1#3#60008|1;9083|3;21124|1#0&1|301110|1#完成奇遇任务《祖传宝刀》##200#0#0#祖传宝刀锋，锐气刃寒光。世代英雄手，传承不朽芳。#0#0#1#"
+- raw: "2438#祖传宝刀#1#1#2438#1#3#60008|1;9083|3;21124|1#0&24|953204|1#完成奇遇任务《祖传宝刀》##200###祖传宝刀锋，锐气刃寒光。世代英雄手，传承不朽芳。#0#0#1#"
   splits:
   - split: 1
     text: "祖传宝刀"
@@ -6356,7 +6224,7 @@
   - split: 14
     text: "祖传宝刀锋，锐气刃寒光。世代英雄手，传承不朽芳。"
     translated: "The ancestral treasure blade's edge is sharp and keen; its icy light glints with vigor. In the hands of generations of heroes, it carries an immortal legacy."
-- raw: "2439#玩捉迷藏#1#1#2439#1#3#60008|1;9084|3;21043|1#0&1|301111|1#完成奇遇任务《捉迷藏》##200#0#0#玩捉迷藏乐，童真乐融融。隐匿笑声中，快乐时光长。#0#0#1#"
+- raw: "2439#玩捉迷藏#1#1#2439#1#3#60008|1;9084|3;21043|1#0&24|985991|1#完成奇遇任务《捉迷藏》##200###玩捉迷藏乐，童真乐融融。隐匿笑声中，快乐时光长。#0#0#1#"
   splits:
   - split: 1
     text: "玩捉迷藏"
@@ -6367,7 +6235,7 @@
   - split: 14
     text: "玩捉迷藏乐，童真乐融融。隐匿笑声中，快乐时光长。"
     translated: "Engaging in a game of hide‑and‑seek brings innocent joy and laughter. Hidden behind giggles, the moments of happiness seem to last forever."
-- raw: "2440#贪吃误事#1#1#2440#1#3#60008|1;5027|3;9085|3#0&1|301112|1#完成奇遇任务《贪吃误事》##200#0#0#贪吃引误事，美食成困扰。节制须谨记，免得添烦恼。#0#0#1#"
+- raw: "2440#贪吃误事#1#1#2440#1#3#60008|1;5027|3;9085|3#0&24|973429|1#完成奇遇任务《贪吃误事》##200###贪吃引误事，美食成困扰。节制须谨记，免得添烦恼。#0#0#1#"
   splits:
   - split: 1
     text: "贪吃误事"
@@ -6378,18 +6246,7 @@
   - split: 14
     text: "贪吃引误事，美食成困扰。节制须谨记，免得添烦恼。"
     translated: "Gluttony leads to trouble, and indulgence in good food becomes a source of worry. One must remember restraint to avoid adding more troubles."
-- raw: "2441#美味糖人#1#1#2441#1#3#60008|1;5028|3;9086|3#0&1|301113|1#完成奇遇任务《美味糖人》##200#0#0#美味糖人甜，童心喜欢连。糖蜜手工艺，甜蜜滋味长。#0#0#1#"
-  splits:
-  - split: 1
-    text: "美味糖人"
-    translated: "Delicious Sugar Figure"
-  - split: 9
-    text: "完成奇遇任务《美味糖人》"
-    translated: "Complete the adventure quest Candy Man"
-  - split: 14
-    text: "美味糖人甜，童心喜欢连。糖蜜手工艺，甜蜜滋味长。"
-    translated: "Delicious candied fruit, sweet enough to melt hearts. Handcrafted sugar art, a lasting taste of sweetness."
-- raw: "2442#教训熊孩#1#1#2442#1#3#60008|1;5029|3;9087|3#0&1|301114|1#完成奇遇任务《教训熊孩子》##200#0#0#教训熊孩时，爱心与严厉。引导向正途，明理少迷离。#0#0#1#"
+- raw: "2442#教训熊孩#1#1#2442#1#3#60008|1;5029|3;9087|3#0&24|985959|1#完成奇遇任务《教训熊孩子》##200###教训熊孩时，爱心与严厉。引导向正途，明理少迷离。#0#0#1#"
   splits:
   - split: 1
     text: "教训熊孩"
@@ -6400,7 +6257,7 @@
   - split: 14
     text: "教训熊孩时，爱心与严厉。引导向正途，明理少迷离。"
     translated: "When teaching a child, combine love and strictness. Guide them towards righteousness; with understanding, they will be less confused."
-- raw: "2443#武林趣闻#1#1#2443#1#3#60008|1;5030|3;9088|3#0&1|301115|1#完成奇遇任务《武林趣闻》##200#0#0#武林趣闻多，笑谈间轻松。剑影下侠骨，豪情溢酒中。#0#0#1#"
+- raw: "2443#武林趣闻#1#1#2443#1#3#60008|1;5030|3;9088|3#0&24|973460|1#完成奇遇任务《武林趣闻》##200###武林趣闻多，笑谈间轻松。剑影下侠骨，豪情溢酒中。#0#0#1#"
   splits:
   - split: 1
     text: "武林趣闻"
@@ -6411,7 +6268,7 @@
   - split: 14
     text: "武林趣闻多，笑谈间轻松。剑影下侠骨，豪情溢酒中。"
     translated: "Martial world anecdotes are plentiful and lighthearted. Beneath the shadows of swords, one finds a hero's spirit, with boldness overflowing in every cup of wine."
-- raw: "2444#光头侠客#1#1#2444#1#3#60008|1;5031|3;22043|1#0&1|301116|1#完成奇遇任务《光头侠客》##200#0#0#光头侠客行，逍遥江湖路。不羁笑红尘，英姿惊四座。#0#0#1#"
+- raw: "2444#光头侠客#1#1#2444#1#3#60008|1;5031|3;22043|1#0&24|973445|1#完成奇遇任务《光头侠客》##200###光头侠客行，逍遥江湖路。不羁笑红尘，英姿惊四座。#0#0#1#"
   splits:
   - split: 1
     text: "光头侠客"
@@ -6422,18 +6279,7 @@
   - split: 14
     text: "光头侠客行，逍遥江湖路。不羁笑红尘，英姿惊四座。"
     translated: "The bald wanderer strides forth, traversing the boundless Jianghu. Unfettered, he laughs at the worldly dust; his striking presence astonishes all who gaze upon him."
-- raw: "2445#寸草不生#1#1#2445#1#3#60008|1;5032|3;22044|1#0&1|301117|1#完成奇遇任务《寸草不生》##200#0#0#寸草不生地，荒凉露痕迹。人过绿意生，希望在心田。#0#0#1#"
-  splits:
-  - split: 1
-    text: "寸草不生"
-    translated: "Not even a blade of grass grows"
-  - split: 9
-    text: "完成奇遇任务《寸草不生》"
-    translated: "Complete the adventure quest 'No Grass Grows Here.'"
-  - split: 14
-    text: "寸草不生地，荒凉露痕迹。人过绿意生，希望在心田。"
-    translated: "A place where not a blade of grass grows, desolation lingers in its traces. Once people pass through, life begins to take hold again; hope resides within the heart."
-- raw: "2446#四象龙珠#1#1#2446#1#3#60008|1;9073|3;22045|1#0&1|301118|1#完成奇遇任务《四象龙珠》##200#0#0#四象龙珠现，奇光映乾坤。寻者历险阻，宝物显真身。#0#0#1#"
+- raw: "2446#四象龙珠#1#1#2446#1#3#60008|1;9073|3;22045|1#0&27|30148|0#完成奇遇任务《四象龙珠》##200###四象龙珠现，奇光映乾坤。寻者历险阻，宝物显真身。#0#0#1#"
   splits:
   - split: 1
     text: "四象龙珠"
@@ -6444,7 +6290,7 @@
   - split: 14
     text: "四象龙珠现，奇光映乾坤。寻者历险阻，宝物显真身。"
     translated: "The Four Symbols Dragon Balls appear, their strange light reflecting across the heavens and earth. Those who seek them face many hardships, yet the treasure reveals its true nature."
-- raw: "2447#正义之道#1#1#2447#1#3#60008|1;9074|3;22046|1#0&1|301119|1#完成奇遇任务《惩奸除恶》##200#0#0#正义之道行，剑出恶鬼惊。侠胆永传颂，英名镌史书。#0#0#1#"
+- raw: "2447#正义之道#1#1#2447#1#3#60008|1;9074|3;22046|1#0&24|973587|1#完成奇遇任务《惩奸除恶》##200###正义之道行，剑出恶鬼惊。侠胆永传颂，英名镌史书。#0#0#1#"
   splits:
   - split: 1
     text: "正义之道"
@@ -6455,29 +6301,7 @@
   - split: 14
     text: "正义之道行，剑出恶鬼惊。侠胆永传颂，英名镌史书。"
     translated: "The path of justice is walked, the sword chases away demons. The courage of a hero endures in praise, their noble name etched in history books."
-- raw: "2448#流云之试#1#1#2448#1#3#60008|1;9075|3;22047|1#0&1|301120|1#完成奇遇任务《流云之试》##200#0#0#流云之试猛，考验在云端。风浪历心志，晴空见勇敢。#0#0#1#"
-  splits:
-  - split: 1
-    text: "流云之试"
-    translated: "The Trial of Clouds and Mist"
-  - split: 9
-    text: "完成奇遇任务《流云之试》"
-    translated: "Complete the adventure quest The Test of Flowing Clouds."
-  - split: 14
-    text: "流云之试猛，考验在云端。风浪历心志，晴空见勇敢。"
-    translated: "The Cloud Wanderer's Trial tests strength; it unfolds in the skies. Through storms and waves, one finds resolve; under clear skies, courage is revealed."
-- raw: "2449#耳聋眼花#1#1#2449#1#3#60008|1;9076|3;22048|1#0&1|301121|1#完成奇遇任务《耳聋眼花》##200#0#0#耳聋眼花老，岁月留痕迹。智慧如松韧，经验胜年轻。#0#0#1#"
-  splits:
-  - split: 1
-    text: "耳聋眼花"
-    translated: "Deaf as a post; blind as a bat"
-  - split: 9
-    text: "完成奇遇任务《耳聋眼花》"
-    translated: "Complete the adventure task Deafness and Dizziness"
-  - split: 14
-    text: "耳聋眼花老，岁月留痕迹。智慧如松韧，经验胜年轻。"
-    translated: "Deaf ears and blurred vision in old age; the marks of time remain. Wisdom is resilient like a pine; experience surpasses youthfulness."
-- raw: "2450#婚宴惊变#1#1#2450#1#3#60008|1;9077|3;22049|1#0&1|301122|1#完成奇遇任务《婚宴惊变》##200#0#0#婚宴惊变生，平静突然破。英雄挺身出，化险为夷时。#0#0#1#"
+- raw: "2450#婚宴惊变#1#1#2450#1#3#60008|1;9077|3;22049|1#1&24|973258|1;24|973240|1#完成奇遇任务《婚宴惊变》##200###婚宴惊变生，平静突然破。英雄挺身出，化险为夷时。#0#0#1#"
   splits:
   - split: 1
     text: "婚宴惊变"
@@ -6488,18 +6312,7 @@
   - split: 14
     text: "婚宴惊变生，平静突然破。英雄挺身出，化险为夷时。"
     translated: "The wedding banquet was suddenly disrupted by unexpected events, shattering the calm. The hero stepped forward to confront danger and turned peril into safety."
-- raw: "2451#走火入魔#1#1#2451#1#3#60008|1;9078|3;22050|1#0&1|301123|1#完成奇遇任务《走火入魔》##200#0#0#走火入魔者，心魔难自拔。修心守本真，方能返正途。#0#0#1#"
-  splits:
-  - split: 1
-    text: "走火入魔"
-    translated: "Possessed by a demon"
-  - split: 9
-    text: "完成奇遇任务《走火入魔》"
-    translated: "Complete the adventure quest Possession"
-  - split: 14
-    text: "走火入魔者，心魔难自拔。修心守本真，方能返正途。"
-    translated: "One who walks into madness cannot easily pull themselves out of the grip of their inner demon. By cultivating one's mind and staying true to one's essence, they can return to the right path."
-- raw: "2452#腰疼大婶#1#1#2452#1#3#60008|1;9079|3;22131|1#0&1|301124|1#完成奇遇任务《腰疼大婶》##200#0#0#腰疼大婶苦，日常劳累多。中医点穴疗，舒缓得微笑。#0#0#1#"
+- raw: "2452#腰疼大婶#1#1#2452#1#3#60008|1;9079|3;22131|1#0&24|986138|1#完成奇遇任务《腰疼大婶》##200###腰疼大婶苦，日常劳累多。中医点穴疗，舒缓得微笑。#0#0#1#"
   splits:
   - split: 1
     text: "腰疼大婶"
@@ -6510,7 +6323,7 @@
   - split: 14
     text: "腰疼大婶苦，日常劳累多。中医点穴疗，舒缓得微笑。"
     translated: "Auntie suffering from waist pain often has a tiring daily routine. After receiving acupuncture treatment in traditional Chinese medicine, she feels relieved and smiles softly."
-- raw: "2453#岑家嫁女#1#1#2453#1#3#60008|1;9080|3;22132|1#0&1|301150|1#完成奇遇任务《岑家嫁女》##200#0#0#岑家女嫁时，喜事盈门庭。嫁妆传家宝，祝福声声起。#0#0#1#"
+- raw: "2453#岑家嫁女#1#1#2453#1#3#60008|1;9080|3;22132|1#0&24|974469|1#完成奇遇任务《岑家嫁女》##200###岑家女嫁时，喜事盈门庭。嫁妆传家宝，祝福声声起。#0#0#1#"
   splits:
   - split: 1
     text: "岑家嫁女"
@@ -6521,7 +6334,7 @@
   - split: 14
     text: "岑家女嫁时，喜事盈门庭。嫁妆传家宝，祝福声声起。"
     translated: "When a daughter from the Cen Family marries, joy fills the household. The dowry includes cherished family heirlooms, and blessings are spoken with great enthusiasm."
-- raw: "2454#思乡之情#1#1#2454#1#3#60008|1;9081|3;21036|1#0&1|301151|1#完成奇遇任务《思乡之情》##200#0#0#思乡情深处，远行心不已。月明照旧影，故土梦中归。#0#0#1#"
+- raw: "2454#思乡之情#1#1#2454#1#3#60008|1;9081|3;21036|1#0&24|952197|1#完成奇遇任务《思乡之情》##200###思乡情深处，远行心不已。月明照旧影，故土梦中归。#0#0#1#"
   splits:
   - split: 1
     text: "思乡之情"
@@ -6532,29 +6345,7 @@
   - split: 14
     text: "思乡情深处，远行心不已。月明照旧影，故土梦中归。"
     translated: "In my heart's yearning for home, the urge to wander persists. Under the bright moonlight, I see familiar reflections and dream of returning to my homeland."
-- raw: "2455#焦尾琴音#1#1#2455#1#3#60008|1;9082|3;21037|1#0&1|301152|1#完成奇遇任务《焦尾琴》##200#0#0#焦尾琴音起，旋律泣鬼神。一曲凄凉美，情深似海深。#0#0#1#"
-  splits:
-  - split: 1
-    text: "焦尾琴音"
-    translated: "Chao Wei Qin Yin"
-  - split: 9
-    text: "完成奇遇任务《焦尾琴》"
-    translated: "Complete the quest Jiao Wei Qin"
-  - split: 14
-    text: "焦尾琴音起，旋律泣鬼神。一曲凄凉美，情深似海深。"
-    translated: "The sound of Jiao Wei's qin starts to rise, its melody captivating spirits. A tune that is both hauntingly beautiful and deeply moving, as profound as the ocean's depths."
-- raw: "2456#服气辟谷#1#1#2456#1#3#60008|1;9083|3;21038|1#0&1|301153|1#完成奇遇任务《服气辟谷》##200#0#0#服气辟谷法，修炼身心灵。清净超尘世，禅意满心田。#0#0#1#"
-  splits:
-  - split: 1
-    text: "服气辟谷"
-    translated: "Practicing fasting to eliminate food cravings"
-  - split: 9
-    text: "完成奇遇任务《服气辟谷》"
-    translated: "Complete the adventure quest 'Demonstrate Humility in Abstinence from Food.'"
-  - split: 14
-    text: "服气辟谷法，修炼身心灵。清净超尘世，禅意满心田。"
-    translated: "Practice of Breathing Qi and Fasting Method, cultivate body, mind, and spirit. Pure beyond the mortal world, a field full of Zen intent."
-- raw: "2457#水徒肆虐#1#1#2457#1#3#60008|1;9084|3;21039|1#0&1|301154|1#完成奇遇任务《水贼肆虐》##200#0#0#水徒横行时，村镇遭劫难。英雄挺身出，风浪定平息。#0#0#1#"
+- raw: "2457#水徒肆虐#1#1#2457#1#3#60008|1;9084|3;21039|1#1&27|30429|0;24|974640|1#完成奇遇任务《水贼肆虐》##200###水徒横行时，村镇遭劫难。英雄挺身出，风浪定平息。#0#0#1#"
   splits:
   - split: 1
     text: "水徒肆虐"
@@ -6565,7 +6356,7 @@
   - split: 14
     text: "水徒横行时，村镇遭劫难。英雄挺身出，风浪定平息。"
     translated: "When the martial arts disciples roamed wildly, villages and towns suffered from raids. A hero stepped forward to intervene, calming the turmoil."
-- raw: "2458#神秘来信#1#1#2458#1#3#60008|1;9085|3;21040|1#0&1|301155|1#完成奇遇任务《神秘来信》##200#0#0#神秘来信至，内容令人疑。夜读灯下影，心思细细推。#0#0#1#"
+- raw: "2458#神秘来信#1#1#2458#1#3#60008|1;9085|3;21040|1#0&24|974621|1#完成奇遇任务《神秘来信》##200###神秘来信至，内容令人疑。夜读灯下影，心思细细推。#0#0#1#"
   splits:
   - split: 1
     text: "神秘来信"
@@ -6576,7 +6367,7 @@
   - split: 14
     text: "神秘来信至，内容令人疑。夜读灯下影，心思细细推。"
     translated: "A mysterious letter arrived, its contents leaving me puzzled. I read by lamplight at night, carefully pondering over it in my mind."
-- raw: "2459#小孩难缠#1#1#2459#1#3#60008|1;9086|3;21041|1#0&1|301156|1#完成奇遇任务《小鬼难缠》##200#0#0#小孩难缠时，顽皮显童真。耐心引导下，绽放笑颜开。#0#0#1#"
+- raw: "2459#小孩难缠#1#1#2459#1#3#60008|1;9086|3;21041|1#0&24|974580|1#完成奇遇任务《小鬼难缠》##200###小孩难缠时，顽皮显童真。耐心引导下，绽放笑颜开。#0#0#1#"
   splits:
   - split: 1
     text: "小孩难缠"
@@ -6587,7 +6378,7 @@
   - split: 14
     text: "小孩难缠时，顽皮显童真。耐心引导下，绽放笑颜开。"
     translated: "When children are being difficult, their mischief reveals their childlike innocence. With patience and gentle guidance, they bloom with smiles."
-- raw: "2460#爱狗大蓝#1#1#2460#1#3#60008|1;9087|3;21042|1#0&1|301157|1#完成奇遇任务《爱狗大蓝》##200#0#0#爱狗名大蓝，忠心护主安。雨夜不离侧，情深似此切。#0#0#1#"
+- raw: "2460#爱狗大蓝#1#1#2460#1#3#60008|1;9087|3;21042|1#0&24|974572|1#完成奇遇任务《爱狗大蓝》##200###爱狗名大蓝，忠心护主安。雨夜不离侧，情深似此切。#0#0#1#"
   splits:
   - split: 1
     text: "爱狗大蓝"
@@ -6598,7 +6389,7 @@
   - split: 14
     text: "爱狗名大蓝，忠心护主安。雨夜不离侧，情深似此切。"
     translated: "The dog's name is Da Lan. Loyal and protective of its owner, An. Even on rainy nights, it never leaves your side; its affection runs as deep as this."
-- raw: "2461#江海图志#1#1#2461#1#3#60008|1;9088|3;21123|1#0&1|301158|1#完成奇遇任务《江海图志·淮陵》##200#0#0#江海图志绘，壮丽波涛写。航行远洋客，心潮澎湃激。#0#0#1#"
+- raw: "2461#江海图志#1#1#2461#1#3#60008|1;9088|3;21123|1#0&24|974555|1#完成奇遇任务《江海图志·淮陵》##200###江海图志绘，壮丽波涛写。航行远洋客，心潮澎湃激。#0#0#1#"
   splits:
   - split: 1
     text: "江海图志"
@@ -6609,18 +6400,7 @@
   - split: 14
     text: "江海图志绘，壮丽波涛写。航行远洋客，心潮澎湃激。"
     translated: "Chronicles of Rivers and Seas depicted, writing majestic waves. Ocean‑crossing travelers stirred, emotions surging with the tide."
-- raw: "2463#臭棋篓子#1#1#2463#1#3#60008|1;5028|3;21043|1#0&1|301160|1#完成奇遇任务《臭棋篓子》##200#0#0#臭棋篓子手，对弈常自嘲。笑中有真意，棋逢敌手好。#0#0#1#"
-  splits:
-  - split: 1
-    text: "臭棋篓子"
-    translated: "Rotten Chessboard Kid"
-  - split: 9
-    text: "完成奇遇任务《臭棋篓子》"
-    translated: "Complete the adventure task 'Stinky Chess Basket'"
-  - split: 14
-    text: "臭棋篓子手，对弈常自嘲。笑中有真意，棋逢敌手好。"
-    translated: "A Chess Bum by Nature, He Often Self‑Mockingly Plays. With Humor Laced with Meaning: Meeting a Rival on the Board Is Delightful."
-- raw: "2464#跳河男子#1#1#2464#1#3#60008|1;5029|3;22043|1#0&1|301161|1#完成奇遇任务《跳河男子》##200#0#0#跳河男子急，英雄急踏波。水花溅剑锋，救人一线索。#0#0#1#"
+- raw: "2464#跳河男子#1#1#2464#1#3#60008|1;5029|3;22043|1#0&24|956738|1#完成奇遇任务《跳河男子》##200###跳河男子急，英雄急踏波。水花溅剑锋，救人一线索。#0#0#1#"
   splits:
   - split: 1
     text: "跳河男子"
@@ -6631,7 +6411,7 @@
   - split: 14
     text: "跳河男子急，英雄急踏波。水花溅剑锋，救人一线索。"
     translated: "The man jumped into the river in haste; the hero rushed through the waves. Water splashed against the sword's edge as a lifeline for rescuing someone."
-- raw: "2465#瓜保熟吗#1#1#2465#1#3#60008|1;5030|3;22044|1#0&1|301162|1#完成奇遇任务《瓜保熟吗》##200#0#0#瓜保熟否问，田头笑语多。剑背晒夏日，农歌响悠悠。#0#0#1#"
+- raw: "2465#瓜保熟吗#1#1#2465#1#3#60008|1;5030|3;22044|1#1&27|31980|0;27|31981|0;24|956718|1#完成奇遇任务《瓜保熟吗》##200###瓜保熟否问，田头笑语多。剑背晒夏日，农歌响悠悠。#0#0#1#"
   splits:
   - split: 1
     text: "瓜保熟吗"
@@ -6642,7 +6422,7 @@
   - split: 14
     text: "瓜保熟否问，田头笑语多。剑背晒夏日，农歌响悠悠。"
     translated: "Is the melon ripe yet? On the field, there's much laughter. The sword scabbard basks in the summer sun, while farm songs echo gently."
-- raw: "2466#心有所慕#1#1#2466#1#3#60008|1;5031|3;22045|1#0&1|301163|1#完成奇遇任务《心有所募》##200#0#0#心有所慕处，剑指情深处。月下誓言轻，侠骨柔情似。#0#0#1#"
+- raw: "2466#心有所慕#1#1#2466#1#3#60008|1;5031|3;22045|1#0&27|31983|0#完成奇遇任务《心有所募》##200###心有所慕处，剑指情深处。月下誓言轻，侠骨柔情似。#0#0#1#"
   splits:
   - split: 1
     text: "心有所慕"
@@ -6653,7 +6433,7 @@
   - split: 14
     text: "心有所慕处，剑指情深处。月下誓言轻，侠骨柔情似。"
     translated: "When the heart has its affection, the sword points to the depths of feeling. Under the moonlight, a promise is light, like gentle emotions coursing through a warrior's soul."
-- raw: "2467#淮陵美酒#1#1#2467#1#3#60008|1;5032|3;22046|1#0&1|301164|1#完成奇遇任务《淮陵美酒》##200#0#0#淮陵美酒醇，杯觥交错中。豪侠饮霜雪，歌声凌云起。#0#0#1#"
+- raw: "2467#淮陵美酒#1#1#2467#1#3#60008|1;5032|3;22046|1#0&27|31985|1#完成奇遇任务《淮陵美酒》##200###淮陵美酒醇，杯觥交错中。豪侠饮霜雪，歌声凌云起。#0#0#1#"
   splits:
   - split: 1
     text: "淮陵美酒"
@@ -6664,18 +6444,7 @@
   - split: 14
     text: "淮陵美酒醇，杯觥交错中。豪侠饮霜雪，歌声凌云起。"
     translated: "The exquisite wine of Huailing is rich and refined; cups clink amidst laughter. Brave heroes drink as if sipping frost and snow, while their songs rise to meet the clouds."
-- raw: "2468#独闯之地#1#1#2468#1#3#60008|1;5027|3;22047|1#0&1|301165|1#完成奇遇任务《独闯江南》##200#0#0#独闯禁地勇，剑走偏锋路。难关英雄闯，名扬四海知。#0#0#1#"
-  splits:
-  - split: 1
-    text: "独闯之地"
-    translated: "Land of Lone Challenge"
-  - split: 9
-    text: "完成奇遇任务《独闯江南》"
-    translated: "Complete the quest Solo Journey through Jiangnan"
-  - split: 14
-    text: "独闯禁地勇，剑走偏锋路。难关英雄闯，名扬四海知。"
-    translated: "Brave enough to venture alone into forbidden places, a swordsman takes an unconventional path. As the hero overcomes challenges, his fame spreads across the seas."
-- raw: "2469#慈恩大师#1#1#2469#1#3#60008|1;5028|3;22048|1#0&1|301200|1#完成奇遇任务《慈恩大师》##200#0#0#慈恩大师智，禅言温如蜜。一指点人心，悟道出尘埃。#0#0#1#"
+- raw: "2469#慈恩大师#1#1#2469#1#3#60008|1;5028|3;22048|1#0&27|30254|1#完成奇遇任务《慈恩大师》##200###慈恩大师智，禅言温如蜜。一指点人心，悟道出尘埃。#0#0#1#"
   splits:
   - split: 1
     text: "慈恩大师"
@@ -6686,7 +6455,7 @@
   - split: 14
     text: "慈恩大师智，禅言温如蜜。一指点人心，悟道出尘埃。"
     translated: "Master Ci En Zhi's words are as warm as honey. With a single point of his finger, he touches people's hearts and leads them to enlightenment beyond the dust of this world."
-- raw: "2470#绝句之托#1#1#2470#1#3#60008|1;5029|3;22049|1#0&1|301201|1#完成奇遇任务《绝命之托》##200#0#0#绝句托深意，笔下藏锋芒。文字剑一般，剖析世间情。#0#0#1#"
+- raw: "2470#绝句之托#1#1#2470#1#3#60008|1;5029|3;22049|1#1&24|971744|1;24|976378|1#完成奇遇任务《绝命之托》##200###绝句托深意，笔下藏锋芒。文字剑一般，剖析世间情。#0#0#1#"
   splits:
   - split: 1
     text: "绝句之托"
@@ -6697,7 +6466,7 @@
   - split: 14
     text: "绝句托深意，笔下藏锋芒。文字剑一般，剖析世间情。"
     translated: "A quatrain conceals profound meaning; beneath the brush lies a sharp edge. Words are like swords, dissecting worldly affairs."
-- raw: "2472#包香诱人#1#1#2472#1#3#60008|1;5031|3;22131|1#0&1|301203|1#完成奇遇任务《包香诱人》##200#0#0#包香四溢诱，食客络绎门。厨神手艺显，佳肴赞无穷。#0#0#1#"
+- raw: "2472#包香诱人#1#1#2472#1#3#60008|1;5031|3;22131|1#0&24|957211|1#完成奇遇任务《包香诱人》##200###包香四溢诱，食客络绎门。厨神手艺显，佳肴赞无穷。#0#0#1#"
   splits:
   - split: 1
     text: "包香诱人"
@@ -6708,7 +6477,7 @@
   - split: 14
     text: "包香四溢诱，食客络绎门。厨神手艺显，佳肴赞无穷。"
     translated: "The fragrance of delicious food enveloped the surroundings, enticing guests to flock through the door. The culinary master's skills were on full display as the exquisite dishes garnered endless praise."
-- raw: "2473#偶感流疾#1#1#2473#1#3#60008|1;5032|3;22132|1#0&1|301204|1#完成奇遇任务《偶感流疾》##200#0#0#偶感流行疾，床前明月寒。医圣挥银针，疗愈显神通。#0#0#1#"
+- raw: "2473#偶感流疾#1#1#2473#1#3#60008|1;5032|3;22132|1#1&24|976217|1;24|976190|1#完成奇遇任务《偶感流疾》##200###偶感流行疾，床前明月寒。医圣挥银针，疗愈显神通。#0#0#1#"
   splits:
   - split: 1
     text: "偶感流疾"
@@ -6719,7 +6488,7 @@
   - split: 14
     text: "偶感流行疾，床前明月寒。医圣挥银针，疗愈显神通。"
     translated: "Feeling a common illness, the moon in front of my bed is cold. The Sage Doctor wields his silver needle, revealing miraculous healing powers."
-- raw: "2474#豫京之徒#1#1#2474#1#3#60008|1;5027|3;21036|1#0&1|301205|1#完成奇遇任务《豫京恶霸》##200#0#0#豫京之徒才，文武双全美。江湖留名声，英姿绝代传。#0#0#1#"
+- raw: "2474#豫京之徒#1#1#2474#1#3#60008|1;5027|3;21036|1#0&24|957244|1#完成奇遇任务《豫京恶霸》##200###豫京之徒才，文武双全美。江湖留名声，英姿绝代传。#0#0#1#"
   splits:
   - split: 1
     text: "豫京之徒"
@@ -6730,7 +6499,7 @@
   - split: 14
     text: "豫京之徒才，文武双全美。江湖留名声，英姿绝代传。"
     translated: "The talents of Yu Capital are skilled in both arts and martial prowess. They leave a renowned name across the Jianghu with their peerless elegance and charm that surpasses all eras."
-- raw: "2476#博闻多识#1#1#2476#1#3#60008|1;5029|3;21038|1#0&1|301207|1#完成奇遇任务《博闻多识》##200#0#0#博闻多识者，知海深似渊。洞察世间事，智慧胜千年。#0#0#1#"
+- raw: "2476#博闻多识#1#1#2476#1#3#60008|1;5029|3;21038|1#0&24|976046|1#完成奇遇任务《博闻多识》##200###博闻多识者，知海深似渊。洞察世间事，智慧胜千年。#0#0#1#"
   splits:
   - split: 1
     text: "博闻多识"
@@ -6741,7 +6510,7 @@
   - split: 14
     text: "博闻多识者，知海深似渊。洞察世间事，智慧胜千年。"
     translated: "A person who is widely learned and knowledgeable knows that the ocean is as deep as a chasm. By perceiving worldly affairs, their wisdom surpasses even a thousand years."
-- raw: "2477#师徒情深#1#1#2477#1#3#60008|1;5030|3;21039|1#0&1|301208|1#完成奇遇任务《师徒情深》##200#0#0#师徒情深重，共度风雨道。心传授剑艺，情谊比金坚。#0#0#1#"
+- raw: "2477#师徒情深#1#1#2477#1#3#60008|1;5030|3;21039|1#0&24|976088|1#完成奇遇任务《师徒情深》##200###师徒情深重，共度风雨道。心传授剑艺，情谊比金坚。#0#0#1#"
   splits:
   - split: 1
     text: "师徒情深"
@@ -6752,7 +6521,7 @@
   - split: 14
     text: "师徒情深重，共度风雨道。心传授剑艺，情谊比金坚。"
     translated: "The bond between master and disciple is deep, weathering the storms of life together. The swordsmanship was imparted with heartfelt dedication, and their friendship proved stronger than steel."
-- raw: "2478#皇宫之案#1#1#2478#1#3#60008|1;5031|3;21040|1#0&1|301209|1#完成奇遇任务《皇宫窃案》##200#0#0#皇宫之案密，宫墙深影藏。侠客探真相，正义昭天日。#0#0#1#"
+- raw: "2478#皇宫之案#1#1#2478#1#3#60008|1;5031|3;21040|1#0&24|953635|1#完成奇遇任务《皇宫窃案》##200###皇宫之案密，宫墙深影藏。侠客探真相，正义昭天日。#0#0#1#"
   splits:
   - split: 1
     text: "皇宫之案"
@@ -6763,7 +6532,7 @@
   - split: 14
     text: "皇宫之案密，宫墙深影藏。侠客探真相，正义昭天日。"
     translated: "The case of the imperial palace is secretive; the deep shadows conceal secrets within its walls. The wanderer investigates the truth, and justice will be revealed under the watchful eye of heaven."
-- raw: "2479#寒门书生#1#1#2479#1#3#60008|1;5032|3;21041|1#0&1|301210|1#完成奇遇任务《寒门书生》##200#0#0#寒门书生志，孜孜不倦学。剑客赠寒窗，笔下春秋谱。#0#0#1#"
+- raw: "2479#寒门书生#1#1#2479#1#3#60008|1;5032|3;21041|1#1&24|971828|1;24|971833|1#完成奇遇任务《寒门书生》##200###寒门书生志，孜孜不倦学。剑客赠寒窗，笔下春秋谱。#0#0#1#"
   splits:
   - split: 1
     text: "寒门书生"
@@ -6774,7 +6543,7 @@
   - split: 14
     text: "寒门书生志，孜孜不倦学。剑客赠寒窗，笔下春秋谱。"
     translated: "A scholar from a poor family remains dedicated and tireless in his studies. A swordsman gifts him the spring and autumn annals for study by lamplight."
-- raw: "2481#孤寡老人#1#1#2481#1#3#60008|1;5028|3;21123|1#0&1|301212|1#完成奇遇任务《孤寡老人》##200#0#0#孤寡老人苦，世事如浮云。剑侠温情处，送暖入寒门。#0#0#1#"
+- raw: "2481#孤寡老人#1#1#2481#1#3#60008|1;5028|3;21123|1#0&24|957265|1#完成奇遇任务《孤寡老人》##200###孤寡老人苦，世事如浮云。剑侠温情处，送暖入寒门。#0#0#1#"
   splits:
   - split: 1
     text: "孤寡老人"
@@ -6785,7 +6554,7 @@
   - split: 14
     text: "孤寡老人苦，世事如浮云。剑侠温情处，送暖入寒门。"
     translated: "The plight of the widowed and elderly is heartrending; worldly affairs are like drifting clouds. It's in these moments that the chivalrous acts of swordsmen bring warmth to those less fortunate."
-- raw: "2483#棋圣首徒#1#1#2483#1#3#60008|1;5030|3;21043|1#0&1|301214|1#完成奇遇任务《棋圣首徒》##200#0#0#棋圣首徒才，棋盘定乾坤。一局千秋事，智破万重云。#0#0#1#"
+- raw: "2483#棋圣首徒#1#1#2483#1#3#60008|1;5030|3;21043|1#0&24|975995|1#完成奇遇任务《棋圣首徒》##200###棋圣首徒才，棋盘定乾坤。一局千秋事，智破万重云。#0#0#1#"
   splits:
   - split: 1
     text: "棋圣首徒"
@@ -6796,18 +6565,7 @@
   - split: 14
     text: "棋圣首徒才，棋盘定乾坤。一局千秋事，智破万重云。"
     translated: "The chess master's first disciple, who controls the fate on the board. A single game is a matter of centuries; wisdom shatters countless layers of clouds."
-- raw: "2485#进献之宝#1#1#2485#1#3#60008|1;9074|3;21037|1#0&1|301216|1#完成奇遇任务《进献之宝》##200#0#0#进献之宝贵，宝剑光华映。王侯重宝物，英名传世间。#0#0#1#"
-  splits:
-  - split: 1
-    text: "进献之宝"
-    translated: "Offered Treasure"
-  - split: 9
-    text: "完成奇遇任务《进献之宝》"
-    translated: "Complete the adventure quest 'Presented Treasure.'"
-  - split: 14
-    text: "进献之宝贵，宝剑光华映。王侯重宝物，英名传世间。"
-    translated: "A precious gift is presented, the gleam of the jeweled sword shining brightly. Treasured by kings and lords, its noble name echoes through the ages."
-- raw: "2486#要账事端#1#1#2486#1#3#60008|1;9075|3;21038|1#0&1|301217|1#完成奇遇任务《要账》##200#0#0#要账事端起，市井波波动。义士中调停，和解善缘结。#0#0#1#"
+- raw: "2486#要账事端#1#1#2486#1#3#60008|1;9075|3;21038|1#0&24|958376|1#完成奇遇任务《要账》##200###要账事端起，市井波波动。义士中调停，和解善缘结。#0#0#1#"
   splits:
   - split: 1
     text: "要账事端"
@@ -6818,7 +6576,7 @@
   - split: 14
     text: "要账事端起，市井波波动。义士中调停，和解善缘结。"
     translated: "The matter of settling accounts has caused a disturbance in the streets and alleys. A righteous person intervenes to mediate, leading to reconciliation and the formation of good connections."
-- raw: "2487#旧时爱恨#1#1#2487#1#3#60008|1;9076|3;21039|1#0&1|301218|1#完成奇遇任务《旧时爱恨》##200#0#0#旧时爱恨情，剑锋两难定。情仇随风散，侠骨还江湖。#0#0#1#"
+- raw: "2487#旧时爱恨#1#1#2487#1#3#60008|1;9076|3;21039|1#0&24|958334|1#完成奇遇任务《旧时爱恨》##200###旧时爱恨情，剑锋两难定。情仇随风散，侠骨还江湖。#0#0#1#"
   splits:
   - split: 1
     text: "旧时爱恨"
@@ -6829,7 +6587,7 @@
   - split: 14
     text: "旧时爱恨情，剑锋两难定。情仇随风散，侠骨还江湖。"
     translated: "Old loves and grudges are hard to settle with just the sword's edge. Fearsome feelings scatter like the wind; a hero's bones return to the Jianghu."
-- raw: "2488#忧郁之事#1#1#2488#1#3#60008|1;9077|3;21040|1#0&1|301219|1#完成奇遇任务《忧郁之事》##200#0#0#忧郁事缠身，独酌解愁疾。月明人静时，剑影舞独思。#0#0#1#"
+- raw: "2488#忧郁之事#1#1#2488#1#3#60008|1;9077|3;21040|1#0&24|958449|1#完成奇遇任务《忧郁之事》##200###忧郁事缠身，独酌解愁疾。月明人静时，剑影舞独思。#0#0#1#"
   splits:
   - split: 1
     text: "忧郁之事"
@@ -6840,7 +6598,7 @@
   - split: 14
     text: "忧郁事缠身，独酌解愁疾。月明人静时，剑影舞独思。"
     translated: "Worry and trouble weigh heavily on my mind; I drink alone to ease the distress. Under the bright moon when people are quiet, the shadow of my sword dances with my solitary thoughts."
-- raw: "2489#重赋难堪#1#1#2489#1#3#60008|1;9078|3;21041|1#0&1|301250|1#完成奇遇任务《重赋难堪》##200#0#0#重赋难堪苦，民声哭天涯。侠客挥剑救，出手解民哀。#0#0#1#"
+- raw: "2489#重赋难堪#1#1#2489#1#3#60008|1;9078|3;21041|1#0&24|959441|1#完成奇遇任务《重赋难堪》##200###重赋难堪苦，民声哭天涯。侠客挥剑救，出手解民哀。#0#0#1#"
   splits:
   - split: 1
     text: "重赋难堪"
@@ -6851,7 +6609,7 @@
   - split: 14
     text: "重赋难堪苦，民声哭天涯。侠客挥剑救，出手解民哀。"
     translated: "The burden of heavy responsibilities is unbearable; the cries of the people reach the distant heavens. The wanderer wields his sword to save and extends a helping hand to relieve the suffering of the people."
-- raw: "2490#神女飞天#1#1#2490#1#3#60008|1;9079|3;21042|1#0&1|301251|1#完成奇遇任务《神女飞天》##200#0#0#神女翩翩起，飞天入云端。羽衣舞九霄，仙音落人间。#0#0#1#"
+- raw: "2490#神女飞天#1#1#2490#1#3#60008|1;9079|3;21042|1#0&24|964542|1#完成奇遇任务《神女飞天》##200###神女翩翩起，飞天入云端。羽衣舞九霄，仙音落人间。#0#0#1#"
   splits:
   - split: 1
     text: "神女飞天"
@@ -6862,7 +6620,7 @@
   - split: 14
     text: "神女翩翩起，飞天入云端。羽衣舞九霄，仙音落人间。"
     translated: "The divine maiden rises gracefully, soaring into the clouds. Her feathered robe dances across the heavens, and her heavenly music descends to earth."
-- raw: "2491#珈南之剑#1#1#2491#1#3#60008|1;9080|3;21123|1#0&1|301252|1#完成奇遇任务《珈南剑》##200#0#0#珈南之剑锋，锐利斩乱世。英雄挥此器，光明正大理。#0#0#1#"
+- raw: "2491#珈南之剑#1#1#2491#1#3#60008|1;9080|3;21123|1#0&24|960005|1#完成奇遇任务《珈南剑》##200###珈南之剑锋，锐利斩乱世。英雄挥此器，光明正大理。#0#0#1#"
   splits:
   - split: 1
     text: "珈南之剑"
@@ -6873,7 +6631,7 @@
   - split: 14
     text: "珈南之剑锋，锐利斩乱世。英雄挥此器，光明正大理。"
     translated: "The blade of Jiana's sword is sharp and slicing through the chaos. With this weapon in hand, a hero stands firm in righteousness and justice."
-- raw: "2492#雁洲要事#1#1#2492#1#3#60008|1;9081|3;21124|1#0&1|301253|1#完成奇遇任务《雁洲要事》##200#0#0#雁洲要事传，风云聚一时。英豪谱新篇，事迹传四海。#0#0#1#"
+- raw: "2492#雁洲要事#1#1#2492#1#3#60008|1;9081|3;21124|1#0&30|957197|1#完成奇遇任务《雁洲要事》##200###雁洲要事传，风云聚一时。英豪谱新篇，事迹传四海。#0#0#1#"
   splits:
   - split: 1
     text: "雁洲要事"
@@ -6884,7 +6642,7 @@
   - split: 14
     text: "雁洲要事传，风云聚一时。英豪谱新篇，事迹传四海。"
     translated: "Yan Zhou's Crucial Matters: A Gathering of Winds and Clouds in a Single Moment. New Chapters to the Register of Heroes: Their Deeds Spread Across All Seas."
-- raw: "2493#险途崎岖#1#1#2493#1#3#60008|1;9082|3;21043|1#0&1|301254|1#完成奇遇任务《险途崎岖》##200#0#0#险途崎岖行，勇者不畏惧。独闯天涯路，心志比天高。#0#0#1#"
+- raw: "2493#险途崎岖#1#1#2493#1#3#60008|1;9082|3;21043|1#0&24|974361|1#完成奇遇任务《险途崎岖》##200###险途崎岖行，勇者不畏惧。独闯天涯路，心志比天高。#0#0#1#"
   splits:
   - split: 1
     text: "险途崎岖"
@@ -6895,7 +6653,7 @@
   - split: 14
     text: "险途崎岖行，勇者不畏惧。独闯天涯路，心志比天高。"
     translated: "Journey through perilous and rugged paths, a brave soul fears not. Venturing alone across endless roads, their spirit soars higher than the heavens."
-- raw: "2494#迫而为丐#1#1#2494#1#3#60008|1;9083|3;22043|1#0&1|301255|1#完成奇遇任务《迫而为丐》##200#0#0#迫而为丐者，世态炎凉感。隐忍含英魂，逆境显锐意。#0#0#1#"
+- raw: "2494#迫而为丐#1#1#2494#1#3#60008|1;9083|3;22043|1#0&24|959488|1#完成奇遇任务《迫而为丐》##200###迫而为丐者，世态炎凉感。隐忍含英魂，逆境显锐意。#0#0#1#"
   splits:
   - split: 1
     text: "迫而为丐"
@@ -6906,18 +6664,7 @@
   - split: 14
     text: "迫而为丐者，世态炎凉感。隐忍含英魂，逆境显锐意。"
     translated: "Becoming a beggar by necessity reveals the cold‑heartedness of society. In adversity, one's resilient spirit shines through, harboring dreams of greatness while silently enduring hardships."
-- raw: "2495#遭劫货商#1#1#2495#1#3#60008|1;9084|3;22044|1#0&1|301256|1#完成奇遇任务《遭劫掠的货商》##200#0#0#遭劫货商苦，江湖路艰难。义士援手出，安全渡难关。#0#0#1#"
-  splits:
-  - split: 1
-    text: "遭劫货商"
-    translated: "Plundered Merchant"
-  - split: 9
-    text: "完成奇遇任务《遭劫掠的货商》"
-    translated: "Complete the adventure quest The Plundered Trader"
-  - split: 14
-    text: "遭劫货商苦，江湖路艰难。义士援手出，安全渡难关。"
-    translated: "The robbed merchant suffers greatly; the way of Jianghu is perilous. The righteous person offers a helping hand and safely guides them through the difficulties."
-- raw: "2496#江海图志#1#1#2496#1#3#60008|1;9085|3;22045|1#0&1|301257|1#完成奇遇任务《江海图志·雁洲》##200#0#0#江海图志绘，壮阔天地间。遨游波涛上，豪情满胸怀。#0#0#1#"
+- raw: "2496#江海图志#1#1#2496#1#3#60008|1;9085|3;22045|1#0&24|953436|1#完成奇遇任务《江海图志·雁洲》##200###江海图志绘，壮阔天地间。遨游波涛上，豪情满胸怀。#0#0#1#"
   splits:
   - split: 1
     text: "江海图志"
@@ -6928,7 +6675,7 @@
   - split: 14
     text: "江海图志绘，壮阔天地间。遨游波涛上，豪情满胸怀。"
     translated: "The Chronicles of Rivers and Seas depict the vast expanse between heaven and earth. Roaming atop waves, their hearts brimming with audacious spirit."
-- raw: "2497#善人善粥#1#1#2497#1#3#60008|1;9086|3;22046|1#0&1|301258|1#完成奇遇任务《善人善粥》##200#0#0#善人善粥温，慈善渡难民。恩泽流百世，香名永留心。#0#0#1#"
+- raw: "2497#善人善粥#1#1#2497#1#3#60008|1;9086|3;22046|1#0&24|959546|1#完成奇遇任务《善人善粥》##200###善人善粥温，慈善渡难民。恩泽流百世，香名永留心。#0#0#1#"
   splits:
   - split: 1
     text: "善人善粥"
@@ -6939,7 +6686,7 @@
   - split: 14
     text: "善人善粥温，慈善渡难民。恩泽流百世，香名永留心。"
     translated: "The good man serves warm porridge to the kind, and charity aids refugees. His benevolence flows through a hundred generations, and his fragrant name endures in people's hearts."
-- raw: "2498#壮志凌云#1#1#2498#1#3#60008|1;9087|3;22047|1#0&1|301259|1#完成奇遇任务《壮志凌云》##200#0#0#壮志凌云志，豪情天地间。不畏风浪起，英雄胸怀宽。#0#0#1#"
+- raw: "2498#壮志凌云#1#1#2498#1#3#60008|1;9087|3;22047|1#0&24|956437|1#完成奇遇任务《壮志凌云》##200###壮志凌云志，豪情天地间。不畏风浪起，英雄胸怀宽。#0#0#1#"
   splits:
   - split: 1
     text: "壮志凌云"
@@ -6950,7 +6697,7 @@
   - split: 14
     text: "壮志凌云志，豪情天地间。不畏风浪起，英雄胸怀宽。"
     translated: "Ambitious aspirations soar through the clouds; a grand spirit pervades earth and sky. Undaunted by the storm's rise, the hero possesses a broad‑minded heart."
-- raw: "2499#慈悲为怀#1#1#2499#1#3#60008|1;9088|3;22048|1#0&1|301260|1#完成奇遇任务《慈悲为怀》##200#0#0#慈悲为怀心，悯世救苍生。手持药杵行，菩萨心肠显。#0#0#1#"
+- raw: "2499#慈悲为怀#1#1#2499#1#3#60008|1;9088|3;22048|1#1&27|30381|1;24|956963|1#完成奇遇任务《慈悲为怀》##200###慈悲为怀心，悯世救苍生。手持药杵行，菩萨心肠显。#0#0#1#"
   splits:
   - split: 1
     text: "慈悲为怀"
@@ -6961,7 +6708,7 @@
   - split: 14
     text: "慈悲为怀心，悯世救苍生。手持药杵行，菩萨心肠显。"
     translated: "With a heart filled with compassion and mercy for the world, eager to save all living beings. Holding a medicinal pestle in hand, revealing the heart of a Bodhisattva."
-- raw: "2500#雁门争乱#1#1#2500#1#3#60008|1;5029|3;22049|1#0&1|301261|1#完成奇遇任务《雁门争乱》##200#0#0#雁门争乱多，边烽火连天。英雄出征去，平定四方安。#0#0#1#"
+- raw: "2500#雁门争乱#1#1#2500#1#3#60008|1;5029|3;22049|1#1&24|973957|1;24|973938|1#完成奇遇任务《雁门争乱》##200###雁门争乱多，边烽火连天。英雄出征去，平定四方安。#0#0#1#"
   splits:
   - split: 1
     text: "雁门争乱"
@@ -6972,7 +6719,7 @@
   - split: 14
     text: "雁门争乱多，边烽火连天。英雄出征去，平定四方安。"
     translated: "Anarchy reigns in Yanmen, with border fires lighting up the sky. The hero sets out on a campaign to bring peace across all directions."
-- raw: "2501#伐木之斧#1#1#2501#1#3#60008|1;5030|3;22050|1#0&1|301262|1#完成奇遇任务《伐木之斧》##200#0#0#伐木之斧利，丛林见英姿。挥斧开天地，豪情在心里。#0#0#1#"
+- raw: "2501#伐木之斧#1#1#2501#1#3#60008|1;5030|3;22050|1#0&24|956935|1#完成奇遇任务《伐木之斧》##200###伐木之斧利，丛林见英姿。挥斧开天地，豪情在心里。#0#0#1#"
   splits:
   - split: 1
     text: "伐木之斧"
@@ -6983,7 +6730,7 @@
   - split: 14
     text: "伐木之斧利，丛林见英姿。挥斧开天地，豪情在心里。"
     translated: "The axe is sharp for felling trees; it shows a noble presence in the wilderness. With the swing of the axe, creating open space under heaven, boldness resides within the heart."
-- raw: "2502#雁洲寻宝#1#1#2502#1#3#60008|1;5031|3;22131|1#0&1|301263|1#完成奇遇任务《雁洲寻宝》##200#0#0#雁洲寻宝记，奇珍藏古今。探险历艰辛，珍宝终现身。#0#0#1#"
+- raw: "2502#雁洲寻宝#1#1#2502#1#3#60008|1;5031|3;22131|1#0&30|956931|1#完成奇遇任务《雁洲寻宝》##200###雁洲寻宝记，奇珍藏古今。探险历艰辛，珍宝终现身。#0#0#1#"
   splits:
   - split: 1
     text: "雁洲寻宝"
@@ -6994,7 +6741,7 @@
   - split: 14
     text: "雁洲寻宝记，奇珍藏古今。探险历艰辛，珍宝终现身。"
     translated: "Legend of Yanzhou Treasure Hunt: A Collection of Wonders Past and Present. The expedition was fraught with hardships, but the treasures ultimately revealed themselves."
-- raw: "2503#嚣张纨绔#1#1#2503#1#3#60008|1;5032|3;22132|1#0&1|301264|1#完成奇遇任务《嚣张纨绔》##200#0#0#嚣张纨绔子，城中恶少闻。侠客正义行，狂傲终被抑。#0#0#1#"
+- raw: "2503#嚣张纨绔#1#1#2503#1#3#60008|1;5032|3;22132|1#0&24|956879|1#完成奇遇任务《嚣张纨绔》##200###嚣张纨绔子，城中恶少闻。侠客正义行，狂傲终被抑。#0#0#1#"
   splits:
   - split: 1
     text: "嚣张纨绔"
@@ -7005,18 +6752,7 @@
   - split: 14
     text: "嚣张纨绔子，城中恶少闻。侠客正义行，狂傲终被抑。"
     translated: "A brash, spoiled child of a noble family is notorious among the ruffians in town. The wanderer practices justice and righteousness, but their arrogance ultimately leads to their downfall."
-- raw: "2504#梅花傲雪#1#1#2504#1#3#60008|1;5027|3;22050|1#0&1|301265|1#完成奇遇任务《梅花傲雪》##200#0#0#梅花傲雪开，凌寒独自傲。剑胆琴心中，风骨更高傲。#0#0#1#"
-  splits:
-  - split: 1
-    text: "梅花傲雪"
-    translated: "Plum Blossom Defying Snow"
-  - split: 9
-    text: "完成奇遇任务《梅花傲雪》"
-    translated: "Complete the adventure quest Pride of Plum Blossoms in Snow."
-  - split: 14
-    text: "梅花傲雪开，凌寒独自傲。剑胆琴心中，风骨更高傲。"
-    translated: "The plum blossoms open amidst the snow with pride, standing aloof against the cold. Within their sword‑like resilience and musical heart lies a spirit that is even more haughtily proud."
-- raw: "2505#何为菩提#1#1#2505#1#3#60008|1;5028|3;22131|1#0&1|301266|1#完成奇遇任务《何为菩提》##200#0#0#何为菩提问，悟道心始现。一念清净地，万法本无边。#0#0#1#"
+- raw: "2505#何为菩提#1#1#2505#1#3#60008|1;5028|3;22131|1#1&24|957057|1;24|957053|1#完成奇遇任务《何为菩提》##200###何为菩提问，悟道心始现。一念清净地，万法本无边。#0#0#1#"
   splits:
   - split: 1
     text: "何为菩提"
@@ -7027,7 +6763,7 @@
   - split: 14
     text: "何为菩提问，悟道心始现。一念清净地，万法本无边。"
     translated: "What are the questions of Bodhi? The mind for enlightenment begins to manifest when such a question arises. With just one thought in purity, the true nature of all phenomena is boundless."
-- raw: "2506#飞仙剑客#1#1#2506#1#3#60008|1;5029|3;22132|1#0&1|301301|1#完成奇遇任务《飞仙剑客》##200#0#0#飞仙剑客来，仗剑走天涯。身轻如燕过，剑舞断云霞。#0#0#1#"
+- raw: "2506#飞仙剑客#1#1#2506#1#3#60008|1;5029|3;22132|1#0&24|951144|1#完成奇遇任务《飞仙剑客》##200###飞仙剑客来，仗剑走天涯。身轻如燕过，剑舞断云霞。#0#0#1#"
   splits:
   - split: 1
     text: "飞仙剑客"
@@ -12153,7 +11889,7 @@
   - split: 14
     text: "与古墓派传人曲吟秋共探前朝剑冢，以音律破解机关，守护侠义之道与未竟之约。"
     translated: "Joining with Qu Yinqiu, the descendant of the Gu Mu Sect, to explore an ancient tomb containing swords from a former dynasty. They use musical notes to decipher mechanisms and uphold the way of chivalry along with an unfinished promise."
-- raw: "7205#踏月无痕#1#1#7205#1#1#60011|2;18113|2;54014|4;54042|4#0&24|899617|1#完成浪子线结局##600###放下恩怨羁绊，携红颜知己远遁海外，留下盗帅传说，成就最自由的浪子结局。#0#0#5#"
+- raw: "7205#踏月无痕#1#1#7205#1#1#60011|2;18113|2;54014|4;54042|4#0&24|901966|1#完成浪子线结局##600###放下恩怨羁绊，携红颜知己远遁海外，留下盗帅传说，成就最自由的浪子结局。#0#0#5#"
   splits:
   - split: 1
     text: "踏月无痕"

@@ -1959,7 +1959,7 @@
 5321#5321_sanhuanduoyue#
 5322#5322_taichu_tiaoxing#
 5323#5323_xiaoshizhen_jintiao#
-5324##
+5324#5324_tianfudian#
 5325#5325_jiemiyingdao#
 5326#5326_wanzong_dao#
 5327#5327_dugujiujian#
@@ -3180,6 +3180,7 @@
 25146#25146_Quest_47020#
 25147#25147_Quest_47020#
 25148#25148_Quest_47020#
+25149#25149_Quest_1231038#
 40007#40007_01_Condition_509003#
 40008#40008_01_Condition_509101#
 40009#40009_01_Condition_509102#

@@ -17577,7 +17577,7 @@
   - split: 1
     text: "染血的真龙铡刀"
     translated: "Red Bloodstained True Dragon Chopping Blade"
-- raw: "37375#辟谷术#4#8#10#10#105#99#0#1#0#0#miji11_banshu#37375#0#39375#0#3600#0##7&20&0###0#0#0#0#0#0###2|1000&5|1000&16|1000&31|1000&44|1000&1|1000&999|2000#0##0&28|33001|<|1#0##0#0#0#0#0#0#0#0#0#"
+- raw: "37375#辟谷术#4#8#10#10#105#99#0#1#0#0#miji11_banshu#37375#0#39375#0#3600#0##7&20&0###0#0#0#0#0#0###2|1000&5|1000&16|1000&31|1000&44|1000&1|1000&999|2000#0###0##0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "辟谷术"
@@ -18793,6 +18793,11 @@
   - split: 41
     text: "唐门贡献商店"
     translated: "Tangmen Gift Shop"
+- raw: "37838#天赋图#4#16#14#16#0#1#0#0#0#5324#miji2#1300018308#0#1300018309#0#3600#0#####0#0#0#0#0#0####0###0##0#0#0#0##0#0#0#0#"
+  splits:
+  - split: 1
+    text: "天赋图"
+    translated: "Tianfu Chart"
 - raw: "37980#不夜京外门腰牌#2#8#12#10#45209#99#0#1#0#0#yaopai1#37980#0#39980#0#3600#0#1#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -21103,25 +21108,25 @@
   - split: 1
     text: "归墟剑宗逐风履"
     translated: "Return to Abyss Sword Sect, Pursue the Wind Step."
-- raw: "39001#马#1#9#12#12#0#99#0#1#0#0#ma1#37901#0#39901#0#3600#0#10001####0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#1#"
+- raw: "39001#马#1#9#12#12#0#99#0#1#0#0#ma1#37901#0#39901#0#3600#0#10001####0#0#0#0#0#0####0###0##0#0#0#0##0#0#0#0#"
   splits:
   - split: 1
     text: "马"
     translated: "Ma"
-- raw: "39002#枰栌快马#1#9#13#13#0#99#0#1#0#0#ma2#37902#0#39902#0#3600#0#10002####0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#1#"
+- raw: "39002#枰栌快马#1#9#13#13#0#99#0#1#0#0#ma2#37902#0#39902#0#3600#0#10002####0#0#0#0#0#0####0###0##0#0#0#0##0#0#0#0#"
   splits:
   - split: 1
     text: "枰栌快马"
     translated: "Pinglu fast horse"
-- raw: "39003#霜鬃青骢#1#9#15#15#0#99#0#1#0#0#ma3#37903#0#39903#0#3600#0#10003####0#0#0#0#0#0####0###0##0#0#0#0#steam游戏预约赠送#0#0#0#1#"
+- raw: "39003#霜鬃青骢#1#9#15#15#0#99#0#1#0#0#ma3#37903#0#39903#0#3600#0#10003####0#0#0#0#0#0####0###0##0#0#0#0#2024年Steam预约活动福利，后续运营活动中不定时返场，还请大家关注各平台活动公告哦。#0#0#0#0#"
   splits:
   - split: 1
     text: "霜鬃青骢"
     translated: "Snow Mane Blue Steed"
   - split: 41
-    text: "steam游戏预约赠送"
-    translated: "Reserve now to receive Steam game gifts"
-- raw: "39004#付费：雪颔银骢#1#9#15#15#0#99#0#1#0#0#ma4#37904#0#39904#0#3600#0#10004###0#0#0#0#0#0#0####0###0##0#0#0#0#DLC《江湖如梦》#0#0#0#1#"
+    text: "2024年Steam预约活动福利，后续运营活动中不定时返场，还请大家关注各平台活动公告哦。"
+    translated: "2024 Year Steam Pre‑Order Event Benefits: Will Return at Random Times in Future Operations‑Please Keep an Eye on Announcements Across Various Platforms."
+- raw: "39004#付费：雪颔银骢#1#9#15#15#0#99#0#1#0#0#ma4#37904#0#39904#0#3600#0#10004###0#0#0#0#0#0#0####0###0##0#0#0#0#DLC《江湖如梦》#0#0#0#0#"
   splits:
   - split: 1
     text: "付费：雪颔银骢"
@@ -21129,15 +21134,15 @@
   - split: 41
     text: "DLC《江湖如梦》"
     translated: "DLC 'Jianghu Like a Dream'"
-- raw: "39005#墨影流云#1#9#15#15#0#99#0#1#0#0#ma5#37905#0#39905#0#3600#0#10005####0#0#0#0#0#0####0###0##0#0#0#0#wegame游戏预约赠送#0#0#0#1#"
+- raw: "39005#墨影流云#1#9#15#15#0#99#0#1#0#0#ma5#37905#0#39905#0#3600#0#10005####0#0#0#0#0#0####0###0##0#0#0#0#2024年WeGame预约活动福利，后续运营活动中不定时返场，还请大家关注各平台活动公告哦。#0#0#0#0#"
   splits:
   - split: 1
     text: "墨影流云"
     translated: "Shadowy Ink, Drifting Clouds"
   - split: 41
-    text: "wegame游戏预约赠送"
-    translated: "WEGAME Game Pre‑order Bonus"
-- raw: "39006#付费：苍云#1#9#15#15#0#99#0#1#0#0#ma6#37906#0#39906#0#3600#0#10006####0#0#0#0#0#0####0###0##0#0#0#0#DLC《江湖如梦》#0#0#0#1#"
+    text: "2024年WeGame预约活动福利，后续运营活动中不定时返场，还请大家关注各平台活动公告哦。"
+    translated: "The 2024 year WeGame reservation event benefits will be occasionally returned in subsequent operations; please keep an eye on the activity announcements across all platforms."
+- raw: "39006#付费：苍云#1#9#15#15#0#99#0#1#0#0#ma6#37906#0#39906#0#3600#0#10006####0#0#0#0#0#0####0###0##0#0#0#0#DLC《江湖如梦》#0#0#0#0#"
   splits:
   - split: 1
     text: "付费：苍云"
@@ -21145,7 +21150,7 @@
   - split: 41
     text: "DLC《江湖如梦》"
     translated: "DLC 'Jianghu Like a Dream'"
-- raw: "39007#太极付费马：烽火烈骥#1#9#15#15#0#99#0#1#0#0#ma2#39907#0#41907#0#3600#0#10007####0#0#0#0#0#0####0###0##0#0#0#0#DLC《舞弄太极》#0#0#0#1#"
+- raw: "39007#太极付费马：烽火烈骥#1#9#15#15#0#99#0#1#0#0#ma2#39907#0#41907#0#3600#0#10007####0#0#0#0#0#0####0###0##0#0#0#0#DLC《舞弄太极》#0#0#0#0#"
   splits:
   - split: 1
     text: "太极付费马：烽火烈骥"
@@ -40320,115 +40325,85 @@
   - split: 41
     text: "炼器获得"
     translated: "Refinement achieved"
-- raw: "83001#江湖守卫者#1#10#11#14#0#99#0#1#800#0#bw_smbl_banshu#83001#0#8300101#0#3600#0#83001#800###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#1#"
+- raw: "83001#江湖守卫者#1#10#11#14#0#99#0#1#800#0#bw_smbl_banshu#83001#0#8300101#0#3600#0#83001#800###0#0#0#0#0#0####0###0##0#0#0#0##0#0#0#0#"
   splits:
   - split: 1
     text: "江湖守卫者"
     translated: "Jianghu Guardian"
-- raw: "83002#潜龙觅影#1#10#12#14#0#99#0#1#800#0#bw_smbl_banshu#83002#0#8300201#0#3600#0#83002#820##0#0#0#0#0#0#0####0###0##0#0#0#0#DLC《江湖如梦》专属称号#0#0#0#1#"
+- raw: "83002#潜龙觅影#1#10#12#14#0#99#0#1#800#0#bw_smbl_banshu#83002#0#8300201#0#3600#0#83002#820###0#0#0#0#0#0####0###0##0#0#0#0##0#0#0#0#"
   splits:
   - split: 1
     text: "潜龙觅影"
     translated: "Shadowed Dragon Seeks its Reflection"
-  - split: 41
-    text: "DLC《江湖如梦》专属称号"
-    translated: "DLC Jianghu Ruomeng Exclusive Title"
-- raw: "83003#侠云英杰#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83003#0#8300301#0#3600#0#83003#801###0#0#0#0#0#0####0###0##0#0#0#0#DLC《江湖如梦》专属称号#0#0#0#1#"
+- raw: "83003#侠云英杰#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83003#0#8300301#0#3600#0#83003#801###0#0#0#0#0#0####0###0##0#0#0#0##0#0#0#0#"
   splits:
   - split: 1
     text: "侠云英杰"
     translated: "Heroes under a heroic cloud, Yun Jingjie"
-  - split: 41
-    text: "DLC《江湖如梦》专属称号"
-    translated: "DLC Jianghu Ruomeng Exclusive Title"
-- raw: "83004#太极鲤影#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83004#0#8400902#0#3600#0#83004#802###0#0#0#0#0#0####0###0##0#0#0#0#DLC《舞弄太极》专属称号#0#0#0#0#"
+- raw: "83004#太极鲤影#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83004#0#8400902#0#3600#0#83004#802###0#0#0#0#0#0####0###0##0#0#0#0##0#0#0#0#"
   splits:
   - split: 1
     text: "太极鲤影"
     translated: "Taiji Carp Shadow"
-  - split: 41
-    text: "DLC《舞弄太极》专属称号"
-    translated: "DLC Wu Nong Taiji Exclusive Title"
-- raw: "83005#笑傲江湖#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83005#0#158938#0#3600#0#83005#803###0#0#0#0#0#0####0###0##0#0#0#0#江湖一周年庆专属称号#0#0#0#0#"
+- raw: "83005#笑傲江湖#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83005#0#158938#0#3600#0#83005#803###0#0#0#0#0#0####0###0##0#0#0#0##0#0#0#0#"
   splits:
   - split: 1
     text: "笑傲江湖"
     translated: "Smile as You Roam Through the Jianghu"
-  - split: 41
-    text: "江湖一周年庆专属称号"
-    translated: "Special Title for One‑Year Anniversary of Jianghu"
-- raw: "83006#惊鸿霁雷#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83006#0#158940#0#3600#0#83006#821###0#0#0#0#0#0####0###0##0#0#0#0#江湖一周年庆专属称号#0#0#0#0#"
+- raw: "83006#惊鸿霁雷#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83006#0#158940#0#3600#0#83006#821###0#0#0#0#0#0####0###0##0#0#0#0#taptap累计签到活动（非绝版，后续签到活动还会返场）#0#0#0#0#"
   splits:
   - split: 1
     text: "惊鸿霁雷"
     translated: "Fleeting beauty and sudden thunder"
   - split: 41
-    text: "江湖一周年庆专属称号"
-    translated: "Special Title for One‑Year Anniversary of Jianghu"
-- raw: "83007#孤峰寒雪#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83007#0#158941#0#3600#0#83007#822###0#0#0#0#0#0####0###0##0#0#0#0#江湖一周年庆专属称号#0#0#0#0#"
+    text: "taptap累计签到活动（非绝版，后续签到活动还会返场）"
+    translated: "Tap Tap cumulative sign‑in event (not limited edition, future sign‑in events will return)."
+- raw: "83007#孤峰寒雪#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83007#0#158941#0#3600#0#83007#822###0#0#0#0#0#0####0###0##0#0#0#0#2025年6月与《下一站青城》联动外观，后续与《下一站青城》联动活动中返场。#0#0#0#0#"
   splits:
   - split: 1
     text: "孤峰寒雪"
     translated: "Solitary Peak in Snow and Ice"
   - split: 41
-    text: "江湖一周年庆专属称号"
-    translated: "Special Title for One‑Year Anniversary of Jianghu"
-- raw: "83008#劫焰#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83008#0#158950#0#3600#0#83008#804###0#0#0#0#0#0####0###0##0#0#0#0#江湖一周年庆专属称号#0#0#0#0#"
+    text: "2025年6月与《下一站青城》联动外观，后续与《下一站青城》联动活动中返场。"
+    translated: "Appear as a crossover character with Next Stop Qingcheng in 2025 Year 6 Month and return for future activities related to the Next Stop Qingcheng crossover."
+- raw: "83008#劫焰#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83008#0#158950#0#3600#0#83008#805###0#0#0#0#0#0####0###0##0#0#0#0##0#0#0#0#"
   splits:
   - split: 1
     text: "劫焰"
     translated: "Raiding Blaze"
-  - split: 41
-    text: "江湖一周年庆专属称号"
-    translated: "Special Title for One‑Year Anniversary of Jianghu"
-- raw: "83009#天机#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83009#0#158951#0#3600#0#83009#805###0#0#0#0#0#0####0###0##0#0#0#0#江湖一周年庆专属称号#0#0#0#0#"
+- raw: "83009#天机#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83009#0#158951#0#3600#0#83009#804###0#0#0#0#0#0####0###0##0#0#0#0##0#0#0#0#"
   splits:
   - split: 1
     text: "天机"
     translated: "Divine Secret"
-  - split: 41
-    text: "江湖一周年庆专属称号"
-    translated: "Special Title for One‑Year Anniversary of Jianghu"
-- raw: "83010#桃花影落#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83010#0#158952#0#3600#0#83010#806###0#0#0#0#0#0####0###0##0#0#0#0#江湖一周年庆专属称号#0#0#0#0#"
+- raw: "83010#桃花影落#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83010#0#158952#0#3600#0#83010#806###0#0#0#0#0#0####0###0##0#0#0#0##0#0#0#0#"
   splits:
   - split: 1
     text: "桃花影落"
     translated: "Cherry Blossom Shadows Fall"
-  - split: 41
-    text: "江湖一周年庆专属称号"
-    translated: "Special Title for One‑Year Anniversary of Jianghu"
-- raw: "83011#剑气纵横#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83011#0#158953#0#3600#0#83011#807###0#0#0#0#0#0####0###0##0#0#0#0#江湖一周年庆专属称号#0#0#0#0#"
+- raw: "83011#剑气纵横#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83011#0#158953#0#3600#0#83011#807###0#0#0#0#0#0####0###0##0#0#0#0##0#0#0#0#"
   splits:
   - split: 1
     text: "剑气纵横"
     translated: "Swordplay sweeping across the horizon"
-  - split: 41
-    text: "江湖一周年庆专属称号"
-    translated: "Special Title for One‑Year Anniversary of Jianghu"
-- raw: "83012#难求一败#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83012#0#158954#0#3600#0#83012#808###0#0#0#0#0#0####0###0##0#0#0#0#江湖一周年庆专属称号#0#0#0#0#"
+- raw: "83012#难求一败#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83012#0#158954#0#3600#0#83012#808###0#0#0#0#0#0####0###0##0#0#0#0##0#0#0#0#"
   splits:
   - split: 1
     text: "难求一败"
     translated: "Hard to find a defeat"
-  - split: 41
-    text: "江湖一周年庆专属称号"
-    translated: "Special Title for One‑Year Anniversary of Jianghu"
-- raw: "83013#无漏金身#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83013#0#158955#0#3600#0#83013#809###0#0#0#0#0#0####0###0##0#0#0#0#江湖一周年庆专属称号#0#0#0#0#"
+- raw: "83013#无漏金身#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83013#0#158955#0#3600#0#83013#809###0#0#0#0#0#0####0###0##0#0#0#0#taptap累计签到活动（非绝版，后续签到活动还会返场）#0#0#0#0#"
   splits:
   - split: 1
     text: "无漏金身"
     translated: "Indestructible golden body"
   - split: 41
-    text: "江湖一周年庆专属称号"
-    translated: "Special Title for One‑Year Anniversary of Jianghu"
-- raw: "83014#碧海潮声#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83014#0#158955#0#3600#0#83014#823###0#0#0#0#0#0####0###0##0#0#0#0#江湖一周年庆专属称号#0#0#0#0#"
+    text: "taptap累计签到活动（非绝版，后续签到活动还会返场）"
+    translated: "Tap Tap cumulative sign‑in event (not limited edition, future sign‑in events will return)."
+- raw: "83014#碧海潮声#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83014#0#158955#0#3600#0#83014#823###0#0#0#0#0#0####0###0##0#0#0#0##0#0#0#0#"
   splits:
   - split: 1
     text: "碧海潮声"
     translated: "Rhythmic Waves on a Sapphire Sea"
-  - split: 41
-    text: "江湖一周年庆专属称号"
-    translated: "Special Title for One‑Year Anniversary of Jianghu"
 - raw: "83015#南麟剑首#1#10#13#14#0#99#0#1#800#0#bw_smbl_banshu#83015#0#158955#0#3600#0#83015#824###0#0#0#0#0#0####0###0##0#0#0#0##0#0#0#0#"
   splits:
   - split: 1
@@ -40791,381 +40766,280 @@
   - split: 1
     text: "剑谱第四页"
     translated: "The fourth page of the sword manual"
-- raw: "86001#激活码时装1：云海行歌#1#11#13#14#0#1#0#1#0#0#bujia3#86001#0#8600101#0#3600#0#21000#810###0#0#0#0#0#0####0###0##0#0#0#0#蜀山联动时装#0#0#1|4|8|16#1#"
+- raw: "86001#激活码时装1：云海行歌#1#11#13#14#0#1#0#1#0#0#bujia4#86001#0#8600101#0#3600#0#21000#810###0#0#0#0#0#0####0###0##0#0#0#0#2025年6月江湖移动端与《百分之一》联动活动时装，将在9.26号第十三部资料片更新时直接解锁给大家，感谢大家的支持！#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "激活码时装1：云海行歌"
     translated: "Activation code for seasonal costumes 1: Singing on the Cloudy Sea"
   - split: 41
-    text: "蜀山联动时装"
-    translated: "Shu Mountain Cross‑Event Costume"
-- raw: "86002#初级免费时装2：烟雨江行#1#11#13#14#0#1#0#1#0#0#bujia1#86002#0#8600201#0#3600#0#20000#810###0#0#0#0#0#0####0###0##0#0#0#0#将门虎子免费赠送时装#0#0#1|4|8|16#1#"
+    text: "2025年6月江湖移动端与《百分之一》联动活动时装，将在9.26号第十三部资料片更新时直接解锁给大家，感谢大家的支持！"
+    translated: "The Jianghu mobile version and the 'One Percent' collaboration event costume will be directly unlocked for everyone with the update of the thirteenth part of the data on 9.26 in 2025 6. Thank you all for your support!"
+- raw: "86002#初级免费时装2：烟雨江行#1#11#13#14#0#1#0#1#0#0#bujia1#86002#0#8600201#0#3600#0#20000#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "初级免费时装2：烟雨江行"
     translated: "Initial free seasonal outfit 2: Traveling down a river amidst mist and rain."
-  - split: 41
-    text: "将门虎子免费赠送时装"
-    translated: "Descendants of a martial family tiger child receives free fashion gift."
-- raw: "86003#景天时装3：清风徐来#1#11#13#14#0#1#0#1#0#0#bujia2#86003#0#8600301#0#3600#0#26000#810#0&24|986968|1##0#0#0#0#0#0####0###0##0#0#0#0#将门虎子默认时装#0#0#1|4|8|16#1#"
+- raw: "86003#景天时装3：清风徐来#1#11#13#14#0#1#0#1#0#0#bujia2#86003#0#8600301#0#3600#0#26000#810#0&24|986968|1##0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "景天时装3：清风徐来"
     translated: "Jing Tian Fashion 3: Gentle breeze comes"
-  - split: 41
-    text: "将门虎子默认时装"
-    translated: "Noble Family's Tiger Child Default Outfit"
-- raw: "86004#江湖如梦·时装4：紫熏#1#11#13#14#0#1#0#1#0#0#bujia3#86004#0#8600401#0#3600#0#22000#810##0#0#0#0#0#0#0####0###0##0#0#0#0#DLC《江湖如梦》#0#0#1|4|8|16#1#"
+- raw: "86004#江湖如梦·时装4：紫熏#1#11#13#14#0#1#0#1#0#0#bujia3#86004#0#8600401#0#3600#0#22000#810##0#0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "江湖如梦·时装4：紫熏"
     translated: "Jianghu as a Dream · Fashion 4: Purple Smoke"
-  - split: 41
-    text: "DLC《江湖如梦》"
-    translated: "DLC 'Jianghu Like a Dream'"
-- raw: "86005#江湖如梦·付费时装5：炎尘迹#1#11#13#14#0#1#0#1#0#0#bujia4#86005#0#8600501#0#3600#0#23000#810##0#0#0#0#0#0#0####0###0##0#0#0#0#DLC《江湖如梦》#0#0#1|4|8|16#1#"
+- raw: "86005#江湖如梦·付费时装5：炎尘迹#1#11#13#14#0#1#0#1#0#0#bujia4#86005#0#8600501#0#3600#0#23000#810##0#0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "江湖如梦·付费时装5：炎尘迹"
     translated: "Jianghu as a Dream · Paid Fashion 5: Traces of blazing dust"
-  - split: 41
-    text: "DLC《江湖如梦》"
-    translated: "DLC 'Jianghu Like a Dream'"
-- raw: "86006#激活码时装6：霞光破晓#1#11#13#14#0#1#0#1#0#0#shizhuang_xiaguangpoxiao#86006#0#8600601#0#3600#0#21100#810###0#0#0#0#0#0####0###0##0#0#0#0#steam游戏预约赠送时装#0#0#1|4|8|16#1#"
+- raw: "86006#激活码时装6：霞光破晓#1#11#13#14#0#1#0#1#0#0#shizhuang_xiaguangpoxiao#86006#0#8600601#0#3600#0#21100#810###0#0#0#0#0#0####0###0##0#0#0#0#2024年Steam预约活动福利，后续运营活动中不定时返场，还请大家关注各平台活动公告哦。#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "激活码时装6：霞光破晓"
     translated: "Activation code for outfit 6: The dawn breaks through a veil of mist."
   - split: 41
-    text: "steam游戏预约赠送时装"
-    translated: "Steam game pre‑order reward exclusive outfits"
-- raw: "86007#激活码时装7：暮影穿云#1#11#13#14#0#1#0#1#0#0#shizhuang_muyingchuanyun#86007#0#8600701#0#3600#0#21200#810###0#0#0#0#0#0####0###0##0#0#0#0#wegame游戏预约赠送时装#0#0#1|4|8|16#1#"
+    text: "2024年Steam预约活动福利，后续运营活动中不定时返场，还请大家关注各平台活动公告哦。"
+    translated: "The 2024 year Steam Pre‑order Benefit will return at an unspecified time during future operations. Please stay tuned to announcements on various platforms."
+- raw: "86007#激活码时装7：暮影穿云#1#11#13#14#0#1#0#1#0#0#shizhuang_muyingchuanyun#86007#0#8600701#0#3600#0#21200#810###0#0#0#0#0#0####0###0##0#0#0#0#2024年WeGame预约活动福利，后续运营活动中不定时返场，还请大家关注各平台活动公告哦。#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "激活码时装7：暮影穿云"
     translated: "Activation code for fashion 7: Shadows Piercing Through Clouds"
   - split: 41
-    text: "wegame游戏预约赠送时装"
-    translated: "WeGame Game Pre‑order Fashion Gift"
-- raw: "86008#江湖如梦·付费补偿时装8：风华天影#1#11#13#14#0#1#0#1#0#0#bujia4#86008#0#8600801#0#3600#0#24000#810##0#0#0#0#0#0#0####0###0##0#0#0#0#DLC《江湖如梦》#0#0#1|4|8|16#1#"
+    text: "2024年WeGame预约活动福利，后续运营活动中不定时返场，还请大家关注各平台活动公告哦。"
+    translated: "The 2024 year WeGame pre‑registration event benefits will be replayed during future operations at unspecified times. Please stay tuned to the activity announcements on various platforms."
+- raw: "86008#江湖如梦·付费补偿时装8：风华天影#1#11#13#14#0#1#0#1#0#0#bujia4#86008#0#8600801#0#3600#0#24000#810##0#0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "江湖如梦·付费补偿时装8：风华天影"
     translated: "Jianghu Like a Dream · Paid Compensation for Fashionable Outfit 8: Windflower Shadow"
-  - split: 41
-    text: "DLC《江湖如梦》"
-    translated: "DLC 'Jianghu Like a Dream'"
-- raw: "86009#测试时装9：崔牧之#1#11#13#14#0#1#0#1#0#0#bujia4#86009#0#8600901#0#3600#0#26000#810##0#0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#1#"
+- raw: "86009#测试时装9：崔牧之#1#11#13#14#0#1#0#1#0#0#bujia1#86009#0#8600901#0#3600#0#26000#810##0#0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "测试时装9：崔牧之"
     translated: "Testing fashion 9: Cui Muzhi"
-- raw: "86010#测试时装10：女主#1#11#13#14#0#1#0#1#0#0#bujia4#86010#0#8601001#0#3600#0#26000#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#1#"
+- raw: "86010#测试时装10：女主#1#11#13#14#0#1#0#1#0#0#bujia2#86010#0#8601001#0#3600#0#26000#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "测试时装10：女主"
     translated: "Testing the fashion of 10: Female lead"
-- raw: "86011#江湖如梦·付费补偿时装11：月影夜行#1#11#13#14#0#1#0#1#0#0#bujia4#86011#0#8601101#0#3600#0#21400#810###0#0#0#0#0#0####0###0##0#0#0#0#DLC《江湖如梦》#0#0#1|4|8|16#1#"
+- raw: "86011#江湖如梦·付费补偿时装11：月影夜行#1#11#13#14#0#1#0#1#0#0#bujia4#86011#0#8601101#0#3600#0#21400#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "江湖如梦·付费补偿时装11：月影夜行"
     translated: "Jianghu as a Dream · Paid Compensation for Fashion 11: Walking in the Moon's Shadow"
-  - split: 41
-    text: "DLC《江湖如梦》"
-    translated: "DLC 'Jianghu Like a Dream'"
-- raw: "86012#舞弄太极·付费时装12：墨影风行#1#11#13#14#0#1#0#1#0#0#bujia4#86012#0#8601201#0#3600#0#21500#810###0#0#0#0#0#0####0###0##0#0#0#0#DLC《舞弄太极》#0#0#1|4|8|16#1#"
+- raw: "86012#舞弄太极·付费时装12：墨影风行#1#11#13#14#0#1#0#1#0#0#shizhuang_86012#86012#0#8601201#0#3600#0#21500#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "舞弄太极·付费时装12：墨影风行"
     translated: "Wu Nong Taiji · Paid Fashion 12: The Shadow Glides Through the Wind"
-  - split: 41
-    text: "DLC《舞弄太极》"
-    translated: "DLC The Dance of Tai Chi"
-- raw: "86013#舞弄太极·付费时装13：金鹤凌云#1#11#13#14#0#1#0#1#0#0#bujia4#86013#0#8601301#0#3600#0#21600#810###0#0#0#0#0#0####0###0##0#0#0#0#DLC《舞弄太极》#0#0#1|4|8|16#1#"
+- raw: "86013#舞弄太极·付费时装13：金鹤凌云#1#11#13#14#0#1#0#1#0#0#shizhuang_86013#86013#0#8601301#0#3600#0#21600#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "舞弄太极·付费时装13：金鹤凌云"
     translated: "Wuxing Taiji · Pay‑to‑Wear Fashion 13: Golden Phoenix Ascending to the Clouds"
-  - split: 41
-    text: "DLC《舞弄太极》"
-    translated: "DLC The Dance of Tai Chi"
-- raw: "86014#免费时装14：天穹锦霞#1#11#13#14#0#1#0#1#0#0#bujia4#86014#0#8601401#0#3600#0#21700#810###0#0#0#0#0#0####0###0##0#0#0#0#免费赠送时装#0#0#1|4|8|16#1#"
+- raw: "86014#免费时装14：天穹锦霞#1#11#13#14#0#1#0#1#0#0#shizhuang_86014#86014#0#8601401#0#3600#0#21700#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "免费时装14：天穹锦霞"
     translated: "Free fashion 14: Heavenscape Velvet Aurora"
-  - split: 41
-    text: "免费赠送时装"
-    translated: "Complimentary clothing giveaway"
-- raw: "86015#补偿时装15：剑啸云裳#1#11#13#14#0#1#0#1#0#0#ruanjia4#86015#0#8601501#0#3600#0#21800#810###0#0#0#0#0#0####0###0##0#0#0#0#来自于白玉京为感谢各位少侠对于逃婚千金版本的支持而增设的福利，同时表达对不断更新新内容而给大家带来BUG的歉意。 #0#0#1|4|8|16#1#"
+- raw: "86015#补偿时装15：剑啸云裳#1#11#13#14#0#1#0#1#0#0#shizhuang_86015#86015#0#8601501#0#3600#0#21800#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "补偿时装15：剑啸云裳"
     translated: "Compensation fashion 15: The Sword's Cry Echoes in Cloudy Robes"
-  - split: 41
-    text: "来自于白玉京为感谢各位少侠对于逃婚千金版本的支持而增设的福利，同时表达对不断更新新内容而给大家带来BUG的歉意。 "
-    translated: "As a token of appreciation for the support from all you young heroes regarding the runaway bride version, and as an expression of apology for any bugs caused by our continual updates, this benefit is offered from Baiyujing."
-- raw: "86016#丐帮时装16：苍穹孤云#1#11#13#14#0#1#0#1#0#0#ruanjia2#86016#0#8601601#0#3600#0#21900#810###0#0#0#0#0#0####0###0##0#0#0#0#免费赠送时装#0#0#1|4|8|16#1#"
+- raw: "86016#丐帮时装16：苍穹孤云#1#11#13#14#0#1#0#1#0#0#shizhuang_86016#86016#0#8601601#0#3600#0#21900#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "丐帮时装16：苍穹孤云"
     translated: "Thief Sect Fashion 16: Solitary cloud in a vast sky"
-  - split: 41
-    text: "免费赠送时装"
-    translated: "Complimentary clothing giveaway"
-- raw: "86017#男万圣节时装#1#11#13#14#0#1#0#1#0#0#ruanjia2#86017#0#8601701#0#3600#0#22200#810###0#0#0#0#0#0####0###0##0#0#0#0#万圣节时装#0#0#1|4|8|16#1#"
+- raw: "86017#男万圣节时装#1#11#13#14#0#1#0#1#0#0#shizhuang_86017#86017#0#8601701#0#3600#0#22200#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "男万圣节时装"
     translated: "Men's Halloween costumes"
-  - split: 41
-    text: "万圣节时装"
-    translated: "Halloween Costume"
-- raw: "86018#日月神教衣服男：日曜朱衣#1#11#13#14#0#1#0#1#0#0#ruanjia2#86018#0#8601801#0#3600#0#22100#810###0#0#0#0#0#0####0###0##0#0#0#0#日月神教时装#0#0#1|4|8|16#1#"
+- raw: "86018#日月神教衣服男：日曜朱衣#1#11#13#14#0#1#0#1#0#0#shizhuang_86018#86018#0#8601801#0#3600#0#22100#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "日月神教衣服男：日曜朱衣"
     translated: "Riyue Shenjiao clothing for men: Sunday in Scarlet Robes"
-  - split: 41
-    text: "日月神教时装"
-    translated: "Celestial Moon Cult Fashion"
-- raw: "86020#书生线时装1:青云书衣#1#11#13#14#0#1#0#1#0#0#ruanjia2#86020#0#8602001#0#3600#0#28000#810###0#0#0#0#0#0####0###0##0#0#0#0#书生线默认时装#0#0#1|4|8|16#1#"
+- raw: "86020#书生线时装1:青云书衣#1#11#13#14#0#1#0#1#0#0#shizhuang_86020#86020#0#8602001#0#3600#0#28000#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "书生线时装1:青云书衣"
     translated: "Scholarly Line Traditional Costume 1: Garments of Qingyun's Script"
-  - split: 41
-    text: "书生线默认时装"
-    translated: "Default Outfit for Scholar Character Line"
-- raw: "86021#浪子线时装1:江湖浪子#1#11#13#14#0#1#0#1#0#0#shizhuang_86021#86021#0#8602101#0#3600#0#28100#810###0#0#0#0#0#0####0###0##0#0#0#0#浪子线默认时装#0#0#1|4|8|16#1#"
+- raw: "86021#浪子线时装1:江湖浪子#1#11#13#14#0#1#0#1#0#0#shizhuang_86021#86021#0#8602101#0#3600#0#28100#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "浪子线时装1:江湖浪子"
     translated: "Rogue Line Fashion 1: Jianghu drifter"
-  - split: 41
-    text: "浪子线默认时装"
-    translated: "Wanderer Line Default Outfit"
-- raw: "86022#DLC时装男:墨影玄衣#1#11#13#14#0#1#0#1#0#0#shizhuang_86021#86022#0#8602201#0#3600#0#28120#810###0#0#0#0#0#0####0###0##0#0#0#0#DLC时装#0#0#1|4|8|16#0#"
+- raw: "86022#DLC时装男:墨影玄衣#1#11#13#14#0#1#0#1#0#0#shizhuang_86021#86022#0#8602201#0#3600#0#28120#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "DLC时装男:墨影玄衣"
     translated: "DLC Costume Male: Ink‑shadow, ethereal robes"
-  - split: 41
-    text: "DLC时装"
-    translated: "DLC Costumes"
-- raw: "86023#DLC时装男:赤裘锦袍#1#11#13#14#0#1#0#1#0#0#shizhuang_86021#86023#0#8602301#0#3600#0#28110#810###0#0#0#0#0#0####0###0##0#0#0#0#DLC时装#0#0#1|4|8|16#0#"
+- raw: "86023#DLC时装男:赤裘锦袍#1#11#13#14#0#1#0#1#0#0#shizhuang_86021#86023#0#8602301#0#3600#0#28110#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "DLC时装男:赤裘锦袍"
     translated: "DLC costume male: Red fur coat and brocade robe"
-  - split: 41
-    text: "DLC时装"
-    translated: "DLC Costumes"
-- raw: "86024#浪子线道具时装男:易容装扮-坞丁#1#11#13#14#0#1#0#1#0#0#bujia3#86024#0#8602401#0#3600#0#28150#810###0#0#0#0#0#0####0###0##0#0#0#0#普通时装#0#0#8#0#"
+- raw: "86024#浪子线道具时装男:易容装扮-坞丁#1#11#13#14#0#1#0#1#0#0#bujia3#86024#0#8602401#0#3600#0#28150#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#8#0#"
   splits:
   - split: 1
     text: "浪子线道具时装男:易容装扮-坞丁"
     translated: "Wandering Son's Daoist Magic Artifact Male Costume: Disguise transformation ‑ Wu Ding"
-  - split: 41
-    text: "普通时装"
-    translated: "Casual clothing"
-- raw: "86025#浪子线道具时装男:易容装扮-随从#1#11#13#14#0#1#0#1#0#0#bujia3#86025#0#8602501#0#3600#0#28130#810###0#0#0#0#0#0####0###0##0#0#0#0#普通时装#0#0#8#0#"
+- raw: "86025#浪子线道具时装男:易容装扮-随从#1#11#13#14#0#1#0#1#0#0#bujia3#86025#0#8602501#0#3600#0#28130#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#8#0#"
   splits:
   - split: 1
     text: "浪子线道具时装男:易容装扮-随从"
     translated: "Wandering Son Line Outfit Accessories Men's Clothing: Disguise or Alteration of Appearance ‑ Retainers."
-  - split: 41
-    text: "普通时装"
-    translated: "Casual clothing"
-- raw: "86026#浪子线道具时装男:易容装扮-梁铭#1#11#13#14#0#1#0#1#0#0#bujia3#86026#0#8602601#0#3600#0#28140#810###0#0#0#0#0#0####0###0##0#0#0#0#普通时装#0#0#8#0#"
+- raw: "86026#浪子线道具时装男:易容装扮-梁铭#1#11#13#14#0#1#0#1#0#0#bujia3#86026#0#8602601#0#3600#0#28140#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#8#0#"
   splits:
   - split: 1
     text: "浪子线道具时装男:易容装扮-梁铭"
     translated: "Wandering Son Line Costume Prop Male: Disguise or Makeup Transformation ‑ Liang Ming"
-  - split: 41
-    text: "普通时装"
-    translated: "Casual clothing"
-- raw: "86027#剑指六脉·付费时装27：凌波书剑客#1#11#13#14#0#1#0#1#0#0#bujia3#86027#0#156350#0#3600#0#28160#810###0#0#0#0#0#0####0###0##0#0#0#0#剑指六脉时装#0#0#1|4|8|16#0#"
+- raw: "86027#剑指六脉·付费时装27：凌波书剑客#1#11#13#14#0#1#0#1#0#0#bujia3#86027#0#156350#0#3600#0#28160#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "剑指六脉·付费时装27：凌波书剑客"
     translated: "Sword Points to the Six Meridians · Paid Fashion 27: Master Liang of the Waves, a Swordsman"
-  - split: 41
-    text: "剑指六脉时装"
-    translated: "Swordpoint Design for the Six Meridians Ensemble"
-- raw: "86028#补偿时装28：漠影仙踪#1#11#13#14#0#1#0#1#0#0#bujia3#86028#0#156457#0#3600#0#28170#810###0#0#0#0#0#0####0###0##0#0#0#0#补偿时装#0#0#1|4|8|16#0#"
+- raw: "86028#补偿时装28：漠影仙踪#1#11#13#14#0#1#0#1#0#0#bujia3#86028#0#156457#0#3600#0#28170#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "补偿时装28：漠影仙踪"
     translated: "Compensatory Fashion 28: Mo Ying Xian Zong"
-  - split: 41
-    text: "补偿时装"
-    translated: "Compensation costume"
-- raw: "86029#活动时装29：问道青城#1#11#13#14#0#1#0#1#0#0#bujia3#86029#0#158942#0#3600#0#28180#810###0#0#0#0#0#0####0###0##0#0#0#0#活动时装#0#0#1|4|8|16#0#"
+- raw: "86029#活动时装29：问道青城#1#11#13#14#0#1#0#1#0#0#bujia3#86029#0#158942#0#3600#0#28180#810###0#0#0#0#0#0####0###0##0#0#0#0#2025年6月江湖2PC端与《下一站青城》联动外观，后续将继续在与《下一站青城》联动活动中返场。#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "活动时装29：问道青城"
     translated: "Trendy outfit at the activity 29: Qingcheng Quanzhen Sect"
   - split: 41
-    text: "活动时装"
-    translated: "Activity Wear"
-- raw: "86030#免费时装30：墨染青锋#1#11#13#14#0#1#0#1#0#0#bujia3#86030#0#158944#0#3600#0#28230#810###0#0#0#0#0#0####0###0##0#0#0#0#免费时装#0#0#1|4|8|16#0#"
+    text: "2025年6月江湖2PC端与《下一站青城》联动外观，后续将继续在与《下一站青城》联动活动中返场。"
+    translated: "In the year 2025, month 6, the Jianghu 2 PC interface underwent a collaborative redesign with Next Stop Qingcheng. This partnership will continue, and further appearances in subsequent collaborations with Next Stop Qingcheng are planned."
+- raw: "86030#免费时装30：墨染青锋#1#11#13#14#0#1#0#1#0#0#bujia3#86030#0#158944#0#3600#0#28230#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "免费时装30：墨染青锋"
     translated: "Free fashion 30: Ink‑stained Jade Blade"
-  - split: 41
-    text: "免费时装"
-    translated: "Free fashion"
-- raw: "86031#移动免费时装31：孤筠#1#11#13#14#0#1#0#1#0#0#bujia3#86031#0#158945#0#3600#0#28190#810###0#0#0#0#0#0####0###0##0#0#0#0#免费时装#0#0#1|4|8|16#0#"
+- raw: "86031#移动免费时装31：孤筠#1#11#13#14#0#1#0#1#0#0#bujia3#86031#0#158945#0#3600#0#28190#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "移动免费时装31：孤筠"
     translated: "Move free fashion 31: Gu Jun"
-  - split: 41
-    text: "免费时装"
-    translated: "Free fashion"
-- raw: "86032#移动免费时装32：烽烬踪#1#11#13#14#0#1#0#1#0#0#bujia3#86032#0#158946#0#3600#0#28200#810###0#0#0#0#0#0####0###0##0#0#0#0#免费时装#0#0#1|4|8|16#0#"
+- raw: "86032#移动免费时装32：烽烬踪#1#11#13#14#0#1#0#1#0#0#bujia3#86032#0#158946#0#3600#0#28200#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "移动免费时装32：烽烬踪"
     translated: "Free Movement of Fashion 32: Traces of Burning Beacon Fires"
-  - split: 41
-    text: "免费时装"
-    translated: "Free fashion"
-- raw: "86033#移动免费时装33：霜梦夜行#1#11#13#14#0#1#0#1#0#0#bujia3#86033#0#158947#0#3600#0#28210#810###0#0#0#0#0#0####0###0##0#0#0#0#免费时装#0#0#1|4|8|16#0#"
+- raw: "86033#移动免费时装33：霜梦夜行#1#11#13#14#0#1#0#1#0#0#bujia3#86033#0#158947#0#3600#0#28210#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "移动免费时装33：霜梦夜行"
     translated: "Free Mobile Wardrobe Change 33: Frosty Dreams at Nightfall"
-  - split: 41
-    text: "免费时装"
-    translated: "Free fashion"
-- raw: "86034#移动免费时装34：云梦天迹#1#11#13#14#0#1#0#1#0#0#bujia3#86034#0#158948#0#3600#0#28220#810###0#0#0#0#0#0####0###0##0#0#0#0#免费时装#0#0#1|4|8|16#0#"
+- raw: "86034#移动免费时装34：云梦天迹#1#11#13#14#0#1#0#1#0#0#bujia3#86034#0#158948#0#3600#0#28220#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "移动免费时装34：云梦天迹"
     translated: "Free Mobile Fashion 34: Cloud Dream Trace"
-  - split: 41
-    text: "免费时装"
-    translated: "Free fashion"
-- raw: "86035#激活码时装35：孤城飞雪#1#11#13#14#0#1#0#1#0#0#bujia3#86064#0#156450#0#3600#0#27770#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#1|4|8|16#0#"
+- raw: "86035#激活码时装35：孤城飞雪#1#11#13#14#0#1#0#1#0#0#bujia3#86064#0#156450#0#3600#0#28240#810###0#0#0#0#0#0####0###0##0#0#0#0#taptap签到活动（后续签到活动还会返场）#0#0#1|4|8|16#0#"
   splits:
   - split: 1
     text: "激活码时装35：孤城飞雪"
     translated: "Activate code costume 35: Snowflakes Flying in a Lonely City"
-- raw: "86050#原皮时装50：飞燕流云#1#11#13#14#0#1#0#1#0#0#bujia3#86050#0#8605001#0#3600#0#27000#810###0#0#0#0#0#0####0###0##0#0#0#0#逃婚千金默认时装#0#0#2#1#"
+  - split: 41
+    text: "taptap签到活动（后续签到活动还会返场）"
+    translated: "TapTap Check‑In Event (Subsequent check‑ins will also receive rewards)."
+- raw: "86036#激活码时装36：白衣飘飘#1#11#13#14#0#1#0#1#0#0#bujia3#158960#0#158961#0#3600#0#28260#810###0#0#0#0#0#0####0###0##0#0#0#0#2025年9月移动端静默登录概率出现购买了DLC《江湖初见》无法解锁，补偿给大家的时装。感谢大家的支持。#0#0#1|4|8|16#0#"
+  splits:
+  - split: 1
+    text: "激活码时装36：白衣飘飘"
+    translated: "Activation code for fashion item 36: Floating in white robes"
+  - split: 41
+    text: "2025年9月移动端静默登录概率出现购买了DLC《江湖初见》无法解锁，补偿给大家的时装。感谢大家的支持。"
+    translated: "In 2025 Month 9, the probability of encountering an issue with silent login on mobile, where players who purchased DLC Jianghu Chu Jian cannot unlock the compensated costumes, has been reported. Thank you for your support."
+- raw: "86050#原皮时装50：飞燕流云#1#11#13#14#0#1#0#1#0#0#shizhuang_86050#86050#0#8605001#0#3600#0#27000#810###0#0#0#0#0#0####0###0##0#0#0#0#0##0#2#0#"
   splits:
   - split: 1
     text: "原皮时装50：飞燕流云"
     translated: "Original Skin Cosplay 50: Swift Swallow and Drifting Clouds"
-  - split: 41
-    text: "逃婚千金默认时装"
-    translated: "Rich Heiress Defaults to Wedding Escape Fashion"
-- raw: "86051#舞弄太极·付费时装51：冰澜雅裳#1#11#13#14#0#1#0#1#0#0#bujia4#86051#0#8605101#0#3600#0#27100#810##1#0#0#0#0#0#0####0###0##0#0#0#0#DLC《舞弄太极》#0#0#2#1#"
+- raw: "86051#舞弄太极·付费时装51：冰澜雅裳#1#11#13#14#0#1#0#1#0#0#shizhuang_86051#86051#0#8605101#0#3600#0#27100#810##1#0#0#0#0#0#0####0###0##0#0#0#0#0##0#2#0#"
   splits:
   - split: 1
     text: "舞弄太极·付费时装51：冰澜雅裳"
     translated: "Wunong Taiji · Paid Fashion 51: Frosty Ripples of Graceful Robes"
-  - split: 41
-    text: "DLC《舞弄太极》"
-    translated: "DLC The Dance of Tai Chi"
-- raw: "86052#舞弄太极·付费时装52：鹤梦云裳#1#11#13#14#0#1#0#1#0#0#bujia3#86052#0#8605201#0#3600#0#27200#810##1#0#0#0#0#0#0####0###0##0#0#0#0#DLC《舞弄太极》#0#0#2#1#"
+- raw: "86052#舞弄太极·付费时装52：鹤梦云裳#1#11#13#14#0#1#0#1#0#0#shizhuang_86052#86052#0#8605201#0#3600#0#27200#810##1#0#0#0#0#0#0####0###0##0#0#0#0#0##0#2#0#"
   splits:
   - split: 1
     text: "舞弄太极·付费时装52：鹤梦云裳"
     translated: "Tai Chi Dance · Pay‑to‑Wear Fashion 52: Swan Dream Robe"
-  - split: 41
-    text: "DLC《舞弄太极》"
-    translated: "DLC The Dance of Tai Chi"
-- raw: "86053#免费时装53：琼华月影#1#11#13#14#0#1#0#1#0#0#bujia3#86053#0#8605301#0#3600#0#27300#810###0#0#0#0#0#0####0###0##0#0#0#0#免费赠送时装#0#0#2#1#"
+- raw: "86053#免费时装53：琼华月影#1#11#13#14#0#1#0#1#0#0#shizhuang_86053#86053#0#8605301#0#3600#0#27300#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#2#0#"
   splits:
   - split: 1
     text: "免费时装53：琼华月影"
     translated: "Free fashion 53: Qionghua Yueying"
-  - split: 41
-    text: "免费赠送时装"
-    translated: "Complimentary clothing giveaway"
-- raw: "86054#补偿时装54：银月冰裳#1#11#13#14#0#1#0#1#0#0#ruanjia4#86054#0#8605401#0#3600#0#27400#810###0#0#0#0#0#0####0###0##0#0#0#0#来自于白玉京为感谢各位少侠对于逃婚千金版本的支持而增设的福利，同时表达对不断更新新内容而给大家带来BUG的歉意。 #0#0#2#1#"
+- raw: "86054#补偿时装54：银月冰裳#1#11#13#14#0#1#0#1#0#0#shizhuang_86054#86054#0#8605401#0#3600#0#27400#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#2#0#"
   splits:
   - split: 1
     text: "补偿时装54：银月冰裳"
     translated: "Compensation time outfit 54: Silver Moon Frost Gown"
-  - split: 41
-    text: "来自于白玉京为感谢各位少侠对于逃婚千金版本的支持而增设的福利，同时表达对不断更新新内容而给大家带来BUG的歉意。 "
-    translated: "As a token of appreciation for the support from all you young heroes regarding the runaway bride version, and as an expression of apology for any bugs caused by our continual updates, this benefit is offered from Baiyujing."
-- raw: "86055#丐帮时装55：烟云曳影#1#11#13#14#0#1#0#1#0#0#ruanjia2#86055#0#8605501#0#3600#0#27500#810###0#0#0#0#0#0####0###0##0#0#0#0#免费赠送时装#0#0#2#1#"
+- raw: "86055#丐帮时装55：烟云曳影#1#11#13#14#0#1#0#1#0#0#ruanjia2#86055#0#8605501#0#3600#0#27500#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#2#0#"
   splits:
   - split: 1
     text: "丐帮时装55：烟云曳影"
     translated: "Taoist Sect Outfit 55: Wraith‑like mists drift"
-  - split: 41
-    text: "免费赠送时装"
-    translated: "Complimentary clothing giveaway"
-- raw: "86056#女万圣节时装#1#11#13#14#0#1#0#1#0#0#ruanjia2#86056#0#8605601#0#3600#0#27700#810###0#0#0#0#0#0####0###0##0#0#0#0#万圣节时装#0#0#2#1#"
+- raw: "86056#女万圣节时装#1#11#13#14#0#1#0#1#0#0#shizhuang_86017#86056#0#8605601#0#3600#0#27700#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#2#0#"
   splits:
   - split: 1
     text: "女万圣节时装"
     translated: "Women's Halloween Costumes"
-  - split: 41
-    text: "万圣节时装"
-    translated: "Halloween Costume"
-- raw: "86057#日月神教衣服女： 皓阳绛裳#1#11#13#14#0#1#0#1#0#0#ruanjia2#86057#0#8605701#0#3600#0#27600#810###0#0#0#0#0#0####0###0##0#0#0#0#日月神教时装#0#0#2#1#"
+- raw: "86057#日月神教衣服女： 皓阳绛裳#1#11#13#14#0#1#0#1#0#0#shizhuang_86057#86057#0#8605701#0#3600#0#27600#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#2#0#"
   splits:
   - split: 1
     text: "日月神教衣服女： 皓阳绛裳"
     translated: "Day Moon Holy Sect clothing for women: Radiant Solar Scarlet Robes"
-  - split: 41
-    text: "日月神教时装"
-    translated: "Celestial Moon Cult Fashion"
-- raw: "86058#DLC时装女:墨锦华裳#1#11#13#14#0#1#0#1#0#0#shizhuang_86057#86058#0#8605801#0#3600#0#27720#810###0#0#0#0#0#0####0###0##0#0#0#0#DLC时装#0#0#2#0#"
+- raw: "86058#DLC时装女: 墨锦华裳#1#11#13#14#0#1#0#1#0#0#shizhuang_86057#86058#0#8605801#0#3600#0#27720#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#2#0#"
   splits:
   - split: 1
-    text: "DLC时装女:墨锦华裳"
-    translated: "Women's DLC Outfits: Velvet Plum Blossom Robe"
-  - split: 41
-    text: "DLC时装"
-    translated: "DLC Costumes"
-- raw: "86059#DLC时装女:红裘绯衣#1#11#13#14#0#1#0#1#0#0#shizhuang_86057#86059#0#8605901#0#3600#0#27710#810###0#0#0#0#0#0####0###0##0#0#0#0#DLC时装#0#0#2#0#"
+    text: "DLC时装女: 墨锦华裳"
+    translated: "DLC fashion for women: Ink‑tinted brocade gown."
+- raw: "86059#DLC时装女:红裘绯衣#1#11#13#14#0#1#0#1#0#0#shizhuang_86057#86059#0#8605901#0#3600#0#27710#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#2#0#"
   splits:
   - split: 1
     text: "DLC时装女:红裘绯衣"
     translated: "DLC Women's Clothing: Crimson fur, scarlet gown"
-  - split: 41
-    text: "DLC时装"
-    translated: "DLC Costumes"
-- raw: "86060#剑指六脉·付费时装60：琅嬛玉魄#1#11#13#14#0#1#0#1#0#0#bujia3#86060#0#156456#0#3600#0#27730#810###0#0#0#0#0#0####0###0##0#0#0#0#剑指六脉时装#0#0#2#0#"
+- raw: "86060#剑指六脉·付费时装60：琅嬛玉魄#1#11#13#14#0#1#0#1#0#0#bujia3#86060#0#156456#0#3600#0#27730#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#2#0#"
   splits:
   - split: 1
     text: "剑指六脉·付费时装60：琅嬛玉魄"
     translated: "Sword Pointing at the Six Meridians · Paid Seasonal Outfit 60: Lianghuan Jade Spirit"
-  - split: 41
-    text: "剑指六脉时装"
-    translated: "Swordpoint Design for the Six Meridians Ensemble"
-- raw: "86061#补偿时装61：天舞幻韵#1#11#13#14#0#1#0#1#0#0#bujia3#86061#0#156458#0#3600#0#27740#810###0#0#0#0#0#0####0###0##0#0#0#0#补偿时装#0#0#2#0#"
+- raw: "86061#补偿时装61：天舞幻韵#1#11#13#14#0#1#0#1#0#0#bujia3#86061#0#156458#0#3600#0#27740#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#2#0#"
   splits:
   - split: 1
     text: "补偿时装61：天舞幻韵"
     translated: "Compensatory clothing during the 61: Celestial Dance of Illusion"
-  - split: 41
-    text: "补偿时装"
-    translated: "Compensation costume"
-- raw: "86062#活动时装62：问道青城#1#11#13#14#0#1#0#1#0#0#bujia3#86062#0#158943#0#3600#0#27750#810###0#0#0#0#0#0####0###0##0#0#0#0#活动时装#0#0#2#0#"
+- raw: "86062#活动时装62：问道青城#1#11#13#14#0#1#0#1#0#0#bujia3#86062#0#158943#0#3600#0#27750#810###0#0#0#0#0#0####0###0##0#0#0#0#2025年6月江湖2PC端与《下一站青城》联动外观，后续将继续在与《下一站青城》联动活动中返场。#0#0#2#0#"
   splits:
   - split: 1
     text: "活动时装62：问道青城"
     translated: "Event outfit 62: Seeking Immortality at Mount Qingcheng"
   - split: 41
-    text: "活动时装"
-    translated: "Activity Wear"
-- raw: "86063#免费时装63：墨染青锋#1#11#13#14#0#1#0#1#0#0#bujia3#86063#0#156449#0#3600#0#27760#810###0#0#0#0#0#0####0###0##0#0#0#0#免费时装#0#0#2#0#"
+    text: "2025年6月江湖2PC端与《下一站青城》联动外观，后续将继续在与《下一站青城》联动活动中返场。"
+    translated: "In the year 2025, month 6, the Jianghu 2 PC interface underwent a collaborative redesign with Next Stop Qingcheng. This partnership will continue, and further appearances in subsequent collaborations with Next Stop Qingcheng are planned."
+- raw: "86063#免费时装63：墨染青锋#1#11#13#14#0#1#0#1#0#0#bujia3#86063#0#156449#0#3600#0#27760#810###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#2#0#"
   splits:
   - split: 1
     text: "免费时装63：墨染青锋"
     translated: "Free Fashion 63: Ink‑Soaked Green Blade"
+- raw: "86064#DLC64：白衣飘飘#1#11#13#14#0#1#0#1#0#0#bujia3#158962#0#158963#0#3600#0#27790#810###0#0#0#0#0#0####0###0##0#0#0#0#2025年9月移动端静默登录概率出现购买了DLC《江湖初见》无法解锁，补偿给大家的时装。感谢大家的支持。#0#0#2#0#"
+  splits:
+  - split: 1
+    text: "DLC64：白衣飘飘"
+    translated: "DLC64: Whispering in white robes"
   - split: 41
-    text: "免费时装"
-    translated: "Free fashion"
+    text: "2025年9月移动端静默登录概率出现购买了DLC《江湖初见》无法解锁，补偿给大家的时装。感谢大家的支持。"
+    translated: "In 2025 Month 9, the probability of encountering an issue with silent login on mobile, where players who purchased DLC Jianghu Chu Jian cannot unlock the compensated costumes, has been reported. Thank you for your support."
 - raw: "87001#免费剑特效1：碧波流云#6#2#14#16#0#1#0#1#0#0#jian7#8700101#0#8700102#0#3600#0#sfx_weapon_jian_Level1#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
@@ -41176,11 +41050,14 @@
   - split: 1
     text: "付费剑特效2：冰魄寒光"
     translated: "Paid special effects for the sword 2: Icy Frost Aura"
-- raw: "87003#激活码剑特效3：火麟剑#6#2#14#16#0#1#0#1#0#0#jian7#8700301#0#8700302#0#3600#0#sfx_weapon_jian#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#"
+- raw: "87003#激活码剑特效3：火麟剑#6#2#14#16#0#1#0#1#0#0#jian7#8700301#0#8700302#0#3600#0#sfx_weapon_jian#1###0#0#0#0#0#0####0###0##0#0#0#0#豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取#0#0#0#0#"
   splits:
   - split: 1
     text: "激活码剑特效3：火麟剑"
     translated: "Activate code sword special effect 3: Huo Lin Jian"
+  - split: 41
+    text: "豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取"
+    translated: "Heroic and Gallant Discussion Activity Benefits: The activity benefits can still be claimed by joining the official Q group 788393107 after the event ends. Contact customer service and say receive from Jianghu Mistress to claim them."
 - raw: "87011#免费刀特效1：苍霞流转#6#3#14#16#0#1#0#1#0#0#dao7#8701101#0#8701102#0#3600#0#sfx_weapon_Dao_Level1#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
@@ -41196,11 +41073,14 @@
   - split: 1
     text: "免费刀特效2：大夏龙雀"
     translated: "Free Sword Effect 2: Dragon Quail of Great Xia"
-- raw: "87014#激活码特效4：北霸枪#6#4#14#16#0#1#0#1#0#0#qiang2#8700305#0#8700306#0#3600#0#sfx_weapon_qiang#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#"
+- raw: "87014#激活码特效4：北霸枪#6#4#14#16#0#1#0#1#0#0#qiang2#8700305#0#8700306#0#3600#0#sfx_weapon_qiang#1###0#0#0#0#0#0####0###0##0#0#0#0#豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取#0#0#0#0#"
   splits:
   - split: 1
     text: "激活码特效4：北霸枪"
     translated: "Activation code effect 4: Northern Emperor's Spear"
+  - split: 41
+    text: "豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取"
+    translated: "Heroic and Gallant Discussion Activity Benefits: The activity benefits can still be claimed by joining the official Q group 788393107 after the event ends. Contact customer service and say receive from Jianghu Mistress to claim them."
 - raw: "87021#免费枪特效1：翠竹破风#6#4#14#16#0#1#0#1#0#0#qiang2#8702101#0#8702102#0#3600#0#sfx_weapon_Qiang_Level1#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
@@ -41216,11 +41096,14 @@
   - split: 1
     text: "免费枪特效2：丈八红缨"
     translated: "Free spear special effects 2: Red Glowing Sword of Eight Feet Length"
-- raw: "87024#激活码特效4：小楼一夜听春雨#6#3#14#16#0#1#0#1#0#0#dao7#8700303#0#8700304#0#3600#0#sfx_weapon_dao#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#"
+- raw: "87024#激活码特效4：小楼一夜听春雨#6#3#14#16#0#1#0#1#0#0#dao7#8700303#0#8700304#0#3600#0#sfx_weapon_dao#1###0#0#0#0#0#0####0###0##0#0#0#0#豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取#0#0#0#0#"
   splits:
   - split: 1
     text: "激活码特效4：小楼一夜听春雨"
     translated: "Activation code special effect 4: In a small tower, spring rain is heard all through the night."
+  - split: 41
+    text: "豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取"
+    translated: "Heroic and Gallant Discussion Activity Benefits: The activity benefits can still be claimed by joining the official Q group 788393107 after the event ends. Contact customer service and say receive from Jianghu Mistress to claim them."
 - raw: "87031#免费拳特效1：明月凌波#6#5#14#16#0#1#0#1#0#0#shoutao4#8701103#0#8701104##3600#0#sfx_weapon_Boji_Level1#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
@@ -41231,11 +41114,14 @@
   - split: 1
     text: "付费拳特效2：烈焰罡气"
     translated: "Pay‑to‑Use Punch Special Effect 2: Fiery Wrathful Qi"
-- raw: "87034#激活码特效3：南斗拳#6#5#14#16#0#1#0#1#0#0#shoutao4#8700307#0#8700308#0#3600#0#sfx_weapon_quan#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#"
+- raw: "87034#激活码特效3：南斗拳#6#5#14#16#0#1#0#1#0#0#shoutao4#8700307#0#8700308#0#3600#0#sfx_weapon_quan#1###0#0#0#0#0#0####0###0##0#0#0#0#豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取#0#0#0#0#"
   splits:
   - split: 1
     text: "激活码特效3：南斗拳"
     translated: "Activation code effect 3: Nandao Quan"
+  - split: 41
+    text: "豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取"
+    translated: "Heroic and Gallant Discussion Activity Benefits: The activity benefits can still be claimed by joining the official Q group 788393107 after the event ends. Contact customer service and say receive from Jianghu Mistress to claim them."
 - raw: "90010#化境卷·雁归来#4#21#11#12#4800#1#0#0#0#0#miji5#90010#0#590010#0#3600#0#34020#102000|10200030#12&10200030##0#0#0#0#0#0##81|2500&82|2500&1005|2500&1006|2500##0###0##0#1#1#0#0#0#0#0#0#"
   splits:
   - split: 1

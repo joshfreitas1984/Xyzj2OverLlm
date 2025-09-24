@@ -837,6 +837,7 @@
 27740#27740_xiyunv#
 27750#27750_main_hero#
 27760#27760_main_hero#
+27790#27790_main_hero#
 28000#28000_main_hero#
 28100#28100_main_hero#
 28110#28110_main_hero#
@@ -853,6 +854,7 @@
 28220#28220_main_hero#
 28230#28230_main_hero#
 28240#28240_main_hero#
+28260#28260_main_hero#
 29600#29600_mount_lu#
 29601#29601_mount_lang#
 29602#29602_mount_xiongmao#

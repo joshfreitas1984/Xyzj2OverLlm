@@ -1,4 +1,4 @@
-- raw: "AudioController/<LoadAudioSubItem>d__155,MoveNext,274,音乐：{0}不存在,[]"
+- raw: "AudioController/<LoadAudioSubItem>d__155,MoveNext,281,音乐：{0}不存在,[]"
   splits:
   - split: 3
     text: "音乐：{0}不存在"
@@ -154,31 +154,31 @@
   splits:
   - split: 3
     text: "取消"
-- raw: "AppGame,IsSaveableNow,253,剧情执行中，无法存档 ,[System.Boolean]"
+- raw: "AppGame,IsSaveableNow,267,剧情执行中，无法存档 ,[System.Boolean]"
   splits:
   - split: 3
     text: "剧情执行中，无法存档 "
-- raw: "AppGame,IsSaveableNow,265,，如需存档请在{0}秒内继续点击存档按钮{1}次,[System.Boolean]"
+- raw: "AppGame,IsSaveableNow,279,，如需存档请在{0}秒内继续点击存档按钮{1}次,[System.Boolean]"
   splits:
   - split: 3
     text: "，如需存档请在{0}秒内继续点击存档按钮{1}次"
-- raw: "AppGame,IsSaveableNow,323,剧情执行中，无法存档，如需存档请在{0}秒内继续点击存档按钮{1}次,[System.Boolean]"
+- raw: "AppGame,IsSaveableNow,337,剧情执行中，无法存档，如需存档请在{0}秒内继续点击存档按钮{1}次,[System.Boolean]"
   splits:
   - split: 3
     text: "剧情执行中，无法存档，如需存档请在{0}秒内继续点击存档按钮{1}次"
-- raw: "AppGame,IsSaveableNow,373,当前为押镖状态，无法存档,[System.Boolean]"
+- raw: "AppGame,IsSaveableNow,387,当前为押镖状态，无法存档,[System.Boolean]"
   splits:
   - split: 3
     text: "当前为押镖状态，无法存档"
-- raw: "AutomatManager,Script_SetNpcPostionCondition,196,WorldManager.Instance.m_EntityDir.不包含id:{0},[AutomatScript，CallFunc]"
+- raw: "AutomatManager,Script_SetNpcPostionCondition,203,WorldManager.Instance.m_EntityDir.不包含id:{0},[AutomatScript，CallFunc]"
   splits:
   - split: 3
     text: "WorldManager.Instance.m_EntityDir.不包含id:{0}"
-- raw: "AutomatManager,Script_SetNpcPostion,215,WorldManager.Instance.m_EntityDir.不包含id:{0},[AutomatScript，CallFunc]"
+- raw: "AutomatManager,Script_SetNpcPostion,222,WorldManager.Instance.m_EntityDir.不包含id:{0},[AutomatScript，CallFunc]"
   splits:
   - split: 3
     text: "WorldManager.Instance.m_EntityDir.不包含id:{0}"
-- raw: "AutomatManager,Script_SetNpcPostionWithCurNpc,186,WorldManager.Instance.m_EntityDir.不包含id:{0},[AutomatScript，CallFunc]"
+- raw: "AutomatManager,Script_SetNpcPostionWithCurNpc,193,WorldManager.Instance.m_EntityDir.不包含id:{0},[AutomatScript，CallFunc]"
   splits:
   - split: 3
     text: "WorldManager.Instance.m_EntityDir.不包含id:{0}"
@@ -198,11 +198,11 @@
   splits:
   - split: 3
     text: "少侠你和本门派好感度为:"
-- raw: "AutomatManager,Script_StartAnswer,361,Script_StartAnswer taklID:{0} 找不到,[AutomatScript，CallFunc]"
+- raw: "AutomatManager,Script_StartAnswer,368,Script_StartAnswer taklID:{0} 找不到,[AutomatScript，CallFunc]"
   splits:
   - split: 3
     text: "Script_StartAnswer taklID:{0} 找不到"
-- raw: "AutomatManager,Script_StartAnswerCondition,372,Script_StartAnswer taklID:{0} 找不到,[AutomatScript，CallFunc]"
+- raw: "AutomatManager,Script_StartAnswerCondition,379,Script_StartAnswer taklID:{0} 找不到,[AutomatScript，CallFunc]"
   splits:
   - split: 3
     text: "Script_StartAnswer taklID:{0} 找不到"
@@ -314,19 +314,19 @@
   splits:
   - split: 3
     text: "遗忘"
-- raw: "AutomatManager,Script_CheckFeiGeFinish,42,飞鸽检测测试：{0} 返回 1,[AutomatScript，CallFunc]"
+- raw: "AutomatManager,Script_CheckFeiGeFinish,49,飞鸽检测测试：{0} 返回 1,[AutomatScript，CallFunc]"
   splits:
   - split: 3
     text: "飞鸽检测测试：{0} 返回 1"
-- raw: "AutomatManager,Script_CheckFeiGeFinish,78,飞鸽检测测试：{0} 返回 0,[AutomatScript，CallFunc]"
+- raw: "AutomatManager,Script_CheckFeiGeFinish,92,飞鸽检测测试：{0} 返回 0,[AutomatScript，CallFunc]"
   splits:
   - split: 3
     text: "飞鸽检测测试：{0} 返回 0"
-- raw: "AutomatManager,Script_FieldEventRandomOneFoeNpcToGroup,229,Script_FieldEventRandomOneFoeNpcToGroup npcId为{}的entity不存在,[AutomatScript，CallFunc]"
+- raw: "AutomatManager,Script_FieldEventRandomOneFoeNpcToGroup,166,Script_FieldEventRandomOneFoeNpcToGroup npcId为{}的entity不存在,[AutomatScript，CallFunc]"
   splits:
   - split: 3
     text: "Script_FieldEventRandomOneFoeNpcToGroup npcId为{}的entity不存在"
-- raw: "AutomatManager,Script_FieldEventRandomOneFirendNpcToGroup,230,Script_FieldEventRandomOneFoeNpcToGroup npcId为{}的entity不存在,[AutomatScript，CallFunc]"
+- raw: "AutomatManager,Script_FieldEventRandomOneFirendNpcToGroup,167,Script_FieldEventRandomOneFoeNpcToGroup npcId为{}的entity不存在,[AutomatScript，CallFunc]"
   splits:
   - split: 3
     text: "Script_FieldEventRandomOneFoeNpcToGroup npcId为{}的entity不存在"
@@ -338,15 +338,15 @@
   splits:
   - split: 3
     text: "犯人正在逃逸"
-- raw: "AutomatManager,Script_MoveAlongBiaoPoint,47,{0}物体没有控制器，不能进行运镖寻路,[AutomatScript，CallFunc]"
+- raw: "AutomatManager,Script_MoveAlongBiaoPoint,54,{0}物体没有控制器，不能进行运镖寻路,[AutomatScript，CallFunc]"
   splits:
   - split: 3
     text: "{0}物体没有控制器，不能进行运镖寻路"
-- raw: "AutomatManager,Script_MoveAlongBiaoPoint,116,{0}物体附近没有可以寻找到的WayPoint，不能进行运镖寻路,[AutomatScript，CallFunc]"
+- raw: "AutomatManager,Script_MoveAlongBiaoPoint,130,{0}物体附近没有可以寻找到的WayPoint，不能进行运镖寻路,[AutomatScript，CallFunc]"
   splits:
   - split: 3
     text: "{0}物体附近没有可以寻找到的WayPoint，不能进行运镖寻路"
-- raw: "AutomatManager,Script_CreateBiaoTeam,41,{0}创建运镖劫镖队伍错误，创建队伍时的队伍类型只能为1或2,[AutomatScript，CallFunc]"
+- raw: "AutomatManager,Script_CreateBiaoTeam,48,{0}创建运镖劫镖队伍错误，创建队伍时的队伍类型只能为1或2,[AutomatScript，CallFunc]"
   splits:
   - split: 3
     text: "{0}创建运镖劫镖队伍错误，创建队伍时的队伍类型只能为1或2"
@@ -354,27 +354,27 @@
   splits:
   - split: 3
     text: "当前为锁定视角，请切换自由视角后调整距离"
-- raw: "SpawnPointPrototype,LoadCSV,493,SpawnPointPrototype，{0}id 重复,[System.Int32，System.String[]]"
+- raw: "SpawnPointPrototype,LoadCSV,515,SpawnPointPrototype，{0}id 重复,[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "SpawnPointPrototype，{0}id 重复"
-- raw: "SpawnPointPrototype,LoadCSV,619,SpawnPointPrototype，{0}id 重复,[System.Int32，System.String[]]"
+- raw: "SpawnPointPrototype,LoadCSV,648,SpawnPointPrototype，{0}id 重复,[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "SpawnPointPrototype，{0}id 重复"
-- raw: "SpawnPointPrototype,LoadCSV,675,SpawnPointPrototype，{0}id 重复,[System.Int32，System.String[]]"
+- raw: "SpawnPointPrototype,LoadCSV,711,SpawnPointPrototype，{0}id 重复,[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "SpawnPointPrototype，{0}id 重复"
-- raw: "ItemPrototype,LoadCSV,695,物品randomNpcSpecial配置格式错误，ItemPrototype.Id:{0},[System.Int32，System.String[]]"
+- raw: "ItemPrototype,LoadCSV,737,物品randomNpcSpecial配置格式错误，ItemPrototype.Id:{0},[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "物品randomNpcSpecial配置格式错误，ItemPrototype.Id:{0}"
-- raw: "ItemPrototype,LoadCSV,828,物品randomNpcGenreid配置格式错误，ItemPrototype.Id:{0},[System.Int32，System.String[]]"
+- raw: "ItemPrototype,LoadCSV,882,物品randomNpcGenreid配置格式错误，ItemPrototype.Id:{0},[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "物品randomNpcGenreid配置格式错误，ItemPrototype.Id:{0}"
-- raw: "ItemPrototype,LoadCSV,1191,当前道具itemid{0}characterlineFlag-{1}与游戏characterlineFlag{2}不一致跳过,[System.Int32，System.String[]]"
+- raw: "ItemPrototype,LoadCSV,1282,当前道具itemid{0}characterlineFlag-{1}与游戏characterlineFlag{2}不一致跳过,[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "当前道具itemid{0}characterlineFlag-{1}与游戏characterlineFlag{2}不一致跳过"
@@ -418,7 +418,7 @@
   splits:
   - split: 3
     text: "画卷"
-- raw: "ItemPrototype,InitRandomItems,416,物品randomNpcGang配置格式错误，ItemPrototype.Id:{0},[]"
+- raw: "ItemPrototype,InitRandomItems,326,物品randomNpcGang配置格式错误，ItemPrototype.Id:{0},[]"
   splits:
   - split: 3
     text: "物品randomNpcGang配置格式错误，ItemPrototype.Id:{0}"
@@ -454,11 +454,11 @@
   splits:
   - split: 3
     text: "秘术效果：基本值：{0}，变化量：{1}，变化类型：{2}，最终值：{3}"
-- raw: "Loot_items,CheckGroup,83,Loot_items:{0}中lootItemid对应的物品在ItemPrototype表中不存在 ItemID:{1},[]"
+- raw: "Loot_items,CheckGroup,90,Loot_items:{0}中lootItemid对应的物品在ItemPrototype表中不存在 ItemID:{1},[]"
   splits:
   - split: 3
     text: "Loot_items:{0}中lootItemid对应的物品在ItemPrototype表中不存在 ItemID:{1}"
-- raw: "QuestPrototype,GetJieMiConditionType,40,不支持的jiemi condition type {0} 请联系程序,[System.Int32]"
+- raw: "QuestPrototype,GetJieMiConditionType,47,不支持的jiemi condition type {0} 请联系程序,[System.Int32]"
   splits:
   - split: 3
     text: "不支持的jiemi condition type {0} 请联系程序"
@@ -470,7 +470,7 @@
   splits:
   - split: 3
     text: "任务:{0}的下一个任务:{1}没有配置在表中"
-- raw: "QuestJieMi,CreateFromCsvRow,511,QuestJieMi的“strmatch”字段配置有错误，_DataInfo.Id:{0},[System.String[]]"
+- raw: "QuestJieMi,CreateFromCsvRow,543,QuestJieMi的“strmatch”字段配置有错误，_DataInfo.Id:{0},[System.String[]]"
   splits:
   - split: 3
     text: "QuestJieMi的“strmatch”字段配置有错误，_DataInfo.Id:{0}"
@@ -478,23 +478,23 @@
   splits:
   - split: 3
     text: "配置文件中没有该传闻id：{0}"
-- raw: "Demolish,OnTriggerEnter,1054,您的刚属性不足，无法击碎,[UnityEngine.Collider]"
+- raw: "Demolish,OnTriggerEnter,1061,您的刚属性不足，无法击碎,[UnityEngine.Collider]"
   splits:
   - split: 3
     text: "您的刚属性不足，无法击碎"
-- raw: "Demolish,OnTriggerEnter,1111,您的技能属性不匹配，无法击碎,[UnityEngine.Collider]"
+- raw: "Demolish,OnTriggerEnter,1118,您的技能属性不匹配，无法击碎,[UnityEngine.Collider]"
   splits:
   - split: 3
     text: "您的技能属性不匹配，无法击碎"
-- raw: "Demolish,OnTriggerEnter,1143,您的刚属性不足，无法击碎,[UnityEngine.Collider]"
+- raw: "Demolish,OnTriggerEnter,1150,您的刚属性不足，无法击碎,[UnityEngine.Collider]"
   splits:
   - split: 3
     text: "您的刚属性不足，无法击碎"
-- raw: "Demolish,OnTriggerEnter,1242,您的,[UnityEngine.Collider]"
+- raw: "Demolish,OnTriggerEnter,1249,您的,[UnityEngine.Collider]"
   splits:
   - split: 3
     text: "您的"
-- raw: "Demolish,OnTriggerEnter,1255,属性不足，无法击碎,[UnityEngine.Collider]"
+- raw: "Demolish,OnTriggerEnter,1262,属性不足，无法击碎,[UnityEngine.Collider]"
   splits:
   - split: 3
     text: "属性不足，无法击碎"
@@ -570,7 +570,7 @@
   splits:
   - split: 3
     text: "请先加入门派"
-- raw: "GmManager,CheckSelf,236,贴图丢失 : ,[System.String[]]"
+- raw: "GmManager,CheckSelf,260,贴图丢失 : ,[System.String[]]"
   splits:
   - split: 3
     text: "贴图丢失 : "
@@ -770,7 +770,7 @@
   splits:
   - split: 3
     text: "与当前武器不匹配"
-- raw: "ItemDetailView,EquipOrUnEquip,1045,装备无耐久，无法穿戴,[]"
+- raw: "ItemDetailView,EquipOrUnEquip,1063,装备无耐久，无法穿戴,[]"
   splits:
   - split: 3
     text: "装备无耐久，无法穿戴"
@@ -802,147 +802,147 @@
   splits:
   - split: 3
     text: "耐久: "
-- raw: "ItemDetailView,ShowItem,3514,卸下,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,3522,卸下,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "卸下"
-- raw: "ItemDetailView,ShowItem,3622,装备,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,3630,装备,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "装备"
-- raw: "ItemDetailView,ShowItem,3629,替换,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,3637,替换,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "替换"
-- raw: "ItemDetailView,ShowItem,3729,，同时获得,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,3737,，同时获得,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "，同时获得"
-- raw: "ItemDetailView,ShowItem,3741,效果:,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,3749,效果:,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "效果:"
-- raw: "ItemDetailView,ShowItem,3766,<nobr>装备上可替换主角模型，对话立绘和泡泡表情,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,3774,<nobr>装备上可替换主角模型，对话立绘和泡泡表情,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "<nobr>装备上可替换主角模型，对话立绘和泡泡表情"
-- raw: "ItemDetailView,ShowItem,3946,提示,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,3954,提示,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "提示"
-- raw: "ItemDetailView,ShowItem,4067,行动,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,4075,行动,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "行动"
-- raw: "ItemDetailView,ShowItem,4152,材料属性,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,4160,材料属性,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "材料属性"
-- raw: "ItemDetailView,ShowItem,4229,，可在武学洗练时作为道具使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,4237,，可在武学洗练时作为道具使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "，可在武学洗练时作为道具使用"
-- raw: "ItemDetailView,ShowItem,4273,，可在武学洗练时作为丹药使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,4281,，可在武学洗练时作为丹药使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "，可在武学洗练时作为丹药使用"
-- raw: "ItemDetailView,ShowItem,4317,，可在武学洗练时作为密卷使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,4325,，可在武学洗练时作为密卷使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "，可在武学洗练时作为密卷使用"
-- raw: "ItemDetailView,ShowItem,4368,物品属性,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,4376,物品属性,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "物品属性"
-- raw: "ItemDetailView,ShowItem,4604,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,4612,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "使用"
-- raw: "ItemDetailView,ShowItem,4814,已处于醉酒状态,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,4822,已处于醉酒状态,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "已处于醉酒状态"
-- raw: "ItemDetailView,ShowItem,4821,已处于饱腹状态,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,4829,已处于饱腹状态,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "已处于饱腹状态"
-- raw: "ItemDetailView,ShowItem,4925,已处于醉酒状态,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,4933,已处于醉酒状态,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "已处于醉酒状态"
-- raw: "ItemDetailView,ShowItem,4932,已处于饱腹状态,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,4940,已处于饱腹状态,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "已处于饱腹状态"
-- raw: "ItemDetailView,ShowItem,5034,当前{0}度({1}/3),[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5042,当前{0}度({1}/3),[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "当前{0}度({1}/3)"
-- raw: "ItemDetailView,ShowItem,5043,醉酒,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5051,醉酒,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "醉酒"
-- raw: "ItemDetailView,ShowItem,5050,饱腹,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5058,饱腹,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "饱腹"
-- raw: "ItemDetailView,ShowItem,5331,卸下,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5339,卸下,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "卸下"
-- raw: "ItemDetailView,ShowItem,5349,装备,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5357,装备,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "装备"
-- raw: "ItemDetailView,ShowItem,5391,覆写,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5399,覆写,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "覆写"
-- raw: "ItemDetailView,ShowItem,5412,萃取,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5420,萃取,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "萃取"
-- raw: "ItemDetailView,ShowItem,5450,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5458,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "使用"
-- raw: "ItemDetailView,ShowItem,5561,耐久: ,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5569,耐久: ,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "耐久: "
-- raw: "ItemDetailView,ShowItem,5846,外攻伤害：{0}\\n内攻伤害：{1}\\n伤害范围：{2}\\n命中效果：{3},[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5854,外攻伤害：{0}\\n内攻伤害：{1}\\n伤害范围：{2}\\n命中效果：{3},[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "外攻伤害：{0}\\n内攻伤害：{1}\\n伤害范围：{2}\\n命中效果：{3}"
-- raw: "ItemDetailView,ShowItem,5899,造成伤害,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5907,造成伤害,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "造成伤害"
-- raw: "ItemDetailView,ShowItem,5969,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,5977,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "使用"
-- raw: "ItemDetailView,ShowItem,6026,使用后学习{0}，用于论辩，可在论辩中替换主角言技.,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,6034,使用后学习{0}，用于论辩，可在论辩中替换主角言技.,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "使用后学习{0}，用于论辩，可在论辩中替换主角言技."
-- raw: "ItemDetailView,ShowItem,6090,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,6098,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "使用"
-- raw: "ItemDetailView,ShowItem,6178,使用后增加{0}天寿命,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,6186,使用后增加{0}天寿命,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "使用后增加{0}天寿命"
-- raw: "ItemDetailView,ShowItem,6261,行动,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,6269,行动,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "行动"
-- raw: "ItemDetailView,ShowItem,6308,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,6316,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "使用"
-- raw: "ItemDetailView,ShowItem,6355,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,6363,使用,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "使用"
@@ -950,7 +950,7 @@
   splits:
   - split: 3
     text: "此类型暂不可知晓来源"
-- raw: "ItemDetailView,RefreshSourceDes,532,暂无来源,[SweetPotato.Item，System.Boolean，System.Boolean]"
+- raw: "ItemDetailView,RefreshSourceDes,539,暂无来源,[SweetPotato.Item，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "暂无来源"
@@ -1454,11 +1454,11 @@
   splits:
   - split: 3
     text: "获得天赋点{0}"
-- raw: "AchievementView,CheckRedPoint,297,成就id={0}类型配置有误！,[]"
+- raw: "AchievementView,CheckRedPoint,304,成就id={0}类型配置有误！,[]"
   splits:
   - split: 3
     text: "成就id={0}类型配置有误！"
-- raw: "AchievementView,CheckRedPoint,338,成就id={0}类型配置有误！,[]"
+- raw: "AchievementView,CheckRedPoint,352,成就id={0}类型配置有误！,[]"
   splits:
   - split: 3
     text: "成就id={0}类型配置有误！"
@@ -2314,19 +2314,19 @@
   splits:
   - split: 3
     text: "秒"
-- raw: "SpellHoverTipMain,SpellOnHoverBySelf,953,调息,[System.Int64，System.Int64]"
+- raw: "SpellHoverTipMain,SpellOnHoverBySelf,944,调息,[System.Int64，System.Int64]"
   splits:
   - split: 3
     text: "调息"
-- raw: "SpellHoverTipMain,SpellOnHoverBySelf,980,段:,[System.Int64，System.Int64]"
+- raw: "SpellHoverTipMain,SpellOnHoverBySelf,971,段:,[System.Int64，System.Int64]"
   splits:
   - split: 3
     text: "段:"
-- raw: "SpellHoverTipMain,SpellOnHoverBySelf,1128,设计时要求只能有1个buff效果，但实际不是，nodeId:{0},[System.Int64，System.Int64]"
+- raw: "SpellHoverTipMain,SpellOnHoverBySelf,1126,设计时要求只能有1个buff效果，但实际不是，nodeId:{0},[System.Int64，System.Int64]"
   splits:
   - split: 3
     text: "设计时要求只能有1个buff效果，但实际不是，nodeId:{0}"
-- raw: "SpellHoverTipMain,SpellOnHoverBySelf,1228,运功,[System.Int64，System.Int64]"
+- raw: "SpellHoverTipMain,SpellOnHoverBySelf,1226,运功,[System.Int64，System.Int64]"
   splits:
   - split: 3
     text: "运功"
@@ -2870,55 +2870,55 @@
   splits:
   - split: 3
     text: "获得"
-- raw: "FabricationView/<FabricateItem>d__157,MoveNext,313,104秘术积点加1，当前积点{0},[]"
+- raw: "FabricationView/<FabricateItem>d__157,MoveNext,330,104秘术积点加1，当前积点{0},[]"
   splits:
   - split: 3
     text: "104秘术积点加1，当前积点{0}"
-- raw: "FabricationView/<FabricateItem>d__157,MoveNext,459,105秘术生效， 得到当前最高品质；{0},[]"
+- raw: "FabricationView/<FabricateItem>d__157,MoveNext,483,105秘术生效， 得到当前最高品质；{0},[]"
   splits:
   - split: 3
     text: "105秘术生效， 得到当前最高品质；{0}"
-- raw: "FabricationView/<FabricateItem>d__157,MoveNext,504,105秘术积点加1，当前积点：{0},[]"
+- raw: "FabricationView/<FabricateItem>d__157,MoveNext,535,105秘术积点加1，当前积点：{0},[]"
   splits:
   - split: 3
     text: "105秘术积点加1，当前积点：{0}"
-- raw: "FabricationView/<FabricateItem>d__157,MoveNext,3152,106秘术积点加1，当前积点{0},[]"
+- raw: "FabricationView/<FabricateItem>d__157,MoveNext,3203,106秘术积点加1，当前积点{0},[]"
   splits:
   - split: 3
     text: "106秘术积点加1，当前积点{0}"
-- raw: "FabricationView/<FabricateItem>d__157,MoveNext,3487,108秘术积点加1，当前积点{0},[]"
+- raw: "FabricationView/<FabricateItem>d__157,MoveNext,3558,108秘术积点加1，当前积点{0},[]"
   splits:
   - split: 3
     text: "108秘术积点加1，当前积点{0}"
-- raw: "FabricationView/<FabricateItem>d__157,MoveNext,3733,突破瓶颈,[]"
+- raw: "FabricationView/<FabricateItem>d__157,MoveNext,3814,突破瓶颈,[]"
   splits:
   - split: 3
     text: "突破瓶颈"
-- raw: "FabricationView/<FabricateItem>d__157,MoveNext,4509,精力 x {0},[]"
+- raw: "FabricationView/<FabricateItem>d__157,MoveNext,4590,精力 x {0},[]"
   splits:
   - split: 3
     text: "精力 x {0}"
-- raw: "FabricationView/<FabricateItem>d__157,MoveNext,4535,<color=#2EDFA3>扣除</color>,[]"
+- raw: "FabricationView/<FabricateItem>d__157,MoveNext,4616,<color=#2EDFA3>扣除</color>,[]"
   splits:
   - split: 3
     text: "<color=#2EDFA3>扣除</color>"
-- raw: "FabricationView/<FabricateItem>d__157,MoveNext,5098,发生彩蛋：此次制作获得,[]"
+- raw: "FabricationView/<FabricateItem>d__157,MoveNext,5179,发生彩蛋：此次制作获得,[]"
   splits:
   - split: 3
     text: "发生彩蛋：此次制作获得"
-- raw: "FabricationView/<FabricateItem>d__157,MoveNext,5148,制作,[]"
+- raw: "FabricationView/<FabricateItem>d__157,MoveNext,5229,制作,[]"
   splits:
   - split: 3
     text: "制作"
-- raw: "FabricationView/<FabricateItem>d__157,MoveNext,5164,成功,[]"
+- raw: "FabricationView/<FabricateItem>d__157,MoveNext,5245,成功,[]"
   splits:
   - split: 3
     text: "成功"
-- raw: "FabricationView/<FabricateItem>d__157,MoveNext,5219,制作,[]"
+- raw: "FabricationView/<FabricateItem>d__157,MoveNext,5300,制作,[]"
   splits:
   - split: 3
     text: "制作"
-- raw: "FabricationView/<FabricateItem>d__157,MoveNext,5235,失败,[]"
+- raw: "FabricationView/<FabricateItem>d__157,MoveNext,5316,失败,[]"
   splits:
   - split: 3
     text: "失败"
@@ -3018,11 +3018,11 @@
   splits:
   - split: 3
     text: "火力：锅灶火力不足，无法使更多食材达到最佳风味。"
-- raw: "FabricationView,GetMishuMifaEffects,76,id:{0} 的 Mystique 不存在 ,[System.Int64，System.Int64]"
+- raw: "FabricationView,GetMishuMifaEffects,90,id:{0} 的 Mystique 不存在 ,[System.Int64，System.Int64]"
   splits:
   - split: 3
     text: "id:{0} 的 Mystique 不存在 "
-- raw: "FabricationView,GetMishuMifaEffects,178,id:{0} 的 Mystique 不存在 ,[System.Int64，System.Int64]"
+- raw: "FabricationView,GetMishuMifaEffects,206,id:{0} 的 Mystique 不存在 ,[System.Int64，System.Int64]"
   splits:
   - split: 3
     text: "id:{0} 的 Mystique 不存在 "
@@ -3234,23 +3234,23 @@
   splits:
   - split: 3
     text: "并额外赋予："
-- raw: "RecipeSlot,OnReset,117,道具id{0}不存在！！！！,[]"
+- raw: "RecipeSlot,OnReset,124,道具id{0}不存在！！！！,[]"
   splits:
   - split: 3
     text: "道具id{0}不存在！！！！"
-- raw: "RecipeSlot,OnReset,407,品质：随机,[]"
+- raw: "RecipeSlot,OnReset,414,品质：随机,[]"
   splits:
   - split: 3
     text: "品质：随机"
-- raw: "RecipeSlot,OnReset,511,品质：随机,[]"
+- raw: "RecipeSlot,OnReset,518,品质：随机,[]"
   splits:
   - split: 3
     text: "品质：随机"
-- raw: "RecipeSlot,OnReset,557,未习得配方,[]"
+- raw: "RecipeSlot,OnReset,564,未习得配方,[]"
   splits:
   - split: 3
     text: "未习得配方"
-- raw: "RecipeSlot,OnReset,580,坚韧要求：,[]"
+- raw: "RecipeSlot,OnReset,587,坚韧要求：,[]"
   splits:
   - split: 3
     text: "坚韧要求："
@@ -3906,15 +3906,15 @@
   splits:
   - split: 3
     text: "未达到解锁要求"
-- raw: "AttriPart,RefreshSelfTalent,301,缺失天赋:,[System.Collections.Generic.List`1<System.Int32>]"
+- raw: "AttriPart,RefreshSelfTalent,311,缺失天赋:,[System.Collections.Generic.List`1<System.Int32>]"
   splits:
   - split: 3
     text: "缺失天赋:"
-- raw: "AttriPart,OnInit,257,上阵,[PlayerAttriAndBagView]"
+- raw: "AttriPart,OnInit,186,上阵,[PlayerAttriAndBagView]"
   splits:
   - split: 3
     text: "上阵"
-- raw: "AttriPart,OnInit,264,下阵,[PlayerAttriAndBagView]"
+- raw: "AttriPart,OnInit,193,下阵,[PlayerAttriAndBagView]"
   splits:
   - split: 3
     text: "下阵"
@@ -3970,11 +3970,11 @@
   splits:
   - split: 3
     text: "真气"
-- raw: "AttriPart,RefreshTalentInfo,287,缺失天赋:,[]"
+- raw: "AttriPart,RefreshTalentInfo,311,缺失天赋:,[]"
   splits:
   - split: 3
     text: "缺失天赋:"
-- raw: "AttriPart,RefreshTalentInfo,395,未激活,[]"
+- raw: "AttriPart,RefreshTalentInfo,419,未激活,[]"
   splits:
   - split: 3
     text: "未激活"
@@ -4070,26 +4070,26 @@
   splits:
   - split: 3
     text: "降低暴击伤害触发几率。"
-- raw: "AttriPart,.cctor,186,当使用阴属性招式，角色进入阴属性状态，此时角色获得阴属性战斗加成和一些特殊效果：\\n1：角色切换进入阴属性招式状态，此时攻击柔状态的角色会获得伤害比例加成。反之如果攻击阳属性偏向的，则伤害会走相抵系数。\\n2：进入阴状态的角色需要相合的内功进行配合：\\n     相合：阴状态需要阴偏向的内功来催动，进入内功-招式相合状态。\\n     相克：阴状态的的技能如果使用阳偏向、柔偏向的内功，自身会根据阴属性与柔、阳属性的差距出现气血不畅或是气血贯通。\\n     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。\\n3：阴属性达到一定程度后开启冰封效果，相合状态下，每次阴属性攻击会累加自身阴属性与阳、柔属性的差值，累加值达到2300触发冰封，对自身周围敌人施加一个霜冻效果。\\n     霜冻：冻住目标，使目标无法进行任何动作，持续一段时间。,[]"
+- raw: "AttriPart,.cctor,186,当使用阴属性招式，角色进入阴属性状态，此时角色获得阴属性战斗加成和一些特殊效果：\\r\\n1：角色切换进入阴属性招式状态，此时攻击柔状态的角色会获得伤害比例加成。反之如果攻击阳属性偏向的，则伤害会走相抵系数。\\r\\n2：进入阴状态的角色需要相合的内功进行配合：\\r\\n     相合：阴状态需要阴偏向的内功来催动，进入内功-招式相合状态。\\r\\n     相克：阴状态的的技能如果使用阳偏向、柔偏向的内功，自身会根据阴属性与柔、阳属性的差距出现气血不畅或是气血贯通。\\r\\n     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。\\r\\n3：阴属性达到一定程度后开启冰封效果，相合状态下，每次阴属性攻击会累加自身阴属性与阳、柔属性的差值，累加值达到2300触发冰封，对自身周围敌人施加一个霜冻效果。\\r\\n     霜冻：冻住目标，使目标无法进行任何动作，持续一段时间。,[]"
   splits:
   - split: 3
-    text: "当使用阴属性招式，角色进入阴属性状态，此时角色获得阴属性战斗加成和一些特殊效果：\\n1：角色切换进入阴属性招式状态，此时攻击柔状态的角色会获得伤害比例加成。反之如果攻击阳属性偏向的，则伤害会走相抵系数。\\n2：进入阴状态的角色需要相合的内功进行配合：\\n     相合：阴状态需要阴偏向的内功来催动，进入内功-招式相合状态。\\n     相克：阴状态的的技能如果使用阳偏向、柔偏向的内功，自身会根据阴属性与柔、阳属性的差距出现气血不畅或是气血贯通。\\n     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。\\n3：阴属性达到一定程度后开启冰封效果，相合状态下，每次阴属性攻击会累加自身阴属性与阳、柔属性的差值，累加值达到2300触发冰封，对自身周围敌人施加一个霜冻效果。\\n     霜冻：冻住目标，使目标无法进行任何动作，持续一段时间。"
-- raw: "AttriPart,.cctor,199,当使用阳属性招式，角色进入阳属性状，此时角色获得阳属性战斗加成和一些特殊效果：\\n1：角色切换进入阳属性招式状态，此时攻击阴状态的角色会获得伤害比例加成。反之如果攻击毒属性偏向的，则伤害会走相抵系数。\\n2：进入阳状态的角色需要相生或者相合的属性的心法进行配合：\\n     相合：阳状态需要阳偏向的内功来催动，进入内功-招式相合状态。\\n     相克：阳状态的的技能如果使用阴偏向、毒偏向的内功，自身会根据阳属性与阴、毒属性的差距出现气血不畅或是气血贯通。\\n     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。\\n3：阳属性达到一定程度后开启焚烧效果，相合状态下，每次阳属性攻击会累加自身阳属性与阴、毒属性的差值，累加值达1250触发焚烧，对自身周围敌人施加一个灼烧效果。\\n     灼烧：每秒造成自身阳属性一定比例伤害。,[]"
+    text: "当使用阴属性招式，角色进入阴属性状态，此时角色获得阴属性战斗加成和一些特殊效果：\\r\\n1：角色切换进入阴属性招式状态，此时攻击柔状态的角色会获得伤害比例加成。反之如果攻击阳属性偏向的，则伤害会走相抵系数。\\r\\n2：进入阴状态的角色需要相合的内功进行配合：\\r\\n     相合：阴状态需要阴偏向的内功来催动，进入内功-招式相合状态。\\r\\n     相克：阴状态的的技能如果使用阳偏向、柔偏向的内功，自身会根据阴属性与柔、阳属性的差距出现气血不畅或是气血贯通。\\r\\n     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。\\r\\n3：阴属性达到一定程度后开启冰封效果，相合状态下，每次阴属性攻击会累加自身阴属性与阳、柔属性的差值，累加值达到2300触发冰封，对自身周围敌人施加一个霜冻效果。\\r\\n     霜冻：冻住目标，使目标无法进行任何动作，持续一段时间。"
+- raw: "AttriPart,.cctor,199,当使用阳属性招式，角色进入阳属性状，此时角色获得阳属性战斗加成和一些特殊效果：\\r\\n1：角色切换进入阳属性招式状态，此时攻击阴状态的角色会获得伤害比例加成。反之如果攻击毒属性偏向的，则伤害会走相抵系数。\\r\\n2：进入阳状态的角色需要相生或者相合的属性的心法进行配合：\\r\\n     相合：阳状态需要阳偏向的内功来催动，进入内功-招式相合状态。\\r\\n     相克：阳状态的的技能如果使用阴偏向、毒偏向的内功，自身会根据阳属性与阴、毒属性的差距出现气血不畅或是气血贯通。\\r\\n     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。\\r\\n3：阳属性达到一定程度后开启焚烧效果，相合状态下，每次阳属性攻击会累加自身阳属性与阴、毒属性的差值，累加值达1250触发焚烧，对自身周围敌人施加一个灼烧效果。\\r\\n     灼烧：每秒造成自身阳属性一定比例伤害。,[]"
   splits:
   - split: 3
-    text: "当使用阳属性招式，角色进入阳属性状，此时角色获得阳属性战斗加成和一些特殊效果：\\n1：角色切换进入阳属性招式状态，此时攻击阴状态的角色会获得伤害比例加成。反之如果攻击毒属性偏向的，则伤害会走相抵系数。\\n2：进入阳状态的角色需要相生或者相合的属性的心法进行配合：\\n     相合：阳状态需要阳偏向的内功来催动，进入内功-招式相合状态。\\n     相克：阳状态的的技能如果使用阴偏向、毒偏向的内功，自身会根据阳属性与阴、毒属性的差距出现气血不畅或是气血贯通。\\n     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。\\n3：阳属性达到一定程度后开启焚烧效果，相合状态下，每次阳属性攻击会累加自身阳属性与阴、毒属性的差值，累加值达1250触发焚烧，对自身周围敌人施加一个灼烧效果。\\n     灼烧：每秒造成自身阳属性一定比例伤害。"
-- raw: "AttriPart,.cctor,212,当使用刚属性招式，角色进入刚属性状态，此时角色获得刚属性加成和一些特殊效果：\\n1：角色切换进入刚属性招式状态，此时攻击毒状态的角色会获得伤害比例加成。反之如果攻击柔属性偏向的，则伤害会走相抵系数。\\n2：进入刚状态的角色需要相合的内功进行配合：\\n     相合：刚状态需要刚偏向的内功来催动，进入内功-招式相合状态。\\n     相克：刚状态的的技能如果使用柔偏向、毒偏向的内功，自身会根据刚属性与柔、毒属性的差距出现气血不畅或是气血贯通。\\n     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。\\n3：刚属性达到一定程度可以开启无坚不摧，相合状态下，每次刚属性攻击会累加自身刚属性与柔、毒属性的差值，累加值达到1550触发猛攻。\\n     猛攻：持续时间内，提升10%暴击几率，可叠加至10层。,[]"
+    text: "当使用阳属性招式，角色进入阳属性状，此时角色获得阳属性战斗加成和一些特殊效果：\\r\\n1：角色切换进入阳属性招式状态，此时攻击阴状态的角色会获得伤害比例加成。反之如果攻击毒属性偏向的，则伤害会走相抵系数。\\r\\n2：进入阳状态的角色需要相生或者相合的属性的心法进行配合：\\r\\n     相合：阳状态需要阳偏向的内功来催动，进入内功-招式相合状态。\\r\\n     相克：阳状态的的技能如果使用阴偏向、毒偏向的内功，自身会根据阳属性与阴、毒属性的差距出现气血不畅或是气血贯通。\\r\\n     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。\\r\\n3：阳属性达到一定程度后开启焚烧效果，相合状态下，每次阳属性攻击会累加自身阳属性与阴、毒属性的差值，累加值达1250触发焚烧，对自身周围敌人施加一个灼烧效果。\\r\\n     灼烧：每秒造成自身阳属性一定比例伤害。"
+- raw: "AttriPart,.cctor,212,当使用刚属性招式，角色进入刚属性状态，此时角色获得刚属性加成和一些特殊效果：\\r\\n1：角色切换进入刚属性招式状态，此时攻击毒状态的角色会获得伤害比例加成。反之如果攻击柔属性偏向的，则伤害会走相抵系数。\\r\\n2：进入刚状态的角色需要相合的内功进行配合：\\r\\n     相合：刚状态需要刚偏向的内功来催动，进入内功-招式相合状态。\\r\\n     相克：刚状态的的技能如果使用柔偏向、毒偏向的内功，自身会根据刚属性与柔、毒属性的差距出现气血不畅或是气血贯通。\\r\\n     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。\\r\\n3：刚属性达到一定程度可以开启无坚不摧，相合状态下，每次刚属性攻击会累加自身刚属性与柔、毒属性的差值，累加值达到1550触发猛攻。\\r\\n     猛攻：持续时间内，提升10%暴击几率，可叠加至10层。,[]"
   splits:
   - split: 3
-    text: "当使用刚属性招式，角色进入刚属性状态，此时角色获得刚属性加成和一些特殊效果：\\n1：角色切换进入刚属性招式状态，此时攻击毒状态的角色会获得伤害比例加成。反之如果攻击柔属性偏向的，则伤害会走相抵系数。\\n2：进入刚状态的角色需要相合的内功进行配合：\\n     相合：刚状态需要刚偏向的内功来催动，进入内功-招式相合状态。\\n     相克：刚状态的的技能如果使用柔偏向、毒偏向的内功，自身会根据刚属性与柔、毒属性的差距出现气血不畅或是气血贯通。\\n     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。\\n3：刚属性达到一定程度可以开启无坚不摧，相合状态下，每次刚属性攻击会累加自身刚属性与柔、毒属性的差值，累加值达到1550触发猛攻。\\n     猛攻：持续时间内，提升10%暴击几率，可叠加至10层。"
-- raw: "AttriPart,.cctor,225,当使用柔属性招式，角色进入柔属性状态，此时角色获得柔属性加成和一些特殊效果：\\n1：角色切换进入柔属性招式状态，此时攻击刚状态的角色会获得伤害比例加成。反之如果攻击阴属性偏向的，则伤害会走相抵系数。\\n2：进入柔状态的角色需要相合的内功进行配合：\\n     相合：柔状态需要柔偏向的内功来催动，进入内功-招式相合状态。\\n     相克：柔状态的的技能如果使用刚偏向、阴偏向的内功，自身会根据柔属性与阴、刚属性的差距出现气血不畅或是气血贯通。\\n     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。\\n3：柔属性达到一定程度可以开启柔化万物，相合状态下，每次柔属性攻击会累加自身柔属性与阴、刚属性的差值，累加值达到1800触发化解。\\n     化解：持续时间内免疫负面效果。,[]"
+    text: "当使用刚属性招式，角色进入刚属性状态，此时角色获得刚属性加成和一些特殊效果：\\r\\n1：角色切换进入刚属性招式状态，此时攻击毒状态的角色会获得伤害比例加成。反之如果攻击柔属性偏向的，则伤害会走相抵系数。\\r\\n2：进入刚状态的角色需要相合的内功进行配合：\\r\\n     相合：刚状态需要刚偏向的内功来催动，进入内功-招式相合状态。\\r\\n     相克：刚状态的的技能如果使用柔偏向、毒偏向的内功，自身会根据刚属性与柔、毒属性的差距出现气血不畅或是气血贯通。\\r\\n     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。\\r\\n3：刚属性达到一定程度可以开启无坚不摧，相合状态下，每次刚属性攻击会累加自身刚属性与柔、毒属性的差值，累加值达到1550触发猛攻。\\r\\n     猛攻：持续时间内，提升10%暴击几率，可叠加至10层。"
+- raw: "AttriPart,.cctor,225,当使用柔属性招式，角色进入柔属性状态，此时角色获得柔属性加成和一些特殊效果：\\r\\n1：角色切换进入柔属性招式状态，此时攻击刚状态的角色会获得伤害比例加成。反之如果攻击阴属性偏向的，则伤害会走相抵系数。\\r\\n2：进入柔状态的角色需要相合的内功进行配合：\\r\\n     相合：柔状态需要柔偏向的内功来催动，进入内功-招式相合状态。\\r\\n     相克：柔状态的的技能如果使用刚偏向、阴偏向的内功，自身会根据柔属性与阴、刚属性的差距出现气血不畅或是气血贯通。\\r\\n     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。\\r\\n3：柔属性达到一定程度可以开启柔化万物，相合状态下，每次柔属性攻击会累加自身柔属性与阴、刚属性的差值，累加值达到1800触发化解。\\r\\n     化解：持续时间内免疫负面效果。,[]"
   splits:
   - split: 3
-    text: "当使用柔属性招式，角色进入柔属性状态，此时角色获得柔属性加成和一些特殊效果：\\n1：角色切换进入柔属性招式状态，此时攻击刚状态的角色会获得伤害比例加成。反之如果攻击阴属性偏向的，则伤害会走相抵系数。\\n2：进入柔状态的角色需要相合的内功进行配合：\\n     相合：柔状态需要柔偏向的内功来催动，进入内功-招式相合状态。\\n     相克：柔状态的的技能如果使用刚偏向、阴偏向的内功，自身会根据柔属性与阴、刚属性的差距出现气血不畅或是气血贯通。\\n     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。\\n3：柔属性达到一定程度可以开启柔化万物，相合状态下，每次柔属性攻击会累加自身柔属性与阴、刚属性的差值，累加值达到1800触发化解。\\n     化解：持续时间内免疫负面效果。"
-- raw: "AttriPart,.cctor,238,当使用毒属性招式，角色进入毒属性状态，此时角色获得毒属性加成和一些特殊效果：\\n1：角色切换进入毒属性属性招式状态，此时攻击阳状态的角色会获得伤害比例加成。反之如果攻击刚属性偏向的，则伤害会走相抵系数。\\n2：进入毒状态的角色需要相合的内功进行配合：\\n     相合：毒状态需要毒偏向的内功来催动，进入内功-招式相合状态。\\n     相克：毒状态的的技能如果使用刚偏向、阳偏向的内功，自身会根据毒属性与阳、刚属性的差距出现气血不畅或是气血贯通。\\n     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。\\n3：毒属性达到一定程度后开启枯萎效果，相合状态下，每次毒属性攻击会累加自身毒属性与刚、阳属性的差值，累加值达到1550触发毒瘴。\\n     毒瘴：对周围目标施加瘴气效果，持续时间内减少目标治疗效果、降低目标输出、使目标受伤增加。,[]"
+    text: "当使用柔属性招式，角色进入柔属性状态，此时角色获得柔属性加成和一些特殊效果：\\r\\n1：角色切换进入柔属性招式状态，此时攻击刚状态的角色会获得伤害比例加成。反之如果攻击阴属性偏向的，则伤害会走相抵系数。\\r\\n2：进入柔状态的角色需要相合的内功进行配合：\\r\\n     相合：柔状态需要柔偏向的内功来催动，进入内功-招式相合状态。\\r\\n     相克：柔状态的的技能如果使用刚偏向、阴偏向的内功，自身会根据柔属性与阴、刚属性的差距出现气血不畅或是气血贯通。\\r\\n     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。\\r\\n3：柔属性达到一定程度可以开启柔化万物，相合状态下，每次柔属性攻击会累加自身柔属性与阴、刚属性的差值，累加值达到1800触发化解。\\r\\n     化解：持续时间内免疫负面效果。"
+- raw: "AttriPart,.cctor,238,当使用毒属性招式，角色进入毒属性状态，此时角色获得毒属性加成和一些特殊效果：\\r\\n1：角色切换进入毒属性属性招式状态，此时攻击阳状态的角色会获得伤害比例加成。反之如果攻击刚属性偏向的，则伤害会走相抵系数。\\r\\n2：进入毒状态的角色需要相合的内功进行配合：\\r\\n     相合：毒状态需要毒偏向的内功来催动，进入内功-招式相合状态。\\r\\n     相克：毒状态的的技能如果使用刚偏向、阳偏向的内功，自身会根据毒属性与阳、刚属性的差距出现气血不畅或是气血贯通。\\r\\n     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。\\r\\n3：毒属性达到一定程度后开启枯萎效果，相合状态下，每次毒属性攻击会累加自身毒属性与刚、阳属性的差值，累加值达到1550触发毒瘴。\\r\\n     毒瘴：对周围目标施加瘴气效果，持续时间内减少目标治疗效果、降低目标输出、使目标受伤增加。,[]"
   splits:
   - split: 3
-    text: "当使用毒属性招式，角色进入毒属性状态，此时角色获得毒属性加成和一些特殊效果：\\n1：角色切换进入毒属性属性招式状态，此时攻击阳状态的角色会获得伤害比例加成。反之如果攻击刚属性偏向的，则伤害会走相抵系数。\\n2：进入毒状态的角色需要相合的内功进行配合：\\n     相合：毒状态需要毒偏向的内功来催动，进入内功-招式相合状态。\\n     相克：毒状态的的技能如果使用刚偏向、阳偏向的内功，自身会根据毒属性与阳、刚属性的差距出现气血不畅或是气血贯通。\\n     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。\\n3：毒属性达到一定程度后开启枯萎效果，相合状态下，每次毒属性攻击会累加自身毒属性与刚、阳属性的差值，累加值达到1550触发毒瘴。\\n     毒瘴：对周围目标施加瘴气效果，持续时间内减少目标治疗效果、降低目标输出、使目标受伤增加。"
+    text: "当使用毒属性招式，角色进入毒属性状态，此时角色获得毒属性加成和一些特殊效果：\\r\\n1：角色切换进入毒属性属性招式状态，此时攻击阳状态的角色会获得伤害比例加成。反之如果攻击刚属性偏向的，则伤害会走相抵系数。\\r\\n2：进入毒状态的角色需要相合的内功进行配合：\\r\\n     相合：毒状态需要毒偏向的内功来催动，进入内功-招式相合状态。\\r\\n     相克：毒状态的的技能如果使用刚偏向、阳偏向的内功，自身会根据毒属性与阳、刚属性的差距出现气血不畅或是气血贯通。\\r\\n     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。\\r\\n3：毒属性达到一定程度后开启枯萎效果，相合状态下，每次毒属性攻击会累加自身毒属性与刚、阳属性的差值，累加值达到1550触发毒瘴。\\r\\n     毒瘴：对周围目标施加瘴气效果，持续时间内减少目标治疗效果、降低目标输出、使目标受伤增加。"
 - raw: "AttriPart,.cctor,251,轻功决定了移动速度和开启各种高级轻功的能力。,[]"
   splits:
   - split: 3
@@ -4742,7 +4742,7 @@
   splits:
   - split: 3
     text: "尚未添加特殊材料"
-- raw: "LunDaoBattle/<OnSkillTrigger>d__75,MoveNext,191,OnSkillTrigger:ID{0} 名字：{1},[]"
+- raw: "LunDaoBattle/<OnSkillTrigger>d__75,MoveNext,198,OnSkillTrigger:ID{0} 名字：{1},[]"
   splits:
   - split: 3
     text: "OnSkillTrigger:ID{0} 名字：{1}"
@@ -4754,7 +4754,7 @@
   splits:
   - split: 3
     text: "不满足条件"
-- raw: "LunDaoBattle/<OnTriggerSkill>d__76,MoveNext,435,OnTriggerSkill:ID {0} 名字：{1},[]"
+- raw: "LunDaoBattle/<OnTriggerSkill>d__76,MoveNext,442,OnTriggerSkill:ID {0} 名字：{1},[]"
   splits:
   - split: 3
     text: "OnTriggerSkill:ID {0} 名字：{1}"
@@ -4778,7 +4778,7 @@
   splits:
   - split: 3
     text: "概率未成功触发"
-- raw: "LunDaoBattle/<OnCastSkill>d__77,MoveNext,971,OnCastSkill:ID {0} 名字：{1},[]"
+- raw: "LunDaoBattle/<OnCastSkill>d__77,MoveNext,978,OnCastSkill:ID {0} 名字：{1},[]"
   splits:
   - split: 3
     text: "OnCastSkill:ID {0} 名字：{1}"
@@ -4914,31 +4914,31 @@
   splits:
   - split: 3
     text: "放下"
-- raw: "MainViewSettings/<>c,<UpdateInput>b__54_0,10,已覆盖快速存档栏,[]"
+- raw: "MainViewSettings/<>c,<UpdateInput>b__56_0,10,已覆盖快速存档栏,[]"
   splits:
   - split: 3
     text: "已覆盖快速存档栏"
-- raw: "MainViewSettings,UpdateInput,2684,当前状态下不可打坐,[]"
+- raw: "MainViewSettings,UpdateInput,2746,当前状态下不可打坐,[]"
   splits:
   - split: 3
     text: "当前状态下不可打坐"
-- raw: "MainViewSettings,UpdateInput,3116,当前状态无法快速存档，postScriptExecuted！,[]"
+- raw: "MainViewSettings,UpdateInput,3192,当前状态无法快速存档，postScriptExecuted！,[]"
   splits:
   - split: 3
     text: "当前状态无法快速存档，postScriptExecuted！"
-- raw: "MainViewSettings,UpdateInput,3490,没有可用的快速存档，无法读取.,[]"
+- raw: "MainViewSettings,UpdateInput,3594,没有可用的快速存档，无法读取.,[]"
   splits:
   - split: 3
     text: "没有可用的快速存档，无法读取."
-- raw: "MainViewSettings,UpdateInput,3517,即将读取快速存档，确定吗？,[]"
+- raw: "MainViewSettings,UpdateInput,3621,即将读取快速存档，确定吗？,[]"
   splits:
   - split: 3
     text: "即将读取快速存档，确定吗？"
-- raw: "MainViewSettings,UpdateInput,3554,确定,[]"
+- raw: "MainViewSettings,UpdateInput,3658,确定,[]"
   splits:
   - split: 3
     text: "确定"
-- raw: "MainViewSettings,UpdateInput,3559,取消,[]"
+- raw: "MainViewSettings,UpdateInput,3663,取消,[]"
   splits:
   - split: 3
     text: "取消"
@@ -5026,7 +5026,7 @@
   splits:
   - split: 3
     text: "风雪人间客"
-- raw: "PlayerStatusUI,BindPlayer,60,风雪人间客,[]"
+- raw: "PlayerStatusUI,BindPlayer,57,风雪人间客,[]"
   splits:
   - split: 3
     text: "风雪人间客"
@@ -5966,19 +5966,19 @@
   splits:
   - split: 3
     text: "{0}日"
-- raw: "NpcAttributeNodeNew,ShowNpcSpell,920,设计时要求只能有1个buff效果，但实际不是，nodeId:{0},[]"
+- raw: "NpcAttributeNodeNew,ShowNpcSpell,927,设计时要求只能有1个buff效果，但实际不是，nodeId:{0},[]"
   splits:
   - split: 3
     text: "设计时要求只能有1个buff效果，但实际不是，nodeId:{0}"
-- raw: "NpcAttributeNodeNew,ShowNpcSpell,1093,段:,[]"
+- raw: "NpcAttributeNodeNew,ShowNpcSpell,1100,段:,[]"
   splits:
   - split: 3
     text: "段:"
-- raw: "NpcAttributeNodeNew,ShowNpcSpell,1217,设计时要求只能有1个buff效果，但实际不是，nodeId:{0},[]"
+- raw: "NpcAttributeNodeNew,ShowNpcSpell,1231,设计时要求只能有1个buff效果，但实际不是，nodeId:{0},[]"
   splits:
   - split: 3
     text: "设计时要求只能有1个buff效果，但实际不是，nodeId:{0}"
-- raw: "NpcAttributeNodeNew,ShowNpcSpell,1629,无,[]"
+- raw: "NpcAttributeNodeNew,ShowNpcSpell,1643,无,[]"
   splits:
   - split: 3
     text: "无"
@@ -6258,11 +6258,11 @@
   splits:
   - split: 3
     text: "我的经历"
-- raw: "PlayerExperienceView,OnMPEvent,71,的经历,[MPEventArgs]"
+- raw: "PlayerExperienceView,OnMPEvent,82,的经历,[MPEventArgs]"
   splits:
   - split: 3
     text: "的经历"
-- raw: "PlayerExperienceView,OnMPEvent,122,我的经历,[MPEventArgs]"
+- raw: "PlayerExperienceView,OnMPEvent,133,我的经历,[MPEventArgs]"
   splits:
   - split: 3
     text: "我的经历"
@@ -6422,7 +6422,7 @@
   splits:
   - split: 3
     text: "\\n消耗：    "
-- raw: "ShopStoreItemData,.ctor,54,ItemPrototype {0} 不存在 请检查,[SweetPotato.ShopProto]"
+- raw: "ShopStoreItemData,.ctor,61,ItemPrototype {0} 不存在 请检查,[SweetPotato.ShopProto]"
   splits:
   - split: 3
     text: "ItemPrototype {0} 不存在 请检查"
@@ -6430,7 +6430,7 @@
   splits:
   - split: 3
     text: "ShopProto.GetFisrtShopProtoBuyGroup(shopid)获得的ShopProto个数为0，shopid：{0}"
-- raw: "ShopStoreSystem,CreateItemByShopPrototype,15,ItemPrototype {0} 不存在 请检查,[SweetPotato.ShopProto]"
+- raw: "ShopStoreSystem,CreateItemByShopPrototype,22,ItemPrototype {0} 不存在 请检查,[SweetPotato.ShopProto]"
   splits:
   - split: 3
     text: "ItemPrototype {0} 不存在 请检查"
@@ -6842,11 +6842,11 @@
   splits:
   - split: 3
     text: "操作失败:"
-- raw: "TieziItemSlot/<SendAddZan>d__11,MoveNext,221,操作成功,[]"
+- raw: "TieziItemSlot/<SendAddZan>d__11,MoveNext,241,操作成功,[]"
   splits:
   - split: 3
     text: "操作成功"
-- raw: "TieziItemSlot/<SendAddZan>d__11,MoveNext,246,操作错误 errcode:,[]"
+- raw: "TieziItemSlot/<SendAddZan>d__11,MoveNext,266,操作错误 errcode:,[]"
   splits:
   - split: 3
     text: "操作错误 errcode:"
@@ -6854,11 +6854,11 @@
   splits:
   - split: 3
     text: "操作失败:"
-- raw: "TieziItemSlot/<SendAddCai>d__13,MoveNext,221,操作成功,[]"
+- raw: "TieziItemSlot/<SendAddCai>d__13,MoveNext,241,操作成功,[]"
   splits:
   - split: 3
     text: "操作成功"
-- raw: "TieziItemSlot/<SendAddCai>d__13,MoveNext,246,操作错误 errcode:,[]"
+- raw: "TieziItemSlot/<SendAddCai>d__13,MoveNext,266,操作错误 errcode:,[]"
   splits:
   - split: 3
     text: "操作错误 errcode:"
@@ -7054,7 +7054,7 @@
   splits:
   - split: 3
     text: "此类型暂不可知晓来源"
-- raw: "HandbookView,RefreshSourceDes,491,暂无来源,[SweetPotato.Item，System.Boolean，System.Boolean]"
+- raw: "HandbookView,RefreshSourceDes,498,暂无来源,[SweetPotato.Item，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "暂无来源"
@@ -7530,11 +7530,11 @@
   splits:
   - split: 3
     text: "书卷:"
-- raw: "JingJiePartView,Refresh,17,修为：,[]"
+- raw: "JingJiePartView,Refresh,29,修为：,[]"
   splits:
   - split: 3
     text: "修为："
-- raw: "JingJiePartView,Refresh,61,感悟：,[]"
+- raw: "JingJiePartView,Refresh,73,感悟：,[]"
   splits:
   - split: 3
     text: "感悟："
@@ -7542,7 +7542,7 @@
   splits:
   - split: 3
     text: "境界：第{0}层"
-- raw: "JingJiePartView,NewRefreshSelected,1040,添加心法洗练,[]"
+- raw: "JingJiePartView,NewRefreshSelected,1054,添加心法洗练,[]"
   splits:
   - split: 3
     text: "添加心法洗练"
@@ -8114,19 +8114,19 @@
   splits:
   - split: 3
     text: "洗练所需条件不足"
-- raw: "LianZhaoGraphMgr,XiuLianNew,313,洗练成功,[System.Int32，System.Boolean，System.Boolean]"
+- raw: "LianZhaoGraphMgr,XiuLianNew,320,洗练成功,[System.Int32，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "洗练成功"
-- raw: "LianZhaoGraphMgr,XiuLianNew,348,洗练失败,[System.Int32，System.Boolean，System.Boolean]"
+- raw: "LianZhaoGraphMgr,XiuLianNew,362,洗练失败,[System.Int32，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "洗练失败"
-- raw: "LianZhaoGraphMgr,Xiulian,254,修炼成功,[System.Int32，System.Boolean，System.Collections.Generic.List`1<SweetPotato.Item>，System.Action`1<System.Collections.Generic.List`1<SweetPotato.Item>>]"
+- raw: "LianZhaoGraphMgr,Xiulian,261,修炼成功,[System.Int32，System.Boolean，System.Collections.Generic.List`1<SweetPotato.Item>，System.Action`1<System.Collections.Generic.List`1<SweetPotato.Item>>]"
   splits:
   - split: 3
     text: "修炼成功"
-- raw: "LianZhaoGraphMgr,Xiulian,270,修炼失败,[System.Int32，System.Boolean，System.Collections.Generic.List`1<SweetPotato.Item>，System.Action`1<System.Collections.Generic.List`1<SweetPotato.Item>>]"
+- raw: "LianZhaoGraphMgr,Xiulian,277,修炼失败,[System.Int32，System.Boolean，System.Collections.Generic.List`1<SweetPotato.Item>，System.Action`1<System.Collections.Generic.List`1<SweetPotato.Item>>]"
   splits:
   - split: 3
     text: "修炼失败"
@@ -8138,15 +8138,15 @@
   splits:
   - split: 3
     text: "领悟"
-- raw: "LianZhaoItemSlot,OnClickXiuLian,42,修炼 ,[]"
+- raw: "LianZhaoItemSlot,OnClickXiuLian,49,修炼 ,[]"
   splits:
   - split: 3
     text: "修炼 "
-- raw: "LianZhaoItemSlot,OnEndDrag,532,前式招式不匹配,[UnityEngine.EventSystems.PointerEventData]"
+- raw: "LianZhaoItemSlot,OnEndDrag,539,前式招式不匹配,[UnityEngine.EventSystems.PointerEventData]"
   splits:
   - split: 3
     text: "前式招式不匹配"
-- raw: "LianZhaoItemSlot,OnEndDrag,557,前式招式不匹配,[UnityEngine.EventSystems.PointerEventData]"
+- raw: "LianZhaoItemSlot,OnEndDrag,571,前式招式不匹配,[UnityEngine.EventSystems.PointerEventData]"
   splits:
   - split: 3
     text: "前式招式不匹配"
@@ -8458,7 +8458,7 @@
   splits:
   - split: 3
     text: "取消"
-- raw: "EditorDataPanel,ReadFromDB,827,npc_prototype中id为{0}的数据重复,[]"
+- raw: "EditorDataPanel,ReadFromDB,834,npc_prototype中id为{0}的数据重复,[]"
   splits:
   - split: 3
     text: "npc_prototype中id为{0}的数据重复"
@@ -8498,7 +8498,7 @@
   splits:
   - split: 3
     text: "取消"
-- raw: "EditWayPointData,CheckSelection,245,已选中目标数量:{0},[WayPointSelector]"
+- raw: "EditWayPointData,CheckSelection,252,已选中目标数量:{0},[WayPointSelector]"
   splits:
   - split: 3
     text: "已选中目标数量:{0}"
@@ -8654,11 +8654,11 @@
   splits:
   - split: 3
     text: "该任务无法被指引"
-- raw: "MainViewConditionSlotOfOSA/<>c,<OnResetRoutine>b__15_0,25,该任务无法被指引,[UnityEngine.EventSystems.PointerEventData]"
+- raw: "MainViewConditionSlotOfOSA/<>c,<OnResetRoutine>b__20_0,25,该任务无法被指引,[UnityEngine.EventSystems.PointerEventData]"
   splits:
   - split: 3
     text: "该任务无法被指引"
-- raw: "MainViewConditionSlotOfOSA/<>c,<OnResetRoutine>b__15_1,25,该任务无法被指引,[UnityEngine.EventSystems.PointerEventData]"
+- raw: "MainViewConditionSlotOfOSA/<>c,<OnResetRoutine>b__20_1,25,该任务无法被指引,[UnityEngine.EventSystems.PointerEventData]"
   splits:
   - split: 3
     text: "该任务无法被指引"
@@ -8842,15 +8842,15 @@
   splits:
   - split: 3
     text: "Prefab/UISprite/UI_MapMark/标记"
-- raw: "MapShiLiItem,Init,290,据点,[]"
+- raw: "MapShiLiItem,Init,297,据点,[]"
   splits:
   - split: 3
     text: "据点"
-- raw: "MapShiLiItem,Init,297,总舵,[]"
+- raw: "MapShiLiItem,Init,304,总舵,[]"
   splits:
   - split: 3
     text: "总舵"
-- raw: "MapShiLiItem,SelectOpenItemView,252,请先进攻其余据点,[UnityEngine.EventSystems.PointerEventData]"
+- raw: "MapShiLiItem,SelectOpenItemView,232,请先进攻其余据点,[UnityEngine.EventSystems.PointerEventData]"
   splits:
   - split: 3
     text: "请先进攻其余据点"
@@ -8890,23 +8890,59 @@
   splits:
   - split: 3
     text: "驻守"
-- raw: "MapViewNew,UpdateTeleportDetails,1511,未找到Entity id:{0},[]"
+- raw: "MapViewNew,UpdateTeleportDetails,1521,未找到Entity id:{0},[]"
   splits:
   - split: 3
     text: "未找到Entity id:{0}"
-- raw: "MapViewNew,RefreshCustomTarget,490,Prefab/UISprite/UI_MapMark/标记,[]"
+- raw: "MapViewNew,RefreshCustomTarget,502,Prefab/UISprite/UI_MapMark/标记,[]"
   splits:
   - split: 3
     text: "Prefab/UISprite/UI_MapMark/标记"
-- raw: "MapViewNew,OnCustomMuBiaoRectMouseClick,32,是否取消标记点？,[UnityEngine.RectTransform]"
+- raw: "MapViewNew,OnCustomMuBiaoRectMouseClick,57,移除,[UnityEngine.RectTransform]"
+  splits:
+  - split: 3
+    text: "移除"
+- raw: "MapViewNew,OnCustomMuBiaoRectMouseClick,62,追踪,[UnityEngine.RectTransform]"
+  splits:
+  - split: 3
+    text: "追踪"
+- raw: "MapViewNew,OnCustomMuBiaoRectMouseClick,106,是否取消标记点？,[UnityEngine.RectTransform]"
   splits:
   - split: 3
     text: "是否取消标记点？"
-- raw: "MapViewNew,OnCustomMuBiaoRectMouseClick,69,确定,[UnityEngine.RectTransform]"
+- raw: "MapViewNew,OnCustomMuBiaoRectMouseClick,143,确定,[UnityEngine.RectTransform]"
   splits:
   - split: 3
     text: "确定"
-- raw: "MapViewNew,OnCustomMuBiaoRectMouseClick,74,取消,[UnityEngine.RectTransform]"
+- raw: "MapViewNew,OnCustomMuBiaoRectMouseClick,148,取消,[UnityEngine.RectTransform]"
+  splits:
+  - split: 3
+    text: "取消"
+- raw: "MapViewNew,OnCustomTargetRectMouseOutRight,107,删除所有标记,[UnityEngine.RectTransform]"
+  splits:
+  - split: 3
+    text: "删除所有标记"
+- raw: "MapViewNew,OnCustomTargetRectMouseOutRight,112,删除标记,[UnityEngine.RectTransform]"
+  splits:
+  - split: 3
+    text: "删除标记"
+- raw: "MapViewNew,OnTempTargetRectMouseClick,55,追踪,[]"
+  splits:
+  - split: 3
+    text: "追踪"
+- raw: "MapViewNew,OnTempTargetRectMouseClick,60,追踪,[]"
+  splits:
+  - split: 3
+    text: "追踪"
+- raw: "MapViewNew,OnTempTargetRectMouseClick,77,是否追踪当前标记点？,[]"
+  splits:
+  - split: 3
+    text: "是否追踪当前标记点？"
+- raw: "MapViewNew,OnTempTargetRectMouseClick,95,确认,[]"
+  splits:
+  - split: 3
+    text: "确认"
+- raw: "MapViewNew,OnTempTargetRectMouseClick,100,取消,[]"
   splits:
   - split: 3
     text: "取消"
@@ -9014,19 +9050,19 @@
   splits:
   - split: 3
     text: "登录失败:"
-- raw: "UploadFile/<SendLogin>d__71,MoveNext,1126,登录成功,[]"
+- raw: "UploadFile/<SendLogin>d__71,MoveNext,1172,登录成功,[]"
   splits:
   - split: 3
     text: "登录成功"
-- raw: "UploadFile/<SendLogin>d__71,MoveNext,1240,用户名或密码输入不规范,[]"
+- raw: "UploadFile/<SendLogin>d__71,MoveNext,1286,用户名或密码输入不规范,[]"
   splits:
   - split: 3
     text: "用户名或密码输入不规范"
-- raw: "UploadFile/<SendLogin>d__71,MoveNext,1263,用户名不存在,[]"
+- raw: "UploadFile/<SendLogin>d__71,MoveNext,1309,用户名不存在,[]"
   splits:
   - split: 3
     text: "用户名不存在"
-- raw: "UploadFile/<SendLogin>d__71,MoveNext,1286,密码错误,[]"
+- raw: "UploadFile/<SendLogin>d__71,MoveNext,1332,密码错误,[]"
   splits:
   - split: 3
     text: "密码错误"
@@ -9034,19 +9070,19 @@
   splits:
   - split: 3
     text: "注册失败:"
-- raw: "UploadFile/<SendRegis>d__72,MoveNext,220,注册成功,[]"
+- raw: "UploadFile/<SendRegis>d__72,MoveNext,237,注册成功,[]"
   splits:
   - split: 3
     text: "注册成功"
-- raw: "UploadFile/<SendRegis>d__72,MoveNext,266,用户名或密码不规范,[]"
+- raw: "UploadFile/<SendRegis>d__72,MoveNext,283,用户名或密码不规范,[]"
   splits:
   - split: 3
     text: "用户名或密码不规范"
-- raw: "UploadFile/<SendRegis>d__72,MoveNext,289,该用户名已经存在,[]"
+- raw: "UploadFile/<SendRegis>d__72,MoveNext,306,该用户名已经存在,[]"
   splits:
   - split: 3
     text: "该用户名已经存在"
-- raw: "UploadFile/<SendRegis>d__72,MoveNext,385,当前账号下云账号数量已达注册上限,[]"
+- raw: "UploadFile/<SendRegis>d__72,MoveNext,402,当前账号下云账号数量已达注册上限,[]"
   splits:
   - split: 3
     text: "当前账号下云账号数量已达注册上限"
@@ -9054,11 +9090,11 @@
   splits:
   - split: 3
     text: "上传失败:"
-- raw: "UploadFile/<SendUpload>d__73,MoveNext,248,上传成功,[]"
+- raw: "UploadFile/<SendUpload>d__73,MoveNext,265,上传成功,[]"
   splits:
   - split: 3
     text: "上传成功"
-- raw: "UploadFile/<SendUpload>d__73,MoveNext,274,登录失效,[]"
+- raw: "UploadFile/<SendUpload>d__73,MoveNext,291,登录失效,[]"
   splits:
   - split: 3
     text: "登录失效"
@@ -9066,11 +9102,11 @@
   splits:
   - split: 3
     text: "上传失败:"
-- raw: "UploadFile/<SendGetFaceData>d__76,MoveNext,248,上传成功,[]"
+- raw: "UploadFile/<SendGetFaceData>d__76,MoveNext,265,上传成功,[]"
   splits:
   - split: 3
     text: "上传成功"
-- raw: "UploadFile/<SendGetFaceData>d__76,MoveNext,366,登录失效,[]"
+- raw: "UploadFile/<SendGetFaceData>d__76,MoveNext,383,登录失效,[]"
   splits:
   - split: 3
     text: "登录失效"
@@ -9078,11 +9114,11 @@
   splits:
   - split: 3
     text: "上传失败:"
-- raw: "UploadFile/<SendUpFace>d__78,MoveNext,248,上传成功,[]"
+- raw: "UploadFile/<SendUpFace>d__78,MoveNext,265,上传成功,[]"
   splits:
   - split: 3
     text: "上传成功"
-- raw: "UploadFile/<SendUpFace>d__78,MoveNext,343,失效,[]"
+- raw: "UploadFile/<SendUpFace>d__78,MoveNext,360,失效,[]"
   splits:
   - split: 3
     text: "失效"
@@ -9090,11 +9126,11 @@
   splits:
   - split: 3
     text: "下载失败:"
-- raw: "UploadFile/<SendDownload>d__79,MoveNext,502,下载成功!,[]"
+- raw: "UploadFile/<SendDownload>d__79,MoveNext,519,下载成功!,[]"
   splits:
   - split: 3
     text: "下载成功!"
-- raw: "UploadFile/<SendDownload>d__79,MoveNext,568,登录失效,[]"
+- raw: "UploadFile/<SendDownload>d__79,MoveNext,585,登录失效,[]"
   splits:
   - split: 3
     text: "登录失效"
@@ -9102,66 +9138,66 @@
   splits:
   - split: 3
     text: "请求失败:"
-- raw: "UploadFile/<SendUseActivationCode>d__80,MoveNext,245,请求成功,[]"
+- raw: "UploadFile/<SendUseActivationCode>d__80,MoveNext,259,请求成功,[]"
   splits:
   - split: 3
     text: "请求成功"
-- raw: "UploadFile/<SendUseActivationCode>d__80,MoveNext,292,签名错误,[]"
+- raw: "UploadFile/<SendUseActivationCode>d__80,MoveNext,306,签名错误,[]"
   splits:
   - split: 3
     text: "签名错误"
-- raw: "UploadFile/<SendUseActivationCode>d__80,MoveNext,339,激活码错误,[]"
+- raw: "UploadFile/<SendUseActivationCode>d__80,MoveNext,353,激活码错误,[]"
   splits:
   - split: 3
     text: "激活码错误"
-- raw: "UploadFile/<SendUseActivationCode>d__80,MoveNext,386,激活码已被使用,[]"
+- raw: "UploadFile/<SendUseActivationCode>d__80,MoveNext,400,激活码已被使用,[]"
   splits:
   - split: 3
     text: "激活码已被使用"
-- raw: "UploadFile/<SendUseActivationCode>d__80,MoveNext,433,已领取,[]"
+- raw: "UploadFile/<SendUseActivationCode>d__80,MoveNext,447,已领取,[]"
   splits:
   - split: 3
     text: "已领取"
-- raw: "UploadFile/<SendUseActivationCode>d__80,MoveNext,480,已使用过同类激活码,[]"
+- raw: "UploadFile/<SendUseActivationCode>d__80,MoveNext,494,已使用过同类激活码,[]"
   splits:
   - split: 3
     text: "已使用过同类激活码"
-- raw: "UploadFile/<SendUseActivationCode>d__80,MoveNext,527,参数不完整,[]"
+- raw: "UploadFile/<SendUseActivationCode>d__80,MoveNext,541,参数不完整,[]"
   splits:
   - split: 3
     text: "参数不完整"
-- raw: "UploadFile/<SendUseActivationCode>d__80,MoveNext,575,未找激活码对应物品配置,[]"
+- raw: "UploadFile/<SendUseActivationCode>d__80,MoveNext,589,未找激活码对应物品配置,[]"
   splits:
   - split: 3
     text: "未找激活码对应物品配置"
-- raw: "UploadFile/<SendUseActivationCode>d__80,MoveNext,623,更新激活码状态失败,[]"
+- raw: "UploadFile/<SendUseActivationCode>d__80,MoveNext,637,更新激活码状态失败,[]"
   splits:
   - split: 3
     text: "更新激活码状态失败"
-- raw: "UploadFile/<SendUseActivationCode>d__80,MoveNext,732,登录失效,[]"
+- raw: "UploadFile/<SendUseActivationCode>d__80,MoveNext,746,登录失效,[]"
   splits:
   - split: 3
     text: "登录失效"
-- raw: "UploadFile/<SendDownloadNewDB>d__81,MoveNext,209,登录失效,[]"
+- raw: "UploadFile/<SendDownloadNewDB>d__81,MoveNext,219,登录失效,[]"
   splits:
   - split: 3
     text: "登录失效"
-- raw: "UploadFile/<SendGetNewDBVersion>d__82,MoveNext,209,登录失效,[]"
+- raw: "UploadFile/<SendGetNewDBVersion>d__82,MoveNext,219,登录失效,[]"
   splits:
   - split: 3
     text: "登录失效"
-- raw: "UploadFile/<SendBuyOrder>d__83,MoveNext,233,登录失效,[]"
+- raw: "UploadFile/<SendBuyOrder>d__83,MoveNext,243,登录失效,[]"
   splits:
   - split: 3
     text: "登录失效"
-- raw: "UploadFile/<SendUserInfo>d__84,MoveNext,233,登录失效,[]"
+- raw: "UploadFile/<SendUserInfo>d__84,MoveNext,243,登录失效,[]"
   splits:
   - split: 3
     text: "登录失效"
-- raw: "UploadFile,ShowRegisPart,23,平台账号未登录，无法创建云账号,[]"
+- raw: "UploadFile,ShowRegisPart,23,平台账号未登录，无法创建云账号，请返回登录界面尝试重新登录。,[]"
   splits:
   - split: 3
-    text: "平台账号未登录，无法创建云账号"
+    text: "平台账号未登录，无法创建云账号，请返回登录界面尝试重新登录。"
 - raw: "UploadFile,ShowActivationCodePanel,40,1、登录游戏云账号，并确认当前绑定账号。\\n2、在兑换框中输入激活码，点击激活即可。\\n3、激活码一经使用即作废，不可再次使用激活，请一定确认需要绑定领取的账号。\\n4、账号绑定的激活码会显示在信息栏中，可滑动查看兑换的东西。,[]"
   splits:
   - split: 3
@@ -9374,7 +9410,7 @@
   splits:
   - split: 3
     text: "未领悟"
-- raw: "MiJiMgr,Add,108,秘籍Item的misvalue2套路类型配置错误，ItemId:{0},[SweetPotato.Item]"
+- raw: "MiJiMgr,Add,115,秘籍Item的misvalue2套路类型配置错误，ItemId:{0},[SweetPotato.Item]"
   splits:
   - split: 3
     text: "秘籍Item的misvalue2套路类型配置错误，ItemId:{0}"
@@ -9446,27 +9482,27 @@
   splits:
   - split: 3
     text: "段:"
-- raw: "MiJiStealXinfaView,OnRefresh,252,设计时要求只能有1个buff效果，但实际不是，nodeId:{0},[SweetPotato.MiJiPage，SweetPotato.SpellPrototype]"
+- raw: "MiJiStealXinfaView,OnRefresh,262,设计时要求只能有1个buff效果，但实际不是，nodeId:{0},[SweetPotato.MiJiPage，SweetPotato.SpellPrototype]"
   splits:
   - split: 3
     text: "设计时要求只能有1个buff效果，但实际不是，nodeId:{0}"
-- raw: "MiJiStealXinfaView,OnRefresh,339,冲击,[SweetPotato.MiJiPage，SweetPotato.SpellPrototype]"
+- raw: "MiJiStealXinfaView,OnRefresh,349,冲击,[SweetPotato.MiJiPage，SweetPotato.SpellPrototype]"
   splits:
   - split: 3
     text: "冲击"
-- raw: "MiJiStealXinfaView,OnRefresh,356,获得增强效果,[SweetPotato.MiJiPage，SweetPotato.SpellPrototype]"
+- raw: "MiJiStealXinfaView,OnRefresh,366,获得增强效果,[SweetPotato.MiJiPage，SweetPotato.SpellPrototype]"
   splits:
   - split: 3
     text: "获得增强效果"
-- raw: "MiJiStealXinfaView,OnRefresh,391,设计时要求只能有1个buff效果，但实际不是，nodeId:{0},[SweetPotato.MiJiPage，SweetPotato.SpellPrototype]"
+- raw: "MiJiStealXinfaView,OnRefresh,408,设计时要求只能有1个buff效果，但实际不是，nodeId:{0},[SweetPotato.MiJiPage，SweetPotato.SpellPrototype]"
   splits:
   - split: 3
     text: "设计时要求只能有1个buff效果，但实际不是，nodeId:{0}"
-- raw: "MiJiStealXinfaView,OnRefresh,623,段:,[SweetPotato.MiJiPage，SweetPotato.SpellPrototype]"
+- raw: "MiJiStealXinfaView,OnRefresh,640,段:,[SweetPotato.MiJiPage，SweetPotato.SpellPrototype]"
   splits:
   - split: 3
     text: "段:"
-- raw: "MiJiStealXinfaView,OnRefresh,749,设计时要求只能有1个buff效果，但实际不是，nodeId:{0},[SweetPotato.MiJiPage，SweetPotato.SpellPrototype]"
+- raw: "MiJiStealXinfaView,OnRefresh,773,设计时要求只能有1个buff效果，但实际不是，nodeId:{0},[SweetPotato.MiJiPage，SweetPotato.SpellPrototype]"
   splits:
   - split: 3
     text: "设计时要求只能有1个buff效果，但实际不是，nodeId:{0}"
@@ -9566,7 +9602,7 @@
   splits:
   - split: 3
     text: "{dlg.chatlangid}对应的stringlang未空字符串"
-- raw: "NpcChatView,OnReset,4083,dlg.chatlangid:{0}对应的stringlang未空字符串,[]"
+- raw: "NpcChatView,OnReset,4090,dlg.chatlangid:{0}对应的stringlang未空字符串,[]"
   splits:
   - split: 3
     text: "dlg.chatlangid:{0}对应的stringlang未空字符串"
@@ -9726,11 +9762,11 @@
   splits:
   - split: 3
     text: "拍卖期间不可挂牌"
-- raw: "PingTuView,OnBlockEndDrag,624,成功完成机抒机关图,[UnityEngine.RectTransform，UnityEngine.EventSystems.PointerEventData]"
+- raw: "PingTuView,OnBlockEndDrag,631,成功完成机抒机关图,[UnityEngine.RectTransform，UnityEngine.EventSystems.PointerEventData]"
   splits:
   - split: 3
     text: "成功完成机抒机关图"
-- raw: "PingTuView,OnBlockEndDrag,640,成功完成机抒机关图,[UnityEngine.RectTransform，UnityEngine.EventSystems.PointerEventData]"
+- raw: "PingTuView,OnBlockEndDrag,647,成功完成机抒机关图,[UnityEngine.RectTransform，UnityEngine.EventSystems.PointerEventData]"
   splits:
   - split: 3
     text: "成功完成机抒机关图"
@@ -10518,11 +10554,11 @@
   splits:
   - split: 3
     text: "的委托"
-- raw: "QuestViewWTXSListAdapterHolder,UpdateFromModel,574,级,[SweetPotato.UIItemData]"
+- raw: "QuestViewWTXSListAdapterHolder,UpdateFromModel,584,级,[SweetPotato.UIItemData]"
   splits:
   - split: 3
     text: "级"
-- raw: "QuestViewWTXSListAdapterHolder,UpdateFromModel,596,悬赏,[SweetPotato.UIItemData]"
+- raw: "QuestViewWTXSListAdapterHolder,UpdateFromModel,606,悬赏,[SweetPotato.UIItemData]"
   splits:
   - split: 3
     text: "悬赏"
@@ -10650,7 +10686,7 @@
   splits:
   - split: 3
     text: "钱财不足！"
-- raw: "ScratchCardView,<Awake>b__25_1,83,钱财不足！,[]"
+- raw: "ScratchCardView,<Awake>b__25_1,90,钱财不足！,[]"
   splits:
   - split: 3
     text: "钱财不足！"
@@ -11262,15 +11298,15 @@
   splits:
   - split: 3
     text: "已激活"
-- raw: "MiJiSpellItemSlot,OnReset,342,招式,[]"
+- raw: "MiJiSpellItemSlot,OnReset,366,招式,[]"
   splits:
   - split: 3
     text: "招式"
-- raw: "MiJiSpellItemSlot,OnReset,382,被动,[]"
+- raw: "MiJiSpellItemSlot,OnReset,406,被动,[]"
   splits:
   - split: 3
     text: "被动"
-- raw: "MiJiSpellItemSlot,OnReset,422,心法,[]"
+- raw: "MiJiSpellItemSlot,OnReset,446,心法,[]"
   splits:
   - split: 3
     text: "心法"
@@ -11410,31 +11446,31 @@
   splits:
   - split: 3
     text: "参悟"
-- raw: "StuntManager,AddStunt,35,NPC {0}  的特技ID {1} 不存在,[System.Int64，System.Boolean]"
+- raw: "StuntManager,AddStunt,42,NPC {0}  的特技ID {1} 不存在,[System.Int64，System.Boolean]"
   splits:
   - split: 3
     text: "NPC {0}  的特技ID {1} 不存在"
-- raw: "StuntManager,AddStunt,157,已学会特技{0},[System.Int64，System.Boolean]"
+- raw: "StuntManager,AddStunt,164,已学会特技{0},[System.Int64，System.Boolean]"
   splits:
   - split: 3
     text: "已学会特技{0}"
-- raw: "StuntManager,AddSpecialStunts,44,要添加的特性,[System.String]"
+- raw: "StuntManager,AddSpecialStunts,54,要添加的特性,[System.String]"
   splits:
   - split: 3
     text: "要添加的特性"
-- raw: "StuntManager,AddSpecialStunts,98,要添加的特性,[System.String]"
+- raw: "StuntManager,AddSpecialStunts,118,要添加的特性,[System.String]"
   splits:
   - split: 3
     text: "要添加的特性"
-- raw: "StuntManager,AddSpecialStunts,168,要添加的特性{0}所代表的身份类型{1}已经添加了一个特性{2}， 此次添加操作会替换原本特性,[System.String]"
+- raw: "StuntManager,AddSpecialStunts,195,要添加的特性{0}所代表的身份类型{1}已经添加了一个特性{2}， 此次添加操作会替换原本特性,[System.String]"
   splits:
   - split: 3
     text: "要添加的特性{0}所代表的身份类型{1}已经添加了一个特性{2}， 此次添加操作会替换原本特性"
-- raw: "StuntManager,AddSpecialStunts,244,特性,[System.String]"
+- raw: "StuntManager,AddSpecialStunts,278,特性,[System.String]"
   splits:
   - split: 3
     text: "特性"
-- raw: "StuntManager,InitLoad,50,NPC {0}  的特技ID {0} 不存在,[]"
+- raw: "StuntManager,InitLoad,57,NPC {0}  的特技ID {0} 不存在,[]"
   splits:
   - split: 3
     text: "NPC {0}  的特技ID {0} 不存在"
@@ -11674,11 +11710,11 @@
   splits:
   - split: 3
     text: "不详"
-- raw: "PaiBieQuestItem/<>c__DisplayClass17_0,<OnClickQuest>b__1,0,接取悬赏:{0} {1},[]"
+- raw: "PaiBieQuestItem/<>c__DisplayClass17_0,<OnClickQuest>b__1,7,接取悬赏:{0} {1},[]"
   splits:
   - split: 3
     text: "接取悬赏:{0} {1}"
-- raw: "PaiBieQuestItem/<>c__DisplayClass17_0,<OnClickQuest>b__1,71,接取了,[]"
+- raw: "PaiBieQuestItem/<>c__DisplayClass17_0,<OnClickQuest>b__1,78,接取了,[]"
   splits:
   - split: 3
     text: "接取了"
@@ -11770,19 +11806,19 @@
   splits:
   - split: 3
     text: "取消"
-- raw: "XuanShangLingItem/<>c__DisplayClass19_0,<Awake>b__7,34,接取悬赏:{0} {1},[]"
+- raw: "XuanShangLingItem/<>c__DisplayClass19_0,<Awake>b__7,41,接取悬赏:{0} {1},[]"
   splits:
   - split: 3
     text: "接取悬赏:{0} {1}"
-- raw: "XuanShangLingItem/<>c__DisplayClass19_0,<Awake>b__7,115,接取了,[]"
+- raw: "XuanShangLingItem/<>c__DisplayClass19_0,<Awake>b__7,122,接取了,[]"
   splits:
   - split: 3
     text: "接取了"
-- raw: "XuanShangLingItem/<>c__DisplayClass19_0,<Awake>b__8,34,接取悬赏:{0} {1},[]"
+- raw: "XuanShangLingItem/<>c__DisplayClass19_0,<Awake>b__8,41,接取悬赏:{0} {1},[]"
   splits:
   - split: 3
     text: "接取悬赏:{0} {1}"
-- raw: "XuanShangLingItem/<>c__DisplayClass19_0,<Awake>b__8,115,接取了,[]"
+- raw: "XuanShangLingItem/<>c__DisplayClass19_0,<Awake>b__8,122,接取了,[]"
   splits:
   - split: 3
     text: "接取了"
@@ -12038,15 +12074,15 @@
   splits:
   - split: 3
     text: "{0}万"
-- raw: "BuildManager,CheckCreate,93,拆除宗门基石会将所有的建筑同时拆除，是否继续拆除,[]"
+- raw: "BuildManager,CheckCreate,100,拆除宗门基石会将所有的建筑同时拆除，是否继续拆除,[]"
   splits:
   - split: 3
     text: "拆除宗门基石会将所有的建筑同时拆除，是否继续拆除"
-- raw: "BuildManager,CheckCreate,111,确定,[]"
+- raw: "BuildManager,CheckCreate,118,确定,[]"
   splits:
   - split: 3
     text: "确定"
-- raw: "BuildManager,CheckCreate,116,取消,[]"
+- raw: "BuildManager,CheckCreate,123,取消,[]"
   splits:
   - split: 3
     text: "取消"
@@ -12058,6 +12094,10 @@
   splits:
   - split: 3
     text: "已达最大可创建数量"
+- raw: "BuildPrefab,Refresh,215,{0}{1}/十天,[]"
+  splits:
+  - split: 3
+    text: "{0}{1}/十天"
 - raw: "BuildView,OnClickRemove,49,拆除宗门基石会将所有的建筑同时拆除，是否继续拆除,[]"
   splits:
   - split: 3
@@ -12070,43 +12110,43 @@
   splits:
   - split: 3
     text: "取消"
-- raw: "BuYeJingManager,ShowJingYuZhuFeige,499,经查明，京谕珠在：,[]"
+- raw: "BuYeJingManager,ShowJingYuZhuFeige,506,经查明，京谕珠在：,[]"
   splits:
   - split: 3
     text: "经查明，京谕珠在："
-- raw: "BuYeJingManager,ShowJingYuZhuFeige,825,出现过。,[]"
+- raw: "BuYeJingManager,ShowJingYuZhuFeige,832,出现过。,[]"
   splits:
   - split: 3
     text: "出现过。"
-- raw: "BuYeJingManager,ShowJingYuZhuFeige,879,京谕珠正在流转，稍后出现最终消息,[]"
+- raw: "BuYeJingManager,ShowJingYuZhuFeige,886,京谕珠正在流转，稍后出现最终消息,[]"
   splits:
   - split: 3
     text: "京谕珠正在流转，稍后出现最终消息"
-- raw: "BuYeJingManager,ShowJingYuZhuFeige,906,京谕珠已皆在你手，前往不夜京找独孤侑吧。,[]"
+- raw: "BuYeJingManager,ShowJingYuZhuFeige,913,京谕珠已皆在你手，前往不夜京找独孤侑吧。,[]"
   splits:
   - split: 3
     text: "京谕珠已皆在你手，前往不夜京找独孤侑吧。"
-- raw: "BuYeJingManager,SetJingYuZhuNpcPos,72,京谕珠相关Npc{0}在其所在位置{1}附近找不到合适的wayPoint点,[]"
+- raw: "BuYeJingManager,SetJingYuZhuNpcPos,82,京谕珠相关Npc{0}在其所在位置{1}附近找不到合适的wayPoint点,[]"
   splits:
   - split: 3
     text: "京谕珠相关Npc{0}在其所在位置{1}附近找不到合适的wayPoint点"
-- raw: "BuYeJingManager,DoLunCiPaiMaiItemSendFeiGe,237,少侠出手阔绰，以,[]"
+- raw: "BuYeJingManager,DoLunCiPaiMaiItemSendFeiGe,244,少侠出手阔绰，以,[]"
   splits:
   - split: 3
     text: "少侠出手阔绰，以"
-- raw: "BuYeJingManager,DoLunCiPaiMaiItemSendFeiGe,255,金拍得,[]"
+- raw: "BuYeJingManager,DoLunCiPaiMaiItemSendFeiGe,262,金拍得,[]"
   splits:
   - split: 3
     text: "金拍得"
-- raw: "BuYeJingManager,DoLunCiPaiMaiItemSendFeiGe,433,恭喜侠士,[]"
+- raw: "BuYeJingManager,DoLunCiPaiMaiItemSendFeiGe,447,恭喜侠士,[]"
   splits:
   - split: 3
     text: "恭喜侠士"
-- raw: "BuYeJingManager,DoLunCiPaiMaiItemSendFeiGe,446,以,[]"
+- raw: "BuYeJingManager,DoLunCiPaiMaiItemSendFeiGe,460,以,[]"
   splits:
   - split: 3
     text: "以"
-- raw: "BuYeJingManager,DoLunCiPaiMaiItemSendFeiGe,464,金拍得,[]"
+- raw: "BuYeJingManager,DoLunCiPaiMaiItemSendFeiGe,478,金拍得,[]"
   splits:
   - split: 3
     text: "金拍得"
@@ -12118,7 +12158,7 @@
   splits:
   - split: 3
     text: "名"
-- raw: "XiaYunLuManager,RefreshXiaYunBang,1531,主角排名：{0},[]"
+- raw: "XiaYunLuManager,RefreshXiaYunBang,1545,主角排名：{0},[]"
   splits:
   - split: 3
     text: "主角排名：{0}"
@@ -12134,7 +12174,7 @@
   splits:
   - split: 3
     text: "天榜"
-- raw: "XiaYunLuManager,AddDaTing,78,guid:{0}获得的角色名字是空,[DaTingInfo]"
+- raw: "XiaYunLuManager,AddDaTing,85,guid:{0}获得的角色名字是空,[DaTingInfo]"
   splits:
   - split: 3
     text: "guid:{0}获得的角色名字是空"
@@ -12146,19 +12186,19 @@
   splits:
   - split: 3
     text: "）已送达。"
-- raw: "XiaYunLuManager,OnDaTingFeiGeSend,818,天机阁打听之物，使命必达。你所打听的（,[DaTingInfo]"
+- raw: "XiaYunLuManager,OnDaTingFeiGeSend,838,天机阁打听之物，使命必达。你所打听的（,[DaTingInfo]"
   splits:
   - split: 3
     text: "天机阁打听之物，使命必达。你所打听的（"
-- raw: "XiaYunLuManager,OnDaTingFeiGeSend,825,）已送达。,[DaTingInfo]"
+- raw: "XiaYunLuManager,OnDaTingFeiGeSend,845,）已送达。,[DaTingInfo]"
   splits:
   - split: 3
     text: "）已送达。"
-- raw: "XiaYunLuManager,OnDaTingFeiGeSend,956,天机阁打听之物，使命必达。你所打听的（,[DaTingInfo]"
+- raw: "XiaYunLuManager,OnDaTingFeiGeSend,976,天机阁打听之物，使命必达。你所打听的（,[DaTingInfo]"
   splits:
   - split: 3
     text: "天机阁打听之物，使命必达。你所打听的（"
-- raw: "XiaYunLuManager,OnDaTingFeiGeSend,963,）已送达。,[DaTingInfo]"
+- raw: "XiaYunLuManager,OnDaTingFeiGeSend,983,）已送达。,[DaTingInfo]"
   splits:
   - split: 3
     text: "）已送达。"
@@ -12194,139 +12234,139 @@
   splits:
   - split: 3
     text: "的委托"
-- raw: "EntrustManager,DoEventAcceptPreAction,389,找不到好感度最高的npc npcId:{0},[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,396,找不到好感度最高的npc npcId:{0},[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "找不到好感度最高的npc npcId:{0}"
-- raw: "EntrustManager,DoEventAcceptPreAction,497,找不到好感度最低的npc npcId:{0},[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,511,找不到好感度最低的npc npcId:{0},[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "找不到好感度最低的npc npcId:{0}"
-- raw: "EntrustManager,DoEventAcceptPreAction,1146,npc {0} 没有喜欢的物品，请查看配置,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,1188,npc {0} 没有喜欢的物品，请查看配置,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "npc {0} 没有喜欢的物品，请查看配置"
-- raw: "EntrustManager,DoEventAcceptPreAction,1417,NPC:{0} 的势力没有npc,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,1466,NPC:{0} 的势力没有npc,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "NPC:{0} 的势力没有npc"
-- raw: "EntrustManager,DoEventAcceptPreAction,1669,委托击败npcId :{0},[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,1732,委托击败npcId :{0},[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托击败npcId :{0}"
-- raw: "EntrustManager,DoEventAcceptPreAction,1855,委托:{0} 配置有问题 ,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,1925,委托:{0} 配置有问题 ,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托:{0} 配置有问题 "
-- raw: "EntrustManager,DoEventAcceptPreAction,1986,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,2063,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
-- raw: "EntrustManager,DoEventAcceptPreAction,2097,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,2181,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
-- raw: "EntrustManager,DoEventAcceptPreAction,2249,委托：{0} 配置错误,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,2340,委托：{0} 配置错误,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误"
-- raw: "EntrustManager,DoEventAcceptPreAction,2387,委托：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,2485,委托：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误 没有找到可用的道具"
-- raw: "EntrustManager,DoEventAcceptPreAction,2487,委托：{0} 配置错误,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,2592,委托：{0} 配置错误,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误"
-- raw: "EntrustManager,DoEventAcceptPreAction,2619,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,2731,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
-- raw: "EntrustManager,DoEventAcceptPreAction,2730,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,2849,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
-- raw: "EntrustManager,DoEventAcceptPreAction,2977,委托：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,3103,委托：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误 没有找到可用的道具"
-- raw: "EntrustManager,DoEventAcceptPreAction,3314,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,3447,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
-- raw: "EntrustManager,DoEventAcceptPreAction,3494,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,3634,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
-- raw: "EntrustManager,DoEventAcceptPreAction,3958,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,4105,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
-- raw: "EntrustManager,DoEventAcceptPreAction,4074,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,4228,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
-- raw: "EntrustManager,DoEventAcceptPreAction,4255,委托：{0} 配置错误,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,4416,委托：{0} 配置错误,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误"
-- raw: "EntrustManager,DoEventAcceptPreAction,4361,委托：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,4529,委托：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误 没有找到可用的道具"
-- raw: "EntrustManager,DoEventAcceptPreAction,4639,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,4814,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
-- raw: "EntrustManager,DoEventAcceptPreAction,4750,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,4932,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
-- raw: "EntrustManager,DoEventAcceptPreAction,4830,委托：{0} npc:{1}不存在,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,5019,委托：{0} npc:{1}不存在,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} npc:{1}不存在"
-- raw: "EntrustManager,DoEventAcceptPreAction,4989,委托：{0} 配置错误,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,5185,委托：{0} 配置错误,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误"
-- raw: "EntrustManager,DoEventAcceptPreAction,5118,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,5321,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
-- raw: "EntrustManager,DoEventAcceptPreAction,5229,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,5439,委托：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 随机生成npc失败"
-- raw: "EntrustManager,DoEventAcceptPreAction,5482,委托：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,5699,委托：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误 没有找到可用的道具"
-- raw: "EntrustManager,DoEventAcceptPreAction,5680,委托：{0} 配置错误,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,5904,委托：{0} 配置错误,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误"
-- raw: "EntrustManager,DoEventAcceptPreAction,6010,委托：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,6241,委托：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误 没有找到可用的道具"
-- raw: "EntrustManager,DoEventAcceptPreAction,6234,委托：{0} 配置错误,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,6472,委托：{0} 配置错误,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误"
-- raw: "EntrustManager,DoEventAcceptPreAction,6329,委托：{0} 配置错误,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptPreAction,6574,委托：{0} 配置错误,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "委托：{0} 配置错误"
-- raw: "EntrustManager,DoEventAcceptAction,1054,npcid：{0} sectid：{1} 获取不到门派,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptAction,1071,npcid：{0} sectid：{1} 获取不到门派,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "npcid：{0} sectid：{1} 获取不到门派"
-- raw: "EntrustManager,DoEventAcceptAction,1123,sectid：{0} 该门派没有敌对势力,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptAction,1150,sectid：{0} 该门派没有敌对势力,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "sectid：{0} 该门派没有敌对势力"
-- raw: "EntrustManager,DoEventAcceptAction,1471,sectid：{0} 该门派敌对势力npc不够 {1} 个，目前只有 {2} 个,[EntrustEventPrototype]"
+- raw: "EntrustManager,DoEventAcceptAction,1505,sectid：{0} 该门派敌对势力npc不够 {1} 个，目前只有 {2} 个,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "sectid：{0} 该门派敌对势力npc不够 {1} 个，目前只有 {2} 个"
@@ -12362,43 +12402,43 @@
   splits:
   - split: 3
     text: "的委托失败了"
-- raw: "EntrustManager,CheckKillDiDuiNpcCountEnouph,112,npcid：{0} sectid：{1} 获取不到门派,[]"
+- raw: "EntrustManager,CheckKillDiDuiNpcCountEnouph,119,npcid：{0} sectid：{1} 获取不到门派,[]"
   splits:
   - split: 3
     text: "npcid：{0} sectid：{1} 获取不到门派"
-- raw: "EntrustManager,CheckKillDiDuiNpcCountEnouph,182,sectid：{0} 该门派没有敌对势力,[]"
+- raw: "EntrustManager,CheckKillDiDuiNpcCountEnouph,196,sectid：{0} 该门派没有敌对势力,[]"
   splits:
   - split: 3
     text: "sectid：{0} 该门派没有敌对势力"
-- raw: "EntrustManager,CheckTargetNpcDead,175,Npc:{0} 的委托目标Npc:{1} 已经死亡，委托任务:{2}自动失败结束,[SweetPotato.UnitController，SweetPotato.UnitController，UnitEntity]"
+- raw: "EntrustManager,CheckTargetNpcDead,182,Npc:{0} 的委托目标Npc:{1} 已经死亡，委托任务:{2}自动失败结束,[SweetPotato.UnitController，SweetPotato.UnitController，UnitEntity]"
   splits:
   - split: 3
     text: "Npc:{0} 的委托目标Npc:{1} 已经死亡，委托任务:{2}自动失败结束"
-- raw: "EntrustManager,CheckTargetNpcDead,316,Npc:{0} 的委托目标Npc:{1} 已经死亡，委托任务:{2}自动失败结束,[SweetPotato.UnitController，SweetPotato.UnitController，UnitEntity]"
+- raw: "EntrustManager,CheckTargetNpcDead,330,Npc:{0} 的委托目标Npc:{1} 已经死亡，委托任务:{2}自动失败结束,[SweetPotato.UnitController，SweetPotato.UnitController，UnitEntity]"
   splits:
   - split: 3
     text: "Npc:{0} 的委托目标Npc:{1} 已经死亡，委托任务:{2}自动失败结束"
-- raw: "EntrustManager,CheckTargetNpcDead,479,Npc:{0} 的委托目标Npc:{1} 已经死亡，委托任务:{2}自动失败结束,[SweetPotato.UnitController，SweetPotato.UnitController，UnitEntity]"
+- raw: "EntrustManager,CheckTargetNpcDead,500,Npc:{0} 的委托目标Npc:{1} 已经死亡，委托任务:{2}自动失败结束,[SweetPotato.UnitController，SweetPotato.UnitController，UnitEntity]"
   splits:
   - split: 3
     text: "Npc:{0} 的委托目标Npc:{1} 已经死亡，委托任务:{2}自动失败结束"
-- raw: "EntrustManager,CheckTargetNpcDead,572,Npc:{0} 已经死亡 委托 失败结束 ,[SweetPotato.UnitController，SweetPotato.UnitController，UnitEntity]"
+- raw: "EntrustManager,CheckTargetNpcDead,600,Npc:{0} 已经死亡 委托 失败结束 ,[SweetPotato.UnitController，SweetPotato.UnitController，UnitEntity]"
   splits:
   - split: 3
     text: "Npc:{0} 已经死亡 委托 失败结束 "
-- raw: "MapAreaEvent,DoEventAcceptPreAction,129,DoEventAcceptPreAction刷npc失败:{0},[EntrustEventPrototype]"
+- raw: "MapAreaEvent,DoEventAcceptPreAction,136,DoEventAcceptPreAction刷npc失败:{0},[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "DoEventAcceptPreAction刷npc失败:{0}"
-- raw: "MapAreaEvent,DoEventAcceptPreActionFinishedCheck,155,事件刷出的随机npc：{0}，找不到,[EntrustEventPrototype]"
+- raw: "MapAreaEvent,DoEventAcceptPreActionFinishedCheck,162,事件刷出的随机npc：{0}，找不到,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "事件刷出的随机npc：{0}，找不到"
-- raw: "MapAreaEvent,DoEventAcceptPreActionFinishedCheck,259,事件刷出的随机npcController：{0}，找不到,[EntrustEventPrototype]"
+- raw: "MapAreaEvent,DoEventAcceptPreActionFinishedCheck,273,事件刷出的随机npcController：{0}，找不到,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "事件刷出的随机npcController：{0}，找不到"
-- raw: "MapAreaEvent,SwapEventRandomNpc,145,SwapEventRandomNpc刷npc失败:{0},[System.String，System.Int32]"
+- raw: "MapAreaEvent,SwapEventRandomNpc,152,SwapEventRandomNpc刷npc失败:{0},[System.String，System.Int32]"
   splits:
   - split: 3
     text: "SwapEventRandomNpc刷npc失败:{0}"
@@ -12406,23 +12446,23 @@
   splits:
   - split: 3
     text: "完成所有目标点（{0}/{1}）"
-- raw: "MapAreaEvent,Load,123,没有找到ID为{0}的FieldEventPrototype,[LitJson.JsonData]"
+- raw: "MapAreaEvent,Load,130,没有找到ID为{0}的FieldEventPrototype,[LitJson.JsonData]"
   splits:
   - split: 3
     text: "没有找到ID为{0}的FieldEventPrototype"
-- raw: "MapManager,OnPlayerEnterNewArea,94,你离开了：{0},[System.Int32，System.Int32]"
+- raw: "MapManager,OnPlayerEnterNewArea,101,你离开了：{0},[System.Int32，System.Int32]"
   splits:
   - split: 3
     text: "你离开了：{0}"
-- raw: "MapManager,OnPlayerEnterNewArea,129,你进入了：{0},[System.Int32，System.Int32]"
+- raw: "MapManager,OnPlayerEnterNewArea,143,你进入了：{0},[System.Int32，System.Int32]"
   splits:
   - split: 3
     text: "你进入了：{0}"
-- raw: "MapManager,OnPlayerEnterNewArea,230,你进入了：{0},[System.Int32，System.Int32]"
+- raw: "MapManager,OnPlayerEnterNewArea,251,你进入了：{0},[System.Int32，System.Int32]"
   splits:
   - split: 3
     text: "你进入了：{0}"
-- raw: "MapManager,OnPlayerEnterNewArea,347,你离开了：{0},[System.Int32，System.Int32]"
+- raw: "MapManager,OnPlayerEnterNewArea,375,你离开了：{0},[System.Int32，System.Int32]"
   splits:
   - split: 3
     text: "你离开了：{0}"
@@ -12502,15 +12542,15 @@
   splits:
   - split: 3
     text: "当前战场已结束"
-- raw: "MenPaiWarInfo,InitBattle,1017,开启战场,[]"
+- raw: "MenPaiWarInfo,InitBattle,1003,开启战场,[]"
   splits:
   - split: 3
     text: "开启战场"
-- raw: "MouseSimulator,Start,10,Unity的屏幕分辨率,[]"
+- raw: "MouseSimulator,Start,24,Unity的屏幕分辨率,[]"
   splits:
   - split: 3
     text: "Unity的屏幕分辨率"
-- raw: "MouseSimulator,Start,56,系统的分辨率,[]"
+- raw: "MouseSimulator,Start,77,系统的分辨率,[]"
   splits:
   - split: 3
     text: "系统的分辨率"
@@ -12518,11 +12558,11 @@
   splits:
   - split: 3
     text: "已死亡！移除青楼！"
-- raw: "QingLouManager,CheckDeadNpc,367,guid:{0}已死亡！,[]"
+- raw: "QingLouManager,CheckDeadNpc,374,guid:{0}已死亡！,[]"
   splits:
   - split: 3
     text: "guid:{0}已死亡！"
-- raw: "QingLouManager,CheckDeadNpc,531,guid:{0}已死亡！,[]"
+- raw: "QingLouManager,CheckDeadNpc,545,guid:{0}已死亡！,[]"
   splits:
   - split: 3
     text: "guid:{0}已死亡！"
@@ -12626,23 +12666,23 @@
   splits:
   - split: 3
     text: "秀色丽质掩今古，荷花瑞雪羞玉颜。"
-- raw: "RandomNpcManager,Refresh,264,检测刷新了{0}个Npc，移除了{1}个NPC，其中{2}个Npc跳过检测（试图移除主角队友）,[System.Int32，System.Collections.Generic.List`1<SpawnPointPrototype>，RandomNpcManager/EnumRefresh]"
+- raw: "RandomNpcManager,Refresh,271,检测刷新了{0}个Npc，移除了{1}个NPC，其中{2}个Npc跳过检测（试图移除主角队友）,[System.Int32，System.Collections.Generic.List`1<SpawnPointPrototype>，RandomNpcManager/EnumRefresh]"
   splits:
   - split: 3
     text: "检测刷新了{0}个Npc，移除了{1}个NPC，其中{2}个Npc跳过检测（试图移除主角队友）"
-- raw: "TestManagedHeap,printMemory,16,使用内存:{0}M，剩余内存{1}M，托管堆内存{2}M,[]"
+- raw: "TestManagedHeap,printMemory,23,使用内存:{0}M，剩余内存{1}M，托管堆内存{2}M,[]"
   splits:
   - split: 3
     text: "使用内存:{0}M，剩余内存{1}M，托管堆内存{2}M"
-- raw: "VirtualEvent,GenerateRewardItemsFuYuan,389,福源掉落不会掉落属性，配置错误。npcPrototype.id:{0}，Loot_items.id:{1},[EntrustEventPrototype]"
+- raw: "VirtualEvent,GenerateRewardItemsFuYuan,403,福源掉落不会掉落属性，配置错误。npcPrototype.id:{0}，Loot_items.id:{1},[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "福源掉落不会掉落属性，配置错误。npcPrototype.id:{0}，Loot_items.id:{1}"
-- raw: "VirtualEvent,Load,140,没有找到ID为{0}的FieldEventPrototype,[LitJson.JsonData]"
+- raw: "VirtualEvent,Load,147,没有找到ID为{0}的FieldEventPrototype,[LitJson.JsonData]"
   splits:
   - split: 3
     text: "没有找到ID为{0}的FieldEventPrototype"
-- raw: "XuanShangManager,AcceptXuanShangQuest,99,悬赏已经接取:{0} {1},[System.Int64，System.String]"
+- raw: "XuanShangManager,AcceptXuanShangQuest,106,悬赏已经接取:{0} {1},[System.Int64，System.String]"
   splits:
   - split: 3
     text: "悬赏已经接取:{0} {1}"
@@ -12654,163 +12694,159 @@
   splits:
   - split: 3
     text: "好感度-5"
-- raw: "XuanShangQuest,DoInitPostAction,106,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,113,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
-- raw: "XuanShangQuest,DoInitPostAction,509,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,523,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
-- raw: "XuanShangQuest,DoInitPostAction,846,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,877,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
-- raw: "XuanShangQuest,DoInitPostAction,914,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,952,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
-- raw: "XuanShangQuest,DoInitPostAction,978,悬赏任务 {0} npc不存在  ,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,1023,悬赏任务 {0} npc不存在  ,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} npc不存在  "
-- raw: "XuanShangQuest,DoInitPostAction,1018,悬赏任务 {0} 没有开启随机npc 跳过,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,1070,悬赏任务 {0} 没有开启随机npc 跳过,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 没有开启随机npc 跳过"
-- raw: "XuanShangQuest,DoInitPostAction,1205,NPC:{0} 的势力没有npc 尝试直接刷一个npc出来,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,1264,NPC:{0} 的势力没有npc 尝试直接刷一个npc出来,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "NPC:{0} 的势力没有npc 尝试直接刷一个npc出来"
-- raw: "XuanShangQuest,DoInitPostAction,1361,悬赏任务 {0} npc不存在 尝试直接刷一个npc出来 但是么有合适的 SpawnPoint,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,1427,悬赏任务 {0} npc不存在 尝试直接刷一个npc出来 但是么有合适的 SpawnPoint,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} npc不存在 尝试直接刷一个npc出来 但是么有合适的 SpawnPoint"
-- raw: "XuanShangQuest,DoInitPostAction,1555,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,1628,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "NPC:{0} 没有敌对npc 尝试直接刷一个npc出来"
-- raw: "XuanShangQuest,DoInitPostAction,1606,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是这个npc没有敌对势力 刷出来的npc不知道该设置成那个势力,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,1686,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是这个npc没有敌对势力 刷出来的npc不知道该设置成那个势力,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是这个npc没有敌对势力 刷出来的npc不知道该设置成那个势力"
-- raw: "XuanShangQuest,DoInitPostAction,1787,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是没有合适的 SpawnPoint 尝试生成一个SpawnPoint 但是失败了 不知道怎么生成,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,1874,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是没有合适的 SpawnPoint 尝试生成一个SpawnPoint 但是失败了 不知道怎么生成,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是没有合适的 SpawnPoint 尝试生成一个SpawnPoint 但是失败了 不知道怎么生成"
-- raw: "XuanShangQuest,DoInitPostAction,1954,EntrustEventPrototype.id:{0}中star配置错误，prototype.star * 2超过13了,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,2048,EntrustEventPrototype.id:{0}中star配置错误，prototype.star * 2超过13了,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "EntrustEventPrototype.id:{0}中star配置错误，prototype.star * 2超过13了"
-- raw: "XuanShangQuest,DoInitPostAction,2044,刷了一个npc出来 {0},[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,2145,刷了一个npc出来 {0},[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "刷了一个npc出来 {0}"
-- raw: "XuanShangQuest,DoInitPostAction,2495,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,2603,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
-- raw: "XuanShangQuest,DoInitPostAction,2684,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,2799,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
-- raw: "XuanShangQuest,DoInitPostAction,2813,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,2935,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
-- raw: "XuanShangQuest,DoInitPostAction,3124,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是没有合适的 SpawnPoint 尝试生成一个SpawnPoint 但是失败了 不知道怎么生成,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,3253,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是没有合适的 SpawnPoint 尝试生成一个SpawnPoint 但是失败了 不知道怎么生成,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是没有合适的 SpawnPoint 尝试生成一个SpawnPoint 但是失败了 不知道怎么生成"
-- raw: "XuanShangQuest,DoInitPostAction,3271,EntrustEventPrototype.id:{0}中star配置错误，prototype.star * 2超过13了,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,3407,EntrustEventPrototype.id:{0}中star配置错误，prototype.star * 2超过13了,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "EntrustEventPrototype.id:{0}中star配置错误，prototype.star * 2超过13了"
-- raw: "XuanShangQuest,DoInitPostAction,3440,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,3583,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
-- raw: "XuanShangQuest,DoInitPostAction,3669,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,3819,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
-- raw: "XuanShangQuest,DoInitPostAction,3799,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,3956,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
-- raw: "XuanShangQuest,DoInitPostAction,3993,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4157,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
-- raw: "XuanShangQuest,DoInitPostAction,4134,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4305,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
-- raw: "XuanShangQuest,DoInitPostAction,4327,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4505,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
-- raw: "XuanShangQuest,DoInitPostAction,4456,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4641,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
-- raw: "XuanShangQuest,DoInitPostAction,4525,生成委托等级错误，m_CurrentXuanShangLevel.star * 2超过13了,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4717,生成委托等级错误，m_CurrentXuanShangLevel.star * 2超过13了,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "生成委托等级错误，m_CurrentXuanShangLevel.star * 2超过13了"
-- raw: "XuanShangQuest,DoInitPostAction,4705,情报,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4897,情报,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "情报"
-- raw: "XuanShangQuest,DoInitPostAction,4753,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4952,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
-- raw: "XuanShangQuest,DoInitPostAction,4816,悬赏：{0} 配置错误,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,5022,悬赏：{0} 配置错误,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 配置错误"
-- raw: "XuanShangQuest,DoInitPostAction,4940,悬赏：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,5153,悬赏：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 配置错误 没有找到可用的道具"
-- raw: "XuanShangQuest,DoInitPostAction,5233,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,5453,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
-- raw: "XuanShangQuest,DoInitPostAction,5343,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,5570,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
-- raw: "XuanShangQuest,DoInitPostAction,5470,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,5704,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
-- raw: "XuanShangQuest,DoXuanShangAcceptPreAction,161,悬赏:{0} 找不到npc:{1},[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoXuanShangAcceptPreAction,168,悬赏:{0} 找不到npc:{1},[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏:{0} 找不到npc:{1}"
-- raw: "XuanShangQuest,DoXuanShangAcceptPreAction,257,情报,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoXuanShangAcceptPreAction,264,情报,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "情报"
-- raw: "XuanShangQuest,DoXuanShangAcceptPreAction,276,情报，记录着,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoXuanShangAcceptPreAction,283,情报，记录着,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "情报，记录着"
-- raw: "XuanShangQuest,DoXuanShangAcceptPreAction,283,的隐秘。,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoXuanShangAcceptPreAction,290,的隐秘。,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "的隐秘。"
-- raw: "XuanShangQuest,DoAcceptPostAction,116,悬赏接取失败:{0} 没有返回realPointId ,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoAcceptPostAction,123,悬赏接取失败:{0} 没有返回realPointId ,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏接取失败:{0} 没有返回realPointId "
-- raw: "XuanShangQuest,DoFinish,144,悬赏：,[]"
-  splits:
-  - split: 3
-    text: "悬赏："
-- raw: "XuanShangQuest,DoFinish,165,悬赏{0} 完成,[]"
+- raw: "XuanShangQuest,DoFinish,173,悬赏{0} 完成,[]"
   splits:
   - split: 3
     text: "悬赏{0} 完成"
@@ -12838,11 +12874,11 @@
   splits:
   - split: 3
     text: "悬赏"
-- raw: "XuanShangQuest,CreateZhuZhanNpc,103,悬赏：{0} 生成助战npc失败,[]"
+- raw: "XuanShangQuest,CreateZhuZhanNpc,110,悬赏：{0} 生成助战npc失败,[]"
   splits:
   - split: 3
     text: "悬赏：{0} 生成助战npc失败"
-- raw: "XuanShangQuest,Load,144,没有找到ID为{0}XuanShangPrototype,[LitJson.JsonData]"
+- raw: "XuanShangQuest,Load,151,没有找到ID为{0}XuanShangPrototype,[LitJson.JsonData]"
   splits:
   - split: 3
     text: "没有找到ID为{0}XuanShangPrototype"
@@ -12974,19 +13010,19 @@
   splits:
   - split: 3
     text: "与{0}好感{1}{2}：{3}</color>"
-- raw: "RelationShipManager,ModifyHaoganValue,663,降低,[System.Int64，System.Int64，System.Int32，System.Boolean，System.Boolean，System.Boolean，System.Boolean，System.Boolean，System.Boolean]"
+- raw: "RelationShipManager,ModifyHaoganValue,799,降低,[System.Int64，System.Int64，System.Int32，System.Boolean，System.Boolean，System.Boolean，System.Boolean，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "降低"
-- raw: "RelationShipManager,ModifyHaoganValue,670,提升,[System.Int64，System.Int64，System.Int32，System.Boolean，System.Boolean，System.Boolean，System.Boolean，System.Boolean，System.Boolean]"
+- raw: "RelationShipManager,ModifyHaoganValue,806,提升,[System.Int64，System.Int64，System.Int32，System.Boolean，System.Boolean，System.Boolean，System.Boolean，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "提升"
-- raw: "RelationShipManager,ModifyHaoganValue,710,，（容貌额外增加{0}）,[System.Int64，System.Int64，System.Int32，System.Boolean，System.Boolean，System.Boolean，System.Boolean，System.Boolean，System.Boolean]"
+- raw: "RelationShipManager,ModifyHaoganValue,846,，（容貌额外增加{0}）,[System.Int64，System.Int64，System.Int32，System.Boolean，System.Boolean，System.Boolean，System.Boolean，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "，（容貌额外增加{0}）"
-- raw: "RelationShipManager,ModifyHaoganValue,728,与{0}好感{1}{2}：{3}</color>,[System.Int64，System.Int64，System.Int32，System.Boolean，System.Boolean，System.Boolean，System.Boolean，System.Boolean，System.Boolean]"
+- raw: "RelationShipManager,ModifyHaoganValue,864,与{0}好感{1}{2}：{3}</color>,[System.Int64，System.Int64，System.Int32，System.Boolean，System.Boolean，System.Boolean，System.Boolean，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "与{0}好感{1}{2}：{3}</color>"
@@ -13026,23 +13062,23 @@
   splits:
   - split: 3
     text: "取消"
-- raw: "RelationShipManager,SendMailHandle,165,此NPC不是飞鸽好友，检测跳过：{0}({1}),[]"
+- raw: "RelationShipManager,SendMailHandle,175,此NPC不是飞鸽好友，检测跳过：{0}({1}),[]"
   splits:
   - split: 3
     text: "此NPC不是飞鸽好友，检测跳过：{0}({1})"
-- raw: "RelationShipManager,SendMailHandle,483,飞鸽：{0} 配置错误,[]"
+- raw: "RelationShipManager,SendMailHandle,503,飞鸽：{0} 配置错误,[]"
   splits:
   - split: 3
     text: "飞鸽：{0} 配置错误"
-- raw: "RelationShipManager,SendMailHandle,604,邮件：{0} 配置错误 没有找到可用的道具,[]"
+- raw: "RelationShipManager,SendMailHandle,631,邮件：{0} 配置错误 没有找到可用的道具,[]"
   splits:
   - split: 3
     text: "邮件：{0} 配置错误 没有找到可用的道具"
-- raw: "RelationShipManager,SendMailHandle,844,飞鸽：{0} 配置错误,[]"
+- raw: "RelationShipManager,SendMailHandle,881,飞鸽：{0} 配置错误,[]"
   splits:
   - split: 3
     text: "飞鸽：{0} 配置错误"
-- raw: "RelationShipManager,SendMailHandle,973,邮件：{0} 配置错误 没有找到可用的道具,[]"
+- raw: "RelationShipManager,SendMailHandle,1020,邮件：{0} 配置错误 没有找到可用的道具,[]"
   splits:
   - split: 3
     text: "邮件：{0} 配置错误 没有找到可用的道具"
@@ -13094,7 +13130,23 @@
   splits:
   - split: 3
     text: "十"
-- raw: "MyTimeline,ReBindPlayerController,1112,Timeline Animation Track Ex 找不到 npc {0},[]"
+- raw: "JHTapSDK,OnAchievementSuccess,118,成就解锁成功，成就Id：{0}，成就名： {1}，成就类型：{2}，当前成就进度：{3},[System.Int32，TapSDK.Achievement.TapAchievementResult]"
+  splits:
+  - split: 3
+    text: "成就解锁成功，成就Id：{0}，成就名： {1}，成就类型：{2}，当前成就进度：{3}"
+- raw: "JHTapSDK,OnAchievementSuccess,186,成就步长增加成功，成就Id：{0}，成就名： {1}，成就类型：{2}，当前成就进度：{3},[System.Int32，TapSDK.Achievement.TapAchievementResult]"
+  splits:
+  - split: 3
+    text: "成就步长增加成功，成就Id：{0}，成就名： {1}，成就类型：{2}，当前成就进度：{3}"
+- raw: "JHTapSDK,OnAchievementFailure,0,成就更新失败: {0}， 错误码: {1}， 错误信息: {2},[System.String，System.Int32，System.String]"
+  splits:
+  - split: 3
+    text: "成就更新失败: {0}， 错误码: {1}， 错误信息: {2}"
+- raw: "JHTapSDK,OnQueryCallBack,79,DLC查询结果: {0} - {1},[TapSDK.License.TapLicenseQueryCode，System.Collections.Generic.Dictionary`2<System.String，System.Object>]"
+  splits:
+  - split: 3
+    text: "DLC查询结果: {0} - {1}"
+- raw: "MyTimeline,ReBindPlayerController,1125,Timeline Animation Track Ex 找不到 npc {0},[]"
   splits:
   - split: 3
     text: "Timeline Animation Track Ex 找不到 npc {0}"
@@ -13270,27 +13322,27 @@
   splits:
   - split: 3
     text: "不详"
-- raw: "SweetPotato.AutomatScriptManager,PrintExeFuctionScript,4,无法存档，正在执行功能脚本id:,[]"
+- raw: "SweetPotato.AutomatScriptManager,PrintExeFuctionScript,11,无法存档，正在执行功能脚本id:,[]"
   splits:
   - split: 3
     text: "无法存档，正在执行功能脚本id:"
-- raw: "SweetPotato.ConditionPrototype/<DoConditionShowAnim>d__77,MoveNext,191,没有找到npcId:{0} 的NpcController,[]"
+- raw: "SweetPotato.ConditionPrototype/<DoConditionShowAnim>d__77,MoveNext,201,没有找到npcId:{0} 的NpcController,[]"
   splits:
   - split: 3
     text: "没有找到npcId:{0} 的NpcController"
-- raw: "SweetPotato.ConditionPrototype/<DoConditionShowAnim>d__77,MoveNext,886,没有找到npcId:{0} 的NpcController,[]"
+- raw: "SweetPotato.ConditionPrototype/<DoConditionShowAnim>d__77,MoveNext,906,没有找到npcId:{0} 的NpcController,[]"
   splits:
   - split: 3
     text: "没有找到npcId:{0} 的NpcController"
-- raw: "SweetPotato.ConditionPrototype,ParseCondition,719,条件完成需要的物品字符串配置格式错误，ConditionPrototype.Id:{0},[]"
+- raw: "SweetPotato.ConditionPrototype,ParseCondition,726,条件完成需要的物品字符串配置格式错误，ConditionPrototype.Id:{0},[]"
   splits:
   - split: 3
     text: "条件完成需要的物品字符串配置格式错误，ConditionPrototype.Id:{0}"
-- raw: "SweetPotato.ConditionPrototype,LoadCSV,432,条件完成扣除的物品字符串配置格式错误，ConditionPrototype.Id:{0},[System.Int32，System.String[]]"
+- raw: "SweetPotato.ConditionPrototype,LoadCSV,454,条件完成扣除的物品字符串配置格式错误，ConditionPrototype.Id:{0},[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "条件完成扣除的物品字符串配置格式错误，ConditionPrototype.Id:{0}"
-- raw: "SweetPotato.ConditionPrototype,LoadCSV,616,条件完成添加的物品字符串配置格式错误，ConditionPrototype.Id:{0},[System.Int32，System.String[]]"
+- raw: "SweetPotato.ConditionPrototype,LoadCSV,650,条件完成添加的物品字符串配置格式错误，ConditionPrototype.Id:{0},[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "条件完成添加的物品字符串配置格式错误，ConditionPrototype.Id:{0}"
@@ -13310,11 +13362,11 @@
   splits:
   - split: 3
     text: "取消"
-- raw: "SweetPotato.ConditionPrototype,PlayNpcChatAnim,446,没有找到npcId:{0} 的NpcController,[System.Int64，System.Collections.Generic.List`1<System.Int64>]"
+- raw: "SweetPotato.ConditionPrototype,PlayNpcChatAnim,460,没有找到npcId:{0} 的NpcController,[System.Int64，System.Collections.Generic.List`1<System.Int64>]"
   splits:
   - split: 3
     text: "没有找到npcId:{0} 的NpcController"
-- raw: "SweetPotato.Dialoguelist,LoadCSV,51,Dialoguelist.id:{0}数字太大了，请修改序列号规划,[System.Int32，System.String[]]"
+- raw: "SweetPotato.Dialoguelist,LoadCSV,58,Dialoguelist.id:{0}数字太大了，请修改序列号规划,[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "Dialoguelist.id:{0}数字太大了，请修改序列号规划"
@@ -13326,7 +13378,7 @@
   splits:
   - split: 3
     text: "Dialoguelist对话id:{0}结束后脚本:{1}不存在"
-- raw: "SweetPotato.FormulaBaseAttri,GetAttriDicByGroupId,329,FormulaBaseAttri 配方含有相同属性错误，formulaGroupId：{0},[System.Int32，System.Boolean，System.Int32[]，System.Boolean，System.Boolean，System.Collections.Generic.Dictionary`2<SweetPotato.AttriType，System.Int32>]"
+- raw: "SweetPotato.FormulaBaseAttri,GetAttriDicByGroupId,336,FormulaBaseAttri 配方含有相同属性错误，formulaGroupId：{0},[System.Int32，System.Boolean，System.Int32[]，System.Boolean，System.Boolean，System.Collections.Generic.Dictionary`2<SweetPotato.AttriType，System.Int32>]"
   splits:
   - split: 3
     text: "FormulaBaseAttri 配方含有相同属性错误，formulaGroupId：{0}"
@@ -13334,11 +13386,11 @@
   splits:
   - split: 3
     text: "identity没有id = {0}的数据"
-- raw: "SweetPotato.JingJie_node,CreateFromCsvRow,439,激活需要的物品字符串配置格式错误，JingMai_node.Id:{0},[System.String[]]"
+- raw: "SweetPotato.JingJie_node,CreateFromCsvRow,456,激活需要的物品字符串配置格式错误，JingMai_node.Id:{0},[System.String[]]"
   splits:
   - split: 3
     text: "激活需要的物品字符串配置格式错误，JingMai_node.Id:{0}"
-- raw: "SweetPotato.JingJie_node,CreateFromCsvRow,798,激活需要的物品字符串配置格式错误，JingMai_node.Id:{0},[System.String[]]"
+- raw: "SweetPotato.JingJie_node,CreateFromCsvRow,837,激活需要的物品字符串配置格式错误，JingMai_node.Id:{0},[System.String[]]"
   splits:
   - split: 3
     text: "激活需要的物品字符串配置格式错误，JingMai_node.Id:{0}"
@@ -13346,7 +13398,7 @@
   splits:
   - split: 3
     text: "JingJie_node 中 null，id:{0}"
-- raw: "SweetPotato.JingMai_node,CreateFromCsvRow,310,激活需要的物品字符串配置格式错误，JingMai_node.Id:{0},[System.String[]]"
+- raw: "SweetPotato.JingMai_node,CreateFromCsvRow,322,激活需要的物品字符串配置格式错误，JingMai_node.Id:{0},[System.String[]]"
   splits:
   - split: 3
     text: "激活需要的物品字符串配置格式错误，JingMai_node.Id:{0}"
@@ -13382,11 +13434,11 @@
   splits:
   - split: 3
     text: "阳跷"
-- raw: "SweetPotato.JingMai_ZhouTianEffect,GetEffectIdList,172,{0}表中没有配置{1}的效果,[System.Collections.Generic.List`1<System.Int64>]"
+- raw: "SweetPotato.JingMai_ZhouTianEffect,GetEffectIdList,179,{0}表中没有配置{1}的效果,[System.Collections.Generic.List`1<System.Int64>]"
   splits:
   - split: 3
     text: "{0}表中没有配置{1}的效果"
-- raw: "SweetPotato.LianZhao_node,CreateFromCsvRow,378,激活需要的物品字符串配置格式错误，MiJi_node.Id:{0},[System.String[]]"
+- raw: "SweetPotato.LianZhao_node,CreateFromCsvRow,395,激活需要的物品字符串配置格式错误，MiJi_node.Id:{0},[System.String[]]"
   splits:
   - split: 3
     text: "激活需要的物品字符串配置格式错误，MiJi_node.Id:{0}"
@@ -13398,11 +13450,11 @@
   splits:
   - split: 3
     text: "Talent_node 中 null，id:{0}"
-- raw: "SweetPotato.MiJi_node,LoadCSV,350,激活需要的物品字符串配置格式错误，MiJi_node.Id:{0},[System.Int32，System.String[]]"
+- raw: "SweetPotato.MiJi_node,LoadCSV,372,激活需要的物品字符串配置格式错误，MiJi_node.Id:{0},[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "激活需要的物品字符串配置格式错误，MiJi_node.Id:{0}"
-- raw: "SweetPotato.MiJi_node,LoadCSV,603,洗练需要的物品字符串配置格式错误，MiJi_node.Id:{0},[System.Int32，System.String[]]"
+- raw: "SweetPotato.MiJi_node,LoadCSV,662,洗练需要的物品字符串配置格式错误，MiJi_node.Id:{0},[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "洗练需要的物品字符串配置格式错误，MiJi_node.Id:{0}"
@@ -13410,19 +13462,15 @@
   splits:
   - split: 3
     text: "random_talk表中没有{0}的经历描述数据"
-- raw: "SweetPotato.RandomName,CreateFromCsvRow,184,RandomName中{0}和{1}的姓氏重复,[System.String[]]"
+- raw: "SweetPotato.RandomName,CreateFromCsvRow,189,RandomName中{0}和{1}的姓氏重复,[System.String[]]"
   splits:
   - split: 3
     text: "RandomName中{0}和{1}的姓氏重复"
-- raw: "SweetPotato.RandomHeadIcon,CreateFromCsvRow,227,RandomHead id:{0} 性别不统一,[System.String[]]"
+- raw: "SweetPotato.RandomHeadIcon,CreateFromCsvRow,242,RandomHead id:{0} 性别不统一,[System.String[]]"
   splits:
   - split: 3
     text: "RandomHead id:{0} 性别不统一"
-- raw: "SweetPotato.RandomHeadIcon,CreateFromCsvRow,268,RandomHead id:{0} 性别不统一,[System.String[]]"
-  splits:
-  - split: 3
-    text: "RandomHead id:{0} 性别不统一"
-- raw: "SweetPotato.RandomHeadIcon,CreateFromCsvRow,309,RandomHead id:{0} 性别不统一,[System.String[]]"
+- raw: "SweetPotato.RandomHeadIcon,CreateFromCsvRow,293,RandomHead id:{0} 性别不统一,[System.String[]]"
   splits:
   - split: 3
     text: "RandomHead id:{0} 性别不统一"
@@ -13430,167 +13478,171 @@
   splits:
   - split: 3
     text: "RandomHead id:{0} 性别不统一"
-- raw: "SweetPotato.RandomHeadIcon,CreateFromCsvRow,379,RandomHead id:{0} 性别不统一,[System.String[]]"
+- raw: "SweetPotato.RandomHeadIcon,CreateFromCsvRow,386,RandomHead id:{0} 性别不统一,[System.String[]]"
   splits:
   - split: 3
     text: "RandomHead id:{0} 性别不统一"
-- raw: "SweetPotato.RandomHeadIcon,CreateFromCsvRow,414,RandomHead id:{0} 性别不统一,[System.String[]]"
+- raw: "SweetPotato.RandomHeadIcon,CreateFromCsvRow,428,RandomHead id:{0} 性别不统一,[System.String[]]"
   splits:
   - split: 3
     text: "RandomHead id:{0} 性别不统一"
-- raw: "SweetPotato.RandomHeadIcon,CreateFromCsvRow,469,RandomHead id:{0} 性别不统一,[System.String[]]"
+- raw: "SweetPotato.RandomHeadIcon,CreateFromCsvRow,470,RandomHead id:{0} 性别不统一,[System.String[]]"
   splits:
   - split: 3
     text: "RandomHead id:{0} 性别不统一"
-- raw: "SweetPotato.RandomHeadIcon,CreateFromCsvRow,504,RandomHead id:{0} 性别不统一,[System.String[]]"
+- raw: "SweetPotato.RandomHeadIcon,CreateFromCsvRow,532,RandomHead id:{0} 性别不统一,[System.String[]]"
   splits:
   - split: 3
     text: "RandomHead id:{0} 性别不统一"
-- raw: "SweetPotato.NpcAttriDynamicExtralTemplete,GetInfo,17,NpcAttriDynamicExtralTemplete中id是null:{0},[System.Int32]"
+- raw: "SweetPotato.RandomHeadIcon,CreateFromCsvRow,574,RandomHead id:{0} 性别不统一,[System.String[]]"
+  splits:
+  - split: 3
+    text: "RandomHead id:{0} 性别不统一"
+- raw: "SweetPotato.NpcAttriDynamicExtralTemplete,GetInfo,24,NpcAttriDynamicExtralTemplete中id是null:{0},[System.Int32]"
   splits:
   - split: 3
     text: "NpcAttriDynamicExtralTemplete中id是null:{0}"
-- raw: "SweetPotato.NpcAttriDynamic,GetInfo,109,menpairdm不存在genreid为{0}的数据，npcEntity:{1},[SweetPotato.NpcEntity]"
+- raw: "SweetPotato.NpcAttriDynamic,GetInfo,119,menpairdm不存在genreid为{0}的数据，npcEntity:{1},[SweetPotato.NpcEntity]"
   splits:
   - split: 3
     text: "menpairdm不存在genreid为{0}的数据，npcEntity:{1}"
-- raw: "SweetPotato.NpcSpellDynamicName,CreateFromCsvRow,177,NpcSpellDynamicName，id:{0}数据 与 randomName:{1}有数据的重复冲突,[System.String[]]"
+- raw: "SweetPotato.NpcSpellDynamicName,CreateFromCsvRow,189,NpcSpellDynamicName，id:{0}数据 与 randomName:{1}有数据的重复冲突,[System.String[]]"
   splits:
   - split: 3
     text: "NpcSpellDynamicName，id:{0}数据 与 randomName:{1}有数据的重复冲突"
-- raw: "SweetPotato.NpcSpellDynamic,GetInfo,17,NpcSpellDynamic中id是null:{0},[System.Int32]"
+- raw: "SweetPotato.NpcSpellDynamic,GetInfo,24,NpcSpellDynamic中id是null:{0},[System.Int32]"
   splits:
   - split: 3
     text: "NpcSpellDynamic中id是null:{0}"
-- raw: "SweetPotato.NpcSpellDynamic,CheakConfigError,46,NpcSpellDynamic表id:{0}中的protoSpellId:{1}在SpellPrototype表没有配置,[]"
+- raw: "SweetPotato.NpcSpellDynamic,CheakConfigError,56,NpcSpellDynamic表id:{0}中的protoSpellId:{1}在SpellPrototype表没有配置,[]"
   splits:
   - split: 3
     text: "NpcSpellDynamic表id:{0}中的protoSpellId:{1}在SpellPrototype表没有配置"
-- raw: "SweetPotato.NpcSpellDynamic,CheakConfigError,128,NpcSpellDynamic表id:{0}中的effectId:{1}在SpellEffect表没有配置,[]"
+- raw: "SweetPotato.NpcSpellDynamic,CheakConfigError,145,NpcSpellDynamic表id:{0}中的effectId:{1}在SpellEffect表没有配置,[]"
   splits:
   - split: 3
     text: "NpcSpellDynamic表id:{0}中的effectId:{1}在SpellEffect表没有配置"
-- raw: "SweetPotato.NpcSpellDynamic,CheakConfigError,226,NpcSpellDynamic表id:{0}中的effectId:{1}在SpellEffect表没有配置,[]"
+- raw: "SweetPotato.NpcSpellDynamic,CheakConfigError,250,NpcSpellDynamic表id:{0}中的effectId:{1}在SpellEffect表没有配置,[]"
   splits:
   - split: 3
     text: "NpcSpellDynamic表id:{0}中的effectId:{1}在SpellEffect表没有配置"
-- raw: "SweetPotato.NpcSpellDynamic,CheakConfigError,324,NpcSpellDynamic表id:{0}中的effectId:{1}在SpellEffect表没有配置,[]"
+- raw: "SweetPotato.NpcSpellDynamic,CheakConfigError,355,NpcSpellDynamic表id:{0}中的effectId:{1}在SpellEffect表没有配置,[]"
   splits:
   - split: 3
     text: "NpcSpellDynamic表id:{0}中的effectId:{1}在SpellEffect表没有配置"
-- raw: "SweetPotato.NpcSpellDynamic,Init,667,NpcSpellDynamic表Id{0}中的技能模板：{1}不存在,[]"
+- raw: "SweetPotato.NpcSpellDynamic,Init,677,NpcSpellDynamic表Id{0}中的技能模板：{1}不存在,[]"
   splits:
   - split: 3
     text: "NpcSpellDynamic表Id{0}中的技能模板：{1}不存在"
-- raw: "SweetPotato.NpcSpellDynamic,Init,744,NpcSpellDynamic表Id{0}中的taolu与技能模板的taolu不一样,[]"
+- raw: "SweetPotato.NpcSpellDynamic,Init,761,NpcSpellDynamic表Id{0}中的taolu与技能模板的taolu不一样,[]"
   splits:
   - split: 3
     text: "NpcSpellDynamic表Id{0}中的taolu与技能模板的taolu不一样"
-- raw: "SweetPotato.NpcSpellDynamic,Init,796,NpcSpellDynamic表Id{0}中的pianxiang与技能模板的pianxiang不一样,[]"
+- raw: "SweetPotato.NpcSpellDynamic,Init,820,NpcSpellDynamic表Id{0}中的pianxiang与技能模板的pianxiang不一样,[]"
   splits:
   - split: 3
     text: "NpcSpellDynamic表Id{0}中的pianxiang与技能模板的pianxiang不一样"
-- raw: "SweetPotato.NpcSpellDynamic,Init,848,NpcSpellDynamic表Id{0}中的spelltype与技能模板的spelltype不一样,[]"
+- raw: "SweetPotato.NpcSpellDynamic,Init,879,NpcSpellDynamic表Id{0}中的spelltype与技能模板的spelltype不一样,[]"
   splits:
   - split: 3
     text: "NpcSpellDynamic表Id{0}中的spelltype与技能模板的spelltype不一样"
-- raw: "SweetPotato.NpcSpellDynamic,Init,2107,主动技能必须配置套路，NpcSpellDynamic表Id{0}中的配置错误,[]"
+- raw: "SweetPotato.NpcSpellDynamic,Init,2148,主动技能必须配置套路，NpcSpellDynamic表Id{0}中的配置错误,[]"
   splits:
   - split: 3
     text: "主动技能必须配置套路，NpcSpellDynamic表Id{0}中的配置错误"
-- raw: "SweetPotato.NpcSpellDynamic,Init,2262,心法套路不存在的时候，套路类型是4，NpcSpellDynamic表Id{0}中的配置错误,[]"
+- raw: "SweetPotato.NpcSpellDynamic,Init,2313,心法套路不存在的时候，套路类型是4，NpcSpellDynamic表Id{0}中的配置错误,[]"
   splits:
   - split: 3
     text: "心法套路不存在的时候，套路类型是4，NpcSpellDynamic表Id{0}中的配置错误"
-- raw: "SweetPotato.NpcSpellDynamic,Init,2331,主动技能必须配置套路，NpcSpellDynamic表Id{0}中的配置错误,[]"
+- raw: "SweetPotato.NpcSpellDynamic,Init,2392,主动技能必须配置套路，NpcSpellDynamic表Id{0}中的配置错误,[]"
   splits:
   - split: 3
     text: "主动技能必须配置套路，NpcSpellDynamic表Id{0}中的配置错误"
-- raw: "SweetPotato.NpcSpellDynamic,Init,2522,心法套路不存在的时候，套路类型是4，NpcSpellDynamic表Id{0}中的配置错误,[]"
+- raw: "SweetPotato.NpcSpellDynamic,Init,2593,心法套路不存在的时候，套路类型是4，NpcSpellDynamic表Id{0}中的配置错误,[]"
   splits:
   - split: 3
     text: "心法套路不存在的时候，套路类型是4，NpcSpellDynamic表Id{0}中的配置错误"
-- raw: "SweetPotato.NpcSpellDynamic,Init,2604,套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误,[]"
+- raw: "SweetPotato.NpcSpellDynamic,Init,2685,套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误,[]"
   splits:
   - split: 3
     text: "套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误"
-- raw: "SweetPotato.NpcSpellDynamic,Init,2640,套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误,[]"
+- raw: "SweetPotato.NpcSpellDynamic,Init,2731,套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误,[]"
   splits:
   - split: 3
     text: "套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误"
-- raw: "SweetPotato.NpcSpellDynamic,Init,2828,套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误,[]"
+- raw: "SweetPotato.NpcSpellDynamic,Init,2929,套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误,[]"
   splits:
   - split: 3
     text: "套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误"
-- raw: "SweetPotato.NpcSpellDynamic,Init,2864,套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误,[]"
+- raw: "SweetPotato.NpcSpellDynamic,Init,2975,套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误,[]"
   splits:
   - split: 3
     text: "套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误"
-- raw: "SweetPotato.NpcSpellDynamic,Init,4282,主动技能必须配置套路，NpcSpellDynamic表Id{0}中的配置错误,[]"
+- raw: "SweetPotato.NpcSpellDynamic,Init,4403,主动技能必须配置套路，NpcSpellDynamic表Id{0}中的配置错误,[]"
   splits:
   - split: 3
     text: "主动技能必须配置套路，NpcSpellDynamic表Id{0}中的配置错误"
-- raw: "SweetPotato.NpcSpellDynamic,Init,4416,心法套路不存在的时候，套路类型是4，NpcSpellDynamic表Id{0}中的配置错误,[]"
+- raw: "SweetPotato.NpcSpellDynamic,Init,4547,心法套路不存在的时候，套路类型是4，NpcSpellDynamic表Id{0}中的配置错误,[]"
   splits:
   - split: 3
     text: "心法套路不存在的时候，套路类型是4，NpcSpellDynamic表Id{0}中的配置错误"
-- raw: "SweetPotato.NpcSpellDynamic,Init,4485,主动技能必须配置套路，NpcSpellDynamic表Id{0}中的配置错误,[]"
+- raw: "SweetPotato.NpcSpellDynamic,Init,4626,主动技能必须配置套路，NpcSpellDynamic表Id{0}中的配置错误,[]"
   splits:
   - split: 3
     text: "主动技能必须配置套路，NpcSpellDynamic表Id{0}中的配置错误"
-- raw: "SweetPotato.NpcSpellDynamic,Init,4655,心法套路不存在的时候，套路类型是4，NpcSpellDynamic表Id{0}中的配置错误,[]"
+- raw: "SweetPotato.NpcSpellDynamic,Init,4806,心法套路不存在的时候，套路类型是4，NpcSpellDynamic表Id{0}中的配置错误,[]"
   splits:
   - split: 3
     text: "心法套路不存在的时候，套路类型是4，NpcSpellDynamic表Id{0}中的配置错误"
-- raw: "SweetPotato.NpcSpellDynamic,Init,4737,套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误,[]"
+- raw: "SweetPotato.NpcSpellDynamic,Init,4898,套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误,[]"
   splits:
   - split: 3
     text: "套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误"
-- raw: "SweetPotato.NpcSpellDynamic,Init,4773,套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误,[]"
+- raw: "SweetPotato.NpcSpellDynamic,Init,4944,套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误,[]"
   splits:
   - split: 3
     text: "套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误"
-- raw: "SweetPotato.NpcSpellDynamic,Init,4940,套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误,[]"
+- raw: "SweetPotato.NpcSpellDynamic,Init,5121,套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误,[]"
   splits:
   - split: 3
     text: "套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误"
-- raw: "SweetPotato.NpcSpellDynamic,Init,4976,套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误,[]"
+- raw: "SweetPotato.NpcSpellDynamic,Init,5167,套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误,[]"
   splits:
   - split: 3
     text: "套路类型是4，只可能是心法类型，NpcSpellDynamic表Id{0}中的配置错误"
-- raw: "SweetPotato.NpcSpellDynamic,CreateFromCsvRow,380,NpcSpellDynamic.id：{0}的心法调息个数不能超过3个，配置错误,[System.String[]]"
+- raw: "SweetPotato.NpcSpellDynamic,CreateFromCsvRow,397,NpcSpellDynamic.id：{0}的心法调息个数不能超过3个，配置错误,[System.String[]]"
   splits:
   - split: 3
     text: "NpcSpellDynamic.id：{0}的心法调息个数不能超过3个，配置错误"
-- raw: "SweetPotato.NpcSpellDynamic,CreateFromCsvRow,446,NpcSpellDynamic.id：{0}的心法特技个数不能超过4个，配置错误,[System.String[]]"
+- raw: "SweetPotato.NpcSpellDynamic,CreateFromCsvRow,470,NpcSpellDynamic.id：{0}的心法特技个数不能超过4个，配置错误,[System.String[]]"
   splits:
   - split: 3
     text: "NpcSpellDynamic.id：{0}的心法特技个数不能超过4个，配置错误"
-- raw: "SweetPotato.NpcSpellDynamic,CreateFromCsvRow,528,NpcSpellDynamic.id：{0}的effectcountMax==0，配置错误,[System.String[]]"
+- raw: "SweetPotato.NpcSpellDynamic,CreateFromCsvRow,559,NpcSpellDynamic.id：{0}的effectcountMax==0，配置错误,[System.String[]]"
   splits:
   - split: 3
     text: "NpcSpellDynamic.id：{0}的effectcountMax==0，配置错误"
-- raw: "SweetPotato.NpcSpellDynamic,CreateFromCsvRow,841,NpcSpellDynamic:{0}中配置的调息buff，spellEffectl{1}，quality填写错误,[System.String[]]"
+- raw: "SweetPotato.NpcSpellDynamic,CreateFromCsvRow,884,NpcSpellDynamic:{0}中配置的调息buff，spellEffectl{1}，quality填写错误,[System.String[]]"
   splits:
   - split: 3
     text: "NpcSpellDynamic:{0}中配置的调息buff，spellEffectl{1}，quality填写错误"
-- raw: "SweetPotato.NpcSpellDynamic,CreateFromCsvRow,923,NpcSpellDynamic:{0}中配置的调息buff，没有1段，配置错误,[System.String[]]"
+- raw: "SweetPotato.NpcSpellDynamic,CreateFromCsvRow,973,NpcSpellDynamic:{0}中配置的调息buff，没有1段，配置错误,[System.String[]]"
   splits:
   - split: 3
     text: "NpcSpellDynamic:{0}中配置的调息buff，没有1段，配置错误"
-- raw: "SweetPotato.NpcSpellDynamic,CreateFromCsvRow,973,NpcSpellDynamic:{0}中配置的调息buff，连2段都没有，却有3段，配置错误,[System.String[]]"
+- raw: "SweetPotato.NpcSpellDynamic,CreateFromCsvRow,1030,NpcSpellDynamic:{0}中配置的调息buff，连2段都没有，却有3段，配置错误,[System.String[]]"
   splits:
   - split: 3
     text: "NpcSpellDynamic:{0}中配置的调息buff，连2段都没有，却有3段，配置错误"
-- raw: "SweetPotato.NpcSpellDynamic,CreateFromCsvRow,1038,NpcSpellDynamic.id：{0}的buff个数为0，配置错误,[System.String[]]"
+- raw: "SweetPotato.NpcSpellDynamic,CreateFromCsvRow,1102,NpcSpellDynamic.id：{0}的buff个数为0，配置错误,[System.String[]]"
   splits:
   - split: 3
     text: "NpcSpellDynamic.id：{0}的buff个数为0，配置错误"
-- raw: "SweetPotato.NpcSpellDynamic,InitNpcSpell,27,随机Npc角色：{0}，proGuid:{1}，偏向：{2}，套路{3}，境界等级：{4}没有筛选到心法，因此后续技能也无法筛选,[SweetPotato.NpcEntity]"
+- raw: "SweetPotato.NpcSpellDynamic,InitNpcSpell,34,随机Npc角色：{0}，proGuid:{1}，偏向：{2}，套路{3}，境界等级：{4}没有筛选到心法，因此后续技能也无法筛选,[SweetPotato.NpcEntity]"
   splits:
   - split: 3
     text: "随机Npc角色：{0}，proGuid:{1}，偏向：{2}，套路{3}，境界等级：{4}没有筛选到心法，因此后续技能也无法筛选"
-- raw: "SweetPotato.NpcSpellDynamic,InitNpcSpell,268,随机Npc角色：{0}，proGuid:{1}，偏向：{2}，套路{3}，境界等级：{4}，筛选的心法dynamicId:{5}，心法groupId:{6}没有筛选主动技能,[SweetPotato.NpcEntity]"
+- raw: "SweetPotato.NpcSpellDynamic,InitNpcSpell,288,随机Npc角色：{0}，proGuid:{1}，偏向：{2}，套路{3}，境界等级：{4}，筛选的心法dynamicId:{5}，心法groupId:{6}没有筛选主动技能,[SweetPotato.NpcEntity]"
   splits:
   - split: 3
     text: "随机Npc角色：{0}，proGuid:{1}，偏向：{2}，套路{3}，境界等级：{4}，筛选的心法dynamicId:{5}，心法groupId:{6}没有筛选主动技能"
@@ -13806,23 +13858,23 @@
   splits:
   - split: 3
     text: "（化境）"
-- raw: "SweetPotato.NpcSpellDynamic,CreateVirtualSpellPrototype,747,guid:{0}，npcSpellDynamic:{0}，slot:{1}装备失败,[SweetPotato.NpcEntity，SweetPotato.NpcSpellDynamic，System.Int32]"
+- raw: "SweetPotato.NpcSpellDynamic,CreateVirtualSpellPrototype,754,guid:{0}，npcSpellDynamic:{0}，slot:{1}装备失败,[SweetPotato.NpcEntity，SweetPotato.NpcSpellDynamic，System.Int32]"
   splits:
   - split: 3
     text: "guid:{0}，npcSpellDynamic:{0}，slot:{1}装备失败"
-- raw: "SweetPotato.NpcPrototypeBaseRandom,GetNpcRandomBaseId,89,npc_prototype_baserdm表中数据不全，menpai:{0}，jingjie:{1}随机不到模型,[System.Int32，System.Int32]"
+- raw: "SweetPotato.NpcPrototypeBaseRandom,GetNpcRandomBaseId,96,npc_prototype_baserdm表中数据不全，menpai:{0}，jingjie:{1}随机不到模型,[System.Int32，System.Int32]"
   splits:
   - split: 3
     text: "npc_prototype_baserdm表中数据不全，menpai:{0}，jingjie:{1}随机不到模型"
-- raw: "SweetPotato.NpcPrototypeBase,CreateFromCsvRow,102,NpcPrototypeBase中id:{0}没有性别,[System.String[]]"
+- raw: "SweetPotato.NpcPrototypeBase,CreateFromCsvRow,109,NpcPrototypeBase中id:{0}没有性别,[System.String[]]"
   splits:
   - split: 3
     text: "NpcPrototypeBase中id:{0}没有性别"
-- raw: "SweetPotato.NpcPrototype,LoadCSV,972,NpcPrototype.id:{0}中sectGenreId中配置的流派错误,[System.Int32，System.String[]]"
+- raw: "SweetPotato.NpcPrototype,LoadCSV,999,NpcPrototype.id:{0}中sectGenreId中配置的流派错误,[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "NpcPrototype.id:{0}中sectGenreId中配置的流派错误"
-- raw: "SweetPotato.NpcPrototype,LoadCSV,1035,NpcPrototype.id:{0}中强行配置的随机战斗Npc需要配制成不能交互NA_NO_INTERACT,[System.Int32，System.String[]]"
+- raw: "SweetPotato.NpcPrototype,LoadCSV,1069,NpcPrototype.id:{0}中强行配置的随机战斗Npc需要配制成不能交互NA_NO_INTERACT,[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "NpcPrototype.id:{0}中强行配置的随机战斗Npc需要配制成不能交互NA_NO_INTERACT"
@@ -13838,27 +13890,27 @@
   splits:
   - split: 3
     text: "Talent_node 中 null，id:{0}"
-- raw: "SweetPotato.QingGong_node,CreateFromCsvRow,302,激活需要的物品字符串配置格式错误，MiJi_node.Id:{0},[System.String[]]"
+- raw: "SweetPotato.QingGong_node,CreateFromCsvRow,319,激活需要的物品字符串配置格式错误，MiJi_node.Id:{0},[System.String[]]"
   splits:
   - split: 3
     text: "激活需要的物品字符串配置格式错误，MiJi_node.Id:{0}"
-- raw: "SweetPotato.SpellEffect,GetInfoById,23,SpellEffect中没有配置id:{0}的buff,[System.Int64]"
+- raw: "SweetPotato.SpellEffect,GetInfoById,30,SpellEffect中没有配置id:{0}的buff,[System.Int64]"
   splits:
   - split: 3
     text: "SpellEffect中没有配置id:{0}的buff"
-- raw: "SweetPotato.SpellPrototype,LoadCSV,880,心法的运功都存在，xinfaSpell填写为0错误，spellPro：{0},[System.Int32，System.String[]]"
+- raw: "SweetPotato.SpellPrototype,LoadCSV,962,心法的运功都存在，xinfaSpell填写为0错误，spellPro：{0},[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "心法的运功都存在，xinfaSpell填写为0错误，spellPro：{0}"
-- raw: "SweetPotato.SpellPrototype,CheakConfigError,60,SpellPrototype表id:{0}中的effectId:{1}在SpellEffect表没有配置,[]"
+- raw: "SweetPotato.SpellPrototype,CheakConfigError,67,SpellPrototype表id:{0}中的effectId:{1}在SpellEffect表没有配置,[]"
   splits:
   - split: 3
     text: "SpellPrototype表id:{0}中的effectId:{1}在SpellEffect表没有配置"
-- raw: "SweetPotato.SpellPrototype,AddVirturlSpellPrototypePlayerSteal,386,AddVirturlSpellPrototype.id：{0}出现重复，guid:{1},[SweetPotato.NpcEntity，SweetPotato.VirtualSpellPlayerSteal]"
+- raw: "SweetPotato.SpellPrototype,AddVirturlSpellPrototypePlayerSteal,393,AddVirturlSpellPrototype.id：{0}出现重复，guid:{1},[SweetPotato.NpcEntity，SweetPotato.VirtualSpellPlayerSteal]"
   splits:
   - split: 3
     text: "AddVirturlSpellPrototype.id：{0}出现重复，guid:{1}"
-- raw: "SweetPotato.SpellPrototype,AddVirturlSpellPrototype,398,AddVirturlSpellPrototype.id：{0}出现重复，guid:{1},[SweetPotato.NpcEntity，SweetPotato.VirtualSpell]"
+- raw: "SweetPotato.SpellPrototype,AddVirturlSpellPrototype,405,AddVirturlSpellPrototype.id：{0}出现重复，guid:{1},[SweetPotato.NpcEntity，SweetPotato.VirtualSpell]"
   splits:
   - split: 3
     text: "AddVirturlSpellPrototype.id：{0}出现重复，guid:{1}"
@@ -13866,23 +13918,23 @@
   splits:
   - split: 3
     text: "teleport_trans不存在id为{0}的数据"
-- raw: "SweetPotato.DataMgr,LoadDB,935,   使用内存:,[System.Collections.Generic.Dictionary`2<System.String，CSVHelper.CsvLoader/CsvCreateFunc>]"
+- raw: "SweetPotato.DataMgr,LoadDB,997,   使用内存:,[System.Collections.Generic.Dictionary`2<System.String，CSVHelper.CsvLoader/CsvCreateFunc>]"
   splits:
   - split: 3
     text: "   使用内存:"
-- raw: "SweetPotato.DataMgr,CheckCsvError,75,QuestPrototype id {0} 的 rewardid {1} 对应的Loot_items 为空,[]"
+- raw: "SweetPotato.DataMgr,CheckCsvError,82,QuestPrototype id {0} 的 rewardid {1} 对应的Loot_items 为空,[]"
   splits:
   - split: 3
     text: "QuestPrototype id {0} 的 rewardid {1} 对应的Loot_items 为空"
-- raw: "SweetPotato.DataMgr,CheckCsvError,216,EntrustEventPrototype id {0} 的 rewardid {1} 对应的Loot_items 为空,[]"
+- raw: "SweetPotato.DataMgr,CheckCsvError,230,EntrustEventPrototype id {0} 的 rewardid {1} 对应的Loot_items 为空,[]"
   splits:
   - split: 3
     text: "EntrustEventPrototype id {0} 的 rewardid {1} 对应的Loot_items 为空"
-- raw: "SweetPotato.DataMgr,CheckCsvError,381,EntrustEventPrototype id {0} 的 rewardid2 {1} 对应的Loot_items 为空,[]"
+- raw: "SweetPotato.DataMgr,CheckCsvError,402,EntrustEventPrototype id {0} 的 rewardid2 {1} 对应的Loot_items 为空,[]"
   splits:
   - split: 3
     text: "EntrustEventPrototype id {0} 的 rewardid2 {1} 对应的Loot_items 为空"
-- raw: "SweetPotato.DataMgr,CheckCsvError,596,Relationship中 id：{0}中的 关系NpcGuid:{1}是非交互Npc，不能参与到关系当中,[]"
+- raw: "SweetPotato.DataMgr,CheckCsvError,624,Relationship中 id：{0}中的 关系NpcGuid:{1}是非交互Npc，不能参与到关系当中,[]"
   splits:
   - split: 3
     text: "Relationship中 id：{0}中的 关系NpcGuid:{1}是非交互Npc，不能参与到关系当中"
@@ -14058,7 +14110,7 @@
   splits:
   - split: 3
     text: "时"
-- raw: "SweetPotato.Tools,GetAttriTypeByLiveSkillType,66,GetAttriTypeByLiveSkillType 没有对应的类型 {0},[LivingType]"
+- raw: "SweetPotato.Tools,GetAttriTypeByLiveSkillType,73,GetAttriTypeByLiveSkillType 没有对应的类型 {0},[LivingType]"
   splits:
   - split: 3
     text: "GetAttriTypeByLiveSkillType 没有对应的类型 {0}"
@@ -15834,23 +15886,23 @@
   splits:
   - split: 3
     text: "不详"
-- raw: "SweetPotato.NpcEntity,Init,287,魏琦锐，m_NpcPrototype.id:{0}这种NPC_ATTRI属性中含有8的Npc没有配置对应的境界,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.NpcEntity,Init,294,魏琦锐，m_NpcPrototype.id:{0}这种NPC_ATTRI属性中含有8的Npc没有配置对应的境界,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "魏琦锐，m_NpcPrototype.id:{0}这种NPC_ATTRI属性中含有8的Npc没有配置对应的境界"
-- raw: "SweetPotato.NpcEntity,Init,327,魏琦锐，m_NpcPrototype.id:{0}这种NPC_ATTRI属性中含有8的Npc没有配置对应的境界,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.NpcEntity,Init,341,魏琦锐，m_NpcPrototype.id:{0}这种NPC_ATTRI属性中含有8的Npc没有配置对应的境界,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "魏琦锐，m_NpcPrototype.id:{0}这种NPC_ATTRI属性中含有8的Npc没有配置对应的境界"
-- raw: "SweetPotato.NpcEntity,Init,428,guid:{0}，proguid:{1}配置的是动物，但是又错误配置成了随机Npc,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.NpcEntity,Init,449,guid:{0}，proguid:{1}配置的是动物，但是又错误配置成了随机Npc,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "guid:{0}，proguid:{1}配置的是动物，但是又错误配置成了随机Npc"
-- raw: "SweetPotato.NpcEntity,Init,553,随机角色guid:{0}，protoGuid:{1}的门派随到了“不夜京”，错误,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.NpcEntity,Init,581,随机角色guid:{0}，protoGuid:{1}的门派随到了“不夜京”，错误,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "随机角色guid:{0}，protoGuid:{1}的门派随到了“不夜京”，错误"
-- raw: "SweetPotato.NpcEntity,Init,902,proGuid:{0}，RandomName中不包含这个姓氏{1},[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.NpcEntity,Init,930,proGuid:{0}，RandomName中不包含这个姓氏{1},[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "proGuid:{0}，RandomName中不包含这个姓氏{1}"
@@ -15862,7 +15914,7 @@
   splits:
   - split: 3
     text: "角色proGuid:{0}的m_NpcFight没有或者没配置m_NpcFight.spellContainer"
-- raw: "SweetPotato.NpcEntity,InitNpcBag,138,角色m_NpcPrototype.id:{0}背包初始化lootGroupId:{1}中表物品id:{2}的ItemPrototype==null,[]"
+- raw: "SweetPotato.NpcEntity,InitNpcBag,145,角色m_NpcPrototype.id:{0}背包初始化lootGroupId:{1}中表物品id:{2}的ItemPrototype==null,[]"
   splits:
   - split: 3
     text: "角色m_NpcPrototype.id:{0}背包初始化lootGroupId:{1}中表物品id:{2}的ItemPrototype==null"
@@ -15874,7 +15926,7 @@
   splits:
   - split: 3
     text: "NpcPrototype:{0}的Equip字段中装备id\"{1}\"在ItemEquip表中没有配置对应数据"
-- raw: "SweetPotato.NpcEntity,InitNpcAtt,157,guid:{0}，m_NpcPrototypeId:{1}，NpcPrototypeBaseId:{2}，prfomulaBaseID:{3}的精力最大值为0,[]"
+- raw: "SweetPotato.NpcEntity,InitNpcAtt,164,guid:{0}，m_NpcPrototypeId:{1}，NpcPrototypeBaseId:{2}，prfomulaBaseID:{3}的精力最大值为0,[]"
   splits:
   - split: 3
     text: "guid:{0}，m_NpcPrototypeId:{1}，NpcPrototypeBaseId:{2}，prfomulaBaseID:{3}的精力最大值为0"
@@ -15934,27 +15986,27 @@
   splits:
   - split: 3
     text: "你已经阅读过这本书了"
-- raw: "SweetPotato.PlayerEntity,Update,709,游戏进入了新的一天 年:{0} 月:{1} 日:{2},[]"
+- raw: "SweetPotato.PlayerEntity,Update,716,游戏进入了新的一天 年:{0} 月:{1} 日:{2},[]"
   splits:
   - split: 3
     text: "游戏进入了新的一天 年:{0} 月:{1} 日:{2}"
-- raw: "SweetPotato.PlayerEntity,Update,969,游戏进入了新的时辰 {0},[]"
+- raw: "SweetPotato.PlayerEntity,Update,983,游戏进入了新的时辰 {0},[]"
   splits:
   - split: 3
     text: "游戏进入了新的时辰 {0}"
-- raw: "SweetPotato.PlayerEntity,AddSkillProficiency,10,LivingAssemblyskillGrouth 没有配置 属性 {0} {1} 的成长，使用默认值,[System.Boolean，SweetPotato.AttriType]"
+- raw: "SweetPotato.PlayerEntity,AddSkillProficiency,17,LivingAssemblyskillGrouth 没有配置 属性 {0} {1} 的成长，使用默认值,[System.Boolean，SweetPotato.AttriType]"
   splits:
   - split: 3
     text: "LivingAssemblyskillGrouth 没有配置 属性 {0} {1} 的成长，使用默认值"
-- raw: "SweetPotato.PlayerEntity,AddSkillProficiency,460,你在{0}上陷入了瓶颈，请找对应身份角色提升身份后方可提升,[System.Boolean，SweetPotato.AttriType]"
+- raw: "SweetPotato.PlayerEntity,AddSkillProficiency,467,你在{0}上陷入了瓶颈，请找对应身份角色提升身份后方可提升,[System.Boolean，SweetPotato.AttriType]"
   splits:
   - split: 3
     text: "你在{0}上陷入了瓶颈，请找对应身份角色提升身份后方可提升"
-- raw: "SweetPotato.PlayerEntity,AddSkillProficiency,594,LivingAssemblyskillGrouth id:{0} 技能附加成长，配置错误,[System.Boolean，SweetPotato.AttriType]"
+- raw: "SweetPotato.PlayerEntity,AddSkillProficiency,611,LivingAssemblyskillGrouth id:{0} 技能附加成长，配置错误,[System.Boolean，SweetPotato.AttriType]"
   splits:
   - split: 3
     text: "LivingAssemblyskillGrouth id:{0} 技能附加成长，配置错误"
-- raw: "SweetPotato.PlayerEntity,AddSkillProficiency,813,你在{0}上陷入了瓶颈，请找对应身份角色提升身份后方可提升,[System.Boolean，SweetPotato.AttriType]"
+- raw: "SweetPotato.PlayerEntity,AddSkillProficiency,830,你在{0}上陷入了瓶颈，请找对应身份角色提升身份后方可提升,[System.Boolean，SweetPotato.AttriType]"
   splits:
   - split: 3
     text: "你在{0}上陷入了瓶颈，请找对应身份角色提升身份后方可提升"
@@ -15966,14 +16018,6 @@
   splits:
   - split: 3
     text: "主角击败了来报仇的npc: {0}"
-- raw: "SweetPotato.PlayerEntity,RemoveExtraDLCItem,50,激活码,[]"
-  splits:
-  - split: 3
-    text: "激活码"
-- raw: "SweetPotato.PlayerEntity,RemoveExtraDLCItem,186,激活码,[]"
-  splits:
-  - split: 3
-    text: "激活码"
 - raw: "SweetPotato.PlayerQuest,GetFinishQuestByType,51,任务id：{0}不在任务列表中,[QUEST_TYPE]"
   splits:
   - split: 3
@@ -15998,31 +16042,31 @@
   splits:
   - split: 3
     text: "取消"
-- raw: "SweetPotato.PlayerQuest,Load,460,m_DicQuest[i]已经存在相同的key，i:{0}，key:{1},[LitJson.JsonData]"
+- raw: "SweetPotato.PlayerQuest,Load,467,m_DicQuest[i]已经存在相同的key，i:{0}，key:{1},[LitJson.JsonData]"
   splits:
   - split: 3
     text: "m_DicQuest[i]已经存在相同的key，i:{0}，key:{1}"
-- raw: "SweetPotato.PlayerQuest,Load,498,questLog.Load id:{0} 配置不存在,[LitJson.JsonData]"
+- raw: "SweetPotato.PlayerQuest,Load,512,questLog.Load id:{0} 配置不存在,[LitJson.JsonData]"
   splits:
   - split: 3
     text: "questLog.Load id:{0} 配置不存在"
-- raw: "SweetPotato.SpawnPointChild,CreateUnitEntity,227,SpawnPointId:{0}中的Npc模板Id:{1}不是随机Npc,[]"
+- raw: "SweetPotato.SpawnPointChild,CreateUnitEntity,237,SpawnPointId:{0}中的Npc模板Id:{1}不是随机Npc,[]"
   splits:
   - split: 3
     text: "SpawnPointId:{0}中的Npc模板Id:{1}不是随机Npc"
-- raw: "SweetPotato.SpawnPointChild,CreateUnitEntity,283,SpawnPointId:{0}中的Npc模板Id:{1}不是随机Npc,[]"
+- raw: "SweetPotato.SpawnPointChild,CreateUnitEntity,300,SpawnPointId:{0}中的Npc模板Id:{1}不是随机Npc,[]"
   splits:
   - split: 3
     text: "SpawnPointId:{0}中的Npc模板Id:{1}不是随机Npc"
-- raw: "SweetPotato.UnitController/<MoveAlongPointByBiao>d__225,MoveNext,458,{0}被放在了一个没有相邻WayPoint点的点位{1},[]"
+- raw: "SweetPotato.UnitController/<MoveAlongPointByBiao>d__225,MoveNext,472,{0}被放在了一个没有相邻WayPoint点的点位{1},[]"
   splits:
   - split: 3
     text: "{0}被放在了一个没有相邻WayPoint点的点位{1}"
-- raw: "SweetPotato.UnitController,SetInSightCombat,469,杀手或者精英怪guid:{0}，没有配置战斗音乐,[System.Boolean，System.Boolean]"
+- raw: "SweetPotato.UnitController,SetInSightCombat,476,杀手或者精英怪guid:{0}，没有配置战斗音乐,[System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "杀手或者精英怪guid:{0}，没有配置战斗音乐"
-- raw: "SweetPotato.UnitController,OnHPChanged,397,角色没有进入战斗，却在扣血，可能buff效果配置错误spelleffect:{0}，effect虚拟模板id:{1},[System.Int32，SweetPotato.UnitController，SweetPotato.SpellPrototype，SweetPotato.FlagAttackResult，System.Boolean，SweetPotato.SpellEffect，System.Boolean，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.UnitController,OnHPChanged,404,角色没有进入战斗，却在扣血，可能buff效果配置错误spelleffect:{0}，effect虚拟模板id:{1},[System.Int32，SweetPotato.UnitController，SweetPotato.SpellPrototype，SweetPotato.FlagAttackResult，System.Boolean，SweetPotato.SpellEffect，System.Boolean，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "角色没有进入战斗，却在扣血，可能buff效果配置错误spelleffect:{0}，effect虚拟模板id:{1}"
@@ -16050,11 +16094,11 @@
   splits:
   - split: 3
     text: "取消"
-- raw: "SweetPotato.GameSaving,Save,2124,未知,[SweetPotato.FileInfoItemData，System.Boolean，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.GameSaving,Save,2207,未知,[SweetPotato.FileInfoItemData，System.Boolean，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "未知"
-- raw: "SweetPotato.GameSaving,Save,2386,存档发生了错误 \\n,[SweetPotato.FileInfoItemData，System.Boolean，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.GameSaving,Save,2493,存档发生了错误 \\n,[SweetPotato.FileInfoItemData，System.Boolean，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "存档发生了错误 \\n"
@@ -16394,27 +16438,27 @@
   splits:
   - split: 3
     text: "偏僻区域"
-- raw: "SweetPotato.GrowInfo,OnEntrustFinish,2226,采集物掉落配置错误，npcPrototype.id:{0},[VirtualEvent，System.Boolean]"
+- raw: "SweetPotato.GrowInfo,OnEntrustFinish,2233,采集物掉落配置错误，npcPrototype.id:{0},[VirtualEvent，System.Boolean]"
   splits:
   - split: 3
     text: "采集物掉落配置错误，npcPrototype.id:{0}"
-- raw: "SweetPotato.GrowInfo,OnEntrustFinish,2303,采集物掉落配置错误，npcPrototype.id:{0},[VirtualEvent，System.Boolean]"
+- raw: "SweetPotato.GrowInfo,OnEntrustFinish,2320,采集物掉落配置错误，npcPrototype.id:{0},[VirtualEvent，System.Boolean]"
   splits:
   - split: 3
     text: "采集物掉落配置错误，npcPrototype.id:{0}"
-- raw: "SweetPotato.GrowInfo,OnEntrustFinish,3089,偏僻区域,[VirtualEvent，System.Boolean]"
+- raw: "SweetPotato.GrowInfo,OnEntrustFinish,3108,偏僻区域,[VirtualEvent，System.Boolean]"
   splits:
   - split: 3
     text: "偏僻区域"
-- raw: "SweetPotato.GrowInfo,OnEntrustFinish,3797,NpcInteract中配置的数据，id:{0}，里面商人proGuid:{1}，的shopId为0，配置错误,[VirtualEvent，System.Boolean]"
+- raw: "SweetPotato.GrowInfo,OnEntrustFinish,3827,NpcInteract中配置的数据，id:{0}，里面商人proGuid:{1}，的shopId为0，配置错误,[VirtualEvent，System.Boolean]"
   splits:
   - split: 3
     text: "NpcInteract中配置的数据，id:{0}，里面商人proGuid:{1}，的shopId为0，配置错误"
-- raw: "SweetPotato.GrowInfo,OnEntrustFinish,4692,随机Npc成长事件EntrustEventPrototype.id:{0}类型配置错误,[VirtualEvent，System.Boolean]"
+- raw: "SweetPotato.GrowInfo,OnEntrustFinish,4722,随机Npc成长事件EntrustEventPrototype.id:{0}类型配置错误,[VirtualEvent，System.Boolean]"
   splits:
   - split: 3
     text: "随机Npc成长事件EntrustEventPrototype.id:{0}类型配置错误"
-- raw: "SweetPotato.GuanTongManager,EquipSpell,14,要装备的技能id:{0}不存在,[System.Int32，System.Int64，System.Int32]"
+- raw: "SweetPotato.GuanTongManager,EquipSpell,21,要装备的技能id:{0}不存在,[System.Int32，System.Int64，System.Int32]"
   splits:
   - split: 3
     text: "要装备的技能id:{0}不存在"
@@ -16430,7 +16474,7 @@
   splits:
   - split: 3
     text: "{0}月"
-- raw: "SweetPotato.ChuanWenDetail,ShowDetail,660,时限：,[SweetPotato.ChuanWenSlotData]"
+- raw: "SweetPotato.ChuanWenDetail,ShowDetail,674,时限：,[SweetPotato.ChuanWenSlotData]"
   splits:
   - split: 3
     text: "时限："
@@ -16486,11 +16530,11 @@
   splits:
   - split: 3
     text: "<color=#f8744b>[活动]</color>"
-- raw: "SweetPotato.ChuanWenMgr,OnMiBaoItemLoot,181,传闻秘宝掉落刷新事件 itemId:{0},[LootItem]"
+- raw: "SweetPotato.ChuanWenMgr,OnMiBaoItemLoot,188,传闻秘宝掉落刷新事件 itemId:{0},[LootItem]"
   splits:
   - split: 3
     text: "传闻秘宝掉落刷新事件 itemId:{0}"
-- raw: "SweetPotato.ChuanWenMgr,OnMiBaoItemBeNpcDuoQu,290,传闻秘宝npc夺取事件 itemId:{0} 夺取npcId:{1} 被夺取npcId:{2},[SweetPotato.NpcEntity，SweetPotato.NpcEntity，SweetPotato.Item]"
+- raw: "SweetPotato.ChuanWenMgr,OnMiBaoItemBeNpcDuoQu,297,传闻秘宝npc夺取事件 itemId:{0} 夺取npcId:{1} 被夺取npcId:{2},[SweetPotato.NpcEntity，SweetPotato.NpcEntity，SweetPotato.Item]"
   splits:
   - split: 3
     text: "传闻秘宝npc夺取事件 itemId:{0} 夺取npcId:{1} 被夺取npcId:{2}"
@@ -16510,51 +16554,43 @@
   splits:
   - split: 3
     text: "等待文件压缩"
-- raw: "SweetPotato.FileView/<UploadFiles>d__89,MoveNext,1025,读取存档失败,[]"
+- raw: "SweetPotato.FileView/<UploadFiles>d__89,MoveNext,1032,读取存档失败,[]"
   splits:
   - split: 3
     text: "读取存档失败"
-- raw: "SweetPotato.FileView/<UploadFiles>d__89,MoveNext,1526,文件上传中,[]"
+- raw: "SweetPotato.FileView/<UploadFiles>d__89,MoveNext,1533,文件上传中,[]"
   splits:
   - split: 3
     text: "文件上传中"
-- raw: "SweetPotato.FileView/<UploadFiles>d__89,MoveNext,1604,上传失败,[]"
-  splits:
-  - split: 3
-    text: "上传失败"
-- raw: "SweetPotato.FileView/<UploadFiles>d__89,MoveNext,1724,上传成功,[]"
+- raw: "SweetPotato.FileView/<UploadFiles>d__89,MoveNext,1748,上传成功,[]"
   splits:
   - split: 3
     text: "上传成功"
-- raw: "SweetPotato.FileView/<UploadFiles>d__89,MoveNext,1893,登录失效,[]"
+- raw: "SweetPotato.FileView/<UploadFiles>d__89,MoveNext,1917,登录失效,[]"
   splits:
   - split: 3
     text: "登录失效"
-- raw: "SweetPotato.FileView/<UploadFiles>d__89,MoveNext,1932,确定,[]"
+- raw: "SweetPotato.FileView/<UploadFiles>d__89,MoveNext,1956,确定,[]"
   splits:
   - split: 3
     text: "确定"
-- raw: "SweetPotato.FileView/<UploadFiles>d__89,MoveNext,1937,取消,[]"
+- raw: "SweetPotato.FileView/<UploadFiles>d__89,MoveNext,1961,取消,[]"
   splits:
   - split: 3
     text: "取消"
-- raw: "SweetPotato.FileView/<DownloadFiles>d__91,MoveNext,475,下载失败,[]"
-  splits:
-  - split: 3
-    text: "下载失败"
-- raw: "SweetPotato.FileView/<DownloadFiles>d__91,MoveNext,590,下载成功,[]"
+- raw: "SweetPotato.FileView/<DownloadFiles>d__91,MoveNext,614,下载成功,[]"
   splits:
   - split: 3
     text: "下载成功"
-- raw: "SweetPotato.FileView/<DownloadFiles>d__91,MoveNext,857,登录失效,[]"
+- raw: "SweetPotato.FileView/<DownloadFiles>d__91,MoveNext,881,登录失效,[]"
   splits:
   - split: 3
     text: "登录失效"
-- raw: "SweetPotato.FileView/<DownloadFiles>d__91,MoveNext,896,确定,[]"
+- raw: "SweetPotato.FileView/<DownloadFiles>d__91,MoveNext,920,确定,[]"
   splits:
   - split: 3
     text: "确定"
-- raw: "SweetPotato.FileView/<DownloadFiles>d__91,MoveNext,901,取消,[]"
+- raw: "SweetPotato.FileView/<DownloadFiles>d__91,MoveNext,925,取消,[]"
   splits:
   - split: 3
     text: "取消"
@@ -16722,15 +16758,15 @@
   splits:
   - split: 3
     text: "回帖失败:"
-- raw: "SweetPotato.ForumView/<SendAddReply>d__43,MoveNext,224,回帖成功,[]"
+- raw: "SweetPotato.ForumView/<SendAddReply>d__43,MoveNext,241,回帖成功,[]"
   splits:
   - split: 3
     text: "回帖成功"
-- raw: "SweetPotato.ForumView/<SendAddReply>d__43,MoveNext,260,大侠操作过于频繁，请三分钟后再回帖,[]"
+- raw: "SweetPotato.ForumView/<SendAddReply>d__43,MoveNext,277,大侠操作过于频繁，请三分钟后再回帖,[]"
   splits:
   - split: 3
     text: "大侠操作过于频繁，请三分钟后再回帖"
-- raw: "SweetPotato.ForumView/<SendAddReply>d__43,MoveNext,279,回帖错误 errcode:,[]"
+- raw: "SweetPotato.ForumView/<SendAddReply>d__43,MoveNext,296,回帖错误 errcode:,[]"
   splits:
   - split: 3
     text: "回帖错误 errcode:"
@@ -16738,15 +16774,15 @@
   splits:
   - split: 3
     text: "发帖失败:"
-- raw: "SweetPotato.ForumView/<SendAddTalk>d__45,MoveNext,224,发帖成功,[]"
+- raw: "SweetPotato.ForumView/<SendAddTalk>d__45,MoveNext,241,发帖成功,[]"
   splits:
   - split: 3
     text: "发帖成功"
-- raw: "SweetPotato.ForumView/<SendAddTalk>d__45,MoveNext,260,大侠操作过于频繁，请十分钟后再发帖,[]"
+- raw: "SweetPotato.ForumView/<SendAddTalk>d__45,MoveNext,277,大侠操作过于频繁，请十分钟后再发帖,[]"
   splits:
   - split: 3
     text: "大侠操作过于频繁，请十分钟后再发帖"
-- raw: "SweetPotato.ForumView/<SendAddTalk>d__45,MoveNext,279,发帖错误 errcode:,[]"
+- raw: "SweetPotato.ForumView/<SendAddTalk>d__45,MoveNext,296,发帖错误 errcode:,[]"
   splits:
   - split: 3
     text: "发帖错误 errcode:"
@@ -16834,15 +16870,15 @@
   splits:
   - split: 3
     text: "身份："
-- raw: "SweetPotato.InstantiateShengFenPanel,Refresh,172,先天天赋为空 PlayerPrototype id:{0},[]"
+- raw: "SweetPotato.InstantiateShengFenPanel,Refresh,179,先天天赋为空 PlayerPrototype id:{0},[]"
   splits:
   - split: 3
     text: "先天天赋为空 PlayerPrototype id:{0}"
-- raw: "SweetPotato.InstantiateShengFenPanel,Refresh,224,当前已选择后天天赋,[]"
+- raw: "SweetPotato.InstantiateShengFenPanel,Refresh,231,当前已选择后天天赋,[]"
   splits:
   - split: 3
     text: "当前已选择后天天赋"
-- raw: "SweetPotato.InstantiateShengFenPanel,Refresh,386,请从以下3种天赋中选择1种后天天赋,[]"
+- raw: "SweetPotato.InstantiateShengFenPanel,Refresh,393,请从以下3种天赋中选择1种后天天赋,[]"
   splits:
   - split: 3
     text: "请从以下3种天赋中选择1种后天天赋"
@@ -16934,51 +16970,51 @@
   splits:
   - split: 3
     text: "其余武器套路请在进入游戏后自行更换"
-- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,357,请输入名字,[]"
+- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,377,请输入名字,[]"
   splits:
   - split: 3
     text: "请输入名字"
-- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,364,确定,[]"
+- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,384,确定,[]"
   splits:
   - split: 3
     text: "确定"
-- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,369,取消,[]"
+- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,389,取消,[]"
   splits:
   - split: 3
     text: "取消"
-- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,506,请选择天赋,[]"
+- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,536,请选择天赋,[]"
   splits:
   - split: 3
     text: "请选择天赋"
-- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,513,确定,[]"
+- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,543,确定,[]"
   splits:
   - split: 3
     text: "确定"
-- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,518,取消,[]"
+- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,548,取消,[]"
   splits:
   - split: 3
     text: "取消"
-- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,575,使用属性点数调整战斗倾向属性。,[]"
+- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,605,使用属性点数调整战斗倾向属性。,[]"
   splits:
   - split: 3
     text: "使用属性点数调整战斗倾向属性。"
-- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,582,确定,[]"
+- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,612,确定,[]"
   splits:
   - split: 3
     text: "确定"
-- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,587,取消,[]"
+- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,617,取消,[]"
   splits:
   - split: 3
     text: "取消"
-- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,737,天赋点数不足,[]"
+- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,767,天赋点数不足,[]"
   splits:
   - split: 3
     text: "天赋点数不足"
-- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,744,确定,[]"
+- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,774,确定,[]"
   splits:
   - split: 3
     text: "确定"
-- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,749,取消,[]"
+- raw: "SweetPotato.InstantiateViewNewNew,OnBuShuChange,779,取消,[]"
   splits:
   - split: 3
     text: "取消"
@@ -17070,7 +17106,7 @@
   splits:
   - split: 3
     text: "[属性点-"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnConfirm,595,添加物品: ,[System.Int32，ItemEquip/EQUIP_SUBTYPE，System.Collections.Generic.List`1<SweetPotato.InsViewNewNewTianFuItem>，SweetPotato.AttriManager，System.String]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnConfirm,637,添加物品: ,[System.Int32，ItemEquip/EQUIP_SUBTYPE，System.Collections.Generic.List`1<SweetPotato.InsViewNewNewTianFuItem>，SweetPotato.AttriManager，System.String]"
   splits:
   - split: 3
     text: "添加物品: "
@@ -17290,7 +17326,7 @@
   splits:
   - split: 3
     text: "成功率：{0:F}{1}"
-- raw: "SweetPotato.LoginViewNew,Awake,891,当前版本:,[]"
+- raw: "SweetPotato.LoginViewNew,Awake,1131,当前版本:,[]"
   splits:
   - split: 3
     text: "当前版本:"
@@ -18146,31 +18182,43 @@
   splits:
   - split: 3
     text: "取消"
-- raw: "SweetPotato.ShangChengViewNew,RefreshShiZhuangSelectItem,549,穿戴,[]"
+- raw: "SweetPotato.ShangChengViewNew,RefreshShiZhuangSelectItem,266,无,[]"
+  splits:
+  - split: 3
+    text: "无"
+- raw: "SweetPotato.ShangChengViewNew,RefreshShiZhuangSelectItem,647,穿戴,[]"
   splits:
   - split: 3
     text: "穿戴"
-- raw: "SweetPotato.ShangChengViewNew,RefreshShiZhuangSelectItem,556,脱下,[]"
+- raw: "SweetPotato.ShangChengViewNew,RefreshShiZhuangSelectItem,654,脱下,[]"
   splits:
   - split: 3
     text: "脱下"
-- raw: "SweetPotato.ShangChengViewNew,RefreshZuoQiSelectItem,253,米/秒,[]"
+- raw: "SweetPotato.ShangChengViewNew,RefreshZuoQiSelectItem,244,无,[]"
+  splits:
+  - split: 3
+    text: "无"
+- raw: "SweetPotato.ShangChengViewNew,RefreshZuoQiSelectItem,351,米/秒,[]"
   splits:
   - split: 3
     text: "米/秒"
-- raw: "SweetPotato.ShangChengViewNew,RefreshZuoQiSelectItem,374,启用,[]"
+- raw: "SweetPotato.ShangChengViewNew,RefreshZuoQiSelectItem,472,启用,[]"
   splits:
   - split: 3
     text: "启用"
-- raw: "SweetPotato.ShangChengViewNew,RefreshZuoQiSelectItem,381,卸下,[]"
+- raw: "SweetPotato.ShangChengViewNew,RefreshZuoQiSelectItem,479,卸下,[]"
   splits:
   - split: 3
     text: "卸下"
-- raw: "SweetPotato.ShangChengViewNew,RefreshChengHaoSelectItem,305,启用,[]"
+- raw: "SweetPotato.ShangChengViewNew,RefreshChengHaoSelectItem,224,无,[]"
+  splits:
+  - split: 3
+    text: "无"
+- raw: "SweetPotato.ShangChengViewNew,RefreshChengHaoSelectItem,402,启用,[]"
   splits:
   - split: 3
     text: "启用"
-- raw: "SweetPotato.ShangChengViewNew,RefreshChengHaoSelectItem,312,卸下,[]"
+- raw: "SweetPotato.ShangChengViewNew,RefreshChengHaoSelectItem,409,卸下,[]"
   splits:
   - split: 3
     text: "卸下"
@@ -18282,27 +18330,27 @@
   splits:
   - split: 3
     text: "需修炼到指定熟练度！"
-- raw: "SweetPotato.SpellEditView,CheckCondition,401,额外技能未全部学会！,[System.Boolean]"
+- raw: "SweetPotato.SpellEditView,CheckCondition,408,额外技能未全部学会！,[System.Boolean]"
   splits:
   - split: 3
     text: "额外技能未全部学会！"
-- raw: "SweetPotato.SpellEditView,CheckCondition,554,需修炼到指定熟练度！,[System.Boolean]"
+- raw: "SweetPotato.SpellEditView,CheckCondition,561,需修炼到指定熟练度！,[System.Boolean]"
   splits:
   - split: 3
     text: "需修炼到指定熟练度！"
-- raw: "SweetPotato.SpellEditView,CheckCondition,598,miji_graph未正确配置id={0}的技能节点,[System.Boolean]"
+- raw: "SweetPotato.SpellEditView,CheckCondition,612,miji_graph未正确配置id={0}的技能节点,[System.Boolean]"
   splits:
   - split: 3
     text: "miji_graph未正确配置id={0}的技能节点"
-- raw: "SweetPotato.SpellEditView,CheckCondition,731,需要天赋\",[System.Boolean]"
+- raw: "SweetPotato.SpellEditView,CheckCondition,745,需要天赋\",[System.Boolean]"
   splits:
   - split: 3
     text: "需要天赋"
-- raw: "SweetPotato.SpellEditView,CheckCondition,743,\"才能参悟,[System.Boolean]"
+- raw: "SweetPotato.SpellEditView,CheckCondition,757,\"才能参悟,[System.Boolean]"
   splits:
   - split: 3
     text: "才能参悟"
-- raw: "SweetPotato.SpellEditView,CheckCondition,759,特殊条件未满足，还不能参悟当前武学,[System.Boolean]"
+- raw: "SweetPotato.SpellEditView,CheckCondition,773,特殊条件未满足，还不能参悟当前武学,[System.Boolean]"
   splits:
   - split: 3
     text: "特殊条件未满足，还不能参悟当前武学"
@@ -18450,19 +18498,19 @@
   splits:
   - split: 3
     text: "感悟："
-- raw: "SweetPotato.LearnViewNew,OnClickForMobile,159,人物装备,[System.Int32]"
+- raw: "SweetPotato.LearnViewNew,OnClickForMobile,154,人物装备,[System.Int32]"
   splits:
   - split: 3
     text: "人物装备"
-- raw: "SweetPotato.LearnViewNew,OnClickForMobile,210,武学功法,[System.Int32]"
+- raw: "SweetPotato.LearnViewNew,OnClickForMobile,275,武学功法,[System.Int32]"
   splits:
   - split: 3
     text: "武学功法"
-- raw: "SweetPotato.LearnViewNew,OnClickForMobile,286,成长属性,[System.Int32]"
+- raw: "SweetPotato.LearnViewNew,OnClickForMobile,367,成长属性,[System.Int32]"
   splits:
   - split: 3
     text: "成长属性"
-- raw: "SweetPotato.LearnViewNew,OnClickForMobile,335,快捷物品,[System.Int32]"
+- raw: "SweetPotato.LearnViewNew,OnClickForMobile,416,快捷物品,[System.Int32]"
   splits:
   - split: 3
     text: "快捷物品"
@@ -18514,31 +18562,47 @@
   splits:
   - split: 3
     text: "材料不足！"
-- raw: "SweetPotato.LootMgr,LootItemsByModel,51,lootGroupId:{0} 满足福源掉落条件,[System.Int64，UnityEngine.Vector3，System.Int64，System.Int64，System.Int64]"
+- raw: "SweetPotato.LootMgr,LootItemsByModel,58,lootGroupId:{0} 满足福源掉落条件,[System.Int64，UnityEngine.Vector3，System.Int64，System.Int64，System.Int64]"
   splits:
   - split: 3
     text: "lootGroupId:{0} 满足福源掉落条件"
-- raw: "SweetPotato.LootMgr,LootItemsByModel,76,lootGroupId:{0} 开始进行福源掉落,[System.Int64，UnityEngine.Vector3，System.Int64，System.Int64，System.Int64]"
+- raw: "SweetPotato.LootMgr,LootItemsByModel,90,lootGroupId:{0} 开始进行福源掉落,[System.Int64，UnityEngine.Vector3，System.Int64，System.Int64，System.Int64]"
   splits:
   - split: 3
     text: "lootGroupId:{0} 开始进行福源掉落"
-- raw: "SweetPotato.LootMgr,LootItemsByModel,113,lootGroupId:{0} 福源掉落结束,[System.Int64，UnityEngine.Vector3，System.Int64，System.Int64，System.Int64]"
+- raw: "SweetPotato.LootMgr,LootItemsByModel,134,lootGroupId:{0} 福源掉落结束,[System.Int64，UnityEngine.Vector3，System.Int64，System.Int64，System.Int64]"
   splits:
   - split: 3
     text: "lootGroupId:{0} 福源掉落结束"
+- raw: "SweetPotato.FuBen,LogCreateAndRemove,15,[副本]创建NPC总数:,[]"
+  splits:
+  - split: 3
+    text: "[副本]创建NPC总数:"
+- raw: "SweetPotato.FuBen,LogCreateAndRemove,36,  删除NPC总数:,[]"
+  splits:
+  - split: 3
+    text: "  删除NPC总数:"
+- raw: "SweetPotato.FuBen,LogCreateAndRemove,57,  差值:,[]"
+  splits:
+  - split: 3
+    text: "  差值:"
+- raw: "SweetPotato.FuBen,LogCreateAndRemove,87, 时间:,[]"
+  splits:
+  - split: 3
+    text: " 时间:"
 - raw: "SweetPotato.FuBenManager,Save,1,啊波吃的饿佛哥,[SweetPotato.JsonWriterWrap]"
   splits:
   - split: 3
     text: "啊波吃的饿佛哥"
-- raw: "SweetPotato.HuaShanLunJianManager/<SendWebRwquest>d__19,MoveNext,301,网络错误！,[]"
+- raw: "SweetPotato.HuaShanLunJianManager/<SendWebRwquest>d__19,MoveNext,315,网络错误！,[]"
   splits:
   - split: 3
     text: "网络错误！"
-- raw: "SweetPotato.HuaShanLunJianManager/<SendWebRwquest>d__19,MoveNext,341,验证未通过,[]"
+- raw: "SweetPotato.HuaShanLunJianManager/<SendWebRwquest>d__19,MoveNext,355,验证未通过,[]"
   splits:
   - split: 3
     text: "验证未通过"
-- raw: "SweetPotato.HuaShanLunJianManager/<SendWebRwquest>d__19,MoveNext,369,缺少参数,[]"
+- raw: "SweetPotato.HuaShanLunJianManager/<SendWebRwquest>d__19,MoveNext,383,缺少参数,[]"
   splits:
   - split: 3
     text: "缺少参数"
@@ -18582,7 +18646,7 @@
   splits:
   - split: 3
     text: "天下第一"
-- raw: "SweetPotato.MenPaiEntity,NpcGetCurMonthGongZi,502,门派id:{} shenfenLevel:{}，没有配置 MenPaiGongZiPrototype,[System.Int64，System.Int64]"
+- raw: "SweetPotato.MenPaiEntity,NpcGetCurMonthGongZi,509,门派id:{} shenfenLevel:{}，没有配置 MenPaiGongZiPrototype,[System.Int64，System.Int64]"
   splits:
   - split: 3
     text: "门派id:{} shenfenLevel:{}，没有配置 MenPaiGongZiPrototype"
@@ -18618,31 +18682,31 @@
   splits:
   - split: 3
     text: "]俸禄任务完成"
-- raw: "SweetPotato.MenPaiEntity,Load,1652,移除了门人，id:{0} 原因:为主角队友,[LitJson.JsonData]"
+- raw: "SweetPotato.MenPaiEntity,Load,1789,移除了门人，id:{0} 原因:为主角队友,[LitJson.JsonData]"
   splits:
   - split: 3
     text: "移除了门人，id:{0} 原因:为主角队友"
-- raw: "SweetPotato.MenPaiManager,NpcJoinMenPai,41,门派不存在，门派ID:{0},[System.Int64，System.Int64，System.Int32]"
+- raw: "SweetPotato.MenPaiManager,NpcJoinMenPai,48,门派不存在，门派ID:{0},[System.Int64，System.Int64，System.Int32]"
   splits:
   - split: 3
     text: "门派不存在，门派ID:{0}"
-- raw: "SweetPotato.MenPaiManager,NpcJoinMenPai,184,你加入了,[System.Int64，System.Int64，System.Int32]"
+- raw: "SweetPotato.MenPaiManager,NpcJoinMenPai,191,你加入了,[System.Int64，System.Int64，System.Int32]"
   splits:
   - split: 3
     text: "你加入了"
-- raw: "SweetPotato.MenPaiManager,NpcJoinMenPai,215,你加入了,[System.Int64，System.Int64，System.Int32]"
+- raw: "SweetPotato.MenPaiManager,NpcJoinMenPai,222,你加入了,[System.Int64，System.Int64，System.Int32]"
   splits:
   - split: 3
     text: "你加入了"
-- raw: "SweetPotato.MenPaiManager,NpcLeaveMenPai,58,门派不存在，门派ID:{},[System.Int64，System.Int32]"
+- raw: "SweetPotato.MenPaiManager,NpcLeaveMenPai,65,门派不存在，门派ID:{},[System.Int64，System.Int32]"
   splits:
   - split: 3
     text: "门派不存在，门派ID:{}"
-- raw: "SweetPotato.MenPaiManager,NpcLeaveMenPai,232,你离开了,[System.Int64，System.Int32]"
+- raw: "SweetPotato.MenPaiManager,NpcLeaveMenPai,239,你离开了,[System.Int64，System.Int32]"
   splits:
   - split: 3
     text: "你离开了"
-- raw: "SweetPotato.MenPaiManager,NpcLeaveMenPai,263,你离开了,[System.Int64，System.Int32]"
+- raw: "SweetPotato.MenPaiManager,NpcLeaveMenPai,270,你离开了,[System.Int64，System.Int32]"
   splits:
   - split: 3
     text: "你离开了"
@@ -18690,15 +18754,15 @@
   splits:
   - split: 3
     text: "请先登录"
-- raw: "SweetPotato.WorldManager/<CheckJingYuZhuRefreshEnum>d__187,MoveNext,1197,城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。,[]"
+- raw: "SweetPotato.WorldManager/<CheckJingYuZhuRefreshEnum>d__188,MoveNext,1211,城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。,[]"
   splits:
   - split: 3
     text: "城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。"
-- raw: "SweetPotato.WorldManager/<RefreshJingYuZhuInfosEnum>d__190,MoveNext,732,有新的持有京瑜珠NPC npcId:{0},[]"
+- raw: "SweetPotato.WorldManager/<RefreshJingYuZhuInfosEnum>d__191,MoveNext,742,有新的持有京瑜珠NPC npcId:{0},[]"
   splits:
   - split: 3
     text: "有新的持有京瑜珠NPC npcId:{0}"
-- raw: "SweetPotato.WorldManager/<RefreshJingYuZhuInfosEnum>d__190,MoveNext,911,城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。,[]"
+- raw: "SweetPotato.WorldManager/<RefreshJingYuZhuInfosEnum>d__191,MoveNext,928,城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。,[]"
   splits:
   - split: 3
     text: "城主已将京谕珠散落至天下各处，我奉城主之命将京谕珠的位置告知诸位侠士。但京谕珠究竟花落谁手，便凭诸位本事了。"
@@ -18722,6 +18786,54 @@
   splits:
   - split: 3
     text: "场景中未找到名字叫{0}的物体"
+- raw: "SweetPotato.WorldManager,LogNpc,238,场景中NPC数量统计：类型{0} 数量{1},[]"
+  splits:
+  - split: 3
+    text: "场景中NPC数量统计：类型{0} 数量{1}"
+- raw: "SweetPotato.WorldManager,LogNpc,326,场景中随机NPC数量统计：数量{0},[]"
+  splits:
+  - split: 3
+    text: "场景中随机NPC数量统计：数量{0}"
+- raw: "SweetPotato.WorldManager,LogNpc,358,场景中已初始化NPC数量统计：数量{0},[]"
+  splits:
+  - split: 3
+    text: "场景中已初始化NPC数量统计：数量{0}"
+- raw: "SweetPotato.MemoryMeasurementUtility,FormatMemorySize,84,{0} 字节,[System.Int64]"
+  splits:
+  - split: 3
+    text: "{0} 字节"
+- raw: "SweetPotato.MemoryMeasurementUtility,GenerateReport,8, 内存使用详细报告:,[SweetPotato.MMemoryUsageInfo，System.String]"
+  splits:
+  - split: 3
+    text: " 内存使用详细报告:"
+- raw: "SweetPotato.MemoryMeasurementUtility,GenerateReport,71,[排除],[SweetPotato.MMemoryUsageInfo，System.String]"
+  splits:
+  - split: 3
+    text: "[排除]"
+- raw: "SweetPotato.MemoryMeasurementUtility,GenerateReport,78,[包含],[SweetPotato.MMemoryUsageInfo，System.String]"
+  splits:
+  - split: 3
+    text: "[包含]"
+- raw: "SweetPotato.MemoryMeasurementUtility,GenerateReport,260,包含字段数量: {0},[SweetPotato.MMemoryUsageInfo，System.String]"
+  splits:
+  - split: 3
+    text: "包含字段数量: {0}"
+- raw: "SweetPotato.MemoryMeasurementUtility,GenerateReport,289,排除字段数量: {0},[SweetPotato.MMemoryUsageInfo，System.String]"
+  splits:
+  - split: 3
+    text: "排除字段数量: {0}"
+- raw: "SweetPotato.MemoryMeasurementUtility,GenerateReport,318,包含字段总内存: ,[SweetPotato.MMemoryUsageInfo，System.String]"
+  splits:
+  - split: 3
+    text: "包含字段总内存: "
+- raw: "SweetPotato.MemoryMeasurementUtility,GenerateReport,347,排除字段总内存: ,[SweetPotato.MMemoryUsageInfo，System.String]"
+  splits:
+  - split: 3
+    text: "排除字段总内存: "
+- raw: "SweetPotato.MemoryMeasurementUtility,GenerateReport,376,全部字段总内存: ,[SweetPotato.MMemoryUsageInfo，System.String]"
+  splits:
+  - split: 3
+    text: "全部字段总内存: "
 - raw: "SweetPotato.AttriManager,CheckUpPingJing,159,已突破瓶颈,[SweetPotato.AttriType，System.Int32]"
   splits:
   - split: 3
@@ -18738,7 +18850,7 @@
   splits:
   - split: 3
     text: "<color=#e25757>扣除</color>"
-- raw: "SweetPotato.AttriManager,SetXiuWeiByJingjie,24,随机Npc，guid:{0}属性配置错误，导致初始修为在设置之前就不为0,[]"
+- raw: "SweetPotato.AttriManager,SetXiuWeiByJingjie,31,随机Npc，guid:{0}属性配置错误，导致初始修为在设置之前就不为0,[]"
   splits:
   - split: 3
     text: "随机Npc，guid:{0}属性配置错误，导致初始修为在设置之前就不为0"
@@ -19238,15 +19350,15 @@
   splits:
   - split: 3
     text: "境界提升时使用"
-- raw: "SweetPotato.ItemStorage,CheckCanCreateAndAddByItemId,10,ItemPrototype表中没有物品id:{0},[System.Int64，System.Int32]"
+- raw: "SweetPotato.ItemStorage,CheckCanCreateAndAddByItemId,17,ItemPrototype表中没有物品id:{0},[System.Int64，System.Int32]"
   splits:
   - split: 3
     text: "ItemPrototype表中没有物品id:{0}"
-- raw: "SweetPotato.ItemStorage,CreateAndAddByItemId,974,未卜·,[System.Int64，System.Int32，System.Boolean，System.Int32，System.Int32]"
+- raw: "SweetPotato.ItemStorage,CreateAndAddByItemId,981,未卜·,[System.Int64，System.Int32，System.Boolean，System.Int32，System.Int32]"
   splits:
   - split: 3
     text: "未卜·"
-- raw: "SweetPotato.ItemStorage,CreateAndAddByItemId,1030,<color=#2EDFA3>获得</color>,[System.Int64，System.Int32，System.Boolean，System.Int32，System.Int32]"
+- raw: "SweetPotato.ItemStorage,CreateAndAddByItemId,1037,<color=#2EDFA3>获得</color>,[System.Int64，System.Int32，System.Boolean，System.Int32，System.Int32]"
   splits:
   - split: 3
     text: "<color=#2EDFA3>获得</color>"
@@ -19454,7 +19566,11 @@
   splits:
   - split: 3
     text: "奇遇："
-- raw: "SweetPotato.QuestLog,GetJieMiConditionType,40,不支持的jiemi condition type {0} 请联系程序,[System.Int32]"
+- raw: "SweetPotato.QuestLog,OnFinish,506,解密：,[]"
+  splits:
+  - split: 3
+    text: "解密："
+- raw: "SweetPotato.QuestLog,GetJieMiConditionType,47,不支持的jiemi condition type {0} 请联系程序,[System.Int32]"
   splits:
   - split: 3
     text: "不支持的jiemi condition type {0} 请联系程序"
@@ -19486,11 +19602,11 @@
   splits:
   - split: 3
     text: "<color=#ffffff>善恶值改变:</color> ×{0}"
-- raw: "SweetPotato.Spell,PlayCastAnim,627,配置错误，id:,[]"
+- raw: "SweetPotato.Spell,PlayCastAnim,634,配置错误，id:,[]"
   splits:
   - split: 3
     text: "配置错误，id:"
-- raw: "SweetPotato.Spell,PlayCastAnim,686,配置错误动画未找到，id:,[]"
+- raw: "SweetPotato.Spell,PlayCastAnim,700,配置错误动画未找到，id:,[]"
   splits:
   - split: 3
     text: "配置错误动画未找到，id:"
@@ -19498,43 +19614,43 @@
   splits:
   - split: 3
     text: "免疫"
-- raw: "SweetPotato.Spell,do_effect,1171,免疫,[System.Int32]"
+- raw: "SweetPotato.Spell,do_effect,1178,免疫,[System.Int32]"
   splits:
   - split: 3
     text: "免疫"
-- raw: "SweetPotato.Spell,EffectExplodeMarker,163,有效范围内没有指定指示物,[SweetPotato.SpellEffect，System.Int32，SweetPotato.UnitController，SweetPotato.UnitController]"
+- raw: "SweetPotato.Spell,EffectExplodeMarker,163,有效范围内没有指定指示物,[SweetPotato.Spell，SweetPotato.SpellEffect，System.Int32，SweetPotato.UnitController，SweetPotato.UnitController]"
   splits:
   - split: 3
     text: "有效范围内没有指定指示物"
-- raw: "SweetPotato.Spell,EffectConsumeBuffCastEffect,53,{0} 层数不足,[SweetPotato.SpellEffect，System.Int32，SweetPotato.UnitController，SweetPotato.UnitController]"
+- raw: "SweetPotato.Spell,EffectConsumeBuffCastEffect,53,{0} 层数不足,[SweetPotato.Spell，SweetPotato.SpellEffect，System.Int32，SweetPotato.UnitController，SweetPotato.UnitController]"
   splits:
   - split: 3
     text: "{0} 层数不足"
-- raw: "SweetPotato.WordEntryGlobalManager,CreateOneWrodEntryTypeByRandomGroupId,18,WordEntryRandom gourpId {0} is 空,[System.Int32]"
+- raw: "SweetPotato.WordEntryGlobalManager,CreateOneWrodEntryTypeByRandomGroupId,25,WordEntryRandom gourpId {0} is 空,[System.Int32]"
   splits:
   - split: 3
     text: "WordEntryRandom gourpId {0} is 空"
-- raw: "SweetPotato.WordEntryGlobalManager,CreateOneWrodEntryTypeByRandomGroupId,87,WordEntryRandomType gourpId {0} is 空,[System.Int32]"
+- raw: "SweetPotato.WordEntryGlobalManager,CreateOneWrodEntryTypeByRandomGroupId,101,WordEntryRandomType gourpId {0} is 空,[System.Int32]"
   splits:
   - split: 3
     text: "WordEntryRandomType gourpId {0} is 空"
-- raw: "SweetPotato.WordEntryGlobalManager,CreateOneWrodEntryTypeByRandomGroupId,181,SpellPrototype id {0} is 空,[System.Int32]"
+- raw: "SweetPotato.WordEntryGlobalManager,CreateOneWrodEntryTypeByRandomGroupId,202,SpellPrototype id {0} is 空,[System.Int32]"
   splits:
   - split: 3
     text: "SpellPrototype id {0} is 空"
-- raw: "SweetPotato.WordEntryGlobalManager,CreateOneWrodEntryTypeByRandomGroupId,231,SpellEffect id {0} is 空,[System.Int32]"
+- raw: "SweetPotato.WordEntryGlobalManager,CreateOneWrodEntryTypeByRandomGroupId,259,SpellEffect id {0} is 空,[System.Int32]"
   splits:
   - split: 3
     text: "SpellEffect id {0} is 空"
-- raw: "SweetPotato.WordEntryGlobalManager,Load,501,随机词条id:{0} 的对应技能id:{1} 不存在 请检查,[LitJson.JsonData]"
+- raw: "SweetPotato.WordEntryGlobalManager,Load,508,随机词条id:{0} 的对应技能id:{1} 不存在 请检查,[LitJson.JsonData]"
   splits:
   - split: 3
     text: "随机词条id:{0} 的对应技能id:{1} 不存在 请检查"
-- raw: "SweetPotato.WordEntryGlobalManager,Load,576,随机词条id:{0} 的对应技能effect id:{1} 不存在 请检查,[LitJson.JsonData]"
+- raw: "SweetPotato.WordEntryGlobalManager,Load,593,随机词条id:{0} 的对应技能effect id:{1} 不存在 请检查,[LitJson.JsonData]"
   splits:
   - split: 3
     text: "随机词条id:{0} 的对应技能effect id:{1} 不存在 请检查"
-- raw: "SweetPotato.WordEntryGlobalManager,Load,629,随机词条id:{0} 对应 WordEntryType id:{1} 不存在 请检查,[LitJson.JsonData]"
+- raw: "SweetPotato.WordEntryGlobalManager,Load,653,随机词条id:{0} 对应 WordEntryType id:{1} 不存在 请检查,[LitJson.JsonData]"
   splits:
   - split: 3
     text: "随机词条id:{0} 对应 WordEntryType id:{1} 不存在 请检查"
@@ -19542,19 +19658,19 @@
   splits:
   - split: 3
     text: "word_entry未配置id为{0}的数据"
-- raw: "SweetPotato.WordEntryLooter,GetWordDes,445,stringformat {0} 错误,[System.Int64，System.Int32，System.Boolean]"
+- raw: "SweetPotato.WordEntryLooter,GetWordDes,452,stringformat {0} 错误,[System.Int64，System.Int32，System.Boolean]"
   splits:
   - split: 3
     text: "stringformat {0} 错误"
-- raw: "SweetPotato.WordEntryLooter,GetWordDes,476,WordEntry ID: {0} 不存在,[System.Int64，System.Int32，System.Boolean]"
+- raw: "SweetPotato.WordEntryLooter,GetWordDes,490,WordEntry ID: {0} 不存在,[System.Int64，System.Int32，System.Boolean]"
   splits:
   - split: 3
     text: "WordEntry ID: {0} 不存在"
-- raw: "SweetPotato.WordEntryLooter,GetWordDesNew,465,stringformat {0} 错误,[System.Int64，System.Int32，System.Boolean]"
+- raw: "SweetPotato.WordEntryLooter,GetWordDesNew,472,stringformat {0} 错误,[System.Int64，System.Int32，System.Boolean]"
   splits:
   - split: 3
     text: "stringformat {0} 错误"
-- raw: "SweetPotato.WordEntryLooter,GetWordDesNew,496,WordEntry ID: {0} 不存在,[System.Int64，System.Int32，System.Boolean]"
+- raw: "SweetPotato.WordEntryLooter,GetWordDesNew,510,WordEntry ID: {0} 不存在,[System.Int64，System.Int32，System.Boolean]"
   splits:
   - split: 3
     text: "WordEntry ID: {0} 不存在"
@@ -19562,15 +19678,15 @@
   splits:
   - split: 3
     text: "学会"
-- raw: "SweetPotato.SpellManager,SetLianZhaoInfo,439,要配置的连招技能与其他连招id:{0}存在重复,[System.Int32，System.Int32，System.Collections.Generic.List`1<System.Int64>]"
+- raw: "SweetPotato.SpellManager,SetLianZhaoInfo,480,要配置的连招技能与其他连招id:{0}存在重复,[System.Int32，System.Int32，System.Collections.Generic.List`1<System.Int64>]"
   splits:
   - split: 3
     text: "要配置的连招技能与其他连招id:{0}存在重复"
-- raw: "SweetPotato.SpellManager,SetLianZhaoInfo,475,要配置的连招技能与其他连招存在重复,[System.Int32，System.Int32，System.Collections.Generic.List`1<System.Int64>]"
+- raw: "SweetPotato.SpellManager,SetLianZhaoInfo,516,要配置的连招技能与其他连招存在重复,[System.Int32，System.Int32，System.Collections.Generic.List`1<System.Int64>]"
   splits:
   - split: 3
     text: "要配置的连招技能与其他连招存在重复"
-- raw: "SweetPotato.SpellManager,EquipSpell,191,要装备的技能id:{0}不存在,[SweetPotato.SpellType，SweetPotato.TAOLU_TYPE，System.Int32，System.Int64，System.Boolean]"
+- raw: "SweetPotato.SpellManager,EquipSpell,198,要装备的技能id:{0}不存在,[SweetPotato.SpellType，SweetPotato.TAOLU_TYPE，System.Int32，System.Int64，System.Boolean]"
   splits:
   - split: 3
     text: "要装备的技能id:{0}不存在"
@@ -19638,11 +19754,11 @@
   splits:
   - split: 3
     text: "没有路径可以连接成线"
-- raw: "SweetPotato.JingMaiEditManager,CreateOrWashWordEntry,64,经脉zhoutianId:{0}画线的词条配置，数量多余1个,[System.Int32]"
+- raw: "SweetPotato.JingMaiEditManager,CreateOrWashWordEntry,71,经脉zhoutianId:{0}画线的词条配置，数量多余1个,[System.Int32]"
   splits:
   - split: 3
     text: "经脉zhoutianId:{0}画线的词条配置，数量多余1个"
-- raw: "SweetPotato.JingMaiEditManager,CreateOrWashWordEntry,104,经脉zhoutianId:{0}画线的词条配置，数量是0个,[System.Int32]"
+- raw: "SweetPotato.JingMaiEditManager,CreateOrWashWordEntry,118,经脉zhoutianId:{0}画线的词条配置，数量是0个,[System.Int32]"
   splits:
   - split: 3
     text: "经脉zhoutianId:{0}画线的词条配置，数量是0个"
@@ -19654,19 +19770,19 @@
   splits:
   - split: 3
     text: "没有路径可以连接成线"
-- raw: "SweetPotato.YunBiao.BiaoTeamManager,CreateTeam,30,{0}创建的队伍类型{1}已经存在，若要创建需要先执行清空操作,[System.Int32]"
+- raw: "SweetPotato.YunBiao.BiaoTeamManager,CreateTeam,37,{0}创建的队伍类型{1}已经存在，若要创建需要先执行清空操作,[System.Int32]"
   splits:
   - split: 3
     text: "{0}创建的队伍类型{1}已经存在，若要创建需要先执行清空操作"
-- raw: "SweetPotato.YunBiao.BiaoTeamManager,CreateTeam,708,{0}中{1}队伍的头领创建失败，队伍创建失败,[System.Int32]"
+- raw: "SweetPotato.YunBiao.BiaoTeamManager,CreateTeam,750,{0}中{1}队伍的头领创建失败，队伍创建失败,[System.Int32]"
   splits:
   - split: 3
     text: "{0}中{1}队伍的头领创建失败，队伍创建失败"
-- raw: "SweetPotato.YunBiao.BiaoTeamManager,CreateTeam,728,劫匪,[System.Int32]"
+- raw: "SweetPotato.YunBiao.BiaoTeamManager,CreateTeam,770,劫匪,[System.Int32]"
   splits:
   - split: 3
     text: "劫匪"
-- raw: "SweetPotato.YunBiao.BiaoTeamManager,CreateTeam,1059,{0}中模板为{1}的劫镖运镖Npc创建失败,[System.Int32]"
+- raw: "SweetPotato.YunBiao.BiaoTeamManager,CreateTeam,1115,{0}中模板为{1}的劫镖运镖Npc创建失败,[System.Int32]"
   splits:
   - split: 3
     text: "{0}中模板为{1}的劫镖运镖Npc创建失败"
@@ -19774,7 +19890,7 @@
   splits:
   - split: 3
     text: "暂无来源"
-- raw: "SweetPotato.Upload.UploadUserAccountPanel/<GetUserAccount>d__15,MoveNext,238,获取账号数据失败：,[]"
+- raw: "SweetPotato.Upload.UploadUserAccountPanel/<GetUserAccount>d__15,MoveNext,245,获取账号数据失败：,[]"
   splits:
   - split: 3
     text: "获取账号数据失败："
@@ -19890,7 +20006,7 @@
   splits:
   - split: 3
     text: "阳跷"
-- raw: "SweetPotato.JingMai.JingMaiEffectCondition,.ctor,107,心法{0}中周天效果{1}的条件{2}配置错误,[System.Int64，System.String]"
+- raw: "SweetPotato.JingMai.JingMaiEffectCondition,.ctor,121,心法{0}中周天效果{1}的条件{2}配置错误,[System.Int64，System.String]"
   splits:
   - split: 3
     text: "心法{0}中周天效果{1}的条件{2}配置错误"
@@ -19910,11 +20026,11 @@
   splits:
   - split: 3
     text: "打通8条经脉"
-- raw: "SweetPotato.JingMai.JingMaiDetailConditionItem,InitItem,192,(未打通),[System.Int32]"
+- raw: "SweetPotato.JingMai.JingMaiDetailConditionItem,InitItem,205,(未打通),[System.Int32]"
   splits:
   - split: 3
     text: "(未打通)"
-- raw: "SweetPotato.JingMai.JingMaiDetailConditionItem,InitItem,199,已打通,[System.Int32]"
+- raw: "SweetPotato.JingMai.JingMaiDetailConditionItem,InitItem,212,已打通,[System.Int32]"
   splits:
   - split: 3
     text: "已打通"
@@ -19934,39 +20050,39 @@
   splits:
   - split: 3
     text: "当前真气值不足"
-- raw: "SweetPotato.GMView.GMView,ShuLiangZhengJia,49,物品ID：{0}添加{1}个成功,[]"
+- raw: "SweetPotato.GMView.GMView,ShuLiangZhengJia,56,物品ID：{0}添加{1}个成功,[]"
   splits:
   - split: 3
     text: "物品ID：{0}添加{1}个成功"
-- raw: "SweetPotato.GMView.GMView,ShuLiangZhengJia,120,物品ID：{0}添加{1}个成功,[]"
+- raw: "SweetPotato.GMView.GMView,ShuLiangZhengJia,134,物品ID：{0}添加{1}个成功,[]"
   splits:
   - split: 3
     text: "物品ID：{0}添加{1}个成功"
-- raw: "SweetPotato.GMView.GMView,WuXiaoHao,49,物品ID：{0}添加{1}个成功,[]"
+- raw: "SweetPotato.GMView.GMView,WuXiaoHao,56,物品ID：{0}添加{1}个成功,[]"
   splits:
   - split: 3
     text: "物品ID：{0}添加{1}个成功"
-- raw: "SweetPotato.GMView.GMView,WuXiaoHao,120,物品ID：{0}添加{1}个成功,[]"
+- raw: "SweetPotato.GMView.GMView,WuXiaoHao,134,物品ID：{0}添加{1}个成功,[]"
   splits:
   - split: 3
     text: "物品ID：{0}添加{1}个成功"
-- raw: "SweetPotato.GMView.GMView,TeShuCiTiao,45,物品ID：{0}添加{1}个成功,[]"
+- raw: "SweetPotato.GMView.GMView,TeShuCiTiao,52,物品ID：{0}添加{1}个成功,[]"
   splits:
   - split: 3
     text: "物品ID：{0}添加{1}个成功"
-- raw: "SweetPotato.GMView.GMView,TeShuCiTiao,124,物品ID：{0}添加{1}个成功,[]"
+- raw: "SweetPotato.GMView.GMView,TeShuCiTiao,138,物品ID：{0}添加{1}个成功,[]"
   splits:
   - split: 3
     text: "物品ID：{0}添加{1}个成功"
-- raw: "SweetPotato.GMView.GMView,ShuZhiFuDong,47,物品ID：{0}添加{1}个成功,[]"
+- raw: "SweetPotato.GMView.GMView,ShuZhiFuDong,54,物品ID：{0}添加{1}个成功,[]"
   splits:
   - split: 3
     text: "物品ID：{0}添加{1}个成功"
-- raw: "SweetPotato.GMView.GMView,ShuZhiFuDong,118,物品ID：{0}添加{1}个成功,[]"
+- raw: "SweetPotato.GMView.GMView,ShuZhiFuDong,132,物品ID：{0}添加{1}个成功,[]"
   splits:
   - split: 3
     text: "物品ID：{0}添加{1}个成功"
-- raw: "SweetPotato.GMView.GMView,ChuanSongZuoBiao,77,传送 ： ,[]"
+- raw: "SweetPotato.GMView.GMView,ChuanSongZuoBiao,84,传送 ： ,[]"
   splits:
   - split: 3
     text: "传送 ： "
@@ -20314,7 +20430,7 @@
   splits:
   - split: 3
     text: "万法森罗"
-- raw: "SweetPotato.laoying.LaoYing,EnterNewHour,123,当前游戏时间 {0}点 老鹰切换100路径,[System.Int32，System.Int32，System.Int32，System.Int32]"
+- raw: "SweetPotato.laoying.LaoYing,EnterNewHour,130,当前游戏时间 {0}点 老鹰切换100路径,[System.Int32，System.Int32，System.Int32，System.Int32]"
   splits:
   - split: 3
     text: "当前游戏时间 {0}点 老鹰切换100路径"
@@ -20346,7 +20462,7 @@
   splits:
   - split: 3
     text: "配方"
-- raw: "ModSpace.NpcAttriDynamic,GetInfo,17,NpcAttriDynamic中id是null:{0},[System.Int64]"
+- raw: "ModSpace.NpcAttriDynamic,GetInfo,24,NpcAttriDynamic中id是null:{0},[System.Int64]"
   splits:
   - split: 3
     text: "NpcAttriDynamic中id是null:{0}"
@@ -20354,7 +20470,7 @@
   splits:
   - split: 3
     text: "角色属性"
-- raw: "ModSpace.SpellPrototype,LoadCSV,880,心法的运功都存在，xinfaSpell填写为0错误，spellPro：{0},[System.Int32，System.String[]]"
+- raw: "ModSpace.SpellPrototype,LoadCSV,887,心法的运功都存在，xinfaSpell填写为0错误，spellPro：{0},[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "心法的运功都存在，xinfaSpell填写为0错误，spellPro：{0}"
@@ -20382,7 +20498,7 @@
   splits:
   - split: 3
     text: "questId:{0}，配置表中没有配置这个任务id"
-- raw: "ModSpace.ConditionProtoData,FormString,518,条件完成需要的物品字符串配置格式错误，ConditionPrototype.Id:{0},[System.String]"
+- raw: "ModSpace.ConditionProtoData,FormString,528,条件完成需要的物品字符串配置格式错误，ConditionPrototype.Id:{0},[System.String]"
   splits:
   - split: 3
     text: "条件完成需要的物品字符串配置格式错误，ConditionPrototype.Id:{0}"
@@ -20390,11 +20506,11 @@
   splits:
   - split: 3
     text: "目标 "
-- raw: "ModSpace.ConditionPrototype,LoadCSV,375,条件完成扣除的物品字符串配置格式错误，ConditionPrototype.Id:{0},[System.Int32，System.String[]]"
+- raw: "ModSpace.ConditionPrototype,LoadCSV,382,条件完成扣除的物品字符串配置格式错误，ConditionPrototype.Id:{0},[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "条件完成扣除的物品字符串配置格式错误，ConditionPrototype.Id:{0}"
-- raw: "ModSpace.ConditionPrototype,LoadCSV,640,条件完成添加的物品字符串配置格式错误，ConditionPrototype.Id:{0},[System.Int32，System.String[]]"
+- raw: "ModSpace.ConditionPrototype,LoadCSV,654,条件完成添加的物品字符串配置格式错误，ConditionPrototype.Id:{0},[System.Int32，System.String[]]"
   splits:
   - split: 3
     text: "条件完成添加的物品字符串配置格式错误，ConditionPrototype.Id:{0}"
@@ -20418,7 +20534,7 @@
   splits:
   - split: 3
     text: "出售"
-- raw: "ModSpace.SpellEffect,GetInfoById,23,SpellEffect中没有配置id:{0}的buff,[System.Int64]"
+- raw: "ModSpace.SpellEffect,GetInfoById,30,SpellEffect中没有配置id:{0}的buff,[System.Int64]"
   splits:
   - split: 3
     text: "SpellEffect中没有配置id:{0}的buff"
@@ -20730,15 +20846,15 @@
   splits:
   - split: 3
     text: "少侠的想法包含忌讳之词，请重新输入"
-- raw: "ModSpace.ModelListView,OnClickCompile,231,未安装对应的环境，是否需要安装？,[]"
+- raw: "ModSpace.ModelListView,OnClickCompile,238,未安装对应的环境，是否需要安装？,[]"
   splits:
   - split: 3
     text: "未安装对应的环境，是否需要安装？"
-- raw: "ModSpace.ModelListView,OnClickCompile,268,确定,[]"
+- raw: "ModSpace.ModelListView,OnClickCompile,275,确定,[]"
   splits:
   - split: 3
     text: "确定"
-- raw: "ModSpace.ModelListView,OnClickCompile,273,取消,[]"
+- raw: "ModSpace.ModelListView,OnClickCompile,280,取消,[]"
   splits:
   - split: 3
     text: "取消"
@@ -20962,7 +21078,7 @@
   splits:
   - split: 3
     text: "\\n描述："
-- raw: "ModSpace.WorksShopManager,OnRailEvent,1088,模组上传成功！,[rail.RAILEventID，rail.EventBase]"
+- raw: "ModSpace.WorksShopManager,OnRailEvent,1108,模组上传成功！,[rail.RAILEventID，rail.EventBase]"
   splits:
   - split: 3
     text: "模组上传成功！"

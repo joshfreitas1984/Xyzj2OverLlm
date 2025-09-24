@@ -16693,14 +16693,14 @@
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
-- raw: "410203#枰栌悬赏#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}深夜夜闯皇宫，意欲行不轨之事，求有志之士将{E}击败。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0##0###0#0#"
+- raw: "410203#枰栌悬赏#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}深夜夜闯皇宫，意欲行不轨之事，求有志之士将{E}击杀。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0##0###0#0#"
   splits:
   - split: 1
     text: "枰栌悬赏"
     translated: "Pinglu Reward Offered"
   - split: 24
-    text: "{E}深夜夜闯皇宫，意欲行不轨之事，求有志之士将{E}击败。"
-    translated: "At midnight, {E} sneaks into the imperial palace with the intent of committing an evil act and seeks a valiant soul to defeat {E}."
+    text: "{E}深夜夜闯皇宫，意欲行不轨之事，求有志之士将{E}击杀。"
+    translated: "{E} sneaks into the imperial palace in the dead of night with the intent to commit an impropriety and seeks a brave soul to assassinate {E}."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
     translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
@@ -19966,11 +19966,11 @@
   - split: 37
     text: "征集材料物资"
     translated: "Collection of materials and supplies"
-- raw: "500006#击败魔教余孽#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#104#1|1#1##0#{E}，魔教余孽，所图甚大。若有侠士能诛此魔教余孽，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败魔教余孽#0###0#0#"
+- raw: "500006#击杀魔教余孽#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，魔教余孽，所图甚大。若有侠士能诛此魔教余孽，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀魔教余孽#0###0#0#"
   splits:
   - split: 1
-    text: "击败魔教余孽"
-    translated: "Defeat the remnants of the Demon Sect"
+    text: "击杀魔教余孽"
+    translated: "Eliminate the remnants of the Demon Sect"
   - split: 24
     text: "{E}，魔教余孽，所图甚大。若有侠士能诛此魔教余孽，立誓重赏，决不背约。"
     translated: "{E}, the remnants of the Demon Cult, harbor grand ambitions. Should any brave hero be able to eliminate this lingering threat of the Demon Cult, a solemn promise of substantial reward is given; there will be no breaking of that pledge."
@@ -19981,144 +19981,144 @@
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败魔教余孽"
-    translated: "Defeat the remnants of the Demon Sect"
-- raw: "500007#击败魔教余孽#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#104#1|1#1##0#{E}，邪教残党，心怀鬼胎。若有侠士能诛此邪教残党，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败邪教残党#0###0#0#"
+    text: "击杀魔教余孽"
+    translated: "Eliminate the remnants of the Demon Sect"
+- raw: "500007#击杀魔教余孽#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，邪教残党，心怀鬼胎。若有侠士能诛此邪教残党，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀邪教残党#0###0#0#"
   splits:
   - split: 1
-    text: "击败魔教余孽"
-    translated: "Defeat the remnants of the Demon Sect"
+    text: "击杀魔教余孽"
+    translated: "Eliminate the remnants of the Demon Sect"
   - split: 24
     text: "{E}，邪教残党，心怀鬼胎。若有侠士能诛此邪教残党，立誓重赏，决不背约。"
     translated: "{E}, remnants of a cult with malevolent intentions and sinister thoughts. Should any honorable warrior be able to eliminate this remnant of the cult, we vow to offer substantial rewards without fail."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败邪教残党"
-    translated: "Defeat the remnants of the heretical cult"
-- raw: "500008#击败魔教余孽#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#104#1|1#1##0#{E}，毒宗后人，阴险狠毒。若有侠士能诛此毒宗后人，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败毒宗后人#0###0#0#"
+    text: "击杀邪教残党"
+    translated: "Eliminate the remaining bandits of the cult"
+- raw: "500008#击杀魔教余孽#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，毒宗后人，阴险狠毒。若有侠士能诛此毒宗后人，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀毒宗后人#0###0#0#"
   splits:
   - split: 1
-    text: "击败魔教余孽"
-    translated: "Defeat the remnants of the Demon Sect"
+    text: "击杀魔教余孽"
+    translated: "Eliminate the remnants of the Demon Sect"
   - split: 24
     text: "{E}，毒宗后人，阴险狠毒。若有侠士能诛此毒宗后人，立誓重赏，决不背约。"
     translated: "{E}, a descendant of the Poison Clan, is cunning and ruthless. Should any righteous hero manage to eliminate this scion of the Poison Clan, we promise a generous reward and will not break our word."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败毒宗后人"
-    translated: "Defeat the descendants of the Poison Sect"
-- raw: "500009#击败无耻小贼#0#0#0#0#0#0######0#8005|1&8011|4&8013|1#0##0#0#104#1|1#1##0#{E}目中无人，挑衅宗门，罪该当诛。若有侠士教训此小贼，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败无耻小贼#0###0#0#"
+    text: "击杀毒宗后人"
+    translated: "Kill the successor of the poison sect"
+- raw: "500009#击杀无耻小贼#0#0#0#0#0#0######0#8005|1&8011|4&8013|1#0##0#0#102#1#1##0#{E}目中无人，挑衅宗门，罪该当诛。若有侠士教训此小贼，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀无耻小贼#0###0#0#"
   splits:
   - split: 1
-    text: "击败无耻小贼"
-    translated: "Defeat the shameless thug"
+    text: "击杀无耻小贼"
+    translated: "Eliminate the shameless little thief"
   - split: 24
     text: "{E}目中无人，挑衅宗门，罪该当诛。若有侠士教训此小贼，立誓重赏，决不背约。"
     translated: "{E}, who shows no respect for anyone and dares to challenge the martial sect, deserves to be executed. Should any brave warrior discipline this little thief, I solemnly promise a generous reward and vow not to break my word."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败无耻小贼"
-    translated: "Defeat the shameless thug"
-- raw: "500010#击败无耻小贼#0#0#0#0#0#0######0#8005|1&8011|5&8013|1#0##0#0#104#1|1#1##0#{E}散播宗门坏话，污蔑宗门清誉，断不能忍。若有侠士教训此小贼，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败无耻小贼#0###0#0#"
+    text: "击杀无耻小贼"
+    translated: "Eliminate the shameless little thief"
+- raw: "500010#击杀无耻小贼#0#0#0#0#0#0######0#8005|1&8011|5&8013|1#0##0#0#102#1#1##0#{E}散播宗门坏话，污蔑宗门清誉，断不能忍。若有侠士教训此小贼，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀无耻小贼#0###0#0#"
   splits:
   - split: 1
-    text: "击败无耻小贼"
-    translated: "Defeat the shameless thug"
+    text: "击杀无耻小贼"
+    translated: "Eliminate the shameless little thief"
   - split: 24
     text: "{E}散播宗门坏话，污蔑宗门清誉，断不能忍。若有侠士教训此小贼，立誓重赏，决不背约。"
     translated: "{E}, spreading slanderous rumors about the sect and tarnishing its reputation is simply unacceptable. If any honorable warrior teaches this little thief a lesson, I promise to reward them handsomely without fail."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败无耻小贼"
-    translated: "Defeat the shameless thug"
-- raw: "500011#击败无耻小贼#0#0#0#0#0#0######0#8005|1&8011|5&8013|1#0##0#0#104#1|1#1##0#{E}假扮宗门弟子，有损宗门威望，决不能留。若有侠士能诛此小贼，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败无耻小贼#0###0#0#"
+    text: "击杀无耻小贼"
+    translated: "Eliminate the shameless little thief"
+- raw: "500011#击杀无耻小贼#0#0#0#0#0#0######0#8005|1&8011|5&8013|1#0##0#0#102#1#1##0#{E}假扮宗门弟子，有损宗门威望，决不能留。若有侠士能诛此小贼，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀无耻小贼#0###0#0#"
   splits:
   - split: 1
-    text: "击败无耻小贼"
-    translated: "Defeat the shameless thug"
+    text: "击杀无耻小贼"
+    translated: "Eliminate the shameless little thief"
   - split: 24
     text: "{E}假扮宗门弟子，有损宗门威望，决不能留。若有侠士能诛此小贼，立誓重赏，决不背约。"
     translated: "{E} pretends to be a disciple of our sect, which tarnishes the sect's reputation and cannot be tolerated. If any gallant hero can slay this petty thief, we promise a generous reward and will not break our word."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败无耻小贼"
-    translated: "Defeat the shameless thug"
-- raw: "500012#击败鼠雀之辈#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#104#1|1#1##0#{E}潜入宗门宝库窃取天材地宝，如此小贼断不能留。若有侠士能诛此鼠辈，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败鼠雀之辈#0###0#0#"
+    text: "击杀无耻小贼"
+    translated: "Eliminate the shameless little thief"
+- raw: "500012#击杀鼠雀之辈#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}潜入宗门宝库窃取天材地宝，如此小贼断不能留。若有侠士能诛此鼠辈，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀鼠雀之辈#0###0#0#"
   splits:
   - split: 1
-    text: "击败鼠雀之辈"
-    translated: "Defeat those of a mouse and sparrow's caliber"
+    text: "击杀鼠雀之辈"
+    translated: "Kill those of rat and sparrow ilk"
   - split: 24
     text: "{E}潜入宗门宝库窃取天材地宝，如此小贼断不能留。若有侠士能诛此鼠辈，立誓重赏，决不背约。"
     translated: "{E} has infiltrated the sect's treasury to steal celestial and earthly treasures. Such a petty thief cannot be allowed to escape. Should any hero succeed in eliminating this lowly creature, we pledge a substantial reward and will not renege on our promise."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败鼠雀之辈"
-    translated: "Defeat those of a mouse and sparrow's caliber"
-- raw: "500013#击败鼠雀之辈#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#104#1|1#1##0#{E}趁着宗门弟子外出试炼突然袭击，害了不少性命。若有侠士能诛此鼠辈，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败鼠雀之辈#0###0#0#"
+    text: "击杀鼠雀之辈"
+    translated: "Kill those of rat and sparrow ilk"
+- raw: "500013#击杀鼠雀之辈#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}趁着宗门弟子外出试炼突然袭击，害了不少性命。若有侠士能诛此鼠辈，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀鼠雀之辈#0###0#0#"
   splits:
   - split: 1
-    text: "击败鼠雀之辈"
-    translated: "Defeat those of a mouse and sparrow's caliber"
+    text: "击杀鼠雀之辈"
+    translated: "Kill those of rat and sparrow ilk"
   - split: 24
     text: "{E}趁着宗门弟子外出试炼突然袭击，害了不少性命。若有侠士能诛此鼠辈，立誓重赏，决不背约。"
     translated: "{E} took advantage of the moment when clan disciples went out for training and suddenly attacked, killing many. If any hero could slay this band of rodents, a solemn promise of great reward was made; there would be no reneging on that pledge."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败鼠雀之辈"
-    translated: "Defeat those of a mouse and sparrow's caliber"
-- raw: "500014#击败鼠雀之辈#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#104#1|1#1##0#{E}欺骗宗门弟子感情，致使弟子自绝身亡，罪大恶极。若有侠士能诛此鼠辈，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败鼠雀之辈#0###0#0#"
+    text: "击杀鼠雀之辈"
+    translated: "Kill those of rat and sparrow ilk"
+- raw: "500014#击杀鼠雀之辈#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}欺骗宗门弟子感情，致使弟子自绝身亡，罪大恶极。若有侠士能诛此鼠辈，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀鼠雀之辈#0###0#0#"
   splits:
   - split: 1
-    text: "击败鼠雀之辈"
-    translated: "Defeat those of a mouse and sparrow's caliber"
+    text: "击杀鼠雀之辈"
+    translated: "Kill those of rat and sparrow ilk"
   - split: 24
     text: "{E}欺骗宗门弟子感情，致使弟子自绝身亡，罪大恶极。若有侠士能诛此鼠辈，立誓重赏，决不背约。"
     translated: "{E} deceived the disciples of the sect, manipulating their emotions to such an extent that a disciple took their own life. This act is gravely wrong and extremely evil. Any righteous warrior who can eliminate this despicable group shall receive a generous reward as promised."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败鼠雀之辈"
-    translated: "Defeat those of a mouse and sparrow's caliber"
+    text: "击杀鼠雀之辈"
+    translated: "Kill those of rat and sparrow ilk"
 - raw: "500015#收集稀缺物品#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#107#9004|3#1##0#宗门近来有部分资源稀缺，特此征集{N}个{I}。若有侠士能集齐物资，立誓重赏，决不背约。#0##0#0#0##0#0#0#获得{I}（{NeedItemInfoCount}/{N})#回禀{AA}#0#收集稀缺物品#0###0#0#"
   splits:
   - split: 1
@@ -20238,57 +20238,57 @@
   - split: 37
     text: "收集稀缺物品"
     translated: "Gather rare items"
-- raw: "500022#击败宗门叛逆#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#104#1|1#1##0#{E}，狼心狗肺，蛇蝎心肠。叛出宗门，大逆不道。若有侠士能诛此叛逆，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败宗门叛逆#0###0#0#"
+- raw: "500022#击杀宗门叛逆#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，狼心狗肺，蛇蝎心肠。叛出宗门，大逆不道。若有侠士能诛此叛逆，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀宗门叛逆#0###0#0#"
   splits:
   - split: 1
-    text: "击败宗门叛逆"
-    translated: "Defeat the rebel of the martial arts sect"
+    text: "击杀宗门叛逆"
+    translated: "Defeat the traitors of the sect"
   - split: 24
     text: "{E}，狼心狗肺，蛇蝎心肠。叛出宗门，大逆不道。若有侠士能诛此叛逆，立誓重赏，决不背约。"
     translated: "{E}, with a wolf's heart and dog's liver, serpent‑like nature. Having betrayed the martial sect, committing treason of the highest order. If any honorable warrior can slay this traitor, they vow to reward you handsomely, no matter what, never breaking their promise."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败宗门叛逆"
-    translated: "Defeat the rebel of the martial arts sect"
-- raw: "500023#击败宗门叛逆#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#104#1|1#1##0#{E}，桀骜不驯，谋图不轨。杀害同门，忘恩负义。若有侠士能诛此叛逆，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败宗门叛逆#0###0#0#"
+    text: "击杀宗门叛逆"
+    translated: "Defeat the traitors of the sect"
+- raw: "500023#击杀宗门叛逆#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，桀骜不驯，谋图不轨。杀害同门，忘恩负义。若有侠士能诛此叛逆，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀宗门叛逆#0###0#0#"
   splits:
   - split: 1
-    text: "击败宗门叛逆"
-    translated: "Defeat the rebel of the martial arts sect"
+    text: "击杀宗门叛逆"
+    translated: "Defeat the traitors of the sect"
   - split: 24
     text: "{E}，桀骜不驯，谋图不轨。杀害同门，忘恩负义。若有侠士能诛此叛逆，立誓重赏，决不背约。"
     translated: "{E}, rebellious and plotting treason. They murdered fellow members, forgot kindness, and betrayed trust. If there is a martial artist who can defeat this traitor, I solemnly promise a significant reward and will not break my word."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败宗门叛逆"
-    translated: "Defeat the rebel of the martial arts sect"
-- raw: "500024#击败宗门叛逆#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#104#1|1#1##0#{E}，丧心病狂，笑里藏刀。杀戮同门，何其毒也。若有侠士能诛此叛逆，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败宗门叛逆#0###0#0#"
+    text: "击杀宗门叛逆"
+    translated: "Defeat the traitors of the sect"
+- raw: "500024#击杀宗门叛逆#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，丧心病狂，笑里藏刀。杀戮同门，何其毒也。若有侠士能诛此叛逆，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀宗门叛逆#0###0#0#"
   splits:
   - split: 1
-    text: "击败宗门叛逆"
-    translated: "Defeat the rebel of the martial arts sect"
+    text: "击杀宗门叛逆"
+    translated: "Defeat the traitors of the sect"
   - split: 24
     text: "{E}，丧心病狂，笑里藏刀。杀戮同门，何其毒也。若有侠士能诛此叛逆，立誓重赏，决不背约。"
     translated: "{E}, utterly depraved and treacherous, harboring blades behind their smile. To slaughter fellow members of the sect‑how vile! Should any hero be able to eradicate this traitor, a vow of substantial reward is promised; there will be no breaking of this promise."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败宗门叛逆"
-    translated: "Defeat the rebel of the martial arts sect"
+    text: "击杀宗门叛逆"
+    translated: "Defeat the traitors of the sect"
 - raw: "500025#击败江湖恶徒#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#104#1|1#1##0#{E}，狡黠奸诈，自视甚高。横行江湖，肆意掠夺。若有侠士教训此恶徒，立誓重赏，决不背约。#0##0#0#0##0#0#0#与{E}切磋并获胜（{NeedKillNpcItemsCount}/1)#回禀{AA}#0#击败江湖恶徒#0###0#0#"
   splits:
   - split: 1
@@ -20391,57 +20391,57 @@
   - split: 37
     text: "击败江湖恶徒"
     translated: "Defeat the evil hooligans of the Jianghu"
-- raw: "500031#击败宗门叛逆#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#104#1|1#1##0#{E}，狼心狗肺，蛇蝎心肠。叛出宗门，大逆不道。若有侠士能诛此叛逆，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败宗门叛逆#0###0#0#"
+- raw: "500031#击杀宗门叛逆#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，狼心狗肺，蛇蝎心肠。叛出宗门，大逆不道。若有侠士能诛此叛逆，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀宗门叛逆#0###0#0#"
   splits:
   - split: 1
-    text: "击败宗门叛逆"
-    translated: "Defeat the rebel of the martial arts sect"
+    text: "击杀宗门叛逆"
+    translated: "Defeat the traitors of the sect"
   - split: 24
     text: "{E}，狼心狗肺，蛇蝎心肠。叛出宗门，大逆不道。若有侠士能诛此叛逆，立誓重赏，决不背约。"
     translated: "{E}, with a wolf's heart and dog's liver, serpent‑like nature. Having betrayed the martial sect, committing treason of the highest order. If any honorable warrior can slay this traitor, they vow to reward you handsomely, no matter what, never breaking their promise."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败宗门叛逆"
-    translated: "Defeat the rebel of the martial arts sect"
-- raw: "500032#击败宗门叛逆#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#104#1|1#1##0#{E}，桀骜不驯，谋图不轨。杀害同门，忘恩负义。若有侠士能诛此叛逆，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败宗门叛逆#0###0#0#"
+    text: "击杀宗门叛逆"
+    translated: "Defeat the traitors of the sect"
+- raw: "500032#击杀宗门叛逆#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，桀骜不驯，谋图不轨。杀害同门，忘恩负义。若有侠士能诛此叛逆，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀宗门叛逆#0###0#0#"
   splits:
   - split: 1
-    text: "击败宗门叛逆"
-    translated: "Defeat the rebel of the martial arts sect"
+    text: "击杀宗门叛逆"
+    translated: "Defeat the traitors of the sect"
   - split: 24
     text: "{E}，桀骜不驯，谋图不轨。杀害同门，忘恩负义。若有侠士能诛此叛逆，立誓重赏，决不背约。"
     translated: "{E}, rebellious and plotting treason. They murdered fellow members, forgot kindness, and betrayed trust. If there is a martial artist who can defeat this traitor, I solemnly promise a significant reward and will not break my word."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败宗门叛逆"
-    translated: "Defeat the rebel of the martial arts sect"
-- raw: "500033#击败宗门叛逆#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#104#1|1#1##0#{E}，丧心病狂，笑里藏刀。杀戮同门，何其毒也。若有侠士能诛此叛逆，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败宗门叛逆#0###0#0#"
+    text: "击杀宗门叛逆"
+    translated: "Defeat the traitors of the sect"
+- raw: "500033#击杀宗门叛逆#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，丧心病狂，笑里藏刀。杀戮同门，何其毒也。若有侠士能诛此叛逆，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀宗门叛逆#0###0#0#"
   splits:
   - split: 1
-    text: "击败宗门叛逆"
-    translated: "Defeat the rebel of the martial arts sect"
+    text: "击杀宗门叛逆"
+    translated: "Defeat the traitors of the sect"
   - split: 24
     text: "{E}，丧心病狂，笑里藏刀。杀戮同门，何其毒也。若有侠士能诛此叛逆，立誓重赏，决不背约。"
     translated: "{E}, utterly depraved and treacherous, harboring blades behind their smile. To slaughter fellow members of the sect‑how vile! Should any hero be able to eradicate this traitor, a vow of substantial reward is promised; there will be no breaking of this promise."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败宗门叛逆"
-    translated: "Defeat the rebel of the martial arts sect"
+    text: "击杀宗门叛逆"
+    translated: "Defeat the traitors of the sect"
 - raw: "500034#与江湖侠士切磋#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#104#1|1#1##0#为研习武功绝学，特寻人与{E}切磋，领会百家所长。若有侠士能切磋获胜，立誓重赏，决不背约。#0##0#0#0##0#0#0#与{E}切磋并获胜（{NeedKillNpcItemsCount}/1)#回禀{AA}#0#与江湖侠士切磋#0###0#0#"
   splits:
   - split: 1
@@ -20799,159 +20799,159 @@
   - split: 37
     text: "征集材料物资"
     translated: "Collection of materials and supplies"
-- raw: "500055#击败宗门之敌#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#104#1|1#1##0#{E}，此人屡次坏我重天门好事，速速将其诛杀。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败魔教余孽#0###0#0#"
+- raw: "500055#击杀宗门之敌#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，此人屡次坏我重天门好事，速速将其诛杀。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀魔教余孽#0###0#0#"
   splits:
   - split: 1
-    text: "击败宗门之敌"
-    translated: "Defeat the foes of our martial sect"
+    text: "击杀宗门之敌"
+    translated: "Slay the Sect's Foe"
   - split: 24
     text: "{E}，此人屡次坏我重天门好事，速速将其诛杀。"
     translated: "{E}, this person has repeatedly thwarted our good deeds at the Profound Celestial Sect. Eliminate them swiftly."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败魔教余孽"
-    translated: "Defeat the remnants of the Demon Sect"
-- raw: "500056#击败宗门之敌#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#104#1|1#1##0#{E}，此人居然意图勾结他派阻止我门中谋划，定杀不绕！#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败邪教残党#0###0#0#"
+    text: "击杀魔教余孽"
+    translated: "Eliminate the remnants of the Demon Sect"
+- raw: "500056#击杀宗门之敌#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，此人居然意图勾结他派阻止我门中谋划，定杀不绕！#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀邪教残党#0###0#0#"
   splits:
   - split: 1
-    text: "击败宗门之敌"
-    translated: "Defeat the foes of our martial sect"
+    text: "击杀宗门之敌"
+    translated: "Slay the Sect's Foe"
   - split: 24
     text: "{E}，此人居然意图勾结他派阻止我门中谋划，定杀不绕！"
     translated: "{E}, this person has dared to conspire with their faction to thwart our plan. They are marked for death, no exceptions!"
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败邪教残党"
-    translated: "Defeat the remnants of the heretical cult"
-- raw: "500057#击败宗门之敌#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#104#1|1#1##0#{E}，此人数次杀我门人，尽快将其伏诛！#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败毒宗后人#0###0#0#"
+    text: "击杀邪教残党"
+    translated: "Eliminate the remaining bandits of the cult"
+- raw: "500057#击杀宗门之敌#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，此人数次杀我门人，尽快将其伏诛！#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀毒宗后人#0###0#0#"
   splits:
   - split: 1
-    text: "击败宗门之敌"
-    translated: "Defeat the foes of our martial sect"
+    text: "击杀宗门之敌"
+    translated: "Slay the Sect's Foe"
   - split: 24
     text: "{E}，此人数次杀我门人，尽快将其伏诛！"
     translated: "{E}, this person has killed several of our disciples multiple times. We must swiftly bring them to justice at once!"
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败毒宗后人"
-    translated: "Defeat the descendants of the Poison Sect"
-- raw: "500058#击败无耻小贼#0#0#0#0#0#0######0#8005|1&8011|4&8013|1#0##0#0#104#1|1#1##0#{E}目中无人，挑衅宗门，罪该当诛。若有侠士能诛此小贼，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败无耻小贼#0###0#0#"
+    text: "击杀毒宗后人"
+    translated: "Kill the successor of the poison sect"
+- raw: "500058#击杀无耻小贼#0#0#0#0#0#0######0#8005|1&8011|4&8013|1#0##0#0#102#1#1##0#{E}目中无人，挑衅宗门，罪该当诛。若有侠士能诛此小贼，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀无耻小贼#0###0#0#"
   splits:
   - split: 1
-    text: "击败无耻小贼"
-    translated: "Defeat the shameless thug"
+    text: "击杀无耻小贼"
+    translated: "Eliminate the shameless little thief"
   - split: 24
     text: "{E}目中无人，挑衅宗门，罪该当诛。若有侠士能诛此小贼，立誓重赏，决不背约。"
     translated: "{E} looks down upon others, provoking the clan to rebellion. Such a traitor deserves death. Any honorable swordsman who kills this little villain will be rewarded handsomely; I solemnly pledge not to break my word."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败无耻小贼"
-    translated: "Defeat the shameless thug"
-- raw: "500059#击败无耻小贼#0#0#0#0#0#0######0#8005|1&8011|5&8013|1#0##0#0#104#1|1#1##0#{E}散播宗门坏话，污蔑宗门清誉，断不能忍。若有侠士能诛此小贼，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败无耻小贼#0###0#0#"
+    text: "击杀无耻小贼"
+    translated: "Eliminate the shameless little thief"
+- raw: "500059#击杀无耻小贼#0#0#0#0#0#0######0#8005|1&8011|5&8013|1#0##0#0#102#1#1##0#{E}散播宗门坏话，污蔑宗门清誉，断不能忍。若有侠士能诛此小贼，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀无耻小贼#0###0#0#"
   splits:
   - split: 1
-    text: "击败无耻小贼"
-    translated: "Defeat the shameless thug"
+    text: "击杀无耻小贼"
+    translated: "Eliminate the shameless little thief"
   - split: 24
     text: "{E}散播宗门坏话，污蔑宗门清誉，断不能忍。若有侠士能诛此小贼，立誓重赏，决不背约。"
     translated: "{E} spreading slander about our martial arts sect and tarnishing its reputation is unacceptable. Should any righteous hero be able to defeat this rogue, a vow of generous reward will be honored without fail."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败无耻小贼"
-    translated: "Defeat the shameless thug"
-- raw: "500060#击败无耻小贼#0#0#0#0#0#0######0#8005|1&8011|5&8013|1#0##0#0#104#1|1#1##0#{E}假扮宗门弟子，有损宗门威望，决不能留。若有侠士能诛此小贼，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败无耻小贼#0###0#0#"
+    text: "击杀无耻小贼"
+    translated: "Eliminate the shameless little thief"
+- raw: "500060#击杀无耻小贼#0#0#0#0#0#0######0#8005|1&8011|5&8013|1#0##0#0#102#1#1##0#{E}假扮宗门弟子，有损宗门威望，决不能留。若有侠士能诛此小贼，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀无耻小贼#0###0#0#"
   splits:
   - split: 1
-    text: "击败无耻小贼"
-    translated: "Defeat the shameless thug"
+    text: "击杀无耻小贼"
+    translated: "Eliminate the shameless little thief"
   - split: 24
     text: "{E}假扮宗门弟子，有损宗门威望，决不能留。若有侠士能诛此小贼，立誓重赏，决不背约。"
     translated: "{E} pretends to be a disciple of our sect, which tarnishes the sect's reputation and cannot be tolerated. If any gallant hero can slay this petty thief, we promise a generous reward and will not break our word."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败无耻小贼"
-    translated: "Defeat the shameless thug"
-- raw: "500061#击败鼠雀之辈#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#104#1|1#1##0#{E}潜入宗门宝库窃取天材地宝，如此小贼断不能留。若有侠士能诛此鼠辈，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败鼠雀之辈#0###0#0#"
+    text: "击杀无耻小贼"
+    translated: "Eliminate the shameless little thief"
+- raw: "500061#击杀鼠雀之辈#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}潜入宗门宝库窃取天材地宝，如此小贼断不能留。若有侠士能诛此鼠辈，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀鼠雀之辈#0###0#0#"
   splits:
   - split: 1
-    text: "击败鼠雀之辈"
-    translated: "Defeat those of a mouse and sparrow's caliber"
+    text: "击杀鼠雀之辈"
+    translated: "Kill those of rat and sparrow ilk"
   - split: 24
     text: "{E}潜入宗门宝库窃取天材地宝，如此小贼断不能留。若有侠士能诛此鼠辈，立誓重赏，决不背约。"
     translated: "{E} has infiltrated the sect's treasury to steal celestial and earthly treasures. Such a petty thief cannot be allowed to escape. Should any hero succeed in eliminating this lowly creature, we pledge a substantial reward and will not renege on our promise."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败鼠雀之辈"
-    translated: "Defeat those of a mouse and sparrow's caliber"
-- raw: "500062#击败鼠雀之辈#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#104#1|1#1##0#{E}趁着宗门弟子外出试炼突然袭击，害了不少性命。若有侠士能诛此鼠辈，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败鼠雀之辈#0###0#0#"
+    text: "击杀鼠雀之辈"
+    translated: "Kill those of rat and sparrow ilk"
+- raw: "500062#击杀鼠雀之辈#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}趁着宗门弟子外出试炼突然袭击，害了不少性命。若有侠士能诛此鼠辈，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀鼠雀之辈#0###0#0#"
   splits:
   - split: 1
-    text: "击败鼠雀之辈"
-    translated: "Defeat those of a mouse and sparrow's caliber"
+    text: "击杀鼠雀之辈"
+    translated: "Kill those of rat and sparrow ilk"
   - split: 24
     text: "{E}趁着宗门弟子外出试炼突然袭击，害了不少性命。若有侠士能诛此鼠辈，立誓重赏，决不背约。"
     translated: "{E} took advantage of the moment when clan disciples went out for training and suddenly attacked, killing many. If any hero could slay this band of rodents, a solemn promise of great reward was made; there would be no reneging on that pledge."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败鼠雀之辈"
-    translated: "Defeat those of a mouse and sparrow's caliber"
-- raw: "500063#击败鼠雀之辈#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#104#1|1#1##0#{E}欺骗宗门弟子感情，致使弟子自绝身亡，罪大恶极。若有侠士能诛此鼠辈，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败鼠雀之辈#0###0#0#"
+    text: "击杀鼠雀之辈"
+    translated: "Kill those of rat and sparrow ilk"
+- raw: "500063#击杀鼠雀之辈#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}欺骗宗门弟子感情，致使弟子自绝身亡，罪大恶极。若有侠士能诛此鼠辈，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀鼠雀之辈#0###0#0#"
   splits:
   - split: 1
-    text: "击败鼠雀之辈"
-    translated: "Defeat those of a mouse and sparrow's caliber"
+    text: "击杀鼠雀之辈"
+    translated: "Kill those of rat and sparrow ilk"
   - split: 24
     text: "{E}欺骗宗门弟子感情，致使弟子自绝身亡，罪大恶极。若有侠士能诛此鼠辈，立誓重赏，决不背约。"
     translated: "{E} deceived the disciples of the sect, manipulating their emotions to such an extent that a disciple took their own life. This act is gravely wrong and extremely evil. Any righteous warrior who can eliminate this despicable group shall receive a generous reward as promised."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败鼠雀之辈"
-    translated: "Defeat those of a mouse and sparrow's caliber"
+    text: "击杀鼠雀之辈"
+    translated: "Kill those of rat and sparrow ilk"
 - raw: "500064#收集稀缺物品#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#107#9004|3#1##0#宗门近来有部分资源稀缺，特此征集{N}个{I}。若有侠士能集齐物资，立誓重赏，决不背约。#0##0#0#0##0#0#0#获得{I}（{NeedItemInfoCount}/{N})#回禀{AA}#0#收集稀缺物品#0###0#0#"
   splits:
   - split: 1
@@ -21071,58 +21071,58 @@
   - split: 37
     text: "收集稀缺物品"
     translated: "Gather rare items"
-- raw: "500071#击败宗门叛逆#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#104#1|1#1##0#{E}，狼心狗肺，叛出宗门，大逆不道。来个人诛此叛逆，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败宗门叛逆#0###0#0#"
+- raw: "500071#击杀宗门叛逆#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，狼心狗肺，叛出宗门，大逆不道。来个人诛此叛逆，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀宗门叛逆#0###0#0#"
   splits:
   - split: 1
-    text: "击败宗门叛逆"
-    translated: "Defeat the rebel of the martial arts sect"
+    text: "击杀宗门叛逆"
+    translated: "Defeat the traitors of the sect"
   - split: 24
     text: "{E}，狼心狗肺，叛出宗门，大逆不道。来个人诛此叛逆，立誓重赏，决不背约。"
     translated: "{E}, with a wolf's heart and dog's liver, has betrayed the martial sect in an act of egregious rebellion. Anyone who captures this traitor will be rewarded handsomely; I solemnly swear not to break my promise."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败宗门叛逆"
-    translated: "Defeat the rebel of the martial arts sect"
-- raw: "500072#击败宗门叛逆#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#104#1|1#1##0#{E}，桀骜不驯，谋图不轨。来人诛此叛逆，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败宗门叛逆#0###0#0#"
+    text: "击杀宗门叛逆"
+    translated: "Defeat the traitors of the sect"
+- raw: "500072#击杀宗门叛逆#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，桀骜不驯，谋图不轨。来人诛此叛逆，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀宗门叛逆#0###0#0#"
   splits:
   - split: 1
-    text: "击败宗门叛逆"
-    translated: "Defeat the rebel of the martial arts sect"
+    text: "击杀宗门叛逆"
+    translated: "Defeat the traitors of the sect"
   - split: 24
     text: "{E}，桀骜不驯，谋图不轨。来人诛此叛逆，立誓重赏，决不背约。"
     translated: "{E}, rebellious and plotting treason. The appointed executioner will slay this traitor, swearing a solemn oath to reward handsomely for the deed, with no breach of promise."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败宗门叛逆"
-    translated: "Defeat the rebel of the martial arts sect"
-- raw: "500073#击败宗门叛逆#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#104#1|1#1##0#{E}，此人为叛逃我门不惜杀戮同门，不能忍！来个弟子诛杀此獠。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败宗门叛逆#0###0#0#"
+    text: "击杀宗门叛逆"
+    translated: "Defeat the traitors of the sect"
+- raw: "500073#击杀宗门叛逆#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，此人为叛逃我门不惜杀戮同门，不能忍！来个弟子诛杀此獠。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀宗门叛逆#0###0#0#"
   splits:
   - split: 1
-    text: "击败宗门叛逆"
-    translated: "Defeat the rebel of the martial arts sect"
+    text: "击杀宗门叛逆"
+    translated: "Defeat the traitors of the sect"
   - split: 24
     text: "{E}，此人为叛逃我门不惜杀戮同门，不能忍！来个弟子诛杀此獠。"
     translated: "{E}, this person betrayed our school and did not hesitate to kill fellow disciples. We cannot tolerate this! Have a disciple execute this villain."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败宗门叛逆"
-    translated: "Defeat the rebel of the martial arts sect"
-- raw: "500100#宗门叛逆#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，此人为叛逃我门不惜杀戮同门，不能忍！来个弟子诛杀此獠。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败宗门叛逆#0###0#0#"
+    text: "击杀宗门叛逆"
+    translated: "Defeat the traitors of the sect"
+- raw: "500100#宗门叛逆#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，此人为叛逃我门不惜杀戮同门，不能忍！来个弟子诛杀此獠。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀宗门叛逆#0###0#0#"
   splits:
   - split: 1
     text: "宗门叛逆"
@@ -21132,13 +21132,13 @@
     translated: "{E}, this person betrayed our school and did not hesitate to kill fellow disciples. We cannot tolerate this! Have a disciple execute this villain."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败宗门叛逆"
-    translated: "Defeat the rebel of the martial arts sect"
+    text: "击杀宗门叛逆"
+    translated: "Defeat the traitors of the sect"
 - raw: "500101#征集物资#0#0#0#0#0#0######0#8005|1&8011|1&8013|1#0##0#0#107#9004|3#1##0#堂内准备制造些物品，特此征集{N}个{I}已备不时之需。若有侠士能集齐物资，立誓重赏，决不背约。#0##0#0#0##0#0#0#获得{I}（{NeedItemInfoCount}/{N})#回禀{AA}#0#征集材料物资#0###0#0#"
   splits:
   - split: 1
@@ -21224,91 +21224,91 @@
   - split: 37
     text: "征集材料物资"
     translated: "Collection of materials and supplies"
-- raw: "500106#击败恶徒#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，狡黠奸诈，自视甚高。横行江湖，肆意掠夺。若有侠士能诛此恶徒，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败江湖恶徒#0###0#0#"
+- raw: "500106#击杀恶徒#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，狡黠奸诈，自视甚高。横行江湖，肆意掠夺。若有侠士能诛此恶徒，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀江湖恶徒#0###0#0#"
   splits:
   - split: 1
-    text: "击败恶徒"
-    translated: "Defeat the villain"
+    text: "击杀恶徒"
+    translated: "Slay the villain"
   - split: 24
     text: "{E}，狡黠奸诈，自视甚高。横行江湖，肆意掠夺。若有侠士能诛此恶徒，立誓重赏，决不背约。"
     translated: "{E}, cunning and deceitful, with a very high opinion of themselves. They roam the Jianghu, plundering at will. Should any righteous warrior be able to slay this evil scoundrel, we pledge substantial reward and swear not to renege on our promise."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败江湖恶徒"
-    translated: "Defeat the evil hooligans of the Jianghu"
-- raw: "500107#击败恶徒#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，心黑手辣，阴影四伏。虐民若畜，为害一方，若有侠士能诛此恶徒，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败江湖恶徒#0###0#0#"
+    text: "击杀江湖恶徒"
+    translated: "Kill a nefarious figure of Jianghu"
+- raw: "500107#击杀恶徒#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，心黑手辣，阴影四伏。虐民若畜，为害一方，若有侠士能诛此恶徒，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀江湖恶徒#0###0#0#"
   splits:
   - split: 1
-    text: "击败恶徒"
-    translated: "Defeat the villain"
+    text: "击杀恶徒"
+    translated: "Slay the villain"
   - split: 24
     text: "{E}，心黑手辣，阴影四伏。虐民若畜，为害一方，若有侠士能诛此恶徒，立誓重赏，决不背约。"
     translated: "{E}, a person with a dark heart and ruthless hands, surrounded by hidden dangers. They oppress the people like beasts, causing harm throughout the region. If any righteous hero can slay this villain, they promise a substantial reward and vow never to break their word."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败江湖恶徒"
-    translated: "Defeat the evil hooligans of the Jianghu"
-- raw: "500108#击败恶徒#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，阴险狡诈，心机深沉。凶恶至极，罪恶滔天。若有侠士能诛此恶徒，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败江湖恶徒#0###0#0#"
+    text: "击杀江湖恶徒"
+    translated: "Kill a nefarious figure of Jianghu"
+- raw: "500108#击杀恶徒#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，阴险狡诈，心机深沉。凶恶至极，罪恶滔天。若有侠士能诛此恶徒，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀江湖恶徒#0###0#0#"
   splits:
   - split: 1
-    text: "击败恶徒"
-    translated: "Defeat the villain"
+    text: "击杀恶徒"
+    translated: "Slay the villain"
   - split: 24
     text: "{E}，阴险狡诈，心机深沉。凶恶至极，罪恶滔天。若有侠士能诛此恶徒，立誓重赏，决不背约。"
     translated: "{E}, cunning and deceitful, with a deep and calculating mind. Extremely vicious, their crimes are boundless. Should any righteous hero be able to eliminate this villain, we promise a substantial reward and vow not to break our word."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败江湖恶徒"
-    translated: "Defeat the evil hooligans of the Jianghu"
-- raw: "500109#击败恶徒#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，心机诡谲，阴险狡黠。凶残无度，谈之色变。若有侠士能诛此恶徒，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败江湖恶徒#0###0#0#"
+    text: "击杀江湖恶徒"
+    translated: "Kill a nefarious figure of Jianghu"
+- raw: "500109#击杀恶徒#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，心机诡谲，阴险狡黠。凶残无度，谈之色变。若有侠士能诛此恶徒，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀江湖恶徒#0###0#0#"
   splits:
   - split: 1
-    text: "击败恶徒"
-    translated: "Defeat the villain"
+    text: "击杀恶徒"
+    translated: "Slay the villain"
   - split: 24
     text: "{E}，心机诡谲，阴险狡黠。凶残无度，谈之色变。若有侠士能诛此恶徒，立誓重赏，决不背约。"
     translated: "{E}, cunning and deceitful, sinister and crafty. Foul and ruthless to an extreme degree, merely speaking of them causes dread. Should a hero be able to eliminate this villain, a promise of substantial reward is made, with the vow never to renege on it."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败江湖恶徒"
-    translated: "Defeat the evil hooligans of the Jianghu"
-- raw: "500110#击败恶徒#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，恶贯满盈，作恶多端。丧尽天良，十恶不赦。若有侠士能诛此恶徒，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击败江湖恶徒#0###0#0#"
+    text: "击杀江湖恶徒"
+    translated: "Kill a nefarious figure of Jianghu"
+- raw: "500110#击杀恶徒#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#{E}，恶贯满盈，作恶多端。丧尽天良，十恶不赦。若有侠士能诛此恶徒，立誓重赏，决不背约。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#击杀江湖恶徒#0###0#0#"
   splits:
   - split: 1
-    text: "击败恶徒"
-    translated: "Defeat the villain"
+    text: "击杀恶徒"
+    translated: "Slay the villain"
   - split: 24
     text: "{E}，恶贯满盈，作恶多端。丧尽天良，十恶不赦。若有侠士能诛此恶徒，立誓重赏，决不背约。"
     translated: "{E}, whose misdeeds are countless and who has lost all sense of morality, is beyond redemption with tenfold evil. Should any hero be able to eliminate this villain, we pledge a substantial reward and will not renege on our promise."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
-    text: "击败江湖恶徒"
-    translated: "Defeat the evil hooligans of the Jianghu"
+    text: "击杀江湖恶徒"
+    translated: "Kill a nefarious figure of Jianghu"
 - raw: "500201#稀缺物品#0#0#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#107#9004|3#1##0#宗门近来有部分资源稀缺，特此征集{N}个{I}。若有侠士能集齐物资，立誓重赏，决不背约。#0##0#0#0##0#0#0#获得{I}（{NeedItemInfoCount}/{N})#回禀{AA}#0#收集稀缺物品#0###0#0#"
   splits:
   - split: 1
