@@ -5647,6 +5647,14 @@
   splits:
   - text: "李红华"
     translated: "Li Hong Hua"
+- raw: "修为"
+  splits:
+  - text: "修为"
+    translated: "Cultivation"
+- raw: "15.2万"
+  splits:
+  - text: "15.2万"
+    translated: "15.2 10K"
 - raw: "刘备"
   splits:
   - text: "刘备"
@@ -6071,10 +6079,6 @@
   splits:
   - text: "解密"
     translated: "Decryption"
-- raw: "修为"
-  splits:
-  - text: "修为"
-    translated: "Cultivation"
 - raw: "感悟"
   splits:
   - text: "感悟"
@@ -6560,10 +6564,10 @@
   splits:
   - text: "成就"
     translated: "Accomplishment"
-- raw: "侠云录"
+- raw: "天下英雄谱"
   splits:
-  - text: "侠云录"
-    translated: "Records of Heroic Clouds"
+  - text: "天下英雄谱"
+    translated: "Records of All Heroes Under Heaven"
 - raw: "风雪"
   splits:
   - text: "风雪"
@@ -9336,6 +9340,10 @@
   splits:
   - text: "加载距离翻倍(翻倍视野距离会严重影响性能)"
     translated: "Load Distance Doubled (Doubling viewing distance significantly impacts performance)."
+- raw: "启用日志"
+  splits:
+  - text: "启用日志"
+    translated: "Enable logging"
 - raw: "返回游戏"
   splits:
   - text: "返回游戏"
@@ -9500,14 +9508,6 @@
   splits:
   - text: "品质："
     translated: "Quality:"
-- raw: "时装效果"
-  splits:
-  - text: "时装效果"
-    translated: "Fashion Effectiveness"
-- raw: "来源"
-  splits:
-  - text: "来源"
-    translated: "Source"
 - raw: "立绘表情包"
   splits:
   - text: "立绘表情包"
@@ -9524,6 +9524,14 @@
   splits:
   - text: "误解误解误解误解误解误解误解误解误解误解"
     translated: "Misunderstanding, misunderstanding, misunderstanding, misunderstanding, misunderstanding, misunderstanding, misunderstanding, misunderstanding, misunderstanding, misunderstanding."
+- raw: "时装效果"
+  splits:
+  - text: "时装效果"
+    translated: "Fashion Effectiveness"
+- raw: "来源"
+  splits:
+  - text: "来源"
+    translated: "Source"
 - raw: "无"
   splits:
   - text: "无"
@@ -10172,6 +10180,10 @@
   splits:
   - text: "今天的东南风"
     translated: "Today's southeast wind"
+- raw: "侠云录"
+  splits:
+  - text: "侠云录"
+    translated: "Records of Heroic Clouds"
 - raw: "无双榜"
   splits:
   - text: "无双榜"
@@ -10188,6 +10200,10 @@
   splits:
   - text: "红颜榜"
     translated: "Beauty Register List"
+- raw: "百花谱"
+  splits:
+  - text: "百花谱"
+    translated: "Flower Scroll of a Hundred Varieties"
 - raw: "人榜潜力天骄"
   splits:
   - text: "人榜潜力天骄"
@@ -10264,6 +10280,10 @@
   splits:
   - text: "我的名望："
     translated: "My reputation:"
+- raw: "好感度"
+  splits:
+  - text: "好感度"
+    translated: "Affinity level"
 - raw: "查看位置"
   splits:
   - text: "查看位置"
@@ -10316,6 +10336,10 @@
   splits:
   - text: "我的名望"
     translated: "My reputation"
+- raw: "武商"
+  splits:
+  - text: "武商"
+    translated: "Wuxia commercialism"
 - raw: "搜寻位置"
   splits:
   - text: "搜寻位置"
@@ -10628,14 +10652,14 @@
   splits:
   - text: "需运行对应主或副功法的同时连线对应经脉点就可以激活对应周天运行效果"
     translated: "You need to simultaneously connect the corresponding meridian points while running the appropriate main or secondary cultivation technique to activate the corresponding circadian cycle effects."
-- raw: "暂未淬炼五脏点"
-  splits:
-  - text: "暂未淬炼五脏点"
-    translated: "Not yet refined to enhance the five internal organs."
 - raw: "淬炼"
   splits:
   - text: "淬炼"
     translated: "Tempering"
+- raw: "暂未淬炼五脏点"
+  splits:
+  - text: "暂未淬炼五脏点"
+    translated: "Not yet refined to enhance the five internal organs."
 - raw: "点击<color=#FF9800>五脏点</color>进行淬炼，再次点击取消"
   splits:
   - text: "点击<color=#FF9800>五脏点</color>进行淬炼，再次点击取消"

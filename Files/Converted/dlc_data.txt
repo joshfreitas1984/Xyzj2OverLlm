@@ -158,3 +158,19 @@
   - split: 5
     text: "新增大型主题玩法：江湖旧事。新增数位有独立故事背景的绝世高手可挑战。新增武学：由六脉领衔，三分归元、天外飞仙、凤舞九天、剑二十三组成本次经典武学内容。新增大型主题玩法：青衣楼特殊身份刺客玩法，及对应数十奇遇，刺客专属武学：侠客行新增无主线主角：无名之辈。全新主角，你的江湖由你来书写，无名之辈也能成为一代豪侠！新增大型主题玩法：天下英雄谱，列尽武林风流人物，登榜者，必以江湖为局。n"
     translated: "Add new large‑scale thematic gameplay: Old tales from the Jianghu. Several new unparalleled martial arts experts with independent story backgrounds available for challenges. New martial arts have been added: Leading with the Six Meridians and Three Partitions of the Primordial Essence, this classic martial arts content includes Flying Immortal from Beyond the Heavens, Phoenix Dancing Across Nine Skies, and Sword 23. New large‑scale thematic gameplay has been added: Special Assassin Role and Unique Encounters in Qingyi Lou, Assassin‑Exclusive Martial Arts: Wanderer's Path introduces a protagonist without a main storyline: Unsung Heroes. A brand‑new protagonist, you write your own journey in the Jianghu; even an unsung hero can become a legendary martial artist of their generation! Introducing large‑scale thematic gameplay: The Roll of Heroes of the World records all the flamboyant figures of the Martial World. Those listed on the roll are bound to make their mark in the Jianghu."
+- raw: "21#0#2002594#侠骨柔情#xgrq_1_bg#新增十八位绝色美人，每位美人均有独立的剧情故事、养成路线、更细腻的情感成长曲线。大侠们将有机会与她们一同修炼专属武学，培养只属于你和特定红颜的天赋，乃至神功秘籍，绝世神兵。与江湖2原有的伙伴、结义、结缘、同门的玩法深度结合，更沉浸式的体验。新增枣核钉、生死帖、飞刀暗器武学，开放葵花、吸星的武学的新招式、新特效。#"
+  splits:
+  - split: 3
+    text: "侠骨柔情"
+    translated: "Gentlehearted warrior spirit"
+  - split: 5
+    text: "新增十八位绝色美人，每位美人均有独立的剧情故事、养成路线、更细腻的情感成长曲线。大侠们将有机会与她们一同修炼专属武学，培养只属于你和特定红颜的天赋，乃至神功秘籍，绝世神兵。与江湖2原有的伙伴、结义、结缘、同门的玩法深度结合，更沉浸式的体验。新增枣核钉、生死帖、飞刀暗器武学，开放葵花、吸星的武学的新招式、新特效。"
+    translated: "Newly introduced are eighteen unparalleled beauties; each beauty has her own independent storyline and cultivation path, along with a more nuanced emotional growth arc. The great heroes will have the opportunity to cultivate exclusive martial arts with them, nurture talents that belong only to you and specific beauties, and even attain secret manuals and peerless divine weapons. This is deeply integrated with the original gameplay of forming partnerships, sworn brotherhoods, alliances, and guild memberships in Jianghu 2, offering a more immersive experience. New techniques and effects have been added for peach pit needles, death notices, flying blades hidden weapon martial arts, open peony seeds, and star suction martial arts."
+- raw: "22#1#3978160#侠骨柔情#xgrq_1_bg#新增十八位绝色美人，每位美人均有独立的剧情故事、养成路线、更细腻的情感成长曲线。大侠们将有机会与她们一同修炼专属武学，培养只属于你和特定红颜的天赋，乃至神功秘籍，绝世神兵。与江湖2原有的伙伴、结义、结缘、同门的玩法深度结合，更沉浸式的体验。新增枣核钉、生死帖、飞刀暗器武学，开放葵花、吸星的武学的新招式、新特效。#"
+  splits:
+  - split: 3
+    text: "侠骨柔情"
+    translated: "Gentlehearted warrior spirit"
+  - split: 5
+    text: "新增十八位绝色美人，每位美人均有独立的剧情故事、养成路线、更细腻的情感成长曲线。大侠们将有机会与她们一同修炼专属武学，培养只属于你和特定红颜的天赋，乃至神功秘籍，绝世神兵。与江湖2原有的伙伴、结义、结缘、同门的玩法深度结合，更沉浸式的体验。新增枣核钉、生死帖、飞刀暗器武学，开放葵花、吸星的武学的新招式、新特效。"
+    translated: "Newly introduced are eighteen unparalleled beauties; each beauty has her own independent storyline and cultivation path, along with a more nuanced emotional growth arc. The great heroes will have the opportunity to cultivate exclusive martial arts with them, nurture talents that belong only to you and specific beauties, and even attain secret manuals and peerless divine weapons. This is deeply integrated with the original gameplay of forming partnerships, sworn brotherhoods, alliances, and guild memberships in Jianghu 2, offering a more immersive experience. New techniques and effects have been added for peach pit needles, death notices, flying blades hidden weapon martial arts, open peony seeds, and star suction martial arts."

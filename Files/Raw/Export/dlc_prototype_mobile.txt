@@ -1,0 +1,264 @@
+- raw: "3001#3#1#86031|1#1#移动端渠道专属福利#0#"
+  splits:
+  - split: 5
+    text: "移动端渠道专属福利"
+- raw: "3002#3#1#86032|1#1#移动端渠道专属福利#0#"
+  splits:
+  - split: 5
+    text: "移动端渠道专属福利"
+- raw: "3003#3#1#86033|1#1#移动端渠道专属福利#0#"
+  splits:
+  - split: 5
+    text: "移动端渠道专属福利"
+- raw: "3004#3#1#86034|1#1#移动端渠道专属福利#0#"
+  splits:
+  - split: 5
+    text: "移动端渠道专属福利"
+- raw: "3005#3#1#83010|1#1#移动端渠道专属福利#1#"
+  splits:
+  - split: 5
+    text: "移动端渠道专属福利"
+- raw: "3006#3#1#83011|1#1#移动端渠道专属福利#0#"
+  splits:
+  - split: 5
+    text: "移动端渠道专属福利"
+- raw: "3007#3#1#83012|1#1#移动端渠道专属福利#0#"
+  splits:
+  - split: 5
+    text: "移动端渠道专属福利"
+- raw: "3008#3#1#83014|1#1#移动端渠道专属福利#1#"
+  splits:
+  - split: 5
+    text: "移动端渠道专属福利"
+- raw: "3009#3#1#83017|1#1#移动端渠道专属福利#1#"
+  splits:
+  - split: 5
+    text: "移动端渠道专属福利"
+- raw: "3010#3#1#86001|1#1#移动端渠道专属福利#1#"
+  splits:
+  - split: 5
+    text: "移动端渠道专属福利"
+- raw: "4001#4#316#83002|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4002#4#316#83003|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4003#4#316#84021|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4004#4#316#84022|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4005#4#316#84023|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4006#4#316#84024|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4007#4#316#84025|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4008#4#316#84026|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4009#4#316#84027|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4010#4#316#84028|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4011#4#316#84029|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4012#4#316#84030|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4013#4#316#84031|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4014#4#316#84032|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4015#4#316#84033|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4016#4#316#84001|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4017#4#316#84002|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4018#4#316#84003|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4019#4#316#84004|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4020#4#316#84034|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4021#4#316#84005|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4022#4#316#84006|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4023#4#316#84007|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4024#4#316#84008|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4025#4#316#86022|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4026#4#316#86058|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4027#4#316#39004|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4028#4#316#39006|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4029#4#316#86036|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4030#4#316#86064|1#0#江湖初见DLC#1#"
+  splits:
+  - split: 5
+    text: "江湖初见DLC"
+- raw: "4031#4#349#86067|1#0#风华绝代DLC#1#"
+  splits:
+  - split: 5
+    text: "风华绝代DLC"
+- raw: "4032#4#349#86051|1#0#风华绝代DLC#1#"
+  splits:
+  - split: 5
+    text: "风华绝代DLC"
+- raw: "4033#4#349#86060|1#0#风华绝代DLC#1#"
+  splits:
+  - split: 5
+    text: "风华绝代DLC"
+- raw: "4034#4#349#86066|1#0#风华绝代DLC#1#"
+  splits:
+  - split: 5
+    text: "风华绝代DLC"
+- raw: "4035#4#349#84011|1#0#风华绝代DLC#1#"
+  splits:
+  - split: 5
+    text: "风华绝代DLC"
+- raw: "4036#4#349#84012|1#0#风华绝代DLC#1#"
+  splits:
+  - split: 5
+    text: "风华绝代DLC"
+- raw: "4037#4#349#84013|1#0#风华绝代DLC#1#"
+  splits:
+  - split: 5
+    text: "风华绝代DLC"
+- raw: "4038#4#349#84014|1#0#风华绝代DLC#1#"
+  splits:
+  - split: 5
+    text: "风华绝代DLC"
+- raw: "6002#6#2#86006|1#0#激活码道具#1#"
+  splits:
+  - split: 5
+    text: "激活码道具"
+- raw: "6003#6#2#86029|1#0#激活码道具#1#"
+  splits:
+  - split: 5
+    text: "激活码道具"
+- raw: "6004#6#2#39003|1#0#激活码道具#1#"
+  splits:
+  - split: 5
+    text: "激活码道具"
+- raw: "6005#6#2#39005|1#0#激活码道具#1#"
+  splits:
+  - split: 5
+    text: "激活码道具"
+- raw: "6006#6#2#83007|1#0#激活码道具#1#"
+  splits:
+  - split: 5
+    text: "激活码道具"
+- raw: "6007#6#2#83013|1#0#激活码道具#1#"
+  splits:
+  - split: 5
+    text: "激活码道具"
+- raw: "6008#6#2#86007|1#0#激活码道具#1#"
+  splits:
+  - split: 5
+    text: "激活码道具"
+- raw: "6010#6#2#86062|1#0#激活码道具#1#"
+  splits:
+  - split: 5
+    text: "激活码道具"
+- raw: "6011#6#2#87003|1#0#激活码道具#1#"
+  splits:
+  - split: 5
+    text: "激活码道具"
+- raw: "6012#6#2#87024|1#0#激活码道具#1#"
+  splits:
+  - split: 5
+    text: "激活码道具"
+- raw: "6013#6#2#87014|1#0#激活码道具#1#"
+  splits:
+  - split: 5
+    text: "激活码道具"
+- raw: "6014#6#2#87034|1#0#激活码道具#1#"
+  splits:
+  - split: 5
+    text: "激活码道具"
+- raw: "6015#6#2#83006|1#0#激活码道具#1#"
+  splits:
+  - split: 5
+    text: "激活码道具"
+- raw: "6016#6#2#86035|1#0#激活码道具#1#"
+  splits:
+  - split: 5
+    text: "激活码道具"
+- raw: "6017#6#2#86065|1#0#激活码道具#1#"
+  splits:
+  - split: 5
+    text: "激活码道具"
+- raw: "6018#6#2#83018|1#0#激活码道具#1#"
+  splits:
+  - split: 5
+    text: "激活码道具"
+- raw: "6019#6#2#83019|1#0#激活码道具#1#"
+  splits:
+  - split: 5
+    text: "激活码道具"
+- raw: "6020#6#2#86068|1#0#激活码道具#1#"
+  splits:
+  - split: 5
+    text: "激活码道具"

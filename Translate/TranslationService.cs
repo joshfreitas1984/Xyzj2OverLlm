@@ -30,6 +30,7 @@ public static class TranslationService
             //new() {Path = "born_points.txt", Output = true},
             //new() {Path = "emoji.txt", PackageOutput = true},
             new() {Path = "dlc_prototype.txt", PackageOutput = true },
+            new() {Path = "dlc_prototype_mobile.txt", PackageOutput = true },
             new() {Path = "dlcinfo.txt", PackageOutput = true },
             new() {Path = "dlc_data.txt", PackageOutput = true },
 

@@ -462,14 +462,14 @@
   - split: 2
     text: "力道皮膜，天生坚韧异常，外防、内防<color=e0834c>增加10%</color>。"
     translated: "Toughness Skin, naturally exceptionally resilient, enhances <color=e0834c>external defense by 10%</color> and <color=e0834c>internal defense by 10%</color>."
-- raw: "59#太阴·真#打通太阴之穴，劲力延展，可随心所欲渗透血肉，真气、内力<color=e0834c>增加10%</color>，阴<color=e0834c>加5%</color>。#0#10570#0#0#0#0#4#1|2|3|4|5#0##0#0#100#"
+- raw: "59#太阴·真#打通太阴之穴，劲力延展，可随心所欲渗透血肉，元气、内力<color=e0834c>增加10%</color>，阴<color=e0834c>加5%</color>。#0#10570#0#0#0#0#4#1|2|3|4|5#0##0#0#100#"
   splits:
   - split: 1
     text: "太阴·真"
     translated: "Great Yin · True"
   - split: 2
-    text: "打通太阴之穴，劲力延展，可随心所欲渗透血肉，真气、内力<color=e0834c>增加10%</color>，阴<color=e0834c>加5%</color>。"
-    translated: "Unblocking the Great Yin acupoint allows energy to extend freely, enabling it to penetrate flesh and blood at will. True Qi and Inner Power <color=e0834c>increase by 10%</color>, while Yin <color=e0834c>increases by 5%</color>."
+    text: "打通太阴之穴，劲力延展，可随心所欲渗透血肉，元气、内力<color=e0834c>增加10%</color>，阴<color=e0834c>加5%</color>。"
+    translated: "Opening the Great Yin acupoint allows your power to extend and flow through flesh and blood as desired. This increases Vitality by <color=e0834c>10%</color> and enhances Yin by <color=e0834c>5%</color>."
 - raw: "60#太阳·御#打通太阳之穴，内聚阳炎，气血奔腾可环护躯体，根骨、力道<color=e0834c>增加10%</color>，阳<color=e0834c>加5%</color>。#0#10580#0#0#0#0#4#1|2|3|4|5#0##0#0#100#"
   splits:
   - split: 1
@@ -494,14 +494,14 @@
   - split: 2
     text: "灵气充斥，贯穿穴位，从而凝聚内外一气，生生不息，气机永不绝眠，诛心、身法<color=e0834c>增加10%</color>，刚<color=e0834c>加5%</color>。"
     translated: "Charged with spiritual energy permeating and coursing through the acupoints, it consolidates inner and outer energies into a continuous cycle of life and vitality. The energy mechanism never ceases to rest, resulting in Heartbreak; Agility increased by <color=e0834c>10%</color>, Hardness enhanced by <color=e0834c>5%</color>."
-- raw: "63#北冥·焚#气之北冥，贯以穿群，三洲四界，无所求不可救，真气、根骨<color=e0834c>增加10%</color>，毒<color=e0834c>加5%</color>。#0#10890#0#0#0#0#4#1|2|3|4|5#0##0#0#100#"
+- raw: "63#北冥·焚#气之北冥，贯以穿群，三洲四界，无所求不可救，元气、根骨<color=e0834c>增加10%</color>，毒<color=e0834c>加5%</color>。#0#10890#0#0#0#0#4#1|2|3|4|5#0##0#0#100#"
   splits:
   - split: 1
     text: "北冥·焚"
     translated: "Northern Darkness · Conflagration"
   - split: 2
-    text: "气之北冥，贯以穿群，三洲四界，无所求不可救，真气、根骨<color=e0834c>增加10%</color>，毒<color=e0834c>加5%</color>。"
-    translated: "Northernmost Qi, penetrating through the multitude, across three continents and four directions, nothing sought cannot be rescued. True Qi and Potential increase by <color=e0834c>10%</color>; Poison increases by <color=e0834c>5%</color>."
+    text: "气之北冥，贯以穿群，三洲四界，无所求不可救，元气、根骨<color=e0834c>增加10%</color>，毒<color=e0834c>加5%</color>。"
+    translated: "The Northernmost Qi, penetrating through multitudes, across the three continents and four corners of the world, can achieve anything that cannot be saved. Increases Vitality by <color=e0834c>10%</color>, enhances Poison by <color=e0834c>5%</color>."
 - raw: "501#机杼传承#巧手匠心制器械，机关巧思妙无穷。得机杼传承，解锁第四技能栏位。#0#10530#0#0#0#0#3##0##0#0#0#"
   splits:
   - split: 1
@@ -694,14 +694,14 @@
   - split: 2
     text: "富贵由天莫苦求，万金家计不须谋。学识<color=e0834c>增加25</color>，要害、真气<color=e0834c>增加75</color>，并且习得学识类属性的效果<color=e0834c>增加50%</color>。"
     translated: "Fortune is bestowed by the heavens and should not be pursued with toil; wealth need not be planned for meticulously. Learnings <color=e0834c>increase by 25</color>, vital points, true Qi <color=e0834c>increase by 75</color>, and also gain an enhancement of effect for learning attributes of <color=e0834c>50%</color>."
-- raw: "5001#吐气如剑#接受了一位姓迈的强者传承，愿称你为最强。外攻<color=e0834c>增加3%</color>。#0#10680#0#0#0#0#1##0##0#0#0#"
+- raw: "5001#吐气如剑#接受了一位姓迈的强者传承，愿称你为最强。内攻<color=e0834c>增加3%</color>。#0#10680#0#0#0#0#1##0##0#0#0#"
   splits:
   - split: 1
     text: "吐气如剑"
     translated: "Exhale like a sword"
   - split: 2
-    text: "接受了一位姓迈的强者传承，愿称你为最强。外攻<color=e0834c>增加3%</color>。"
-    translated: "Accepting the legacy from a powerful figure surnamed Mai, may you be known as the strongest. External Attack <color=e0834c>increases by 3%</color>."
+    text: "接受了一位姓迈的强者传承，愿称你为最强。内攻<color=e0834c>增加3%</color>。"
+    translated: "Having accepted a legacy from a powerful individual surnamed Mai, I wish to call you the strongest. Internal Attack <color=e0834c>Increased by 3%</color>."
 - raw: "5002#刀枪不入#吐出一口真气便能化为飞剑攻击。内攻<color=e0834c>增加3%</color>。#0#10690#0#0#0#0#1##0##0#0#0#"
   splits:
   - split: 1
@@ -1590,3 +1590,11 @@
   - split: 2
     text: "命中、闪避<color=e0834c>增加2%</color>。"
     translated: "Hit rate and dodge <color=e0834c>increased by 2%.</color>."
+- raw: "20680#慧根天成#聪明到极具慧根。感悟<color=e0834c>增加3%</color>。#0#20680#0#0#0#0#1##0##0#0#0#"
+  splits:
+  - split: 1
+    text: "慧根天成"
+    translated: "Innately wise mind"
+  - split: 2
+    text: "聪明到极具慧根。感悟<color=e0834c>增加3%</color>。"
+    translated: "Wise to a remarkable degree, possessing innate intelligence. Perception increased by <color=e0834c>3%</color>."

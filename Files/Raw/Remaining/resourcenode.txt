@@ -837,7 +837,11 @@
 27740#27740_xiyunv#
 27750#27750_main_hero#
 27760#27760_main_hero#
+27770#27770_main_hero#
 27790#27790_main_hero#
+27791#27791_main_hero#
+27792#27792_main_hero#
+27793#27793_main_hero#
 28000#28000_main_hero#
 28100#28100_main_hero#
 28110#28110_main_hero#

@@ -927,7 +927,7 @@
   - split: 37
     text: "夺回金条"
     translated: "Reclaim the gold bars"
-- raw: "30026#覆灭三家#0#0#0#950713#950708#950709##64332|1#0&41|90226#0&24|950732|1##0#7001|2&7002|2#0##0#0#7#90225#0##0##0##0#0#0##0#0#0#击败目标点{m_WaitEntrustKillNpcOriginSwapointId}处的王李郑三家（{WaitEntrustTargetItemMatchCount}/{WaitEntrustKillNpcSwapointIdCount}）#回禀{A}#0#覆灭三家#0###0#0#"
+- raw: "30026#覆灭三家#0#0#0#950713#950708#950709##64332|1#0&41|90225#0&24|950732|1##0#7001|2&7002|2#0##0#0#7#90225#0##0##0##0#0#0##0#0#0#击败目标点{m_WaitEntrustKillNpcOriginSwapointId}处的王李郑三家（{WaitEntrustTargetItemMatchCount}/{WaitEntrustKillNpcSwapointIdCount}）#回禀{A}#0#覆灭三家#0###0#0#"
   splits:
   - split: 1
     text: "覆灭三家"

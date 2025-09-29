@@ -4237,6 +4237,12 @@
 - raw: "李红华"
   splits:
   - text: "李红华"
+- raw: "修为"
+  splits:
+  - text: "修为"
+- raw: "15.2万"
+  splits:
+  - text: "15.2万"
 - raw: "刘备"
   splits:
   - text: "刘备"
@@ -4555,9 +4561,6 @@
 - raw: "解密"
   splits:
   - text: "解密"
-- raw: "修为"
-  splits:
-  - text: "修为"
 - raw: "感悟"
   splits:
   - text: "感悟"
@@ -4922,9 +4925,9 @@
 - raw: "成就"
   splits:
   - text: "成就"
-- raw: "侠云录"
+- raw: "天下英雄谱"
   splits:
-  - text: "侠云录"
+  - text: "天下英雄谱"
 - raw: "风雪"
   splits:
   - text: "风雪"
@@ -7004,6 +7007,9 @@
 - raw: "加载距离翻倍(翻倍视野距离会严重影响性能)"
   splits:
   - text: "加载距离翻倍(翻倍视野距离会严重影响性能)"
+- raw: "启用日志"
+  splits:
+  - text: "启用日志"
 - raw: "返回游戏"
   splits:
   - text: "返回游戏"
@@ -7127,12 +7133,6 @@
 - raw: "品质："
   splits:
   - text: "品质："
-- raw: "时装效果"
-  splits:
-  - text: "时装效果"
-- raw: "来源"
-  splits:
-  - text: "来源"
 - raw: "立绘表情包"
   splits:
   - text: "立绘表情包"
@@ -7145,6 +7145,12 @@
 - raw: "误解误解误解误解误解误解误解误解误解误解"
   splits:
   - text: "误解误解误解误解误解误解误解误解误解误解"
+- raw: "时装效果"
+  splits:
+  - text: "时装效果"
+- raw: "来源"
+  splits:
+  - text: "来源"
 - raw: "无"
   splits:
   - text: "无"
@@ -7631,6 +7637,9 @@
 - raw: "今天的东南风"
   splits:
   - text: "今天的东南风"
+- raw: "侠云录"
+  splits:
+  - text: "侠云录"
 - raw: "无双榜"
   splits:
   - text: "无双榜"
@@ -7643,6 +7652,9 @@
 - raw: "红颜榜"
   splits:
   - text: "红颜榜"
+- raw: "百花谱"
+  splits:
+  - text: "百花谱"
 - raw: "人榜潜力天骄"
   splits:
   - text: "人榜潜力天骄"
@@ -7700,6 +7712,9 @@
 - raw: "我的名望："
   splits:
   - text: "我的名望："
+- raw: "好感度"
+  splits:
+  - text: "好感度"
 - raw: "查看位置"
   splits:
   - text: "查看位置"
@@ -7739,6 +7754,9 @@
 - raw: "我的名望"
   splits:
   - text: "我的名望"
+- raw: "武商"
+  splits:
+  - text: "武商"
 - raw: "搜寻位置"
   splits:
   - text: "搜寻位置"
@@ -7973,12 +7991,12 @@
 - raw: "需运行对应主或副功法的同时连线对应经脉点就可以激活对应周天运行效果"
   splits:
   - text: "需运行对应主或副功法的同时连线对应经脉点就可以激活对应周天运行效果"
-- raw: "暂未淬炼五脏点"
-  splits:
-  - text: "暂未淬炼五脏点"
 - raw: "淬炼"
   splits:
   - text: "淬炼"
+- raw: "暂未淬炼五脏点"
+  splits:
+  - text: "暂未淬炼五脏点"
 - raw: "点击<color=#FF9800>五脏点</color>进行淬炼，再次点击取消"
   splits:
   - text: "点击<color=#FF9800>五脏点</color>进行淬炼，再次点击取消"

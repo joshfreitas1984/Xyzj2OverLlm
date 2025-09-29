@@ -740,17 +740,17 @@
   - split: 2
     text: "搏击变招五式_new_3"
     translated: "Five Techniques of Combat Transformation: 3 New Version"
-- raw: "501#0#暗器一式#0##jian12#366#0#6###0#0##spell_51_go|spell_51_s##0#1#0#0#0#0#5010#5012#0#0#0#0#0#0#0#0#166#0#0#0#0#0#0#0#0#0#0#sound_spell_501#0#4#0#0#0#0##0#0#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0#0#0###0#0#0#0.0#0#1#0#0#1#"
+- raw: "501#0#暗器一式#0##jian12#366#0#6###0#0##spell_51_go|spell_51_s##0#1#0#0#0#0#5010#5012#0#0#0#0#0#0#0#0#166#0#0#0#0#0#0#0#0#0#0#sound_spell_501#0#4#501#0#0#0##0#0#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0#0#0###0#0#0#0.0#0#1#0#0#1#"
   splits:
   - split: 2
     text: "暗器一式"
     translated: "One set of hidden weapons"
-- raw: "502#0#暗器二式#0##jian12#231#0#6###0#0##spell_52_go|spell_52_s##0#1#0#0#0#0#5020#5022#0#0#0#0#0#0#0#0#166#0#0#0#0#0#0#0#0#0#0#sound_spell_501#0#0#0#0#0#0##0#0#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0#0#0###0#0#0#0.0#0#1#0#0#1#"
+- raw: "502#0#暗器二式#0##jian12#231#0#6###0#0##spell_52_go|spell_52_s##0#1#0#0#0#0#5020#5022#0#0#0#0#0#0#0#0#166#0#0#0#0#0#0#0#0#0#0#sound_spell_501#0#0#502#0#0#0##0#0#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0#0#0###0#0#0#0.0#0#1#0#0#1#"
   splits:
   - split: 2
     text: "暗器二式"
     translated: "Second Form of the Hidden Weapon"
-- raw: "503#0#暗器三式#0##jian12#500#0#6###0#0##spell_53_go|spell_53_s##0#2#0#0#0#0#5030#5032#0#0#0#0#0#0#0#0#300#0#0#0#0#0#0#0#0#0#0#sound_spell_503#0#0#0#0#0#0##0#0#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0#0#0###0#0#0#0.0#0#1#0#0#1#"
+- raw: "503#0#暗器三式#0##jian12#500#0#6###0#0##spell_53_go|spell_53_s##0#2#0#0#0#0#5030#5032#0#0#0#0#0#0#0#0#300#0#0#0#0#0#0#0#0#0#0#sound_spell_503#0#0#503#0#0#0##0#0#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0#0#0###0#0#0#0.0#0#1#0#0#1#"
   splits:
   - split: 2
     text: "暗器三式"
@@ -6715,7 +6715,7 @@
   - split: 11
     text: "4米锁定目标"
     translated: "4 meters locked onto target"
-- raw: "105300#0#玄甲剑盾#11#剑纳山岳之沉，气吞江海之浑。盾起时，可挡千军辟易；盾落处，尽收万刃归宗。#1310#1000#0#0###身前1.9米180度扇形#0##spell_100530_go#sfx_main_hero_100530&0&true&true##0#0#0#0#15#1031000#0#0#0#0#0#0#0#0#0#333#0#0#0#0#0#0#0#0#0#0#sound_spell_102900##0#0#10000#0#3##0#0#0#0##0#0#2#3#1.9#90.0#0#0#0#0#0##0###0#0##0.4##1##0#1#"
+- raw: "105300#0#玄甲剑盾#11#剑纳山岳之沉，气吞江海之浑。盾起时，可挡千军辟易；盾落处，尽收万刃归宗。#1530#1500#0#0###身前直线3.5米#0##spell_100660_go#sfx_main_hero_shenjianjue&0&true&true#0#0#0#0#0#410#1053000#1053003#0#0#0#0#0#0#0#0#633#400#0#0#0#0#0#0#0#0#0#Shenjianjue##64#0#30000#0#3##0#4#0#0##0#0#2#2#3.5#2.0#0#0#0#0#0##0###4#0##1.1##1##0#1#"
   splits:
   - split: 2
     text: "玄甲剑盾"
@@ -6724,9 +6724,9 @@
     text: "剑纳山岳之沉，气吞江海之浑。盾起时，可挡千军辟易；盾落处，尽收万刃归宗。"
     translated: "The sword is as heavy as a mountain and its qi engulfs the turbid waters of rivers and seas. When it rises, it can repel thousands of fleeing armies; when it falls, it gathers all ten thousand blades to return to their origin."
   - split: 11
-    text: "身前1.9米180度扇形"
-    translated: "A semicircular spread extending 1.9 meters in front of 180."
-- raw: "105301#0#玄甲剑盾-触发#11#0#0#0#0#1###0#0##0#0##0#0#0#0#0#1031000#0#0#0#0#0#0#0#0#0#333#0#0#0#0#0#0#0#0#0#0#sound_spell_102900##0#0#10000#0#3##0#0#0#0##0#0#2#3#1.9#90.0#0#0#0#0#0##0###0#0##0.4##1##0#1#"
+    text: "身前直线3.5米"
+    translated: "A straight line extending 3.5 meters ahead."
+- raw: "105301#0#玄甲剑盾-触发#11#0#0#0#0#7###0#0##0#sfx_main_hero_shenjianjue_jianqi&0&true&true##0#0#0#0#0#1053000#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0##0#0#0#0#0##0#0#0#0##0#0#-1#2#3.5#2.0#0#0#0#0#0##0###0#0##0##0##0#0#"
   splits:
   - split: 2
     text: "玄甲剑盾-触发"
@@ -7646,7 +7646,7 @@
   - split: 11
     text: "自身周围2米"
     translated: "Within a radius of 2 meters around oneself."
-- raw: "112500#0#双劫缚#11#踏罡步斗，刀光骤化双交缠之形，刀势起时，雷芒如龙首分咬左右，划破虚空留下焦灼裂痕，似要将天地劈作两界。#1310#1000#0#0###身前1.9米180度扇形#0##spell_100530_go#sfx_main_hero_100530&0&true&true##0#0#0#0#15#1031000#0#0#0#0#0#0#0#0#0#333#0#0#0#0#0#0#0#0#0#0#sound_spell_102900##0#0#10000#1#3##0#0#0#0##0#0#2#3#1.9#90.0#0#0#0#0#0##0###0#0##0.4##1##0#1#"
+- raw: "112500#0#双劫缚#11#踏罡步斗，刀光骤化双交缠之形，刀势起时，雷芒如龙首分咬左右，划破虚空留下焦灼裂痕，似要将天地劈作两界。#dao_1250#1666#0#0###身前2米范围#0##spell_110610_go#sfx_main_hero_longyin&0&true&true##0#0#0#0#410#1125000#1125000#0#0#0#0#0#0#0#0#264#1433#0#0#0#0#0#0#0#0#0#Longyin##65#0#30000#1#3##0#4#0#0##0#0#3#6#2.0#1.0#0#0#0#0#0##0###4#0##1.5##1##0#1#"
   splits:
   - split: 2
     text: "双劫缚"
@@ -7655,8 +7655,13 @@
     text: "踏罡步斗，刀光骤化双交缠之形，刀势起时，雷芒如龙首分咬左右，划破虚空留下焦灼裂痕，似要将天地劈作两界。"
     translated: "Treading the Stairway of Stars and Circles, the flash of blades suddenly forms an intertwining double helix. As the blades rise, bolts of lightning strike like dragon heads biting left and right, cleaving through the void to leave scorching gashes behind, as if splitting heaven and earth into two realms."
   - split: 11
-    text: "身前1.9米180度扇形"
-    translated: "A semicircular spread extending 1.9 meters in front of 180."
+    text: "身前2米范围"
+    translated: "Within a 2‑meter radius in front"
+- raw: "112501#0#双劫缚-目标受伤特效触发#0#0#0#0#0#1#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0##0#0#0#0#0.0#0.0#0#0#0#0#0#0#0#0##0#0#0#0.0#0#0#0#0#0#"
+  splits:
+  - split: 2
+    text: "双劫缚-目标受伤特效触发"
+    translated: "Dual Binding Curses ‑ Target injured effect triggered"
 - raw: "120000#0#龙叩首#11#枪舞升涛浪，回龙今叩首。十里提携，刺敌一点间。#qiang_1000#1333#0#0###身前2.4米180度扇形#0##spell_140120_go#sfx_main_hero_140120&0&false&true#0#0#0#0#0#81#1200000#0#0#0#0#0#0#0#0#0#300#0#0#0#0#0#0#0#0#0#0#sound_spell_140120_go#0#0#0#15000#2#3##0#2#0#0#0#30#5#0#0#0.0#0.0#0#0#0#0#0#0#0###2#0#0#0.5#0#1#0#0#1#"
   splits:
   - split: 2
@@ -8464,7 +8469,7 @@
   - split: 11
     text: "身前3米范围"
     translated: "Within a 3‑meter range in front of oneself."
-- raw: "122100#0#燎原贯日#11#星火燃穹野，长枪破云霄。燎原焚万骨，贯日镇八荒。枪出时如彗星贯日，拖曳出三丈烈焰轨迹，所过之处空气焦灼爆裂，似有万千星火燎原。#1310#1000#0#0###身前1.9米180度扇形#0##spell_100530_go#sfx_main_hero_100530&0&true&true##0#0#0#0#15#1031000#0#0#0#0#0#0#0#0#0#333#0#0#0#0#0#0#0#0#0#0#sound_spell_102900##0#0#10000#2#3##0#0#0#0##0#0#2#3#1.9#90.0#0#0#0#0#0##0###0#0##0.4##1##0#1#"
+- raw: "122100#0#燎原贯日#11#星火燃穹野，长枪破云霄。燎原焚万骨，贯日镇八荒。枪出时如彗星贯日，拖曳出三丈烈焰轨迹，所过之处空气焦灼爆裂，似有万千星火燎原。#qiang_1210#1666#0#0###自身周围1.2米#0##spell_140610_go#sfx_main_hero_guanxingqiang&0&true&true##0#0#0#0#410#1221000#1221000#1221000#1221000#1221000#1221002#0#0#0#0#866#933#1000#1066#1133#833#0#0#0#0#0#Guanxingshi##65#0#30000#2#3##0#4#0#0##0#0#0#3#1.2#180.0#0#0#0#0#0##0###4#0##1.43##1##0#1#"
   splits:
   - split: 2
     text: "燎原贯日"
@@ -8473,8 +8478,8 @@
     text: "星火燃穹野，长枪破云霄。燎原焚万骨，贯日镇八荒。枪出时如彗星贯日，拖曳出三丈烈焰轨迹，所过之处空气焦灼爆裂，似有万千星火燎原。"
     translated: "Stars ignite the vault of heaven as long spears shatter the skies. The prairie is set ablaze, incinerating millions of bones; it anchors the day and pacifies the eight wilds. When the spear emerges, it resembles a comet piercing through the sun, trailing three zhang in its path of fierce flames. Wherever it passes, the air burns and bursts asunder, like countless stars igniting across the prairie."
   - split: 11
-    text: "身前1.9米180度扇形"
-    translated: "A semicircular spread extending 1.9 meters in front of 180."
+    text: "自身周围1.2米"
+    translated: "Within a radius of 1.2 meters around oneself."
 - raw: "130000#0#猛虎式#11#猛虎出山，猎敌百里，蓄势待发。#quan_1000#1300#0#0###身前1米范围1米圆形#0##spell_130010_go#sfx_main_hero_130340&0&true&true#0#2#0#0#0#36#1300000#0#0#0#0#0#0#0#0#0#633#0#0#0#0#0#0#0#0#0#0#sound_1_spell_130010_go#0#0#130000#15000#3#3##0#2#0#0#2&0.6|0|1|1|5|13000020#30#5#0#0#0.0#0.0#0#0#0#0#0#0#0###2#0#0#0.66#0#1#0#0#1#"
   splits:
   - split: 2
@@ -10358,7 +10363,7 @@
     translated: "Chizi Yu Liao Kong Bu Jing Hong; Jiao Tu Fen Feng Juan Can Yun. Teng Nuo Jian Yi Yang Jin Zhuo Shao Di Mian, Huo She Ru Feng Yi Pu Zhan. Chi Xu Zao Cheng Zhuo Shao Xiang Guo, Bing Gen Su Zi Shen Yang Shi Zuan Chu E Wu Sai Sang."
 - raw: "134701#0#0#0#0#0#0#0#1#0#0#0#0#0#0#0#0#0#0#0#0#0#1347010#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0##0#0#0#0#0.0#0.0#0#0#0#0#0#0#0#0##0#0#0#0.0#0#0#0#0#0#"
   splits: []
-- raw: "134900#0#万罡破#11#罡气裂金石，劫拳破千甲。万防皆虚妄，一念碎山河。拳风所至，空气爆裂如碎玉，隐有金石崩裂之声，似有万千无形重锤同时砸落。#1310#1000#0#0###身前1.9米180度扇形#0##spell_100530_go#sfx_main_hero_100530&0&true&true##0#0#0#0#15#1031000#0#0#0#0#0#0#0#0#0#333#0#0#0#0#0#0#0#0#0#0#sound_spell_102900##0#0#10000#3#3##0#0#0#0##0#0#2#3#1.9#90.0#0#0#0#0#0##0###0#0##0.4##1##0#1#"
+- raw: "134900#0#万罡破#11#罡气裂金石，劫拳破千甲。万防皆虚妄，一念碎山河。拳风所至，空气爆裂如碎玉，隐有金石崩裂之声，似有万千无形重锤同时砸落。#quan_1490#2266#0#0###身前0.5米范围1.5米#0##spell_130860_go#sfx_main_hero_wanjiequan&0&true&true##0#0#0#0#410#0#1349000#1349000#1349000#1349001#0#0#0#0#0#0#500#966#1233#1833#0#0#0#0#0#0#Wanjiequan##65#0#30000#3#3##0#4#0#0##0#0#3#6#1.5#0.5#0#0#0#0#0##0###4#0##1.9##1##0#1#"
   splits:
   - split: 2
     text: "万罡破"
@@ -10367,8 +10372,10 @@
     text: "罡气裂金石，劫拳破千甲。万防皆虚妄，一念碎山河。拳风所至，空气爆裂如碎玉，隐有金石崩裂之声，似有万千无形重锤同时砸落。"
     translated: "The martial aura cleaves through gold and stone; the fierce punch shatters a thousand armors. All defenses prove false illusions, while a single thought breaks mountains and rivers. Wherever the fist's gale strikes, it tears the air apart like shattered jade, accompanied by sounds as if gold and rock were crashing in ruin, resembling countless invisible sledgehammers falling simultaneously."
   - split: 11
-    text: "身前1.9米180度扇形"
-    translated: "A semicircular spread extending 1.9 meters in front of 180."
+    text: "身前0.5米范围1.5米"
+    translated: "Range of 0.5 meters ahead to 1.5 meters away."
+- raw: "134901#0#0#0#0#0#0#0#1#0#0#0#0#0#0#0#0#0#0#0#0#0#1349010#1349011#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0#0#0#0##0#0#0#0.0#0#0#0#0#0#"
+  splits: []
 - raw: "150000#0#百战圣功#7#经百战之磨砺，历尽沙场险恶。内力深厚，刚柔相济。#xinfa_1000#2112#2#2#0#0#0#0#0#spell_103_go#sfx_tongyongxuqi_gang&0&true#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#150000#90000#4#4#0#0#3#0#0##0#0#3#0#0.0#0.0#1|2009&2|2010&3|2011&4|2016#150001#0#9284#0#0#0#0##3#1750#0#0.0#72120|72130|72140|72150#1#0#0#1#"
   splits:
   - split: 2
@@ -10847,6 +10854,36 @@
   splits: []
 - raw: "152604#0#0#0#0#0#0#0#7#0#0#0#0#0#0#sfx_main_hero_120560_End_1&0&true&true#0#0#0#0#0#0#1526040#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#sound_spell_120560_end#0#0#0#0#0#0#0#0#0#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0#0#0#0##0#0#0#0.0#0#1#0#0#0#"
   splits: []
+- raw: "152610#0#北冥固元#1#运功时真气如渊渟岳峙，双掌擎天纳地，敌者护体罡气尽被抽丝剥茧，化作无形甲胄附于自身！须臾间金刚不坏，万兵难侵，似巨鳌负山而立。#xinfa1244#2112#2#0####0##spell_103_go#sfx_main_hero_120590_start&0&true&true##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0##0#0#90000#4#4##0#4#0#0##0#0#-1#0#0.0#0.0#1|2017&2|2018&3|2019&4|2020#152611#0#9308#0##0###4#3500##0.0#70160|70170|70180|70190|70200#1##0#1#"
+  splits:
+  - split: 2
+    text: "北冥固元"
+    translated: "Beiming Guyuan"
+  - split: 4
+    text: "运功时真气如渊渟岳峙，双掌擎天纳地，敌者护体罡气尽被抽丝剥茧，化作无形甲胄附于自身！须臾间金刚不坏，万兵难侵，似巨鳌负山而立。"
+    translated: "During the cultivation, his True Qi was as deep and majestic as a mountain standing firm. His palms raised to heaven and clasped the earth, while his opponent's protective forceful energy was entirely stripped away layer by layer, transformed into an invisible armor clinging to their own body! In an instant, they became impervious like a diamond that cannot be broken, surrounded by thousands of soldiers unable to penetrate; it seemed as if a giant turtle were bearing mountains upon its back and standing firm."
+- raw: "152611#0##0#消耗30%当前真气，30秒内，减少周围敌人10%攻击并增强自身10%防御##0#0#0####0#####0#0#0#0#0#1526100#1526101#1526102#0#0#0#0#0#0#0#300#300#300#0#0#0#0#0#0#0#0###0#0#0#0#0##0#0#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###0#0##0.0##1##0#0#"
+  splits:
+  - split: 4
+    text: "消耗30%当前真气，30秒内，减少周围敌人10%攻击并增强自身10%防御"
+    translated: "Consume 30% of current True Qi; for the next 30 seconds, reduce nearby enemies' attack by 10% and enhance self‑defense by 10%."
+- raw: "152612#0#0#0#0#0#0#0#1#0#0#0#0#0#0#0#0#0#0#0#0#0#1526104#1526105#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0#0#0#0##0#0#0#0.0#0#0#0#0#0#"
+  splits: []
+- raw: "152620#0#化血摧岳#1#骤起如饕餮吞世，攫敌锋芒于掌间，夺其杀伐之气反淬己身。霎时臂涌龙象之力，翻掌崩山裂岳，一招一式皆含敌劲叠浪，摧城破甲如碾蜉蝣！#xinfa1245#3333#2#0####0##spell_120580_go#sfx_main_hero_120580&0&true&true##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#Xixing1##0#0#90000#4#4##0#4#0#0##0#0#-1#0#0.0#0.0#1|2017&2|2018&3|2019&4|2020#152621#0#9308#0##0###4#3500##0.0#70160|70170|70180|70190|70200#1##0#1#"
+  splits:
+  - split: 2
+    text: "化血摧岳"
+    translated: "Transform Blood, Shatter Mountains"
+  - split: 4
+    text: "骤起如饕餮吞世，攫敌锋芒于掌间，夺其杀伐之气反淬己身。霎时臂涌龙象之力，翻掌崩山裂岳，一招一式皆含敌劲叠浪，摧城破甲如碾蜉蝣！"
+    translated: "Suddenly rising like a ravenous ogre devouring the world, he grasped his enemy's fierceness in his palm and absorbed their martial spirit to temper himself. In an instant, immense force surged through his arms‑strong enough to overthrow mountains and split valleys. Each move and technique contained layers of the opponent's energy, crashing down like waves that could crush cities and armor as if grinding flies!"
+- raw: "152621#0##0#消耗30%当前真气，对身前4米范围内敌人持续造成伤害。30秒内，减少敌人10%防御并增强自身10%攻击##0#0#0####0#####0#0#0#0#0#1526200#1526201#1526202#1526205#1526205#1526205#1526205#1526205#1526205#0#2600#2600#2600#2600#666#1000#1400#1800#2200#0#0###0#0#0#0#0##0#0#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###0#0##0.0##1##0#0#"
+  splits:
+  - split: 4
+    text: "消耗30%当前真气，对身前4米范围内敌人持续造成伤害。30秒内，减少敌人10%防御并增强自身10%攻击"
+    translated: "Consume 30% of current True Qi to continuously inflict damage on enemies within a 4 meter range ahead. For the next 30 seconds, reduce enemy defense by 10% and enhance self‑attack power by 10%."
+- raw: "152622#0#0#0#0#0#0#0#1#0#0#0#0#0#0#0#0#0#0#0#0#0#1526204#1526206#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0#0#0#0##0#0#0#0.0#0#0#0#0#0#"
+  splits: []
 - raw: "152700#0#无名心法#1#随性运转，容纳万法。虽无显赫威势，但与各家武学皆能相融。#mi1003#2112#2#0#0#0#0#0#0#spell_103_go#sfx_xinfa_107&0&true&true#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#90000#4#4#0#0#1#0#0##0#0#-1#0#0.0#0.0#1|2001&2|2002&3|2003&4|2004#152701#0#9309#0#0#0#0##1#55#0#0.0#70050|70060|71050|71060|72050|72060|73050|73060|74050|74060#1#0#0#1#"
   splits:
   - split: 2
@@ -10973,22 +11010,10 @@
   - split: 4
     text: "震退周围敌人，对敌人造成三次内功威力为150和一次内功威力为500的两次伤害"
     translated: "Recoil enemies around and deal three instances of Neigong power damage of 150, as well as one instance of Neigong power damage of 500."
-- raw: "153502#0#千棘气诀#0#气凝千钧棘，枣核破虚妄。一掷风云变，真元化血芒。抬手掷出时，枣核裹挟真气轰鸣破空，轨迹划出流光，似有万千无形气刃开道。#0#0#0#1#0#0#0#0#0#0#0#0#0#0#0#0#0#1535007#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0##0#0#0#0#0.0#0.0#0#0#0#0#0#0#0#0##0#0#0#0.0#0#0#0#0#0#"
-  splits:
-  - split: 2
-    text: "千棘气诀"
-    translated: "Thousand Thorn Qi Technique"
-  - split: 4
-    text: "气凝千钧棘，枣核破虚妄。一掷风云变，真元化血芒。抬手掷出时，枣核裹挟真气轰鸣破空，轨迹划出流光，似有万千无形气刃开道。"
-    translated: "The Qi coalesces into a thousand‑pound thorn; the apricot seed shatters illusions. With one throw, it alters the winds and clouds‑true essence transforms into bloodlightning. As it is thrown, the apricot seed, enveloping True Qi, booms through the air, carving a path of luminous flow as if opening a way with countless invisible ethereal blades."
-- raw: "153503#0#九幽冰篆#0#玄冥凝寒魄，生死判阴阳。冰刺锁八方，阴爆碎九霄。抬手轻推，冰篆化作三道流光没入敌身，首道冰篆刺入瞬间冻结其周身大穴，经脉如覆寒冰；次道冰篆紧随炸开，阴寒真气如毒蛇缠心，引动敌方体内寒毒。#0#0#0#1#0#0#0#0#0#0#0#0#0#0#0#0#0#1535003#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0##0#0#0#0#0.0#0.0#0#0#0#0#0#0#0#0##0#0#0#0.0#0#0#0#0#0#"
-  splits:
-  - split: 2
-    text: "九幽冰篆"
-    translated: "Nine Netherworld Ice Seal Script"
-  - split: 4
-    text: "玄冥凝寒魄，生死判阴阳。冰刺锁八方，阴爆碎九霄。抬手轻推，冰篆化作三道流光没入敌身，首道冰篆刺入瞬间冻结其周身大穴，经脉如覆寒冰；次道冰篆紧随炸开，阴寒真气如毒蛇缠心，引动敌方体内寒毒。"
-    translated: "The Mystery Yin Condenses into a Frosty Spirit, Judging Life and Death by the Yin and Yang. Ice Thorns Lock in All Directions; the Yin Explodes into Nine Heavens. With a lift of her hand, she lightly pushes three trails of luminous flow into the enemy's body: The first luminous trail freezes all surrounding acupoints instantly as if covered by frost; the second follows closely and detonates, unleashing yin‑cold true qi that coils like a poisonous snake around the heart, triggering latent cold poison within the opponent."
+- raw: "153502#0##0##0#0#0#1#0#0#0#0#0#0#0#0#0#0#0#0#0#1535007#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0##0#0#0#0#0.0#0.0#0#0#0#0#0#0#0#0##0#0#0#0.0#0#0#0#0#0#"
+  splits: []
+- raw: "153503#0##0##0#0#0#1#0#0#0#0#0#0#0#0#0#0#0#0#0#1535003#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0##0#0#0#0#0.0#0.0#0#0#0#0#0#0#0#0##0#0#0#0.0#0#0#0#0#0#"
+  splits: []
 - raw: "160000#0#飞花摘叶#11#暴雨倾盆，寒光更甚。以巧劲不断向身前扔出十字镖，练至深处可回旋，有概率额外造成伤害。#anqi_1000#1766#0#0#0#0#身前直线6米#0#0#spell_160020_go#sfx_main_hero_160020&0&true&true#0#0#0#0#0#81#1600000#1600000#1600000#1600000#1600000#0#0#0#0#0#333#533#733#933#1133#0#0#0#0#0#0#sound_spell_160100#0#0#0#9000#5#3#0#0#2#0#0##0#0#-1#2#6.0#1.6#0#0#0#0#0#0#0#0##2#0#0#1.2#0#1#0#0#1#"
   splits:
   - split: 2
@@ -11316,6 +11341,17 @@
     translated: "The power of the Divine Needle of Peony has increased by 60%. The user is immune to any detrimental effects."
 - raw: "161412#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#1614120#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0##0#0#0#0#0.0#0.0#0#0#0#0#0#0#0#0##0#0#0#0.0#0#1#0#0#0#"
   splits: []
+- raw: "161420#0#葵花定魂针#11#快若流光，针随心动，瞬息间取敌性命，针影交织间如同花开花落，飘忽不定。可对敌人造成虚弱效果。#anqi_1142#1333#0#0###自身周围3.5米#0##spell_160360_go#sfx_main_hero_160360&0&true&true##0#0#0#0#410#1614200#1614200#1614200#1614200#0#0#0#0#0#0#333#533#733#933#0#0#0#0#0#0#0#Xinkuihua##32#0#30000#5#3##0#4#0#0##0#0#1#3#3.5#180.0#0#0#0#0#0##0###4#0##1.1##1##0#1#"
+  splits:
+  - split: 2
+    text: "葵花定魂针"
+    translated: "Dafeng Jinding Heart Needle"
+  - split: 4
+    text: "快若流光，针随心动，瞬息间取敌性命，针影交织间如同花开花落，飘忽不定。可对敌人造成虚弱效果。"
+    translated: "Swift as the Luminous Flow, the needle moves with a dancer's grace, taking lives in an instant. In the dance of shadows where needles intersect like flowers blooming and wilting, its presence is elusive. This technique can render enemies weakened."
+  - split: 11
+    text: "自身周围3.5米"
+    translated: "Within a 3.5 meter radius around oneself."
 - raw: "161500#0#暴雨梨花针#11#暴雨梨花飘，向前方射出大量暗器，可引爆目标身上中毒效果。#anqi_1150#2666#0#0#0#0#身前90度，4米#0#0#spell_160240_go#sfx_main_hero_160240&0&true&true#0#0#0#0#0#410#1615000#1615000#1615000#1615000#1615000#1615000#0#0#0#0#1000#1333#1666#2000#2333#2666#0#0#0#0#0#sound_spell_160240#0#0#0#30000#5#3#0#0#4#0#0##0#0#4#3#4.0#45.0#0#0#0#0#0#0#0#0##4#0#0#2.33#0#1#0#0#1#"
   splits:
   - split: 2
@@ -11436,18 +11472,39 @@
   - split: 11
     text: "自身周围4米"
     translated: "Within 4 meters of oneself"
-- raw: "162400#0#千棘气诀#11#气凝千钧棘，枣核破虚妄。一掷风云变，真元化血芒。抬手掷出时，枣核裹挟真气轰鸣破空，轨迹划出流光，似有万千无形气刃开道。#1310#1000#0#0###身前1.9米180度扇形#0##spell_100530_go#sfx_main_hero_100530&0&true&true##0#0#0#0#15#1031000#0#0#0#0#0#0#0#0#0#333#0#0#0#0#0#0#0#0#0#0#sound_spell_102900##0#0#10000#5#3##0#0#0#0##0#0#2#3#1.9#90.0#0#0#0#0#0##0###0#0##0.4##1##0#1#"
+- raw: "162400#0#千棘气诀#11#气凝千钧棘，枣核破虚妄。一掷风云变，真元化血芒。抬手掷出时，枣核裹挟真气轰鸣破空，轨迹划出流光，似有万千无形气刃开道。#anqi_1240#1900#0#0###身前直线8米#0##spell_160340_go#sfx_main_hero_zaoheding&0&true&true##0#0#0#0#410#1624000#1624002#1624003#0#0#0#0#0#0#0#1266#1391#1516#1666#0#0#0#0#0#0#0#Zhaoheding##64#0#30000#5#3##0#4#0#0##0#0#2#2#8.0#1.5#0#0#0#0#0##0###4#0##1.7##1##0#1#"
   splits:
   - split: 2
     text: "千棘气诀"
     translated: "Thousand Thorn Qi Technique"
   - split: 4
     text: "气凝千钧棘，枣核破虚妄。一掷风云变，真元化血芒。抬手掷出时，枣核裹挟真气轰鸣破空，轨迹划出流光，似有万千无形气刃开道。"
-    translated: "The Qi condensed into a ten‑thousand‑pound thorn; the seed's illusion shattered. In one throw, it transformed the wind and clouds; true essence morphed into blood spines. As his hand lifted to cast, the seed encased in True Qi exploded through the air, its path tracing a Luminous Flow as if myriad invisible energy blades cleared the way."
+    translated: "The Qi coalesces into a thousand‑pound thorn; the apricot seed shatters illusions. With one throw, it alters the winds and clouds‑true essence transforms into bloodlightning. As it is thrown, the apricot seed, enveloping True Qi, booms through the air, carving a path of luminous flow as if opening a way with countless invisible ethereal blades."
   - split: 11
-    text: "身前1.9米180度扇形"
-    translated: "A semicircular spread extending 1.9 meters in front of 180."
-- raw: "162500#0#九幽冰篆#11#玄冥凝寒魄，生死判阴阳。冰刺锁八方，阴爆碎九霄。阴寒真气如毒蛇缠心，引动敌方体内寒毒。#1310#1000#0#0###身前1.9米180度扇形#0##spell_100530_go#sfx_main_hero_100530&0&true&true##0#0#0#0#15#1031000#0#0#0#0#0#0#0#0#0#333#0#0#0#0#0#0#0#0#0#0#sound_spell_102900##0#0#10000#5#3##0#0#0#0##0#0#2#3#1.9#90.0#0#0#0#0#0##0###0#0##0.4##1##0#1#"
+    text: "身前直线8米"
+    translated: "A straight line of 8 meters in front."
+- raw: "162410#0#千棘凝真#7#内力奔涌如潮，真气磅礴倍增。每发一记枣核暗器，皆可分化双劲：一核破空如流星，一核追魂似鬼魅。双劲齐出，虚实难辨，触者非死即伤。练至精深，谈笑间双核连环迸发，贯颅穿心，防无可防！#anqi_1241#2166#2#0####0##spell_103_go#0##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0##32#0#90000#5#4##0#4#0#0##0#0#2#0#0.0#0.0#1|2017&2|2018&3|2019&4|2020#162411#0#9307#0##0###4#3500##1.5#70160|70170|70180|70190|70200#1##0#1#"
+  splits:
+  - split: 2
+    text: "千棘凝真"
+    translated: "Thousand Thorns Condensation of Truthfulness"
+  - split: 4
+    text: "内力奔涌如潮，真气磅礴倍增。每发一记枣核暗器，皆可分化双劲：一核破空如流星，一核追魂似鬼魅。双劲齐出，虚实难辨，触者非死即伤。练至精深，谈笑间双核连环迸发，贯颅穿心，防无可防！"
+    translated: "Inner power surged like a tide, with True Qi swelling exponentially. Each time a jujube seed hidden weapon was released, it split into two powerful forces: One core shatters the air like a meteor; the other trails souls like a ghostly apparition. The twin strikes are simultaneous, indistinguishable between real and illusion, leaving no one touched who does not die or get wounded. When refined to perfection, with but a word and a smile, both cores detonate in succession, piercing skulls and hearts alike‑defenses are utterly futile!"
+- raw: "162411#0#千棘凝真-运功#0#持续时间内攻击时额外释放一道的30外攻威力的追踪攻击，调息0.5秒##0#0#0####0#####0#0#0#0#0#1624100#0#0#0#0#0#0#0#0#0#333#0#0#0#0#0#0#0#0#0#0###0#0#0#0#0##0#0#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###0#0##0.0##1##0#0#"
+  splits:
+  - split: 2
+    text: "千棘凝真-运功"
+    translated: "Thousand Prickles Perfect the Realness ‑ Channeling"
+  - split: 4
+    text: "持续时间内攻击时额外释放一道的30外攻威力的追踪攻击，调息0.5秒"
+    translated: "While performing internal attacks during the specified duration, release an additional external attack with tracking power equal to 30. Adjust breath for 0.5 seconds."
+- raw: "162412#0#千棘凝真-运功-触发#0#0#0#0#0#1#0#0#0#0#0#0#0#0#0#0#0#0#0#1624101#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0#0#0#0##0#0#0#0.0#0#0#0#0#0#"
+  splits:
+  - split: 2
+    text: "千棘凝真-运功-触发"
+    translated: "Thousand Thorns Condenses into Truthfulness ‑ Channeling ‑ Trigger"
+- raw: "162500#0#九幽冰篆#11#玄冥凝寒魄，生死判阴阳。冰刺锁八方，阴爆碎九霄。阴寒真气如毒蛇缠心，引动敌方体内寒毒。#anqi_1250#1500#0#0###身前直线7米#0##spell_160330_go#sfx_main_hero_shengsitie&0&true&true##0#0#0#0#410#1625000#0#0#0#0#0#0#0#0#0#1000#0#0#0#0#0#0#0#0#0#0#Shengsitie##64#0#30000#5#3##0#4#0#0##0#0#1#2#7.0#1.5#0#0#0#0#0##0###4#0##1.16##1##0#1#"
   splits:
   - split: 2
     text: "九幽冰篆"
@@ -11456,9 +11513,45 @@
     text: "玄冥凝寒魄，生死判阴阳。冰刺锁八方，阴爆碎九霄。阴寒真气如毒蛇缠心，引动敌方体内寒毒。"
     translated: "The dark essence of the Xuanming chill binds life and death in Yin and Yang. Ice spikes lock across all directions; a burst of cold shatters the nine skies. The chilling True Qi coils like poison within the heart, triggering an eruption of icy poison within the opponent's body."
   - split: 11
-    text: "身前1.9米180度扇形"
-    translated: "A semicircular spread extending 1.9 meters in front of 180."
-- raw: "190000#0#云鹤吐纳#11#身如一鹤凌云，万里晴空，胸中天地开阔。#15#2112#2#0#0#0#0#0#0#spell_103_go#sfx_main_hero_3308050&0&true#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#190000#90000#4#4#0#0#0#0#0##0#0#-1#0#0.0#0.0#1|2001&2|2002&3|2003&4|2004#190001#0#9267#0#0#0#0##0#110#0#0.0#70010|70020|71010|71020|72010|72020|73010|73020|74010|74020#1#0#0#1#"
+    text: "身前直线7米"
+    translated: "A straight line of 7 meters ahead"
+- raw: "162501#0#0#0#0#0#0#0#1#0#0#0#0#0#0#0#0#0#0#0#0#0#1625002#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0#0#0#0##0#0#0#0.0#0#0#0#0#0#"
+  splits: []
+- raw: "162510#0#玄冥双生#7#黄泉引路，冰狱双生！真气彻骨极寒，出手时阴风凝双煞，一道封脉冻髓，一道追魂索命。#anqi_1251#2166#2#0###0#0##spell_103_go#0##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0##32#0#90000#5#4##0#4#0#0##0#0#1#0#0.0#0.0#1|2017&2|2018&3|2019&4|2020#162511#0#9307#0##0###4#3500##1.5#70160|70170|70180|70190|70200#1##0#1#"
+  splits:
+  - split: 2
+    text: "玄冥双生"
+    translated: "Xuanming Shuangsheng"
+  - split: 4
+    text: "黄泉引路，冰狱双生！真气彻骨极寒，出手时阴风凝双煞，一道封脉冻髓，一道追魂索命。"
+    translated: "Hell calls you forth and the twin prisons of ice await! The True Qi penetrates your bones with utmost coldness. When you strike, a chilling Yin wind solidifies into two fatal forces: one seals the lifelines to freeze the marrow; the other chases spirits to claim lives."
+- raw: "162511#0#玄冥双生-运功#0#持续时间内攻击时额外释放一道的30内攻威力的追踪攻击，调息0.5秒##0#0#0####0#####0#0#0#0#0#1625100#0#0#0#0#0#0#0#0#0#333#0#0#0#0#0#0#0#0#0#0###0#0#0#0#0##0#0#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###0#0##0.0##1##0#0#"
+  splits:
+  - split: 2
+    text: "玄冥双生-运功"
+    translated: "Xuanmeng Twin Stars ‑ Channeling"
+  - split: 4
+    text: "持续时间内攻击时额外释放一道的30内攻威力的追踪攻击，调息0.5秒"
+    translated: "During the duration of an attack, release an additional tracking attack with 30 internal power, and regulate breathing for 0.5 seconds."
+- raw: "162512#0#玄冥双生-运功-触发#0###0#0#1####0#####0#0#0#0#0#1625101#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###0#0#0#0#0##0#0#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###0#0##0.0##0##0#0#"
+  splits:
+  - split: 2
+    text: "玄冥双生-运功-触发"
+    translated: "Dark Void Twin Births ‑ Channeling ‑ Triggered"
+- raw: "162600#0#小李飞刀#11#一点寒星破空，中敌瞬间刀气迸裂，分化多道淬冷流光如毒蛇吐信，封喉、穿心、断脉连环不绝！敌纵有通天身法，亦难逃飞刀裂影追魂之势，唯见血梅绽处，生死已判。#anqi_1260#1333#0#0###身前直线7米#0##spell_160350_go#sfx_main_hero_160350&0&true&true##0#0#0#0#410#1626000#0#0#0#0#0#0#0#0#0#733#0#0#0#0#0#0#0#0#0#0#Xiaolifeidao##65#0#30000#5#3##0#4#0#0##0#0#3#2#7.0#2.0#0#0#0#0#0##0###4#0##1.0##1##0#1#"
+  splits:
+  - split: 2
+    text: "小李飞刀"
+    translated: "Little Li throws the knife"
+  - split: 4
+    text: "一点寒星破空，中敌瞬间刀气迸裂，分化多道淬冷流光如毒蛇吐信，封喉、穿心、断脉连环不绝！敌纵有通天身法，亦难逃飞刀裂影追魂之势，唯见血梅绽处，生死已判。"
+    translated: "A single frosty star pierced the sky, and in an instant, a burst of sword energy shattered into multiple cold luminous flows, like venomous snakes releasing their fangs. They encircled the throat, penetrated the heart, severed veins in endless succession! Even if the enemy possessed ethereal agility, escaping from the relentless pursuit of these slicing blades was impossible. The only sight left to see was where blood blossomed, determining life or death."
+  - split: 11
+    text: "身前直线7米"
+    translated: "A straight line of 7 meters ahead"
+- raw: "162601#0#0#0#0#0#0#0#1#0#0#0#0#0#0#0#0#0#0#0#0#0#1626002#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0##0#0#0#0#0.0#0.0#0#0#0#0#0#0#0#0##0#0#0#0.0#0#0#0#0#0#"
+  splits: []
+- raw: "190000#0#云鹤吐纳#11#身如一鹤凌云，万里晴空，胸中天地开阔。#15#2112#2#0#0#0#0#0#0#spell_103_go#sfx_main_hero_3308050&0&true#0#0#0#0#0#0#1031000#0#0#0#0#0#0#0#0#0#300#0#0#0#0#0#0#0#0#0#0#0#0#0#190000#90000#4#4#0#0#0#0#0##0#0#-1#0#0.0#0.0#1|2001&2|2002&3|2003&4|2004#190001#0#9267#0#0#0#0##0#110#0#0.0#70010|70020|71010|71020|72010|72020|73010|73020|74010|74020#1#0#0#1#"
   splits:
   - split: 2
     text: "云鹤吐纳"
@@ -23371,7 +23464,7 @@
   - split: 4
     text: "如幻似真之蝉，随云而行，身法轻灵，步移影换，若隐若现于云雾之间。"
     translated: "A chrysalis‑like cicada, moving with the clouds, possessed agility so light and graceful that each step changed its shadow. It seemed to vanish and reappear amidst the mist and fog."
-- raw: "10050005#0#六合随风#0#掌控六合之势，顺风而动，化身为风，遍布天地之间。#xinfa72#0#1#2#0#0#0#0#0#0#0#0#0#0#0#0#0#200510#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0##0#8#0#0#4#0#0#0#2#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0#0#0#0##2#0#0#0.0#109820|109821|109822|109823|109824#1#0#0#0#"
+- raw: "10050005#0#六合随风#0#掌控六合之势，顺风而动，化身为风，遍布天地之间。#xinfa1243#0#1#2#0#0#0#0#0#0#0#0#0#0#0#0#0#200510#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0##0#8#0#0#4#0#0#0#2#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0#0#0#0##2#0#0#0.0#109820|109821|109822|109823|109824#1#0#0#0#"
   splits:
   - split: 2
     text: "六合随风"
@@ -24310,6 +24403,38 @@
   - split: 11
     text: "身前3米180度扇形"
     translated: "A fan‑shaped area spanning 180 degrees in front of 3 meters."
+- raw: "80000000#0##11#江霜严兮枫丹，九天危兮唤潮。#quan_1042#1666#0#0###自身周围2米#0##spell_130060_go#sfx_main_hero_130430&0&true&true#0#0#0#0#0#410#1304200#0#0#0#0#0#0#0#0#0#600#0#0#0#0#0#0#0#0#0#0#sound_1_spell_130060_go#0#0#0#30000#3#3##0#3#0#0#0#35#5#1#0#0.0#0.0#0#0#0#0#0#0#0###3#0#0#1.0#0#1#0#0#1#"
+  splits:
+  - split: 4
+    text: "江霜严兮枫丹，九天危兮唤潮。"
+    translated: "Jiang Shuang, stern as frost on maple leaves; Jiutian Wei calls forth the tides"
+  - split: 11
+    text: "自身周围2米"
+    translated: "Within a radius of 2 meters around oneself."
+- raw: "80000001#0##11#独孤之剑，忘情断欲，既是剑招，又是人名，追踪锁定敌人，造成巨额伤害#dao_1070#2000#0#0#0#0#直线1.5米/周围3米#0#0#spell_100260_go#sfx_main_hero_100260&0&true&true#0#0#0#0#0#410#1028000#1028000#1028000#1028000#1028001#1028002#1028004#0#0#0#133#266#399#533#1066#133#1066#0#0#0#0#sound_spell_102800#0#0#102800#30000#0#3#0#0#4#0#0#0#0#0#-1#2#1.5#1.2#0#0#0#0#0#0#0#0##4#0#0#1.5#0#1#0#0#0#"
+  splits:
+  - split: 4
+    text: "独孤之剑，忘情断欲，既是剑招，又是人名，追踪锁定敌人，造成巨额伤害"
+    translated: "The Sword of Dugu‑Forget Love and Quench Desire‑is both a sword technique and the name of its wielder. It traces and locks onto enemies, inflicting massive damage."
+  - split: 11
+    text: "直线1.5米/周围3米"
+    translated: "Straight line 1.5 meters / area within a radius of 3 meters."
+- raw: "80000002#0##11#释放烈焰掌气，拳掌间迷敌眼，伤敌于无形。#quan_1240#1000#0#0###身前直线2.5米#0##spell_130050_go#sfx_main_hero_130150&0&true&true#0#0#0#0#0#81#1324000#0#0#0#0#0#0#0#0#0#333#0#0#0#0#0#0#0#0#0#0#sound_spell_130150_go#0#0#0#15000#3#3##0#3#0#0#0#35#5#0#2#2.5#1.5#0#0#0#0#0#0#0###3#0#0#0.5#0#1#0#0#1#"
+  splits:
+  - split: 4
+    text: "释放烈焰掌气，拳掌间迷敌眼，伤敌于无形。"
+    translated: "Unleash the Fiery Palm Qi, bewilder the enemy with a blur of fists and palms, and harm them unseen"
+  - split: 11
+    text: "身前直线2.5米"
+    translated: "A straight line extending 2.5 meters ahead."
+- raw: "80000003#0#血影魔功#11#以阳罡之力融合七曜之精华#1364#2112#2#0#0#0#0#0#0#spell_103_go#sfx_tongyongxuqi_yang&0&true&true#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#60000#0#4#0#0#6#0#0#0#0#0#0#0#0.0#0.0#1|2017&2|2018&3|2019&4|2020#103641#1700#9279#0#0#0#0##6#3500#0#0.0#71160|71170|71180|71190|71200#0#0#0#0#"
+  splits:
+  - split: 2
+    text: "血影魔功"
+    translated: "Blood Shadow Demon Skill"
+  - split: 4
+    text: "以阳罡之力融合七曜之精华"
+    translated: "With the power of Yang Gang, merge the essence of the seven luminaries"
 - raw: "99999999#0#NPC随机技能用#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0##0#0#0#0#0.0#0.0#0#0#0#0#0#0#0#0##0#0#0#0.0#0#1#0#0#0#"
   splits:
   - split: 2

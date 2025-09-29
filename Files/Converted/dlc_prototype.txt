@@ -828,11 +828,11 @@
   - split: 5
     text: "PC端渠道专属福利"
     translated: "Mobile platform exclusive benefits"
-- raw: "5001#5#2#86001|1#0#激活码道具#1#"
+- raw: "2034#2#2#86001|1#1#PC端渠道专属福利#1#"
   splits:
   - split: 5
-    text: "激活码道具"
-    translated: "Activation Code Item"
+    text: "PC端渠道专属福利"
+    translated: "Mobile platform exclusive benefits"
 - raw: "5002#5#2#86006|1#0#激活码道具#1#"
   splits:
   - split: 5
@@ -899,6 +899,26 @@
     text: "激活码道具"
     translated: "Activation Code Item"
 - raw: "5016#5#2#86035|1#0#激活码道具#1#"
+  splits:
+  - split: 5
+    text: "激活码道具"
+    translated: "Activation Code Item"
+- raw: "5017#5#2#86065|1#0#激活码道具#1#"
+  splits:
+  - split: 5
+    text: "激活码道具"
+    translated: "Activation Code Item"
+- raw: "5018#5#2#83018|1#0#激活码道具#1#"
+  splits:
+  - split: 5
+    text: "激活码道具"
+    translated: "Activation Code Item"
+- raw: "5019#5#2#83019|1#0#激活码道具#1#"
+  splits:
+  - split: 5
+    text: "激活码道具"
+    translated: "Activation Code Item"
+- raw: "5020#6#2#86068|1#0#激活码道具#1#"
   splits:
   - split: 5
     text: "激活码道具"
