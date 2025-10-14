@@ -6781,7 +6781,7 @@
   - split: 33
     text: "获得50%的吸取真气效果"
     translated: "Obtain 50% of the effect of absorbing True Qi."
-- raw: "17120#势沉#1#30#0#1#-1#0#0#0#0#0#0#1#0#0#10000#0#0#0#2#0#1#20#0#0#2##0#1#0#0#势沉#造成伤害时，附加自身当前生命值0.2%的伤害#buffnew_ziqidonglai#0#0#17120#2#0#0#0#0#17120##4#0#0#0.0#0.0###0#"
+- raw: "17120#势沉#1#30#0#1#-1#0#0#0#0#0#0#1#0#0#10000#0#0#0#2#0#1#1#0#0#2##0#1#0#0#势沉#造成伤害时，附加自身当前生命值0.01%的伤害#buffnew_ziqidonglai#0#0#17120#2#0#0#0#0#17120##4#0#0#0.0#0.0###0#"
   splits:
   - split: 1
     text: "势沉"
@@ -6790,9 +6790,9 @@
     text: "势沉"
     translated: "Weighty presence"
   - split: 33
-    text: "造成伤害时，附加自身当前生命值0.2%的伤害"
-    translated: "When dealing damage, add additional damage equal to 0.2% of your current health."
-- raw: "17130#巨力#1#30#0#1#-1#0#0#0#0#0#0#1#0#0#10000#0#0#0#2#0#1#50#0#0#2##0#1#0#0#巨力#造成伤害时，附加自身当前生命值0.5%的伤害#buffnew_ziqidonglai#0#0#17130#3#0#0#0#0#17130##4#0#0#0.0#0.0###0#"
+    text: "造成伤害时，附加自身当前生命值0.01%的伤害"
+    translated: "When causing damage, add 0.01% of one's current health."
+- raw: "17130#巨力#1#30#0#1#-1#0#0#0#0#0#0#1#0#0#10000#0#0#0#2#0#1#2#0#0#2##0#1#0#0#巨力#造成伤害时，附加自身当前生命值0.02%的伤害#buffnew_ziqidonglai#0#0#17130#3#0#0#0#0#17130##4#0#0#0.0#0.0###0#"
   splits:
   - split: 1
     text: "巨力"
@@ -6801,9 +6801,9 @@
     text: "巨力"
     translated: "Great Strength"
   - split: 33
-    text: "造成伤害时，附加自身当前生命值0.5%的伤害"
-    translated: "When causing damage, deal additional damage equal to 0.5% of your current health."
-- raw: "17140#催杀#1#30#0#1#-1#0#0#0#0#0#0#1#0#0#10000#0#0#0#2#0#1#100#0#0#2##0#1#0#0#催杀#造成伤害时，附加自身当前生命值1%的伤害#buffnew_ziqidonglai#0#0#17140#4#0#0#0#0#17140##4#0#0#0.0#0.0###0#"
+    text: "造成伤害时，附加自身当前生命值0.02%的伤害"
+    translated: "When inflicting damage, add 0.02% of one's current health value to the damage."
+- raw: "17140#催杀#1#30#0#1#-1#0#0#0#0#0#0#1#0#0#10000#0#0#0#2#0#1#3#0#0#2##0#1#0#0#催杀#造成伤害时，附加自身当前生命值0.03%的伤害#buffnew_ziqidonglai#0#0#17140#4#0#0#0#0#17140##4#0#0#0.0#0.0###0#"
   splits:
   - split: 1
     text: "催杀"
@@ -6812,8 +6812,8 @@
     text: "催杀"
     translated: "Coercive assassination"
   - split: 33
-    text: "造成伤害时，附加自身当前生命值1%的伤害"
-    translated: "When causing damage, add additional damage equal to 1% of your current health."
+    text: "造成伤害时，附加自身当前生命值0.03%的伤害"
+    translated: "When causing damage, add 0.03% of their current health as additional damage."
 - raw: "17150#武力#1#15#0#1#-1#0#0#0#0#0#0#1#0#0#10000#4#10#0#1#0#0#0#0#0#1109##0#1#0#0#武力#造成暴击时，自身内外攻增加10%，持续5秒#buffnew_ziqidonglai#0#0#17150#2#0#0#0#0#17150##4#0#0#0.0#0.0###0#"
   splits:
   - split: 1
@@ -22398,7 +22398,7 @@
   - split: 33
     text: "每次攻击附加自身最大生命值*0.1的伤害"
     translated: "Each attack inflicts damage equal to your maximum health multiplied by 0.1."
-- raw: "200510#六合#1#15#0#1#0#0#0#0#1|2|0|10|1#0#0#1#0#0#10000#1048576#300000#0#0#0#0#0#0#0#0##0#1#0#0#六合#生命值低于10%时在免疫伤害15秒，每三分钟可触发一次#buffnew_zhihuan#0#0#200510#0#0#0#0#0#200510##4#0#0#0.0#0.0###0#"
+- raw: "200510#六合#1#15#0#1#0#0#0#0#1|2|0|10|1#0#0#1#0#0#10000#1048576#180000#0#0#0#0#0#0#0#1292##0#1#0#0#六合#生命值低于10%时在免疫伤害15秒，每三分钟可触发一次#buffnew_zhihuan#0#0#200510#0#0#0#0#0#200510##4#0#0#0.0#0.0###0#"
   splits:
   - split: 1
     text: "六合"
@@ -22409,7 +22409,7 @@
   - split: 33
     text: "生命值低于10%时在免疫伤害15秒，每三分钟可触发一次"
     translated: "When health drops below 10%, immunity to damage is activated for 15 seconds, and it can be triggered once every three minutes."
-- raw: "200511#六合#1#45#0#1#10000#0#0#0#0#0#0#1#0#0#10000#0#0#0#0#0#0#0#0#0#0##0#1#0#0#0#0#0#0#0#200511#0#0#0#0#0#200511##0#0#0#0.0#0.0###0#"
+- raw: "200511#六合#1#45#0#1#15000#0#0#0#0#0#0#1#0#0#10000#0#0#0#0#0#0#0#0#0#0##0#1#0#0#0#0#0#0#0#200511#0#0#0#0#0#200511##0#0#0#0.0#0.0###0#"
   splits:
   - split: 1
     text: "六合"

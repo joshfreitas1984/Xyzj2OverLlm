@@ -766,14 +766,14 @@
   - split: 2
     text: "言辞犀利，真是杀人又诛心啊！诛心<color=e0834c>增加3%</color>。"
     translated: "Your words are sharp and ruthless‑truly a kill and then mind attack. Mind Attack increases <color=e0834c>3%</color>."
-- raw: "5010#天生财缘#你的防御就像某些人的脸皮一样。御心<color=e0834c>增加3%</color>。#0#10770#0#0#0#0#1##0##0#0#0#"
+- raw: "5010#天生财缘#跟钱非常亲近！金钱获取<color=e0834c>增加3%</color>。#0#10770#0#0#0#0#1##0##0#0#0#"
   splits:
   - split: 1
     text: "天生财缘"
     translated: "Money comes naturally to them"
   - split: 2
-    text: "你的防御就像某些人的脸皮一样。御心<color=e0834c>增加3%</color>。"
-    translated: "Your defense is like the thick skin of some people. Discipline <color=e0834c>increases by 3%</color>."
+    text: "跟钱非常亲近！金钱获取<color=e0834c>增加3%</color>。"
+    translated: "Closely related to money! Money gain increased by <color=e0834c>3%</color>."
 - raw: "8000#生财有道#生下来就与钱财有缘，日后不可限量。金钱获取量<color=e0834c>增加5%</color>。#0#10110#9#0#0#0#1##0##0#0#0#"
   splits:
   - split: 1

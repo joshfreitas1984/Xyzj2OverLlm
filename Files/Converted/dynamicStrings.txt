@@ -15687,97 +15687,97 @@
   - split: 3
     text: "悬赏任务 {0} 配置不对"
     translated: "Bounty task {0} configuration incorrect."
-- raw: "XuanShangQuest,DoInitPostAction,2799,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,2800,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
     translated: "Bounty: Random NPC generation failed: {0}."
-- raw: "XuanShangQuest,DoInitPostAction,2935,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,2936,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
     translated: "Bounty: Random NPC generation failed: {0}."
-- raw: "XuanShangQuest,DoInitPostAction,3253,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是没有合适的 SpawnPoint 尝试生成一个SpawnPoint 但是失败了 不知道怎么生成,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,3255,NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是没有合适的 SpawnPoint 尝试生成一个SpawnPoint 但是失败了 不知道怎么生成,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "NPC:{0} 没有敌对npc 尝试直接刷一个npc出来 但是没有合适的 SpawnPoint 尝试生成一个SpawnPoint 但是失败了 不知道怎么生成"
     translated: "NPC: {0} has no hostile NPCs. Attempted to spawn an NPC directly, but there was no suitable Spawn Point. Tried generating a Spawn Point, but failed. Don't know how to generate it."
-- raw: "XuanShangQuest,DoInitPostAction,3407,EntrustEventPrototype.id:{0}中star配置错误，prototype.star * 2超过13了,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,3409,EntrustEventPrototype.id:{0}中star配置错误，prototype.star * 2超过13了,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "EntrustEventPrototype.id:{0}中star配置错误，prototype.star * 2超过13了"
     translated: "EntrustEventPrototype.id: Star configuration error in {0}; prototype.star multiplied by 2 exceeds 13."
-- raw: "XuanShangQuest,DoInitPostAction,3583,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,3585,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
     translated: "Bounty task {0} configuration incorrect."
-- raw: "XuanShangQuest,DoInitPostAction,3819,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,3822,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
     translated: "Bounty: Random NPC generation failed: {0}."
-- raw: "XuanShangQuest,DoInitPostAction,3956,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,3959,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
     translated: "Bounty: Random NPC generation failed: {0}."
-- raw: "XuanShangQuest,DoInitPostAction,4157,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4160,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
     translated: "Bounty task {0} configuration incorrect."
-- raw: "XuanShangQuest,DoInitPostAction,4305,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4308,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
     translated: "Bounty task {0} configuration incorrect."
-- raw: "XuanShangQuest,DoInitPostAction,4505,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4509,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
     translated: "Bounty: Random NPC generation failed: {0}."
-- raw: "XuanShangQuest,DoInitPostAction,4641,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4645,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
     translated: "Bounty: Random NPC generation failed: {0}."
-- raw: "XuanShangQuest,DoInitPostAction,4717,生成委托等级错误，m_CurrentXuanShangLevel.star * 2超过13了,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4721,生成委托等级错误，m_CurrentXuanShangLevel.star * 2超过13了,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "生成委托等级错误，m_CurrentXuanShangLevel.star * 2超过13了"
     translated: "Generated commission rank error, current XuanShang level multiplied by 2 exceeds 13."
-- raw: "XuanShangQuest,DoInitPostAction,4897,情报,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4901,情报,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "情报"
     translated: "Intelligence report"
-- raw: "XuanShangQuest,DoInitPostAction,4952,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,4956,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
     translated: "Bounty task {0} configuration incorrect."
-- raw: "XuanShangQuest,DoInitPostAction,5022,悬赏：{0} 配置错误,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,5026,悬赏：{0} 配置错误,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 配置错误"
     translated: "Bounty: Configuration error: {0}."
-- raw: "XuanShangQuest,DoInitPostAction,5153,悬赏：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,5157,悬赏：{0} 配置错误 没有找到可用的道具,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 配置错误 没有找到可用的道具"
     translated: "Bounty: Configuration error: no available items found for {0}."
-- raw: "XuanShangQuest,DoInitPostAction,5453,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,5457,悬赏任务 {0} 配置不对,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏任务 {0} 配置不对"
     translated: "Bounty task {0} configuration incorrect."
-- raw: "XuanShangQuest,DoInitPostAction,5570,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,5575,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
     translated: "Bounty: Random NPC generation failed: {0}."
-- raw: "XuanShangQuest,DoInitPostAction,5704,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
+- raw: "XuanShangQuest,DoInitPostAction,5709,悬赏：{0} 随机生成npc失败,[EntrustEventPrototype]"
   splits:
   - split: 3
     text: "悬赏：{0} 随机生成npc失败"
@@ -15842,7 +15842,7 @@
   - split: 3
     text: "悬赏"
     translated: "Bounty"
-- raw: "XuanShangQuest,CreateZhuZhanNpc,110,悬赏：{0} 生成助战npc失败,[]"
+- raw: "XuanShangQuest,CreateZhuZhanNpc,111,悬赏：{0} 生成助战npc失败,[]"
   splits:
   - split: 3
     text: "悬赏：{0} 生成助战npc失败"

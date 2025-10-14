@@ -5740,7 +5740,7 @@
   - split: 14
     text: "力压群雄登《天下英雄谱》榜首，事迹传遍江湖，成一代传奇。"
     translated: "Exerting unparalleled strength to surpass all rivals and ascend to the top of the 'Jianghu's Roll of Honor,' their deeds spread throughout Jianghu, becoming a legend of that generation."
-- raw: "2076#素心侠隐#1#1#2076#1#2#60002|2;1190|1;18130|2#0&24|892968|1#完成支线任务《素心侠隐》##600###悬壶市井中，银针破邪风。不惧权贵影，仁心映苍穹。#0#0#5#"
+- raw: "2076#素心侠隐#1#1#2076#1#2#60002|2;54437|1;18130|2#0&24|892968|1#完成支线任务《素心侠隐》##600###悬壶市井中，银针破邪风。不惧权贵影，仁心映苍穹。#0#0#5#"
   splits:
   - split: 1
     text: "素心侠隐"
@@ -5751,7 +5751,7 @@
   - split: 14
     text: "悬壶市井中，银针破邪风。不惧权贵影，仁心映苍穹。"
     translated: "In the bustling streets of Xuanhu Town, silver needles pierce through evil winds. Unfazed by the influence of the mighty, compassion shines upon the heavens."
-- raw: "2077#寒剑涤心#1#1#2077#1#2#60002|2;1190|1;18130|2#0&24|892365|1#完成支线任务《寒剑涤心》##600###独行风雪路，剑洗砚溪尘。真相破迷雾，侠名天下闻。#0#0#5#"
+- raw: "2077#寒剑涤心#1#1#2077#1#2#60002|2;54437|1;18130|2#0&24|892365|1#完成支线任务《寒剑涤心》##600###独行风雪路，剑洗砚溪尘。真相破迷雾，侠名天下闻。#0#0#5#"
   splits:
   - split: 1
     text: "寒剑涤心"
@@ -5762,7 +5762,7 @@
   - split: 14
     text: "独行风雪路，剑洗砚溪尘。真相破迷雾，侠名天下闻。"
     translated: "Walking alone through the snowy path, sword washing away the dust of the inkstone stream. The truth breaks through the mist; the name of the righteous is heard throughout the land."
-- raw: "2078#针魄涅槃#1#1#2078#1#2#60002|2;1190|1;18130|2#0&24|891928|1#完成支线任务《针魄涅槃》##600###血绣染尘缘，丝缠旧梦寒。拂尘断宿孽，针落月新弯。#0#0#5#"
+- raw: "2078#针魄涅槃#1#1#2078#1#2#60002|2;54437|1;18130|2#0&24|891928|1#完成支线任务《针魄涅槃》##600###血绣染尘缘，丝缠旧梦寒。拂尘断宿孽，针落月新弯。#0#0#5#"
   splits:
   - split: 1
     text: "针魄涅槃"
@@ -5773,7 +5773,7 @@
   - split: 14
     text: "血绣染尘缘，丝缠旧梦寒。拂尘断宿孽，针落月新弯。"
     translated: "Blood‑stained embroidery taints fate's dust; silk strands entangle old dreams in chill. Sweeping aside the dust breaks ancient grudges; a needle falls, and the moon curves anew."
-- raw: "2079#霞蔚云裳#1#1#2079#1#2#60002|2;1190|1;18130|2#0&24|893250|1#完成支线任务《霞蔚云裳》##600###寒湖采烟青，危楼护香盈。寒湖留侠影，云深见月明。#0#0#5#"
+- raw: "2079#霞蔚云裳#1#1#2079#1#2#60002|2;54437|1;18130|2#0&24|893250|1#完成支线任务《霞蔚云裳》##600###寒湖采烟青，危楼护香盈。寒湖留侠影，云深见月明。#0#0#5#"
   splits:
   - split: 1
     text: "霞蔚云裳"
@@ -5784,7 +5784,7 @@
   - split: 14
     text: "寒湖采烟青，危楼护香盈。寒湖留侠影，云深见月明。"
     translated: "Cold Lake harvests emerald smoke; perilous tower guards abundant fragrance. Cold Lake leaves a trace of the hero's shadow; amidst deep clouds, the moon shines clear."
-- raw: "2080#雪烬明心#1#1#2080#1#2#60002|2;1190|1;18130|2#0&24|892664|1#完成支线任务《雪烬明心》##600###\"孤峰照寒刃，侠骨破千旌。昔诺烬中立，晴光照雪明。#0#0#5#"
+- raw: "2080#雪烬明心#1#1#2080#1#2#60002|2;54437|1;18130|2#0&24|892664|1#完成支线任务《雪烬明心》##600###\"孤峰照寒刃，侠骨破千旌。昔诺烬中立，晴光照雪明。#0#0#5#"
   splits:
   - split: 1
     text: "雪烬明心"

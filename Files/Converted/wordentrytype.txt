@@ -668,37 +668,37 @@
   - split: 1
     text: "精魂"
     translated: "Soul essence"
-- raw: "1601#强体#2#1005#1006#1008#0#0#1#1#3#2#301601#1#"
+- raw: "1601#强体#2#1005#1006#1008#0##1#1#3#2#301601#1#"
   splits:
   - split: 1
     text: "强体"
     translated: "Robust physique"
-- raw: "1602#冥思#2#1004#1007#1009#0#0#1#1#3#2#301602#1#"
+- raw: "1602#冥思#2#1004#1007#1009#0##1#1#3#2#301602#1#"
   splits:
   - split: 1
     text: "冥思"
     translated: "Deep contemplation"
-- raw: "1603#武力#1#1020#1021#0#0#0#1#1#3#1#301603#1#"
+- raw: "1603#武力#1#1020#1021#0#0##1#1#3#1#301603#1#"
   splits:
   - split: 1
     text: "武力"
     translated: "Physical prowess"
-- raw: "1604#魄力#1#1022#1023#0#0#0#1#1#3#2#301604#1#"
+- raw: "1604#魄力#1#1022#1023#0#0##1#1#3#2#301604#1#"
   splits:
   - split: 1
     text: "魄力"
     translated: "Potency"
-- raw: "1605#神眼#1#1074#1075#0#0#0#1#1#3#3#301605#1#"
+- raw: "1605#神眼#1#1074#1075#0#0##1#1#3#3#301605#1#"
   splits:
   - split: 1
     text: "神眼"
     translated: "All‑seeing eye"
-- raw: "1606#神心#1#1025#1027#0#0#0#1#1#3#2#301606#1#"
+- raw: "1606#神心#1#1025#1027#0#0##1#1#3#2#301606#1#"
   splits:
   - split: 1
     text: "神心"
     translated: "Divine Heart"
-- raw: "1607#圣心#1#1024#1026#0#0#0#1#1#3#2#301607#1#"
+- raw: "1607#圣心#1#1024#1026#0#0##1#1#3#2#301607#1#"
   splits:
   - split: 1
     text: "圣心"
@@ -713,32 +713,32 @@
   - split: 1
     text: "五御"
     translated: "Five Attendants"
-- raw: "1801#神力#6#1200#1201#0#0#0#1#5#1#1#301801#1#"
+- raw: "1801#神力#6#1200#1201#0#0##1#5#1#1#301801#1#"
   splits:
   - split: 1
     text: "神力"
     translated: "Divine Power"
-- raw: "1802#攻力#5#1200#0#0#0#0#1#4#1#1#301802#1#"
+- raw: "1802#攻力#5#1200#0#0#0##1#4#1#1#301802#1#"
   splits:
   - split: 1
     text: "攻力"
     translated: "Offensive power"
-- raw: "1803#伤力#5#1201#0#0#0#0#1#4#1#1#301803#1#"
+- raw: "1803#伤力#5#1201#0#0#0##1#4#1#1#301803#1#"
   splits:
   - split: 1
     text: "伤力"
     translated: "Power of Injury"
-- raw: "1804#神御#6#1208#1209#0#0#0#1#0#1#1#301804#1#"
+- raw: "1804#神御#6#1208#1209#0#0##1#0#1#1#301804#1#"
   splits:
   - split: 1
     text: "神御"
     translated: "Heavenly Protector"
-- raw: "1805#铁骨#5#1208#0#0#0#0#1#0#1#1#301805#1#"
+- raw: "1805#铁骨#5#1208#0#0#0##1#0#1#1#301805#1#"
   splits:
   - split: 1
     text: "铁骨"
     translated: "Iron Will"
-- raw: "1806#气魄#5#1209#0#0#0#0#1#0#1#1#301806#1#"
+- raw: "1806#气魄#5#1209#0#0#0##1#0#1#1#301806#1#"
   splits:
   - split: 1
     text: "气魄"
@@ -748,12 +748,12 @@
   - split: 1
     text: "剑魂"
     translated: "Soul of the Sword"
-- raw: "1808#剑技#8#1200#2#0#0#0#1#3#1#1#301808#1#"
+- raw: "1808#剑技#8#1200#2#0#0##1#3#1#1#301808#1#"
   splits:
   - split: 1
     text: "剑技"
     translated: "Swordsmanship skills"
-- raw: "1809#剑魄#8#1201#2#0#0#0#1#4#1#1#301809#1#"
+- raw: "1809#剑魄#8#1201#2#0#0##1#4#1#1#301809#1#"
   splits:
   - split: 1
     text: "剑魄"
@@ -763,12 +763,12 @@
   - split: 1
     text: "刀魂"
     translated: "Soul of the Blade"
-- raw: "1811#刀技#8#1200#2#1#0#0#1#3#1#1#301811#1#"
+- raw: "1811#刀技#8#1200#2#1#0##1#3#1#1#301811#1#"
   splits:
   - split: 1
     text: "刀技"
     translated: "Blade techniques"
-- raw: "1812#刀魄#8#1201#2#1#0#0#1#4#1#1#301812#1#"
+- raw: "1812#刀魄#8#1201#2#1#0##1#4#1#1#301812#1#"
   splits:
   - split: 1
     text: "刀魄"
@@ -778,12 +778,12 @@
   - split: 1
     text: "枪魂"
     translated: "Spear Soul"
-- raw: "1814#枪技#8#1200#2#2#0#0#1#3#1#1#301814#1#"
+- raw: "1814#枪技#8#1200#2#2#0##1#3#1#1#301814#1#"
   splits:
   - split: 1
     text: "枪技"
     translated: "Spear skills"
-- raw: "1815#枪魄#8#1201#2#2#0#0#1#4#1#1#301815#1#"
+- raw: "1815#枪魄#8#1201#2#2#0##1#4#1#1#301815#1#"
   splits:
   - split: 1
     text: "枪魄"
@@ -793,12 +793,12 @@
   - split: 1
     text: "武魂"
     translated: "Wuhun"
-- raw: "1817#武技#8#1200#2#3#0#0#1#3#1#1#301817#1#"
+- raw: "1817#武技#8#1200#2#3#0##1#3#1#1#301817#1#"
   splits:
   - split: 1
     text: "武技"
     translated: "Martial arts"
-- raw: "1818#武魄#8#1201#2#3#0#0#1#4#1#1#301818#1#"
+- raw: "1818#武魄#8#1201#2#3#0##1#4#1#1#301818#1#"
   splits:
   - split: 1
     text: "武魄"
@@ -808,12 +808,12 @@
   - split: 1
     text: "剑意"
     translated: "Essence of the Sword"
-- raw: "1820#剑容#8#1200#1#10#0#0#1#3#1#1#301820#1#"
+- raw: "1820#剑容#8#1200#1#10#0##1#3#1#1#301820#1#"
   splits:
   - split: 1
     text: "剑容"
     translated: "Appearance of a sword"
-- raw: "1821#剑形#8#1201#1#10#0#0#1#4#1#1#301821#1#"
+- raw: "1821#剑形#8#1201#1#10#0##1#4#1#1#301821#1#"
   splits:
   - split: 1
     text: "剑形"
@@ -823,12 +823,12 @@
   - split: 1
     text: "刀意"
     translated: "Essence of the blade"
-- raw: "1823#刀容#8#1200#1#11#0#0#1#3#1#1#301823#1#"
+- raw: "1823#刀容#8#1200#1#11#0##1#3#1#1#301823#1#"
   splits:
   - split: 1
     text: "刀容"
     translated: "Capacity of the blade"
-- raw: "1824#刀形#8#1201#1#11#0#0#1#4#1#1#301824#1#"
+- raw: "1824#刀形#8#1201#1#11#0##1#4#1#1#301824#1#"
   splits:
   - split: 1
     text: "刀形"
@@ -838,12 +838,12 @@
   - split: 1
     text: "枪意"
     translated: "Intention of the spear"
-- raw: "1826#枪容#8#1200#1#12#0#0#1#3#1#1#301826#1#"
+- raw: "1826#枪容#8#1200#1#12#0##1#3#1#1#301826#1#"
   splits:
   - split: 1
     text: "枪容"
     translated: "Spear Container"
-- raw: "1827#枪形#8#1201#1#12#0#0#1#4#1#1#301827#1#"
+- raw: "1827#枪形#8#1201#1#12#0##1#4#1#1#301827#1#"
   splits:
   - split: 1
     text: "枪形"
@@ -853,87 +853,87 @@
   - split: 1
     text: "武意"
     translated: "Wu Yi"
-- raw: "1829#武容#8#1200#1#13#0#0#1#3#1#1#301829#1#"
+- raw: "1829#武容#8#1200#1#13#0##1#3#1#1#301829#1#"
   splits:
   - split: 1
     text: "武容"
     translated: "Wu Rong"
-- raw: "1830#武形#8#1201#1#13#0#0#1#4#1#1#301830#1#"
+- raw: "1830#武形#8#1201#1#13#0##1#4#1#1#301830#1#"
   splits:
   - split: 1
     text: "武形"
     translated: "Wuxing"
-- raw: "1831#万籁#8#1202#1#3#0#0#1#6#1#3#301831#1#"
+- raw: "1831#万籁#8#1202#1#3#0##1#6#1#3#301831#1#"
   splits:
   - split: 1
     text: "万籁"
     translated: "Every sound in nature"
-- raw: "1832#剑灭#9#1202#3#0#0#0#1#6#1#1#301832#1#"
+- raw: "1832#剑灭#9#1202#3#0#0##1#6#1#1#301832#1#"
   splits:
   - split: 1
     text: "剑灭"
     translated: "Sword Extermination"
-- raw: "1833#刀灭#9#1202#3#1#0#0#1#6#1#1#301833#1#"
+- raw: "1833#刀灭#9#1202#3#1#0##1#6#1#1#301833#1#"
   splits:
   - split: 1
     text: "刀灭"
     translated: "Blade of Annihilation"
-- raw: "1834#枪灭#9#1202#3#2#0#0#1#6#1#1#301834#1#"
+- raw: "1834#枪灭#9#1202#3#2#0##1#6#1#1#301834#1#"
   splits:
   - split: 1
     text: "枪灭"
     translated: "Spear Destruction"
-- raw: "1835#武灭#9#1202#3#3#0#0#1#6#1#1#301835#1#"
+- raw: "1835#武灭#9#1202#3#3#0##1#6#1#1#301835#1#"
   splits:
   - split: 1
     text: "武灭"
     translated: "Martial destruction"
-- raw: "1836#寂灭#8#1202#1#4#0#0#1#6#1#3#301836#1#"
+- raw: "1836#寂灭#8#1202#1#4#0##1#6#1#3#301836#1#"
   splits:
   - split: 1
     text: "寂灭"
     translated: "Extinction"
-- raw: "1837#剑却#9#1202#4#0#0#0#1#6#1#1#301837#1#"
+- raw: "1837#剑却#9#1202#4#0#0##1#6#1#1#301837#1#"
   splits:
   - split: 1
     text: "剑却"
     translated: "Sword Retreat"
-- raw: "1838#刀却#9#1202#4#1#0#0#1#6#1#1#301838#1#"
+- raw: "1838#刀却#9#1202#4#1#0##1#6#1#1#301838#1#"
   splits:
   - split: 1
     text: "刀却"
     translated: "Blade Retreat"
-- raw: "1839#枪却#9#1202#4#2#0#0#1#6#1#1#301839#1#"
+- raw: "1839#枪却#9#1202#4#2#0##1#6#1#1#301839#1#"
   splits:
   - split: 1
     text: "枪却"
     translated: "Spear Retreat"
-- raw: "1840#武却#9#1202#4#3#0#0#1#6#1#1#301840#1#"
+- raw: "1840#武却#9#1202#4#3#0##1#6#1#1#301840#1#"
   splits:
   - split: 1
     text: "武却"
     translated: "Martial Retreat"
-- raw: "1841#风转#8#1203#1#3#0#0#1#7#1#1#301841#1#"
+- raw: "1841#风转#8#1203#1#3#0##1#7#1#1#301841#1#"
   splits:
   - split: 1
     text: "风转"
     translated: "Direction change"
-- raw: "1842#剑速#8#1203#2#0#0#0#1#7#1#1#301842#1#"
+- raw: "1842#剑速#8#1203#2#0#0##1#7#1#1#301842#1#"
   splits:
   - split: 1
     text: "剑速"
     translated: "Sword Speed"
-- raw: "1843#刀速#8#1203#2#1#0#0#1#7#1#1#301843#1#"
+- raw: "1843#刀速#8#1203#2#1#0##1#7#1#1#301843#1#"
   splits:
   - split: 1
     text: "刀速"
     translated: "Blade speed"
-- raw: "1844#枪速#8#1203#2#2#0#0#1#7#1#1#301844#1#"
+- raw: "1844#枪速#8#1203#2#2#0##1#7#1#1#301844#1#"
   splits:
   - split: 1
     text: "枪速"
     translated: "Spear speed"
-- raw: "1845#武速#8#1203#2#3#0#0#1#7#1#1#301845#1#"
+- raw: "1845#武速#8#1203#2#3#0##1#7#1#1#301845#1#"
   splits:
   - split: 1
     text: "武速"
@@ -943,32 +943,32 @@
   - split: 1
     text: "恶意"
     translated: "Malice"
-- raw: "1847#神威#6#1020#1021#0#0#0#1#5#1#1#301847#1#"
+- raw: "1847#神威#6#1020#1021#0#0##1#5#1#1#301847#1#"
   splits:
   - split: 1
     text: "神威"
     translated: "Divine Might"
-- raw: "1848#攻威#5#1020#0#0#0#0#1#4#1#1#301848#1#"
+- raw: "1848#攻威#5#1020#0#0#0##1#4#1#1#301848#1#"
   splits:
   - split: 1
     text: "攻威"
     translated: "Intimidation"
-- raw: "1849#伤威#5#1021#0#0#0#0#1#4#1#1#301849#1#"
+- raw: "1849#伤威#5#1021#0#0#0##1#4#1#1#301849#1#"
   splits:
   - split: 1
     text: "伤威"
     translated: "Damage Reputation"
-- raw: "1850#伤逝#6#1213#1214#0#0#0#1#8#1#1#301850#1#"
+- raw: "1850#伤逝#6#1213#1214#0#0##1#8#1#1#301850#1#"
   splits:
   - split: 1
     text: "伤逝"
     translated: "Ambivalent grief"
-- raw: "1851#破甲#5#1213#0#0#0#0#1#8#1#1#301851#1#"
+- raw: "1851#破甲#5#1213#0#0#0##1#8#1#1#301851#1#"
   splits:
   - split: 1
     text: "破甲"
     translated: "Break through armor"
-- raw: "1852#透魔#5#1214#0#0#0#0#1#8#1#1#301852#1#"
+- raw: "1852#透魔#5#1214#0#0#0##1#8#1#1#301852#1#"
   splits:
   - split: 1
     text: "透魔"
@@ -1023,57 +1023,57 @@
   - split: 1
     text: "气涌-冷却"
     translated: "Qi surging forth ‑ Cooling down"
-- raw: "10002#流血层数增加#8#216#4#101000#0#0#0#0#0#0#0#0#"
+- raw: "10002#流血层数增加#8#216#4#101000#0##0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "流血层数增加"
     translated: "Number of blood layers increased"
-- raw: "10003#护盾层数增加#8#207#4#107000#0#0#0#0#0#0#0#0#"
+- raw: "10003#护盾层数增加#8#207#4#107000#0##0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "护盾层数增加"
     translated: "Shield layers increased"
-- raw: "10004#太玄式叠加#8#207#4#1102200#0#0#0#0#0#0#0#0#"
+- raw: "10004#太玄式叠加#8#207#4#1102200#0##0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "太玄式叠加"
     translated: "Compounding of Taiyuan Style"
-- raw: "10005#护盾效果增加#8#206#4#107000#0#0#0#0#0#0#0#0#"
+- raw: "10005#护盾效果增加#8#206#4#107000#0##0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "护盾效果增加"
     translated: "Shield effect increased"
-- raw: "10006#灼烧层数增加#8#216#4#101040#0#0#0#0#0#0#0#0#"
+- raw: "10006#灼烧层数增加#8#216#4#101040#0##0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "灼烧层数增加"
     translated: "The number of layers burned has increased"
-- raw: "10007#灼烧频率增加#8#205#4#101040#0#0#0#0#0#0#0#0#"
+- raw: "10007#灼烧频率增加#8#205#4#101040#0##0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "灼烧频率增加"
     translated: "Burning frequency increased"
-- raw: "10008#寒气层数增加#8#216#4#101050#0#0#0#0#0#0#0#0#"
+- raw: "10008#寒气层数增加#8#216#4#101050#0##0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "寒气层数增加"
     translated: "Chill deepens"
-- raw: "10009#剑痕叠加#8#216#4#110080#0#0#0#0#0#0#0#0#"
+- raw: "10009#剑痕叠加#8#216#4#110080#0##0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "剑痕叠加"
     translated: "Layers of sword scars"
-- raw: "10010#剑息层数增加#8#207#4#110090#0#0#0#0#0#0#0#0#"
+- raw: "10010#剑息层数增加#8#207#4#110090#0##0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "剑息层数增加"
     translated: "Increased number of layers in sword meditation"
-- raw: "10011#流血效果增加#8#206#4#101000#0#0#0#0#0#0#0#0#"
+- raw: "10011#流血效果增加#8#206#4#101000#0##0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "流血效果增加"
     translated: "Increased Blood Effect"
-- raw: "10012#剑气层数增加#8#216#4#110060#0#0#0#0#0#0#0#0#"
+- raw: "10012#剑气层数增加#8#216#4#110060#0##0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "剑气层数增加"
@@ -1103,22 +1103,22 @@
   - split: 1
     text: "气涌-冷却"
     translated: "Qi surging forth ‑ Cooling down"
-- raw: "11004#太玄式叠加#8#1207#4#1102200#0#0#1#0#0#0#0#0#"
+- raw: "11004#太玄式叠加#8#1207#4#1102200#0##1#0#0#0#0#0#"
   splits:
   - split: 1
     text: "太玄式叠加"
     translated: "Compounding of Taiyuan Style"
-- raw: "11005#护盾效果增加#8#1206#4#107000#0#0#1#0#0#0#0#0#"
+- raw: "11005#护盾效果增加#8#1206#4#107000#0##1#0#0#0#0#0#"
   splits:
   - split: 1
     text: "护盾效果增加"
     translated: "Shield effect increased"
-- raw: "11007#灼烧频率增加#8#1205#4#101040#0#0#1#0#0#0#0#0#"
+- raw: "11007#灼烧频率增加#8#1205#4#101040#0##1#0#0#0#0#0#"
   splits:
   - split: 1
     text: "灼烧频率增加"
     translated: "Burning frequency increased"
-- raw: "11008#寒气层数增加#8#1216#4#101050#0#0#1#0#0#0#0#0#"
+- raw: "11008#寒气层数增加#8#1216#4#101050#0##1#0#0#0#0#0#"
   splits:
   - split: 1
     text: "寒气层数增加"

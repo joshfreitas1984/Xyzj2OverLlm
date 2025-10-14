@@ -64,7 +64,7 @@ public class TranslationWorkflowTests
         {
             int remaining = await UpdateCurrentTranslationLines(false);
             int iterations = 0;
-            while (remaining > 0 && iterations < 3)
+            while (remaining > 0 && iterations < 10)
             {
                 await TranslationService.TranslateViaLlmAsync(workingDirectory, false);
                 remaining = await UpdateCurrentTranslationLines(false);
