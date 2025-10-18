@@ -10,7 +10,7 @@ public static class MinimapPatch
 {
     static IEnumerable<CodeInstruction> Transpiler(IEnumerable<CodeInstruction> instructions)
     {
-        var from = AccessTools.Method(typeof(SweetPotato.Tools), nameof(SweetPotato.Tools.GetGameTimeDate));
+        var from = AccessTools.Method(typeof(SweetPotato.Tools), nameof(SweetPotato.Tools.GetGameTimeDate), [typeof(double)]);
         var to = AccessTools.Method(typeof(MinimapPatch), "MyGetGameTimeDate");
         return Transpilers.MethodReplacer(instructions, from, to);
     }

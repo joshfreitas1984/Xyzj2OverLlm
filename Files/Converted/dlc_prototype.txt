@@ -918,7 +918,7 @@
   - split: 5
     text: "激活码道具"
     translated: "Activation Code Item"
-- raw: "5020#6#2#86068|1#0#激活码道具#1#"
+- raw: "5020#5#2#86068|1#0#激活码道具#1#"
   splits:
   - split: 5
     text: "激活码道具"

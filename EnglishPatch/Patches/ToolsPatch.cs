@@ -155,7 +155,7 @@ public static class ToolsPatch
         return false;
     }
 
-    [HarmonyPrefix, HarmonyPatch(typeof(Tools), nameof(GetGameTimeDate))]
+    [HarmonyPrefix, HarmonyPatch(typeof(Tools), nameof(GetGameTimeDate), [typeof(double)])]
     public static bool Prefix_Tools_GetGameTimeDate(ref string __result, double realTime)
     {
         __result = GetGameTimeDate(realTime);

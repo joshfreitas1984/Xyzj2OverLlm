@@ -170,15 +170,15 @@
   splits:
   - split: 3
     text: "当前为押镖状态，无法存档"
-- raw: "AutomatManager,Script_SetNpcPostionCondition,203,WorldManager.Instance.m_EntityDir.不包含id:{0},[AutomatScript，CallFunc]"
+- raw: "AutomatManager,Script_SetNpcPostionCondition,193,WorldManager.Instance.m_EntityDir.不包含id:{0},[AutomatScript，CallFunc]"
   splits:
   - split: 3
     text: "WorldManager.Instance.m_EntityDir.不包含id:{0}"
-- raw: "AutomatManager,Script_SetNpcPostion,222,WorldManager.Instance.m_EntityDir.不包含id:{0},[AutomatScript，CallFunc]"
+- raw: "AutomatManager,Script_SetNpcPostion,231,WorldManager.Instance.m_EntityDir.不包含id:{0},[AutomatScript，CallFunc]"
   splits:
   - split: 3
     text: "WorldManager.Instance.m_EntityDir.不包含id:{0}"
-- raw: "AutomatManager,Script_SetNpcPostionWithCurNpc,193,WorldManager.Instance.m_EntityDir.不包含id:{0},[AutomatScript，CallFunc]"
+- raw: "AutomatManager,Script_SetNpcPostionWithCurNpc,183,WorldManager.Instance.m_EntityDir.不包含id:{0},[AutomatScript，CallFunc]"
   splits:
   - split: 3
     text: "WorldManager.Instance.m_EntityDir.不包含id:{0}"
@@ -9386,27 +9386,27 @@
   splits:
   - split: 3
     text: "获得增强效果"
-- raw: "MijiBookView_mobile/<>c__DisplayClass53_0,<RefreshByPageNum>b__1,17,材料不足！,[]"
+- raw: "MijiBookView_mobile/<>c__DisplayClass42_0,<RefreshByPageNum>b__1,17,材料不足！,[]"
   splits:
   - split: 3
     text: "材料不足！"
-- raw: "MijiBookView_mobile,RefreshByPageNum,61,领悟,[System.Int32，PageNameType，PageNameType，System.Boolean]"
+- raw: "MijiBookView_mobile,RefreshByPageNum,59,领悟,[SweetPotato.MiJiPage，System.Boolean]"
   splits:
   - split: 3
     text: "领悟"
-- raw: "MijiBookView_mobile,RefreshByPageNum,268,提升境界,[System.Int32，PageNameType，PageNameType，System.Boolean]"
+- raw: "MijiBookView_mobile,RefreshByPageNum,220,提升境界,[SweetPotato.MiJiPage，System.Boolean]"
   splits:
   - split: 3
     text: "提升境界"
-- raw: "MijiBookView_mobile,RefreshByPageNum,389,领悟,[System.Int32，PageNameType，PageNameType，System.Boolean]"
+- raw: "MijiBookView_mobile,RefreshByPageNum,341,领悟,[SweetPotato.MiJiPage，System.Boolean]"
   splits:
   - split: 3
     text: "领悟"
-- raw: "MijiBookView_mobile,RefreshByPageNum,1354,领悟,[System.Int32，PageNameType，PageNameType，System.Boolean]"
+- raw: "MijiBookView_mobile,RefreshByPageNum,1306,领悟,[SweetPotato.MiJiPage，System.Boolean]"
   splits:
   - split: 3
     text: "领悟"
-- raw: "MijiBookView_mobile,RefreshByPageNum,1370,消耗：   {0},[System.Int32，PageNameType，PageNameType，System.Boolean]"
+- raw: "MijiBookView_mobile,RefreshByPageNum,1322,消耗：   {0},[SweetPotato.MiJiPage，System.Boolean]"
   splits:
   - split: 3
     text: "消耗：   {0}"
@@ -11714,6 +11714,10 @@
   splits:
   - split: 3
     text: "输入长度不能为空且长度不能大于7"
+- raw: "XiaYunLuViewBaiHuaHolder,UpdateFromModel,56,id={0}的npc不存在！！！,[SweetPotato.UIItemData]"
+  splits:
+  - split: 3
+    text: "id={0}的npc不存在！！！"
 - raw: "XiaYunLuViewGzHyHolder,UpdateFromModel,169,不详,[SweetPotato.UIItemData]"
   splits:
   - split: 3
@@ -13074,27 +13078,27 @@
   splits:
   - split: 3
     text: "{{限}}{0}"
-- raw: "Your.Namespace.Here.UniqueStringHereToAvoidNamespaceConflicts.Grids.XiaYunLuViewRoleHolder,UpdateFromModel,58,无,[SweetPotato.UIItemData]"
+- raw: "Your.Namespace.Here.UniqueStringHereToAvoidNamespaceConflicts.Grids.XiaYunLuViewRoleHolder,UpdateFromModel,57,无,[SweetPotato.UIItemData]"
   splits:
   - split: 3
     text: "无"
-- raw: "Your.Namespace.Here.UniqueStringHereToAvoidNamespaceConflicts.Grids.XiaYunLuViewRoleHolder,UpdateFromModel,74,不详,[SweetPotato.UIItemData]"
+- raw: "Your.Namespace.Here.UniqueStringHereToAvoidNamespaceConflicts.Grids.XiaYunLuViewRoleHolder,UpdateFromModel,73,不详,[SweetPotato.UIItemData]"
   splits:
   - split: 3
     text: "不详"
-- raw: "Your.Namespace.Here.UniqueStringHereToAvoidNamespaceConflicts.Grids.XiaYunLuViewRoleHolder,UpdateFromModel,95,无,[SweetPotato.UIItemData]"
+- raw: "Your.Namespace.Here.UniqueStringHereToAvoidNamespaceConflicts.Grids.XiaYunLuViewRoleHolder,UpdateFromModel,94,无,[SweetPotato.UIItemData]"
   splits:
   - split: 3
     text: "无"
-- raw: "Your.Namespace.Here.UniqueStringHereToAvoidNamespaceConflicts.Grids.XiaYunLuViewRoleHolder,UpdateFromModel,202,不详,[SweetPotato.UIItemData]"
+- raw: "Your.Namespace.Here.UniqueStringHereToAvoidNamespaceConflicts.Grids.XiaYunLuViewRoleHolder,UpdateFromModel,201,不详,[SweetPotato.UIItemData]"
   splits:
   - split: 3
     text: "不详"
-- raw: "Your.Namespace.Here.UniqueStringHereToAvoidNamespaceConflicts.Grids.XiaYunLuViewRoleHolder,UpdateFromModel,245,无,[SweetPotato.UIItemData]"
+- raw: "Your.Namespace.Here.UniqueStringHereToAvoidNamespaceConflicts.Grids.XiaYunLuViewRoleHolder,UpdateFromModel,244,无,[SweetPotato.UIItemData]"
   splits:
   - split: 3
     text: "无"
-- raw: "Your.Namespace.Here.UniqueStringHereToAvoidNamespaceConflicts.Grids.XiaYunLuViewRoleHolder,UpdateFromModel,273,不详,[SweetPotato.UIItemData]"
+- raw: "Your.Namespace.Here.UniqueStringHereToAvoidNamespaceConflicts.Grids.XiaYunLuViewRoleHolder,UpdateFromModel,272,不详,[SweetPotato.UIItemData]"
   splits:
   - split: 3
     text: "不详"
@@ -16254,7 +16258,7 @@
   splits:
   - split: 3
     text: "{0}月"
-- raw: "SweetPotato.ChuanWenDetail,ShowDetail,674,时限：,[SweetPotato.ChuanWenSlotData]"
+- raw: "SweetPotato.ChuanWenDetail,ShowDetail,738,时限：,[SweetPotato.ChuanWenSlotData]"
   splits:
   - split: 3
     text: "时限："
@@ -16278,19 +16282,19 @@
   splits:
   - split: 3
     text: "此人已失联"
-- raw: "SweetPotato.ChuanWenDetail,.ctor,9,<color=#f8744b>[珍材]</color>,[]"
+- raw: "SweetPotato.ChuanWenDetail,.cctor,8,<color=#f8744b>[珍材]</color>,[]"
   splits:
   - split: 3
     text: "<color=#f8744b>[珍材]</color>"
-- raw: "SweetPotato.ChuanWenDetail,.ctor,17,<color=#f8744b>[秘宝]</color>,[]"
+- raw: "SweetPotato.ChuanWenDetail,.cctor,16,<color=#f8744b>[秘宝]</color>,[]"
   splits:
   - split: 3
     text: "<color=#f8744b>[秘宝]</color>"
-- raw: "SweetPotato.ChuanWenDetail,.ctor,25,<color=#f8744b>[争斗]</color>,[]"
+- raw: "SweetPotato.ChuanWenDetail,.cctor,24,<color=#f8744b>[争斗]</color>,[]"
   splits:
   - split: 3
     text: "<color=#f8744b>[争斗]</color>"
-- raw: "SweetPotato.ChuanWenDetail,.ctor,33,<color=#f8744b>[活动]</color>,[]"
+- raw: "SweetPotato.ChuanWenDetail,.cctor,32,<color=#f8744b>[活动]</color>,[]"
   splits:
   - split: 3
     text: "<color=#f8744b>[活动]</color>"
@@ -18742,7 +18746,7 @@
   splits:
   - split: 3
     text: "]俸禄任务完成"
-- raw: "SweetPotato.MenPaiEntity,Load,1789,移除了门人，id:{0} 原因:为主角队友,[LitJson.JsonData]"
+- raw: "SweetPotato.MenPaiEntity,Load,1783,移除了门人，id:{0} 原因:为主角队友,[LitJson.JsonData]"
   splits:
   - split: 3
     text: "移除了门人，id:{0} 原因:为主角队友"
@@ -18838,7 +18842,7 @@
   splits:
   - split: 3
     text: "未装备马匹！"
-- raw: "SweetPotato.WorldManager,AddNpcEquip,99,门派弟子获得装备：,[System.Int32，System.Int32]"
+- raw: "SweetPotato.WorldManager,AddNpcEquip,90,门派弟子获得装备：,[System.Int32，System.Int32]"
   splits:
   - split: 3
     text: "门派弟子获得装备："
@@ -18846,18 +18850,22 @@
   splits:
   - split: 3
     text: "场景中未找到名字叫{0}的物体"
-- raw: "SweetPotato.WorldManager,LogNpc,238,场景中NPC数量统计：类型{0} 数量{1},[]"
+- raw: "SweetPotato.WorldManager,LogNpc,253,场景中NPC数量统计：类型{0} 数量{1},[]"
   splits:
   - split: 3
     text: "场景中NPC数量统计：类型{0} 数量{1}"
-- raw: "SweetPotato.WorldManager,LogNpc,326,场景中随机NPC数量统计：数量{0},[]"
+- raw: "SweetPotato.WorldManager,LogNpc,341,场景中随机NPC数量统计：数量{0},[]"
   splits:
   - split: 3
     text: "场景中随机NPC数量统计：数量{0}"
-- raw: "SweetPotato.WorldManager,LogNpc,358,场景中已初始化NPC数量统计：数量{0},[]"
+- raw: "SweetPotato.WorldManager,LogNpc,373,场景中已初始化NPC数量统计：数量{0},[]"
   splits:
   - split: 3
     text: "场景中已初始化NPC数量统计：数量{0}"
+- raw: "SweetPotato.WorldManager,LogNpc,405,场景中未激活NPC数量统计：数量{0},[]"
+  splits:
+  - split: 3
+    text: "场景中未激活NPC数量统计：数量{0}"
 - raw: "SweetPotato.MemoryMeasurementUtility,FormatMemorySize,84,{0} 字节,[System.Int64]"
   splits:
   - split: 3
