@@ -8292,10 +8292,10 @@
   splits:
   - text: "内功  510"
     translated: "Neigong, 510"
-- raw: "阴  37"
+- raw: "阴  3"
   splits:
-  - text: "阴  37"
-    translated: "Yin 37"
+  - text: "阴  3"
+    translated: "Yin 3"
 - raw: "阳  36"
   splits:
   - text: "阳  36"
@@ -8364,6 +8364,10 @@
   splits:
   - text: "神药王"
     translated: "King of Divine Elixirs"
+- raw: "阴  37"
+  splits:
+  - text: "阴  37"
+    translated: "Yin 37"
 - raw: "时间:"
   splits:
   - text: "时间:"
@@ -9468,6 +9472,14 @@
   splits:
   - text: "镜头移动灵敏度"
     translated: "Camera sensitivity to movement adjustment"
+- raw: "角色技能使用"
+  splits:
+  - text: "角色技能使用"
+    translated: "Character skill usage"
+- raw: "点击右下角按键使用技能，技能进入CD，需等待。功法技能buff状态，使用后进入特殊状态"
+  splits:
+  - text: "点击右下角按键使用技能，技能进入CD，需等待。功法技能buff状态，使用后进入特殊状态"
+    translated: "Click the button in the bottom right to use the skill; it will enter cooldown and require waiting. After using a qigong technique skill for buffing, it enters a special state."
 - raw: "按键"
   splits:
   - text: "按键"
@@ -9836,10 +9848,6 @@
   splits:
   - text: "尚未知晓"
     translated: "Not yet known"
-- raw: "角色技能使用"
-  splits:
-  - text: "角色技能使用"
-    translated: "Character skill usage"
 - raw: "点击右下角按钮"
   splits:
   - text: "点击右下角按钮"

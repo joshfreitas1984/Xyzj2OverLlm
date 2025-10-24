@@ -13935,6 +13935,31 @@
   - split: 1
     text: "小李飞刀"
     translated: "Little Li throws the knife"
+- raw: "34700#云岫归山#4#20#14#14#21090#99999#0#0#0#0#miji_b5#34700#0#36700#0#0#0#10050029#4###0#0#0#0#0#0####0###0####0####0#0#1##0#"
+  splits:
+  - split: 1
+    text: "云岫归山"
+    translated: "Cloudy Peaks Return to the Mountain"
+- raw: "34701#佩兰入梦#4#20#14#14#21090#99999#0#0#0#0#miji_b5#34701#0#36701#0#0#0#10050030#4###0#0#0#0#0#0####0###0####0####0#0#1##0#"
+  splits:
+  - split: 1
+    text: "佩兰入梦"
+    translated: "Peilan enters the dream"
+- raw: "34702#红袖影缠#4#20#14#14#21090#99999#0#0#0#0#miji_b5#34702#0#36702#0#0#0#10050031#4###0#0#0#0#0#0####0###0####0####0#0#1##0#"
+  splits:
+  - split: 1
+    text: "红袖影缠"
+    translated: "Crimson sleeve shadows entwine"
+- raw: "34703#尘烟渡火#4#20#14#14#21090#99999#0#0#0#0#miji_b5#34703#0#36703#0#0#0#10050032#4###0#0#0#0#0#0####0###0####0####0#0#1##0#"
+  splits:
+  - split: 1
+    text: "尘烟渡火"
+    translated: "Dust and Smoke Cross Through Fire"
+- raw: "34704#万川映月#4#20#14#14#21090#99999#0#0#0#0#miji_b5#34704#0#36704#0#0#0#10050033#4###0#0#0#0#0#0####0###0####0####0#0#1##0#"
+  splits:
+  - split: 1
+    text: "万川映月"
+    translated: "Ten thousand streams reflect the moon"
 - raw: "34900#云鹤吐纳法#4#15#11#11#4800#99999#0#1#0#0#miji11#34900#0#36900#0#3600#0#900#4###0#0#0#0#0#0####0###0##0#0#0#0##0#0#0#0#0#0#"
   splits:
   - split: 1
@@ -40367,17 +40392,17 @@
   - split: 46
     text: "taptap2025年10月累计签到活动(非绝版，后续签到活动还会返场)"
     translated: "Tap Tap 2025 Year 10 Monthly Cumulative Sign‑In Event (Not Limited Edition, Future Sign‑In Events Will Return)"
-- raw: "87001#免费剑特效1：碧波流云#6#2#14#16#0#1#0#1#0#0#jian7#8700101#0#8700102#0#3600#0#sfx_weapon_jian_Level1#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#1#0#0#"
+- raw: "87001#免费剑特效1：碧波流云#6#2#14#16#0#99999#0#1#0#0#jian7#8700101#0#8700102#0#3600#0#sfx_weapon_jian_Level1#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "免费剑特效1：碧波流云"
     translated: "Free sword special effect 1: Rippling blue waves and drifting clouds."
-- raw: "87002#付费剑特效2：冰魄寒光#6#2#14#16#0#1#0#1#0#0#jian7#8700201#0#8700202#0#3600#0#sfx_weapon_jian_Level2#1###0#0#0#0#0#0####0###0####0##0##0#0#1#0#0#"
+- raw: "87002#付费剑特效2：冰魄寒光#6#2#14#16#0#99999#0#1#0#0#jian7#8700201#0#8700202#0#3600#0#sfx_weapon_jian_Level2#1###0#0#0#0#0#0####0###0####0##0##0#0#0#0#0#"
   splits:
   - split: 1
     text: "付费剑特效2：冰魄寒光"
     translated: "Pay‑to‑use sword special effect 2: Frost Spirit's Cold Radiance"
-- raw: "87003#激活码剑特效3：火麟剑#6#2#14#16#0#1#0#1#0#0#jian7#8700301#0#8700302#0#3600#0#sfx_weapon_jian#1###0#0#0#0#0#0####0###0##0#0#0#0#豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取#0#0#0#1#豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取#0#"
+- raw: "87003#激活码剑特效3：火麟剑#6#2#14#16#0#99999#0#1#0#0#jian7#8700301#0#8700302#0#3600#0#sfx_weapon_jian#1###0#0#0#0#0#0####0###0##0#0#0#0#豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取#0#0#0#0#豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取#0#"
   splits:
   - split: 1
     text: "激活码剑特效3：火麟剑"
@@ -40388,22 +40413,22 @@
   - split: 46
     text: "豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取"
     translated: "Bold Adventurers' Council Bulletin ‑ Activity Welfare: Even after the event concludes, you can join the official activity welfare QQ group 788393107 and ask customer service to request from Jianghu Master Sister to receive it."
-- raw: "87011#免费刀特效1：苍霞流转#6#3#14#16#0#1#0#1#0#0#dao7#8701101#0#8701102#0#3600#0#sfx_weapon_Dao_Level1#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#1#0#0#"
+- raw: "87011#免费刀特效1：苍霞流转#6#3#14#16#0#99999#0#1#0#0#dao7#8701101#0#8701102#0#3600#0#sfx_weapon_Dao_Level1#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "免费刀特效1：苍霞流转"
     translated: "Free knife special effect 1: The Azure Mist Unfolds."
-- raw: "87012#付费刀特效2：烈影斩风#6#3#14#16#0#1#0#1#0#0#dao7#8701201#0#8701202#0#3600#0#sfx_weapon_Dao_Level2#1###0#0#0#0#0#0####0###0####0##0##0#0#1#0#0#"
+- raw: "87012#付费刀特效2：烈影斩风#6#3#14#16#0#99999#0#1#0#0#dao7#8701201#0#8701202#0#3600#0#sfx_weapon_Dao_Level2#1###0#0#0#0#0#0####0###0####0##0##0#0#0#0#0#"
   splits:
   - split: 1
     text: "付费刀特效2：烈影斩风"
     translated: "Pay‑to‑use special effects for the knife. 2: Fierce Shadow Cuts Through Wind"
-- raw: "87013#免费刀特效2：大夏龙雀#6#3#14#16#0#1#0#1#0#0#dao7#8703101#0#8703102#0#3600#0#sfx_weapon_effect_dao #1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#1#0#0#"
+- raw: "87013#免费刀特效2：大夏龙雀#6#3#14#16#0#99999#0#1#0#0#dao7#8701103#0#8701104#0#3600#0#sfx_weapon_effect_dao #1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "免费刀特效2：大夏龙雀"
     translated: "Free sword effect 2: Dragon Quail of Great Xia"
-- raw: "87014#激活码特效4：北霸枪#6#4#14#16#0#1#0#1#0#0#qiang2#8700305#0#8700306#0#3600#0#sfx_weapon_qiang#1###0#0#0#0#0#0####0###0##0#0#0#0#豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取#0#0#0#1#豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取#0#"
+- raw: "87014#激活码特效4：北霸枪#6#4#14#16#0#99999#0#1#0#0#qiang2#8700305#0#8700306#0#3600#0#sfx_weapon_qiang#1###0#0#0#0#0#0####0###0##0#0#0#0#豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取#0#0#0#0#豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取#0#"
   splits:
   - split: 1
     text: "激活码特效4：北霸枪"
@@ -40414,22 +40439,22 @@
   - split: 46
     text: "豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取"
     translated: "Bold Adventurers' Council Bulletin ‑ Activity Welfare: Even after the event concludes, you can join the official activity welfare QQ group 788393107 and ask customer service to request from Jianghu Master Sister to receive it."
-- raw: "87021#免费枪特效1：翠竹破风#6#4#14#16#0#1#0#1#0#0#qiang2#8702101#0#8702102#0#3600#0#sfx_weapon_Qiang_Level1#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#1#0#0#"
+- raw: "87021#免费枪特效1：翠竹破风#6#4#14#16#0#99999#0#1#0#0#qiang2#8702101#0#8702102#0#3600#0#sfx_weapon_Qiang_Level1#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "免费枪特效1：翠竹破风"
     translated: "Free spear special effect 1: Cui Zhu breaks through the wind."
-- raw: "87022#付费枪特效2：雷霆九天#6#4#14#16#0#1#0#1#0#0#qiang2#8702201#0#8702202#0#3600#0#sfx_weapon_Qiang_Level2#1###0#0#0#0#0#0####0###0####0##0##0#0#1#0#0#"
+- raw: "87022#付费枪特效2：雷霆九天#6#4#14#16#0#99999#0#1#0#0#qiang2#8702201#0#8702202#0#3600#0#sfx_weapon_Qiang_Level2#1###0#0#0#0#0#0####0###0####0##0##0#0#0#0#0#"
   splits:
   - split: 1
     text: "付费枪特效2：雷霆九天"
     translated: "Premium spear special effects 2: Thunderous Nine Heavens"
-- raw: "87023#免费枪特效2：丈八红缨#6#4#14#16#0#1#0#1#0#0#qiang2#8701303#0#8701304#0#3600#0#sfx_weapon_effect_qiang#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#1#0#0#"
+- raw: "87023#免费枪特效2：丈八红缨#6#4#14#16#0#99999#0#1#0#0#qiang2#8701303#0#8701304#0#3600#0#sfx_weapon_effect_qiang#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "免费枪特效2：丈八红缨"
     translated: "Free spear effect 2: Zhang Ba Red Banner Spear"
-- raw: "87024#激活码特效4：小楼一夜听春雨#6#3#14#16#0#1#0#1#0#0#dao7#8700303#0#8700304#0#3600#0#sfx_weapon_dao#1###0#0#0#0#0#0####0###0##0#0#0#0#豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取#0#0#0#1#豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取#0#"
+- raw: "87024#激活码特效4：小楼一夜听春雨#6#3#14#16#0#99999#0#1#0#0#dao7#8700303#0#8700304#0#3600#0#sfx_weapon_dao#1###0#0#0#0#0#0####0###0##0#0#0#0#豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取#0#0#0#0#豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取#0#"
   splits:
   - split: 1
     text: "激活码特效4：小楼一夜听春雨"
@@ -40440,17 +40465,17 @@
   - split: 46
     text: "豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取"
     translated: "Bold Adventurers' Council Bulletin ‑ Activity Welfare: Even after the event concludes, you can join the official activity welfare QQ group 788393107 and ask customer service to request from Jianghu Master Sister to receive it."
-- raw: "87031#免费拳特效1：明月凌波#6#5#14#16#0#1#0#1#0#0#shoutao4#8701103#0#8701104##3600#0#sfx_weapon_Boji_Level1#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#1#0#0#"
+- raw: "87031#免费拳特效1：明月凌波#6#5#14#16#0#99999#0#1#0#0#shoutao4#8703101#0#8703102##3600#0#sfx_weapon_Boji_Level1#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "免费拳特效1：明月凌波"
     translated: "Free Special Effects 1 Kung Fu Techniques: Illuminating moonlight over the waves."
-- raw: "87032#付费拳特效2：烈焰罡气#6#5#14#16#0#1#0#1#0#0#shoutao4#8703201#0#8703202#0#3600#0#sfx_weapon_Boji_Level2#1###0#0#0#0#0#0####0###0####0##0##0#0#1#0#0#"
+- raw: "87032#付费拳特效2：烈焰罡气#6#5#14#16#0#99999#0#1#0#0#shoutao4#8703201#0#8703202#0#3600#0#sfx_weapon_Boji_Level2#1###0#0#0#0#0#0####0###0####0##0##0#0#0#0#0#"
   splits:
   - split: 1
     text: "付费拳特效2：烈焰罡气"
     translated: "Pay‑per‑view special effects 2: Flame‑like energy vortex"
-- raw: "87034#激活码特效3：南斗拳#6#5#14#16#0#1#0#1#0#0#shoutao4#8700307#0#8700308#0#3600#0#sfx_weapon_quan#1###0#0#0#0#0#0####0###0##0#0#0#0#豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取#0#0#0#1#豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取#0#"
+- raw: "87034#激活码特效3：南斗拳#6#5#14#16#0#99999#0#1#0#0#shoutao4#8700307#0#8700308#0#3600#0#sfx_weapon_quan#1###0#0#0#0#0#0####0###0##0#0#0#0#豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取#0#0#0#0#豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取#0#"
   splits:
   - split: 1
     text: "激活码特效3：南斗拳"
@@ -41976,6 +42001,11 @@
   - split: 1
     text: "云鹤玉佩"
     translated: "Cloud Crane Jade Pendant"
+- raw: "180011#诗经#4#16#12#14#0#1#0#0#0#0#miji8#18001101#18001102#18001103##3605#0#####0#0#0#0#0#0####0###0####0####0#0#1#0#0#"
+  splits:
+  - split: 1
+    text: "诗经"
+    translated: "Book of Songs"
 - raw: "550001#万兽秘技-月德#3#23#14#16#560#99999#0#1#0#0#miji15#550001#0#551001#0#3600#0##3600###0#0#0#0#0#0####0###0##0#1#0#0##0#0#0#1#0#0#"
   splits:
   - split: 1
@@ -42111,6 +42141,11 @@
   - split: 1
     text: "万兽秘技-墨龙"
     translated: "Myriad Beasts' Secret Techniques ‑ Ink Dragon"
+- raw: "600000#师父的信#4#4#13#15#352#99999#0#1#0#0#shuxin1#1700000#0#1700001##3600#0#####0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#1#0#0#"
+  splits:
+  - split: 1
+    text: "师父的信"
+    translated: "Letter from my Master"
 - raw: "1000000#铁刀（出生武器）#1#1#14#10#1080#1#0#1#0#0#dao1#45011#0#47011#3723#3601#30038#####0#0#0#0#0#0####0###0##0#1#0#0##0#1#0#1#0#0#"
   splits:
   - split: 1

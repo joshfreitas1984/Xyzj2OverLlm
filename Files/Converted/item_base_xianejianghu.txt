@@ -13919,6 +13919,31 @@
   - split: 1
     text: "小李飞刀"
     translated: "Little Li throws the knife"
+- raw: "34700#云岫归山#4#20#14#14#21090#99999#0#0#0#0#miji_b5#34700#0#36700#0#0#0#10050029#4###0#0#0#0#0#0####0###0####0####0#0#1##"
+  splits:
+  - split: 1
+    text: "云岫归山"
+    translated: "Cloudy Peaks Return to the Mountain"
+- raw: "34701#佩兰入梦#4#20#14#14#21090#99999#0#0#0#0#miji_b5#34701#0#36701#0#0#0#10050030#4###0#0#0#0#0#0####0###0####0####0#0#1##"
+  splits:
+  - split: 1
+    text: "佩兰入梦"
+    translated: "Peilan enters the dream"
+- raw: "34702#红袖影缠#4#20#14#14#21090#99999#0#0#0#0#miji_b5#34702#0#36702#0#0#0#10050031#4###0#0#0#0#0#0####0###0####0####0#0#1##"
+  splits:
+  - split: 1
+    text: "红袖影缠"
+    translated: "Crimson sleeve shadows entwine"
+- raw: "34703#尘烟渡火#4#20#14#14#21090#99999#0#0#0#0#miji_b5#34703#0#36703#0#0#0#10050032#4###0#0#0#0#0#0####0###0####0####0#0#1##"
+  splits:
+  - split: 1
+    text: "尘烟渡火"
+    translated: "Dust and Smoke Cross Through Fire"
+- raw: "34704#万川映月#4#20#14#14#21090#99999#0#0#0#0#miji_b5#34704#0#36704#0#0#0#10050033#4###0#0#0#0#0#0####0###0####0####0#0#1##"
+  splits:
+  - split: 1
+    text: "万川映月"
+    translated: "Ten thousand streams reflect the moon"
 - raw: "34900#云鹤吐纳法#4#15#11#11#4800#99999#0#1#0#0#miji11#34900#0#36900#0#3600#0#900#4###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
@@ -39386,7 +39411,7 @@
     translated: "Unlock and obtain the purely cosmetic DLC 'Dragon Subduing.'"
   - split: 46
     text: "纯外观DLC《江湖初见》解锁获得"
-    translated: "Purely Visual DLC 'First Encounter in the Jianghu' Unlocked Obtained."
+    translated: "Unlock obtained purely for visual DLC 'First Impressions of the Jianghu.'"
 - raw: "84022#降龙dlc特效道具:或跃在渊#6#1#14#15#0#99999#0#1#0#0#miji14#8402201#0#8402202##3600#0#131462#sfx_main_hero_130680&0&true&true###0#0#0#0#0#0####0###0####0##纯外观DLC《传世降龙》解锁获得##0#0#1#纯外观DLC《江湖初见》解锁获得#"
   splits:
   - split: 1
@@ -39397,7 +39422,7 @@
     translated: "Unlock and obtain the purely cosmetic DLC 'Dragon Subduing.'"
   - split: 46
     text: "纯外观DLC《江湖初见》解锁获得"
-    translated: "Purely Visual DLC 'First Encounter in the Jianghu' Unlocked Obtained."
+    translated: "Unlock obtained purely for visual DLC 'First Impressions of the Jianghu.'"
 - raw: "84023#降龙dlc特效道具:时乘六龙#6#1#14#15#0#99999#0#1#0#0#miji14#8402301#0#8402302##3600#0#131463#sfx_main_hero_130690&0&true&true###0#0#0#0#0#0####0###0####0##纯外观DLC《传世降龙》解锁获得##0#0#1#纯外观DLC《江湖初见》解锁获得#"
   splits:
   - split: 1
@@ -39408,7 +39433,7 @@
     translated: "Unlock and obtain the purely cosmetic DLC 'Dragon Subduing.'"
   - split: 46
     text: "纯外观DLC《江湖初见》解锁获得"
-    translated: "Purely Visual DLC 'First Encounter in the Jianghu' Unlocked Obtained."
+    translated: "Unlock obtained purely for visual DLC 'First Impressions of the Jianghu.'"
 - raw: "84024#降龙dlc特效道具:鸿渐于陆#6#1#14#15#0#99999#0#1#0#0#miji14#8402401#0#8402402##3600#0#131464#sfx_main_hero_130700&0&true&true###0#0#0#0#0#0####0###0####0##纯外观DLC《传世降龙》解锁获得##0#0#1#纯外观DLC《江湖初见》解锁获得#"
   splits:
   - split: 1
@@ -39419,7 +39444,7 @@
     translated: "Unlock and obtain the purely cosmetic DLC 'Dragon Subduing.'"
   - split: 46
     text: "纯外观DLC《江湖初见》解锁获得"
-    translated: "Purely Visual DLC 'First Encounter in the Jianghu' Unlocked Obtained."
+    translated: "Unlock obtained purely for visual DLC 'First Impressions of the Jianghu.'"
 - raw: "84025#降龙dlc特效道具:突如其来#6#1#14#15#0#99999#0#1#0#0#miji14#8402501#0#8402502##3600#0#131465#sfx_main_hero_130710_ShiFa&0&true&true|sfx_main_hero_130710_Trail&833&true&true###0#0#0#0#0#0####0###0####0##纯外观DLC《传世降龙》解锁获得##0#0#1#纯外观DLC《江湖初见》解锁获得#"
   splits:
   - split: 1
@@ -39430,7 +39455,7 @@
     translated: "Unlock and obtain the purely cosmetic DLC 'Dragon Subduing.'"
   - split: 46
     text: "纯外观DLC《江湖初见》解锁获得"
-    translated: "Purely Visual DLC 'First Encounter in the Jianghu' Unlocked Obtained."
+    translated: "Unlock obtained purely for visual DLC 'First Impressions of the Jianghu.'"
 - raw: "84026#降龙dlc特效道具:震惊百里#6#1#14#15#0#99999#0#1#0#0#miji14#8402601#0#8402602##3600#0#131466#sfx_main_hero_130720&0&true&true###0#0#0#0#0#0####0###0####0##纯外观DLC《传世降龙》解锁获得##0#0#1#纯外观DLC《江湖初见》解锁获得#"
   splits:
   - split: 1
@@ -39441,7 +39466,7 @@
     translated: "Unlock and obtain the purely cosmetic DLC 'Dragon Subduing.'"
   - split: 46
     text: "纯外观DLC《江湖初见》解锁获得"
-    translated: "Purely Visual DLC 'First Encounter in the Jianghu' Unlocked Obtained."
+    translated: "Unlock obtained purely for visual DLC 'First Impressions of the Jianghu.'"
 - raw: "84027#降龙dlc特效道具:密云不雨#6#1#14#15#0#99999#0#1#0#0#miji14#8402701#0#8402702##3600#0#131467#sfx_main_hero_130730&0&true&true###0#0#0#0#0#0####0###0####0##纯外观DLC《传世降龙》解锁获得##0#0#1#纯外观DLC《江湖初见》解锁获得#"
   splits:
   - split: 1
@@ -39452,7 +39477,7 @@
     translated: "Unlock and obtain the purely cosmetic DLC 'Dragon Subduing.'"
   - split: 46
     text: "纯外观DLC《江湖初见》解锁获得"
-    translated: "Purely Visual DLC 'First Encounter in the Jianghu' Unlocked Obtained."
+    translated: "Unlock obtained purely for visual DLC 'First Impressions of the Jianghu.'"
 - raw: "84028#降龙dlc特效道具:鱼跃于渊#6#1#14#15#0#99999#0#1#0#0#miji14#8402801#0#8402802##3600#0#131468#sfx_main_hero_130740&0&true&true###0#0#0#0#0#0####0###0####0##纯外观DLC《传世降龙》解锁获得##0#0#1#纯外观DLC《江湖初见》解锁获得#"
   splits:
   - split: 1
@@ -39463,7 +39488,7 @@
     translated: "Unlock and obtain the purely cosmetic DLC 'Dragon Subduing.'"
   - split: 46
     text: "纯外观DLC《江湖初见》解锁获得"
-    translated: "Purely Visual DLC 'First Encounter in the Jianghu' Unlocked Obtained."
+    translated: "Unlock obtained purely for visual DLC 'First Impressions of the Jianghu.'"
 - raw: "84029#降龙dlc特效道具:利涉大川#6#1#14#15#0#99999#0#1#0#0#miji14#8402901#0#8402902##3600#0#131469#sfx_main_hero_130750&0&true&true###0#0#0#0#0#0####0###0####0##纯外观DLC《传世降龙》解锁获得##0#0#1#纯外观DLC《江湖初见》解锁获得#"
   splits:
   - split: 1
@@ -39474,7 +39499,7 @@
     translated: "Unlock and obtain the purely cosmetic DLC 'Dragon Subduing.'"
   - split: 46
     text: "纯外观DLC《江湖初见》解锁获得"
-    translated: "Purely Visual DLC 'First Encounter in the Jianghu' Unlocked Obtained."
+    translated: "Unlock obtained purely for visual DLC 'First Impressions of the Jianghu.'"
 - raw: "84030#降龙dlc特效道具:损则有孚#6#1#14#15#0#99999#0#1#0#0#miji14#8403001#0#8403002##3600#0#131470#sfx_main_hero_130760&0&true&true###0#0#0#0#0#0####0###0####0##纯外观DLC《传世降龙》解锁获得##0#0#1#纯外观DLC《江湖初见》解锁获得#"
   splits:
   - split: 1
@@ -39485,7 +39510,7 @@
     translated: "Unlock and obtain the purely cosmetic DLC 'Dragon Subduing.'"
   - split: 46
     text: "纯外观DLC《江湖初见》解锁获得"
-    translated: "Purely Visual DLC 'First Encounter in the Jianghu' Unlocked Obtained."
+    translated: "Unlock obtained purely for visual DLC 'First Impressions of the Jianghu.'"
 - raw: "84031#降龙dlc特效道具:覆霜冰至#6#1#14#15#0#99999#0#1#0#0#miji14#8403101#0#8403102##3600#0#131471#sfx_main_hero_130770&0&true&true###0#0#0#0#0#0####0###0####0##纯外观DLC《传世降龙》解锁获得##0#0#1#纯外观DLC《江湖初见》解锁获得#"
   splits:
   - split: 1
@@ -39496,7 +39521,7 @@
     translated: "Unlock and obtain the purely cosmetic DLC 'Dragon Subduing.'"
   - split: 46
     text: "纯外观DLC《江湖初见》解锁获得"
-    translated: "Purely Visual DLC 'First Encounter in the Jianghu' Unlocked Obtained."
+    translated: "Unlock obtained purely for visual DLC 'First Impressions of the Jianghu.'"
 - raw: "84032#降龙dlc特效道具:羝羊触藩#6#1#14#15#0#99999#0#1#0#0#miji14#8403201#0#8403202##3600#0#131472#sfx_main_hero_130780&0&true&true###0#0#0#0#0#0####0###0####0##纯外观DLC《传世降龙》解锁获得##0#0#1#纯外观DLC《江湖初见》解锁获得#"
   splits:
   - split: 1
@@ -39507,7 +39532,7 @@
     translated: "Unlock and obtain the purely cosmetic DLC 'Dragon Subduing.'"
   - split: 46
     text: "纯外观DLC《江湖初见》解锁获得"
-    translated: "Purely Visual DLC 'First Encounter in the Jianghu' Unlocked Obtained."
+    translated: "Unlock obtained purely for visual DLC 'First Impressions of the Jianghu.'"
 - raw: "84033#降龙dlc特效道具:神龙摆尾#6#1#14#15#0#99999#0#1#0#0#miji14#8403301#0#8403302##3600#0#131473#sfx_main_hero_130790&0&true&true###0#0#0#0#0#0####0###0####0##纯外观DLC《传世降龙》解锁获得##0#0#1#纯外观DLC《江湖初见》解锁获得#"
   splits:
   - split: 1
@@ -39518,7 +39543,7 @@
     translated: "Unlock and obtain the purely cosmetic DLC 'Dragon Subduing.'"
   - split: 46
     text: "纯外观DLC《江湖初见》解锁获得"
-    translated: "Purely Visual DLC 'First Encounter in the Jianghu' Unlocked Obtained."
+    translated: "Unlock obtained purely for visual DLC 'First Impressions of the Jianghu.'"
 - raw: "84034#降龙特效道具:降龙领域#6#1#14#15#0#99999#0#1#0#0#miji14#8403401#0#8403402##3600#0#131488#sfx_xl_lingyu&0&true&true###0#0#0#0#0#0####0###0####0##纯外观DLC《传世降龙》解锁获得##0#0#1#纯外观DLC《江湖初见》解锁获得#"
   splits:
   - split: 1
@@ -39529,7 +39554,7 @@
     translated: "Unlock and obtain the purely cosmetic DLC 'Dragon Subduing.'"
   - split: 46
     text: "纯外观DLC《江湖初见》解锁获得"
-    translated: "Purely Visual DLC 'First Encounter in the Jianghu' Unlocked Obtained."
+    translated: "Unlock obtained purely for visual DLC 'First Impressions of the Jianghu.'"
 - raw: "84035#少冲#6#1#14#15#0#99999#0#1#0#0#miji14#8403501#0#8403502#0#3600#0#134510#sfx_main_hero_130821&0&true&true###0#0#0#0#0#0####0###0####0##纯外观DLC《剑指六脉》解锁获得##0#0#0#纯外观DLC《剑指六脉》解锁获得#"
   splits:
   - split: 1
@@ -39740,10 +39765,10 @@
     translated: "Jianghu as a Dream · Fashion 4: Purple Smoke"
   - split: 41
     text: "纯外观DLC《江湖如梦》解锁获得"
-    translated: "Purely cosmetic DLC 'Jianghu as a Dream' unlocked and obtained."
+    translated: "Purely cosmetic DLC 'Jianghu Like a Dream' unlocked and acquired."
   - split: 46
     text: "纯外观DLC《江湖如梦》解锁获得"
-    translated: "Purely cosmetic DLC 'Jianghu as a Dream' unlocked and obtained."
+    translated: "Purely cosmetic DLC 'Jianghu Like a Dream' unlocked and acquired."
 - raw: "86005#江湖如梦·付费时装5：炎尘迹#1#11#13#14#0#99999#0#1#0#0#bujia4#86005#0#8600501#0#3600#0#23000#810##0#0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《江湖如梦》解锁获得#0#0#1|4|8|16#0#纯外观DLC《江湖如梦》解锁获得#"
   splits:
   - split: 1
@@ -39751,10 +39776,10 @@
     translated: "Jianghu As a Dream · Pay‑to‑Wear Fashion 5: Traces of blazing dust"
   - split: 41
     text: "纯外观DLC《江湖如梦》解锁获得"
-    translated: "Purely cosmetic DLC 'Jianghu as a Dream' unlocked and obtained."
+    translated: "Purely cosmetic DLC 'Jianghu Like a Dream' unlocked and acquired."
   - split: 46
     text: "纯外观DLC《江湖如梦》解锁获得"
-    translated: "Purely cosmetic DLC 'Jianghu as a Dream' unlocked and obtained."
+    translated: "Purely cosmetic DLC 'Jianghu Like a Dream' unlocked and acquired."
 - raw: "86006#激活码时装6：霞光破晓#1#11#13#14#0#99999#0#1#0#0#shizhuang_xiaguangpoxiao#86006#0#8600601#0#3600#0#21100#810###0#0#0#0#0#0####0###0##0#0#0#0#2024年Steam预约活动福利，后续运营活动中不定时返场，还请大家关注各平台活动公告哦。#0#0#1|4|8|16#0#2024年Steam预约活动福利，后续运营活动中不定时返场，还请大家关注各平台活动公告哦。#"
   splits:
   - split: 1
@@ -39799,10 +39824,10 @@
     translated: "Jianghu Like a Dream · Paid Compensation for Fashion 11: Walking in the Moon's Shadow"
   - split: 41
     text: "纯外观DLC《江湖如梦》解锁获得"
-    translated: "Purely cosmetic DLC 'Jianghu as a Dream' unlocked and obtained."
+    translated: "Purely cosmetic DLC 'Jianghu Like a Dream' unlocked and acquired."
   - split: 46
     text: "纯外观DLC《江湖如梦》解锁获得"
-    translated: "Purely cosmetic DLC 'Jianghu as a Dream' unlocked and obtained."
+    translated: "Purely cosmetic DLC 'Jianghu Like a Dream' unlocked and acquired."
 - raw: "86012#舞弄太极·付费时装12：墨影风行#1#11#13#14#0#99999#0#1#0#0#shizhuang_86012#86012#0#8601201#0#3600#0#21500#810###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《舞弄太极》解锁获得#0#0#1|4|8|16#0#纯外观DLC《舞弄太极》解锁获得#"
   splits:
   - split: 1
@@ -39900,7 +39925,7 @@
     translated: "Unlock and obtain the purely cosmetic DLC 'Dragon Subduing.'"
   - split: 46
     text: "纯外观DLC《江湖初见》解锁获得"
-    translated: "Purely Visual DLC 'First Encounter in the Jianghu' Unlocked Obtained."
+    translated: "Unlock obtained purely for visual DLC 'First Impressions of the Jianghu.'"
 - raw: "86023#DLC时装男:赤裘锦袍#1#11#13#14#0#99999#0#1#0#0#shizhuang_86021#86023#0#8602301#0#3600#0#28110#810###0#0#0#0#0#0####0###0##0#0#0#0#PC专属，2025年新春福利#0#0#1|4|8|16#0#PC专属，2025年新春福利#"
   splits:
   - split: 1
@@ -40253,7 +40278,7 @@
   - split: 1
     text: "付费刀特效2：烈影斩风"
     translated: "Pay for special effects for the 2 blade: Blazing Shadow Cuts Through the Wind."
-- raw: "87013#免费刀特效2：大夏龙雀#6#3#14#16#0#99999#0#1#0#0#dao7#8703101#0#8703102#0#3600#0#sfx_weapon_effect_dao #1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#0#"
+- raw: "87013#免费刀特效2：大夏龙雀#6#3#14#16#0#99999#0#1#0#0#dao7#8701103#0#8701104#0#3600#0#sfx_weapon_effect_dao #1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "免费刀特效2：大夏龙雀"
@@ -40295,7 +40320,7 @@
   - split: 46
     text: "豪侠议事帖活动福利，活动结束后依然可以加入官方活动福利Q群788393107找客服“江湖大师姐领”领取"
     translated: "Heroic Chivalry Meeting Announcement: Activity Benefits. Even after the activity ends, you can join the official activity benefits QQ group 788393107 and find customer service to receive from Jianghu Master Sister to claim your rewards."
-- raw: "87031#免费拳特效1：明月凌波#6#5#14#16#0#99999#0#1#0#0#shoutao4#8701103#0#8701104##3600#0#sfx_weapon_Boji_Level1#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#0#"
+- raw: "87031#免费拳特效1：明月凌波#6#5#14#16#0#99999#0#1#0#0#shoutao4#8703101#0#8703102##3600#0#sfx_weapon_Boji_Level1#1###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1
     text: "免费拳特效1：明月凌波"
@@ -41831,6 +41856,11 @@
   - split: 1
     text: "云鹤玉佩"
     translated: "Cloud Crane Jade Pendant"
+- raw: "180011#诗经#4#16#12#14#0#1#0#0#0#0#miji8#18001101#18001102#18001103##3605#0#####0#0#0#0#0#0####0###0####0####0#0#1#0#"
+  splits:
+  - split: 1
+    text: "诗经"
+    translated: "Book of Songs"
 - raw: "550001#万兽秘技-月德#3#23#14#16#560#99999#0#1#0#0#miji15#550001#0#551001#0#3600#0##3600###0#0#0#0#0#0####0###0##0#1#0#0#0#0#0#0#1#0#"
   splits:
   - split: 1
@@ -41976,3 +42006,38 @@
   - split: 1
     text: "铁刀（出生武器）"
     translated: "Iron blade. (Birth Weapon.)"
+- raw: "5000001#残破绢布#2#2#12#11#0#99999#0#1#0#0#bu_2#9117#0#9123##3600#0#####0#0#0#0#0#0####0###0##0#1#0#0##0#0#0#1#0#"
+  splits:
+  - split: 1
+    text: "残破绢布"
+    translated: "Tattered silk cloth"
+- raw: "5000002#云岫坞令牌#2#2#12#11#0#99999#0#1#0#0#bw_sjl#9118#0#9124##3600#0#####0#0#0#0#0#0####0###0##0#1#0#0##0#0#0#1#0#"
+  splits:
+  - split: 1
+    text: "云岫坞令牌"
+    translated: "Cloudy Gully Command Token"
+- raw: "5000003#方副将亲笔信#2#2#12#11#0#99999#0#1#0#0#shuxin1#9119#0#9125##3600#0#####0#0#0#0#0#0####0###0##0#1#0#0##0#0#0#1#0#"
+  splits:
+  - split: 1
+    text: "方副将亲笔信"
+    translated: "Letter personally written by the Senior Vice General"
+- raw: "5000004#段将军血书#2#2#12#11#0#99999#0#1#0#0#shuxin1#9120#0#9126##3600#0#####0#0#0#0#0#0####0###0##0#1#0#0##0#0#0#1#0#"
+  splits:
+  - split: 1
+    text: "段将军血书"
+    translated: "General Duan's Blood Oath Letter"
+- raw: "5000005#段家军虎符#2#2#12#11#0#99999#0#1#0#0#shoushi4#9121#0#9127##3600#0#####0#0#0#0#0#0####0###0##0#1#0#0##0#0#0#1#0#"
+  splits:
+  - split: 1
+    text: "段家军虎符"
+    translated: "The martial force of Duan's family has the tiger command."
+- raw: "5000006#燕国密令#2#2#12#11#0#99999#0#1#0#0#shuxin1#9122#0#9128##3600#0#####0#0#0#0#0#0####0###0##0#1#0#0##0#0#0#1#0#"
+  splits:
+  - split: 1
+    text: "燕国密令"
+    translated: "Secret directive from the Yan Kingdom"
+- raw: "5000007#云岫散解药#2#2#12#11#0#99999#0#1#0#0#yaopin7#9129#0#9130##3600#0#####0#0#0#0#0#0####0###0##0#1#0#0##0#0#0#1#0#"
+  splits:
+  - split: 1
+    text: "云岫散解药"
+    translated: "Cloud‑Cave Dispersing Medicine"

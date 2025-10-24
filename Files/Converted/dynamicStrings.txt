@@ -718,21 +718,6 @@
   - split: 3
     text: "贴图丢失 : "
     translated: "Image missing:"
-- raw: "CommonTipView,OnShowMenuItems,59,尚无特殊材料,[CommonTipView/OpenType，System.Int32，System.Int32[]，SweetPotato.UIItemData]"
-  splits:
-  - split: 3
-    text: "尚无特殊材料"
-    translated: "No special materials yet"
-- raw: "CommonTipView,OnShowMenuItems,134,尚无鱼饵,[CommonTipView/OpenType，System.Int32，System.Int32[]，SweetPotato.UIItemData]"
-  splits:
-  - split: 3
-    text: "尚无鱼饵"
-    translated: "Still no bait"
-- raw: "CommonTipView,OnShowMenuItems,149,尚无种子,[CommonTipView/OpenType，System.Int32，System.Int32[]，SweetPotato.UIItemData]"
-  splits:
-  - split: 3
-    text: "尚无种子"
-    translated: "No seeds yet"
 - raw: "CommonTipView,PopTiShiMsg,0,<color=#f0f0f0>提示：</color>,[System.String]"
   splits:
   - split: 3
@@ -19150,432 +19135,437 @@
   - split: 3
     text: "吴明"
     translated: "Wu Ming"
-- raw: "SweetPotato.Tools,.cctor,3439,全部物品,[]"
+- raw: "SweetPotato.Tools,.cctor,3434,崔牧之,[]"
+  splits:
+  - split: 3
+    text: "崔牧之"
+    translated: "Cui Mu Zhi"
+- raw: "SweetPotato.Tools,.cctor,3458,全部物品,[]"
   splits:
   - split: 3
     text: "全部物品"
     translated: "All items"
-- raw: "SweetPotato.Tools,.cctor,3462,全部物品,[]"
+- raw: "SweetPotato.Tools,.cctor,3481,全部物品,[]"
   splits:
   - split: 3
     text: "全部物品"
     translated: "All items"
-- raw: "SweetPotato.Tools,.cctor,3473,剑,[]"
+- raw: "SweetPotato.Tools,.cctor,3492,剑,[]"
   splits:
   - split: 3
     text: "剑"
     translated: "Sword"
-- raw: "SweetPotato.Tools,.cctor,3484,刀,[]"
+- raw: "SweetPotato.Tools,.cctor,3503,刀,[]"
   splits:
   - split: 3
     text: "刀"
     translated: "Blade"
-- raw: "SweetPotato.Tools,.cctor,3495,枪棍,[]"
+- raw: "SweetPotato.Tools,.cctor,3514,枪棍,[]"
   splits:
   - split: 3
     text: "枪棍"
     translated: "Spear & Staff"
-- raw: "SweetPotato.Tools,.cctor,3506,搏击,[]"
+- raw: "SweetPotato.Tools,.cctor,3525,搏击,[]"
   splits:
   - split: 3
     text: "搏击"
     translated: "Martial arts combat"
-- raw: "SweetPotato.Tools,.cctor,3529,全部物品,[]"
+- raw: "SweetPotato.Tools,.cctor,3548,全部物品,[]"
   splits:
   - split: 3
     text: "全部物品"
     translated: "All items"
-- raw: "SweetPotato.Tools,.cctor,3540,护甲,[]"
+- raw: "SweetPotato.Tools,.cctor,3559,护甲,[]"
   splits:
   - split: 3
     text: "护甲"
     translated: "Armor"
-- raw: "SweetPotato.Tools,.cctor,3551,鞋子,[]"
+- raw: "SweetPotato.Tools,.cctor,3570,鞋子,[]"
   splits:
   - split: 3
     text: "鞋子"
     translated: "Shoes"
-- raw: "SweetPotato.Tools,.cctor,3562,腰带、护手,[]"
+- raw: "SweetPotato.Tools,.cctor,3581,腰带、护手,[]"
   splits:
   - split: 3
     text: "腰带、护手"
     translated: "Waist belt, wrist guards"
-- raw: "SweetPotato.Tools,.cctor,3585,全部物品,[]"
+- raw: "SweetPotato.Tools,.cctor,3604,全部物品,[]"
   splits:
   - split: 3
     text: "全部物品"
     translated: "All items"
-- raw: "SweetPotato.Tools,.cctor,3596,戒指,[]"
+- raw: "SweetPotato.Tools,.cctor,3615,戒指,[]"
   splits:
   - split: 3
     text: "戒指"
     translated: "Ring"
-- raw: "SweetPotato.Tools,.cctor,3607,项链,[]"
+- raw: "SweetPotato.Tools,.cctor,3626,项链,[]"
   splits:
   - split: 3
     text: "项链"
     translated: "Necklace"
-- raw: "SweetPotato.Tools,.cctor,3618,配饰、吊坠,[]"
+- raw: "SweetPotato.Tools,.cctor,3637,配饰、吊坠,[]"
   splits:
   - split: 3
     text: "配饰、吊坠"
     translated: "Accessories, pendant"
-- raw: "SweetPotato.Tools,.cctor,3629,宝物,[]"
+- raw: "SweetPotato.Tools,.cctor,3648,宝物,[]"
   splits:
   - split: 3
     text: "宝物"
     translated: "Treasure"
-- raw: "SweetPotato.Tools,.cctor,3652,全部物品,[]"
+- raw: "SweetPotato.Tools,.cctor,3671,全部物品,[]"
   splits:
   - split: 3
     text: "全部物品"
     translated: "All items"
-- raw: "SweetPotato.Tools,.cctor,3663,丹药,[]"
+- raw: "SweetPotato.Tools,.cctor,3682,丹药,[]"
   splits:
   - split: 3
     text: "丹药"
     translated: "Elixir of Immortality"
-- raw: "SweetPotato.Tools,.cctor,3674,食物,[]"
+- raw: "SweetPotato.Tools,.cctor,3693,食物,[]"
   splits:
   - split: 3
     text: "食物"
     translated: "Food"
-- raw: "SweetPotato.Tools,.cctor,3685,酒,[]"
+- raw: "SweetPotato.Tools,.cctor,3704,酒,[]"
   splits:
   - split: 3
     text: "酒"
     translated: "Alcohol"
-- raw: "SweetPotato.Tools,.cctor,3708,全部物品,[]"
+- raw: "SweetPotato.Tools,.cctor,3727,全部物品,[]"
   splits:
   - split: 3
     text: "全部物品"
     translated: "All items"
-- raw: "SweetPotato.Tools,.cctor,3719,采集物,[]"
+- raw: "SweetPotato.Tools,.cctor,3738,采集物,[]"
   splits:
   - split: 3
     text: "采集物"
     translated: "Collectible items"
-- raw: "SweetPotato.Tools,.cctor,3730,普通材料,[]"
+- raw: "SweetPotato.Tools,.cctor,3749,普通材料,[]"
   splits:
   - split: 3
     text: "普通材料"
     translated: "Common material"
-- raw: "SweetPotato.Tools,.cctor,3741,经脉武学材料,[]"
+- raw: "SweetPotato.Tools,.cctor,3760,经脉武学材料,[]"
   splits:
   - split: 3
     text: "经脉武学材料"
     translated: "Materials on meridian martial arts"
-- raw: "SweetPotato.Tools,.cctor,3752,特殊材料,[]"
+- raw: "SweetPotato.Tools,.cctor,3771,特殊材料,[]"
   splits:
   - split: 3
     text: "特殊材料"
     translated: "Special materials"
-- raw: "SweetPotato.Tools,.cctor,3775,全部物品,[]"
+- raw: "SweetPotato.Tools,.cctor,3794,全部物品,[]"
   splits:
   - split: 3
     text: "全部物品"
     translated: "All items"
-- raw: "SweetPotato.Tools,.cctor,3786,配方,[]"
+- raw: "SweetPotato.Tools,.cctor,3805,配方,[]"
   splits:
   - split: 3
     text: "配方"
     translated: "Formula"
-- raw: "SweetPotato.Tools,.cctor,3809,全部物品,[]"
+- raw: "SweetPotato.Tools,.cctor,3828,全部物品,[]"
   splits:
   - split: 3
     text: "全部物品"
     translated: "All items"
-- raw: "SweetPotato.Tools,.cctor,3820,武学秘籍,[]"
+- raw: "SweetPotato.Tools,.cctor,3839,武学秘籍,[]"
   splits:
   - split: 3
     text: "武学秘籍"
     translated: "Wuxia secret manual"
-- raw: "SweetPotato.Tools,.cctor,3831,秘法秘术,[]"
+- raw: "SweetPotato.Tools,.cctor,3850,秘法秘术,[]"
   splits:
   - split: 3
     text: "秘法秘术"
     translated: "Mysterious arts and techniques"
-- raw: "SweetPotato.Tools,.cctor,3842,造诣书籍,[]"
+- raw: "SweetPotato.Tools,.cctor,3861,造诣书籍,[]"
   splits:
   - split: 3
     text: "造诣书籍"
     translated: "Book of Accomplishment"
-- raw: "SweetPotato.Tools,.cctor,3853,化境卷,[]"
+- raw: "SweetPotato.Tools,.cctor,3872,化境卷,[]"
   splits:
   - split: 3
     text: "化境卷"
     translated: "Transcendence Scroll"
-- raw: "SweetPotato.Tools,.cctor,3876,全部物品,[]"
+- raw: "SweetPotato.Tools,.cctor,3895,全部物品,[]"
   splits:
   - split: 3
     text: "全部物品"
     translated: "All items"
-- raw: "SweetPotato.Tools,.cctor,3887,礼物,[]"
+- raw: "SweetPotato.Tools,.cctor,3906,礼物,[]"
   splits:
   - split: 3
     text: "礼物"
     translated: "Gift"
-- raw: "SweetPotato.Tools,.cctor,3911,全部物品,[]"
+- raw: "SweetPotato.Tools,.cctor,3930,全部物品,[]"
   splits:
   - split: 3
     text: "全部物品"
     translated: "All items"
-- raw: "SweetPotato.Tools,.cctor,3922,任务道具,[]"
+- raw: "SweetPotato.Tools,.cctor,3941,任务道具,[]"
   splits:
   - split: 3
     text: "任务道具"
     translated: "Quest items"
-- raw: "SweetPotato.Tools,.cctor,3933,出示道具,[]"
+- raw: "SweetPotato.Tools,.cctor,3952,出示道具,[]"
   splits:
   - split: 3
     text: "出示道具"
     translated: "Present the item"
-- raw: "SweetPotato.Tools,.cctor,3944,生活道具,[]"
+- raw: "SweetPotato.Tools,.cctor,3963,生活道具,[]"
   splits:
   - split: 3
     text: "生活道具"
     translated: "Everyday items"
-- raw: "SweetPotato.Tools,.cctor,3955,坐骑,[]"
+- raw: "SweetPotato.Tools,.cctor,3974,坐骑,[]"
   splits:
   - split: 3
     text: "坐骑"
     translated: "Mount"
-- raw: "SweetPotato.Tools,.cctor,3966,特效,[]"
+- raw: "SweetPotato.Tools,.cctor,3985,特效,[]"
   splits:
   - split: 3
     text: "特效"
     translated: "Special effects"
-- raw: "SweetPotato.Tools,.cctor,3977,时装,[]"
+- raw: "SweetPotato.Tools,.cctor,3996,时装,[]"
   splits:
   - split: 3
     text: "时装"
     translated: "Fashion"
-- raw: "SweetPotato.Tools,.cctor,5395,用于@装备类型,[]"
+- raw: "SweetPotato.Tools,.cctor,5414,用于@装备类型,[]"
   splits:
   - split: 3
     text: "用于@装备类型"
     translated: "Used for @ equipment type"
-- raw: "SweetPotato.Tools,.cctor,5411,用于@装备的洗练,[]"
+- raw: "SweetPotato.Tools,.cctor,5430,用于@装备的洗练,[]"
   splits:
   - split: 3
     text: "用于@装备的洗练"
     translated: "Used for refining equipment with cleansing techniques"
-- raw: "SweetPotato.Tools,.cctor,5427,用于@经脉打通,[]"
+- raw: "SweetPotato.Tools,.cctor,5446,用于@经脉打通,[]"
   splits:
   - split: 3
     text: "用于@经脉打通"
     translated: "Used for opening meridians"
-- raw: "SweetPotato.Tools,.cctor,5443,用于@脏打通,[]"
+- raw: "SweetPotato.Tools,.cctor,5462,用于@脏打通,[]"
   splits:
   - split: 3
     text: "用于@脏打通"
     translated: "Used for @ Dang Da Tong"
-- raw: "SweetPotato.Tools,.cctor,5459,用于@经脉五脏点打通,[]"
+- raw: "SweetPotato.Tools,.cctor,5478,用于@经脉五脏点打通,[]"
   splits:
   - split: 3
     text: "用于@经脉五脏点打通"
     translated: "For acupuncture on the meridians of the five organs to restore circulation."
-- raw: "SweetPotato.Tools,.cctor,5475,用于@系秘籍学习,[]"
+- raw: "SweetPotato.Tools,.cctor,5494,用于@系秘籍学习,[]"
   splits:
   - split: 3
     text: "用于@系秘籍学习"
     translated: "Used for studying @ series secret manuals"
-- raw: "SweetPotato.Tools,.cctor,5491,用于@秘籍学习,[]"
+- raw: "SweetPotato.Tools,.cctor,5510,用于@秘籍学习,[]"
   splits:
   - split: 3
     text: "用于@秘籍学习"
     translated: "Used for studying the @Secret Manual"
-- raw: "SweetPotato.Tools,.cctor,5507,用于@秘籍某技能学习,[]"
+- raw: "SweetPotato.Tools,.cctor,5526,用于@秘籍某技能学习,[]"
   splits:
   - split: 3
     text: "用于@秘籍某技能学习"
     translated: "Used to learn a specific skill from the secret manual."
-- raw: "SweetPotato.Tools,.cctor,5523,用于@套路学习,[]"
+- raw: "SweetPotato.Tools,.cctor,5542,用于@套路学习,[]"
   splits:
   - split: 3
     text: "用于@套路学习"
     translated: "Used for learning techniques"
-- raw: "SweetPotato.Tools,.cctor,5539,用于@套路学习,[]"
+- raw: "SweetPotato.Tools,.cctor,5558,用于@套路学习,[]"
   splits:
   - split: 3
     text: "用于@套路学习"
     translated: "Used for learning techniques"
-- raw: "SweetPotato.Tools,.cctor,5555,用于@,[]"
+- raw: "SweetPotato.Tools,.cctor,5574,用于@,[]"
   splits:
   - split: 3
     text: "用于@"
     translated: "Used for tagging"
-- raw: "SweetPotato.Tools,.cctor,5581,用于@装备类型,[]"
+- raw: "SweetPotato.Tools,.cctor,5600,用于@装备类型,[]"
   splits:
   - split: 3
     text: "用于@装备类型"
     translated: "Used for @ equipment type"
-- raw: "SweetPotato.Tools,.cctor,5597,用于@装备的洗练,[]"
+- raw: "SweetPotato.Tools,.cctor,5616,用于@装备的洗练,[]"
   splits:
   - split: 3
     text: "用于@装备的洗练"
     translated: "Used for refining equipment with cleansing techniques"
-- raw: "SweetPotato.Tools,.cctor,5613,用于@经脉打通,[]"
+- raw: "SweetPotato.Tools,.cctor,5632,用于@经脉打通,[]"
   splits:
   - split: 3
     text: "用于@经脉打通"
     translated: "Used for opening meridians"
-- raw: "SweetPotato.Tools,.cctor,5629,用于@脏打通,[]"
+- raw: "SweetPotato.Tools,.cctor,5648,用于@脏打通,[]"
   splits:
   - split: 3
     text: "用于@脏打通"
     translated: "Used for @ Dang Da Tong"
-- raw: "SweetPotato.Tools,.cctor,5645,使用后@,[]"
+- raw: "SweetPotato.Tools,.cctor,5664,使用后@,[]"
   splits:
   - split: 3
     text: "使用后@"
     translated: "Use after @"
-- raw: "SweetPotato.Tools,.cctor,5661,用于@系秘籍学习,[]"
+- raw: "SweetPotato.Tools,.cctor,5680,用于@系秘籍学习,[]"
   splits:
   - split: 3
     text: "用于@系秘籍学习"
     translated: "Used for studying @ series secret manuals"
-- raw: "SweetPotato.Tools,.cctor,5677,用于@秘籍学习,[]"
+- raw: "SweetPotato.Tools,.cctor,5696,用于@秘籍学习,[]"
   splits:
   - split: 3
     text: "用于@秘籍学习"
     translated: "Used for studying the @Secret Manual"
-- raw: "SweetPotato.Tools,.cctor,5693,用于@秘籍某技能学习,[]"
+- raw: "SweetPotato.Tools,.cctor,5712,用于@秘籍某技能学习,[]"
   splits:
   - split: 3
     text: "用于@秘籍某技能学习"
     translated: "Used to learn a specific skill from the secret manual."
-- raw: "SweetPotato.Tools,.cctor,5709,用于@套路学习,[]"
+- raw: "SweetPotato.Tools,.cctor,5728,用于@套路学习,[]"
   splits:
   - split: 3
     text: "用于@套路学习"
     translated: "Used for learning techniques"
-- raw: "SweetPotato.Tools,.cctor,5725,用于@套路学习,[]"
+- raw: "SweetPotato.Tools,.cctor,5744,用于@套路学习,[]"
   splits:
   - split: 3
     text: "用于@套路学习"
     translated: "Used for learning techniques"
-- raw: "SweetPotato.Tools,.cctor,5741,用于@,[]"
+- raw: "SweetPotato.Tools,.cctor,5760,用于@,[]"
   splits:
   - split: 3
     text: "用于@"
     translated: "Used for tagging"
-- raw: "SweetPotato.Tools,.cctor,5767,炼丹,[]"
+- raw: "SweetPotato.Tools,.cctor,5786,炼丹,[]"
   splits:
   - split: 3
     text: "炼丹"
     translated: "Alchemy"
-- raw: "SweetPotato.Tools,.cctor,5783,炼器,[]"
+- raw: "SweetPotato.Tools,.cctor,5802,炼器,[]"
   splits:
   - split: 3
     text: "炼器"
     translated: "Refining"
-- raw: "SweetPotato.Tools,.cctor,5799,巧手,[]"
+- raw: "SweetPotato.Tools,.cctor,5818,巧手,[]"
   splits:
   - split: 3
     text: "巧手"
     translated: "Skilled Hands"
-- raw: "SweetPotato.Tools,.cctor,5815,缝纫,[]"
+- raw: "SweetPotato.Tools,.cctor,5834,缝纫,[]"
   splits:
   - split: 3
     text: "缝纫"
     translated: "Sewing"
-- raw: "SweetPotato.Tools,.cctor,5831,酿酒,[]"
+- raw: "SweetPotato.Tools,.cctor,5850,酿酒,[]"
   splits:
   - split: 3
     text: "酿酒"
     translated: "Brewing"
-- raw: "SweetPotato.Tools,.cctor,5847,烹饪,[]"
+- raw: "SweetPotato.Tools,.cctor,5866,烹饪,[]"
   splits:
   - split: 3
     text: "烹饪"
     translated: "Cooking"
-- raw: "SweetPotato.Tools,.cctor,5863,农识,[]"
+- raw: "SweetPotato.Tools,.cctor,5882,农识,[]"
   splits:
   - split: 3
     text: "农识"
     translated: "Farmer's Wisdom"
-- raw: "SweetPotato.Tools,.cctor,5879,农识,[]"
+- raw: "SweetPotato.Tools,.cctor,5898,农识,[]"
   splits:
   - split: 3
     text: "农识"
     translated: "Farmer's Wisdom"
-- raw: "SweetPotato.Tools,.cctor,5895,洗练,[]"
+- raw: "SweetPotato.Tools,.cctor,5914,洗练,[]"
   splits:
   - split: 3
     text: "洗练"
     translated: "Refine"
-- raw: "SweetPotato.Tools,.cctor,5911,强化,[]"
+- raw: "SweetPotato.Tools,.cctor,5930,强化,[]"
   splits:
   - split: 3
     text: "强化"
     translated: "Enhancement"
-- raw: "SweetPotato.Tools,.cctor,5933,剑,[]"
+- raw: "SweetPotato.Tools,.cctor,5952,剑,[]"
   splits:
   - split: 3
     text: "剑"
     translated: "Sword"
-- raw: "SweetPotato.Tools,.cctor,5945,刀,[]"
+- raw: "SweetPotato.Tools,.cctor,5964,刀,[]"
   splits:
   - split: 3
     text: "刀"
     translated: "Blade"
-- raw: "SweetPotato.Tools,.cctor,5957,枪,[]"
+- raw: "SweetPotato.Tools,.cctor,5976,枪,[]"
   splits:
   - split: 3
     text: "枪"
     translated: "Spear"
-- raw: "SweetPotato.Tools,.cctor,5969,拳,[]"
+- raw: "SweetPotato.Tools,.cctor,5988,拳,[]"
   splits:
   - split: 3
     text: "拳"
     translated: "Fist"
-- raw: "SweetPotato.Tools,.cctor,5995,气血上限,[]"
+- raw: "SweetPotato.Tools,.cctor,6014,气血上限,[]"
   splits:
   - split: 3
     text: "气血上限"
     translated: "Max Lifeforce"
-- raw: "SweetPotato.Tools,.cctor,6011,真气上限,[]"
+- raw: "SweetPotato.Tools,.cctor,6030,真气上限,[]"
   splits:
   - split: 3
     text: "真气上限"
     translated: "Max True Qi"
-- raw: "SweetPotato.Tools,.cctor,6027,气血,[]"
+- raw: "SweetPotato.Tools,.cctor,6046,气血,[]"
   splits:
   - split: 3
     text: "气血"
     translated: "Lifeforce"
-- raw: "SweetPotato.Tools,.cctor,6043,真气,[]"
+- raw: "SweetPotato.Tools,.cctor,6062,真气,[]"
   splits:
   - split: 3
     text: "真气"
     translated: "True Qi"
-- raw: "SweetPotato.Tools,.cctor,6066,未加入,[]"
+- raw: "SweetPotato.Tools,.cctor,6085,未加入,[]"
   splits:
   - split: 3
     text: "未加入"
     translated: "Not joined yet"
-- raw: "SweetPotato.Tools,.cctor,6074,外门弟子,[]"
+- raw: "SweetPotato.Tools,.cctor,6093,外门弟子,[]"
   splits:
   - split: 3
     text: "外门弟子"
     translated: "External Disciple"
-- raw: "SweetPotato.Tools,.cctor,6082,内门弟子,[]"
+- raw: "SweetPotato.Tools,.cctor,6101,内门弟子,[]"
   splits:
   - split: 3
     text: "内门弟子"
     translated: "Inner Gate Disciple"
-- raw: "SweetPotato.Tools,.cctor,6090,关门弟子,[]"
+- raw: "SweetPotato.Tools,.cctor,6109,关门弟子,[]"
   splits:
   - split: 3
     text: "关门弟子"
     translated: "Discreet disciple"
-- raw: "SweetPotato.Tools,.cctor,6098,亲传弟子,[]"
+- raw: "SweetPotato.Tools,.cctor,6117,亲传弟子,[]"
   splits:
   - split: 3
     text: "亲传弟子"
     translated: "Disciple of the bloodline"
-- raw: "SweetPotato.Tools,.cctor,6106,掌门,[]"
+- raw: "SweetPotato.Tools,.cctor,6125,掌门,[]"
   splits:
   - split: 3
     text: "掌门"
@@ -19610,27 +19600,27 @@
   - split: 3
     text: "不详"
     translated: "Unknown"
-- raw: "SweetPotato.NpcEntity,Init,294,魏琦锐，m_NpcPrototype.id:{0}这种NPC_ATTRI属性中含有8的Npc没有配置对应的境界,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.NpcEntity,Init,298,魏琦锐，m_NpcPrototype.id:{0}这种NPC_ATTRI属性中含有8的Npc没有配置对应的境界,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "魏琦锐，m_NpcPrototype.id:{0}这种NPC_ATTRI属性中含有8的Npc没有配置对应的境界"
     translated: "Wei Qirui, m_NPCPrototype.ID: In this NPC_ATTRI attribute, since there is no corresponding realm configured for NPCs containing 8, the configuration for {0} does not exist."
-- raw: "SweetPotato.NpcEntity,Init,341,魏琦锐，m_NpcPrototype.id:{0}这种NPC_ATTRI属性中含有8的Npc没有配置对应的境界,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.NpcEntity,Init,345,魏琦锐，m_NpcPrototype.id:{0}这种NPC_ATTRI属性中含有8的Npc没有配置对应的境界,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "魏琦锐，m_NpcPrototype.id:{0}这种NPC_ATTRI属性中含有8的Npc没有配置对应的境界"
     translated: "Wei Qirui, m_NPCPrototype.ID: In this NPC_ATTRI attribute, since there is no corresponding realm configured for NPCs containing 8, the configuration for {0} does not exist."
-- raw: "SweetPotato.NpcEntity,Init,449,guid:{0}，proguid:{1}配置的是动物，但是又错误配置成了随机Npc,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.NpcEntity,Init,453,guid:{0}，proguid:{1}配置的是动物，但是又错误配置成了随机Npc,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "guid:{0}，proguid:{1}配置的是动物，但是又错误配置成了随机Npc"
     translated: "Guid: {0},proguid: {1} was configured to be an animal, but it was incorrectly configured as a random NPC."
-- raw: "SweetPotato.NpcEntity,Init,581,随机角色guid:{0}，protoGuid:{1}的门派随到了“不夜京”，错误,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.NpcEntity,Init,585,随机角色guid:{0}，protoGuid:{1}的门派随到了“不夜京”，错误,[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "随机角色guid:{0}，protoGuid:{1}的门派随到了“不夜京”，错误"
     translated: "The randomly assigned character with guid:{0} and protoGuid:{1} has been placed in the 'Evernight Capital' sect, error."
-- raw: "SweetPotato.NpcEntity,Init,930,proGuid:{0}，RandomName中不包含这个姓氏{1},[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.NpcEntity,Init,934,proGuid:{0}，RandomName中不包含这个姓氏{1},[System.Int64，SweetPotato.NpcPrototype，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "proGuid:{0}，RandomName中不包含这个姓氏{1}"
@@ -19875,7 +19865,7 @@
   - split: 3
     text: "未知"
     translated: "Unknown"
-- raw: "SweetPotato.GameSaving,Save,2493,存档发生了错误 \\n,[SweetPotato.FileInfoItemData，System.Boolean，System.Boolean，System.Boolean]"
+- raw: "SweetPotato.GameSaving,Save,2472,存档发生了错误 \\n,[SweetPotato.FileInfoItemData，System.Boolean，System.Boolean，System.Boolean]"
   splits:
   - split: 3
     text: "存档发生了错误 \\n"
@@ -21130,7 +21120,7 @@
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,1102,[属性点-,[]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,OnBuShuChange,1100,[属性点-,[]"
   splits:
   - split: 3
     text: "[属性点-"
@@ -21235,17 +21225,17 @@
   - split: 3
     text: "获得大量的命中和少量的要害"
     translated: "Obtain a high hit rate and a few vital points."
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,<Awake>b__101_25,36,少侠的姓名包含忌讳之词，请重新输入,[System.String]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,<Awake>b__103_25,36,少侠的姓名包含忌讳之词，请重新输入,[System.String]"
   splits:
   - split: 3
     text: "少侠的姓名包含忌讳之词，请重新输入"
     translated: "Young hero's name contains a taboo word; please re‑enter."
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,<Awake>b__101_25,96,少侠的姓名不得超过七个字,[System.String]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,<Awake>b__103_25,96,少侠的姓名不得超过七个字,[System.String]"
   splits:
   - split: 3
     text: "少侠的姓名不得超过七个字"
     translated: "The name of the young hero must not exceed seven characters."
-- raw: "SweetPotato.InstantiateViewNewNew_mobile,<Awake>b__101_26,36,少侠的姓名包含忌讳之词，请重新输入,[System.String]"
+- raw: "SweetPotato.InstantiateViewNewNew_mobile,<Awake>b__103_26,36,少侠的姓名包含忌讳之词，请重新输入,[System.String]"
   splits:
   - split: 3
     text: "少侠的姓名包含忌讳之词，请重新输入"
@@ -24857,11 +24847,11 @@
   - split: 3
     text: "有技能处于冷却中，无法卸下"
     translated: "Skill on cooldown, cannot be removed"
-- raw: "SweetPotato.Setting.TutorialPanel,ShowContent,108,Prefab/UISprite/UI_YingDao/提示-,[System.String]"
+- raw: "SweetPotato.Setting.TutorialPanel,ShowContent,132,Prefab/UISprite/UI_YingDao/提示-,[System.String]"
   splits:
   - split: 3
     text: "Prefab/UISprite/UI_YingDao/提示-"
-    translated: "Tip: Guide Ying Dao Prefab/UISprite UI Prompt ‑"
+    translated: "Prompt: Ying Dao Tip ‑"
     safeToTranslate: false
 - raw: "SweetPotato.QuestViewNew.QuestRewardItemTip,ShowItemTip,53,品质：未知,[SweetPotato.Item，System.Boolean，System.Boolean]"
   splits:

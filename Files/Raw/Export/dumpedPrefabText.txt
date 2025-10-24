@@ -6221,9 +6221,9 @@
 - raw: "内功  510"
   splits:
   - text: "内功  510"
-- raw: "阴  37"
+- raw: "阴  3"
   splits:
-  - text: "阴  37"
+  - text: "阴  3"
 - raw: "阳  36"
   splits:
   - text: "阳  36"
@@ -6275,6 +6275,9 @@
 - raw: "神药王"
   splits:
   - text: "神药王"
+- raw: "阴  37"
+  splits:
+  - text: "阴  37"
 - raw: "时间:"
   splits:
   - text: "时间:"
@@ -7103,6 +7106,12 @@
 - raw: "镜头移动灵敏度"
   splits:
   - text: "镜头移动灵敏度"
+- raw: "角色技能使用"
+  splits:
+  - text: "角色技能使用"
+- raw: "点击右下角按键使用技能，技能进入CD，需等待。功法技能buff状态，使用后进入特殊状态"
+  splits:
+  - text: "点击右下角按键使用技能，技能进入CD，需等待。功法技能buff状态，使用后进入特殊状态"
 - raw: "按键"
   splits:
   - text: "按键"
@@ -7379,9 +7388,6 @@
 - raw: "尚未知晓"
   splits:
   - text: "尚未知晓"
-- raw: "角色技能使用"
-  splits:
-  - text: "角色技能使用"
 - raw: "点击右下角按钮"
   splits:
   - text: "点击右下角按钮"
