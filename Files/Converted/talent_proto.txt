@@ -214,7 +214,7 @@
   - split: 2
     text: "时来运转喜开颜，平生原有滔滔福。枯木逢春，福气<color=e0834c>增加25</color>，要害<color=e0834c>增加50</color>。"
     translated: "When the time is right and your fortunes turn in a favorable direction, you will find great joy. Throughout your life, an abundance of blessings has always been yours. As with trees that blossom in spring, your luck will increase by <color=e0834c>25</color>, and your vital points will grow by <color=e0834c>50</color>."
-- raw: "28#好事多磨#初年运道未曾亨，风吹雨打运正衰。一生风雨飘摇，但也磨练了自己的心性，胆识<color=e0834c>增加25</color>，力道<color=e0834c>增加10</color>。#0#10270#0#0#0#0#2#1|2|3|4|5|25#0##0#0#30#"
+- raw: "28#好事多磨#初年运道未曾亨，风吹雨打运正衰。一生风雨飘摇，但也磨练了自己的心性，胆识<color=e0834c>增加25</color>，力道<color=e0834c>增加10</color>。#0#10270#0#0#0#0#2#1|2|4|5|25#0##0#0#30#"
   splits:
   - split: 1
     text: "好事多磨"
@@ -350,7 +350,7 @@
   - split: 2
     text: "脱离苦难显威风，家大业大谁能及。横练外功，外攻<color=e0834c>增加10%</color>，外防<color=e0834c>增加10%</color>。"
     translated: "To rise above adversity is to display one's strength; who can compete when the family is great? Through rigorous practice of external skills, external attack increases by <color=e0834c>10%</color>, and external defense increases by <color=e0834c>10%</color>."
-- raw: "45#乐善好义#慈善行为受人敬，富贵荣华孰与争。常发善心受人尊敬，修养<color=e0834c>增加25</color>，受到伤害<color=e0834c>减少10%</color>。#0#10440#0#0#0#0#3#1|2|3|4|5|25#0##0#0#80#"
+- raw: "45#乐善好义#慈善行为受人敬，富贵荣华孰与争。常发善心受人尊敬，修养<color=e0834c>增加25</color>，受到伤害<color=e0834c>减少10%</color>。#0#10440#0#0#0#0#3#1|3|4|5|25#0##0#0#80#"
   splits:
   - split: 1
     text: "乐善好义"
@@ -358,7 +358,7 @@
   - split: 2
     text: "慈善行为受人敬，富贵荣华孰与争。常发善心受人尊敬，修养<color=e0834c>增加25</color>，受到伤害<color=e0834c>减少10%</color>。"
     translated: "Charitable deeds are respected, and who can compete with wealth and honor? Consistently acting with a kind heart earns respect; cultivation <color=e0834c>increases 25</color>, while the chance of taking damage <color=e0834c>reduces by 10%</color>."
-- raw: "46#力敌万夫#运道亨通闺阁楼，堆金积玉满堂春。天生悟性就超过常人，悟性<color=e0834c>增加25</color>，对敌人的伤害<color=e0834c>增加10%</color>。#0#10450#0#0#0#0#3#1|2|3|4|5|25#0##0#0#80#"
+- raw: "46#力敌万夫#运道亨通闺阁楼，堆金积玉满堂春。天生悟性就超过常人，悟性<color=e0834c>增加25</color>，对敌人的伤害<color=e0834c>增加10%</color>。#0#10450#0#0#0#0#3#1|2|3|5|25#0##0#0#80#"
   splits:
   - split: 1
     text: "力敌万夫"
@@ -390,7 +390,7 @@
   - split: 2
     text: "一生富贵众人钦，大模大样走天涯。技艺<color=e0834c>增加25</color>，内力、身法<color=e0834c>增加15</color>，并且习得技艺类属性的效果<color=e0834c>增加50%</color>。"
     translated: "Wealth and honor that everyone admires throughout life; bold and carefree as you wander the world. Technique <color=e0834c>increases by 25</color>, inner power and agility <color=e0834c>increase by 15</color>, and the effects of techniques related to skill attributes are also increased by <color=e0834c>50%</color>."
-- raw: "50#高门大族#富贵荣华极品隆，公侯卿相在其中。获得金钱、修为、感悟<color=e0834c>增加20%</color>，伤害<color=e0854c>增加5%</color>，受到伤害<color=e0834c>降低5%</color>。#0#10500#0#0#0#0#4#1|2|3|4|5|25#0##0#0#120#"
+- raw: "50#高门大族#富贵荣华极品隆，公侯卿相在其中。获得金钱、修为、感悟<color=e0834c>增加20%</color>，伤害<color=e0854c>增加5%</color>，受到伤害<color=e0834c>降低5%</color>。#0#10500#0#0#0#0#4#2|3|4|5|25#0##0#0#120#"
   splits:
   - split: 1
     text: "高门大族"
@@ -398,7 +398,7 @@
   - split: 2
     text: "富贵荣华极品隆，公侯卿相在其中。获得金钱、修为、感悟<color=e0834c>增加20%</color>，伤害<color=e0854c>增加5%</color>，受到伤害<color=e0834c>降低5%</color>。"
     translated: "Wealth and honor, the ultimate in prestige, encompass lords and ministers. Gaining money, improving skills, and enhancing understanding increases by <color=e0834c>20%</color>; damage dealt is increased by <color=e0854c>5%</color>, while received damage is reduced by <color=e0834c>5%</color>."
-- raw: "51#福寿双全#不须愁虑苦劳心，又富又贵乐平生。大幅<color=e0834c>提升</color>自身暴击的几率和暴击伤害，诛心<color=e0834c>增加10%</color>，要害<color=e0834c>增加10%</color>，同时在暴击时可以触发额外吸血。#0#10490#0#0#0#0#4#1|2|3|4|5|25#0##0#0#150#"
+- raw: "51#福寿双全#不须愁虑苦劳心，又富又贵乐平生。大幅<color=e0834c>提升</color>自身暴击的几率和暴击伤害，诛心<color=e0834c>增加10%</color>，要害<color=e0834c>增加10%</color>，同时在暴击时可以触发额外吸血。#0#10490#0#0#0#0#4#1|2|3|4|25#0##0#0#150#"
   splits:
   - split: 1
     text: "福寿双全"
@@ -958,7 +958,7 @@
   - split: 2
     text: "有文有武显精神，读书必定显亲宗。内力深厚，内防<color=e0834c>增加10%</color>，内攻<color=e0834c>增加10%</color>。"
     translated: "One who is both scholarly and martial demonstrates their spirit. Studying is essential to honoring one's family. Inner Power is profound; internal defense increases by <color=e0834c>10%</color>, and internal attack increases by <color=e0834c>10%</color>."
-- raw: "8230#力敌万夫#脱离苦难显威风，家大业大谁能及。横练外功，外攻<color=e0834c>增加10%</color>，外防<color=e0834c>增加10%</color>。#0#10450#9#0#0#0#3#1|2|3|4|5|25#0##0#0#0#"
+- raw: "8230#力敌万夫#脱离苦难显威风，家大业大谁能及。横练外功，外攻<color=e0834c>增加10%</color>，外防<color=e0834c>增加10%</color>。#0#10450#9#0#0#0#3##0##0#0#0#"
   splits:
   - split: 1
     text: "力敌万夫"
@@ -1318,7 +1318,7 @@
   - split: 2
     text: "击杀单位后恢复自身5%最大生命，冷却3秒"
     translated: "Upon eliminating a unit, restore 5% of your maximum health; cooldown: 3 seconds."
-- raw: "20390#萍踪侠影#<color=e0834c>移动速度提升10%</color>，每点轻功<color=e0834c>增加1点内攻攻击和1点外功攻击</color>，最多增加1000点#0#20390#0#0#0#0#4#1|2|3|4|5|25#0##0#0#150#"
+- raw: "20390#萍踪侠影#<color=e0834c>移动速度提升10%</color>，每点轻功<color=e0834c>增加1点内攻攻击和1点外功攻击</color>，最多增加1000点#0#20390#0#0#0#0#4#1|2|3|4|5#0##0#0#150#"
   splits:
   - split: 1
     text: "萍踪侠影"
@@ -1598,3 +1598,11 @@
   - split: 2
     text: "聪明到极具慧根。感悟<color=e0834c>增加3%</color>。"
     translated: "Wise to a remarkable degree, possessing innate intelligence. Perception increased by <color=e0834c>3%</color>."
+- raw: "20690#命定之人#心魔劫起，天下大乱。命定之人，应劫而出。最大生命值增加15%。#0#20690#0#0#0#0#4##0##0#0#0#"
+  splits:
+  - split: 1
+    text: "命定之人"
+    translated: "Person destined by fate"
+  - split: 2
+    text: "心魔劫起，天下大乱。命定之人，应劫而出。最大生命值增加15%。"
+    translated: "The inner demon emerges, chaos ensues across the land. The destined one must rise to meet this challenge. Maximum health increased by 15%."

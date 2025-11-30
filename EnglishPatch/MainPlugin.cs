@@ -1,19 +1,13 @@
 ﻿using BepInEx;
 using BepInEx.Logging;
-using CSVHelper;
-using EnglishPatch.Patches;
 using HarmonyLib;
 using SweetPotato;
 using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.IO;
 using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
 using TMPro;
 using UnityEngine;
-using static TMPro.TMP_Settings;
 
 namespace EnglishPatch;
 
@@ -69,7 +63,7 @@ public class MainPlugin : BaseUnityPlugin
 
     // Replace assets with translated assets
     [HarmonyPrefix, HarmonyPatch(typeof(DataMgr), "LoadDB")]
-    public static bool Prefix_DataMgr_LoadDB(DataMgr __instance, Dictionary<string, CsvLoader.CsvCreateFunc> m_dic_csv)
+    public static bool Prefix_DataMgr_LoadDB(DataMgr __instance, Dictionary<string, Type> m_dic_csv)
     {
         Logger.LogWarning($"Hooked LoadDB!");
         var resourcesFolder = Path.Combine(Paths.BepInExRootPath, "resources");
@@ -88,7 +82,7 @@ public class MainPlugin : BaseUnityPlugin
     }
 
     [HarmonyPostfix, HarmonyPatch(typeof(DataMgr), "LoadDB")]
-    public static void Postfix_DataMgr_LoadDB(DataMgr __instance, Dictionary<string, CsvLoader.CsvCreateFunc> m_dic_csv)
+    public static void Postfix_DataMgr_LoadDB(DataMgr __instance, Dictionary<string, Type> m_dic_csv)
     {
         Logger.LogWarning($"Translated Assets Loaded!");
     }

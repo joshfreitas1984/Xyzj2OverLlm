@@ -278,7 +278,7 @@
   - split: 2
     text: "剑术达到50"
     translated: "Swordsmanship reaches the level of 50"
-- raw: "4000202#4000201#前往陆轩(880,1390)处，进行加入门派奇遇。#0&18|1|35|50|>=#1#880.78,1390.56#"
+- raw: "4000202#4000201#前往陆轩(880,1390)处，进行加入门派奇遇。##1#880.78,1390.56#"
   splits:
   - split: 2
     text: "前往陆轩(880,1390)处，进行加入门派奇遇。"
@@ -288,12 +288,12 @@
   - split: 2
     text: "佛学达到200"
     translated: "Buddhism reaches 200"
-- raw: "4000302#4000301#前往间解(1512,1397)处，进行加入门派奇遇。#0&18|1|43|200|>=#1#1512,1397#"
+- raw: "4000302#4000301#前往间解(1512,1397)处，进行加入门派奇遇。##1#1512,1397#"
   splits:
   - split: 2
     text: "前往间解(1512,1397)处，进行加入门派奇遇。"
     translated: "Proceed to location (1512,1397) for a sect encounter."
-- raw: "4000303#4000301#完成入寺问道奇遇后，前往嵩室山守门弟子(1479,606)处，加入门派。#0&3|37666|1#1#1479606#"
+- raw: "4000303#4000301#完成入寺问道奇遇后，前往嵩室山守门弟子(1479,606)处，加入门派。##1#1479606#"
   splits:
   - split: 2
     text: "完成入寺问道奇遇后，前往嵩室山守门弟子(1479,606)处，加入门派。"
@@ -303,7 +303,7 @@
   - split: 2
     text: "儒学达到200"
     translated: "Confucianism has reached 200"
-- raw: "4000402#4000401#前往王溪(318,365)处，进行加入门派奇遇。#0&18|1|44|200|>=#1#318.898,365.336#"
+- raw: "4000402#4000401#前往王溪(318,365)处，进行加入门派奇遇。##1#318.898,365.336#"
   splits:
   - split: 2
     text: "前往王溪(318,365)处，进行加入门派奇遇。"
@@ -318,7 +318,7 @@
   - split: 2
     text: "经历过绝剑门成为掌门的晋升剧情。"
     translated: "Having experienced the ascension to sect leader after becoming a member of the Sword Breaker Gate."
-- raw: "4003103#4003101#前往许鸿煊(1254,355)处，进行门派融合奇遇。#0&24|923354|1;24|921515|1#1#1254355#"
+- raw: "4003103#4003101#前往许鸿煊(1254,355)处，进行门派融合奇遇。##1#1254355#"
   splits:
   - split: 2
     text: "前往许鸿煊(1254,355)处，进行门派融合奇遇。"
@@ -328,11 +328,46 @@
   - split: 2
     text: "刀法达到50"
     translated: "Blade art has reached 50"
-- raw: "4003502#4003501#前往谢峰(869,822)处，进行加入门派奇遇。#0&18|1|34|50|>=#1#869.962,822.116#"
+- raw: "4003502#4003501#前往谢峰(869,822)处，进行加入门派奇遇。##1#869.962,822.116#"
   splits:
   - split: 2
     text: "前往谢峰(869,822)处，进行加入门派奇遇。"
     translated: "Head to Xie Feng's (869,822) location for the adventure of joining a sect."
+- raw: "4004101#4004101#佛学达到50##0##"
+  splits:
+  - split: 2
+    text: "佛学达到50"
+    translated: "Buddhism has reached 50"
+- raw: "4004102#4004101#前往澄心(736,1748)，进行加入门派奇遇。##1#736.685,1748.92#"
+  splits:
+  - split: 2
+    text: "前往澄心(736,1748)，进行加入门派奇遇。"
+    translated: "Travel to Cheng Xin (736,1748) for a chance encounter in joining the Sect."
+- raw: "4004103#4004101#完成奇遇后前往本诣(657,1719)处，加入门派。##1#657.982,1719.5#"
+  splits:
+  - split: 2
+    text: "完成奇遇后前往本诣(657,1719)处，加入门派。"
+    translated: "After completing the adventure, proceed to (657,1719) and join the sect."
+- raw: "4004201#4004201#前往重伤的丐门弟子(278,662)处，进行加入门派奇遇。##1#278.014,662.3#"
+  splits:
+  - split: 2
+    text: "前往重伤的丐门弟子(278,662)处，进行加入门派奇遇。"
+    translated: "Travel to the severely injured Beggar Sect disciple (278,662) and engage in a sect joining encounter."
+- raw: "4004301#4004301#道德低于50##0##"
+  splits:
+  - split: 2
+    text: "道德低于50"
+    translated: "Morality below 50"
+- raw: "4004302#4004301#阅读飞鸽后前往子邪(223,1376)处，加入门派##1#223.423,1376.81#"
+  splits:
+  - split: 2
+    text: "阅读飞鸽后前往子邪(223,1376)处，加入门派"
+    translated: "After reading Flying Pigeon, proceed to the (223,1376) location to join the sect."
+- raw: "4004401#4004401#前往林震天(240,721)处，进行加入门派奇遇。##1#240.153,721.797#"
+  splits:
+  - split: 2
+    text: "前往林震天(240,721)处，进行加入门派奇遇。"
+    translated: "Travel to the location of Brother Lin Zhentian (240,721) for a chance encounter to join a sect."
 - raw: "4004501#4004501#巧手达到50#0#0#0#"
   splits:
   - split: 2
@@ -348,12 +383,12 @@
   - split: 2
     text: "炼器达到50"
     translated: "Refinement reaches level 50"
-- raw: "4004504#4004501#前往唐儒(426,1579)处，进行解锁机关师身份奇遇。#0&18|1|52|50|>=;18|1|46|50|>=;18|1|51|50|>=#1#426.279,1579.07#"
+- raw: "4004504#4004501#前往唐儒(426,1579)处，进行解锁机关师身份奇遇。##1#426.279,1579.07#"
   splits:
   - split: 2
     text: "前往唐儒(426,1579)处，进行解锁机关师身份奇遇。"
     translated: "Proceed to the location of Tang Ru (426,1579) for an adventure involving unlocking the identity as a mechanism master."
-- raw: "4004505#4004501#前往唐如隋(599,1568)处，进行加入门派奇遇。#0&24|928482|1#1#599.954,1568.7#"
+- raw: "4004505#4004501#前往唐如隋(599,1568)处，进行加入门派奇遇。##1#599.954,1568.7#"
   splits:
   - split: 2
     text: "前往唐如隋(599,1568)处，进行加入门派奇遇。"
@@ -363,26 +398,31 @@
   - split: 2
     text: "前往路人(1512,389)处，进行加入门派奇遇。"
     translated: "Go to location (1512,389) and initiate an adventure to join a sect."
-- raw: "4004701#4004701#前往许鸿煊(1204,418)处，进行加入门派奇遇。#0&24|954276|1#1#1204.42,418.467#"
+- raw: "4004701#4004701#前往莫千山(1230,445)处，进行加入门派奇遇。##1#1230.1,445.153#"
   splits:
   - split: 2
-    text: "前往许鸿煊(1204,418)处，进行加入门派奇遇。"
-    translated: "Go to the place of Xu Hongxuan (1204,418) and have an encounter for joining a sect."
-- raw: "4004801#4004801#前往下山的村民(1450,682)处，进行加入门派奇遇。#0&24|954276|1#1#1450.49,682.776#"
+    text: "前往莫千山(1230,445)处，进行加入门派奇遇。"
+    translated: "Travel to the location at Mo Qianshan (1230,445), and experience an encounter related to joining a sect."
+- raw: "4004801#4004801#前往下山的村民(1450,682)处，进行加入门派奇遇。##1#1450.49,682.776#"
   splits:
   - split: 2
     text: "前往下山的村民(1450,682)处，进行加入门派奇遇。"
     translated: "Visit the location of villager (1450,682) going down the mountain to undertake an adventure for joining a sect."
+- raw: "4004802#4004801#完成奇遇后前往云肖毅(1363,624)处，加入门派。##1#1363.49,624.265#"
+  splits:
+  - split: 2
+    text: "完成奇遇后前往云肖毅(1363,624)处，加入门派。"
+    translated: "After the adventure, proceed to (1363,624), where Yun Xiaoyi is located, and join the sect."
 - raw: "4004901#4004901#诡辞达到120#0#0#0#"
   splits:
   - split: 2
     text: "诡辞达到120"
     translated: "Deception has been achieved by 120"
-- raw: "4004902#4004901#前往谷夫人(883,931)处，进行加入门派奇遇。#0&18|1|47|120|>=#1#883.078,931.028#"
+- raw: "4004902#4004901#前往春晴(859,967)处，进行加入门派奇遇。##1#858.689,967.244#"
   splits:
   - split: 2
-    text: "前往谷夫人(883,931)处，进行加入门派奇遇。"
-    translated: "Go to the location of Lady Gu (883,931) for a Sect Adventure related to joining the sect."
+    text: "前往春晴(859,967)处，进行加入门派奇遇。"
+    translated: "Proceed to the location of Chun Qing (859,967) for an encounter related to joining a sect."
 - raw: "10730011#1073001#你救下被劫匪围攻的骆图和牛韦#0&1|1073001|0#1#1078,1248#"
   splits:
   - split: 2

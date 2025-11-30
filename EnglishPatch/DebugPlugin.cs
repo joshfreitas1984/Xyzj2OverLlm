@@ -28,6 +28,8 @@ internal class DebugPlugin: BaseUnityPlugin
 
     private void Update()
     {
+        SweetPotato.LocatableController.Init
+
         // Toggle UI with F2 key
         //if (Input.GetKeyDown(KeyCode.F4))
         //{

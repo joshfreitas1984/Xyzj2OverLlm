@@ -108,11 +108,3 @@
   - split: 9
     text: "[不夜京]擂台赛"
     translated: "[Evernight Capital] Arena Tournament"
-- raw: "8000001#104#0#0###30#新型活动测试描述#0#测试活动#0&130|6|1|30#0#0#"
-  splits:
-  - split: 7
-    text: "新型活动测试描述"
-    translated: "New Activity Test Description"
-  - split: 9
-    text: "测试活动"
-    translated: "Test Activity"

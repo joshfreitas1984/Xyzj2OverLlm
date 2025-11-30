@@ -1259,7 +1259,7 @@
   - split: 6
     text: "无招胜有招，无剑胜有剑。自各家剑法中悟出，观照内景，心凝不惊。提升内息。"
     translated: "No technique surpasses no technique; no sword surpasses no sword. By comprehending each family's sword art, observing the internal landscape, and calming the mind without alarm, one enhances their inner Qi."
-- raw: "40001#不夜京#4#0#0#不夜京#七国混战之时，江湖同样风云四起，独孤湛为在乱世之中求得一隅便创立天机阁，周转于各国各派之间收集各种情报，从而在乱世中站住脚跟形成自身的势力。后历经数百年的沉淀，三国对立局面终成，天机阁也成为了天下最大的江湖门派，亦是最大的天下情报汇聚之地。而正是因为如此，夏、晋、周三国皆有意将天机阁收入麾下。正当天下人都好奇天机阁最后会帮扶哪一势力之时，却听闻天机阁迁帮至大江之上，独立于三国与各派之外，并改名为不夜京。因独立于三国之外。#22#0#"
+- raw: "40001#不夜京#4#0#0#不夜京#七国混战之时，江湖同样风云四起，独孤湛为在乱世之中求得一隅便创立天机阁，周转于各国各派之间收集各种情报，从而在乱世中站住脚跟形成自身的势力。后历经数百年的沉淀，三国对立局面终成，天机阁也成为了天下最大的江湖门派，亦是最大的天下情报汇聚之地。而正是因为如此，夏、晋、周三国皆有意将天机阁收入麾下。正当天下人都好奇天机阁最后会帮扶哪一势力之时，却听闻天机阁迁帮至大江之上，独立于三国与各派之外，并改名为不夜京。因独立于三国之外。（此门派无法晋升为掌门）#22#0#"
   splits:
   - split: 1
     text: "不夜京"
@@ -1268,8 +1268,8 @@
     text: "不夜京"
     translated: "Evernight Capital"
   - split: 6
-    text: "七国混战之时，江湖同样风云四起，独孤湛为在乱世之中求得一隅便创立天机阁，周转于各国各派之间收集各种情报，从而在乱世中站住脚跟形成自身的势力。后历经数百年的沉淀，三国对立局面终成，天机阁也成为了天下最大的江湖门派，亦是最大的天下情报汇聚之地。而正是因为如此，夏、晋、周三国皆有意将天机阁收入麾下。正当天下人都好奇天机阁最后会帮扶哪一势力之时，却听闻天机阁迁帮至大江之上，独立于三国与各派之外，并改名为不夜京。因独立于三国之外。"
-    translated: "During the time of the Seven States' chaos, the Jianghu was also in turmoil. In the midst of this chaotic era, Dugu Zhan established Tianji Ge to carve out a niche for himself by collecting intelligence from various countries and sects. This allowed him to establish his own influence amidst the chaos. Over several hundred years, as the Three‑State antagonistic situation solidified, Tianji Ge became the largest Jianghu Sect in the world and the greatest hub of global intelligence. Consequently, all three states‑Xia, Jin, and Zhou‑were eager to bring Tianji Ge under their command. As everyone wondered which faction Tianji Ge would ultimately support, it was announced that Tianji Ge had moved its base across the great river, standing independently from the Three States and other sects, and changed its name to the Evernight Capital due to its independence from the Three States."
+    text: "七国混战之时，江湖同样风云四起，独孤湛为在乱世之中求得一隅便创立天机阁，周转于各国各派之间收集各种情报，从而在乱世中站住脚跟形成自身的势力。后历经数百年的沉淀，三国对立局面终成，天机阁也成为了天下最大的江湖门派，亦是最大的天下情报汇聚之地。而正是因为如此，夏、晋、周三国皆有意将天机阁收入麾下。正当天下人都好奇天机阁最后会帮扶哪一势力之时，却听闻天机阁迁帮至大江之上，独立于三国与各派之外，并改名为不夜京。因独立于三国之外。（此门派无法晋升为掌门）"
+    translated: "During the tumultuous era of the Seven Kingdoms' conflict, the Jianghu was equally stirred by winds of change. Amidst this chaotic world, Dugu Zhan established Tianji Ge after securing a foothold, rotating among various nations and sects to gather intelligence. This enabled him to establish his own influence in these turbulent times. Over several hundred years of development, as the Three Kingdoms standoff finally materialized, Tianji Ge became the largest Jianghu Sect and the foremost gathering place for information across the realm. Consequently, all three kingdoms‑Xia, Jin, and Zhou‑wished to bring Tianji Ge under their control. As speculation about which power Tianji Ge would support reached its peak, it was announced that the Sect had relocated to the banks of the great river, establishing itself independently from the Three Kingdoms and other sects while changing its name to the Evernight Capital due to its independence from the Three Kingdoms. (This Sect cannot be promoted to a Sect Leader position.)"
 - raw: "40002#太初剑宗#4#0#0#太初剑宗#太初剑宗创派人张司过曾为玄门仙师白闻清的弟子，在白闻清离世后，创立太初剑宗庇护受战争影响的百姓，燕国之内开始有了不少弟子，成为了燕国最早出现的宗派之一，也见证了七国之间的兼并，以及魏、齐、楚的鼎盛。而后来随着嘉和帝对玄门的尊崇，太初剑宗弟子得以奔走于权皇贵胄之间，甚至能参与到一些士族的争斗当中。不少世家将家中学子送入太初剑宗修行，使得太初剑宗逐步成为了玄门之首的宗派。#23#4000201#"
   splits:
   - split: 1
@@ -1303,7 +1303,7 @@
   - split: 6
     text: "书院中的领头门派，在七国混乱时期便已存在。由书院夫子子誉所建。在楚国定下独尊书院，罢黜百家的治国之策后，书院的声望发展达到巅峰。而子誉在建立门派之后，仍旧秉持书院以“仁”为核心的理念，派遣诸多弟子四处讲学，广收弟子。且门派之内，无阶级之分，诸多寒士得以入学，而后进入官场实现自己的抱负。随着时间的积淀砚溪山庄也早已是桃李满天下。"
     translated: "The leading sect within the Academy existed even during the chaotic era of the Seven Kingdoms. It was established by Ziyu, a disciple of the Master of the Academy. Following the establishment of the exclusive Academy in the Chu Kingdom and the implementation of the strategy to establish one academy as supreme and dismiss all others, the Academy's reputation reached its zenith. Despite founding his own sect, Ziyu continued to uphold the Academy's core principle of “benevolence.” He dispatched numerous disciples across the lands to teach and recruit more followers. Within the sect, there was no distinction in ranks, allowing many impoverished scholars to attend. This enabled them to enter official positions later and fulfill their ambitions. Over time, Ink Stream Mountain Villa had its branches spread far and wide."
-- raw: "40005#清玉门#4#0#0#清玉门#玉阳真人迟浔江虽也对玄门修行兴趣颇深，但却不想进入官场，只想闲云野鹤，遍访山川。后来云游途中，迟浔江亦见到了许多饱受战争侵扰的百姓，他手中长剑虽能替人赶走穷凶之徒，却难救下负伤或是病体沉疴之人。于是迟浔江在这之后除却剑术的钻研，亦花费诸多心思遍寻炼药之方，炮制药丹。后来迟浔江为使自身所学得以传承便建立清玉门，将自己的剑法和丹鼎之学尽数相传。#26#0#"
+- raw: "40005#清玉门#4#0#0#清玉门#玉阳真人迟浔江虽也对玄门修行兴趣颇深，但却不想进入官场，只想闲云野鹤，遍访山川。后来云游途中，迟浔江亦见到了许多饱受战争侵扰的百姓，他手中长剑虽能替人赶走穷凶之徒，却难救下负伤或是病体沉疴之人。于是迟浔江在这之后除却剑术的钻研，亦花费诸多心思遍寻炼药之方，炮制药丹。后来迟浔江为使自身所学得以传承便建立清玉门，将自己的剑法和丹鼎之学尽数相传。（此门派无法晋升为掌门）#26#0#"
   splits:
   - split: 1
     text: "清玉门"
@@ -1312,9 +1312,9 @@
     text: "清玉门"
     translated: "Pure Jade Gate"
   - split: 6
-    text: "玉阳真人迟浔江虽也对玄门修行兴趣颇深，但却不想进入官场，只想闲云野鹤，遍访山川。后来云游途中，迟浔江亦见到了许多饱受战争侵扰的百姓，他手中长剑虽能替人赶走穷凶之徒，却难救下负伤或是病体沉疴之人。于是迟浔江在这之后除却剑术的钻研，亦花费诸多心思遍寻炼药之方，炮制药丹。后来迟浔江为使自身所学得以传承便建立清玉门，将自己的剑法和丹鼎之学尽数相传。"
-    translated: "Immortal Yu Yang Chi Xunjiang had a deep interest in the cultivation of Xuanmen. However, he did not wish to enter officialdom; instead, he desired to roam freely like clouds and wild geese, traveling across mountains and rivers. During his travels, Chi Xunjiang witnessed many commoners suffering from war. Although his long sword could fend off villainous hooligans, it was powerless against those injured or plagued by illness. Consequently, after this experience, Chi Xunjiang not only continued to refine his swordsmanship but also dedicated much thought to seeking methods of alchemy and formulating medicinal pills. Later, to ensure the transmission of his knowledge, he established Pure Jade Gate, where he passed on both his sword techniques and alchemical teachings in full."
-- raw: "40006#大雪山#4#0#0#大雪山#昔日魏楚燕三国并立时期，魏国盛行菩提，嵩室山执法长老却在在菩提传承一事上与当代掌门产生分歧，遂离开嵩室山，自谋出路恰逢娑罗一派传入关内，嵩室山执法长老等人接受娑罗传承，远走塞外，建大雪山，择人传授。大雪山一脉弟子，不经灌顶，不经传授不得任意传习及显示别人。颇为神秘。因大雪山建址神秘且偏远，本身也无意于参与流派之争，是以无论关内的流派争夺多么残酷，大雪山都完整地保留了下来。#27#0#"
+    text: "玉阳真人迟浔江虽也对玄门修行兴趣颇深，但却不想进入官场，只想闲云野鹤，遍访山川。后来云游途中，迟浔江亦见到了许多饱受战争侵扰的百姓，他手中长剑虽能替人赶走穷凶之徒，却难救下负伤或是病体沉疴之人。于是迟浔江在这之后除却剑术的钻研，亦花费诸多心思遍寻炼药之方，炮制药丹。后来迟浔江为使自身所学得以传承便建立清玉门，将自己的剑法和丹鼎之学尽数相传。（此门派无法晋升为掌门）"
+    translated: "Immortal Yu Yang was deeply interested in the cultivation of Xuanmen, yet he had no desire to enter officialdom and preferred a life as an idle cloud and wild goose, wandering and visiting mountains. During his travels, he witnessed many ordinary people suffering due to wars; while his long sword could drive away bandits, it couldn't heal those injured or gravely ill. Consequently, Chi Xunjian devoted himself not only to refining his swordsmanship but also spent much effort researching alchemy and concocting medicinal pills. Later, in order to ensure the transmission of his studies, he established Pure Jade Gate, passing on both his sword techniques and knowledge of elixirs. (This sect could not ascend to a Sect Leader)"
+- raw: "40006#大雪山#4#0#0#大雪山#昔日魏楚燕三国并立时期，魏国盛行菩提，嵩室山执法长老却在在菩提传承一事上与当代掌门产生分歧，遂离开嵩室山，自谋出路恰逢娑罗一派传入关内，嵩室山执法长老等人接受娑罗传承，远走塞外，建大雪山，择人传授。大雪山一脉弟子，不经灌顶，不经传授不得任意传习及显示别人。颇为神秘。因大雪山建址神秘且偏远，本身也无意于参与流派之争，是以无论关内的流派争夺多么残酷，大雪山都完整地保留了下来。#27#4004101#"
   splits:
   - split: 1
     text: "大雪山"
@@ -1325,7 +1325,7 @@
   - split: 6
     text: "昔日魏楚燕三国并立时期，魏国盛行菩提，嵩室山执法长老却在在菩提传承一事上与当代掌门产生分歧，遂离开嵩室山，自谋出路恰逢娑罗一派传入关内，嵩室山执法长老等人接受娑罗传承，远走塞外，建大雪山，择人传授。大雪山一脉弟子，不经灌顶，不经传授不得任意传习及显示别人。颇为神秘。因大雪山建址神秘且偏远，本身也无意于参与流派之争，是以无论关内的流派争夺多么残酷，大雪山都完整地保留了下来。"
     translated: "During the era when Wei, Chu, and Yan were established as separate states, the practice of Bodhi flourished in Wei. However, a disagreement arose between the Elder Enforcer of Songshi Mountain and the contemporary Sect Leader over matters related to Bodhi's transmission. As a result, the Elder Enforcers left Songshi Mountain to seek their own path at a time when the Salo school began entering the inner regions. The Elder Enforcers accepted the Salo tradition and journeyed far west to establish Great Snow Mountain, where they selectively taught students. Disciples of the Great Snow lineage were not permitted to study or demonstrate any teachings without initiation or direct transmission. This contributed significantly to their mysterious reputation. Since Great Snow Mountain was established in a remote and mysterious location, with no intention of engaging in factional disputes, it remained intact regardless of how brutal the struggles among schools within the inner regions became."
-- raw: "40007#麓山书院#4#0#0#麓山书院#魏燕楚三国并立时期，楚国独尊书院，罢黜百家，砚溪山庄更是书院中的领头门派。但随着砚溪山庄的不断壮大，内部的纷争也越发明显。在三百年前楚帝下令进攻魏燕两国之时，因内部意见不统一，从而使得砚溪山庄分裂。砚溪山庄副庄主率支持出兵的弟子离开砚溪山庄，建立麓山书院，为朝廷出谋划策。#28#0#"
+- raw: "40007#麓山书院#4#0#0#麓山书院#魏燕楚三国并立时期，楚国独尊书院，罢黜百家，砚溪山庄更是书院中的领头门派。但随着砚溪山庄的不断壮大，内部的纷争也越发明显。在三百年前楚帝下令进攻魏燕两国之时，因内部意见不统一，从而使得砚溪山庄分裂。砚溪山庄副庄主率支持出兵的弟子离开砚溪山庄，建立麓山书院，为朝廷出谋划策。（此门派无法晋升为掌门）#28#0#"
   splits:
   - split: 1
     text: "麓山书院"
@@ -1334,9 +1334,9 @@
     text: "麓山书院"
     translated: "Mount Lu Academy"
   - split: 6
-    text: "魏燕楚三国并立时期，楚国独尊书院，罢黜百家，砚溪山庄更是书院中的领头门派。但随着砚溪山庄的不断壮大，内部的纷争也越发明显。在三百年前楚帝下令进攻魏燕两国之时，因内部意见不统一，从而使得砚溪山庄分裂。砚溪山庄副庄主率支持出兵的弟子离开砚溪山庄，建立麓山书院，为朝廷出谋划策。"
-    translated: "During the period when the Wei, Yan, and Chu states coexisted, the Mount Lu Academy of the Chu Kingdom was highly esteemed, with all other schools being dismissed. The Ink Stream Mountain Villa stood as the leading sect within the academy. However, as the villa grew in size, internal conflicts became more pronounced. Three hundred years ago, when the Chu Emperor ordered an attack on the Wei and Yan states, disagreements within the villa led to its division. The Deputy Manor Master of the Ink Stream Mountain Villa, along with students who supported the military campaign, left to establish the Mount Lu Academy, where they served as strategists for the Imperial Court."
-- raw: "40008#昭月宗#4#0#0#昭月宗#出身在大漠深处的流浪诗人阿勒斯，在流浪途中得见世间万物百态之后，思想上逐渐有所大成。于是阿勒斯四处宣传自己的思想，收获了一批虔诚的弟子并成立了昭月宗。后在某次晨礼之时得明使启示，脱离肉身，成为后世昭月宗弟子人人敬仰的传说。而后几百年来，昭月宗一直尊崇着阿勒斯的遗志，不与关内各派结交，亦不肯踏入关内一步。#29#0#"
+    text: "魏燕楚三国并立时期，楚国独尊书院，罢黜百家，砚溪山庄更是书院中的领头门派。但随着砚溪山庄的不断壮大，内部的纷争也越发明显。在三百年前楚帝下令进攻魏燕两国之时，因内部意见不统一，从而使得砚溪山庄分裂。砚溪山庄副庄主率支持出兵的弟子离开砚溪山庄，建立麓山书院，为朝廷出谋划策。（此门派无法晋升为掌门）"
+    translated: "During the period when Wei, Yan, and Chu stood side by side as separate states, the Chu Kingdom exclusively revered the Mount Lu Academy, dismissing all other schools of thought. The Ink Stream Mountain Villa was considered the leading sect within the academy. However, with its continual growth, internal conflicts became increasingly evident. Three hundred years ago, when the Emperor of Chu ordered an attack on Wei and Yan, disagreement over this course of action led to a split within the Ink Stream Mountain Villa. The Deputy Manor Master, along with his supporters who advocated for going to war, left the villa and founded the Mount Lu Academy, advising the Imperial Court in strategy and planning. (This sect is unable to advance to become a Sect Leader)"
+- raw: "40008#昭月宗#4#0#0#昭月宗#出身在大漠深处的流浪诗人阿勒斯，在流浪途中得见世间万物百态之后，思想上逐渐有所大成。于是阿勒斯四处宣传自己的思想，收获了一批虔诚的弟子并成立了昭月宗。后在某次晨礼之时得明使启示，脱离肉身，成为后世昭月宗弟子人人敬仰的传说。而后几百年来，昭月宗一直尊崇着阿勒斯的遗志，不与关内各派结交，亦不肯踏入关内一步。（此门派无法晋升为掌门）#29#0#"
   splits:
   - split: 1
     text: "昭月宗"
@@ -1345,9 +1345,9 @@
     text: "昭月宗"
     translated: "Bright Moon Clan"
   - split: 6
-    text: "出身在大漠深处的流浪诗人阿勒斯，在流浪途中得见世间万物百态之后，思想上逐渐有所大成。于是阿勒斯四处宣传自己的思想，收获了一批虔诚的弟子并成立了昭月宗。后在某次晨礼之时得明使启示，脱离肉身，成为后世昭月宗弟子人人敬仰的传说。而后几百年来，昭月宗一直尊崇着阿勒斯的遗志，不与关内各派结交，亦不肯踏入关内一步。"
-    translated: "The wandering poet Ales, hailing from the depths of the great desert, gradually matured in thought after witnessing the myriad facets of life during his travels. Consequently, he began to spread his ideas far and wide, gathering a devoted group of disciples and establishing the Bright Moon Clan. During one morning ritual, Ales received divine guidance from Ming, transcending physical existence and becoming an enduring legend revered by all followers of the Bright Moon Clan. For several hundred years thereafter, the Bright Moon Clan continued to uphold Ales's legacy, refusing to associate with other factions within the Inner Provinces or set foot inside them."
-- raw: "40009#穆特族#4#0#0#穆特族#靠近楚国附近的游牧民族穆特族人，穆特族且彪悍好战，而单野更是其中翘楚，嗜杀成性，是穆特族的悍将。楚国不少将领皆死于他的刀下，后来楚国派遣三将联合作战才将其拿下。因为单野十分得穆特族的拥护，楚国担心将他处死后，会得穆特族更加激烈的进攻，不利于边境安稳。遂将其囚禁作为要挟，而宗和却暗中与他取得联系，在夺得帝位后将其接回为自己所用。#1#0#"
+    text: "出身在大漠深处的流浪诗人阿勒斯，在流浪途中得见世间万物百态之后，思想上逐渐有所大成。于是阿勒斯四处宣传自己的思想，收获了一批虔诚的弟子并成立了昭月宗。后在某次晨礼之时得明使启示，脱离肉身，成为后世昭月宗弟子人人敬仰的传说。而后几百年来，昭月宗一直尊崇着阿勒斯的遗志，不与关内各派结交，亦不肯踏入关内一步。（此门派无法晋升为掌门）"
+    translated: "The wandering poet Aleis, who hailed from the depths of the great desert, gradually matured in thought after witnessing the myriad aspects of worldly things during his travels. As a result, Aleis spread his ideas far and wide, gaining a following of devoted disciples and founding the Zhaoyue Zong (Bright Moon Clan). During one morning ritual, he received enlightenment from the Ming envoy, transcending his mortal form to become an immortal legend revered by all disciples of the Bright Moon Clan in later generations. For several hundred years thereafter, the Bright Moon Clan honored Aleis's legacy, refusing to associate with other sects within the Central Plains and never setting foot there themselves. (This sect is unable to appoint a Sect Leader)"
+- raw: "40009#穆特族#4#0#0#穆特族#靠近楚国附近的游牧民族穆特族人，穆特族且彪悍好战，而单野更是其中翘楚，嗜杀成性，是穆特族的悍将。楚国不少将领皆死于他的刀下，后来楚国派遣三将联合作战才将其拿下。因为单野十分得穆特族的拥护，楚国担心将他处死后，会得穆特族更加激烈的进攻，不利于边境安稳。遂将其囚禁作为要挟，而宗和却暗中与他取得联系，在夺得帝位后将其接回为自己所用。（此门派无法晋升为掌门）#1#0#"
   splits:
   - split: 1
     text: "穆特族"
@@ -1356,9 +1356,9 @@
     text: "穆特族"
     translated: "Mu Te Tribe"
   - split: 6
-    text: "靠近楚国附近的游牧民族穆特族人，穆特族且彪悍好战，而单野更是其中翘楚，嗜杀成性，是穆特族的悍将。楚国不少将领皆死于他的刀下，后来楚国派遣三将联合作战才将其拿下。因为单野十分得穆特族的拥护，楚国担心将他处死后，会得穆特族更加激烈的进攻，不利于边境安稳。遂将其囚禁作为要挟，而宗和却暗中与他取得联系，在夺得帝位后将其接回为自己所用。"
-    translated: "The Mu Te Tribe, a nomadic group near the Chu Kingdom, is known for being fierce and warlike. Among them, Dan Ye stands out as an exceptionally ruthless fighter, becoming a celebrated general of the tribe. Many Chu generals have fallen to his blade. It was only when the Chu Kingdom dispatched three commanders to unite in battle that they were able to capture him. Because Dan Ye had significant support among the Mu Te Tribe, the Chu Kingdom feared executing him would provoke even fiercer attacks from them, destabilizing their border region. Consequently, he was imprisoned as a bargaining chip. However, Zong He secretly maintained contact with him and, after seizing the throne, summoned him back to serve his own purposes."
-- raw: "40011#丐门#4#0#0#丐门#没有人知道丐门存在了多少年，只知他们以乞丐之身相聚，人数众多，遍布大淮陵北，故而鱼龙混杂，消息极为灵通。总舵位于楚国之中，其间弟子看似外表落拓，以乞讨为生，实则身怀武艺，皆习掌法，并极重义气，不容门人受欺。#31#0#"
+    text: "靠近楚国附近的游牧民族穆特族人，穆特族且彪悍好战，而单野更是其中翘楚，嗜杀成性，是穆特族的悍将。楚国不少将领皆死于他的刀下，后来楚国派遣三将联合作战才将其拿下。因为单野十分得穆特族的拥护，楚国担心将他处死后，会得穆特族更加激烈的进攻，不利于边境安稳。遂将其囚禁作为要挟，而宗和却暗中与他取得联系，在夺得帝位后将其接回为自己所用。（此门派无法晋升为掌门）"
+    translated: "The Mu Te Tribe, a nomadic group near the Chu Kingdom, is known for being fierce and warlike. Among them, Dan Ye stands out as an exceptionally brutal warrior with a penchant for killing, serving as a fierce general of the tribe. Many generals from the Chu Kingdom have perished under his blade. Eventually, it took three generals in a joint operation to capture him. Since Dan Ye was highly supported by the Mu Te Tribe, the Chu Kingdom feared that executing him would provoke an even fiercer attack from the tribe, destabilizing their border region. Therefore, they imprisoned him as leverage. Meanwhile, Zong He secretly contacted him and, after seizing the throne, brought him back to use for his own purposes. (This sect cannot be elevated to a Sect Leader.)"
+- raw: "40011#丐门#4#0#0#丐门#没有人知道丐门存在了多少年，只知他们以乞丐之身相聚，人数众多，遍布大淮陵北，故而鱼龙混杂，消息极为灵通。总舵位于楚国之中，其间弟子看似外表落拓，以乞讨为生，实则身怀武艺，皆习掌法，并极重义气，不容门人受欺。#31#4004201#"
   splits:
   - split: 1
     text: "丐门"
@@ -1369,7 +1369,7 @@
   - split: 6
     text: "没有人知道丐门存在了多少年，只知他们以乞丐之身相聚，人数众多，遍布大淮陵北，故而鱼龙混杂，消息极为灵通。总舵位于楚国之中，其间弟子看似外表落拓，以乞讨为生，实则身怀武艺，皆习掌法，并极重义气，不容门人受欺。"
     translated: "No one knows how many years the Beggar Sect has existed; it is only known that they gather in the guise of beggars, numerous and widespread across northern Huailing, resulting in a mix of diverse individuals with highly effective communication networks. The main headquarters is located at the center of the Chu Kingdom. Their disciples appear carefree on the surface, living by begging, but in reality, they possess martial skills, all practicing fist techniques, and hold brotherhood loyalty in high regard, not tolerating any oppression against their fellow sect members."
-- raw: "40012#捭阖谷#4#0#0#捭阖谷#捭阖家的代表门派，在七国混乱时期，捭阖谷弟子游走各国之间，凭借着卓越的捭阖之术被各国重视处于巅峰时期。但随着三国的相互制约，天下趋于稳定，捭阖谷再无用武之地逐渐被人们遗忘。#32#0#"
+- raw: "40012#捭阖谷#4#0#0#捭阖谷#捭阖家的代表门派，在七国混乱时期，捭阖谷弟子游走各国之间，凭借着卓越的捭阖之术被各国重视处于巅峰时期。但随着三国的相互制约，天下趋于稳定，捭阖谷再无用武之地逐渐被人们遗忘。（此门派无法晋升为掌门）#32#0#"
   splits:
   - split: 1
     text: "捭阖谷"
@@ -1378,9 +1378,9 @@
     text: "捭阖谷"
     translated: "Baihe Valley"
   - split: 6
-    text: "捭阖家的代表门派，在七国混乱时期，捭阖谷弟子游走各国之间，凭借着卓越的捭阖之术被各国重视处于巅峰时期。但随着三国的相互制约，天下趋于稳定，捭阖谷再无用武之地逐渐被人们遗忘。"
-    translated: "During the period of chaos among the seven states, the Baihe Sect was a representative family within the Baihe Valley. At its peak, the disciples from Baihe Valley moved between various countries, and due to their exceptional skill in Baihe techniques, they were highly regarded by all nations. However, as the Three Kingdoms established mutual checks and balances leading to a more stable world, the Baihe Valley found itself without relevance and gradually fell into obscurity."
-- raw: "40013#重天门#4#0#0#重天门#天生便为阴阳共生之体的林一朝因为这另类的身体，时常遭人打骂侮辱，被视为怪物。后因得到巫师卜灵的传承，意图打造一个没有战争和苦难的精神桃源，并让从前看不上他的世人顺从于他。#33#0#"
+    text: "捭阖家的代表门派，在七国混乱时期，捭阖谷弟子游走各国之间，凭借着卓越的捭阖之术被各国重视处于巅峰时期。但随着三国的相互制约，天下趋于稳定，捭阖谷再无用武之地逐渐被人们遗忘。（此门派无法晋升为掌门）"
+    translated: "The Baihe Sect, a representative of the Baihe family, was at its peak during the chaotic period of the Seven Kingdoms. Baihe Valley disciples roamed between nations, gaining attention for their exceptional skills in the art of Baihe. However, as the Three Kingdoms mutually restrained each other and the world trended towards stability, there were no longer opportunities to use the techniques of Baihe Valley, leading it to be gradually forgotten by people. (This sect cannot ascend to Sect Leader status.)"
+- raw: "40013#重天门#4#0#0#重天门#天生便为阴阳共生之体的林一朝因为这另类的身体，时常遭人打骂侮辱，被视为怪物。后因得到巫师卜灵的传承，意图打造一个没有战争和苦难的精神桃源，并让从前看不上他的世人顺从于他。#33#4004301#"
   splits:
   - split: 1
     text: "重天门"
@@ -1391,7 +1391,7 @@
   - split: 6
     text: "天生便为阴阳共生之体的林一朝因为这另类的身体，时常遭人打骂侮辱，被视为怪物。后因得到巫师卜灵的传承，意图打造一个没有战争和苦难的精神桃源，并让从前看不上他的世人顺从于他。"
     translated: "Lin Yichao was born with a body naturally embodying yin and yang coexistence, which often led others to mock and insult him, viewing him as a monster. Later, having received the legacy from sorcerer Bo Ling, he aimed to forge a spiritual utopia free of war and suffering and sought for those who once looked down upon him to submit to his will."
-- raw: "40015#神兵山庄#4#0#0#神兵山庄#神兵山庄由兵家传人所建，在魏国还未灭亡时，因菩提的强势而不受重视，在混乱时期，本是神兵山庄发挥所长时，但因守着心中信义，不肯出山。#34#0#"
+- raw: "40015#神兵山庄#4#0#0#神兵山庄#神兵山庄由兵家传人所建，在魏国还未灭亡时，因菩提的强势而不受重视，在混乱时期，本是神兵山庄发挥所长时，但因守着心中信义，不肯出山。（此门派无法晋升为掌门）#34#0#"
   splits:
   - split: 1
     text: "神兵山庄"
@@ -1400,9 +1400,9 @@
     text: "神兵山庄"
     translated: "Divine Weapon Mountain Villa"
   - split: 6
-    text: "神兵山庄由兵家传人所建，在魏国还未灭亡时，因菩提的强势而不受重视，在混乱时期，本是神兵山庄发挥所长时，但因守着心中信义，不肯出山。"
-    translated: "The Divine Weapon Mountain Villa was established by a descendant of the martial clan during a time when the state of Wei had not yet fallen. Although it held potential due to Pu Ti's influence, it remained underestimated at that time. During periods of chaos, while it should have been an opportunity for the villa to demonstrate its strengths, they refrained from emerging because they adhered to their principles and loyalty within their hearts."
-- raw: "40016#御虚门#4#0#0#御虚门#御虚门是在七国最为混乱时期所建，给予姓以庇护而获得了最早的一批弟子，亦成为了玄门最重要的门派之一。御虚门在修行上倡导去除世俗杂念，清心静修，且在丹鼎一脉之上颇有成就。在嘉和帝统领燕国之时，对御虚门丹鼎之术颇为推崇，不少御虚门弟子得以进入宫中为嘉和帝炼丹，此时的御虚门盛名可谓是玄门之首。后来段承君经改革一事，不少御虚门弟子门都以祸国欺君之罪被打入牢狱，大量所著和整理的典籍被封存，损失惨重，再无从前盛景。#35#0#"
+    text: "神兵山庄由兵家传人所建，在魏国还未灭亡时，因菩提的强势而不受重视，在混乱时期，本是神兵山庄发挥所长时，但因守着心中信义，不肯出山。（此门派无法晋升为掌门）"
+    translated: "Divine Weapon Mountain Villa was established by descendants of the military arts. During the time when Wei State had not yet fallen, it went largely unnoticed due to Bodhidharma's dominance. In the chaotic period that followed, it would have been an opportune moment for Divine Weapon Mountain Villa to shine, but because its members remained true to their principles and refused to compromise, they chose to stay reclusive. (This sect cannot advance to become a Sect Leader)"
+- raw: "40016#御虚门#4#0#0#御虚门#御虚门是在七国最为混乱时期所建，给予姓以庇护而获得了最早的一批弟子，亦成为了玄门最重要的门派之一。御虚门在修行上倡导去除世俗杂念，清心静修，且在丹鼎一脉之上颇有成就。在嘉和帝统领燕国之时，对御虚门丹鼎之术颇为推崇，不少御虚门弟子得以进入宫中为嘉和帝炼丹，此时的御虚门盛名可谓是玄门之首。后来段承君经改革一事，不少御虚门弟子门都以祸国欺君之罪被打入牢狱，大量所著和整理的典籍被封存，损失惨重，再无从前盛景。（此门派无法晋升为掌门）#35#0#"
   splits:
   - split: 1
     text: "御虚门"
@@ -1411,9 +1411,9 @@
     text: "御虚门"
     translated: "Imperial Void Gate"
   - split: 6
-    text: "御虚门是在七国最为混乱时期所建，给予姓以庇护而获得了最早的一批弟子，亦成为了玄门最重要的门派之一。御虚门在修行上倡导去除世俗杂念，清心静修，且在丹鼎一脉之上颇有成就。在嘉和帝统领燕国之时，对御虚门丹鼎之术颇为推崇，不少御虚门弟子得以进入宫中为嘉和帝炼丹，此时的御虚门盛名可谓是玄门之首。后来段承君经改革一事，不少御虚门弟子门都以祸国欺君之罪被打入牢狱，大量所著和整理的典籍被封存，损失惨重，再无从前盛景。"
-    translated: "The Imperial Void Gate was established during the most chaotic period among the seven states, providing protection to those who took its name and thus securing a group of early disciples. It also became one of the most important sects within Xuanmen. The Imperial Void Gate advocates in cultivation to rid oneself of worldly distractions and practice meditation with a clear mind, achieving notable accomplishments in the lineage above alchemy cauldrons. During Emperor Jiahe's rule over the Yan Kingdom, he greatly esteemed the alchemical techniques of the Imperial Void Gate. Many disciples were admitted into the palace to assist Emperor Jiahe with alchemy, bringing great renown to the sect as a leading force within Xuanmen. However, after Du Chengjun's reforms, many disciples from the Imperial Void Gate were imprisoned for charges of betraying the state and deceiving the emperor. A substantial amount of their written works and compiled texts were sealed away, resulting in severe losses that could never be recovered to their former glory."
-- raw: "40022#遥雪峰#4#0#0#遥雪峰#远离纷争与世俗诸事的门派，一心追求武道至巅，修行于杳无人迹的雪山之上，积雪终年不化，所处之地酷寒，因此其剑法也透着泠泠寒意。门下弟子鲜少行迹于江湖之中，但若有人身死在外，遥雪峰便会派人将其剑收殓，埋于剑冢，聊作魂归师门，故而剑冢之中葬着许多惊才绝艳的故事。#36#0#"
+    text: "御虚门是在七国最为混乱时期所建，给予姓以庇护而获得了最早的一批弟子，亦成为了玄门最重要的门派之一。御虚门在修行上倡导去除世俗杂念，清心静修，且在丹鼎一脉之上颇有成就。在嘉和帝统领燕国之时，对御虚门丹鼎之术颇为推崇，不少御虚门弟子得以进入宫中为嘉和帝炼丹，此时的御虚门盛名可谓是玄门之首。后来段承君经改革一事，不少御虚门弟子门都以祸国欺君之罪被打入牢狱，大量所著和整理的典籍被封存，损失惨重，再无从前盛景。（此门派无法晋升为掌门）"
+    translated: "The Imperial Void Gate was established during the most chaotic period of the Seven Kingdoms, providing protection to those who took its surname and thus gaining an early group of disciples. It became one of the most important sects within Xuanmen. The Imperial Void Gate advocates for removing worldly distractions in cultivation, emphasizing a pure heart and quiet meditation, and it has achieved notable success beyond the lineage of the alchemy furnace. During Jiahe Emperor's reign over Yan Kingdom, he highly regarded the alchemical arts of the Imperial Void Gate. Many disciples from this gate were able to enter the palace to practice alchemy for Jiahe Emperor, making its fame unrivaled as the foremost among Xuanmen sects at that time. However, following Shen Gongbao's reforms, many disciples of the Imperial Void Gate were imprisoned on charges of endangering the nation and deceiving the emperor. A significant number of their written works and organized texts were sealed away, resulting in considerable loss and an end to its former glory. (This sect cannot become a Sect Leader)"
+- raw: "40022#遥雪峰#4#0#0#遥雪峰#远离纷争与世俗诸事的门派，一心追求武道至巅，修行于杳无人迹的雪山之上，积雪终年不化，所处之地酷寒，因此其剑法也透着泠泠寒意。门下弟子鲜少行迹于江湖之中，但若有人身死在外，遥雪峰便会派人将其剑收殓，埋于剑冢，聊作魂归师门，故而剑冢之中葬着许多惊才绝艳的故事。（此门派无法晋升为掌门）#36#0#"
   splits:
   - split: 1
     text: "遥雪峰"
@@ -1422,9 +1422,9 @@
     text: "遥雪峰"
     translated: "Distant Snow Peak"
   - split: 6
-    text: "远离纷争与世俗诸事的门派，一心追求武道至巅，修行于杳无人迹的雪山之上，积雪终年不化，所处之地酷寒，因此其剑法也透着泠泠寒意。门下弟子鲜少行迹于江湖之中，但若有人身死在外，遥雪峰便会派人将其剑收殓，埋于剑冢，聊作魂归师门，故而剑冢之中葬着许多惊才绝艳的故事。"
-    translated: "A sect distant from strife and worldly matters, dedicated solely to the pursuit of martial excellence, practices in a snow‑capped mountain rarely visited by people. The perpetual snow never melts there, resulting in an intensely cold environment that reflects in their swordsmanship, imbued with a chilly resonance. Few disciples venture into the Jianghu, but should any die away from home, Distant Snow Peak will send someone to collect and bury their sword at the Sword Mound as a way for their soul to return to the sect. Consequently, the Sword Mound contains many extraordinary tales of remarkable talent."
-- raw: "40023#朔海派#4#0#0#朔海派#江湖之中的新兴门派，沿近海岸，也从沧海之中悟出了独属于自己的武功路数，善刀法，大开大阖，万物可摧，颇有气势。门派有训：有恩必偿，有仇必了。故弟子也常卷于各种江湖恩仇之中。#37#0#"
+    text: "远离纷争与世俗诸事的门派，一心追求武道至巅，修行于杳无人迹的雪山之上，积雪终年不化，所处之地酷寒，因此其剑法也透着泠泠寒意。门下弟子鲜少行迹于江湖之中，但若有人身死在外，遥雪峰便会派人将其剑收殓，埋于剑冢，聊作魂归师门，故而剑冢之中葬着许多惊才绝艳的故事。（此门派无法晋升为掌门）"
+    translated: "This sect, distant from worldly affairs and strife, dedicates itself to the pursuit of martial excellence. They train in remote snow‑capped mountains where snow never melts, a place so cold that their sword techniques also carry an icy chill. Few disciples venture into the Jianghu, but if one were to die away from home, Distant Snow Peak would send someone to collect their sword and entomb it in a burial mound of swords, offering solace for the soul's return to its master. Thus, many remarkable stories are buried within these mounds of swords. (This sect cannot be promoted to a sect leader.)"
+- raw: "40023#朔海派#4#0#0#朔海派#江湖之中的新兴门派，沿近海岸，也从沧海之中悟出了独属于自己的武功路数，善刀法，大开大阖，万物可摧，颇有气势。门派有训：有恩必偿，有仇必了。故弟子也常卷于各种江湖恩仇之中。（此门派无法晋升为掌门）#37#0#"
   splits:
   - split: 1
     text: "朔海派"
@@ -1433,9 +1433,9 @@
     text: "朔海派"
     translated: "North Sea Sect"
   - split: 6
-    text: "江湖之中的新兴门派，沿近海岸，也从沧海之中悟出了独属于自己的武功路数，善刀法，大开大阖，万物可摧，颇有气势。门派有训：有恩必偿，有仇必了。故弟子也常卷于各种江湖恩仇之中。"
-    translated: "On the coastal region of the Jianghu, a rising sect has emerged. They have developed their unique martial arts techniques from the sea's vastness, mastering blade art that is powerful and expansive, capable of breaking anything in its path with impressive momentum. The sect's teachings are as follows:: One must repay kindness and settle grudges. Thus, as an apprentice, I am often entangled in various matters of indebtedness and revenge within the Jianghu."
-- raw: "40027#拂松门#4#0#0#拂松门#坐落于夏国北地的山上，虽不能与江湖上最鼎盛的名门大派相提并论，但因门中所承武学刚柔并济，浩然磊落，遂也在江湖上颇得盛誉。拂松门所在的山上生长诸多苍翠劲松，或许是受其影响，拂松门不管是教导弟子们武学还是为人，皆需做到如松柏正直坚韧，不卑不亢。#38#0#"
+    text: "江湖之中的新兴门派，沿近海岸，也从沧海之中悟出了独属于自己的武功路数，善刀法，大开大阖，万物可摧，颇有气势。门派有训：有恩必偿，有仇必了。故弟子也常卷于各种江湖恩仇之中。（此门派无法晋升为掌门）"
+    translated: "In the Jianghu, a newly emerging sect along the coastline has also gleaned its unique martial arts style from the vast sea. They excel in swordsmanship, with wide‑open movements that can shatter anything and carry significant momentum. The teachings of the sect are: One must always repay kindness and settle grudges. Therefore, disciples are often entangled in various Jianghu debts of gratitude and revenge. (This sect cannot advance to a Sect Leader position.)"
+- raw: "40027#拂松门#4#0#0#拂松门#坐落于夏国北地的山上，虽不能与江湖上最鼎盛的名门大派相提并论，但因门中所承武学刚柔并济，浩然磊落，遂也在江湖上颇得盛誉。拂松门所在的山上生长诸多苍翠劲松，或许是受其影响，拂松门不管是教导弟子们武学还是为人，皆需做到如松柏正直坚韧，不卑不亢。（此门派无法晋升为掌门）#38#0#"
   splits:
   - split: 1
     text: "拂松门"
@@ -1444,9 +1444,9 @@
     text: "拂松门"
     translated: "Pine Brushing Gate"
   - split: 6
-    text: "坐落于夏国北地的山上，虽不能与江湖上最鼎盛的名门大派相提并论，但因门中所承武学刚柔并济，浩然磊落，遂也在江湖上颇得盛誉。拂松门所在的山上生长诸多苍翠劲松，或许是受其影响，拂松门不管是教导弟子们武学还是为人，皆需做到如松柏正直坚韧，不卑不亢。"
-    translated: "Located on a mountain in the northern region of the Xia Kingdom, this school may not compare with the most prestigious and powerful martial arts sects within Jianghu. However, due to its adherence to the harmonious blend of toughness and flexibility in martial arts, as well as its noble spirit, it has gained considerable renown in Jianghu. The mountain where Pine Brushing Gate is situated is home to many lush, resilient pines, which may have influenced the school's philosophy. Whether instructing disciples in martial arts or teaching them how to live their lives, Pine Brushing Gate emphasizes the importance of being as upright and tough as pine trees, maintaining a stance of dignity without arrogance or humility."
-- raw: "40028#岭花谷#4#0#0#岭花谷#位于北地山谷之中，作为门派并不爱参与江湖纷争，但却鼓励谷内弟子悬壶济世，行医救人。是江湖上颇具盛名的医道势力，谷内弟子皆潜心修习医术，时常出谷救济百姓。#39 (2)#0#"
+    text: "坐落于夏国北地的山上，虽不能与江湖上最鼎盛的名门大派相提并论，但因门中所承武学刚柔并济，浩然磊落，遂也在江湖上颇得盛誉。拂松门所在的山上生长诸多苍翠劲松，或许是受其影响，拂松门不管是教导弟子们武学还是为人，皆需做到如松柏正直坚韧，不卑不亢。（此门派无法晋升为掌门）"
+    translated: "Located atop a mountain in the northern region of the Xia Kingdom, this sect may not compare to the most illustrious and powerful martial sects within Jianghu, yet it has earned considerable renown due to its balanced martial philosophy that combines toughness and suppleness with magnanimity. The mountain where Pine Brushing Gate is situated is home to many majestic pines, perhaps influencing the sect's teachings. Whether instructing disciples in martial arts or guiding them in life, they are expected to embody the upright resilience of pine and cypress‑never submitting nor arrogant. (This sect cannot ascend to become a Sect Leader.)"
+- raw: "40028#岭花谷#4#0#0#岭花谷#位于北地山谷之中，作为门派并不爱参与江湖纷争，但却鼓励谷内弟子悬壶济世，行医救人。是江湖上颇具盛名的医道势力，谷内弟子皆潜心修习医术，时常出谷救济百姓。（此门派无法晋升为掌门）#39 (2)#0#"
   splits:
   - split: 1
     text: "岭花谷"
@@ -1455,8 +1455,8 @@
     text: "岭花谷"
     translated: "Ridge Flower Valley"
   - split: 6
-    text: "位于北地山谷之中，作为门派并不爱参与江湖纷争，但却鼓励谷内弟子悬壶济世，行医救人。是江湖上颇具盛名的医道势力，谷内弟子皆潜心修习医术，时常出谷救济百姓。"
-    translated: "Located in the valley of North Mountain, this sect is not fond of participating in Jianghu conflicts but encourages its disciples within the valley to use their skills for the good of others and provide medical aid. It is well‑known throughout the Jianghu as a formidable force in the medical arts, with all its disciples dedicatedly practicing medicine and often venturing out from the valley to assist common people."
+    text: "位于北地山谷之中，作为门派并不爱参与江湖纷争，但却鼓励谷内弟子悬壶济世，行医救人。是江湖上颇具盛名的医道势力，谷内弟子皆潜心修习医术，时常出谷救济百姓。（此门派无法晋升为掌门）"
+    translated: "Located in the mountain valley of the Northern Regions, this sect does not engage in Jianghu disputes but encourages its disciples within the valley to hang a wine pot for the world and practice healing. Renowned across the Jianghu as a formidable force in medicine, all disciples in the valley dedicate themselves to mastering medical arts and frequently venture out of the valley to aid commoners. (This sect cannot ascend to become a Sect Leader.)"
 - raw: "40031#狂刀绝剑门#4#0#0#狂刀绝剑门#狂刀绝剑门，源起于荒古，岁月难计其年，狂刀门与绝剑门同源，因隙而分。狂刀门许鸿煊，施傲寒六诀，曾威震江湖。绝剑门，至宝“绝尘剑”就在其掌门手上，一剑绝尘，万影无痕。在争执了几百年后，狂刀门绝剑门放下争端，化干戈为玉帛，合为一派#30#4003101#"
   splits:
   - split: 1
@@ -1479,7 +1479,7 @@
   - split: 6
     text: "燕国内的镖局，在燕国内伫立已有百余年。"
     translated: "The Yankuo Long Distance Transport Company has been standing in the Yan Kingdom for over a hundred years."
-- raw: "40037#爻光谷#4#0#0#爻光谷#尧光谷自建谷以来便不喜江湖纷争，于普贤寺外偏安一偶。擅长手上功夫。门中修炼需看云舒云卷，观潮起潮落，修炼至高深处更需赏星河流转，见日月万千。自从闻人骏年接手掌门谷主之后对于管理愈加松散，常由太上长老典文君代为管理。#42#0#"
+- raw: "40037#爻光谷#4#0#0#爻光谷#尧光谷自建谷以来便不喜江湖纷争，于普贤寺外偏安一偶。擅长手上功夫。门中修炼需看云舒云卷，观潮起潮落，修炼至高深处更需赏星河流转，见日月万千。自从闻人骏年接手掌门谷主之后对于管理愈加松散，常由太上长老典文君代为管理。（此门派无法晋升为掌门）#42#0#"
   splits:
   - split: 1
     text: "爻光谷"
@@ -1488,9 +1488,9 @@
     text: "爻光谷"
     translated: "Light of Divination Valley"
   - split: 6
-    text: "尧光谷自建谷以来便不喜江湖纷争，于普贤寺外偏安一偶。擅长手上功夫。门中修炼需看云舒云卷，观潮起潮落，修炼至高深处更需赏星河流转，见日月万千。自从闻人骏年接手掌门谷主之后对于管理愈加松散，常由太上长老典文君代为管理。"
-    translated: "Yao Guanggu has never enjoyed Jianghu conflicts since its founding and chooses to reside outside the Pu Xian Temple. It excels in martial arts. Within the school, cultivation requires observing clouds as they open and close, watching tides rise and fall. As one reaches higher levels of cultivation, it is necessary to appreciate the movement of the Milky Way and witness the myriad suns and moons. Since Yong Ren Jun took over as Sect Leader, management has become increasingly relaxed, often with Tai Shang Elder Cen Wenjun stepping in to handle affairs."
-- raw: "40038#福兴镖局#4#0#0#福兴镖局#齐国境内最大的镖局，短短几年之内便从默默无闻到风头无两，据闻是招收了绿林之中数名武功高强的英雄好汉，行镖脚程极快，且极其熟悉各路地形。兴许是镖师都曾混迹武林，时常穿梭在隐秘小道之中，且行镖常有江湖人士相助，故从未有人劫镖成功。#43#0#"
+    text: "尧光谷自建谷以来便不喜江湖纷争，于普贤寺外偏安一偶。擅长手上功夫。门中修炼需看云舒云卷，观潮起潮落，修炼至高深处更需赏星河流转，见日月万千。自从闻人骏年接手掌门谷主之后对于管理愈加松散，常由太上长老典文君代为管理。（此门派无法晋升为掌门）"
+    translated: "Since its founding, Yao Guanggu has avoided involvement in Jianghu disputes and has remained a small, secluded establishment near Putiexing Temple. It specializes in hand techniques. Cultivation within the sect requires observing the unfolding and retracting of clouds, watching the ebb and flow of tides, and at higher levels, appreciating the movement of starry skies and witnessing the myriad suns and moons. Since Yunjun Ruan took over as Sect Leader, management has become more lax, with Tai Shang Elder Zhenwen Jun often stepping in to manage affairs (this sect cannot promote a leader)."
+- raw: "40038#福兴镖局#4#0#0#福兴镖局#齐国境内最大的镖局，短短几年之内便从默默无闻到风头无两，据闻是招收了绿林之中数名武功高强的英雄好汉，行镖脚程极快，且极其熟悉各路地形。兴许是镖师都曾混迹武林，时常穿梭在隐秘小道之中，且行镖常有江湖人士相助，故从未有人劫镖成功。（此门派无法晋升为掌门）#43#0#"
   splits:
   - split: 1
     text: "福兴镖局"
@@ -1499,9 +1499,9 @@
     text: "福兴镖局"
     translated: "Great Prosperity Escort Agency"
   - split: 6
-    text: "齐国境内最大的镖局，短短几年之内便从默默无闻到风头无两，据闻是招收了绿林之中数名武功高强的英雄好汉，行镖脚程极快，且极其熟悉各路地形。兴许是镖师都曾混迹武林，时常穿梭在隐秘小道之中，且行镖常有江湖人士相助，故从未有人劫镖成功。"
-    translated: "The largest escort company within the Qi Kingdom rapidly rose from obscurity to prominence in just a few years. It is said that they recruited several highly skilled martial heroes from the Green Forest. Their pace is incredibly fast, and they are extremely familiar with various terrains. Perhaps because the escorts have been involved in the Martial World, frequently traversing hidden paths, and often receive assistance from figures within the Jianghu, no one has ever succeeded in robbing their escort."
-- raw: "40039#云川镖局#4#0#0#云川镖局#楚国境内最大的镖局，建立数年来行镖无数，鲜有失镖，底蕴深厚，财大气粗，在淮陵中可谓是家喻户晓。同官府关系匪浅，打点各条通路都十分方便。镖师们皆善水，在水路之上大有门路，故常被云潇山庄聘请护送商船。#44#0#"
+    text: "齐国境内最大的镖局，短短几年之内便从默默无闻到风头无两，据闻是招收了绿林之中数名武功高强的英雄好汉，行镖脚程极快，且极其熟悉各路地形。兴许是镖师都曾混迹武林，时常穿梭在隐秘小道之中，且行镖常有江湖人士相助，故从未有人劫镖成功。（此门派无法晋升为掌门）"
+    translated: "The largest escort service within the Qi Kingdom rapidly rose from obscurity to prominence in just a few years. Rumors suggest it recruited several highly skilled martial heroes from the underworld. Their escorts are notably fast and extremely familiar with various terrains. Perhaps because the couriers often mingled within the martial world, frequently traversing secret paths, and had the assistance of individuals from the Jianghu on their missions, no one has ever successfully robbed them. (This sect cannot become a Sect Leader.)"
+- raw: "40039#云川镖局#4#0#0#云川镖局#楚国境内最大的镖局，建立数年来行镖无数，鲜有失镖，底蕴深厚，财大气粗，在淮陵中可谓是家喻户晓。同官府关系匪浅，打点各条通路都十分方便。镖师们皆善水，在水路之上大有门路，故常被云潇山庄聘请护送商船。#44#4004401#"
   splits:
   - split: 1
     text: "云川镖局"

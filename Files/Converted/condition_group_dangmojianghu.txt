@@ -1,0 +1,780 @@
+- raw: "600101#19#1#281.152802,228.295319,82.3461456,3#600101#前往十二连环坞#0##600101#####400001##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往十二连环坞"
+    translated: "Head to the Twelve‑linked Fortress"
+- raw: "600102#5#1#2|3|4#600101#击杀心魔入体的武者#0#600101#600102#####400002##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "击杀心魔入体的武者"
+    translated: "A martial artist who has vanquished the inner demon within their body."
+- raw: "600201#19#1#282.433197,223.615555,34.7712212,3#600201#找到小师妹#0##600201#####400003##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "找到小师妹"
+    translated: "Find Little Junior Sister"
+- raw: "600202#1#1#17509987#600201#与小师妹交谈#0#600201#600202#####400004##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "与小师妹交谈"
+    translated: "Conversing with the young junior sister"
+- raw: "600203#19#1#353.572327,247.911865,23.0842838,3#600201#前往后院#0#600202#600203#####400005##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往后院"
+    translated: "Go to the backyard"
+- raw: "600204#5#1#6|7|8|9|10#600201#击杀心魔入体的武者头目#0#600203#600204#####400006##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "击杀心魔入体的武者头目"
+    translated: "The head of warriors who have slain inner demons and absorbed them into their bodies."
+- raw: "600205#19#1#333.221802,248.631027,16.9437656,5#600201#前往石桌#0#600204#600205#####400007##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往石桌"
+    translated: "Go to the Stone Table"
+- raw: "600206#1#1#17509936#600201#与小师妹交谈#0#600205#600206#####400008##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "与小师妹交谈"
+    translated: "Conversing with the young junior sister"
+- raw: "600207#1#1#17509930#600201#在背包内查看书信#0#600206#0#####400009##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "在背包内查看书信"
+    translated: "Check the letter in your backpack"
+- raw: "600208#1#1#17509913#600201#与小师妹交谈#0#600207#600208####600005|1#400010##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "与小师妹交谈"
+    translated: "Conversing with the young junior sister"
+- raw: "600301#13#1#5#600301#休整好后同小师妹出发#0##600301#####400011##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "休整好后同小师妹出发"
+    translated: "After resting, set off with Little Junior Sister."
+- raw: "600302#19#1#288.596191,265.162781,301.344879,3#600301#前往砚溪山庄#0#600301#600302#####400012##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往砚溪山庄"
+    translated: "Heading to Ink Stream Mountain Villa"
+- raw: "600401#19#1#284.555328,261.596924,312.697723,3#600401#穿过外围区域#0##600401#####400013##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "穿过外围区域"
+    translated: "Pass through the outer area"
+- raw: "600402#19#1#296.84024,254.890091,336.275421,3#600401#进入砚溪山庄#0#600401#600402#####400014##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "进入砚溪山庄"
+    translated: "Entering Ink Stream Mountain Villa"
+- raw: "600403#1#1#17509822#600401#回答第一问#0#600402#600403#####400015##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "回答第一问"
+    translated: "Answer the first question"
+- raw: "600404#1#1#17509813#600401#回答第二问#0#600403#600404#####400016##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "回答第二问"
+    translated: "Answer the second question"
+- raw: "600405#1#1#17509800#600401#回答第三问#0#600404#0#####400017##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "回答第三问"
+    translated: "Answer the third question"
+- raw: "600501#19#1#304.22525,254.877884,348.078064,3#600501#进入前院#0##600501#####400018##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "进入前院"
+    translated: "Enter the front courtyard"
+- raw: "600502#19#1#295.87817,255.515869,365.889771,3#600501#往深处探索#0#600501#600502#####400019##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "往深处探索"
+    translated: "Explore deeper"
+- raw: "600503#5#1#12|13|75#600501#击败心魔入体的书童#0#600502#600503#####400020##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "击败心魔入体的书童"
+    translated: "The book boy who overcame the inner demon that possessed him."
+- raw: "600504#19#1#377.329285,253.237,310.322266,3#600501#面见公输弘#0#600503#600504#####400021##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "面见公输弘"
+    translated: "Meet Gong Shouhuang"
+- raw: "600505#1#1#17509708#600501#与公输弘交谈#0#600504#600505#####400022##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "与公输弘交谈"
+    translated: "Speaking with Gongzhu Hong"
+- raw: "600506#16#1#16#600501#击败心魔入体的公输弘#0#600505#600506#####400023##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "击败心魔入体的公输弘"
+    translated: "Huang Gongfu, who has conquered the inner demon and incorporated it into his body."
+- raw: "600507#16#1#17#600501#击败魔化的公输弘#0#600506#600507####34017|1#400024##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "击败魔化的公输弘"
+    translated: "Defeat the demonized Gongshu Hong"
+- raw: "600601#1#1#17509635#600601#与恢复清明的公输弘对话#0##0####600004|1#400025##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "与恢复清明的公输弘对话"
+    translated: "Speaking with Brother Gongshu Hong about restoring clarity."
+- raw: "600602#19#1#407.238129,253.285492,359.649719,3#600601#离开砚溪山庄#0#600601#600602#####400026##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "离开砚溪山庄"
+    translated: "Leaving the Ink Stream Mountain Villa"
+- raw: "600701#19#1#409.368988,253.93161,359.380371,3#600701#前往丐门#0##600701#####400027##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往丐门"
+    translated: "Heading to the Beggar Sect"
+- raw: "600702#19#1#512.608398,251.874496,408.279266,3#600701#探索丐门外围#0#600701#600702#####400028##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "探索丐门外围"
+    translated: "Exploring the outskirts of the Beggar Sect"
+- raw: "600703#19#1#548.765869,253.077667,450.33667,3#600701#前往战斗发生的地方#0#600702#600703#####400029##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往战斗发生的地方"
+    translated: "Proceed to the location where the battle occurred."
+- raw: "600801#5#1#19|20|77|78|79#600801#击杀心魔入体的丐门弟子#0##600801#####400030##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "击杀心魔入体的丐门弟子"
+    translated: "A disciple of the Beggar Sect who has killed the Inner Demons that entered their body."
+- raw: "600802#19#1#539.436523,251.961136,424.916199,3#600801#前往丐门总舵#0#600801#600802#####400031##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往丐门总舵"
+    translated: "Head to the Beggar Sect's headquarters"
+- raw: "600803#19#1#548.700256,254.26358,404.449219,3#600801#进入丐门总舵#0#600802#600803#####400032##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "进入丐门总舵"
+    translated: "Entering the main headquarters of the Beggar Sect."
+- raw: "600804#5#1#22|23#600801#击杀心魔入体的丐门精英弟子#0#600803#600804#####400033##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "击杀心魔入体的丐门精英弟子"
+    translated: "Slaying a Beggar Sect elite disciple possessed by the Inner Demon."
+- raw: "600805#19#1#580.696289,258.142761,392.520264,3#600801#进入丐门总舵大殿#0#600804#600805#####400034##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "进入丐门总舵大殿"
+    translated: "Entering the main hall of the Beggar Sect's headquarters."
+- raw: "600806#1#1#17509426#600801#与洪峰对话#0#600805#600806#####400035##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "与洪峰对话"
+    translated: "Talking to Hong Feng"
+- raw: "600901#16#1#24#600901#击败心魔入体的洪峰#0##600901#####400036##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "击败心魔入体的洪峰"
+    translated: "Hong Feng, who has mastered defeating inner demons within his body."
+- raw: "600902#16#1#25#600901#击败魔化的洪峰#0#600901#600902#####400037##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "击败魔化的洪峰"
+    translated: "Defeat the demonized tidal waves"
+- raw: "600903#1#1#17509324#600901#与恢复清明的洪峰对话#0#600902#0####34215|1#400038##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "与恢复清明的洪峰对话"
+    translated: "Converse with Brother Hong regarding the restoration of clarity."
+- raw: "600904#19#1#596.342773,270.455505,404.636475,3#600901#离开丐门总舵#0#600903#600904#####400039##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "离开丐门总舵"
+    translated: "Leaving the headquarters of the Beggar Sect"
+- raw: "601001#19#1#1056.44421,255.193207,681.658875,3#601001#前往神兵山庄#0##601001#0#0###400040##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "前往神兵山庄"
+    translated: "Heading to Divine Weapon Mountain Villa"
+- raw: "601002#19#1#1075.19971,256.839386,668.154907,3#601001#获取线索#0#601001#601002#0#0###400041##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "获取线索"
+    translated: "Gather clues"
+- raw: "601003#19#1#1093.86829,259.563843,662.669189,3#601001#前往动静产生地#0#601002#601003#0#0###400042##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "前往动静产生地"
+    translated: "Proceed to the location where activity has occurred."
+- raw: "601101#5#1#26|80|81|82|83#601101#击杀心魔入体的铁匠#0##0#0#0###400043##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "击杀心魔入体的铁匠"
+    translated: "The blacksmith who killed the inner demon that had possessed him."
+- raw: "601102#13#1#27#601101#解决被困工匠#0#601101#601102#0#0###400044##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "解决被困工匠"
+    translated: "Rescue the trapped craftsmen"
+- raw: "601103#19#1#1094.76868,251.693283,638.924866,3#601101#穿过外围区域#0#601102#601103#0#0###400045##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "穿过外围区域"
+    translated: "Pass through the outer area"
+- raw: "601104#19#1#1130.74292,250.645996,642.968079,3#601101#前往主锻造场#0#601103#0#0#0###400046##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "前往主锻造场"
+    translated: "Proceed to the main forge area"
+- raw: "601105#19#1#1148.56067,235.772995,677.83075,3#601101#找到聂疯#0#601104#601105#0#0###400047##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "找到聂疯"
+    translated: "Find Nie Feng"
+- raw: "601106#1#1#17509186#601101#与聂疯对话#0#601105#601106#0#0###400048##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "与聂疯对话"
+    translated: "Talking to Nie Feng"
+- raw: "601201#16#1#32#601201#击败心魔入体的聂疯#0##601201#0#0###400049##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "击败心魔入体的聂疯"
+    translated: "Nei Feng, who had conquered and incorporated the Inner Demon within his body."
+- raw: "601202#16#1#84#601201#击败心魔入体的聂疯#0#601201#601202#0#0##34500|1#400050##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "击败心魔入体的聂疯"
+    translated: "Nei Feng, who had conquered and incorporated the Inner Demon within his body."
+- raw: "601203#1#1#17509067#601201#与恢复清明的聂疯对话#0#601202#0#0#0##600004|1&600002|1#400051##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "与恢复清明的聂疯对话"
+    translated: "Dialogue with Nie Feng as he regains clarity."
+- raw: "601204#19#1#1131.46753,278.453735,648.594543,3#601201#离开神兵山庄#0#601203#601204#0#0###400052##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "离开神兵山庄"
+    translated: "Leaving the Divine Weapon Mountain Villa"
+- raw: "601301#19#1#1469.71472,250.099792,606.535156,3#601301#前往嵩室山#0##601301#####400053##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往嵩室山"
+    translated: "Travel to Songshi Mountain"
+- raw: "601302#19#1#1500.52039,252.489014,606.447998,3#601301#探索外围#0#601301#601302#####400054##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "探索外围"
+    translated: "Exploring the periphery"
+- raw: "601303#19#1#1518.104,251.806549,606.403809,3#601301#进入寺庙#0#601302#601303#####400055##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "进入寺庙"
+    translated: "Enter the temple"
+- raw: "601304#5#1#33|34|35|85|86|87#601301#击杀心魔入体的僧人#0#601303#601304#####400056##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "击杀心魔入体的僧人"
+    translated: "The monk who kills the inner demon within."
+- raw: "601401#19#1#1528.17212,256.249817,606.556702,3#601401#进入寺庙#0##601401#####400057##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "进入寺庙"
+    translated: "Enter the temple"
+- raw: "601402#5#1#36|37|38|39#601401#击杀心魔入体的护法僧人#0#601401#601402#####400058##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "击杀心魔入体的护法僧人"
+    translated: "The monk protector who slays inner demons upon entering one's body."
+- raw: "601403#19#1#1546.6239,258.013275,606.479858,3#601401#进入大殿#0#601402#601403#####400059##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "进入大殿"
+    translated: "Enter the Grand Hall"
+- raw: "601404#1#1#17508922#601401#与阎法禅师对话#0#601403#601404#####400060##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "与阎法禅师对话"
+    translated: "Speaking with Zen Master Yan Fa"
+- raw: "601501#16#1#40#601501#击败心魔入体的阎法禅师#0##601501#####400061##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "击败心魔入体的阎法禅师"
+    translated: "The Zen Master Yan defeated the inner demon that had entered his body."
+- raw: "601502#16#1#98#601501#击败心魔入体的阎法禅师#0#601501#601502####34327|1#400062##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "击败心魔入体的阎法禅师"
+    translated: "The Zen Master Yan defeated the inner demon that had entered his body."
+- raw: "601503#1#1#17508896#601501#与恢复清明的阎法禅师对话#0#601502#0####600004|1#400063##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "与恢复清明的阎法禅师对话"
+    translated: "Talking with the Zen Master Yan, who restores clarity."
+- raw: "601504#19#1#1562.95483,270.90921,606.559753,3#601501#离开嵩室山#0#601503#601504#####400064##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "离开嵩室山"
+    translated: "Leaving Songshi Mountain"
+- raw: "601601#19#1#1654.81506,322.713959,1499.14331,3#601601#前往昭月宗#0##601601#####400065##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往昭月宗"
+    translated: "Go to the Bright Moon Clan"
+- raw: "601602#19#1#1658.41846,331.139069,1527.21228,3#601601#进入昭月宗#0#601601#601602#####400066##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "进入昭月宗"
+    translated: "Enter the Bright Moon Clan"
+- raw: "601603#19#1#1648.66235,331.114868,1541.04553,3#601601#探索昭月宗#0#601602#601603#####400067##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "探索昭月宗"
+    translated: "Exploring the Bright Moon Clan"
+- raw: "601604#1#1#17508744#601601#帮助玉玲珑#0#601603#0#####400068##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "帮助玉玲珑"
+    translated: "Help Yu Linglong"
+- raw: "601605#1#1#17508706#601601#回答游逸的三个问题#0#601604#0#####400069##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "回答游逸的三个问题"
+    translated: "Respond to Ye Yu's three questions"
+- raw: "601606#19#1#1628.37268,327.776733,1413.23999,3#601601#前往雁州#0#601605#601606#####400070##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往雁州"
+    translated: "Heading to Yan Prefecture"
+- raw: "601701#19#1#1611.677,261.650604,1046.38232,3#601701#前往雁州#0##601701#####400071##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往雁州"
+    translated: "Heading to Yan Prefecture"
+- raw: "601702#19#1#1550.47632,262.000549,1023.91895,3#601701#进入雁州#0#601701#601702#####400072##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "进入雁州"
+    translated: "Entering Yan Prefecture"
+- raw: "601703#13#1#46#601701#救助病患大娘#0#601702#601703#####400073##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "救助病患大娘"
+    translated: "Assisting the sick aunt"
+- raw: "601704#13#1#47#601701#救助病患少年#0#601703#601704#####400074##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "救助病患少年"
+    translated: "Assisting the young patient in need of help."
+- raw: "601705#13#1#48#601701#救助病患大叔#0#601704#601705#####400075##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "救助病患大叔"
+    translated: "Auntie who assists sick patients"
+- raw: "601706#13#1#49#601701#救助病患老者#0#601705#601706#####400076##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "救助病患老者"
+    translated: "Assisting sick elderly patients"
+- raw: "601707#13#1#50#601701#救助病患孩童#0#601706#601707#####400077##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "救助病患孩童"
+    translated: "Assisting sick children in need of medical care."
+- raw: "601708#13#1#88#601701#给病患喂药#0#601707#601708#####400078##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "给病患喂药"
+    translated: "Feed medicine to the patient"
+- raw: "601709#19#1#1543.53906,262.984894,1004.60999,3#601701#休息片刻#0#601708#601709#####400079##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "休息片刻"
+    translated: "Take a moment to rest"
+- raw: "601710#19#1#1550.45142,262.000549,1019.83563,3#601701#查看病患状况#0#601709#601710#####400080##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "查看病患状况"
+    translated: "Check on the patient's condition"
+- raw: "601711#19#1#1593.80176,262.000549,1046.44739,3#601701#离开雁州城#0#601710#601711#####400081##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "离开雁州城"
+    translated: "Leaving Yan Prefecture"
+- raw: "601712#1#1#17508484#601701#观察情况#0#601711#0#####400082##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "观察情况"
+    translated: "Assess the situation"
+- raw: "601713#1#1#17508420#601701#告别#0#601712#0####34212|1#400083##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "告别"
+    translated: "Farewell"
+- raw: "601714#19#1#1642.82959,262.651367,1145.28223,3#601701#离开雁州城#0#601713#601714#####400084##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "离开雁州城"
+    translated: "Leaving Yan Prefecture"
+- raw: "601801#19#1#1569.35364,340.807922,1532.5675#601801#前往昭月宗#0##601801#####400085##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往昭月宗"
+    translated: "Go to the Bright Moon Clan"
+- raw: "601802#1#1#17508312#601801#与游逸辩论#0#601801#601802#####400086##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "与游逸辩论"
+    translated: "Engaging in a debate with Yue Yi"
+- raw: "601803#16#1#41#601801#击败心魔入体的游逸#0#601802#601803#####400087##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "击败心魔入体的游逸"
+    translated: "You Yi defeats the inner demon that has entered his body."
+- raw: "601804#16#1#89#601801#击败心魔入体的游逸#0#601803#601804####34011|1#400088##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "击败心魔入体的游逸"
+    translated: "You Yi defeats the inner demon that has entered his body."
+- raw: "601805#1#1#17508177#601801#与恢复清明的游逸对话#0#601804#0####600004|1#400089##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "与恢复清明的游逸对话"
+    translated: "Speaking with Youyi, who has restored clarity"
+- raw: "601806#19#1#1515.3584,333.778992,1536.2146,3#601801#离开昭月宗#0#601805#601806#####400090##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "离开昭月宗"
+    translated: "Leaving the Bright Moon Clan"
+- raw: "601901#19#1#932.2099,517.784851,2027.91919,3#601901#前往大雪山#0##601901#####400091##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往大雪山"
+    translated: "Heading to the Great Snow Mountain"
+- raw: "601902#19#1#939.680481,517.743958,1979.24622,3#601901#探查前方#0#601901#601902#####400092##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "探查前方"
+    translated: "Reconnoiter ahead"
+- raw: "602001#19#1#898.989014,564.61084,1916.5481,3#602001#找到扫地僧留下的线索#0##602001#####400093##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "找到扫地僧留下的线索"
+    translated: "Found the clues left by the beggar‑sweeping monk."
+- raw: "602002#19#1#786.084534,490.609467,1930.07349,3#602001#前往山顶小庙#0#602001#602002#####400094##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往山顶小庙"
+    translated: "Go to the temple on the mountain peak."
+- raw: "602003#19#1#715.646484,429.482697,1814.23059,3#602001#前往山顶小庙#0#602002#602003#####400095##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往山顶小庙"
+    translated: "Go to the temple on the mountain peak."
+- raw: "602004#1#1#17508047#602001#查看异样#0#602003#0#####400096##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "查看异样"
+    translated: "Inspect the anomaly"
+- raw: "602005#13#1#55#602001#与扫地僧对话#0#602004#602005#####400097##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "与扫地僧对话"
+    translated: "Engaging in dialogue with a sweeping monk"
+- raw: "602101#16#1#55#602101#击败心魔入体的扫地僧#0##602101#####400098##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "击败心魔入体的扫地僧"
+    translated: "The broom‑wielding monk who has defeated the inner demon within."
+- raw: "602102#16#1#90#602101#击败心魔入体的扫地僧#0#602101#602102####34205|1#400099##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "击败心魔入体的扫地僧"
+    translated: "The broom‑wielding monk who has defeated the inner demon within."
+- raw: "602103#1#1#17507915#602101#与恢复清明的扫地僧对话#0#602102#0####600004|1#400100##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "与恢复清明的扫地僧对话"
+    translated: "Dialogue with a Sweeper Monk about Restoring Clarity"
+- raw: "602104#19#1#705.217896,419.286774,1707.20459,3#602101#离开大雪山#0#602103#602104#####400101##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "离开大雪山"
+    translated: "Leaving the Great Snow Mountain"
+- raw: "602201#19#1#758.731628,402.736938,1664.9657,3#602201#离开大雪山#0##602201#####400102##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "离开大雪山"
+    translated: "Leaving the Great Snow Mountain"
+- raw: "602202#19#1#679.499268,373.667206,1559.45801,3#602201#前往小镇客栈#0#602201#602202#####400103##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往小镇客栈"
+    translated: "Head to the town inn"
+- raw: "602203#1#1#17507726#602201#休息片刻#0#602202#0#####400104##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "休息片刻"
+    translated: "Take a moment to rest"
+- raw: "602204#19#1#880.953735,354.323395,1316.60095,3#602201#前往太初剑宗#0#602203#602204#####400105##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往太初剑宗"
+    translated: "Heading to the Primordial Origin Sword Sect"
+- raw: "602301#19#1#881.746765,371.45578,1375.68774,3#602301#进入太初剑宗#0##602301#####400106##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "进入太初剑宗"
+    translated: "Enter the Primordial Origin Sword Sect"
+- raw: "602302#16#1#59|91|92|93|94#602301#击败心魔入体的太初剑宗弟子#0#602301#602302#####400107##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "击败心魔入体的太初剑宗弟子"
+    translated: "A disciple of the Primordial Origin Sword Sect who has vanquished the inner demon within them."
+- raw: "602303#1#1#17507692#602301#与太初剑宗弟子交谈#0#602302#0#####400108##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "与太初剑宗弟子交谈"
+    translated: "Talking to a disciple of the Primordial Origin Sword Sect."
+- raw: "602304#19#1#881.773743,370.158234,1415.06812,3#602301#前往内殿#0#602303#602304#####400109##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往内殿"
+    translated: "Proceed to the Inner Chamber"
+- raw: "602305#19#1#881.694885,378.428223,1443.9613,3#602301#前往内殿#0#602304#602305#####400110##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往内殿"
+    translated: "Proceed to the Inner Chamber"
+- raw: "602306#1#1#17507613#602301#与澄道交谈#0#602305#602306#####400111##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "与澄道交谈"
+    translated: "Talk to Zhen Dao"
+- raw: "602401#16#1#60#602401#击败心魔入体的澄道#0##602401#####400112##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "击败心魔入体的澄道"
+    translated: "Defeat the inner demon that has infiltrated the body of the Clear Daoist."
+- raw: "602402#16#1#95#602401#击败心魔入体的澄道#0#602401#602402#####400113##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "击败心魔入体的澄道"
+    translated: "Defeat the inner demon that has infiltrated the body of the Clear Daoist."
+- raw: "602403#1#1#17507559#602401#与恢复清明的澄道对话#0#602402#0####600004|1#400114##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "与恢复清明的澄道对话"
+    translated: "Conversation with Brother Chengdao about restoring clarity"
+- raw: "602404#19#1#848.159424,372.659027,1365.69727,3#602401#离开太初剑宗#0#602403#602404#####400115##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "离开太初剑宗"
+    translated: "Leaving the Primordial Origin Sword Sect"
+- raw: "602501#1#1#17507538#602501#与众人交谈#0##0#####400116##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "与众人交谈"
+    translated: "Engage in conversation with everyone"
+- raw: "602502#19#1#204.931305,224.87088,707.273438,3#602501#前往红玉楼总舵#0#602501#602502#####400117##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往红玉楼总舵"
+    translated: "Proceed to the Red Jade Pavilion Main Branch."
+- raw: "602503#19#1#202.822098,225.882874,734.304626,3#602501#进入红玉楼#0#602502#602503#####400118##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "进入红玉楼"
+    translated: "Enter the Red Jade Hall"
+- raw: "602504#1#1#17507492#602501#与众人交谈#0#602503#0#####400119##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "与众人交谈"
+    translated: "Engage in conversation with everyone"
+- raw: "602505#19#1#232.472565,224.093033,715.966003,3#602501#前往仙洲#0#602504#602505#####400120##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往仙洲"
+    translated: "Head to the Immortal Isle"
+- raw: "602601#19#1#-190.009644,225.991577,33.11483,3#602601#寻找独孤剑道的瑕疵所在#0##602601#####400121##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "寻找独孤剑道的瑕疵所在"
+    translated: "Seeking the flaw in Donggu's swordsmanship"
+- raw: "602602#19#1#-193.071014,225.991577,34.381588,3#602601#寻找独孤剑道的瑕疵所在#0#602601#602602#####400122##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "寻找独孤剑道的瑕疵所在"
+    translated: "Seeking the flaw in Donggu's swordsmanship"
+- raw: "602603#19#1#-171.870987,234.685303,42.0224228,3#602601#前往无声瀑布#0#602602#602603#####400123##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往无声瀑布"
+    translated: "Head to the Silent Waterfall"
+- raw: "602604#19#1#-150.922806,224.117401,-57.2067108,3#602601#前往无影之林#0#602603#602604#####400124##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往无影之林"
+    translated: "Travel to the Forest of No Shadows"
+- raw: "602605#19#1#-128.233,260.896,-15.6977,3#602601#前往山顶#0#602604#602605#####400125##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "前往山顶"
+    translated: "Ascend to the summit"
+- raw: "602606#5#1#66|96#602601#击杀剑傀#0#602605#602606#####400126##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "击杀剑傀"
+    translated: "Eliminate the sword demon"
+- raw: "602607#19#1#-130.935822,261.054596,0.573460758,3#602601#寻找真正的瑕疵#0#602606#602607#####400127##0###0#0#0#0#0#0############"
+  splits:
+  - split: 5
+    text: "寻找真正的瑕疵"
+    translated: "Seeking true flaws"
+- raw: "602608#19#1#-92.9131088,260.896362,-38.1382675,3#602601#前往独孤宗师的居所#0#602607#602608#0#0###400128##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "前往独孤宗师的居所"
+    translated: "Go to the residence of the Dugu Patriarch."
+- raw: "602701#1#1#17507427#602701#与独孤宗师交谈#0##0#0#0###400129##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "与独孤宗师交谈"
+    translated: "Talking to Master Dugu"
+- raw: "602702#16#1#65#602701#击败心魔入体的独孤宗师#0#602701#602702#0#0###400130##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "击败心魔入体的独孤宗师"
+    translated: "A Dukedom Master who has vanquished and embodied the Inner Demon."
+- raw: "602703#16#1#97#602701#击败心魔入体的独孤宗师#0#602702#602703#0#0###400131##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "击败心魔入体的独孤宗师"
+    translated: "A Dukedom Master who has vanquished and embodied the Inner Demon."
+- raw: "602704#1#1#17507377#602701#与恢复清明的独孤宗师对话#0#602703#0#0#0##600004|1&600003|1#400132##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "与恢复清明的独孤宗师对话"
+    translated: "Converse with Master Dugu, the master of clarity restoration."
+- raw: "602705#19#1#-190.009644,225.991577,33.11483,3#602701#返回追月号#0#602704#602705#0#0###400133##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "返回追月号"
+    translated: "Return to Miss Pursue‑the‑Moon"
+- raw: "602706#13#1#64#602701#与公输弘毅交谈#0#602705#602706#0#0###400134##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "与公输弘毅交谈"
+    translated: "Converse with Brother Gong Zhuong‑yi"
+- raw: "602801#19#1#555.329285,279.528473,258.120544,5#602801#前往天上山#0##602801#0#0###400135##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "前往天上山"
+    translated: "Heading to Heavenly Mountain"
+- raw: "602802#1#1#17507329#602801#打开封印#0#602801#0#0#0##600004|7#400136##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "打开封印"
+    translated: "Break the seal"
+- raw: "602901#19#1#581.773376,276.784485,149.002838,3#602901#找到众人#0##602901#0#0###400137##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "找到众人"
+    translated: "Find everyone"
+- raw: "602902#16#1#67#602901#击败心魔入体的林潇雨#0#602901#602902#0#0###400138##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "击败心魔入体的林潇雨"
+    translated: "Lin Xiaoyu, who has overcome the inner demon and integrated it into their being."
+- raw: "602903#19#1#562.024963,279.089081,127.438789,3#602901#找到众人#0#602902#602903#0#0###400139##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "找到众人"
+    translated: "Find everyone"
+- raw: "602904#16#1#68#602901#击败心魔入体的沈雁弓#0#602903#602904#0#0###400140##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "击败心魔入体的沈雁弓"
+    translated: "Shen Yangong, who has conquered the inner demon within his body."
+- raw: "602905#19#1#591.779,276.784,124.603,3#602901#找到众人#0#602904#602905#0#0###400141##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "找到众人"
+    translated: "Find everyone"
+- raw: "602906#16#1#69#602901#击败心魔入体的与玉玲珑#0#602905#602906#0#0###400142##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "击败心魔入体的与玉玲珑"
+    translated: "Defeat the inner demon that has entered your body, and then master the white jade technique."
+- raw: "602907#19#1#574.462,271.652,97.8958,3#602901#找到众人#0#602906#602907#0#0###400143##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "找到众人"
+    translated: "Find everyone"
+- raw: "602908#16#1#70#602901#击败心魔入体的梁潇#0#602907#602908#0#0###400144##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "击败心魔入体的梁潇"
+    translated: "Liang Xiao, who had been defeated by the inner demon within his body."
+- raw: "602909#19#1#535.194,275.868,107.576,3#602901#找到众人#0#602908#602909#0#0###400145##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "找到众人"
+    translated: "Find everyone"
+- raw: "602910#16#1#71#602901#击败心魔入体的吴明#0#602909#602910#0#0###400146##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "击败心魔入体的吴明"
+    translated: "Wu Ming, who has defeated the Inner Demon within his body."
+- raw: "602911#19#1#516.782,277.521,133.198#602901#找到众人#0#602910#602911#0#0###400147##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "找到众人"
+    translated: "Find everyone"
+- raw: "602912#16#1#72#602901#击败心魔入体的杨若水#0#602911#602912#0#0###400148##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "击败心魔入体的杨若水"
+    translated: "Yang Ruoshui, who overcame the inner demon that had possessed him."
+- raw: "603001#19#1#488.845886,283.571564,184.972107,3#603001#前往天上山峰#0##603001#0#0###400149##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "前往天上山峰"
+    translated: "Head to the peak of Heavenly Mountain"
+- raw: "603002#1#1#17507217#603001#与镜无双交谈#0#603001#0#0#0###400150##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "与镜无双交谈"
+    translated: "Talk to Jing Wushuang"
+- raw: "603003#16#1#73#603001#击败镜无双#0#603002#603003#0#0###400151##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "击败镜无双"
+    translated: "Defeat Jing Wushuang"
+- raw: "603101#19#1#532.869995,301.890015,193.082993,3#603101#救出师傅#0##603101#0#0###400152##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "救出师傅"
+    translated: "Rescue Master"
+- raw: "603102#16#1#74#603101#击败心魔入体的段平生#0#603101#603102#0#0###400153##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "击败心魔入体的段平生"
+    translated: "Duan Pingsheng, who has conquered the inner demon within his body."
+- raw: "603103#16#1#99#603101#击败心魔入体的段平生#0#603102#603103#0#0###400154##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "击败心魔入体的段平生"
+    translated: "Duan Pingsheng, who has conquered the inner demon within his body."
+- raw: "603104#1#1#17507133#603101#与恢复清明的段平生对话#0#603103#0#0#0###400155##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "与恢复清明的段平生对话"
+    translated: "Speaking with Brother Duan Pingsheng about restoring clarity."
+- raw: "603105#13#1#99#603101#用九天神剑让段平生解脱#0#603104#603105#0#0###400156##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "用九天神剑让段平生解脱"
+    translated: "Use the Nine Heavens Divine Sword to liberate Duan Pingsheng."

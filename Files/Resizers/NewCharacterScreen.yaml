@@ -190,3 +190,7 @@
   idealFontSize: 20
   alignment: "Left"
   allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/NanDuView/content/moshi/shuxing/bg/*attris/*"
+  sampleText: "Agility<color=#616161><size=#28>(Acquire a significant increase in mobility speed and qinggong enhancement, while also boosting dodge ability.)"
+  idealFontSize: 20
+  allowWordWrap: true

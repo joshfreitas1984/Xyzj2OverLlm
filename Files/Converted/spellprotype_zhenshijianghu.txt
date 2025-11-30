@@ -2506,6 +2506,28 @@
   splits: []
 - raw: "1414#0##0###0#0#1####0#####0#0#0#0#0#100500322#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###0#0#0#0#0##0#0#0#0##0#0#0#0#0.0#0.0#0#0#0#0#0##0###0#0##0.0##0##0#0#"
   splits: []
+- raw: "1415#0##0###0#0#1####0#####0#0#0#0#0#100500341#100500342#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###0#0#0#0#0##0#0#0#0##0#0#0#0#0.0#0.0#0#0#0#0#0##0###0#0##0.0##0##0#0#"
+  splits: []
+- raw: "1416#0##0###0#0#1####0###sfx_buff_hanqi&true&true##0#0#0#0#0#100500344#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###0#0#0#0#0##0#0#0#0##0#0#0#0#0.0#0.0#0#0#0#0#0##0###0#0##0.0##0##0#0#"
+  splits: []
+- raw: "1417#0##0###0#0#1####0#####0#0#0#0#0#100500365#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###0#0#0#0#0##0#0#0#0##0#0#0#0#0.0#0.0#0#0#0#0#0##0###0#0##0.0##0##0#0#"
+  splits: []
+- raw: "1418#0##0###0#0#1####0#####0#0#0#0#0#100500366#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###0#0#0#0#0##0#0#0#0##0#0#0#0#0.0#0.0#0#0#0#0#0##0###0#0##0.0##0##0#0#"
+  splits: []
+- raw: "1419#0##0###0#0#1####0#####0#0#0#0#0#100500367#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###0#0#0#0#0##0#0#0#0##0#0#0#0#0.0#0.0#0#0#0#0#0##0###0#0##0.0##0##0#0#"
+  splits: []
+- raw: "1420#0##0###0#0#1####0#####0#0#0#0#0#100500371#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###0#0#0#0#0##0#0#0#0##0#0#0#0#0.0#0.0#0#0#0#0#0##0###0#0##0.0##0##0#0#"
+  splits: []
+- raw: "1421#0##0###0#0#1####0#####0#0#0#0#0#100500381#100500382#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###0#0#0#0#0##0#0#0#0##0#0#0#0#0.0#0.0#0#0#0#0#0##0###0#0##0.0##0##0#0#"
+  splits: []
+- raw: "1422#0##0###0#0#1####0#####0#0#0#0#0#100500391#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###0#0#0#0#0##0#0#0#0##0#0#0#0#0.0#0.0#0#0#0#0#0##0###0#0##0.0##0##0#0#"
+  splits: []
+- raw: "1423#0##0###0#0#1####0#####0#0#0#0#0#100500401#100500402#100500403#100500404#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###0#0#0#0#0##0#0#0#0##0#0#0#0#0.0#0.0#0#0#0#0#0##0###0#0##0.0##0##0#0#"
+  splits: []
+- raw: "1424#0##0###0#0#1####0#####0#0#0#0#0#100500406#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###0#0#0#0#0##0#0#0#0##0#0#0#0#0.0#0.0#0#0#0#0#0##0###0#0##0.0##0##0#0#"
+  splits: []
+- raw: "1425#0##0###0#0#1####0#####0#0#0#0#0#100500413#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###0#0#0#0#0##0#0#0#0##0#0#0#0#0.0#0.0#0#0#0#0#0##0###0#0##0.0##0##0#0#"
+  splits: []
 - raw: "2001#0#机制技能·空#0#0#jian12#33#0#1#0#0#0#0#0#0#0#0#2#0#0#0#0#0#0#0#0#0#0#0#0#0#0#1#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#1#0#0#0#0#0#0#0#0.0#0.0#0#0#0#0#0#0#0#0##0#0#0#0.5#0#0#0#0#0#"
   splits:
   - split: 2
@@ -23643,7 +23665,7 @@
   - split: 4
     text: "万法化神，万法皆为我所用，我即万法，万法即我。大幅增加各属性数值，巨幅降低受到的伤害，攻击时可震退敌人并且触发血剑效果。"
     translated: "All laws and principles transform into my divine will, all things are at my command. I am the law, and the law is me. Significantly increase various attribute values, greatly reduce damage received. During an attack, enemies can be repelled, and the Blood Sword effect can be triggered"
-- raw: "10050029#0#云岫归山#0#遭逢攻击时，云岫真气乍现，概率溯流归元！战时每息凝一层岫护，五重为极。出手刹那，岫护化虚为实，削敌气血为己盾。纵身陷重围，亦如立危岫之巅——云海不侵，万刃难伤！#xinfa_1020#0#1#0####0#####0#0#0#0#0#100500290#100500292#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###8#0#0#4#0##0#4#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###4#0##0.5##1##0#0#"
+- raw: "10050029#0#云岫归山#0#遭逢攻击时，云岫真气乍现，概率溯流归元！战时每息凝一层岫护，五重为极。出手刹那，岫护化虚为实，削敌气血为己盾。纵身陷重围，亦如立危岫之巅——云海不侵，万刃难伤！#xinfa1246#0#1#0####0#####0#0#0#0#0#100500290#100500292#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###8#0#0#4#0##0#4#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###4#0##0.5##1##0#0#"
   splits:
   - split: 2
     text: "云岫归山"
@@ -23651,7 +23673,7 @@
   - split: 4
     text: "遭逢攻击时，云岫真气乍现，概率溯流归元！战时每息凝一层岫护，五重为极。出手刹那，岫护化虚为实，削敌气血为己盾。纵身陷重围，亦如立危岫之巅——云海不侵，万刃难伤！"
     translated: "Upon being attacked, Yunxu's true qi suddenly manifests, reversing probability to its source and returning to the root! In battle, with each breath, a layer of xiu protection solidifies. At its peak, it forms five layers. In an instant when striking, the xiu protection transforms illusion into reality, converting enemy lifeforce into its own shield. Even if surrounded by enemies, it stands as if atop the perilous peak of Yun Mountain‑unassailable by clouds and impervious to countless blades!"
-- raw: "10050030#0#佩兰入梦#0#兰息拂过之地，皆为醉梦之境！域中敌者命中尽失，步履蹒跚。其欲施狠招，却如狂徒舞剑——稍有不慎便遭反噬，痛击自身！可谓：香漫处，敌骨枯。#xinfa_1023#0#1#0####0#####0#0#0#0#0#100500300#100500302#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###8#0#0#4#0##0#4#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###4#0##0.5##1##0#0#"
+- raw: "10050030#0#佩兰入梦#0#兰息拂过之地，皆为醉梦之境！域中敌者命中尽失，步履蹒跚。其欲施狠招，却如狂徒舞剑——稍有不慎便遭反噬，痛击自身！可谓：香漫处，敌骨枯。#xinfa1247#0#1#0####0#####0#0#0#0#0#100500300#100500302#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###8#0#0#4#0##0#4#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###4#0##0.5##1##0#0#"
   splits:
   - split: 2
     text: "佩兰入梦"
@@ -23659,7 +23681,7 @@
   - split: 4
     text: "兰息拂过之地，皆为醉梦之境！域中敌者命中尽失，步履蹒跚。其欲施狠招，却如狂徒舞剑——稍有不慎便遭反噬，痛击自身！可谓：香漫处，敌骨枯。"
     translated: "Wherever Lan Xi passes, it becomes a realm of intoxicated dreams! Within this domain, an enemy's hit rate is entirely lost and their steps are staggered. If they attempt to use fierce techniques, they resemble madmen wielding swords‑slightly careless, and they risk retaliation, striking themselves with pain! Indeed,: Fragrance lingers where they stand; enemies' bones turn dry."
-- raw: "10050031#0#红袖影缠#0#红袖轻拂间，千针蚀骨无声侵透！敌躯如坠绵密针狱，每瞬皆受剥肤之痛，步履愈沉。层叠至巅峰时，纵是铁汉亦骨酥血竭，恍若残烛立于风中——袖影所及，便是生死界限。#xinfa_1021#0#1#0####0#####0#0#0#0#0#100500310#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###8#0#0#4#0##0#4#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###4#0##0.5##1##0#0#"
+- raw: "10050031#0#红袖影缠#0#红袖轻拂间，千针蚀骨无声侵透！敌躯如坠绵密针狱，每瞬皆受剥肤之痛，步履愈沉。层叠至巅峰时，纵是铁汉亦骨酥血竭，恍若残烛立于风中——袖影所及，便是生死界限。#xinfa1248#0#1#0####0#####0#0#0#0#0#100500310#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###8#0#0#4#0##0#4#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###4#0##0.5##1##0#0#"
   splits:
   - split: 2
     text: "红袖影缠"
@@ -23667,7 +23689,7 @@
   - split: 4
     text: "红袖轻拂间，千针蚀骨无声侵透！敌躯如坠绵密针狱，每瞬皆受剥肤之痛，步履愈沉。层叠至巅峰时，纵是铁汉亦骨酥血竭，恍若残烛立于风中——袖影所及，便是生死界限。"
     translated: "With a gentle brush of her red sleeve, thousands of needles silently pierce and seep through the bones! The enemy's body is as if plummeting into a dense prison of needles, feeling excruciating pain with each passing moment, making every step heavier. At its peak, even an iron‑strong man would become boneless and blood‑depleted‑like a flickering wick standing in the wind. Wherever her sleeve reaches, it becomes the boundary between life and death."
-- raw: "10050032#0#尘烟渡火#0#身陷重围便是机缘开端！每次受创皆积一层「苦业」。若苦业盈满或命如残烛，即刻触发「尘烟渡火」——业火焚体却涅槃重生，三秒内金身不坏，万法莫侵！绝境即是你反戈一击的号角。#xinfa_1022#0#1#0####0#####0#0#0#0#0#100500320#100500323#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###8#0#0#4#0##0#4#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###4#0##0.5##1##0#0#"
+- raw: "10050032#0#尘烟渡火#0#身陷重围便是机缘开端！每次受创皆积一层「苦业」。若苦业盈满或命如残烛，即刻触发「尘烟渡火」——业火焚体却涅槃重生，三秒内金身不坏，万法莫侵！绝境即是你反戈一击的号角。#xinfa1249#0#1#0####0#####0#0#0#0#0#100500320#100500323#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###8#0#0#4#0##0#4#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###4#0##0.5##1##0#0#"
   splits:
   - split: 2
     text: "尘烟渡火"
@@ -23675,7 +23697,7 @@
   - split: 4
     text: "身陷重围便是机缘开端！每次受创皆积一层「苦业」。若苦业盈满或命如残烛，即刻触发「尘烟渡火」——业火焚体却涅槃重生，三秒内金身不坏，万法莫侵！绝境即是你反戈一击的号角。"
     translated: "Being surrounded by enemies is the beginning of opportunity! Each time you are wounded, it accumulates a layer of 'karmic suffering.' When this karmic suffering reaches its capacity or when your life is like a flickering candle, it immediately triggers 'Smoke and Ashes Crossfire'‑a consuming fire that allows rebirth through Nirvana. Within three seconds, the golden body remains unharmed, impervious to all. The dire situation becomes your trumpet call for a counterstrike!"
-- raw: "10050033#0#万川映月#0#一击之下，万川映月！道法自然、佛慈悲念、儒正气节，皆随劲力奔涌而出。敌所承非刃锋之利，而是三教学问之重压——如千江明月倾天而降，避无可避，挡无可挡！#xinfa_1024#0#1#0####0#####0#0#0#0#0#100500330#100500333#100500335#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###8#0#0#4#0##0#4#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###4#0##0.5##1##0#0#"
+- raw: "10050033#0#万川映月#0#一击之下，万川映月！道法自然、佛慈悲念、儒正气节，皆随劲力奔涌而出。敌所承非刃锋之利，而是三教学问之重压——如千江明月倾天而降，避无可避，挡无可挡！#xinfa1250#0#1#0####0#####0#0#0#0#0#100500330#100500333#100500335#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###8#0#0#4#0##0#4#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###4#0##0.5##1##0#0#"
   splits:
   - split: 2
     text: "万川映月"
@@ -23683,6 +23705,70 @@
   - split: 4
     text: "一击之下，万川映月！道法自然、佛慈悲念、儒正气节，皆随劲力奔涌而出。敌所承非刃锋之利，而是三教学问之重压——如千江明月倾天而降，避无可避，挡无可挡！"
     translated: "With a single strike, it reflects the moon on ten thousand streams! The way of nature, Buddhist compassion and thoughtfulness, Confucian integrity and morality‑all surge forth with powerful force. It is not merely the edge of the blade that overwhelms; rather, it's the profound weight of the teachings of the three doctrines‑like a sky‑falling tide of clear moonlight upon a thousand rivers, there is nowhere to avoid, nothing to block!"
+- raw: "10050034#0#玉女心经#0#战起时身法缥缈如烟，每秒积攒闪避之势与至阴真气，九十重天圆满时几近无影。濒危则爆发玄冰劲，周身时空凝滞，敌皆化冰雕！然天地法则所限，此神迹三百息方得一见，乃绝境翻盘之秘钥。#xinfa1251#0#1#0####0#####0#0#0#0#0#100500340#100500343#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###8#0#0#4#0##0#4#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###4#0##0.5##1##0#0#"
+  splits:
+  - split: 2
+    text: "玉女心经"
+    translated: "Jade Maiden Heart Scripture"
+  - split: 4
+    text: "战起时身法缥缈如烟，每秒积攒闪避之势与至阴真气，九十重天圆满时几近无影。濒危则爆发玄冰劲，周身时空凝滞，敌皆化冰雕！然天地法则所限，此神迹三百息方得一见，乃绝境翻盘之秘钥。"
+    translated: "In combat, their agility is ethereal like mist; every second they accumulate dodge momentum and profound yin true qi. At the culmination of ninety layers of heaven, it appears nearly intangible. On the brink of peril, they unleash a mystical ice force, causing space around them to freeze solid, turning enemies into icy statues! However, bound by the laws of heaven and earth, this miracle is witnessed only once every three hundred breaths, serving as the secret key for turning the tables in dire situations."
+- raw: "10050035#0#怀璧归宗#0#运功者如怀亘古宝玉，受击时肌骨绽开琉璃青莲，削两成杀伐之力。更将半额伤痛裹挟莲瓣倒卷而还，似有玉匠怨魂挟璧反扑。敌若强攻，必见己身血痕如雕花篆刻，正是“怀璧招劫，归宗返孽”之象。#xinfa1252#0#1#0####0#####0#0#0#0#0#100500350#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###8#0#0#4#0##0#4#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###4#0##0.5##1##0#0#"
+  splits:
+  - split: 2
+    text: "怀璧归宗"
+    translated: "Return the jade to its ancestral home"
+  - split: 4
+    text: "运功者如怀亘古宝玉，受击时肌骨绽开琉璃青莲，削两成杀伐之力。更将半额伤痛裹挟莲瓣倒卷而还，似有玉匠怨魂挟璧反扑。敌若强攻，必见己身血痕如雕花篆刻，正是“怀璧招劫，归宗返孽”之象。"
+    translated: "The cultivator with the Ancient Jade Treasure, upon being struck, sees their bones split open to reveal azure lotus jade stones that carve two sharp blades of killing intent. They then gather the injured half of their forehead, wrapped by the petals and rolling them back as if a jade artisan's resentful spirit has seized the jade disc in retaliation. Should an enemy attack forcefully, they will see blood stains on their body resembling engraved carvings, embodying the manifestation of holding a treasure disc invites calamity; returning to one's roots brings vengeance."
+- raw: "10050036#0#紫微帝辉#0#身覆紫微帝辉，战意滔天：受创越深，星冕护体愈坚，杀伐之力愈烈！濒死之际帝星觉醒，每滴鲜血皆化噬敌獠牙，掠取生机反补己身。天若压我，便以倾天之势逆伐星穹，喋血之地即是帝座重生之时！#xinfa1253#0#1#0####0#####0#0#0#0#0#100500360#100500361#100500362#100500363#100500364#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###8#0#0#4#0##0#4#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###4#0##0.5##1##0#0#"
+  splits:
+  - split: 2
+    text: "紫微帝辉"
+    translated: "Zi Wei Di Hui"
+  - split: 4
+    text: "身覆紫微帝辉，战意滔天：受创越深，星冕护体愈坚，杀伐之力愈烈！濒死之际帝星觉醒，每滴鲜血皆化噬敌獠牙，掠取生机反补己身。天若压我，便以倾天之势逆伐星穹，喋血之地即是帝座重生之时！"
+    translated: "Clothed in celestial purple, his battle intentions as vast as the heavens: The deeper the wound, the stronger the star crown armor becomes; the more intense the force of destruction grows. On the brink of death, when the Star Emperor awakens, every drop of fresh blood transforms into a fang to devour enemies and absorb their life essence, replenishing one's own body. If Heaven seeks to crush me, then I shall counterattack the starry sky with overwhelming might! The land soaked in blood will be the moment of rebirth for the Star Emperor!"
+- raw: "10050037#0#九宫渡厄#0#活爻似星斗轮转，每息皆可剥离一道蚀骨腐魂的负面咒力；而死门悄张如幽府洞开，踏入领域的敌人如坠黄泉彼岸，周身气血被阴煞缠绕，灵药入喉竟化鸩毒。敌愈而我愈强，方显九宫驭生死的霸道。#xinfa1254#0#1#0####0#####0#0#0#0#0#100500370#100500372#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###8#0#0#4#0##0#4#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###4#0##0.5##1##0#0#"
+  splits:
+  - split: 2
+    text: "九宫渡厄"
+    translated: "Nine Palaces Cross‑Calamity"
+  - split: 4
+    text: "活爻似星斗轮转，每息皆可剥离一道蚀骨腐魂的负面咒力；而死门悄张如幽府洞开，踏入领域的敌人如坠黄泉彼岸，周身气血被阴煞缠绕，灵药入喉竟化鸩毒。敌愈而我愈强，方显九宫驭生死的霸道。"
+    translated: "The active lines move like celestial bodies in rotation; with each breath, a strand of curse energy that corrodes bones and corrupts the soul can be stripped away. The death gates open silently like portals to an underworld; enemies who enter this realm fall into the afterlife, their lifeforce entwined by dark forces, and even if they swallow healing herbs, it turns into lethal poison. As the enemy grows weaker, I grow stronger, thus revealing the tyrannical power of mastering life and death within the nine palaces."
+- raw: "10050038#0#三千魂引#0#镇魄触发时青焰蚀骨，每道攻击皆挟幽冥戾火，伤敌三成精血即刻化为冥甲护体，更引动丹田内力如沸，拳掌暗器皆附裂魂之威。敌若见尔周身魂火流转，便是阎罗帖至矣。#xinfa1255#0#1#0####0#####0#0#0#0#0#100500380#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###8#0#0#4#0##0#4#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###4#0##0.5##1##0#0#"
+  splits:
+  - split: 2
+    text: "三千魂引"
+    translated: "Three Thousand Soul Calls"
+  - split: 4
+    text: "镇魄触发时青焰蚀骨，每道攻击皆挟幽冥戾火，伤敌三成精血即刻化为冥甲护体，更引动丹田内力如沸，拳掌暗器皆附裂魂之威。敌若见尔周身魂火流转，便是阎罗帖至矣。"
+    translated: "When the Zhenpo Trigger is activated, azure flames gnaw at the bones. Each attack carries the malevolence of ghostly infernal fire; enemies lose three‑tenths of their vital essence instantly, which then transmutes into a protective dark armor. Additionally, this process stirs the inner power within the dantian like a boiling cauldron, empowering fists and hidden weapons with the ability to tear souls. Should an enemy witness your flowing soulfire encircling you, it signifies that the King of Hell himself has arrived."
+- raw: "10050039#0#不老长春功#0#身覆紫微帝辉，战意滔天：受创越深，星冕护体愈坚，杀伐之力愈烈！濒死之际帝星觉醒，每滴鲜血皆化噬敌獠牙，掠取生机反补己身。天若压我，便以倾天之势逆伐星穹，喋血之地即是帝座重生之时！#xinfa1256#0#1#0####0#####0#0#0#0#0#100500390#100500392#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###8#0#0#4#0##0#4#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###4#0##0.5##1##0#0#"
+  splits:
+  - split: 2
+    text: "不老长春功"
+    translated: "Elixir of Immortality"
+  - split: 4
+    text: "身覆紫微帝辉，战意滔天：受创越深，星冕护体愈坚，杀伐之力愈烈！濒死之际帝星觉醒，每滴鲜血皆化噬敌獠牙，掠取生机反补己身。天若压我，便以倾天之势逆伐星穹，喋血之地即是帝座重生之时！"
+    translated: "Clothed in celestial purple, his battle intentions as vast as the heavens: The deeper the wound, the stronger the star crown armor becomes; the more intense the force of destruction grows. On the brink of death, when the Star Emperor awakens, every drop of fresh blood transforms into a fang to devour enemies and absorb their life essence, replenishing one's own body. If Heaven seeks to crush me, then I shall counterattack the starry sky with overwhelming might! The land soaked in blood will be the moment of rebirth for the Star Emperor!"
+- raw: "10050040#0#不死印法#0#活爻似星斗轮转，每息皆可剥离一道蚀骨腐魂的负面咒力；而死门悄张如幽府洞开，踏入领域的敌人如坠黄泉彼岸，周身气血被阴煞缠绕，灵药入喉竟化鸩毒。敌愈而我愈强，方显九宫驭生死的霸道。#xinfa1257#0#1#0####0#####0#0#0#0#0#100500400#100500405#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###8#0#0#4#0##0#4#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###4#0##0.5##1##0#0#"
+  splits:
+  - split: 2
+    text: "不死印法"
+    translated: "Indelible Seal Technique"
+  - split: 4
+    text: "活爻似星斗轮转，每息皆可剥离一道蚀骨腐魂的负面咒力；而死门悄张如幽府洞开，踏入领域的敌人如坠黄泉彼岸，周身气血被阴煞缠绕，灵药入喉竟化鸩毒。敌愈而我愈强，方显九宫驭生死的霸道。"
+    translated: "The active lines move like celestial bodies in rotation; with each breath, a strand of curse energy that corrodes bones and corrupts the soul can be stripped away. The death gates open silently like portals to an underworld; enemies who enter this realm fall into the afterlife, their lifeforce entwined by dark forces, and even if they swallow healing herbs, it turns into lethal poison. As the enemy grows weaker, I grow stronger, thus revealing the tyrannical power of mastering life and death within the nine palaces."
+- raw: "10050041#0#天山折梅#0#镇魄触发时青焰蚀骨，每道攻击皆挟幽冥戾火，伤敌三成精血即刻化为冥甲护体，更引动丹田内力如沸，拳掌暗器皆附裂魂之威。敌若见尔周身魂火流转，便是阎罗帖至矣。#xinfa1258#0#1#0####0#####0#0#0#0#0#100500410#100500412#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###8#0#0#4#0##0#4#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###4#0##0.5##1##0#0#"
+  splits:
+  - split: 2
+    text: "天山折梅"
+    translated: "Pluck Plum Blossoms on Mount Tian Shan"
+  - split: 4
+    text: "镇魄触发时青焰蚀骨，每道攻击皆挟幽冥戾火，伤敌三成精血即刻化为冥甲护体，更引动丹田内力如沸，拳掌暗器皆附裂魂之威。敌若见尔周身魂火流转，便是阎罗帖至矣。"
+    translated: "When the Zhenpo Trigger is activated, azure flames gnaw at the bones. Each attack carries the malevolence of ghostly infernal fire; enemies lose three‑tenths of their vital essence instantly, which then transmutes into a protective dark armor. Additionally, this process stirs the inner power within the dantian like a boiling cauldron, empowering fists and hidden weapons with the ability to tear souls. Should an enemy witness your flowing soulfire encircling you, it signifies that the King of Hell himself has arrived."
 - raw: "10060000#0#伤心小箭#0#莫强求，断肠路远忘回头，只留相思愁。攻击附带额外伤害，对目标施加内伤效果，叠到一定层数时引爆，造成大量伤害和眩晕效果。#mi1600#0#1#0#0#0#0#0#0#0#0#0#0#0#0#0#0#100600000#100600002#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#8#0#0#5#0#0#0#4#0#0#0#0#0#-1#0#0.0#0.0#0#0#0#0#0#0#0#0##4#0#0#0.5#0#0#0#0#0#"
   splits:
   - split: 2

@@ -29,10 +29,10 @@ public static class TranslationService
             //new() {Path = "custom_data.txt", Output = true, OutputRawResource = true},
             //new() {Path = "born_points.txt", Output = true},
             //new() {Path = "emoji.txt", PackageOutput = true},
-            new() {Path = "dlc_prototype.txt", PackageOutput = true },
+            //new() {Path = "dlc_prototype.txt", PackageOutput = true },
             new() {Path = "dlc_prototype_mobile.txt", PackageOutput = true },
             new() {Path = "dlcinfo.txt", PackageOutput = true },
-            new() {Path = "dlc_data.txt", PackageOutput = true },
+            //new() {Path = "dlc_data.txt", PackageOutput = true },
 
             new() {Path = "achievement.txt", PackageOutput = true},
             new() {Path = "achievement_xianejianghu.txt", PackageOutput = true},
@@ -41,6 +41,7 @@ public static class TranslationService
             new() {Path = "cardinfo.txt", PackageOutput = true},
             new() {Path = "chuanwenprototype.txt", PackageOutput = true},
             new() {Path = "condition_group.txt", PackageOutput = true},
+            new() {Path = "condition_group_dangmojianghu.txt", PackageOutput = true},
             new() {Path = "condition_show_anim.txt", PackageOutput = true},
             new() {Path = "dumpedPrefabText.txt", TextFileType = TextFileType.PrefabText, AllowMissingColorTags = false},
             
@@ -54,6 +55,7 @@ public static class TranslationService
             new() {Path = "horoscope.txt", PackageOutput = true, AdditionalPromptName = "FileHoroscopePrompt"},
             new() {Path = "identity.txt", PackageOutput = true},
             new() {Path = "item_base.txt", PackageOutput = true},
+            new() {Path = "item_base_dangmojianghu.txt", PackageOutput = true},
             new() {Path = "item_base_xianejianghu.txt", PackageOutput = true},
             new() {Path = "item_base_zhenshijianghu.txt", PackageOutput = true},
             new() {Path = "item_ma_prototype.txt", PackageOutput = true},
@@ -80,7 +82,9 @@ public static class TranslationService
             new() {Path = "mystique.txt", PackageOutput = true},
             new() {Path = "nandu.txt", PackageOutput = true},
             new() {Path = "npc_interact.txt", PackageOutput = true},
+            new() {Path = "npc_interact_dangmojianghu.txt", PackageOutput = true},
             new() {Path = "npc_prototype.txt", PackageOutput = true},
+            new() {Path = "npc_prototype_dangmojianghu.txt", PackageOutput = true},
             new() {Path = "npc_spell_container.txt", PackageOutput = true},
             new() {Path = "npc_spell_dynamic_name.txt", PackageOutput = true},
             new() {Path = "npc_team_info.txt", PackageOutput = true},
@@ -129,6 +133,8 @@ public static class TranslationService
             //|| fileName == "living_assemblyskill"
             //|| fileName == "living_assemblyskill_zhenshijianghu"
             //|| fileName == "questprototype"
+            || fileName == "dlc_data"
+            || fileName == "dlc_prototype"
             || fileName == "born_points"
             || fileName == "custom_data"
             || fileName == "emoji")

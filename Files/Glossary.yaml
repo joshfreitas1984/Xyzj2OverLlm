@@ -1565,6 +1565,7 @@
   result: Spear
   allowalt: 
     - Sharp
+    - Qiang
   badtrans: true
 - raw: 枪棍
   result: Spear & Staff
@@ -2949,7 +2950,7 @@
   literal: Ruò ròu qiáng shí.
 - raw: 高手如云
   result: Experts are as common as clouds
-  badtrans: true
+  badtrans: false
   direct: Masters like clouds.
   literal: Gāo shǒu rú yún.
 - raw: 事半功倍
@@ -3006,7 +3007,7 @@
   literal: Zuò jǐng guān tiān.
 - raw: 以毒攻毒
   result: Fight poison with poison
-  badtrans: true
+  badtrans: false
   direct: Use poison to attack poison.
   literal: Yǐ dú gōng dú.
 - raw: 不共戴天
@@ -3150,6 +3151,11 @@
   literal: "{P} jiang jun"
 
 # Names
+- raw: 澄道真人
+  result: Immortal Cheng Dao
+  badtrans: true
+  direct: clear / way / true person
+  literal: cheng dao zhen ren
 - raw: 李公子
   result: Young Lord Li
   badtrans: true
@@ -5413,6 +5419,11 @@
   literal: Li San wen  
 
 # Factions & Places
+- raw: 古墓派
+  result: Ancient Tomb Sect
+  badtrans: true
+  direct: ancient / tomb / sect
+  literal: gu mu pai
 - raw: 绝念门
   result: Severed Thoughts Sect
   badtrans: true
@@ -6685,6 +6696,11 @@
 
 
 # Martial Arts
+- raw: 擎苍枪
+  result: Qingcang Spear
+  badtrans: true
+  direct: hold / sky / spear
+  literal: qing cang qiang
 - raw: 太极心法
   result: Tai Chi Heart Method
   badtrans: true

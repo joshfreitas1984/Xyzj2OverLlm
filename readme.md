@@ -47,6 +47,7 @@ Here are all the things you can do: (Not including it will keep the controls def
   adjustHeight: 0             # Positive or negative number to adjust allowed height of control
   minFontSize: 0              # Min Font size when autosizing
   maxFontSize: 0              # Max Font size when autosizing
+  fontPercentage: 0.70        # Percentage of font size to use (replaces max/min font size if set above 0)
   alignment: Center           # Control alignment on screen for TextMeshProGUI
   overflow: Overflow          # Overflow mode for TextMeshProGUI
 ```
