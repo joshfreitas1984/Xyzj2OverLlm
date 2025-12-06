@@ -70,38 +70,18 @@ public class TranslationWorkflowTests
         var totalRecordsModded = 0;
         var logLines = new ConcurrentBag<string>();
 
-        string[] fullFileRetrans = [
-            //"horoscope.txt",
-            //"randomname.txt",
-            //"randomnamenew.txt"
+        string[] fullFileRetrans = [        
         ];
 
         // Use this when we've changed a glossary value that doesnt check hallucination
         var newGlossaryStrings = new List<string>
-        {
-            //"羽士",
-            //"[发现宝箱]",
-            //"[石化]",
-            //"[开心]",
-            //"[不知所措]",
-            //"[疑问]",
-            //"[担忧]",
-            //"[生气]",
-            //"[哭泣]",
-            //"[惊讶]",
-            //"[发怒]",
-            //"[抓狂]",
-            //"[委屈]",
+        {            
         };
 
         var badRegexes = new List<string>
         {
-            //"·", //Figure out split before doing this
-            //@"\(.*，.*\)" //Put back for big files
-            //@"\|",
         };
 
-        //await TranslationService.IterateTranslatedFilesInParallelAsync(workingDirectory, async (outputFile, textFile, fileLines) =>
         //Use non-parallel for debugging
         await FileIteration.IterateTranslatedFilesAsync(WorkingDirectory, async (outputFile, textFile, fileLines) =>
         {
@@ -229,14 +209,6 @@ public class TranslationWorkflowTests
             return true;
         }
 
-        // Temp force retrans of splits because of changes in calcs
-        //foreach (var splitCharacters in TranslationService.SplitCharactersList)
-        //    if (preparedRaw.Contains(splitCharacters))
-        //    {
-        //        split.FlaggedForRetranslation = true;
-        //        return true;
-        //    }
-
         if (MatchesBadWords(split.Translated))
         {
             split.FlaggedForRetranslation = true;
@@ -251,23 +223,7 @@ public class TranslationWorkflowTests
             modified = CheckHallucinationGlossary(config, split, modified, textFile);
         }
 
-        // Characters
-        //if (preparedRaw.Contains("?")
-        //    && !split.Translated.Contains("?"))
-        //{
-        //    Console.WriteLine($"Missing ? {outputFile} Replaces: \n{split.Translated}");
-        //    split.FlaggedForRetranslation = true;
-        //    modified = true;
-        //}
-
-        //if (preparedRaw.Contains("!")
-        //    && !split.Translated.Contains("!"))
-        //{
-        //    Console.WriteLine($"Missing ! {outputFile} Replaces: \n{split.Translated}");
-        //    split.FlaggedForRetranslation = true;
-        //    modified = true;
-        //}
-
+        // Characters   
         if (preparedRaw.EndsWith("...")
             && preparedRaw.Length < 15
             && !split.Translated.EndsWith("...")
@@ -296,14 +252,6 @@ public class TranslationWorkflowTests
             split.Translated = split.Translated.Trim();
             modified = true;
         }
-
-        // Add . into Dialogue
-        //if (outputFile.EndsWith("stringlang.txt") && char.IsLetter(split.Translated[^1]) && preparedRaw != split.Translated)
-        //{
-        //    logLines.Add($"Needed full stop:{textFile.Path} \n{split.Translated}");
-        //    split.Translated += '.';
-        //    modified = true;
-        //}
 
         // Clean up Diacritics -- Use a new tokenizer because the translated isnt generated off the prep raw
         var cleanedUp = LineValidation.CleanupLineBeforeSaving(split.Translated, preparedRaw, textFile, new StringTokenReplacer());
