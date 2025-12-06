@@ -4908,6 +4908,7 @@
   - split: 3
     text: "{-1}|阁下的目标并非等闲之辈，眼下派出的杀手并非他的对手。绝影楼不做折兵的生意，阁下还是多花些钱财重新指派下人选吧。"
     translated: "{‑1}|Your target is not an ordinary opponent，the assassin you've dispatched is no match for them. The Shadowless Tower does not engage in business with broken promises. Perhaps it would be wise to spend a bit more money and send someone else."
+    flaggedForRetranslation: true
 - raw: "LocalString,.cctor,9883,人物装备,[]"
   splits:
   - split: 3

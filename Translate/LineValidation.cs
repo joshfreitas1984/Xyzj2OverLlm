@@ -15,6 +15,9 @@ public static partial class LineValidation
     public const string ChinesePlaceholderPattern = @"\{[a-zA-Z]*\s*\p{IsCJKUnifiedIdeographs}+\}";
     public const string PlaceholderMatchPattern = @"(\{[^{}]+\})";
 
+    // If you use Regexes in hot paths, compile them for performance
+    public static readonly Regex ChineseCharPatternCompiled = new Regex(ChineseCharPattern, RegexOptions.Compiled);
+
     public static string PrepareRaw(string raw, StringTokenReplacer? tokenReplacer)
     {
         // Clean up the Raw string before using

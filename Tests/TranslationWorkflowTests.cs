@@ -70,27 +70,32 @@ public class TranslationWorkflowTests
         var totalRecordsModded = 0;
         var logLines = new ConcurrentBag<string>();
 
-        string[] fullFileRetrans = [        
+        string[] fullFileRetrans = [
         ];
 
-        // Use this when we've changed a glossary value that doesnt check hallucination
         var newGlossaryStrings = new List<string>
-        {            
+        {
         };
 
         var badRegexes = new List<string>
         {
         };
 
-        //Use non-parallel for debugging
-        await FileIteration.IterateTranslatedFilesAsync(WorkingDirectory, async (outputFile, textFile, fileLines) =>
+        // Compile regexes once for reuse
+        var compiledBadRegexes = badRegexes.Select(r => new Regex(r, RegexOptions.Compiled)).ToList();
+        var chineseCharRegex = new Regex(LineValidation.ChineseCharPattern, RegexOptions.Compiled);
+
+        // Use parallelization for file iteration
+        await FileIteration.IterateTranslatedFilesInParallelAsync(WorkingDirectory, async (outputFile, textFile, fileLines) =>
         {
             var serializer = Yaml.CreateSerializer();
-
             int recordsModded = 0;
 
-            foreach (var line in fileLines)
+            // Use Parallel.For for splits if thread-safe
+            Parallel.ForEach(fileLines, line =>
             {
+                // Only one StringTokenReplacer per line
+                var tokenReplacer = new StringTokenReplacer();
                 foreach (var split in line.Splits)
                 {
                     // Reset all the retrans flags
@@ -100,16 +105,16 @@ public class TranslationWorkflowTests
                     if (fullFileRetrans.Contains(textFile.Path))
                     {
                         split.FlaggedForRetranslation = true;
-                        recordsModded++;
+                        Interlocked.Increment(ref recordsModded);
                         continue;
                     }
 
-                    if (UpdateSplit(logLines, newGlossaryStrings, badRegexes, split, textFile, config))
-                        recordsModded++;
+                    if (UpdateSplitOptimized(logLines, newGlossaryStrings, compiledBadRegexes, split, textFile, config, chineseCharRegex, tokenReplacer))
+                        Interlocked.Increment(ref recordsModded);
                 }
-            }
+            });
 
-            Interlocked.Add(ref totalRecordsModded, recordsModded); // Use atomic operation for updating totalRecordsModded
+            Interlocked.Add(ref totalRecordsModded, recordsModded);
             if (recordsModded > 0 || resetFlag)
             {
                 Console.WriteLine($"Writing {recordsModded} records to {outputFile}");
@@ -123,24 +128,28 @@ public class TranslationWorkflowTests
         return totalRecordsModded;
     }
 
-    public static bool UpdateSplit(ConcurrentBag<string> logLines, List<string> newGlossaryStrings, List<string> badRegexes, TranslationSplit split, TextFileToSplit textFile,
-        LlmConfig config)
+    public static bool UpdateSplitOptimized(
+        ConcurrentBag<string> logLines,
+        List<string> newGlossaryStrings,
+        List<Regex> compiledBadRegexes,
+        TranslationSplit split,
+        TextFileToSplit textFile,
+        LlmConfig config,
+        Regex chineseCharRegex,
+        StringTokenReplacer tokenReplacer)
     {
-        var pattern = LineValidation.ChineseCharPattern;
         bool modified = false;
         bool cleanWithGlossary = true;
-
-        //////// Quick Validation here
 
         if (!split.SafeToTranslate)
             return false;
 
         // If it is already translated or just special characters return it
-        var tokenReplacer = new StringTokenReplacer();
         var preparedRaw = LineValidation.PrepareRaw(split.Text, tokenReplacer);
         var cleanedRaw = LineValidation.CleanupLineBeforeSaving(split.Text, split.Text, textFile, tokenReplacer);
         var preparedResultRaw = LineValidation.CleanupLineBeforeSaving(preparedRaw, preparedRaw, textFile, tokenReplacer);
-        if (!Regex.IsMatch(preparedRaw, pattern) && split.Translated != cleanedRaw && split.Translated != preparedResultRaw)
+
+        if (!chineseCharRegex.IsMatch(preparedRaw) && split.Translated != cleanedRaw && split.Translated != preparedResultRaw)
         {
             logLines.Add($"Already Translated {textFile.Path} \n{split.Translated}");
             split.Translated = preparedResultRaw;
@@ -158,9 +167,9 @@ public class TranslationWorkflowTests
             }
         }
 
-        foreach (var badRegex in badRegexes)
+        foreach (var badRegex in compiledBadRegexes)
         {
-            if (Regex.IsMatch(split.Text, badRegex))
+            if (badRegex.IsMatch(split.Text))
             {
                 logLines.Add($"Bad Regex {textFile.Path} Replaces: \n{split.Translated}");
                 split.FlaggedForRetranslation = true;
@@ -223,7 +232,7 @@ public class TranslationWorkflowTests
             modified = CheckHallucinationGlossary(config, split, modified, textFile);
         }
 
-        // Characters   
+        // Characters  
         if (preparedRaw.EndsWith("...")
             && preparedRaw.Length < 15
             && !split.Translated.EndsWith("...")
@@ -243,7 +252,6 @@ public class TranslationWorkflowTests
             split.Translated = $"...{split.Translated}";
             modified = true;
         }
-
 
         // Trim line
         if (split.Translated.Trim().Length != split.Translated.Length)
@@ -376,7 +384,7 @@ public class TranslationWorkflowTests
     {
         HashSet<string> words =
         [
-            "hiu", "tut", "thut", "oi", "avo", "porqe", "obrigado", 
+            "hiu", "tut", "thut", "oi", "avo", "porqe", "obrigado",
             "knight", "knights", "knight-at-arms", "knights-errant",
             "nom", "esto", "tem", "mais", "com", "ver", "nos", "sobre", "vermos",
             "dar", "nam", "J'ai", "je", "veux", "pas", "ele", "una", "keqi", "shiwu",
