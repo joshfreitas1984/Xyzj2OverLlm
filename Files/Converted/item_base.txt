@@ -9412,7 +9412,7 @@
   - split: 41
     text: "烹饪获得"
     translated: "Winning in cooking"
-- raw: "22135#瑶台秋#4#4#13#15#13109#99999#0#1#12590#0#new_3706#37821#0#37822#0#3600#0##83&225&0#0|84&5&0##0#0#0#0#0#0###all#0###0##0#0#0#0#烹饪获得#0#0#0#0#0#1#"
+- raw: "22135#瑶台秋#4#4#13#15#13109#99999#0#1#12590#0#jiyu#37821#0#37822#0#3600#0##83&225&0#0|84&5&0##0#0#0#0#0#0###all#0###0##0#0#0#0#烹饪获得#0#0#0#0#0#1#"
   splits:
   - split: 1
     text: "瑶台秋"
@@ -12420,6 +12420,11 @@
   - split: 1
     text: "龙吟"
     translated: "Dragon's Roar"
+- raw: "34126#神刀·拔刀斩#4#15#15#15#27418#99999#0#1#0#0#miji_hong#34126#0#36126#0#3600#0#226#1###0#0#0#0#0#0####0###0####0####0#0#0##1#"
+  splits:
+  - split: 1
+    text: "神刀·拔刀斩"
+    translated: "Divine Sword · Draw Blade Slash"
 - raw: "34200#霸王孤枪鸣#4#15#12#12#8112#99999#0#1#0#0#miji8#34200#0#36200#0#3600#0#300#2###0#0#0#0#0#0####0#65032|82##0##0#0#0#0#鸿月派贡献堂主处可获得#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -12569,6 +12574,11 @@
   - split: 1
     text: "贯星式"
     translated: "Guan Xing Style"
+- raw: "34222#燎原百八式#4#15#15#15#27418#99999#0#1#0#0#miji_hong#34222#0#36222##3600#0#322#2###0#0#0#0#0#0####0###0####0####0#0#0##1#"
+  splits:
+  - split: 1
+    text: "燎原百八式"
+    translated: "Liao‑Yuan Hundred‑Eighteen Form"
 - raw: "34300#啸虎明筋拳#4#15#12#12#8112#99999#0#1#0#0#miji8#34300#0#36300#0#3600#0#400#3###0#0#0#0#0#0####0#65006|82##0##0#0#0#0#丐门贡献堂主处可获得#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -13770,6 +13780,16 @@
   - split: 1
     text: "乾坤挪移"
     translated: "Shifting of Heaven and Earth"
+- raw: "34536#魔相神功#4#15#14#14#21090#99999#0#1#0#0#miji10#34536#0#36536#0#0#0#536#4###0#0#0#0#0#0####0###0####0####0#0#1##0#"
+  splits:
+  - split: 1
+    text: "魔相神功"
+    translated: "Moxiang Shen Gong"
+- raw: "34537#紫气天罗#4#15#14#14#21090#99999#0#1#0#0#miji10#34537#0#36537#0#0#0#537#4###0#0#0#0#0#0####0###0####0####0#0#1##0#"
+  splits:
+  - split: 1
+    text: "紫气天罗"
+    translated: "Purple Mist Heavenly Net"
 - raw: "34600#暗器百解篇二#4#15#12#12#10546#99999#0#1#0#0#miji8#34600#0#36600#0#3600#0#600#5###0#0#0#0#0#0####0###0##0#0#0#0##0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -13935,6 +13955,11 @@
   - split: 1
     text: "小李飞刀"
     translated: "Little Li throws the knife"
+- raw: "34627#黑血神针#4#15#14#14#28769#99999#0#1#0#0#miji10#34627#0#36627#0#3600#0#627#5###0#0#0#0#0#0####0###0####0####0#0#1##1#"
+  splits:
+  - split: 1
+    text: "黑血神针"
+    translated: "Black Blood Divine Needle"
 - raw: "34700#云岫归山#4#20#14#14#21090#99999#0#0#0#0#miji_b5#34700#0#36700#0#0#0#10050029#4###0#0#0#0#0#0####0###0####0####0#0#1##0#"
   splits:
   - split: 1
@@ -14000,6 +14025,41 @@
   - split: 1
     text: "天山折梅"
     translated: "Pluck Plum Blossoms on Mount Tian Shan"
+- raw: "34713#天魔大法#4#20#14#14#21090#99999#0#0#0#0#miji_b5#34713#0#36713#0#0#0#10050042#4###0#0#0#0#0#0####0###0####0####0#0#1##0#"
+  splits:
+  - split: 1
+    text: "天魔大法"
+    translated: "Tianmo Great Method"
+- raw: "34714#剑罡同流#4#20#14#14#21090#99999#0#0#0#0#miji_b5#34714#0#36714#0#0#0#10050043#0###0#0#0#0#0#0####0###0####0####0#0#1##0#"
+  splits:
+  - split: 1
+    text: "剑罡同流"
+    translated: "Sword techniques flowing together"
+- raw: "34715#天地交征阴阳大悲赋#4#20#14#14#21090#99999#0#0#0#0#miji_b5#34715#0#36715#0#0#0#10050044#4###0#0#0#0#0#0####0###0####0####0#0#1##0#"
+  splits:
+  - split: 1
+    text: "天地交征阴阳大悲赋"
+    translated: "The Great Lament of the Union of Heaven and Earth in the Campaign between Yin and Yang"
+- raw: "34716#天心莲花#4#20#14#14#21090#99999#0#0#0#0#miji_b5#34716#0#36716#0#0#0#10050045#4###0#0#0#0#0#0####0###0####0####0#0#1##0#"
+  splits:
+  - split: 1
+    text: "天心莲花"
+    translated: "Heart of Heaven Lotus Flower"
+- raw: "34717#子午罡灭情道#4#20#14#14#21090#99999#0#0#0#0#miji_b5#34717#0#36717#0#0#0#10050046#4###0#0#0#0#0#0####0###0####0####0#0#1##0#"
+  splits:
+  - split: 1
+    text: "子午罡灭情道"
+    translated: "Ziwu Gang Mie Qing Dao"
+- raw: "34718#补天诀#4#20#14#14#21090#99999#0#0#0#0#miji_b5#34718#0#36718#0#0#0#10050047#4###0#0#0#0#0#0####0###0####0####0#0#1##0#"
+  splits:
+  - split: 1
+    text: "补天诀"
+    translated: "Breath of Heaven Technique"
+- raw: "34719#道心种魔大法#4#20#16#16#45651#99999#0#0#0#0#miji_b7#34719#0#36719#0#0#0#10050048#4###0#0#0#0#0#0####0###0####0####0#0#1##0#"
+  splits:
+  - split: 1
+    text: "道心种魔大法"
+    translated: "Demon Seed in Tao's Heart Technique"
 - raw: "34900#云鹤吐纳法#4#15#11#11#4800#99999#0#1#0#0#miji11#34900#0#36900#0#3600#0#900#4###0#0#0#0#0#0####0###0##0#0#0#0##0#0#0#0#0#0#"
   splits:
   - split: 1
@@ -16586,6 +16646,26 @@
   - split: 1
     text: "沈云飞的誓言"
     translated: "Shen Yunfei's vow"
+- raw: "37441#定海珠#2#2#14#16#0#1#0#0#0#0#new1_fyymz#37441#0#39441##3600#0#####0#0#0#0#0#0####0###0####0####0#0#1##0#"
+  splits:
+  - split: 1
+    text: "定海珠"
+    translated: "Ding Hai's Pearl"
+- raw: "37442#暗影秘卷#2#2#14#16#0#1#0#0#0#0#miji15#37442#0#39442##3605#0#####0#0#0#0#0#0####0###0####0####0#0#1##0#"
+  splits:
+  - split: 1
+    text: "暗影秘卷"
+    translated: "Shadow Secret Scroll"
+- raw: "37443#熔火之心#2#2#14#16#0#1#0#0#0#0#xilianshi#37443#0#39443##3600#0#####0#0#0#0#0#0####0###0####0####0#0#1##0#"
+  splits:
+  - split: 1
+    text: "熔火之心"
+    translated: "Heart of Molten Fire"
+- raw: "37444#石刚金#2#2#14#16#0#1#0#0#0#0#yupei1#37444#0#39444##3600#0#####0#0#0#0#0#0####0###0####0####0#0#1##0#"
+  splits:
+  - split: 1
+    text: "石刚金"
+    translated: "Shi Gang Jin"
 - raw: "37600#镜无双自传#4#16#14#16#0#1#0#0#0#5394#miji2#37168#0#39168#0#3600#0#####0#0#0#0#0#0####0##0&18|1|43|999|>#0##0#0#0#0##0#0#0#1#0#0#"
   splits:
   - split: 1
@@ -31042,7 +31122,7 @@
   - split: 1
     text: "金钱镖"
     translated: "Gold Coin Escort"
-- raw: "71203#血影针#4#11#12#14#358#99999#0#0#9890#0#anqi_xueyingzhen#7120301#0#7120302##3600#0#####0#0#0#0#0#0####0###0####0####0#0#0#0#1#"
+- raw: "71203#血影针#4#11#12#14#358#99999#0#0#9890#0#anqi_xueyingzhen#7120301#0#7120302##3600#30000#####0#0#0#0#0#0####0###0####0####0#0#0#0#1#"
   splits:
   - split: 1
     text: "血影针"
@@ -39542,7 +39622,7 @@
     translated: "Supreme Ultimate Sword"
   - split: 41
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Purely Aesthetic DLC 'Tai Chi Finesse' Unlocked Obtained."
+    translated: "Unlock and obtain Wu Nong Taiji purely for appearance DLC."
 - raw: "84010#太极拳#6#1#14#15#0#99999#0#1#0#0#miji14#8401001#0#8401002#0#3600#0#132900#sfx_main_hero_130620&0&true&true###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《舞弄太极》解锁获得#0#0#0#1##0#"
   splits:
   - split: 1
@@ -39550,7 +39630,7 @@
     translated: "Tai Chi Fist"
   - split: 41
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Purely Aesthetic DLC 'Tai Chi Finesse' Unlocked Obtained."
+    translated: "Unlock and obtain Wu Nong Taiji purely for appearance DLC."
 - raw: "84011#棒打狗头#6#1#14#15#0#99999#0#1#0#0#miji14#8401101#0#8401102##3600#0#121500#sfx_main_hero_140570&0&true&true###0#0#0#0#0#0####0###0####0##纯外观DLC《舞弄太极》解锁获得##0#0#1#纯外观DLC《风华绝代》解锁获得#0#"
   splits:
   - split: 1
@@ -39558,7 +39638,7 @@
     translated: "Beating a dog's head with a stick"
   - split: 41
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Purely Aesthetic DLC 'Tai Chi Finesse' Unlocked Obtained."
+    translated: "Unlock and obtain Wu Nong Taiji purely for appearance DLC."
   - split: 46
     text: "纯外观DLC《风华绝代》解锁获得"
     translated: "Unlock and obtain 'Pure Appearance DLC: Peerless in Charm.'"
@@ -39569,7 +39649,7 @@
     translated: "There are no dogs in the world"
   - split: 41
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Purely Aesthetic DLC 'Tai Chi Finesse' Unlocked Obtained."
+    translated: "Unlock and obtain Wu Nong Taiji purely for appearance DLC."
   - split: 46
     text: "纯外观DLC《风华绝代》解锁获得"
     translated: "Unlock and obtain 'Pure Appearance DLC: Peerless in Charm.'"
@@ -39580,7 +39660,7 @@
     translated: "Frozen three feet thick"
   - split: 41
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Purely Aesthetic DLC 'Tai Chi Finesse' Unlocked Obtained."
+    translated: "Unlock and obtain Wu Nong Taiji purely for appearance DLC."
   - split: 46
     text: "纯外观DLC《风华绝代》解锁获得"
     translated: "Unlock and obtain 'Pure Appearance DLC: Peerless in Charm.'"
@@ -39591,7 +39671,7 @@
     translated: "Frosty Blade, Heart of Ice"
   - split: 41
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Purely Aesthetic DLC 'Tai Chi Finesse' Unlocked Obtained."
+    translated: "Unlock and obtain Wu Nong Taiji purely for appearance DLC."
   - split: 46
     text: "纯外观DLC《风华绝代》解锁获得"
     translated: "Unlock and obtain 'Pure Appearance DLC: Peerless in Charm.'"
@@ -40040,10 +40120,10 @@
     translated: "Wu Nong Taiji · Paid Fashion 12: The Shadow Glides Through the Wind"
   - split: 41
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Purely Aesthetic DLC 'Tai Chi Finesse' Unlocked Obtained."
+    translated: "Unlock and obtain Wu Nong Taiji purely for appearance DLC."
   - split: 46
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Purely Aesthetic DLC 'Tai Chi Finesse' Unlocked Obtained."
+    translated: "Unlock and obtain Wu Nong Taiji purely for appearance DLC."
 - raw: "86013#舞弄太极·付费时装13：金鹤凌云#1#11#13#14#0#1#0#1#0#0#shizhuang_86013#86013#0#8601301#0#3600#0#21600#810###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《舞弄太极》解锁获得#0#0#1|4|8|16|33554432#0#纯外观DLC《舞弄太极》解锁获得#0#"
   splits:
   - split: 1
@@ -40051,10 +40131,10 @@
     translated: "Dance of Tai Chi · Paid Fashion 13: Golden Phoenix Ascending to the Clouds"
   - split: 41
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Purely Aesthetic DLC 'Tai Chi Finesse' Unlocked Obtained."
+    translated: "Unlock and obtain Wu Nong Taiji purely for appearance DLC."
   - split: 46
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Purely Aesthetic DLC 'Tai Chi Finesse' Unlocked Obtained."
+    translated: "Unlock and obtain Wu Nong Taiji purely for appearance DLC."
 - raw: "86014#免费时装14：天穹锦霞#1#11#13#14#0#1#0#1#0#0#shizhuang_86014#86014#0#8601401#0#3600#0#21700#810###0#0#0#0#0#0####0###0##0#0#0#0#PC专属福利#0#0#1|4|8|16|33554432#0#PC专属福利#0#"
   splits:
   - split: 1
@@ -40267,10 +40347,10 @@
     translated: "Manipulating Tai Chi · Pay‑to‑Wear Costume 51: Frosty Ripples of Graceful Robes"
   - split: 41
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Purely Aesthetic DLC 'Tai Chi Finesse' Unlocked Obtained."
+    translated: "Unlock and obtain Wu Nong Taiji purely for appearance DLC."
   - split: 46
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Purely Aesthetic DLC 'Tai Chi Finesse' Unlocked Obtained."
+    translated: "Unlock and obtain Wu Nong Taiji purely for appearance DLC."
 - raw: "86052#舞弄太极·付费时装52：鹤梦云裳#1#11#13#14#0#1#0#1#0#0#shizhuang_86052#86052#0#8605201#0#3600#0#27200#810##1#0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《舞弄太极》解锁获得##0#2#0#纯外观DLC《舞弄太极》解锁获得#0#"
   splits:
   - split: 1
@@ -40278,10 +40358,10 @@
     translated: "Wudong Taiji · Paid Cosplay 52: Swan Dream Robe"
   - split: 41
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Purely Aesthetic DLC 'Tai Chi Finesse' Unlocked Obtained."
+    translated: "Unlock and obtain Wu Nong Taiji purely for appearance DLC."
   - split: 46
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Purely Aesthetic DLC 'Tai Chi Finesse' Unlocked Obtained."
+    translated: "Unlock and obtain Wu Nong Taiji purely for appearance DLC."
 - raw: "86053#免费时装53：琼华月影#1#11#13#14#0#1#0#1#0#0#shizhuang_86053#86053#0#8605301#0#3600#0#27300#810###0#0#0#0#0#0####0###0##0#0#0#0#PC专属福利#0#0#2#0#PC专属福利#0#"
   splits:
   - split: 1
@@ -40432,7 +40512,7 @@
     translated: "DLC66: Powder and Rouge listen to the spring water."
   - split: 46
     text: "纯外观DLC《风华绝代》解锁获得"
-    translated: "Unlocked and obtained through purely cosmetic DLC 'Peerless Beauty'."
+    translated: "Unlock and obtain 'Pure Appearance DLC: Peerless in Charm.'"
 - raw: "86067#DLC67：碧空映桃#1#11#13#14#0#1#0#1#0#0#bujia3#158968#0#158969#0#3600#0#27792#810###0#0#0#0#0#0####0###0##0#0#0#0##0#0#2#0#纯外观DLC《风华绝代》解锁获得#0#"
   splits:
   - split: 1
@@ -40440,7 +40520,7 @@
     translated: "DLC67: Lapis sky mirrors peach blossoms"
   - split: 46
     text: "纯外观DLC《风华绝代》解锁获得"
-    translated: "Unlocked and obtained through purely cosmetic DLC 'Peerless Beauty'."
+    translated: "Unlock and obtain 'Pure Appearance DLC: Peerless in Charm.'"
 - raw: "86068#激活码68：红袖添香#1#11#13#14#0#1#0#1#0#0#bujia3#158985#0#158986#0#3600#0#27793#810###0#0#0#0#0#0####0###0##0#0#0#0#taptap2025年10月累计签到活动(非绝版，后续签到活动还会返场)#0#0#2#1#taptap2025年10月累计签到活动(非绝版，后续签到活动还会返场)#0#"
   splits:
   - split: 1
@@ -42066,6 +42146,21 @@
   - split: 1
     text: "诗经"
     translated: "Book of Songs"
+- raw: "180012#天魔策情报黑沙寨#4#16#12#14#0#99999#0#0#0#40577#shuxin3#18001201#0#18001203##3605#0#####0#0#0#0#0#0####0###0####0####0#0#0##0#"
+  splits:
+  - split: 1
+    text: "天魔策情报黑沙寨"
+    translated: "Heimu devises a plan to gather intelligence on the Black Sand Stronghold."
+- raw: "180013#天魔策情报十二连环坞#4#16#12#14#0#99999#0#0#0#40578#shuxin3#18001201#0#18001203##3605#0#####0#0#0#0#0#0####0###0####0####0#0#0##0#"
+  splits:
+  - split: 1
+    text: "天魔策情报十二连环坞"
+    translated: "Tianmo devises a plan to gather intelligence on the Twelve‑linked Fortress."
+- raw: "180014#天魔策情报溯海派#4#16#12#14#0#99999#0#0#0#40579#shuxin3#18001201#0#18001203##3605#0#####0#0#0#0#0#0####0###0####0####0#0#0##0#"
+  splits:
+  - split: 1
+    text: "天魔策情报溯海派"
+    translated: "Tianmo's Strategy Involves Gathering Intelligence on the River's Source Faction."
 - raw: "550001#万兽秘技-月德#3#23#14#16#560#99999#0#1#0#0#miji15#550001#0#551001#0#3600#0##3600###0#0#0#0#0#0####0###0##0#1#0#0##0#0#0#1#0#0#"
   splits:
   - split: 1

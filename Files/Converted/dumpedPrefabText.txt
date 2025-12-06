@@ -1190,10 +1190,10 @@
   splits:
   - text: "该DLC包含奖励"
     translated: "This DLC includes rewards"
-- raw: "6￥购买"
+- raw: "购买￥  <color=#666666>76</color>  4"
   splits:
-  - text: "6￥购买"
-    translated: "6 purchase"
+  - text: "购买￥  <color=#666666>76</color>  4"
+    translated: "Purchase $<color=#666666>76</color> 4."
 - raw: "注：解锁后前往“外观”界面穿戴"
   splits:
   - text: "注：解锁后前往“外观”界面穿戴"

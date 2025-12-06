@@ -19993,7 +19993,7 @@
     translated: "{E}, remnants of a cult with malevolent intentions and sinister thoughts. Should any honorable warrior be able to eliminate this remnant of the cult, we vow to offer substantial rewards without fail."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -20010,7 +20010,7 @@
     translated: "{E}, a descendant of the Poison Clan, is cunning and ruthless. Should any righteous hero manage to eliminate this scion of the Poison Clan, we promise a generous reward and will not break our word."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -20027,7 +20027,7 @@
     translated: "{E}, who shows no respect for anyone and dares to challenge the martial sect, deserves to be executed. Should any brave warrior discipline this little thief, I solemnly promise a generous reward and vow not to break my word."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -20044,7 +20044,7 @@
     translated: "{E}, spreading slanderous rumors about the sect and tarnishing its reputation is simply unacceptable. If any honorable warrior teaches this little thief a lesson, I promise to reward them handsomely without fail."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -20061,7 +20061,7 @@
     translated: "{E} pretends to be a disciple of our sect, which tarnishes the sect's reputation and cannot be tolerated. If any gallant hero can slay this petty thief, we promise a generous reward and will not break our word."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -20078,7 +20078,7 @@
     translated: "{E} has infiltrated the sect's treasury to steal celestial and earthly treasures. Such a petty thief cannot be allowed to escape. Should any hero succeed in eliminating this lowly creature, we pledge a substantial reward and will not renege on our promise."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -20095,7 +20095,7 @@
     translated: "{E} took advantage of the moment when clan disciples went out for training and suddenly attacked, killing many. If any hero could slay this band of rodents, a solemn promise of great reward was made; there would be no reneging on that pledge."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -20112,7 +20112,7 @@
     translated: "{E} deceived the disciples of the sect, manipulating their emotions to such an extent that a disciple took their own life. This act is gravely wrong and extremely evil. Any righteous warrior who can eliminate this despicable group shall receive a generous reward as promised."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -20248,7 +20248,7 @@
     translated: "{E}, with a wolf's heart and dog's liver, serpent‑like nature. Having betrayed the martial sect, committing treason of the highest order. If any honorable warrior can slay this traitor, they vow to reward you handsomely, no matter what, never breaking their promise."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -20265,7 +20265,7 @@
     translated: "{E}, rebellious and plotting treason. They murdered fellow members, forgot kindness, and betrayed trust. If there is a martial artist who can defeat this traitor, I solemnly promise a significant reward and will not break my word."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -20282,7 +20282,7 @@
     translated: "{E}, utterly depraved and treacherous, harboring blades behind their smile. To slaughter fellow members of the sect‑how vile! Should any hero be able to eradicate this traitor, a vow of substantial reward is promised; there will be no breaking of this promise."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -20401,7 +20401,7 @@
     translated: "{E}, with a wolf's heart and dog's liver, serpent‑like nature. Having betrayed the martial sect, committing treason of the highest order. If any honorable warrior can slay this traitor, they vow to reward you handsomely, no matter what, never breaking their promise."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -20418,7 +20418,7 @@
     translated: "{E}, rebellious and plotting treason. They murdered fellow members, forgot kindness, and betrayed trust. If there is a martial artist who can defeat this traitor, I solemnly promise a significant reward and will not break my word."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -20435,7 +20435,7 @@
     translated: "{E}, utterly depraved and treacherous, harboring blades behind their smile. To slaughter fellow members of the sect‑how vile! Should any hero be able to eradicate this traitor, a vow of substantial reward is promised; there will be no breaking of this promise."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -20809,7 +20809,7 @@
     translated: "{E}, this person has repeatedly thwarted our good deeds at the Profound Celestial Sect. Eliminate them swiftly."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -20826,7 +20826,7 @@
     translated: "{E}, this person has dared to conspire with their faction to thwart our plan. They are marked for death, no exceptions!"
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -20843,7 +20843,7 @@
     translated: "{E}, this person has killed several of our disciples multiple times. We must swiftly bring them to justice at once!"
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -20860,7 +20860,7 @@
     translated: "{E} looks down upon others, provoking the clan to rebellion. Such a traitor deserves death. Any honorable swordsman who kills this little villain will be rewarded handsomely; I solemnly pledge not to break my word."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -20877,7 +20877,7 @@
     translated: "{E} spreading slander about our martial arts sect and tarnishing its reputation is unacceptable. Should any righteous hero be able to defeat this rogue, a vow of generous reward will be honored without fail."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -20894,7 +20894,7 @@
     translated: "{E} pretends to be a disciple of our sect, which tarnishes the sect's reputation and cannot be tolerated. If any gallant hero can slay this petty thief, we promise a generous reward and will not break our word."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -20911,7 +20911,7 @@
     translated: "{E} has infiltrated the sect's treasury to steal celestial and earthly treasures. Such a petty thief cannot be allowed to escape. Should any hero succeed in eliminating this lowly creature, we pledge a substantial reward and will not renege on our promise."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -20928,7 +20928,7 @@
     translated: "{E} took advantage of the moment when clan disciples went out for training and suddenly attacked, killing many. If any hero could slay this band of rodents, a solemn promise of great reward was made; there would be no reneging on that pledge."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -20945,7 +20945,7 @@
     translated: "{E} deceived the disciples of the sect, manipulating their emotions to such an extent that a disciple took their own life. This act is gravely wrong and extremely evil. Any righteous warrior who can eliminate this despicable group shall receive a generous reward as promised."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -21081,7 +21081,7 @@
     translated: "{E}, with a wolf's heart and dog's liver, has betrayed the martial sect in an act of egregious rebellion. Anyone who captures this traitor will be rewarded handsomely; I solemnly swear not to break my promise."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -21098,7 +21098,7 @@
     translated: "{E}, rebellious and plotting treason. The appointed executioner will slay this traitor, swearing a solemn oath to reward handsomely for the deed, with no breach of promise."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -21115,7 +21115,7 @@
     translated: "{E}, this person betrayed our school and did not hesitate to kill fellow disciples. We cannot tolerate this! Have a disciple execute this villain."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -21132,7 +21132,7 @@
     translated: "{E}, this person betrayed our school and did not hesitate to kill fellow disciples. We cannot tolerate this! Have a disciple execute this villain."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -21234,7 +21234,7 @@
     translated: "{E}, cunning and deceitful, with a very high opinion of themselves. They roam the Jianghu, plundering at will. Should any righteous warrior be able to slay this evil scoundrel, we pledge substantial reward and swear not to renege on our promise."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -21251,7 +21251,7 @@
     translated: "{E}, a person with a dark heart and ruthless hands, surrounded by hidden dangers. They oppress the people like beasts, causing harm throughout the region. If any righteous hero can slay this villain, they promise a substantial reward and vow never to break their word."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -21268,7 +21268,7 @@
     translated: "{E}, cunning and deceitful, with a deep and calculating mind. Extremely vicious, their crimes are boundless. Should any righteous hero be able to eliminate this villain, we promise a substantial reward and vow not to break our word."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -21285,7 +21285,7 @@
     translated: "{E}, cunning and deceitful, sinister and crafty. Foul and ruthless to an extreme degree, merely speaking of them causes dread. Should a hero be able to eliminate this villain, a promise of substantial reward is made, with the vow never to renege on it."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
@@ -21302,7 +21302,7 @@
     translated: "{E}, whose misdeeds are countless and who has lost all sense of morality, is beyond redemption with tenfold evil. Should any hero be able to eliminate this villain, we pledge a substantial reward and will not renege on our promise."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
+    translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"

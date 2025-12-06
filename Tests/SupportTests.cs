@@ -167,7 +167,7 @@ public class SupportTests
         var sects = new List<string>();
         var places = new List<string>();
 
-        await TranslationService.IterateTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
+        await FileIteration.IterateTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
         {
             if (outputFile.EndsWith("buildprototype.txt"))
             {
@@ -310,7 +310,7 @@ public class SupportTests
 
         var sects = new List<string>();
 
-        await TranslationService.IterateTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
+        await FileIteration.IterateTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
         {
             if (outputFile.EndsWith("condition_group.txt"))
             {
@@ -352,7 +352,7 @@ public class SupportTests
         var placeholders = new List<string>();
         var pattern = LineValidation.PlaceholderMatchPattern;
 
-        await TranslationService.IterateTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
+        await FileIteration.IterateTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
         {
             foreach (var line in fileLines)
             {
@@ -382,7 +382,7 @@ public class SupportTests
 
         var forTheGlossary = new List<string>();
 
-        await TranslationService.IterateTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
+        await FileIteration.IterateTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
         {
             foreach (var line in fileLines)
             {

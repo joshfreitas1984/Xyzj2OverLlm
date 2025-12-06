@@ -4601,6 +4601,11 @@
   - split: 10
     text: "画影寻踪"
     translated: "Shadow tracing"
+- raw: "25058001#25058#1#9#0#0#0##0&24|887309|1#1&24|887275|1;24|887090|1;24|887037|1;24|887305|1#暗线计划#40564#0###0#0#0#0#0#"
+  splits:
+  - split: 10
+    text: "暗线计划"
+    translated: "Covert Operation Plan"
 - raw: "25070001#25070#1#9#0#0#0##0&103|99|>;102;104|4#1&1|1101028|1;1|1101028|2#镖王大会#50544#0###0#0#0#0#0#"
   splits:
   - split: 10
@@ -11411,8 +11416,6 @@
   - split: 10
     text: "参加画道相关的活动"
     translated: "Participate in activities related to painting"
-- raw: "75100004#75100#2#59#5000139#0#0##0&102#0&86##0#0###0#0##0#0#"
-  splits: []
 - raw: "75100005#75100#2#60#1000002#0#0##0&102;104|1#0&86#宗门好感≥25;剑术≥80;道学≥40#0#0###8#0#0&103|24|>;18|1|35|80|>=;18|1|42|40|>=#0#0#"
   splits:
   - split: 10
@@ -11484,7 +11487,7 @@
   splits:
   - split: 10
     text: "宗门好感≥75;刀法≥450;墨学≥225"
-    translated: "Sect Affinity ≥ 75; Blade Art ≥ 450; Mohism ≥ 225"
+    translated: "Sect Affinity ≥ 75; Blade Technique ≥ 450; Mohism ≥ 225"
 - raw: "75104008#75104#2#62#0#0#0##0&102#0&86#拜入宗门;每年六月#0#0###8#0#0&107|6|6;102#0#0#"
   splits:
   - split: 10
@@ -11690,24 +11693,24 @@
   splits:
   - split: 10
     text: "宗门好感≥0;长兵≥35;兵道≥20"
-    translated: "Sect Affinity ≥ 0; Long Weapon Skills ≥ 35; Martial Prowess ≥ 20"
+    translated: "Sect Affinity ≥ 0; Long Weapon Proficiency ≥ 35; Martial Prowess ≥ 20"
 - raw: "75117004#75117#2#59#5000139#0#0##0&102#0&86##0#0###0#0##0#0#"
   splits: []
 - raw: "75117005#75117#2#60#1000003#0#0##0&102;104|1#0&86#宗门好感≥25;长兵≥90;兵道≥45#0#0###8#0#0&103|24|>;18|1|37|90|>=;18|1|45|45|>=#0#0#"
   splits:
   - split: 10
     text: "宗门好感≥25;长兵≥90;兵道≥45"
-    translated: "Sect Affinity ≥ 25; Long Weapon ≥ 90; Martial Prowess ≥ 45"
+    translated: "Martial Sect Affinity ≥ 25; Long Weapon Skill ≥ 90; Martial Prowess ≥ 45"
 - raw: "75117006#75117#2#60#1005001#0#0##0&102;104|2#0&86#宗门好感≥50;长兵≥210;兵道≥105#0#0###8#0#0&103|49|>;18|1|37|210|>=;18|1|45|105|>=#0#0#"
   splits:
   - split: 10
     text: "宗门好感≥50;长兵≥210;兵道≥105"
-    translated: "Sect Affinity ≥ 50; Long Weapon ≥ 210; Martial Prowess ≥ 105"
+    translated: "Sect Affinity ≥ 50; Long Weapons ≥ 210; Martial Prowess ≥ 105"
 - raw: "75117007#75117#2#60#1006001#0#0##0&102;104|3#0&86#宗门好感≥75;长兵≥510;兵道≥255#0#0###8#0#0&103|74|>;18|1|37|510|>=;18|1|45|255|>=#0#0#"
   splits:
   - split: 10
     text: "宗门好感≥75;长兵≥510;兵道≥255"
-    translated: "Sect Affinity ≥ 75; Long Weapon ≥ 510; Martial Prowess ≥ 255"
+    translated: "Sect Affinity ≥ 75; Long Weapon Proficiency ≥ 510; Martial Prowess ≥ 255"
 - raw: "75117008#75117#2#62#0#0#0##0&102#0&86#拜入宗门;每年六月#0#0###8#0#0&107|6|6;102#0#0#"
   splits:
   - split: 10
@@ -11818,7 +11821,7 @@
   splits:
   - split: 10
     text: "宗门好感≥50;长兵≥240;兵道≥120"
-    translated: "Sect Affinity ≥ 50; Long Weapon Proficiency ≥ 240; Martial Prowess ≥ 120."
+    translated: "Sect Affinity ≥ 50; Long Weapon ≥ 240; Martial Prowess ≥ 120"
 - raw: "75123008#75123#2#62#0#0#0##0&102#0&86#拜入宗门;每年六月#0#0###8#0#0&107|6|6;102#0#0#"
   splits:
   - split: 10
@@ -11858,7 +11861,7 @@
   splits:
   - split: 10
     text: "宗门好感≥75;长兵≥570;兵道≥285"
-    translated: "Sect Affinity ≥ 75; Long Weapon Proficiency ≥ 570; Martial Prowess ≥ 285"
+    translated: "Sect Affinity ≥ 75; Long Weapons ≥ 570; Martial Prowess ≥ 285"
 - raw: "75127001#75127#2#23#0#0#0#0#0#0#悬赏#0#0###0#0#0#0#0#"
   splits:
   - split: 10
@@ -17929,6 +17932,45 @@
   - split: 10
     text: "邀请同行"
     translated: "Invite fellow practitioners"
+- raw: "165949001#165949#1#9#0#0#0#0#0&24|886153|1#0&24|886143|1#对弈！#39103#0###0#0#0#0#0#"
+  splits:
+  - split: 10
+    text: "对弈！"
+    translated: "Checkmate!"
+- raw: "165959001#165959#1#9#0#0#0##0#0&24|885830|1#后顾之忧#39109#0###0#0#0#0#0#"
+  splits:
+  - split: 10
+    text: "后顾之忧"
+    translated: "Concerns about what lies behind"
+- raw: "165961001#165961#1#9#0#0#0##0#0&24|885829|1#后顾之忧#39110#0###0#0#0#0#0#"
+  splits:
+  - split: 10
+    text: "后顾之忧"
+    translated: "Concerns about what lies behind"
+- raw: "165962001#165962#1#9#0#0#0###0&24|885952|1#参加拍卖会#40591#0###0#0#0&18|1|68|40000|>=#0#大于4万铜钱#"
+  splits:
+  - split: 10
+    text: "参加拍卖会"
+    translated: "Attend the auction"
+  - split: 19
+    text: "大于4万铜钱"
+    translated: "More than 4 ten thousand copper coins"
+- raw: "165963001#165963#1#9#0#0#0###0&24|885913|1#参加拍卖会#40592#0###0#0#0&18|1|68|10000|>=#0#大于1万铜钱#"
+  splits:
+  - split: 10
+    text: "参加拍卖会"
+    translated: "Attend the auction"
+  - split: 19
+    text: "大于1万铜钱"
+    translated: "More than 1 ten thousand copper coins"
+- raw: "165964001#165964#1#9#0#0#0###0&24|885871|1#参加拍卖会#40593#0###0#0#0&18|1|68|10000|>=#0#大于1万铜钱#"
+  splits:
+  - split: 10
+    text: "参加拍卖会"
+    translated: "Attend the auction"
+  - split: 19
+    text: "大于1万铜钱"
+    translated: "More than 1 ten thousand copper coins"
 - raw: "170109001#170109#2#77#1#0#0#0#0&24|892968|1#0&86#邀请同行#0#0###0#0##0##"
   splits:
   - split: 10
@@ -18397,3 +18439,8 @@
   - split: 10
     text: "入门拜师"
     translated: "Seeking a master to become an apprentice"
+- raw: "1165960001#165960#1#9#0#0#0##0#0&24|885831|1#后顾之忧#39111#0###0#0#0#0#0#"
+  splits:
+  - split: 10
+    text: "后顾之忧"
+    translated: "Concerns about what lies behind"

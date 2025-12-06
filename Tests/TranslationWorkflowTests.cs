@@ -7,38 +7,8 @@ namespace Translate.Tests;
 
 public class TranslationWorkflowTests
 {
-    const string workingDirectory = "../../../../Files";
-    const string gameFolder = "G:\\SteamLibrary\\steamapps\\common\\下一站江湖Ⅱ\\下一站江湖Ⅱ\\";
-
-    [Fact(DisplayName = "1. SplitDbAssets")]
-    public void SplitDbAssets()
-    {
-        TranslationService.SplitDbAssets(workingDirectory);
-    }
-
-    [Fact(DisplayName = "2. ExportAssetsIntoTranslated")]
-    public void ExportAssetsIntoTranslated()
-    {
-        TranslationService.ExportTextAssetsToCustomFormat(workingDirectory);
-    }
-
-    [Fact(DisplayName = "2. ExportDumpedIntoTranslated")]
-    public void ExportDumpedIntoTranslated()
-    {
-        TranslationService.ExportDumpedPrefabToCustomFormat(workingDirectory);
-    }
-
-    [Fact(DisplayName = "2. ExportDumpedDyanmicIntoTranslated")]
-    public void ExportDumpedDyanmicIntoTranslated()
-    {
-        TranslationService.ExportDynamicStringsToCustomFormat(workingDirectory);
-    }
-
-    [Fact(DisplayName = "2.5 MergeFilesIntoTranslated")]
-    public async Task MergeFilesIntoTranslated()
-    {
-        await TranslationService.MergeFilesIntoTranslatedAsync(workingDirectory);
-    }
+    public const string WorkingDirectory = "../../../../Files";
+    public const string GameFolder = "G:\\SteamLibrary\\steamapps\\common\\下一站江湖Ⅱ\\下一站江湖Ⅱ\\";
 
     [Fact(DisplayName = "3. ApplyRulesToCurrentTranslation")]
     public async Task ApplyRulesToCurrentTranslation()
@@ -66,113 +36,24 @@ public class TranslationWorkflowTests
             int iterations = 0;
             while (remaining > 0 && iterations < 10)
             {
-                await TranslationService.TranslateViaLlmAsync(workingDirectory, false);
+                await TranslationService.TranslateViaLlmAsync(WorkingDirectory, false);
                 remaining = await UpdateCurrentTranslationLines(false);
                 iterations++;
             }
 
-            await PackageFinalTranslation();
+            await FileOutputWorkflowTests.PackageFinalTranslation();
         }
         else
-            await TranslationService.TranslateViaLlmAsync(workingDirectory, false);
-    }
-
-    [Fact(DisplayName = "6. Package to Game Files")]
-    public async Task PackageFinalTranslation()
-    {
-        await TranslationService.PackageFinalTranslationAsync(workingDirectory);
-
-        var sourceDirectory = $"{workingDirectory}/Mod/{ModHelper.ContentFolder}";
-        var modDirectory = $"{gameFolder}/下一站江湖Ⅱ_Data/StreamingAssets/Mod/{ModHelper.ContentFolder}";
-        var resourceDirectory = $"{gameFolder}/BepInEx/resources";
-
-        if (Directory.Exists(modDirectory))
-            Directory.Delete(modDirectory, true);
-
-        TranslationService.CopyDirectory(sourceDirectory, modDirectory);
-
-        File.Copy($"{workingDirectory}/Mod/db1.txt", $"{resourceDirectory}/db1.txt", true);
-        foreach (var file in TranslationService.GetTextFilesToSplit().Where(t => t.TextFileType != TextFileType.RegularDb))
-            File.Copy($"{workingDirectory}/Mod/Formatted/{file.Path}", $"{resourceDirectory}/{file.Path}", true);
-
-        //await PackageRelease();
-    }
-
-    [Fact(DisplayName = "5. Copy Sprites")]
-    public async Task CopySprites()
-    {
-        await TranslationService.PackageFinalTranslationAsync(workingDirectory);
-
-        var sourceDirectory = $@"G:\xzyj2-sprites/completed";
-        var spritesDirectory = $"{gameFolder}/BepInEx/sprites";
-
-        if (Directory.Exists(spritesDirectory))
-            Directory.Delete(spritesDirectory, true);
-
-        TranslationService.CopyDirectory(sourceDirectory, spritesDirectory);
-    }
-
-    [Fact(DisplayName = "7. Zip Release")]
-    public async Task ZipRelease()
-    {
-        var version = ModHelper.CalculateVersionNumber();
-
-        string releaseFolder = $"{gameFolder}/ReleaseFolder/Files";
-
-        File.Copy($"{workingDirectory}/Mod/db1.txt", $"{releaseFolder}/BepInEx/resources/db1.txt", true);
-        File.Copy($"{workingDirectory}/Mod/Formatted/dumpedPrefabText.txt", $"{releaseFolder}/BepInEx/resources/dumpedPrefabText.txt", true);
-        File.Copy($"{gameFolder}/BepInEx/Plugins/FanslationStudio.EnglishPatch.dll", $"{releaseFolder}/BepInEx/Plugins/FanslationStudio.EnglishPatch.dll", true);
-        File.Copy($"{gameFolder}/BepInEx/Plugins/FanslationStudio.SharedAssembly.dll", $"{releaseFolder}/BepInEx/Plugins/FanslationStudio.SharedAssembly.dll", true);
-        //File.Copy($"{gameFolder}/BepInEx/Translation/en/Text/resizer.txt", $"{releaseFolder}/BepInEx/Translation/en/Text/resizer.txt", true);
-
-        foreach (var file in TranslationService.GetTextFilesToSplit().Where(t => t.TextFileType != TextFileType.RegularDb))
-            File.Copy($"{workingDirectory}/Mod/Formatted/{file.Path}", $"{releaseFolder}/BepInEx/resources/{file.Path}", true);
-
-        List<string> copyDirs = ["sprites", "resizers"];
-        foreach (var copyDir in copyDirs)
-        {
-            var newDirectory = $"{releaseFolder}/BepInEx/{copyDir}";
-            if (Directory.Exists(newDirectory))
-                Directory.Delete(newDirectory, true);
-
-            TranslationService.CopyDirectory($"{gameFolder}/BepInEx/{copyDir}", newDirectory);
-        }
-
-        ZipFile.CreateFromDirectory($"{releaseFolder}", $"{releaseFolder}/../EnglishPatch-{version}.zip");
-
-        await Task.CompletedTask;
-    }
-
-    [Fact(DisplayName = "0. Check File Lines Match")]
-    public void CheckFileLinesMatch()
-    {
-        var config = Configuration.GetConfiguration(workingDirectory);
-        var badFiles = new List<string>();
-
-        foreach (var textFile in TranslationService.GetTextFilesToSplit())
-        {
-            var file = $"{workingDirectory}/Raw/Export/{textFile.Path}";
-            var convertedFile = $"{workingDirectory}/Converted/{textFile.Path}";
-
-            var deserializer = Yaml.CreateDeserializer();
-
-            var lines = deserializer.Deserialize<List<TranslationLine>>(File.ReadAllText(file));
-            var convertedLines = deserializer.Deserialize<List<TranslationLine>>(File.ReadAllText(convertedFile)); ;
-
-            if (lines.Count != convertedLines.Count)
-                badFiles.Add($"Bad File: {Path.GetFileName(file)} Export: {lines.Count} Converted: {convertedLines.Count} ");
-
-            Assert.Empty(badFiles);
-        }
+            await TranslationService.TranslateViaLlmAsync(WorkingDirectory, false);
     }
 
     [Fact(DisplayName = "0. Reset All Flags")]
     public async Task ResetAllFlags()
     {
-        var config = Configuration.GetConfiguration(workingDirectory);
+        var config = Configuration.GetConfiguration(WorkingDirectory);
         var serializer = Yaml.CreateSerializer();
 
-        await TranslationService.IterateTranslatedFilesInParallelAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
+        await FileIteration.IterateTranslatedFilesInParallelAsync(WorkingDirectory, async (outputFile, textFileToTranslate, fileLines) =>
         {
             foreach (var line in fileLines)
                 foreach (var split in line.Splits)
@@ -185,7 +66,7 @@ public class TranslationWorkflowTests
 
     public static async Task<int> UpdateCurrentTranslationLines(bool resetFlag)
     {
-        var config = Configuration.GetConfiguration(workingDirectory);
+        var config = Configuration.GetConfiguration(WorkingDirectory);
         var totalRecordsModded = 0;
         var logLines = new ConcurrentBag<string>();
 
@@ -222,7 +103,7 @@ public class TranslationWorkflowTests
 
         //await TranslationService.IterateTranslatedFilesInParallelAsync(workingDirectory, async (outputFile, textFile, fileLines) =>
         //Use non-parallel for debugging
-        await TranslationService.IterateTranslatedFilesAsync(workingDirectory, async (outputFile, textFile, fileLines) =>
+        await FileIteration.IterateTranslatedFilesAsync(WorkingDirectory, async (outputFile, textFile, fileLines) =>
         {
             var serializer = Yaml.CreateSerializer();
 
@@ -257,7 +138,7 @@ public class TranslationWorkflowTests
         });
 
         Console.WriteLine($"Total Lines: {totalRecordsModded} records");
-        File.WriteAllLines($"{workingDirectory}/TestResults/LineValidationLog.txt", logLines);
+        File.WriteAllLines($"{WorkingDirectory}/TestResults/LineValidationLog.txt", logLines);
 
         return totalRecordsModded;
     }

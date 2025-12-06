@@ -821,7 +821,7 @@
     translated: "May you be blessed with endless prosperity"
   - split: 2
     text: "苦心竭力成家计，百般计较难圆梦。天生异象，只能花各种心思来弥补欠缺，内力<color=e0834c>增加10</color>、要害<color=e0834c>增加50</color>。"
-    translated: "Through painstaking efforts to achieve household prosperity and exhaustive calculations, fulfilling one's dreams remains challenging. With an innate mysterious aura, you can employ various strategies to compensate for deficiencies: increase your inner power by <color=e0834c>10</color>, enhance vital points by <color=e0834c>50</color>."
+    translated: "After toiling tirelessly to establish a household and meticulously planning in every way possible, achieving dreams proves difficult. Born with an unusual fate, one must employ various strategies to compensate for deficiencies. Inner Power <color=e0834c>increases by 10</color>, Vital Point <color=e0834c>increases by 50</color>."
 - raw: "8060#隐修求志#前面风霜都受过，有福降临不怕迟。初限历经磨难，使得自己防御增强，内外防<color=e0834c>增加10%</color>。#0#10230#9#0#0#0#2##0##0#0#0#"
   splits:
   - split: 1
