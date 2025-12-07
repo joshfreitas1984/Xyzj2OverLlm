@@ -40,10 +40,10 @@ public class UtilityTests
     [InlineData("O.<fontsize=24.12>abc</fontsize>",
        "O.<fontsize=24.12>abc</fontsize>")]
     [InlineData("{{限}}{0}", "{{0}}{1}")]
-    [InlineData("正有事找你,前些日子{1}特意送来好礼,<size=24>是回礼的日子了. [发现宝箱]", 
+    [InlineData("正有事找你,前些日子{1}特意送来好礼,<size=24>是回礼的日子了. [发现宝箱]",
         "正有事找你,前些日子{0}特意送来好礼,<size=24>是回礼的日子了. {1}")]
     [InlineData("[开心]正有事找你,前些日子{1}特意送来好礼,<size=24>是回礼的日子了.", "{1}正有事找你,前些日子{0}特意送来好礼,<size=24>是回礼的日子了.")]
-
+    [InlineData("{-1}|阁下的目标并非等闲之辈，眼下派出的杀手并非他的对手。绝影楼不做折兵的生意，阁下还是多花些钱财重新指派下人选吧。", "{0}|阁下的目标并非等闲之辈,眼下派出的杀手并非他的对手。绝影楼不做折兵的生意,阁下还是多花些钱财重新指派下人选吧。")]
     public static void StringTokenReplacerTests(string original, string expectedToken)
     {
         var replacer = new StringTokenReplacer();
@@ -171,9 +171,9 @@ public class UtilityTests
     [InlineData("{ }", false)]          // Test with empty curly braces (should fail)
     [InlineData("{}", false)]          // Test with empty curly braces (should fail)
     [InlineData("{0}", false)]          // Test with number
-    [InlineData("{0 }", false)]          
-    [InlineData("{A }", false)]          
-    [InlineData("{你好 }", false)]          
+    [InlineData("{0 }", false)]
+    [InlineData("{A }", false)]
+    [InlineData("{你好 }", false)]
     public void TestChinesePlaceholderPattern(string input, bool expectedResult)
     {
         // Compile the regex
@@ -186,15 +186,15 @@ public class UtilityTests
 
     [Theory]
     [InlineData("前往乘风渡劫杀{E}（{IsCanFinish:0:1}/1)", "asffsdf（{IsCanFinish:0:1}/1)", false)]
-    [InlineData("前往乘风渡劫杀{E}（{IsCanFinish:0:1}/1)", "asffsdf {E}（{IsCanFinish:0:1}/1)", true)]
+    [InlineData("前往乘风渡劫杀{E}（{IsCanFinish:0:1}/1)", "asffsdf {E} ({IsCanFinish:0:1}/1)", true)]
     [InlineData("前往乘风渡劫杀{E}（{IsCanFinish:0:1}/1)", "asffsdf {E}（{IsCan Finish:0:1}/1)", false)]
     [InlineData("前往乘风渡劫杀{E}（{IsCanFinish:0:1}/1)", "asffsdf {E}（0/1)", false)]
     public void CheckTransalationSuccessfulTest(string raw, string result, bool valid)
     {
         var config = Configuration.GetConfiguration(workingDirectory);
-        
+
         // Act
-        var  validationResult = LineValidation.CheckTransalationSuccessful(config, raw, result, new TextFileToSplit());
+        var validationResult = LineValidation.CheckTransalationSuccessful(config, raw, result, new TextFileToSplit());
 
         // Assert
         Assert.Equal(valid, validationResult.Valid);

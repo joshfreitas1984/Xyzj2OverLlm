@@ -16,7 +16,7 @@ public class FileIteration
             if (!File.Exists(outputFile))
                 continue;
 
-            var content = File.ReadAllText(outputFile);
+            var content = await File.ReadAllTextAsync(outputFile);
 
             var fileLines = deserializer.Deserialize<List<TranslationLine>>(content);
 

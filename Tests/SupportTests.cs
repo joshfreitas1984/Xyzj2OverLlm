@@ -220,30 +220,30 @@ public class SupportTests
         File.WriteAllLines($"{workingDirectory}/TestResults/ExportGlossary.yaml", glossary);
     }
 
-    [Fact]
-    public void GetEmojiNames()
-    {
-        var emojiNames = new List<string>();
+    //[Fact]
+    //public void GetEmojiNames()
+    //{
+    //    var emojiNames = new List<string>();
 
-        var deserializer = Yaml.CreateDeserializer();
-        var lines = deserializer.Deserialize<List<TranslationLine>>(File.ReadAllText($"{workingDirectory}/Converted/emoji.txt"));
+    //    var deserializer = Yaml.CreateDeserializer();
+    //    var lines = deserializer.Deserialize<List<TranslationLine>>(File.ReadAllText($"{workingDirectory}/Converted/emoji.txt"));
 
-        foreach (var line in lines)
-        {
-            if (line.Splits.Count == 0)
-                continue;
+    //    foreach (var line in lines)
+    //    {
+    //        if (line.Splits.Count == 0)
+    //            continue;
 
-            var emojiCode = $"\"[{line.Splits[0].Text}]\",";
+    //        var emojiCode = $"\"[{line.Splits[0].Text}]\",";
 
-            if (!emojiNames.Contains(emojiCode))
-                emojiNames.Add(emojiCode);
+    //        if (!emojiNames.Contains(emojiCode))
+    //            emojiNames.Add(emojiCode);
 
-            //TODO: Token replace these and then remove emoji from the replacement list
-            //First check theres nothing in Dynamic strings
-        }
+    //        //TODO: Token replace these and then remove emoji from the replacement list
+    //        //First check theres nothing in Dynamic strings
+    //    }
 
-        File.WriteAllLines($"{workingDirectory}/TestResults/ExportEmoji.yaml", emojiNames);
-    }
+    //    File.WriteAllLines($"{workingDirectory}/TestResults/ExportEmoji.yaml", emojiNames);
+    //}
 
     [Fact]
     public void TestDLCPrototype()
