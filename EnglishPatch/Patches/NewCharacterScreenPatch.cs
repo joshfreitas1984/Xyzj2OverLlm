@@ -19,11 +19,9 @@ namespace EnglishPatch.Patches
             var type = __instance.GetType();
             var field = type.GetField("playerAttriManager", BindingFlags.NonPublic | BindingFlags.Instance);
             var playerAttriManager = field?.GetValue(__instance) as AttriManager;
-            PatchesPlugin.Logger.LogError($"Field: {field} playerAttriManager: {playerAttriManager}");
 
             var field2 = type.GetField("zhandoushuxingPre", BindingFlags.NonPublic | BindingFlags.Instance);
             var zhandoushuxingPre = field2?.GetValue(__instance) as Dictionary<int, int>;
-            PatchesPlugin.Logger.LogError($"Field: {field2} zhandoushuxingPre: {zhandoushuxingPre}");
 
             string GetColorString(AttriType type)
             {
