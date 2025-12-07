@@ -4662,12 +4662,12 @@
   splits:
   - split: 3
     text: "已经获得该经脉点<size=40><color=#e0c889>{0}点</color></size>属性点"
-    translated: "Has already acquired attribute points for the meridian point of that scripture: <size=40><color=#e0c889>{0} points</color></size>."
+    translated: "Has already acquired the attribute points for the meridian <size=28><color=#e0c889>{0}</color></size> attribute points."
 - raw: "LocalString,.cctor,9393,激活该经脉可提供<size=40><color=#f0f0f0>{0}点</color></size>属性点,[]"
   splits:
   - split: 3
     text: "激活该经脉可提供<size=40><color=#f0f0f0>{0}点</color></size>属性点"
-    translated: "Activating this meridian can provide <size=40><color=#f0f0f0>{0} attribute points</color></size>."
+    translated: "Activating this meridian provides <size=28><color=#f0f0f0>{0}</color></size> attribute points"
 - raw: "LocalString,.cctor,9403,选中点没激活,[]"
   splits:
   - split: 3
@@ -14096,7 +14096,7 @@
   splits:
   - split: 3
     text: "覆写成功率为：<color=#7ffc58><size=36>{0}%</size></color> ({1}%<color=#ff5d5d>{2}%</color><color=#7ffc58>{3}%</color>)"
-    translated: "Success rate of rewriting: 100%: <color=#7ffc58><size=36>{0}%</size></color> ({1}%<color=#ff5d5d>{2}%</color><color=#7ffc58>{3}%</color>)"
+    translated: "Rewrite success rate: <color=#7ffc58><size=25>{0}%</size></color> ({1}%<color=#ff5d5d>{2}%</color><color=#7ffc58>{3}%</color>)"
 - raw: "TianGongTuView,RefreshAddSkill,486,当前为<color=#ffec6a>指定覆写</color>,[]"
   splits:
   - split: 3

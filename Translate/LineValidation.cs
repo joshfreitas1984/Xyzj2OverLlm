@@ -369,7 +369,8 @@ public static partial class LineValidation
         }
 
         if (raw.Contains('<') && raw != "<商贩>")
-            response &= HtmlTagHelpers.ValidateTags(raw, result, textFile.AllowMissingColorTags);
+            if (!HtmlTagHelpers.ValidateTags(raw, result, textFile.AllowMissingColorTags))
+                response = false;
 
         if (textFile.NameCleanupRoutines)
         {

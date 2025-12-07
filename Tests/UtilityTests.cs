@@ -33,17 +33,11 @@ public class UtilityTests
        "K.在淮陵游{1}玩之际,<color=0>遇到{0}一{2}位自</color>,我观其似乎武艺高强。")]
     [InlineData("L.王铁(1000，1000)",
        "L.王铁{0}")]
-    [InlineData("M.<size=36>5</size><size=32>人</size>",
-       "M.<size=36>{0}</size><size=32>人</size>")]
-    [InlineData("N.<color=36>10</color><size=24>人</fontsize>22.11 +14 -11",
-       "N.<color=0>{0}</color><size=24>人</fontsize>{1} {2} {3}")]
     [InlineData("O.<fontsize=24.12>abc</fontsize>",
        "O.<fontsize=24.12>abc</fontsize>")]
     [InlineData("{{限}}{0}", "{{0}}{1}")]
-    [InlineData("正有事找你,前些日子{1}特意送来好礼,<size=24>是回礼的日子了. [发现宝箱]",
-        "正有事找你,前些日子{0}特意送来好礼,<size=24>是回礼的日子了. {1}")]
-    [InlineData("[开心]正有事找你,前些日子{1}特意送来好礼,<size=24>是回礼的日子了.", "{1}正有事找你,前些日子{0}特意送来好礼,<size=24>是回礼的日子了.")]
-    [InlineData("{-1}|阁下的目标并非等闲之辈，眼下派出的杀手并非他的对手。绝影楼不做折兵的生意，阁下还是多花些钱财重新指派下人选吧。", "{0}|阁下的目标并非等闲之辈,眼下派出的杀手并非他的对手。绝影楼不做折兵的生意,阁下还是多花些钱财重新指派下人选吧。")]
+    [InlineData("{-1}|阁下的目标并非等闲之辈，眼下派出的杀手并非他的对手。绝影楼不做折兵的生意，阁下还是多花些钱财重新指派下人选吧。",
+        "{0}|阁下的目标并非等闲之辈,眼下派出的杀手并非他的对手。绝影楼不做折兵的生意,阁下还是多花些钱财重新指派下人选吧。")]
     public static void StringTokenReplacerTests(string original, string expectedToken)
     {
         var replacer = new StringTokenReplacer();
@@ -61,6 +55,36 @@ public class UtilityTests
         Assert.Equal(expectedToken, replaced);
     }
 
+    [Theory]
+    [InlineData("M.<size=36>5</size><size=32>人</size>",
+       "M.<size=0>{0}</size><size=1>人</size>",
+       "M.<size=25>5</size><size=22>人</size>")]
+    [InlineData("N.<color=36>10</color><size=24>人</fontsize>22.11 +14 -11",
+       "N.<color=0>{0}</color><size=0>人</fontsize>{1} {2} {3}",
+       "N.<color=36>10</color><size=17>人</fontsize>22.11 +14 -11")]
+  
+    [InlineData("正有事找你,前些日子{1}特意送来好礼,<size=24>是回礼的日子了. [发现宝箱]",
+        "正有事找你,前些日子{0}特意送来好礼,<size=0>是回礼的日子了. {1}",
+        "正有事找你,前些日子{1}特意送来好礼,<size=17>是回礼的日子了. [发现宝箱]")]
+    [InlineData("[开心]正有事找你,前些日子{1}特意送来好礼,<size=24>是回礼的日子了.", 
+        "{1}正有事找你,前些日子{0}特意送来好礼,<size=0>是回礼的日子了.",
+        "[开心]正有事找你,前些日子{1}特意送来好礼,<size=17>是回礼的日子了.")]
+    public static void StringTokenReplacerSizeTests(string original, string expectedToken, string expectedRestored)
+    {
+        var replacer = new StringTokenReplacer();
+
+        //Want string cleaned up
+        original = LineValidation.PrepareRaw(original, null);
+        string replaced = replacer.Replace(original);
+        string restored = replacer.Restore(replaced);
+
+        Console.WriteLine("Original: " + original);
+        Console.WriteLine("Replaced: " + replaced);
+        Console.WriteLine("Restored: " + restored);
+
+        Assert.Equal(expectedRestored, restored);
+        Assert.Equal(expectedToken, replaced);
+    }
 
     [Theory]
     [InlineData("[SweetPotato.Gift/GIFT_TYPE，System.Collections.Generic.Dictionary`2<System.Int64，System.Collections.Generic.Dictionary`2<System.Int64，System.Int32>>]", 1)]

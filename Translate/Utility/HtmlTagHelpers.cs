@@ -6,9 +6,9 @@ public static class HtmlTagHelpers
 {
     public static bool ValidateTags(string raw, string translated, bool allowMissingColors)
     {
-        HashSet<string> rawTags = ExtractTagsWithAttributes(raw);
-        HashSet<string> translatedTags = ExtractTagsWithAttributes(translated);
-
+        HashSet<string> rawTags = ExtractTagsWithAttributes(raw, true);
+        HashSet<string> translatedTags = ExtractTagsWithAttributes(translated, false);     
+    
         var response = rawTags.SetEquals(translatedTags);
 
         if (!response 
@@ -33,13 +33,22 @@ public static class HtmlTagHelpers
         return response;
     }
 
-    private static HashSet<string> ExtractTagsWithAttributes(string input)
+    private static HashSet<string> ExtractTagsWithAttributes(string input, bool updateSizes)
     {
         var tags = new HashSet<string>();
         var regex = new Regex(@"<(/?\w+\s*[^>]*)>");
         foreach (Match match in regex.Matches(input))
         {
-            tags.Add(match.Groups[1].Value);
+            var tag = match.Groups[1].Value;
+
+            // Update size tags if needed
+            if (updateSizes && tag.StartsWith("size"))
+            {
+                var newSize = StringTokenReplacer.CalculateNewSize($"<{tag}>");
+                tag = tag.Contains("#") ? $"size=#{newSize}" : $"size={newSize}";
+            }
+
+            tags.Add(tag);
         }
         return tags;
     }

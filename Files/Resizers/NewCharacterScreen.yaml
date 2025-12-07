@@ -194,3 +194,30 @@
   sampleText: "Agility<color=#616161><size=#28>(Acquire a significant increase in mobility speed and qinggong enhancement, while also boosting dodge ability.)"
   idealFontSize: 20
   allowWordWrap: true
+
+
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/content/Panel1/RightPart/Title_Attr/Txt_Attr"
+  sampleText: "[Attribute points-Authentic Jianghu]"
+  idealFontSize: 20
+  allowWordWrap: true
+
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/weaponSelectPanel/weapons/*/text*"
+  sampleText: "  Attack: B     Defense: A    Accuracy: B"
+  idealFontSize: 16
+  allowWordWrap: false
+  allowAutoSizing: false
+
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/content/身份标签/Scroll View/Viewport/Content/*/name"
+  sampleText: "  A tiger born into a family of officials."
+  idealFontSize: 15
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/content/Panel1/detailBtn/text (1)"
+  sampleText: "  Five Elements Details"
+  idealFontSize: 16
+  adjustWidth: -70
+  adjustX: -50
+  adjustY: 4
+  alignment: Center
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/*"
+  fontPercentage: 0.60

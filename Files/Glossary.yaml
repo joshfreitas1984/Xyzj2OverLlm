@@ -1,5 +1,22 @@
 ﻿
 # Terms
+- raw: 攻击力
+  result: Attack Power
+  badtrans: false
+  direct: attack power
+  literal: gong ji li
+- raw: 防御力
+  result: Defense
+  allowalt:
+    - Defensive
+  badtrans: true
+  direct: Defense
+  literal: fang yu li
+- raw: 命中率
+  result: Accuracy
+  badtrans: true
+  direct: hit rate
+  literal: ming zhong 
 - raw: 玄阶
   result: Mystic Tier
   badtrans: true

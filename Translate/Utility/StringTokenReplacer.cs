@@ -1,5 +1,6 @@
 ﻿using System.Text;
 using System.Text.RegularExpressions;
+using YamlDotNet.Core.Tokens;
 
 namespace Translate.Utility;
 
@@ -10,11 +11,15 @@ public class StringTokenReplacer
 {
     private static readonly Regex PlaceholderRegex = new(@"(\{[^{}]+\})", RegexOptions.Compiled);
     private static readonly Regex CoordinateRegex = new(@"\(-?\d+,-?\d+\)", RegexOptions.Compiled);
-    private static readonly Regex NumericValueRegex = new(@"(?<![{<]|color=|<[^>]*)(?:[+-]?(?:\d+\.\d*|\.\d+|\d+))(?![}>])", RegexOptions.Compiled);
+    private static readonly Regex NumericValueRegex = new(@"(?<![{<]|color=|<[^>]*)(?:[+-]?(?:\d+\.\d*|\.\d+|\d+))(?![}>])", RegexOptions.Compiled);   
     private static readonly Regex ColorStartRegex = new(@"<color=[^>]+>", RegexOptions.Compiled);
     private static readonly Regex KeyPressRegex = new(@"<\w+\s+>", RegexOptions.Compiled);
     private static readonly Regex TokenRegex;
     private static readonly Regex EmojiRegex;
+
+    public static readonly Regex SizeRegex = new(@"<size=[^>]+>", RegexOptions.Compiled);
+    public static readonly Regex SizeValueRegex = new(@"(?<=<size=)\d+", RegexOptions.Compiled);
+    public static readonly Regex SizeValue2Regex = new(@"(?<=<size=#)\d+", RegexOptions.Compiled);
 
     public static string[] otherTokens = ["{}"];
     public static string[] EmojiItems = [
@@ -34,7 +39,7 @@ public class StringTokenReplacer
 
     private Dictionary<int, string> placeholderMap = new();
     private Dictionary<string, string> colorMap = new();
-
+    private Dictionary<string, string> sizeMap = new();
 
     // Use Static constructor to make sure the regexes are only compiled once (otherwise very slow)
     static StringTokenReplacer()
@@ -46,10 +51,20 @@ public class StringTokenReplacer
         EmojiRegex = new Regex(emojiPattern, RegexOptions.Compiled);
     }
 
+    public static int CalculateNewSize(string sizeTag)
+    {
+        var sizeString = SizeValueRegex.Match(sizeTag).Value;
+        if (string.IsNullOrEmpty(sizeString))
+            sizeString = SizeValue2Regex.Match(sizeTag).Value;
+
+        return (int)Math.Round(Convert.ToInt32(sizeString) * 0.7);
+    }
+
     public string Replace(string input)
     {
         int index = 0;
         int colorIndex = 0;
+        int sizeIndex = 0;
         placeholderMap.Clear();
         colorMap.Clear();
         var result = new StringBuilder(input);
@@ -77,6 +92,19 @@ public class StringTokenReplacer
         {
             placeholderMap.Add(index, match.Value.Replace(" ", ""));
             return $"{{{index++}}}";
+        });
+
+        // Check for size tags and replace the numeric value inside
+        result.Replace(SizeRegex, match =>
+        {
+            var sizeTag = match.Value;
+            var sizeValue = CalculateNewSize(sizeTag);
+            var hasHash = sizeTag.Contains("#");
+            var key = hasHash ? $"<size=#{sizeIndex++}>" : $"<size={sizeIndex++}>";
+            var replacement = hasHash ? $"<size=#{sizeValue}>" : $"<size={sizeValue}>";
+
+            sizeMap.Add(key, replacement);
+            return key;
         });
 
         result.Replace(NumericValueRegex, match =>
@@ -114,10 +142,11 @@ public class StringTokenReplacer
             return match.Value;
         });
 
+        foreach (var size in sizeMap)
+            result.Replace(size.Key, size.Value);
+
         foreach (var color in colorMap)
-        {
             result.Replace(color.Key, color.Value);
-        }
 
         return result.ToString();
     }

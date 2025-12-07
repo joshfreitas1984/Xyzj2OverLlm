@@ -70,15 +70,10 @@ public class TranslationWorkflowTests
         var totalRecordsModded = 0;
         var logLines = new ConcurrentBag<string>();
 
-        string[] fullFileRetrans = [
-        ];
-
-        var newGlossaryStrings = new List<string>
-        {
-        };
-
-        var badRegexes = new List<string>
-        {
+        string[] fullFileRetrans = [];
+        var newGlossaryStrings = new List<string>{};
+        var badRegexes = new List<string>{ 
+            //"<size=[^>]+>" 
         };
 
         // Compile regexes once for reuse

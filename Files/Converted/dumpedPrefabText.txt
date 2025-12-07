@@ -545,7 +545,7 @@
 - raw: "使用冷却中\\n<size=36>0.5秒"
   splits:
   - text: "使用冷却中\\n<size=36>0.5秒"
-    translated: "Using cooldown\\n<size=36>0.5 seconds"
+    translated: "On cooldown\\n<size=25>0.5 seconds"
 - raw: "使用冷却中：\\n0.5秒"
   splits:
   - text: "使用冷却中：\\n0.5秒"
@@ -669,7 +669,7 @@
 - raw: "<size=36>5</size><size=32>人</size>"
   splits:
   - text: "<size=36>5</size><size=32>人</size>"
-    translated: "<size=36>5</size><size=32>people</size>"
+    translated: "<size=25>5</size><size=22>people</size>"
 - raw: "仇恨值高"
   splits:
   - text: "仇恨值高"
@@ -1181,7 +1181,7 @@
 - raw: "纯外观DLC  <size=30><color=#8b8d8f>(不影响任何剧情、数值)"
   splits:
   - text: "纯外观DLC  <size=30><color=#8b8d8f>(不影响任何剧情、数值)"
-    translated: "Appearance‑only DLC <size=30><color=#8b8d8f>(does not affect any story or stats)"
+    translated: "Purely Cosmetic DLC <size=21><color=#8b8d8f> (Does not affect any storyline or stats)"
 - raw: "江湖初见"
   splits:
   - text: "江湖初见"
@@ -3486,7 +3486,7 @@
 - raw: "[身份天赋]                             <color=#616161><size=28>(随角色身份改变)</size></color>"
   splits:
   - text: "[身份天赋]                             <color=#616161><size=28>(随角色身份改变)</size></color>"
-    translated: "[Status Gift] <color=#616161><size=28>(Changes with character status)</size></color>"
+    translated: "[Identity Gift]                                                          <color=#616161><size=20>(Changes with character identity)</size></color>"
 - raw: "[初始武器]"
   splits:
   - text: "[初始武器]"
@@ -3498,7 +3498,7 @@
 - raw: "攻击：丙     防御：乙    命中：甲"
   splits:
   - text: "攻击：丙     防御：乙    命中：甲"
-    translated: "Attack: Bing: Defense: Yi's Hit Rate: A"
+    translated: "Attack: C     Defense: B    Accuracy: A"
 - raw: "刀"
   splits:
   - text: "刀"
@@ -3506,7 +3506,7 @@
 - raw: "攻击：乙     防御：甲    命中：乙"
   splits:
   - text: "攻击：乙     防御：甲    命中：乙"
-    translated: "Attack: Yi: Defense: A's Hit Rate: B"
+    translated: "Attack: B     Defense: A    Accuracy: B"
 - raw: "枪"
   splits:
   - text: "枪"
@@ -3514,7 +3514,7 @@
 - raw: "攻击：甲     防御：丙    命中：丙"
   splits:
   - text: "攻击：甲     防御：丙    命中：丙"
-    translated: "Attack: Jia: Defense: Bing's Hit Rate: Bing"
+    translated: "Attack: A     Defense: C    Accuracy: C"
 - raw: "拳"
   splits:
   - text: "拳"
@@ -3522,11 +3522,11 @@
 - raw: "攻击：乙     防御：乙    命中：乙"
   splits:
   - text: "攻击：乙     防御：乙    命中：乙"
-    translated: "Attack: B     Defense: Yi's Hit Rate: B"
+    translated: "Attack: B     Defense: B    Accuracy: B"
 - raw: "攻击：乙     防御：丙    命中：甲"
   splits:
   - text: "攻击：乙     防御：丙    命中：甲"
-    translated: "Attack: Yi: Defense: Bing's Hit Rate: A"
+    translated: "Attack: B     Defense: C    Accuracy: A"
 - raw: "[自选天赋]"
   splits:
   - text: "[自选天赋]"
@@ -3554,7 +3554,7 @@
 - raw: "元气 <size=28>(影响人物气血，真气和闪避)</size>"
   splits:
   - text: "元气 <size=28>(影响人物气血，真气和闪避)</size>"
-    translated: "Vitality (affects the character's lifeforce, true qi, and dodge) <size=28></size>"
+    translated: "Vitality (affects character lifeforce, true qi, and dodge) <size=20></size>"
 - raw: "可用点数："
   splits:
   - text: "可用点数："
@@ -3638,27 +3638,27 @@
 - raw: "<size=53>初</size>始武器"
   splits:
   - text: "<size=53>初</size>始武器"
-    translated: "<size=53>Primordial Weapon</size>"
+    translated: "<size=37>Start</size> Starter Weapon"
 - raw: "攻击力：丙     防御力：乙    命中率：甲"
   splits:
   - text: "攻击力：丙     防御力：乙    命中率：甲"
-    translated: "Attack power: Iron Defense Skill Level B: B    Hit Rate: A"
+    translated: "Attack: C     Defense: B    Accuracy: A"
 - raw: "攻击力：乙     防御力：甲    命中率：乙"
   splits:
   - text: "攻击力：乙     防御力：甲    命中率：乙"
-    translated: "Attack power: Yi: Defense Power: Jia: Hit Rate: B"
+    translated: "Attack: B     Defense: A    Accuracy: B"
 - raw: "攻击力：甲     防御力：丙    命中率：丙"
   splits:
   - text: "攻击力：甲     防御力：丙    命中率：丙"
-    translated: "Attack power: Jia ‑ Defense Power: Bing's Hit Rate: Bing"
+    translated: "Attack: A     Defense: C    Accuracy: C"
 - raw: "攻击力：乙     防御力：乙    命中率：乙"
   splits:
   - text: "攻击力：乙     防御力：乙    命中率：乙"
-    translated: "Attack power: Yi: Defense Power: Beta  Hit Rate: B"
+    translated: "Attack: B     Defense: B    Accuracy: B"
 - raw: "攻击力：乙     防御力：丙    命中率：甲"
   splits:
   - text: "攻击力：乙     防御力：丙    命中率：甲"
-    translated: "Attack power: B     Defense Power: Bing Hit Rate: A"
+    translated: "Attack: B     Defense: C    Accuracy: A"
 - raw: "请从左侧选择一种你的初始武器"
   splits:
   - text: "请从左侧选择一种你的初始武器"
@@ -5382,7 +5382,7 @@
 - raw: "激活该经脉可提供<size=40><color=#f0f0f0>5点</color></size>属性点"
   splits:
   - text: "激活该经脉可提供<size=40><color=#f0f0f0>5点</color></size>属性点"
-    translated: "Activating this meridian provides <size=40><color=#f0f0f0>5</color></size> attribute points"
+    translated: "Activating this meridian grants <size=28><color=#f0f0f0>5</color></size> attribute points"
 - raw: "需要打通以下经脉才可激活"
   splits:
   - text: "需要打通以下经脉才可激活"
@@ -5394,7 +5394,7 @@
 - raw: "已经获得该经脉点<size=40><color=#e0c889>5点</color></size>属性点"
   splits:
   - text: "已经获得该经脉点<size=40><color=#e0c889>5点</color></size>属性点"
-    translated: "Has acquired the attribute points for this meridian point: <size=40><color=#e0c889>5</color></size>."
+    translated: "You have already acquired attribute points for this meridian point: <size=28><color=#e0c889>5</color></size> attribute points."
 - raw: "消耗修为："
   splits:
   - text: "消耗修为："
@@ -8011,7 +8011,7 @@
 - raw: "成功率：    <size=40>90%</size>"
   splits:
   - text: "成功率：    <size=40>90%</size>"
-    translated: "Success rate:     <size=40>90%</size>"
+    translated: "Success rate:     <size=28>90%</size>"
 - raw: "化境"
   splits:
   - text: "化境"
@@ -8063,11 +8063,11 @@
 - raw: "元气<color=#616161><size=#28>(获得的大量的内防和外防)"
   splits:
   - text: "元气<color=#616161><size=#28>(获得的大量的内防和外防)"
-    translated: "Vitality <color=#616161><size=#28>(provides substantial internal and external defense)"
+    translated: "Vitality <color=#616161><size=#20>(provides a substantial amount of internal and external defense)"
 - raw: "元气<color=#616161><size=#28>(影响人物气血，真气和闪避)"
   splits:
   - text: "元气<color=#616161><size=#28>(影响人物气血，真气和闪避)"
-    translated: "Vitality <color=#616161><size=#28>(affects character lifeforce, true Qi, and dodge)"
+    translated: "Vitality <color=#616161><size=#20> (affects character lifeforce, true qi, and dodge)"
 - raw: "通关后二周目开启"
   splits:
   - text: "通关后二周目开启"
@@ -9575,7 +9575,7 @@
 - raw: "<size=26>已持有:</size><size=30> 0</size>"
   splits:
   - text: "<size=26>已持有:</size><size=30> 0</size>"
-    translated: "<size=26>Held: </size><size=30> 0</size>"
+    translated: "<size=18>Held: </size><size=21> 0</size>"
 - raw: "批量购买"
   splits:
   - text: "批量购买"
@@ -9739,7 +9739,7 @@
 - raw: "覆写成功率为：<color=#7ffc58><size=36>23%</size></color> (36%<color=#ff5d5d>-14%</color><color=#7ffc58>+2%</color>)"
   splits:
   - text: "覆写成功率为：<color=#7ffc58><size=36>23%</size></color> (36%<color=#ff5d5d>-14%</color><color=#7ffc58>+2%</color>)"
-    translated: "Rewrite success rate is: <color=#7ffc58><size=36>23%</size></color> (36%<color=#ff5d5d>‑14%</color><color=#7ffc58>+2%</color>)"
+    translated: "Rewrite success rate: <color=#7ffc58><size=25>23%</size></color> (36%<color=#ff5d5d>‑14%</color><color=#7ffc58>+2%</color>)"
 - raw: "请选择要覆写的装备"
   splits:
   - text: "请选择要覆写的装备"
