@@ -1,4 +1,12 @@
-﻿- raw: <color=#d18b57>条件未满足</color>
+﻿- raw: 开启
+  result: Open
+  direct: open start
+  literal: kai qi
+- raw: 开始
+  result: Enable
+- raw: 高
+  result: High
+- raw: <color=#d18b57>条件未满足</color>
   result: <color=#d18b57>Condition not met</color>
 - raw: "<nobr>装备上可替换主角模型，对话立绘和泡泡表情"
   result: Equip to replace protagonist model, dialogue portrait, and bubble expression

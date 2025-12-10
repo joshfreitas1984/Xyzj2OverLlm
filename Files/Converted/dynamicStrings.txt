@@ -6280,7 +6280,7 @@
   splits:
   - split: 3
     text: "高"
-    translated: "Gao"
+    translated: "High"
 - raw: "ComString,.cctor,880,极高,[]"
   splits:
   - split: 3
@@ -19954,7 +19954,7 @@
   splits:
   - split: 3
     text: "高"
-    translated: "Gao"
+    translated: "High"
 - raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,466,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
@@ -19969,7 +19969,7 @@
   splits:
   - split: 3
     text: "高"
-    translated: "Gao"
+    translated: "High"
 - raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,544,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
@@ -20219,7 +20219,7 @@
   splits:
   - split: 3
     text: "高"
-    translated: "Gao"
+    translated: "High"
 - raw: "SweetPotato.SettingViewNew,SetHuanJingGuangZheBi,108,关闭,[]"
   splits:
   - split: 3
@@ -20239,7 +20239,7 @@
   splits:
   - split: 3
     text: "高"
-    translated: "Gao"
+    translated: "High"
 - raw: "SweetPotato.SettingViewNew,SetJieChuYinYing,108,关闭,[]"
   splits:
   - split: 3
@@ -20254,7 +20254,7 @@
   splits:
   - split: 3
     text: "高"
-    translated: "Gao"
+    translated: "High"
 - raw: "SweetPotato.SettingViewNew,SetPingMuQuanJuGuangZhao,108,关闭,[]"
   splits:
   - split: 3
@@ -20294,7 +20294,7 @@
   splits:
   - split: 3
     text: "高"
-    translated: "Gao"
+    translated: "High"
 - raw: "SweetPotato.SettingViewNew,SetAtliasingNew,124,开启,[]"
   splits:
   - split: 3

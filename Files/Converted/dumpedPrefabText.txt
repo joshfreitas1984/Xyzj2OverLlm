@@ -1886,7 +1886,7 @@
 - raw: "开始"
   splits:
   - text: "开始"
-    translated: "Begin"
+    translated: "Enable"
 - raw: "可能获得物品"
   splits:
   - text: "可能获得物品"

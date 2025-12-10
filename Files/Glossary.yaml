@@ -3168,6 +3168,16 @@
   literal: "{P} jiang jun"
 
 # Names
+- raw: 虞令羽
+  result: Yu Lingyu
+  badtrans: true
+  direct: Yu order feather
+  literal: yu ling yu
+- raw: 伯子越
+  result: Bo Ziyue
+  badtrans: true
+  direct: elder son surpass
+  literal: bo zi yue
 - raw: 澄道真人
   result: Immortal Cheng Dao
   badtrans: true
@@ -5436,6 +5446,11 @@
   literal: Li San wen  
 
 # Factions & Places
+- raw: 龙蛇寨
+  result: Dragon Snake Fort
+  badtrans: true
+  direct: dragon snake stronghold
+  literal: long she zhai
 - raw: 古墓派
   result: Ancient Tomb Sect
   badtrans: true

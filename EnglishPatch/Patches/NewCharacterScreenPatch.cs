@@ -13,8 +13,6 @@ namespace EnglishPatch.Patches
         [HarmonyPostfix]
         public static void RefreshAttriUI(InstantiateViewNewNew_mobile __instance)
         {
-            PatchesPlugin.Logger.LogError("RefreshAttriUI");
-
             // Use reflection to access the private field m_shuxingitems
             var type = __instance.GetType();
             var field = type.GetField("playerAttriManager", BindingFlags.NonPublic | BindingFlags.Instance);
