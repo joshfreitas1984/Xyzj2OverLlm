@@ -21563,7 +21563,7 @@
   splits:
   - split: 1
     text: "龙蛇寨尸体NPC"
-    translated: "Dragon and Snake Camp Corpse NPC"
+    translated: "Dragon Snake Fort Corpses NPCs"
 - raw: "30784#沙漠尸体NPC#150011#0#0#0#0#462#0#0#0#1#0.0#0.0#0.0#0.0#0#0#0#tang#62141##100#0#0#3700#32#0#0##1######0#"
   splits:
   - split: 1
@@ -21998,7 +21998,7 @@
   splits:
   - split: 1
     text: "龙蛇寨宝箱"
-    translated: "Dragon and Snake Encampment Treasure Chest"
+    translated: "Dragon Snake Fort Treasure Chest"
 - raw: "30970#画卷#0#0#1#0#0#462#0#0#0#1#691.999#238.182#740.735#0.0#0#0#0#tang#62141##100#0#0#3700#4#0#0########0#"
   splits:
   - split: 1
@@ -24303,12 +24303,12 @@
   splits:
   - split: 1
     text: "龙蛇寨宝箱"
-    translated: "Dragon and Snake Encampment Treasure Chest"
+    translated: "Dragon Snake Fort Treasure Chest"
 - raw: "31686#龙蛇寨宝箱#0#0#1#6#0#0#0#0#203#1#1016.53#383.004#1322.26#63.3459#1#0#0#0#62141#0#100#0#0#3062#0#0#0########0#"
   splits:
   - split: 1
     text: "龙蛇寨宝箱"
-    translated: "Dragon and Snake Encampment Treasure Chest"
+    translated: "Dragon Snake Fort Treasure Chest"
 - raw: "31687#天麻灰熊#3045000#0#0#0#0#462#0#0#0#1#921.545#242.53#678.997#0.0#1#0#0##62144##100#0#0#3045#2#0#0########0#"
   splits:
   - split: 1
@@ -25015,7 +25015,7 @@
   splits:
   - split: 1
     text: "时辰清然林小偷"
-    translated: "Time is clear, Brother Lin the pickpocket"
+    translated: "Time of Day, Thief in the Serene Forest."
 - raw: "31855#封修#3247006#0#1#0#0#462#0#0#3906#1#0.0#0.0#0.0#0.0#0#0#0##62141##0#0#0#3247006#0#0#0#32#######0#"
   splits:
   - split: 1
@@ -25070,17 +25070,17 @@
   splits:
   - split: 1
     text: "时辰龙蛇寨山贼"
-    translated: "The time is ripe for an assault on the Serpent Dragon Den, a notorious mountain bandit stronghold"
+    translated: "Time at Dragon Snake Fort, mountain bandits"
 - raw: "31866#时辰清然林商人#3023004#0#1#0#2001#462#0#0#0#1#0.0#0.0#0.0#0.0#0#0#0#0#62141#0#100#0#0#3023004#0#0#0#323###500000####0#"
   splits:
   - split: 1
     text: "时辰清然林商人"
-    translated: "Time, clear as a merchant's sign at noon ‑ Mr. Lin"
+    translated: "Time at the Serene Forest Market"
 - raw: "31867#时辰金光圃小偷#3060007#0#1#0#0#462#0#0#3906#1#0.0#0.0#0.0#0.0#0#0#0##62141#46004|46013|57003|49003|49012|49023|45014#0#0#0#3060007#2#0#0#2#######0#"
   splits:
   - split: 1
     text: "时辰金光圃小偷"
-    translated: "Thief in the Golden Light Garden at Midnight"
+    translated: "Thief from Golden Grove at the appointed hour."
 - raw: "31873#解密引导#0#0#1#0#0#462#0#1#0#1#1072.93#365.693#1492.83#152.198#1#5325#0#0#62141##100#0##3061#32#0#0########0#"
   splits:
   - split: 1
@@ -42253,7 +42253,7 @@
   splits:
   - split: 1
     text: "清然林环境音"
-    translated: "Quiet and serene, like a tranquil forest"
+    translated: "Serene Forest Surrounding Sounds"
 - raw: "36882#宝箱#0#0#1#6#0#0#0#0#38013#1#519.344#318.472#1040.45#0.0#1#0#0##62141##100#0#0#3062#0#0#0########0#"
   splits:
   - split: 1
@@ -44143,7 +44143,7 @@
   splits:
   - split: 1
     text: "天清墨玉"
-    translated: "Auspicious and Pure as a Jade"
+    translated: "Celestial Ink Jade"
 - raw: "38141#赤金#5041#0#2#5#0#462#0#7#35041#1#0.0#0.0#0.0#0.0#0#0#0#0#62141##100#0#0#3052#2048#0#0#0#######0#"
   splits:
   - split: 1
@@ -49590,7 +49590,7 @@
   splits:
   - split: 1
     text: "天清墨玉"
-    translated: "Auspicious and Pure as a Jade"
+    translated: "Celestial Ink Jade"
 - raw: "54041#赤金#9000#0#2#5#0#462#0#5#805#1#0.0#0.0#0.0#0.0#0#0#0#0#62141##100#0#0#3052#2048#0#0#0#1######0#"
   splits:
   - split: 1
@@ -67847,7 +67847,7 @@
   splits:
   - split: 1
     text: "天清墨玉"
-    translated: "Auspicious and Pure as a Jade"
+    translated: "Celestial Ink Jade"
 - raw: "100015#卷柏#9116#0#2#5#0#462#0#1#61015#1#0.0#0.0#0.0#0.0#1#0#0#0#62141##100#0#0#3053#1024#0#0#0#1######0#"
   splits:
   - split: 1
@@ -72897,17 +72897,17 @@
   splits:
   - split: 1
     text: "姜花(留樱林)"
-    translated: "Jiang Hua (Cherry Forest Remains)"
+    translated: "Jiang Hua (Lingering Cherry Grove)"
 - raw: "130031#附子(留樱林)#9060#0#2#5#0#462#0#4#64031#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3053#1024#0#0########0#"
   splits:
   - split: 1
     text: "附子(留樱林)"
-    translated: "Aconite (Cherry Blossom Forest)"
+    translated: "Appendix (Lingering Cherry Grove)"
 - raw: "130032#麝香(留樱林)#9094#0#2#5#0#462#0#6#64032#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3053#1024#0#0########0#"
   splits:
   - split: 1
     text: "麝香(留樱林)"
-    translated: "Musk (Liuying Forest)"
+    translated: "Musk (Lingering Cherry Grove)"
 - raw: "130033#姜花(瑶华)#9055#0#2#5#0#462#0#3#64033#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3053#1024#0#0########0#"
   splits:
   - split: 1
@@ -73227,17 +73227,17 @@
   splits:
   - split: 1
     text: "铅矿(留樱林)"
-    translated: "Lead mine (Leave Cherry Blossom Forest)"
+    translated: "Lead Mine (Lingering Cherry Grove)"
 - raw: "130097#铅矿(留樱林)#5005#0#2#5#0#462#0#2#64097#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3052#2048#0#0########0#"
   splits:
   - split: 1
     text: "铅矿(留樱林)"
-    translated: "Lead mine (Leave Cherry Blossom Forest)"
+    translated: "Lead Mine (Lingering Cherry Grove)"
 - raw: "130098#青金石(留樱林)#5019#0#2#5#0#462#0#3#64098#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3052#2048#0#0########0#"
   splits:
   - split: 1
     text: "青金石(留樱林)"
-    translated: "Nephrite (Liuying Forest)"
+    translated: "Chengjin Stone (Lingering Cherry Grove)"
 - raw: "130099#雌黄(瑶华)#5006#0#2#5#0#462#0#2#64099#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3052#2048#0#0########0#"
   splits:
   - split: 1
@@ -83974,7 +83974,7 @@
   splits:
   - split: 1
     text: "龙蛇寨喽啰"
-    translated: "Outlaws of the Dragon‑Snake Gang"
+    translated: "Outlaws of the Dragon Snake Fort"
 - raw: "165599#狂刀门帮众#165599001#0#0#0#0#462#0#0#0#1#1095.33#365.7#1499.59#110.999#0#0#0##0#0#100#0##3086#0#0#0#0#1#1###0##0#"
   splits:
   - split: 1

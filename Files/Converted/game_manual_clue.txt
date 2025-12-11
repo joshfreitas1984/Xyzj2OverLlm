@@ -1337,7 +1337,7 @@
   splits:
   - split: 2
     text: "在<color=&&00ff00ff>时辰清然林商人</color>处有概率获得"
-    translated: "There is a chance to obtain from <color=&&00ff00ff>Shengran Lin Shangren</color>."
+    translated: "At <color=&&00ff00ff>Serene Forest Merchant's</color> place, there is a chance to obtain."
 - raw: "34424001#34424#在<color=&&00ff00ff>武馆教头（枰栌）</color>处有概率获得##0##"
   splits:
   - split: 2
@@ -2102,12 +2102,12 @@
   splits:
   - split: 2
     text: "在云鹤村仔细搜寻线索的途中遇到了万事通大叔,<color=&&DEB887>他透露有一伙可疑人正在金光圃花田聚集。</color>"
-    translated: "While carefully searching for clues in Cloud Crane Village, I encountered Uncle Wan Shi Tong. <color=&&DEB887>He revealed that a group of suspicious people were gathering at the Jinguangpu Flower Fields.</color>"
+    translated: "While carefully searching for clues in Cloud Crane Village, I encountered Uncle Wan Shi Tong. <color=&&DEB887>He revealed that a group of suspicious people were gathering at the flower fields in Golden Grove.</color>"
 - raw: "60001002#60001#从金光圃花田发现了那伙可疑人物的偷听中得知,<color=&&DEB887>云鹤村市集的桔子堆可能隐藏着某个宝物。</color>#0&24|973530|1#1#1105,1496#"
   splits:
   - split: 2
     text: "从金光圃花田发现了那伙可疑人物的偷听中得知,<color=&&DEB887>云鹤村市集的桔子堆可能隐藏着某个宝物。</color>"
-    translated: "From the eavesdropping in the flower field of Jin Guang Pu, we learned that a suspicious group discovered something: <color=&&DEB887>The pile of oranges at Cloud Crane Village's market might be hiding some treasure.</color>"
+    translated: "From eavesdropping on a suspicious group at the Golden Grove flower fields, we learned that <color=&&DEB887>the pile of tangerines at Cloud Crane Village's market might be hiding a treasure.</color>"
 - raw: "60002001#60002#听闻葡萄酒乃西域之物,干红之纯实,干白之清爽实在美味,<color=&&DEB887>或许常混迹西域之人能有此物。</color>#0&24|988859|1#0#0#"
   splits:
   - split: 2
@@ -2157,12 +2157,12 @@
   splits:
   - split: 2
     text: "据郑婶所说,<color=&&DEB887>飞炼瀑对修行和刀法练习很有益处。</color>"
-    translated: "According to Aunt Zheng, <color=&&DEB887>the Flying Refining Waterfall is very beneficial for cultivation and practicing the Blade Art.</color>"
+    translated: "According to Auntie Zheng, <color=&&DEB887>Flying Forge Falls is very beneficial for training and practicing blade techniques.</color>"
 - raw: "60008001#60008#听甄寅所述,<color=&&DEB887>似乎在清然林中有公主的踪迹。</color>#0&30|972550|1#0##"
   splits:
   - split: 2
     text: "听甄寅所述,<color=&&DEB887>似乎在清然林中有公主的踪迹。</color>"
-    translated: "Hearing what Zhen Yin described, <color=&&DEB887>, it seems there is a trace of the princess in Qianran Forest.</color>"
+    translated: "It seems, according to Zhen Yin's account, that there are traces of a princess in the Serene Forest."
 - raw: "60009001#60009#需要准备香。<color=&&DEB887>可以找云鹤村的杂货商,看看是否有香可供购买。</color>#0&24|990393|1#0##"
   splits:
   - split: 2
@@ -2187,7 +2187,7 @@
   splits:
   - split: 2
     text: "在云鹤村市集听到一些村里的传闻,<color=&&DEB887>发现金光圃的河边有几个打扮像江湖人士的人。</color>"
-    translated: "At the market in Cloud Crane Village, I heard some rumors from the locals. <color=&&DEB887>I discovered that several individuals dressed like people of the Jianghu were spotted by the riverside near Jinguangpu.</color>"
+    translated: "At the market in Cloud Crane Village, I overheard some village rumors: <color=&&DEB887>It seems there are several people dressed like Jianghu practitioners by the riverbank of Golden Grove.</color>"
 - raw: "60010004#60010#在云鹤村市集听到一些村里的传闻,<color=&&DEB887>偶然发现乐鸿博无意中透露了他们从不夜京购得情报和钥匙的事情。</color>#0&24|990273|1#0##"
   splits:
   - split: 2
@@ -2227,7 +2227,7 @@
   splits:
   - split: 2
     text: "向李承誉口打听后得知,<color=&&DEB887>原来龙蛇寨的山贼将抢走的江湖醉藏在龙蛇寨宝库之中。</color>"
-    translated: "After asking Master Li Chengyu, they learned that the bandits from Longshe Camp had hidden the stolen Jianghu Zixiang in the treasure vault of Longshe Camp."
+    translated: "After questioning Brother Li Chengyu, it was revealed that <color=&&DEB887>the bandits from Dragon Snake Fort had hidden the stolen Jianghu treasures in the fort's treasury.</color>"
 - raw: "60020001#60020#村长果然知晓养剑术,此乃虞令羽的不二绝学,只是虞令羽失踪已久,养剑术也不翼而飞,<color=&&DEB887>其墓安置在坟山,如此英雄人物我应当去好好祭拜才是！</color>#0&24|957518|1#0##"
   splits:
   - split: 2
@@ -2237,12 +2237,12 @@
   splits:
   - split: 2
     text: "万事通告知东西被龙蛇寨二当家截胡,这群恶人无恶不作,<color=&&DEB887>平日里就在龙蛇寨附近的房子上居住。</color>"
-    translated: "Wan Shi Tong informs that the East and West were intercepted by the Second Boss of Long She Zhai. This group of villains are without any sense of shame, <color=&&DEB887>living in houses around Long She Zhai during the day.</color>"
+    translated: "Wan Shi Tong informs that the goods heading east and west have been intercepted by the Second Boss of Dragon Snake Fort. These villains are without scruples, <color=&&DEB887>usually residing in houses near Dragon Snake Fort.</color>"
 - raw: "60021002#60021#来到龙蛇寨之后才发现,原来是万事通把我给骗了！此事一定要<color=&&DEB887>回去找万事通要个说法！</color>#0&24|939812|1#0##"
   splits:
   - split: 2
     text: "来到龙蛇寨之后才发现,原来是万事通把我给骗了！此事一定要<color=&&DEB887>回去找万事通要个说法！</color>"
-    translated: "Upon arriving at the Longshe Camp, I discovered that it was Wan Shi Tong who had deceived me! This matter must be settled by going back and confronting Wan Shi Tong. <color=&&DEB887>I must get an explanation from him!</color>"
+    translated: "Upon arriving at the Dragon Snake Fort, I discovered that it was Wan Shi Tong who had deceived me! This matter must be resolved by <color=&&DEB887>returning to find an explanation from Wan Shi Tong.</color>"
 - raw: "60021003#60021#听到万事通说将<color=&&DEB887>宝物藏到了村里大佛头顶</color>,我倒要看看是什么宝贝。#0&24|939794|1#0##"
   splits:
   - split: 2
@@ -2692,7 +2692,7 @@
   splits:
   - split: 2
     text: "我对墨学有所感悟，若想精进武学，还需前往龙蛇寨附近山上寻color=&&00ff00ff>机杼人偶(1044,1360)</color>。最好是墨学达到三百再去。"
-    translated: "I've gained some insights into Mohism. If you wish to advance in martial arts, you need to go to the mountains near Longshe Village and find the color=&&00ff00ff>machine‑knitted dolls (1044,1360)</color>. It would be best if your understanding of Mohism reaches three hundred before going."
+    translated: "I have gained some insights into Mohism. If I want to further my martial arts, I need to go to the mountains near Dragon Snake Fort and find a color=&&00ff00ff>wooden dummy(1044,1360)</color>. It is best to reach three hundred in Mohism before going."
 - raw: "60091001#60091#包里也算小有钱了，听闻不夜京御者附近有人在卖岛契，或许我可以去看看。#0&18|1|68|200000|>=#0##"
   splits:
   - split: 2

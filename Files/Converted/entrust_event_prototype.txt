@@ -1052,7 +1052,7 @@
     translated: "Give {I} to {A}"
   - split: 37
     text: "飞炼瀑药草"
-    translated: "Alchemic Ascension Herb"
+    translated: "Herb of the Flying Forge Falls"
 - raw: "37502#飞瀑清泉#0#0#0#952412#952406#952407##18146|1##0&24|952415|1##0#7001|2&7002|2#0#0#0#0#25#0|1|36502#0#0#0##0##0#0#0##0#0#0#获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})#将{I}交给{A}#0#飞炼瀑清泉#0###0#0#"
   splits:
   - split: 1
@@ -1066,7 +1066,7 @@
     translated: "Give {I} to {A}"
   - split: 37
     text: "飞炼瀑清泉"
-    translated: "Fei Lian Pu Qing Quan"
+    translated: "Flying Forge Falls Clear Spring"
 - raw: "100001#缺味佳肴#0#0#0#0#0#0######0#8005|1&8011|1&8013|1#0##0#0#107#9011|1#1##0#前些日子出任务受了伤不宜出门，偏又想吃些鱼。特设此令以征三条太公鱼。#0##0#0#0##0#0#0#获得{I}（{NeedItemInfoCount}/{N})#回禀{AA}#0#缺味佳肴#0##94|20&91|20#0#0#"
   splits:
   - split: 1
@@ -4292,16 +4292,16 @@
   splits:
   - split: 1
     text: "委托引导到龙蛇寨（云鹤村）"
-    translated: "Commissioned to guide to Longshe Encampment. (Cloud Crane Village)"
+    translated: "Commission guide to Dragon Snake Fort (Cloud Crane Village)."
   - split: 34
     text: "到达目标点{GetZhiYingTargetPos}并观察龙蛇寨（{IsCanFinish:0:1}/1）"
-    translated: "Arrive at the target location {GetZhiYingTargetPos} and observe Longshe Encampment ({IsCanFinish:0:1}/1)."
+    translated: "Arrive at the target point {GetZhiYingTargetPos} and observe the Dragon Snake Fort ({IsCanFinish:0:1}/1)."
   - split: 35
     text: "回禀{A}"
     translated: "Report to {A}"
   - split: 37
     text: "探查龙蛇寨"
-    translated: "Investigate the Dragon‑Snake Encampment"
+    translated: "Investigate Dragon Snake Fort"
 - raw: "220104#委托得出示道具段鸿鸣（长旌军）#1#1200#0#950913#950900#950902##80105|1#0&34|725.7465|293.5366|1149.5|2|0|950901###0#7001|2&7006|1#0##0#0#10#725.7465|293.5366|1149.5|2|0|950901#0##0##21##0#0#0##0#0#0#到达目标点{GetZhiYingTargetPos}并观察周围（{IsCanFinish:0:1}/1）#回禀{A}#1#探明地点#0###0#0#"
   splits:
   - split: 1
@@ -6262,7 +6262,7 @@
   splits:
   - split: 1
     text: "龙蛇寨-陈鸣"
-    translated: "Dragon and Snake Camp ‑ Chen Ming"
+    translated: "Dragon Snake Fort ‑ Chen Ming"
   - split: 34
     text: "获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
     translated: "Obtained {I} ({HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
@@ -24169,10 +24169,10 @@
     translated: "Yu Shu"
   - split: 24
     text: "邻里间来了位叫做{E}的行走，此人在金光圃间为非作歹无恶不作，小女没有办法只得求人替天行道。"
-    translated: "In the neighborhood, a troublemaker named {E} has appeared. This person causes mischief and is up to no good in Jin Guang Pu without any restraint. The young woman had no choice but to seek someone to uphold justice on her behalf."
+    translated: "A troublemaker by the name of {E} has arrived among our neighbors. This person causes chaos and commits all sorts of misdeeds in Golden Grove, leaving my daughter with no choice but to seek help from others to right these wrongs."
   - split: 34
     text: "前往金光圃劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Head to Jin Guang Pu to assassinate {E} ({IsCanFinish:0:1}/1)."
+    translated: "Proceed to raid {E} at the Golden Grove ({IsCanFinish:0:1}/1)."
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"

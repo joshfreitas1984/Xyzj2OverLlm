@@ -532,17 +532,17 @@
   splits:
   - split: 3
     text: "金光圃"
-    translated: "Jinguangpu"
+    translated: "Golden Grove"
 - raw: "402#2#1041.434,0.900,1602.761#飞炼瀑##0#0#"
   splits:
   - split: 3
     text: "飞炼瀑"
-    translated: "Flying Alchemical Falls"
+    translated: "Flying Forge Falls"
 - raw: "403#2#962.309,0.900,1516.155#清然林##0#0#"
   splits:
   - split: 3
     text: "清然林"
-    translated: "Qing Ran Lin"
+    translated: "Serene Forest"
 - raw: "404#2#491.792,0.900,689.233#营地##0#0#"
   splits:
   - split: 3
@@ -722,7 +722,7 @@
   splits:
   - split: 3
     text: "龙蛇寨"
-    translated: "Longshe Zhai"
+    translated: "Dragon Snake Fort"
 - raw: "440#2#-83.164,0.900,923.484#无涯海##0#0#"
   splits:
   - split: 3

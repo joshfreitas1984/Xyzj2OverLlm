@@ -16,7 +16,7 @@
     translated: "Effectiveness: <color=&&97a36d>After equipping, increase potential based on the proportion of attribute points relative to their maximum values."
   - split: 12
     text: " 线索：<color=&&c3804e>寻天下刀之道达到狂刀之上的刀者。听闻清然林附近(957,1529)有此等人物。</color>"
-    translated: "Clue: <color=&&c3804e>The seeker of the way of blades who aspires to surpass the realm of mad swords. It is said that such a personage can be found near Qingran Forest, (957,1529).</color>"
+    translated: "Clue: <color=&&c3804e>The one who seeks the way of blades to surpass the mad swordsmen is said to be in the vicinity of Serene Forest near (957,1529).</color>"
 - raw: "3402#新发于硎#0#本为闲散之人所创，经各路江湖人士之手日渐成熟之技艺。效果：<color=&&97a36d>装备后根据角色当前属性值，提升筋骨</color>#0#34#11490##2#zhanshu/daofa11#18|1|34|250|>=#效果：<color=&&97a36d>装备后根据对应属性点数占最大值比例，提升筋骨# 线索：<color=&&c3804e>寻天下刀之道达到刀髯之上的刀者。有人在(1516,1012)一带见过如此人物。</color>#zhanshu/daofa12#3#34|6##0#50#0#1000#0&15|1|0|1|>=#1#"
   splits:
   - split: 1

@@ -3237,17 +3237,17 @@
   splits:
   - split: 10
     text: "伯子越相关"
-    translated: "Brother Yu is related"
+    translated: "Bo Ziyue related"
 - raw: "2025014#15056#1#9#0#0#0#0#0&24|954363|1;27|25938|0!;24|953540|0#1&24|953540|1;3|5055|1;3|45058|1#伯子越相关#0#954354###1#0#0#0#0#"
   splits:
   - split: 10
     text: "伯子越相关"
-    translated: "Brother Yu is related"
+    translated: "Bo Ziyue related"
 - raw: "2025016#2025#1#9#0#0#0#0#0&24|954357|1;3|5055|1;3|45058|0;24|953540|0#1&24|954346|1;27|25938|0#伯子越相关：铸剑#3386#0###1#0#0#0#0#"
   splits:
   - split: 10
     text: "伯子越相关：铸剑"
-    translated: "Brother Zhuo relevant: Forging a sword"
+    translated: "Related to Bo Ziyue: Forging a sword"
 - raw: "2025019#2025#4#20#0#0#0#0#0#0##0#0###0#0#0#0#0#"
   splits: []
 - raw: "2025021#2025#4#46#0#0#0#修理#0#0##0#0###0#0#0#0#0#"
@@ -4916,12 +4916,12 @@
   splits:
   - split: 10
     text: "飞炼瀑泉水"
-    translated: "Qiulian's Cliff Springwater"
+    translated: "Water from Flying Forge Falls"
 - raw: "25409002#25409#1#21#37501#0#10000#0#0#0&79|0|37501|1|1#飞炼瀑药草#0#0###1#0#0#0#0#"
   splits:
   - split: 10
     text: "飞炼瀑药草"
-    translated: "Alchemic Ascension Herb"
+    translated: "Herb of the Flying Forge Falls"
 - raw: "25450001#25450#2#27#0#0#0#0#0#0##0#0###0#0#0#0#0#"
   splits: []
 - raw: "25552001#25552#1#21#325167#0#10000#0#0#0##0#0###0#0#0#0#0#"
@@ -5039,7 +5039,7 @@
   splits:
   - split: 10
     text: "飞炼瀑在什么地方？"
-    translated: "Where is Flying Cinnabar Falls?"
+    translated: "Where are the Flying Forge Falls located?"
 - raw: "30028002#30028#1#9#0#0#0#0#0&24|972274|1#0&24|972253|1#郑大婶，你这里可是有些菩提典籍？#0#972253##0|33006|1#0#0#0#0#0#"
   splits:
   - split: 10
@@ -5165,12 +5165,12 @@
   splits:
   - split: 10
     text: "伯子越相关"
-    translated: "Brother Yu is related"
+    translated: "Bo Ziyue related"
 - raw: "30079009#30079#1#9#0#0#0#0#0&24|954351|1;3|25015|2;3|25016|2;24|953540|0#1&24|954342|1;27|25938|0#伯子越相关：酿酒#3388#0###1#0#0#0#0#"
   splits:
   - split: 10
     text: "伯子越相关：酿酒"
-    translated: "Brother Yu is related: Brewing"
+    translated: "Bo Ziyue related: Brewing"
 - raw: "30081002#30081#2#27#0#0#0#0#0#0##0#0###0#0#0#0#0#"
   splits: []
 - raw: "30081003#30081#2#28#0#0#0#0#0#0##0#0###0#0#0#0#0#"
@@ -7157,7 +7157,7 @@
   splits:
   - split: 10
     text: "兄台守着这龙蛇寨作甚？"
-    translated: "Brother, what are you guarding the Dragon Snake Camp for?"
+    translated: "Brother, what are you guarding this Dragon Snake Fort for?"
 - raw: "31862002#31862#1#9#0#0#0#0#0&24|957971|1#0&24|957971|1;82|25004|1#宋知书兄台，我怎么为你报仇？#0#957958###0#0#0#0#0#"
   splits:
   - split: 10

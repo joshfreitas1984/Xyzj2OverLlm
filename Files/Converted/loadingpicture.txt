@@ -2,7 +2,7 @@
   splits:
   - split: 2
     text: "清然林"
-    translated: "Qing Ran Lin"
+    translated: "Serene Forest"
   - split: 3
     text: "青岚帚亚君祖，|绿润高枝忆蔡邕。|长听南园风雨夜，|恐生鳞甲尽为龙。"
     translated: "Green Mist, Master Zha Yu|The lush leaves recall Cai Yong|Listening to the wind and rain in Nanyuan at night.|Fear that scales become a dragon entirely"
@@ -26,7 +26,7 @@
   splits:
   - split: 2
     text: "龙骨岛"
-    translated: "Dragon Bone Island"
+    translated: "Dragonbone Island"
   - split: 3
     text: "海月为饰，龙骨作里，|博览万物而遨游，望天地而观浩渺。"
     translated: "Sea cucumber as ornamentation, dragon bones for filling.|Surveying all things and roaming freely, gazing at the vastness of heaven and earth."
@@ -34,7 +34,7 @@
   splits:
   - split: 2
     text: "龙骨岛"
-    translated: "Dragon Bone Island"
+    translated: "Dragonbone Island"
   - split: 3
     text: "海月为饰，龙骨作里，|博览万物而遨游，望天地而观浩渺。"
     translated: "Sea cucumber as ornamentation, dragon bones for filling.|Surveying all things and roaming freely, gazing at the vastness of heaven and earth."
@@ -42,7 +42,7 @@
   splits:
   - split: 2
     text: "龙骨岛"
-    translated: "Dragon Bone Island"
+    translated: "Dragonbone Island"
   - split: 3
     text: "海月为饰，龙骨作里，|博览万物而遨游，望天地而观浩渺。"
     translated: "Sea cucumber as ornamentation, dragon bones for filling.|Surveying all things and roaming freely, gazing at the vastness of heaven and earth."
@@ -50,7 +50,7 @@
   splits:
   - split: 2
     text: "龙骨岛"
-    translated: "Dragon Bone Island"
+    translated: "Dragonbone Island"
   - split: 3
     text: "海月为饰，龙骨作里，|博览万物而遨游，望天地而观浩渺。"
     translated: "Sea cucumber as ornamentation, dragon bones for filling.|Surveying all things and roaming freely, gazing at the vastness of heaven and earth."

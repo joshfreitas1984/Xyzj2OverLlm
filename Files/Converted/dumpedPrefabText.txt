@@ -5074,7 +5074,7 @@
 - raw: "开启"
   splits:
   - text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "特殊属性"
   splits:
   - text: "特殊属性"

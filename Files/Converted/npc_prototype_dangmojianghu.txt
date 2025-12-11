@@ -1192,7 +1192,7 @@
   splits:
   - split: 1
     text: "天清墨玉"
-    translated: "Auspicious and Pure as a Jade"
+    translated: "Celestial Ink Jade"
 - raw: "38141#赤金#5041#0#2#5#0#462#0#7#35041#1#0.0#0.0#0.0#0.0#0#0#0#0#62141##100#0#0#3052#2048#0#0#0###50000000####0#"
   splits:
   - split: 1
@@ -1472,7 +1472,7 @@
   splits:
   - split: 1
     text: "天清墨玉"
-    translated: "Auspicious and Pure as a Jade"
+    translated: "Celestial Ink Jade"
 - raw: "54041#赤金#9000#0#2#5#0#462#0#5#805#1#0.0#0.0#0.0#0.0#0#0#0#0#62141##100#0#0#3052#2048#0#0#0#1##50000000####0#"
   splits:
   - split: 1
@@ -6552,7 +6552,7 @@
   splits:
   - split: 1
     text: "天清墨玉"
-    translated: "Auspicious and Pure as a Jade"
+    translated: "Celestial Ink Jade"
 - raw: "1000151#卷柏#9116#0#2#5#0#462#0#1#61015#1#0.0#0.0#0.0#0.0#1#0#0#0#62141##100#0#0#3053#1024#0#0#0#1##50000000##0##0#"
   splits:
   - split: 1
@@ -8862,17 +8862,17 @@
   splits:
   - split: 1
     text: "姜花(留樱林)"
-    translated: "Jiang Hua (Cherry Forest Remains)"
+    translated: "Jiang Hua (Lingering Cherry Grove)"
 - raw: "1300311#附子(留樱林)#9060#0#2#5#0#462#0#4#64031#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3053#1024#0#0####50000000##0##0#"
   splits:
   - split: 1
     text: "附子(留樱林)"
-    translated: "Aconite (Cherry Blossom Forest)"
+    translated: "Appendix (Lingering Cherry Grove)"
 - raw: "1300321#麝香(留樱林)#9094#0#2#5#0#462#0#6#64032#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3053#1024#0#0####50000000##0##0#"
   splits:
   - split: 1
     text: "麝香(留樱林)"
-    translated: "Musk (Liuying Forest)"
+    translated: "Musk (Lingering Cherry Grove)"
 - raw: "1300331#姜花(瑶华)#9055#0#2#5#0#462#0#3#64033#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3053#1024#0#0####50000000##0##0#"
   splits:
   - split: 1
@@ -9192,17 +9192,17 @@
   splits:
   - split: 1
     text: "铅矿(留樱林)"
-    translated: "Lead mine (Leave Cherry Blossom Forest)"
+    translated: "Lead Mine (Lingering Cherry Grove)"
 - raw: "1300971#铅矿(留樱林)#5005#0#2#5#0#462#0#2#64097#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3052#2048#0#0####50000000##0##0#"
   splits:
   - split: 1
     text: "铅矿(留樱林)"
-    translated: "Lead mine (Leave Cherry Blossom Forest)"
+    translated: "Lead Mine (Lingering Cherry Grove)"
 - raw: "1300981#青金石(留樱林)#5019#0#2#5#0#462#0#3#64098#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3052#2048#0#0####50000000##0##0#"
   splits:
   - split: 1
     text: "青金石(留樱林)"
-    translated: "Nephrite (Liuying Forest)"
+    translated: "Chengjin Stone (Lingering Cherry Grove)"
 - raw: "1300991#雌黄(瑶华)#5006#0#2#5#0#462#0#2#64099#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3052#2048#0#0####50000000##0##0#"
   splits:
   - split: 1

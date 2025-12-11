@@ -2083,6 +2083,11 @@
   literal: ji neng juan
 
 # Items and Minerals
+- raw: 天清墨玉
+  result: Celestial Ink Jade
+  badtrans: true
+  direct: sky clear ink jade
+  literal: tian qing mo yu
 - raw: 无瞿
   result: Clarity
   badtrans: false  
@@ -5446,6 +5451,31 @@
   literal: Li San wen  
 
 # Factions & Places
+- raw: 龙骨岛
+  result: Dragonbone Island
+  badtrans: true
+  direct: Dragon Bone Island
+  literal: Long Gu Dao
+- raw: 留樱林
+  result: Lingering Cherry Grove
+  badtrans: true
+  direct: stay cherry forest
+  literal: liu ying lin
+- raw: 飞炼瀑
+  result: Flying Forge Falls
+  badtrans: true
+  direct: fly refine waterfall
+  literal: fei lian pu
+- raw: 金光圃
+  result: Golden Grove
+  badtrans: true
+  direct: gold light garden
+  literal: jin guang pu
+- raw: 清然林
+  result: Serene Forest
+  badtrans: true
+  direct: clear thus forest
+  literal: qing ran lin
 - raw: 龙蛇寨
   result: Dragon Snake Fort
   badtrans: true

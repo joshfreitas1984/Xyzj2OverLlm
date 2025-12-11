@@ -2,50 +2,50 @@
   splits:
   - split: 4
     text: "飞炼瀑"
-    translated: "Flying Alchemical Falls"
+    translated: "Flying Forge Falls"
   - split: 6
     text: "昔有一处峡谷，山峦环绕，陡峭异常，其中一道瀑布悬挂峭壁，水流如飞，宛若银练飞舞，犹如仙女披散长发，在千层云雾之间起舞，令人目为之惊心，称之为飞炼瀑。"
-    translated: "Long ago, there was a valley nestled among mountains that stood in sharp contrast to one another. In this valley flowed a waterfall cascading down a sheer cliff, its water rushing like lightning as it danced through the air, resembling strands of silver silk in motion. It seemed as if celestial nymphs were swirling their long hair amid layers of mist and clouds, performing an ethereal dance that left onlookers with hearts racing in awe. This breathtaking waterfall was known as the Flying Silver Silk Waterfall"
+    translated: "Long ago, there was a gorge surrounded by steep mountains. In the midst of it hung a waterfall cascading down a sheer cliff, its waters flowing like an aerial dance, resembling silver streams swirling with abandon. It appeared as if celestial maidens were twirling their long hair amidst layers of clouds, leaving onlookers in awe. This breathtaking sight came to be known as Flying Forge Falls."
 - raw: "2#1#2#1050.334,0.200,1510.267#飞炼瀑#0#昔有一处峡谷，山峦环绕，陡峭异常，其中一道瀑布悬挂峭壁，水流如飞，宛若银练飞舞，犹如仙女披散长发，在千层云雾之间起舞，令人目为之惊心，称之为飞炼瀑。#0#0#suqingzhi_theme#"
   splits:
   - split: 4
     text: "飞炼瀑"
-    translated: "Flying Alchemical Falls"
+    translated: "Flying Forge Falls"
   - split: 6
     text: "昔有一处峡谷，山峦环绕，陡峭异常，其中一道瀑布悬挂峭壁，水流如飞，宛若银练飞舞，犹如仙女披散长发，在千层云雾之间起舞，令人目为之惊心，称之为飞炼瀑。"
-    translated: "Long ago, there was a valley nestled among mountains that stood in sharp contrast to one another. In this valley flowed a waterfall cascading down a sheer cliff, its water rushing like lightning as it danced through the air, resembling strands of silver silk in motion. It seemed as if celestial nymphs were swirling their long hair amid layers of mist and clouds, performing an ethereal dance that left onlookers with hearts racing in awe. This breathtaking waterfall was known as the Flying Silver Silk Waterfall"
+    translated: "Long ago, there was a gorge surrounded by steep mountains. In the midst of it hung a waterfall cascading down a sheer cliff, its waters flowing like an aerial dance, resembling silver streams swirling with abandon. It appeared as if celestial maidens were twirling their long hair amidst layers of clouds, leaving onlookers in awe. This breathtaking sight came to be known as Flying Forge Falls."
 - raw: "3#1#2#1072.317,0.200,1571.533#飞炼瀑#0#昔有一处峡谷，山峦环绕，陡峭异常，其中一道瀑布悬挂峭壁，水流如飞，宛若银练飞舞，犹如仙女披散长发，在千层云雾之间起舞，令人目为之惊心，称之为飞炼瀑。#0#0#suqingzhi_theme#"
   splits:
   - split: 4
     text: "飞炼瀑"
-    translated: "Flying Alchemical Falls"
+    translated: "Flying Forge Falls"
   - split: 6
     text: "昔有一处峡谷，山峦环绕，陡峭异常，其中一道瀑布悬挂峭壁，水流如飞，宛若银练飞舞，犹如仙女披散长发，在千层云雾之间起舞，令人目为之惊心，称之为飞炼瀑。"
-    translated: "Long ago, there was a valley nestled among mountains that stood in sharp contrast to one another. In this valley flowed a waterfall cascading down a sheer cliff, its water rushing like lightning as it danced through the air, resembling strands of silver silk in motion. It seemed as if celestial nymphs were swirling their long hair amid layers of mist and clouds, performing an ethereal dance that left onlookers with hearts racing in awe. This breathtaking waterfall was known as the Flying Silver Silk Waterfall"
+    translated: "Long ago, there was a gorge surrounded by steep mountains. In the midst of it hung a waterfall cascading down a sheer cliff, its waters flowing like an aerial dance, resembling silver streams swirling with abandon. It appeared as if celestial maidens were twirling their long hair amidst layers of clouds, leaving onlookers in awe. This breathtaking sight came to be known as Flying Forge Falls."
 - raw: "4#1#2#1040.945,0.200,1616.615#飞炼瀑#0#昔有一处峡谷，山峦环绕，陡峭异常，其中一道瀑布悬挂峭壁，水流如飞，宛若银练飞舞，犹如仙女披散长发，在千层云雾之间起舞，令人目为之惊心，称之为飞炼瀑。#0#0#suqingzhi_theme#"
   splits:
   - split: 4
     text: "飞炼瀑"
-    translated: "Flying Alchemical Falls"
+    translated: "Flying Forge Falls"
   - split: 6
     text: "昔有一处峡谷，山峦环绕，陡峭异常，其中一道瀑布悬挂峭壁，水流如飞，宛若银练飞舞，犹如仙女披散长发，在千层云雾之间起舞，令人目为之惊心，称之为飞炼瀑。"
-    translated: "Long ago, there was a valley nestled among mountains that stood in sharp contrast to one another. In this valley flowed a waterfall cascading down a sheer cliff, its water rushing like lightning as it danced through the air, resembling strands of silver silk in motion. It seemed as if celestial nymphs were swirling their long hair amid layers of mist and clouds, performing an ethereal dance that left onlookers with hearts racing in awe. This breathtaking waterfall was known as the Flying Silver Silk Waterfall"
+    translated: "Long ago, there was a gorge surrounded by steep mountains. In the midst of it hung a waterfall cascading down a sheer cliff, its waters flowing like an aerial dance, resembling silver streams swirling with abandon. It appeared as if celestial maidens were twirling their long hair amidst layers of clouds, leaving onlookers in awe. This breathtaking sight came to be known as Flying Forge Falls."
 - raw: "5#1#2#1020.426,0.200,1528.799#飞炼瀑#0#昔有一处峡谷，山峦环绕，陡峭异常，其中一道瀑布悬挂峭壁，水流如飞，宛若银练飞舞，犹如仙女披散长发，在千层云雾之间起舞，令人目为之惊心，称之为飞炼瀑。#0#0#suqingzhi_theme#"
   splits:
   - split: 4
     text: "飞炼瀑"
-    translated: "Flying Alchemical Falls"
+    translated: "Flying Forge Falls"
   - split: 6
     text: "昔有一处峡谷，山峦环绕，陡峭异常，其中一道瀑布悬挂峭壁，水流如飞，宛若银练飞舞，犹如仙女披散长发，在千层云雾之间起舞，令人目为之惊心，称之为飞炼瀑。"
-    translated: "Long ago, there was a valley nestled among mountains that stood in sharp contrast to one another. In this valley flowed a waterfall cascading down a sheer cliff, its water rushing like lightning as it danced through the air, resembling strands of silver silk in motion. It seemed as if celestial nymphs were swirling their long hair amid layers of mist and clouds, performing an ethereal dance that left onlookers with hearts racing in awe. This breathtaking waterfall was known as the Flying Silver Silk Waterfall"
+    translated: "Long ago, there was a gorge surrounded by steep mountains. In the midst of it hung a waterfall cascading down a sheer cliff, its waters flowing like an aerial dance, resembling silver streams swirling with abandon. It appeared as if celestial maidens were twirling their long hair amidst layers of clouds, leaving onlookers in awe. This breathtaking sight came to be known as Flying Forge Falls."
 - raw: "6#1#2#1069.638,0.200,1587.953#飞炼瀑#0#昔有一处峡谷，山峦环绕，陡峭异常，其中一道瀑布悬挂峭壁，水流如飞，宛若银练飞舞，犹如仙女披散长发，在千层云雾之间起舞，令人目为之惊心，称之为飞炼瀑。#0#0#suqingzhi_theme#"
   splits:
   - split: 4
     text: "飞炼瀑"
-    translated: "Flying Alchemical Falls"
+    translated: "Flying Forge Falls"
   - split: 6
     text: "昔有一处峡谷，山峦环绕，陡峭异常，其中一道瀑布悬挂峭壁，水流如飞，宛若银练飞舞，犹如仙女披散长发，在千层云雾之间起舞，令人目为之惊心，称之为飞炼瀑。"
-    translated: "Long ago, there was a valley nestled among mountains that stood in sharp contrast to one another. In this valley flowed a waterfall cascading down a sheer cliff, its water rushing like lightning as it danced through the air, resembling strands of silver silk in motion. It seemed as if celestial nymphs were swirling their long hair amid layers of mist and clouds, performing an ethereal dance that left onlookers with hearts racing in awe. This breathtaking waterfall was known as the Flying Silver Silk Waterfall"
+    translated: "Long ago, there was a gorge surrounded by steep mountains. In the midst of it hung a waterfall cascading down a sheer cliff, its waters flowing like an aerial dance, resembling silver streams swirling with abandon. It appeared as if celestial maidens were twirling their long hair amidst layers of clouds, leaving onlookers in awe. This breathtaking sight came to be known as Flying Forge Falls."
 - raw: "7#2#2#1070.493,0.200,1557.829#云鹤村市集#0#云鹤村市集商贾云集，金银珠宝、美茶佳肴、各种珍稀药材应有尽有，市集之声，脍炙人口。而此处商贾品德高尚，买卖公平公正，让来往的客商倍感安心，赞誉不断。村民们也以此为荣，自豪之情溢于言表。#0#0#bgm_changjing_yunhecun#"
   splits:
   - split: 4
@@ -90,87 +90,87 @@
   splits:
   - split: 4
     text: "金光圃"
-    translated: "Jinguangpu"
+    translated: "Golden Grove"
   - split: 6
     text: "金光圃，位于云鹤村村北，此处山峦环绕，溪水潺潺，土地广阔而肥沃，远处青山环绕，近处百花盛开，引人流连忘返。"
-    translated: "Golden Light Garden is located north of Cloud Crane Village, surrounded by rolling hills with babbling brooks. The land here is vast and fertile, encircled by distant green mountains and nearby flourishing flowers that entice visitors to linger endlessly."
+    translated: "Golden Grove is located to the north of Cloud Crane Village. Here, hills surround it, streams murmur gently, and the land is vast and fertile. In the distance, green mountains encircle it, while nearby, a myriad of flowers bloom in full splendor, captivating anyone who passes by."
 - raw: "13#4#2#1142.816,0.200,1498.093#金光圃#0#金光圃，位于云鹤村村北，此处山峦环绕，溪水潺潺，土地广阔而肥沃，远处青山环绕，近处百花盛开，引人流连忘返。#0#0#bgm_changjing_yewai#"
   splits:
   - split: 4
     text: "金光圃"
-    translated: "Jinguangpu"
+    translated: "Golden Grove"
   - split: 6
     text: "金光圃，位于云鹤村村北，此处山峦环绕，溪水潺潺，土地广阔而肥沃，远处青山环绕，近处百花盛开，引人流连忘返。"
-    translated: "Golden Light Garden is located north of Cloud Crane Village, surrounded by rolling hills with babbling brooks. The land here is vast and fertile, encircled by distant green mountains and nearby flourishing flowers that entice visitors to linger endlessly."
+    translated: "Golden Grove is located to the north of Cloud Crane Village. Here, hills surround it, streams murmur gently, and the land is vast and fertile. In the distance, green mountains encircle it, while nearby, a myriad of flowers bloom in full splendor, captivating anyone who passes by."
 - raw: "14#4#2#1187.016,0.200,1452.547#金光圃#0#金光圃，位于云鹤村村北，此处山峦环绕，溪水潺潺，土地广阔而肥沃，远处青山环绕，近处百花盛开，引人流连忘返。#0#0#bgm_changjing_yewai#"
   splits:
   - split: 4
     text: "金光圃"
-    translated: "Jinguangpu"
+    translated: "Golden Grove"
   - split: 6
     text: "金光圃，位于云鹤村村北，此处山峦环绕，溪水潺潺，土地广阔而肥沃，远处青山环绕，近处百花盛开，引人流连忘返。"
-    translated: "Golden Light Garden is located north of Cloud Crane Village, surrounded by rolling hills with babbling brooks. The land here is vast and fertile, encircled by distant green mountains and nearby flourishing flowers that entice visitors to linger endlessly."
+    translated: "Golden Grove is located to the north of Cloud Crane Village. Here, hills surround it, streams murmur gently, and the land is vast and fertile. In the distance, green mountains encircle it, while nearby, a myriad of flowers bloom in full splendor, captivating anyone who passes by."
 - raw: "15#4#2#1176.271,0.200,1401.755#金光圃#0#金光圃，位于云鹤村村北，此处山峦环绕，溪水潺潺，土地广阔而肥沃，远处青山环绕，近处百花盛开，引人流连忘返。#0#0#bgm_changjing_yewai#"
   splits:
   - split: 4
     text: "金光圃"
-    translated: "Jinguangpu"
+    translated: "Golden Grove"
   - split: 6
     text: "金光圃，位于云鹤村村北，此处山峦环绕，溪水潺潺，土地广阔而肥沃，远处青山环绕，近处百花盛开，引人流连忘返。"
-    translated: "Golden Light Garden is located north of Cloud Crane Village, surrounded by rolling hills with babbling brooks. The land here is vast and fertile, encircled by distant green mountains and nearby flourishing flowers that entice visitors to linger endlessly."
+    translated: "Golden Grove is located to the north of Cloud Crane Village. Here, hills surround it, streams murmur gently, and the land is vast and fertile. In the distance, green mountains encircle it, while nearby, a myriad of flowers bloom in full splendor, captivating anyone who passes by."
 - raw: "16#4#2#1115.833,0.200,1412.010#金光圃#0#金光圃，位于云鹤村村北，此处山峦环绕，溪水潺潺，土地广阔而肥沃，远处青山环绕，近处百花盛开，引人流连忘返。#0#0#bgm_changjing_yewai#"
   splits:
   - split: 4
     text: "金光圃"
-    translated: "Jinguangpu"
+    translated: "Golden Grove"
   - split: 6
     text: "金光圃，位于云鹤村村北，此处山峦环绕，溪水潺潺，土地广阔而肥沃，远处青山环绕，近处百花盛开，引人流连忘返。"
-    translated: "Golden Light Garden is located north of Cloud Crane Village, surrounded by rolling hills with babbling brooks. The land here is vast and fertile, encircled by distant green mountains and nearby flourishing flowers that entice visitors to linger endlessly."
+    translated: "Golden Grove is located to the north of Cloud Crane Village. Here, hills surround it, streams murmur gently, and the land is vast and fertile. In the distance, green mountains encircle it, while nearby, a myriad of flowers bloom in full splendor, captivating anyone who passes by."
 - raw: "17#4#2#1099.105,0.200,1426.906#金光圃#0#金光圃，位于云鹤村村北，此处山峦环绕，溪水潺潺，土地广阔而肥沃，远处青山环绕，近处百花盛开，引人流连忘返。#0#0#bgm_changjing_yewai#"
   splits:
   - split: 4
     text: "金光圃"
-    translated: "Jinguangpu"
+    translated: "Golden Grove"
   - split: 6
     text: "金光圃，位于云鹤村村北，此处山峦环绕，溪水潺潺，土地广阔而肥沃，远处青山环绕，近处百花盛开，引人流连忘返。"
-    translated: "Golden Light Garden is located north of Cloud Crane Village, surrounded by rolling hills with babbling brooks. The land here is vast and fertile, encircled by distant green mountains and nearby flourishing flowers that entice visitors to linger endlessly."
+    translated: "Golden Grove is located to the north of Cloud Crane Village. Here, hills surround it, streams murmur gently, and the land is vast and fertile. In the distance, green mountains encircle it, while nearby, a myriad of flowers bloom in full splendor, captivating anyone who passes by."
 - raw: "18#4#2#1164.305,0.200,1483.453#金光圃#0#金光圃，位于云鹤村村北，此处山峦环绕，溪水潺潺，土地广阔而肥沃，远处青山环绕，近处百花盛开，引人流连忘返。#0#0#bgm_changjing_yewai#"
   splits:
   - split: 4
     text: "金光圃"
-    translated: "Jinguangpu"
+    translated: "Golden Grove"
   - split: 6
     text: "金光圃，位于云鹤村村北，此处山峦环绕，溪水潺潺，土地广阔而肥沃，远处青山环绕，近处百花盛开，引人流连忘返。"
-    translated: "Golden Light Garden is located north of Cloud Crane Village, surrounded by rolling hills with babbling brooks. The land here is vast and fertile, encircled by distant green mountains and nearby flourishing flowers that entice visitors to linger endlessly."
+    translated: "Golden Grove is located to the north of Cloud Crane Village. Here, hills surround it, streams murmur gently, and the land is vast and fertile. In the distance, green mountains encircle it, while nearby, a myriad of flowers bloom in full splendor, captivating anyone who passes by."
 - raw: "19#4#2#1192.389,0.200,1426.416#金光圃#0#金光圃，位于云鹤村村北，此处山峦环绕，溪水潺潺，土地广阔而肥沃，远处青山环绕，近处百花盛开，引人流连忘返。#0#0#bgm_changjing_yewai#"
   splits:
   - split: 4
     text: "金光圃"
-    translated: "Jinguangpu"
+    translated: "Golden Grove"
   - split: 6
     text: "金光圃，位于云鹤村村北，此处山峦环绕，溪水潺潺，土地广阔而肥沃，远处青山环绕，近处百花盛开，引人流连忘返。"
-    translated: "Golden Light Garden is located north of Cloud Crane Village, surrounded by rolling hills with babbling brooks. The land here is vast and fertile, encircled by distant green mountains and nearby flourishing flowers that entice visitors to linger endlessly."
+    translated: "Golden Grove is located to the north of Cloud Crane Village. Here, hills surround it, streams murmur gently, and the land is vast and fertile. In the distance, green mountains encircle it, while nearby, a myriad of flowers bloom in full splendor, captivating anyone who passes by."
 - raw: "20#4#2#1129.630,0.200,1402.974#金光圃#0#金光圃，位于云鹤村村北，此处山峦环绕，溪水潺潺，土地广阔而肥沃，远处青山环绕，近处百花盛开，引人流连忘返。#0#0#bgm_changjing_yewai#"
   splits:
   - split: 4
     text: "金光圃"
-    translated: "Jinguangpu"
+    translated: "Golden Grove"
   - split: 6
     text: "金光圃，位于云鹤村村北，此处山峦环绕，溪水潺潺，土地广阔而肥沃，远处青山环绕，近处百花盛开，引人流连忘返。"
-    translated: "Golden Light Garden is located north of Cloud Crane Village, surrounded by rolling hills with babbling brooks. The land here is vast and fertile, encircled by distant green mountains and nearby flourishing flowers that entice visitors to linger endlessly."
+    translated: "Golden Grove is located to the north of Cloud Crane Village. Here, hills surround it, streams murmur gently, and the land is vast and fertile. In the distance, green mountains encircle it, while nearby, a myriad of flowers bloom in full splendor, captivating anyone who passes by."
 - raw: "21#4#2#1154.782,0.200,1409.080#金光圃#0#金光圃，位于云鹤村村北，此处山峦环绕，溪水潺潺，土地广阔而肥沃，远处青山环绕，近处百花盛开，引人流连忘返。#0#0#bgm_changjing_yewai#"
   splits:
   - split: 4
     text: "金光圃"
-    translated: "Jinguangpu"
+    translated: "Golden Grove"
   - split: 6
     text: "金光圃，位于云鹤村村北，此处山峦环绕，溪水潺潺，土地广阔而肥沃，远处青山环绕，近处百花盛开，引人流连忘返。"
-    translated: "Golden Light Garden is located north of Cloud Crane Village, surrounded by rolling hills with babbling brooks. The land here is vast and fertile, encircled by distant green mountains and nearby flourishing flowers that entice visitors to linger endlessly."
+    translated: "Golden Grove is located to the north of Cloud Crane Village. Here, hills surround it, streams murmur gently, and the land is vast and fertile. In the distance, green mountains encircle it, while nearby, a myriad of flowers bloom in full splendor, captivating anyone who passes by."
 - raw: "22#5#2#927.912,0.200,1593.450#清然林#0#绿树成荫，景色如画，脚下的清泉流淌，清凉之息涌入心脾。林中竹子参差错落，有的如翠柱直插云霄，有的如秀女纤纤细腰。微风轻拂，竹叶沙沙作响，而林间又常有侠影迷踪。#0#0#suqingzhi_theme#"
   splits:
   - split: 4
     text: "清然林"
-    translated: "Qing Ran Lin"
+    translated: "Serene Forest"
   - split: 6
     text: "绿树成荫，景色如画，脚下的清泉流淌，清凉之息涌入心脾。林中竹子参差错落，有的如翠柱直插云霄，有的如秀女纤纤细腰。微风轻拂，竹叶沙沙作响，而林间又常有侠影迷踪。"
     translated: "Under the lush shade of trees, the scenery is picturesque. A clear stream trickles at our feet, its refreshing breath invigorating our hearts and souls. The bamboo in the forest stands irregularly, with some like emerald pillars piercing the sky, while others resemble slender‑waisted elegant women. A gentle breeze caresses the leaves, causing a rustling sound, as mysterious hero figures often wander through the woods"
@@ -178,7 +178,7 @@
   splits:
   - split: 4
     text: "清然林"
-    translated: "Qing Ran Lin"
+    translated: "Serene Forest"
   - split: 6
     text: "绿树成荫，景色如画，脚下的清泉流淌，清凉之息涌入心脾。林中竹子参差错落，有的如翠柱直插云霄，有的如秀女纤纤细腰。微风轻拂，竹叶沙沙作响，而林间又常有侠影迷踪。"
     translated: "Under the lush shade of trees, the scenery is picturesque. A clear stream trickles at our feet, its refreshing breath invigorating our hearts and souls. The bamboo in the forest stands irregularly, with some like emerald pillars piercing the sky, while others resemble slender‑waisted elegant women. A gentle breeze caresses the leaves, causing a rustling sound, as mysterious hero figures often wander through the woods"
@@ -186,7 +186,7 @@
   splits:
   - split: 4
     text: "清然林"
-    translated: "Qing Ran Lin"
+    translated: "Serene Forest"
   - split: 6
     text: "绿树成荫，景色如画，脚下的清泉流淌，清凉之息涌入心脾。林中竹子参差错落，有的如翠柱直插云霄，有的如秀女纤纤细腰。微风轻拂，竹叶沙沙作响，而林间又常有侠影迷踪。"
     translated: "Under the lush shade of trees, the scenery is picturesque. A clear stream trickles at our feet, its refreshing breath invigorating our hearts and souls. The bamboo in the forest stands irregularly, with some like emerald pillars piercing the sky, while others resemble slender‑waisted elegant women. A gentle breeze caresses the leaves, causing a rustling sound, as mysterious hero figures often wander through the woods"
@@ -194,7 +194,7 @@
   splits:
   - split: 4
     text: "清然林"
-    translated: "Qing Ran Lin"
+    translated: "Serene Forest"
   - split: 6
     text: "绿树成荫，景色如画，脚下的清泉流淌，清凉之息涌入心脾。林中竹子参差错落，有的如翠柱直插云霄，有的如秀女纤纤细腰。微风轻拂，竹叶沙沙作响，而林间又常有侠影迷踪。"
     translated: "Under the lush shade of trees, the scenery is picturesque. A clear stream trickles at our feet, its refreshing breath invigorating our hearts and souls. The bamboo in the forest stands irregularly, with some like emerald pillars piercing the sky, while others resemble slender‑waisted elegant women. A gentle breeze caresses the leaves, causing a rustling sound, as mysterious hero figures often wander through the woods"
@@ -202,7 +202,7 @@
   splits:
   - split: 4
     text: "清然林"
-    translated: "Qing Ran Lin"
+    translated: "Serene Forest"
   - split: 6
     text: "绿树成荫，景色如画，脚下的清泉流淌，清凉之息涌入心脾。林中竹子参差错落，有的如翠柱直插云霄，有的如秀女纤纤细腰。微风轻拂，竹叶沙沙作响，而林间又常有侠影迷踪。"
     translated: "Under the lush shade of trees, the scenery is picturesque. A clear stream trickles at our feet, its refreshing breath invigorating our hearts and souls. The bamboo in the forest stands irregularly, with some like emerald pillars piercing the sky, while others resemble slender‑waisted elegant women. A gentle breeze caresses the leaves, causing a rustling sound, as mysterious hero figures often wander through the woods"
@@ -210,7 +210,7 @@
   splits:
   - split: 4
     text: "清然林"
-    translated: "Qing Ran Lin"
+    translated: "Serene Forest"
   - split: 6
     text: "绿树成荫，景色如画，脚下的清泉流淌，清凉之息涌入心脾。林中竹子参差错落，有的如翠柱直插云霄，有的如秀女纤纤细腰。微风轻拂，竹叶沙沙作响，而林间又常有侠影迷踪。"
     translated: "Under the lush shade of trees, the scenery is picturesque. A clear stream trickles at our feet, its refreshing breath invigorating our hearts and souls. The bamboo in the forest stands irregularly, with some like emerald pillars piercing the sky, while others resemble slender‑waisted elegant women. A gentle breeze caresses the leaves, causing a rustling sound, as mysterious hero figures often wander through the woods"
@@ -218,7 +218,7 @@
   splits:
   - split: 4
     text: "清然林"
-    translated: "Qing Ran Lin"
+    translated: "Serene Forest"
   - split: 6
     text: "绿树成荫，景色如画，脚下的清泉流淌，清凉之息涌入心脾。林中竹子参差错落，有的如翠柱直插云霄，有的如秀女纤纤细腰。微风轻拂，竹叶沙沙作响，而林间又常有侠影迷踪。"
     translated: "Under the lush shade of trees, the scenery is picturesque. A clear stream trickles at our feet, its refreshing breath invigorating our hearts and souls. The bamboo in the forest stands irregularly, with some like emerald pillars piercing the sky, while others resemble slender‑waisted elegant women. A gentle breeze caresses the leaves, causing a rustling sound, as mysterious hero figures often wander through the woods"
@@ -226,7 +226,7 @@
   splits:
   - split: 4
     text: "清然林"
-    translated: "Qing Ran Lin"
+    translated: "Serene Forest"
   - split: 6
     text: "绿树成荫，景色如画，脚下的清泉流淌，清凉之息涌入心脾。林中竹子参差错落，有的如翠柱直插云霄，有的如秀女纤纤细腰。微风轻拂，竹叶沙沙作响，而林间又常有侠影迷踪。"
     translated: "Under the lush shade of trees, the scenery is picturesque. A clear stream trickles at our feet, its refreshing breath invigorating our hearts and souls. The bamboo in the forest stands irregularly, with some like emerald pillars piercing the sky, while others resemble slender‑waisted elegant women. A gentle breeze caresses the leaves, causing a rustling sound, as mysterious hero figures often wander through the woods"
@@ -234,7 +234,7 @@
   splits:
   - split: 4
     text: "清然林"
-    translated: "Qing Ran Lin"
+    translated: "Serene Forest"
   - split: 6
     text: "绿树成荫，景色如画，脚下的清泉流淌，清凉之息涌入心脾。林中竹子参差错落，有的如翠柱直插云霄，有的如秀女纤纤细腰。微风轻拂，竹叶沙沙作响，而林间又常有侠影迷踪。"
     translated: "Under the lush shade of trees, the scenery is picturesque. A clear stream trickles at our feet, its refreshing breath invigorating our hearts and souls. The bamboo in the forest stands irregularly, with some like emerald pillars piercing the sky, while others resemble slender‑waisted elegant women. A gentle breeze caresses the leaves, causing a rustling sound, as mysterious hero figures often wander through the woods"
@@ -242,7 +242,7 @@
   splits:
   - split: 4
     text: "清然林"
-    translated: "Qing Ran Lin"
+    translated: "Serene Forest"
   - split: 6
     text: "绿树成荫，景色如画，脚下的清泉流淌，清凉之息涌入心脾。林中竹子参差错落，有的如翠柱直插云霄，有的如秀女纤纤细腰。微风轻拂，竹叶沙沙作响，而林间又常有侠影迷踪。"
     translated: "Under the lush shade of trees, the scenery is picturesque. A clear stream trickles at our feet, its refreshing breath invigorating our hearts and souls. The bamboo in the forest stands irregularly, with some like emerald pillars piercing the sky, while others resemble slender‑waisted elegant women. A gentle breeze caresses the leaves, causing a rustling sound, as mysterious hero figures often wander through the woods"
@@ -250,7 +250,7 @@
   splits:
   - split: 4
     text: "清然林"
-    translated: "Qing Ran Lin"
+    translated: "Serene Forest"
   - split: 6
     text: "绿树成荫，景色如画，脚下的清泉流淌，清凉之息涌入心脾。林中竹子参差错落，有的如翠柱直插云霄，有的如秀女纤纤细腰。微风轻拂，竹叶沙沙作响，而林间又常有侠影迷踪。"
     translated: "Under the lush shade of trees, the scenery is picturesque. A clear stream trickles at our feet, its refreshing breath invigorating our hearts and souls. The bamboo in the forest stands irregularly, with some like emerald pillars piercing the sky, while others resemble slender‑waisted elegant women. A gentle breeze caresses the leaves, causing a rustling sound, as mysterious hero figures often wander through the woods"
@@ -1426,50 +1426,50 @@
   splits:
   - split: 4
     text: "龙蛇寨"
-    translated: "Longshe Zhai"
+    translated: "Dragon Snake Fort"
   - split: 6
     text: "龙蛇寨，位于深山峻岭中的土匪山寨。此处山峦重叠，云雾缭绕，隐于群山深处。历来为土匪聚集之所，强盗四起，行人不敢近。据闻此地土匪盘踞已久，颇为狡猾，手段毒辣。江湖中传言，龙蛇寨内藏有诸多宝藏，多为稀世罕见之物。"
-    translated: "Dragon‑Serpent Stronghold is located deep in the mountains and steep hills, serving as a bandit hideout. The overlapping peaks and swirling mists shroud it within the heart of the mountain range. Historically, it has been a gathering place for bandits where thieves abound, deterring travelers from approaching. It's said that bandits have long entrenched themselves here, displaying cunning and ruthless tactics. Rumors in Jianghu suggest that Dragon‑Serpent Stronghold houses numerous treasures, including many rare and unique items."
+    translated: "Dragon Snake Fort is a bandit stronghold nestled in deep mountains and steep cliffs. The mountain ridges are piled upon each other with mist swirling around, hidden deep within the mountains. Historically, it has been a gathering place for bandits, with thieves abounding and travelers afraid to approach. It is rumored that the bandits have long occupied this area, known for their cunning, using ruthless tactics. In the Jianghu, there are whispers that Dragon Snake Fort houses many treasures, including rare and extraordinary items."
 - raw: "180#12#1#1065.730,0.100,1365.489#龙蛇寨#0#龙蛇寨，位于深山峻岭中的土匪山寨。此处山峦重叠，云雾缭绕，隐于群山深处。历来为土匪聚集之所，强盗四起，行人不敢近。据闻此地土匪盘踞已久，颇为狡猾，手段毒辣。江湖中传言，龙蛇寨内藏有诸多宝藏，多为稀世罕见之物。#0#0#bgm_changjing_shanzeiyingdi#"
   splits:
   - split: 4
     text: "龙蛇寨"
-    translated: "Longshe Zhai"
+    translated: "Dragon Snake Fort"
   - split: 6
     text: "龙蛇寨，位于深山峻岭中的土匪山寨。此处山峦重叠，云雾缭绕，隐于群山深处。历来为土匪聚集之所，强盗四起，行人不敢近。据闻此地土匪盘踞已久，颇为狡猾，手段毒辣。江湖中传言，龙蛇寨内藏有诸多宝藏，多为稀世罕见之物。"
-    translated: "Dragon‑Serpent Stronghold is located deep in the mountains and steep hills, serving as a bandit hideout. The overlapping peaks and swirling mists shroud it within the heart of the mountain range. Historically, it has been a gathering place for bandits where thieves abound, deterring travelers from approaching. It's said that bandits have long entrenched themselves here, displaying cunning and ruthless tactics. Rumors in Jianghu suggest that Dragon‑Serpent Stronghold houses numerous treasures, including many rare and unique items."
+    translated: "Dragon Snake Fort is a bandit stronghold nestled in deep mountains and steep cliffs. The mountain ridges are piled upon each other with mist swirling around, hidden deep within the mountains. Historically, it has been a gathering place for bandits, with thieves abounding and travelers afraid to approach. It is rumored that the bandits have long occupied this area, known for their cunning, using ruthless tactics. In the Jianghu, there are whispers that Dragon Snake Fort houses many treasures, including rare and extraordinary items."
 - raw: "181#12#1#1106.901,0.100,1331.407#龙蛇寨#0#龙蛇寨，位于深山峻岭中的土匪山寨。此处山峦重叠，云雾缭绕，隐于群山深处。历来为土匪聚集之所，强盗四起，行人不敢近。据闻此地土匪盘踞已久，颇为狡猾，手段毒辣。江湖中传言，龙蛇寨内藏有诸多宝藏，多为稀世罕见之物。#0#0#bgm_changjing_shanzeiyingdi#"
   splits:
   - split: 4
     text: "龙蛇寨"
-    translated: "Longshe Zhai"
+    translated: "Dragon Snake Fort"
   - split: 6
     text: "龙蛇寨，位于深山峻岭中的土匪山寨。此处山峦重叠，云雾缭绕，隐于群山深处。历来为土匪聚集之所，强盗四起，行人不敢近。据闻此地土匪盘踞已久，颇为狡猾，手段毒辣。江湖中传言，龙蛇寨内藏有诸多宝藏，多为稀世罕见之物。"
-    translated: "Dragon‑Serpent Stronghold is located deep in the mountains and steep hills, serving as a bandit hideout. The overlapping peaks and swirling mists shroud it within the heart of the mountain range. Historically, it has been a gathering place for bandits where thieves abound, deterring travelers from approaching. It's said that bandits have long entrenched themselves here, displaying cunning and ruthless tactics. Rumors in Jianghu suggest that Dragon‑Serpent Stronghold houses numerous treasures, including many rare and unique items."
+    translated: "Dragon Snake Fort is a bandit stronghold nestled in deep mountains and steep cliffs. The mountain ridges are piled upon each other with mist swirling around, hidden deep within the mountains. Historically, it has been a gathering place for bandits, with thieves abounding and travelers afraid to approach. It is rumored that the bandits have long occupied this area, known for their cunning, using ruthless tactics. In the Jianghu, there are whispers that Dragon Snake Fort houses many treasures, including rare and extraordinary items."
 - raw: "182#12#1#995.436,0.100,1279.395#龙蛇寨#0#龙蛇寨，位于深山峻岭中的土匪山寨。此处山峦重叠，云雾缭绕，隐于群山深处。历来为土匪聚集之所，强盗四起，行人不敢近。据闻此地土匪盘踞已久，颇为狡猾，手段毒辣。江湖中传言，龙蛇寨内藏有诸多宝藏，多为稀世罕见之物。#0#0#bgm_changjing_shanzeiyingdi#"
   splits:
   - split: 4
     text: "龙蛇寨"
-    translated: "Longshe Zhai"
+    translated: "Dragon Snake Fort"
   - split: 6
     text: "龙蛇寨，位于深山峻岭中的土匪山寨。此处山峦重叠，云雾缭绕，隐于群山深处。历来为土匪聚集之所，强盗四起，行人不敢近。据闻此地土匪盘踞已久，颇为狡猾，手段毒辣。江湖中传言，龙蛇寨内藏有诸多宝藏，多为稀世罕见之物。"
-    translated: "Dragon‑Serpent Stronghold is located deep in the mountains and steep hills, serving as a bandit hideout. The overlapping peaks and swirling mists shroud it within the heart of the mountain range. Historically, it has been a gathering place for bandits where thieves abound, deterring travelers from approaching. It's said that bandits have long entrenched themselves here, displaying cunning and ruthless tactics. Rumors in Jianghu suggest that Dragon‑Serpent Stronghold houses numerous treasures, including many rare and unique items."
+    translated: "Dragon Snake Fort is a bandit stronghold nestled in deep mountains and steep cliffs. The mountain ridges are piled upon each other with mist swirling around, hidden deep within the mountains. Historically, it has been a gathering place for bandits, with thieves abounding and travelers afraid to approach. It is rumored that the bandits have long occupied this area, known for their cunning, using ruthless tactics. In the Jianghu, there are whispers that Dragon Snake Fort houses many treasures, including rare and extraordinary items."
 - raw: "183#12#1#1045.119,0.100,1254.486#龙蛇寨#0#龙蛇寨，位于深山峻岭中的土匪山寨。此处山峦重叠，云雾缭绕，隐于群山深处。历来为土匪聚集之所，强盗四起，行人不敢近。据闻此地土匪盘踞已久，颇为狡猾，手段毒辣。江湖中传言，龙蛇寨内藏有诸多宝藏，多为稀世罕见之物。#0#0#bgm_changjing_shanzeiyingdi#"
   splits:
   - split: 4
     text: "龙蛇寨"
-    translated: "Longshe Zhai"
+    translated: "Dragon Snake Fort"
   - split: 6
     text: "龙蛇寨，位于深山峻岭中的土匪山寨。此处山峦重叠，云雾缭绕，隐于群山深处。历来为土匪聚集之所，强盗四起，行人不敢近。据闻此地土匪盘踞已久，颇为狡猾，手段毒辣。江湖中传言，龙蛇寨内藏有诸多宝藏，多为稀世罕见之物。"
-    translated: "Dragon‑Serpent Stronghold is located deep in the mountains and steep hills, serving as a bandit hideout. The overlapping peaks and swirling mists shroud it within the heart of the mountain range. Historically, it has been a gathering place for bandits where thieves abound, deterring travelers from approaching. It's said that bandits have long entrenched themselves here, displaying cunning and ruthless tactics. Rumors in Jianghu suggest that Dragon‑Serpent Stronghold houses numerous treasures, including many rare and unique items."
+    translated: "Dragon Snake Fort is a bandit stronghold nestled in deep mountains and steep cliffs. The mountain ridges are piled upon each other with mist swirling around, hidden deep within the mountains. Historically, it has been a gathering place for bandits, with thieves abounding and travelers afraid to approach. It is rumored that the bandits have long occupied this area, known for their cunning, using ruthless tactics. In the Jianghu, there are whispers that Dragon Snake Fort houses many treasures, including rare and extraordinary items."
 - raw: "184#12#1#1098.232,0.100,1273.777#龙蛇寨#0#龙蛇寨，位于深山峻岭中的土匪山寨。此处山峦重叠，云雾缭绕，隐于群山深处。历来为土匪聚集之所，强盗四起，行人不敢近。据闻此地土匪盘踞已久，颇为狡猾，手段毒辣。江湖中传言，龙蛇寨内藏有诸多宝藏，多为稀世罕见之物。#0#0#bgm_changjing_shanzeiyingdi#"
   splits:
   - split: 4
     text: "龙蛇寨"
-    translated: "Longshe Zhai"
+    translated: "Dragon Snake Fort"
   - split: 6
     text: "龙蛇寨，位于深山峻岭中的土匪山寨。此处山峦重叠，云雾缭绕，隐于群山深处。历来为土匪聚集之所，强盗四起，行人不敢近。据闻此地土匪盘踞已久，颇为狡猾，手段毒辣。江湖中传言，龙蛇寨内藏有诸多宝藏，多为稀世罕见之物。"
-    translated: "Dragon‑Serpent Stronghold is located deep in the mountains and steep hills, serving as a bandit hideout. The overlapping peaks and swirling mists shroud it within the heart of the mountain range. Historically, it has been a gathering place for bandits where thieves abound, deterring travelers from approaching. It's said that bandits have long entrenched themselves here, displaying cunning and ruthless tactics. Rumors in Jianghu suggest that Dragon‑Serpent Stronghold houses numerous treasures, including many rare and unique items."
+    translated: "Dragon Snake Fort is a bandit stronghold nestled in deep mountains and steep cliffs. The mountain ridges are piled upon each other with mist swirling around, hidden deep within the mountains. Historically, it has been a gathering place for bandits, with thieves abounding and travelers afraid to approach. It is rumored that the bandits have long occupied this area, known for their cunning, using ruthless tactics. In the Jianghu, there are whispers that Dragon Snake Fort houses many treasures, including rare and extraordinary items."
 - raw: "185#15#1#438.677,0.100,1660.224#桃花坞#0#四月桃花烂漫盛开，随着岸风荡漾，花瓣满天飞舞。坞内清幽、宁静。水清鱼游，蝉叫鸟鸣，远山如黛，近林若簇。流水声不绝于耳，飞鸟踏歌婉转磨人。桃花坞之上幽深的天洞，豁然开朗，奇响处可听到轰轰之声。#0#0#bgm_changjing_lingxiangwu#"
   splits:
   - split: 4

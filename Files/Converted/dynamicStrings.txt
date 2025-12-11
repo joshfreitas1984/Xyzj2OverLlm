@@ -3647,7 +3647,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "LocalString,.cctor,7335,悬赏榜,[]"
   splits:
   - split: 3
@@ -19979,7 +19979,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,611,极致,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
@@ -20009,7 +20009,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,767,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
@@ -20019,7 +20019,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,834,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
@@ -20029,7 +20029,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,902,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
@@ -20039,7 +20039,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,970,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
@@ -20049,7 +20049,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1194,极致,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
@@ -20074,7 +20074,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1295,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
@@ -20084,7 +20084,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1363,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
@@ -20094,7 +20094,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1431,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
@@ -20124,7 +20124,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1589,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
@@ -20154,7 +20154,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,1747,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
@@ -20164,7 +20164,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,2001,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
@@ -20174,7 +20174,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,2083,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
@@ -20184,7 +20184,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,2165,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
@@ -20194,7 +20194,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,ResetCustomSettingByQuality,2247,关闭,[SweetPotato.GameSaving/PIC_QUALITY]"
   splits:
   - split: 3
@@ -20264,12 +20264,12 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,Set2dHpbar,130,开启,[]"
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,Set2dHpbar,141,关闭,[]"
   splits:
   - split: 3
@@ -20299,7 +20299,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,SetAtliasingNew,135,关闭,[]"
   splits:
   - split: 3
@@ -20309,7 +20309,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,SetDebug,141,关闭,[]"
   splits:
   - split: 3
@@ -20319,7 +20319,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,SetShadow,120,关闭,[]"
   splits:
   - split: 3
@@ -20354,7 +20354,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,SetVSync,108,关闭,[]"
   splits:
   - split: 3
@@ -20364,7 +20364,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,SetDLSS,109,关闭,[]"
   splits:
   - split: 3
@@ -20374,7 +20374,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,SetDynamicRes,109,关闭,[]"
   splits:
   - split: 3
@@ -20384,7 +20384,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,SetMagicCloths,109,关闭,[]"
   splits:
   - split: 3
@@ -20394,7 +20394,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,SetLodDistance,109,极致,[]"
   splits:
   - split: 3
@@ -20419,7 +20419,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,SetVolumetricLight,120,关闭,[]"
   splits:
   - split: 3
@@ -20429,7 +20429,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,SetSSS,120,关闭,[]"
   splits:
   - split: 3
@@ -20439,7 +20439,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,SetLoadMoreMap,120,关闭,[]"
   splits:
   - split: 3
@@ -20449,7 +20449,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,SetTextureFilter,120,关闭,[]"
   splits:
   - split: 3
@@ -20479,7 +20479,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,SetSSR,120,关闭,[]"
   splits:
   - split: 3
@@ -20524,7 +20524,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,SetCache,94,关闭,[]"
   splits:
   - split: 3
@@ -20534,7 +20534,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,SetCaoZuoTip,94,关闭,[]"
   splits:
   - split: 3
@@ -20544,7 +20544,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,SetHeadIconTip,94,关闭,[]"
   splits:
   - split: 3
@@ -20554,7 +20554,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,SetAutoTalkTip,94,关闭,[]"
   splits:
   - split: 3
@@ -20564,7 +20564,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,SetCameraLockBtn,108,只锁定目标,[]"
   splits:
   - split: 3
@@ -20584,7 +20584,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,SetShoubingView_LR,119,关闭,[]"
   splits:
   - split: 3
@@ -20594,7 +20594,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,SetShoubingView_UD,119,关闭,[]"
   splits:
   - split: 3
@@ -20604,7 +20604,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,SetBgm,94,关闭,[]"
   splits:
   - split: 3
@@ -20614,7 +20614,7 @@
   splits:
   - split: 3
     text: "开启"
-    translated: "Begin"
+    translated: "Open"
 - raw: "SweetPotato.SettingViewNew,<OpenAnjianshezhi>b__105_0,18,保存成功！,[]"
   splits:
   - split: 3

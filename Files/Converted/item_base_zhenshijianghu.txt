@@ -3343,7 +3343,7 @@
     translated: "Tin mine"
   - split: 41
     text: "可在云鹤村、龙蛇寨、朔海派、拂松门、遥雪峰采集"
-    translated: "Collections can be made at Cloud Crane Village, Dragon and Snake Encampment, North Sea Sect, Pine Brushing Gate, and Distant Snow Peak."
+    translated: "Can be collected in Cloud Crane Village, Dragon Snake Fort, North Sea Sect, Pine Brushing Gate, and Distant Snow Peak."
 - raw: "5004#铝矿#3#2#10#10#30#99999#0#1#0#0#new1_jiuqugang#5004#0#7004#0#3600#0##20&2#11&2|3#DAOJU#0#0#0#8604#1#1###all#0###0##1|8423000#0#0#49012|45058#可在云鹤村、崇吾涧、青玉门、神兵山庄、问剑道采集#0#0#0#0#0#"
   splits:
   - split: 1
@@ -3359,7 +3359,7 @@
     translated: "Lead mine"
   - split: 41
     text: "可在钓龙湖、龙蛇寨、朔海派、信陵宗、留樱林、重天门、聚灵川采集"
-    translated: "You may gather in Dragon Fishing Lake, Serpent's Den, North Sea Sect, Xinling Sect, Cherry Blossom Grove, Profound Celestial Sect, and Spirit Gathering River."
+    translated: "You can collect in Dragon Fishing Lake, Dragon Snake Fort, North Sea Sect, Xinling Sect, Lingering Cherry Grove, Profound Celestial Sect, and Spirit Gathering River."
 - raw: "5006#雌黄#3#2#11#11#55#99999#0#1#0#0#kuangshi1#5006#0#7006#0#3600#0##26&2#11&1|2|3#DAOJU#0#0#0#8606#1#1###all#0###0##1|8423000#0#0#0#可在鸿月帮、朔海派、小石镇、落凤原西、崇吾涧、玉沙关、清风岗采集#0#0#0#0#0#"
   splits:
   - split: 1
@@ -3471,7 +3471,7 @@
     translated: "Qingjinse"
   - split: 41
     text: "可在西域王、昭月宗、九曜津、留樱林、瑶华原采集"
-    translated: "Gather in the Western Region, at the Bright Moon Clan, Nine Luminaries Crossing, Stay Chrysanthemum Grove, and Jade Blossom Field."
+    translated: "Gather in the Western Region King's Domain, Bright Moon Clan, Nine Luminaries Crossing, Lingering Cherry Grove, and Jade Blossom Field."
 - raw: "5020#青玉#3#2#12#12#96#99999#0#1#0#0#yu_6#5020#0#7020#0#3600#0##34&3#11&2|3#DAOJU#0#0#0#8620#1#1###all#0###0##1|8423000#0#0#0#可在御虚门、王府、捭阖谷、誓盟碑采集#0#0#0#0#0#"
   splits:
   - split: 1
@@ -3636,7 +3636,7 @@
   splits:
   - split: 1
     text: "天清墨玉"
-    translated: "Auspicious and Pure as a Jade"
+    translated: "Celestial Ink Jade"
   - split: 41
     text: "可在穆特前线采集"
     translated: "Can be gathered on the Mu Te Frontline."
@@ -4199,7 +4199,7 @@
     translated: "Jiang Hua"
   - split: 41
     text: "可在九曜津、留樱林、瑶华原、云潇山庄、法华村难采集"
-    translated: "Cannot be collected at Nine Luminaries Crossing, Willow Cherry Forest, Jade Blossom Field, Cloudy Breeze Mountain Villa, or Dharma Blossom Village."
+    translated: "It is difficult to gather there in Nine Luminaries Crossing, Lingering Cherry Grove, Jade Blossom Field, Cloudy Breeze Mountain Villa, or Dharma Blossom Village."
 - raw: "9056#当归#3#3#12#12#82#99999#0#1#0#0#danggui#9056#0#11056#0#3600#0##14&3#11&1#DANYAO#0#0#0#8532#1#1###all#0###0##1|8423000#0#0#18007|18008|18009|18010|18103|18110|18115|18147|18152|18153#可在雁州城采集#0#0#0#0#0#"
   splits:
   - split: 1
@@ -4239,7 +4239,7 @@
     translated: "Aconite"
   - split: 41
     text: "可在合纵道、留樱林、祈灵川采集"
-    translated: "Can be collected on the Alliance Path, Cherry Blossom Grove, and Spirit Prayer River."
+    translated: "Gather at the Alliance Path, Lingering Cherry Grove, and Spirit Prayer River."
 - raw: "9061#豆蔻#3#3#12#13#124#99999#0#1#0#0#caoyao2#9061#0#11061#0#3600#0##44&3#11&1#DANYAO#0#0#0#8545#1#1###all#0###0##1|8423000#0#0#0#可在捭阖谷、瑶华原、祈灵川采集#0#0#0#0#0#"
   splits:
   - split: 1
@@ -4511,7 +4511,7 @@
     translated: "Musk"
   - split: 41
     text: "可在留樱林、胜景林采集"
-    translated: "Can collect in Liuying Forest and Scenic Forest."
+    translated: "You can collect in the Lingering Cherry Grove or Scenic Forest."
 - raw: "9095#金佛草#3#3#13#15#336#99999#0#1#0#0#new1_putijinhua#9095#0#11095#0#3600#0##74&5#11&1#DANYAO#0#0#0#8562#1#1###all#0###0##1|8423000#0#0#18150#可在法华村难采集#0#0#0#0#0#"
   splits:
   - split: 1
@@ -29394,7 +29394,7 @@
   splits:
   - split: 1
     text: "飞炼瀑练刀感悟"
-    translated: "Insights gained through the practice of forging blades using the Falin technique."
+    translated: "Flying Forge Falls knife practice insights"
 - raw: "60150#长兵悟卷#4#23#11#12#403#99999#0#1#0#0#miji2#60150#0#62150#0#3605#0##93550###0#0#0#0#0#0####0##0&18|1|73|20|>#0##0#0#0#0#0#0#0#0#1#0#"
   splits:
   - split: 1

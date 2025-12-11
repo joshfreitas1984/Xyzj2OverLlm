@@ -5653,7 +5653,7 @@
   splits:
   - split: 5
     text: "于是我决定在云鹤村仔细搜寻线索，没想到在途中遇到了万事通大叔。<color=&&8d5429>他透露近日有一伙可疑人在金光圃花田聚集，这或许是我找到线索的关键。</color>"
-    translated: "So I decided to carefully search for clues in Cloud Crane Village. Unexpectedly, on my way there, I encountered Uncle Wan Shi Tong. <color=&&8d5429>He revealed that recently a suspicious group had gathered at the Jin Guang Pu Flower Garden. This might be the key to finding the clue.</color>"
+    translated: "So I decided to carefully search for clues in Cloud Crane Village. Unexpectedly, on my way there, I encountered Uncle Wan Shi Tong. <color=&&8d5429>He revealed that a suspicious group had been gathering at the Golden Grove flower fields recently; this might be the key to finding the clue I've been looking for.</color>"
   - split: 16
     text: "去花田里瞧瞧"
     translated: "Let's go take a look at the flower fields"
@@ -5661,12 +5661,12 @@
   splits:
   - split: 5
     text: "于是我决定在云鹤村仔细搜寻线索，没想到在途中遇到了万事通大叔。他透露近日有一伙可疑人在金光圃花田聚集，这或许是我找到线索的关键。"
-    translated: "So I decided to carefully search for clues in Cloud Crane Village. Unexpectedly, on the way, I encountered Uncle Wan Shi Tong. He revealed that recently a suspicious group had gathered at Jin Guang Pu Flower Field, which might be the key to finding my clue."
+    translated: "So I decided to carefully search for clues in Cloud Crane Village. Unexpectedly, on my way there, I encountered Uncle Wan Shi Tong. He revealed that recently a group of suspicious individuals had gathered at the flower garden in Golden Grove. This could be key to finding the clue I was looking for."
 - raw: "370105#20#1#0&24|973530|1#3701#我迅速赶到金光圃花田，果然发现了那伙可疑人物。从他们的谈话中得知，<color=&&8d5429>云鹤村市集的桔子堆可能隐藏着某个宝物。</color>#0##0#####0##0#看看桔子堆藏着什么##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "我迅速赶到金光圃花田，果然发现了那伙可疑人物。从他们的谈话中得知，<color=&&8d5429>云鹤村市集的桔子堆可能隐藏着某个宝物。</color>"
-    translated: "I quickly made my way to the Jin Guang Pu flower garden and indeed found that group of suspicious individuals. From their conversation, I learned that <color=&&8d5429>the piles of mandarin oranges at the Cloud Crane Village market might be hiding some treasure.</color>"
+    translated: "I quickly made my way to the Golden Grove flower field and indeed found those suspicious individuals. From their conversation, I learned that <color=&&8d5429>there might be a hidden treasure within the piles of mandarin oranges at the Cloud Crane Village market.</color>"
   - split: 16
     text: "看看桔子堆藏着什么"
     translated: "See what's hidden in the pile of oranges"
@@ -5674,7 +5674,7 @@
   splits:
   - split: 5
     text: "我迅速赶到金光圃花田，果然发现了那伙可疑人物。从他们的谈话中得知，云鹤村市集的桔子堆可能隐藏着某个宝物。"
-    translated: "I quickly arrived at the Golden Light Orchard's flower field and indeed found those suspicious individuals. From their conversation, I learned that a pile of mandarin oranges at the Cloud Crane Village market might be hiding some treasure."
+    translated: "I quickly made my way to the Golden Grove flower field and indeed found the suspicious group. From their conversation, I learned that there might be a treasure hidden among the piles of mandarin oranges at the Cloud Crane Village market."
 - raw: "370107#20#1#0&24|973643|1#3701#我立刻前往桔子堆进行搜索，最终在一堆桔子中找到了一个隐藏的手镯……<color=&&8d5429>毫无疑问，这就是邢泰失去的手镯！</color>#0##0#####0##0#归还邢泰丢失的手镯##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
@@ -5757,7 +5757,7 @@
   splits:
   - split: 5
     text: "路过金光圃时，我在花田中发现了一个严重受伤的人。<color=&&8d5429>他的伤势十分严重，需要使用金疮药来治疗。</color>"
-    translated: "As I passed by the Jin Guang Pu, I found a seriously injured person in the flower garden. <color=&&8d5429>Their injuries were quite severe and needed to be treated with golden wound ointment.</color>"
+    translated: "While passing through Golden Grove, I found a severely injured person in the flower field. <color=&&8d5429>Their injuries were quite serious and required treatment with wound‑healing medicine.</color>"
   - split: 16
     text: "治疗乌孙行"
     translated: "Treating the Usun Journey"
@@ -5765,7 +5765,7 @@
   splits:
   - split: 5
     text: "路过金光圃时，我在花田中发现了一个严重受伤的人。他的伤势十分严重，需要使用金疮药来治疗。我费了好大的力气，终于找到了一些金疮药，并成功地将他的伤势治愈。"
-    translated: "While passing by Jinguangpu, I discovered a severely injured person in the flower garden. His injuries were quite serious and required wound medicine for treatment. After much effort, I managed to find some wound medicine and successfully healed his injuries"
+    translated: "While passing through Golden Grove, I found a severely injured person in the flower fields. His injuries were quite serious and required medicinal salve for treatment. After much effort, I finally located some medicinal salve and successfully healed his wounds."
 - raw: "370403#20#1#0&24|957538|1#3704#这位受伤的人名叫乌孙行，他告诉我了他受伤的原因，并交给了我半张羊皮纸。他告诉我，<color=&&8d5429>追杀他的花安现在正在云鹤村附近，并且他身上还携带着另外半张羊皮纸。</color>#0##0#####0##0#取得另外半张藏宝图##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
@@ -5863,20 +5863,20 @@
   splits:
   - split: 5
     text: "从郑婶那里路过时，听到她再次夸耀她孩子年幼时的事迹，其中涉及到了飞炼瀑。据她所说，<color=&&8d5429>这个地方对修行和刀法练习很有益处。</color>"
-    translated: "Passing by Aunt Zheng's place, I heard her again boast about her child's youthful exploits, including the Feilian Waterfall. According to her, <color=&&8d5429>this place is beneficial for cultivation and practicing blade techniques.</color>"
+    translated: "As I passed by Aunt Zheng's house, I heard her again boasting about her children's achievements when they were young, one of which involved the Flying Forge Falls. According to her,<color=&&8d5429>this place is beneficial for cultivation and practicing blade techniques.</color>"
   - split: 16
     text: "去飞炼瀑下修炼"
-    translated: "Go to Fly‑Purifying Waterfall to practice cultivation"
+    translated: "Go to the Flying Forge Falls for cultivation."
 - raw: "371002#20#1#0&24|988578|1#3710#从郑婶那里路过时，听到她再次夸耀她孩子年幼时的事迹，其中涉及到了飞炼瀑。据她所说，这个地方对修行和刀法练习很有益处。被这个消息吸引，我决定前往飞炼瀑修炼一番。果然，这次的旅行不枉费，我在那里得到了很多修行和刀法方面的收获。#0#371001#0#####0##0###1#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "从郑婶那里路过时，听到她再次夸耀她孩子年幼时的事迹，其中涉及到了飞炼瀑。据她所说，这个地方对修行和刀法练习很有益处。被这个消息吸引，我决定前往飞炼瀑修炼一番。果然，这次的旅行不枉费，我在那里得到了很多修行和刀法方面的收获。"
-    translated: "Passing by Aunt Zheng's place, I heard her once again boast about the feats of her children when they were young, one of which involved Feiliansipu. According to her, this location is beneficial for training and practicing blade techniques. Attracted by this news, I decided to go to Feiliansipu for some training. Indeed, this trip was not in vain; there I gained much in the areas of training and blade techniques."
+    translated: "As I passed by Aunt Zheng's place, I heard her once again boasting about the exploits of her child in their youth, which involved Flying Forge Falls. According to her, this location is beneficial for cultivation and practicing blade techniques. Attracted by this information, I decided to go to Flying Forge Falls to practice cultivation. Indeed, my journey was worth it, as I gained a lot in terms of cultivation and blade technique there."
 - raw: "371101#20#1#0&30|972550|1#3711#甄寅家的公猪公主走失在清然林中，作为云鹤村的一员，我觉得我应该尽力帮忙。<color=&&8d5429>决定先去清然林中搜寻公主的踪迹，希望能找到她。</color>#0##2483#####0##0#找到公主##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "甄寅家的公猪公主走失在清然林中，作为云鹤村的一员，我觉得我应该尽力帮忙。<color=&&8d5429>决定先去清然林中搜寻公主的踪迹，希望能找到她。</color>"
-    translated: "Zhen Yin's Young Lady has gone missing in the Qing Ran Forest. As a member of Cloud Crane Village, I feel that I should do my best to help.<color=&&8d5429>First, I will search for the Young Lady's whereabouts in the Qing Ran Forest and hope to find her.</color>"
+    translated: "The prince of the Zhengyin family has gone missing in the Serene Forest. As a member of Cloud Crane Village, I feel that I should do my best to help. <color=&&8d5429>I've decided to first search for the princess's tracks in the Serene Forest and hope to find her.</color>"
   - split: 16
     text: "找到公主"
     translated: "Find the young lady"
@@ -5884,12 +5884,12 @@
   splits:
   - split: 5
     text: "甄寅家的公猪公主走失在清然林中，既然同是云鹤村村民，那么此忙我便能帮就帮，一番搜寻果然在清然林中发现了公主的踪迹。"
-    translated: "The Zhuang pig of the Zhen Yin family, a young lady from Cloud Crane Village, went missing in the Qingshan Forest. As fellow villagers, I decided to help and indeed managed to locate her tracks after searching for a while in the forest."
+    translated: "The prince from the Zhangyin family went missing in Serene Forest. As fellow villagers of Cloud Crane Village, I couldn't help but lend a hand. Sure enough, after searching around, we found traces of the young lady's whereabouts in the forest."
 - raw: "371103#20#1#0&24|962995|1#3711#在清然林中，我发现了公主的踪迹，<color=&&8d5429>但很快发现她被偷猪贼带走了。决心不让公主受到伤害，我与偷猪贼展开了激烈的战斗。</color>#0##0#####0##0#击败偷猪贼##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "在清然林中，我发现了公主的踪迹，<color=&&8d5429>但很快发现她被偷猪贼带走了。决心不让公主受到伤害，我与偷猪贼展开了激烈的战斗。</color>"
-    translated: "In the serene Qing Ran forest, I discovered traces of the young lady's presence, <color=&&8d5429>but quickly realized she had been taken by a bandit. Determined not to let harm come to her, I engaged in a fierce battle with the bandit.</color>"
+    translated: "In the Serene Forest, I discovered traces of the young lady's whereabouts, <color=&&8d5429>but quickly found that she had been taken by a bandit. Determined not to let harm come to her, I engaged in a fierce battle with the bandit.</color>"
   - split: 16
     text: "击败偷猪贼"
     translated: "Defeat the pig‑thieving bandit"
@@ -5897,7 +5897,7 @@
   splits:
   - split: 5
     text: "在清然林中，我发现了公主的踪迹，但很快发现她被偷猪贼带走了。决心不让公主受到伤害，我与偷猪贼展开了激烈的战斗。"
-    translated: "In the serene Qingran Forest, I discovered traces of the young lady but soon realized she had been taken by a bandit. Determined not to let harm come to her, I engaged in a fierce battle with the bandit."
+    translated: "In the Serene Forest, I found traces of the Young Lady's presence but soon discovered that she had been taken by a bandit. Determined not to let the Young Lady come to harm, I engaged in a fierce battle with the bandit."
 - raw: "371105#20#1#0&27|32480|0#3711#经过一番激斗，我最终战胜了偷猪贼，成功救回了公主。现在，我将带着公主回去，交给甄寅大哥。相信这下甄寅大叔的烦恼也会解决了。#0##0#####0##0#将公主交给甄寅##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
@@ -6024,15 +6024,15 @@
   splits:
   - split: 5
     text: "<color=&&8d5429>在云鹤村市集听到有关金光圃河边的传闻后，你决定前往那里查看。</color>"
-    translated: "<color=&&8d5429>In the market of Cloud Crane Village, you hear rumors about the banks of Jin Guang Pu River and decide to go there to investigate.</color>"
+    translated: "<color=&&8d5429>In the market of Cloud Crane Village, you hear rumors about Golden Grove by the river and decide to go there to investigate.</color>"
   - split: 16
     text: "去金光圃河边"
-    translated: "Go to the riverbank near Jin Guangpu"
+    translated: "Go to the riverbank of Golden Grove"
 - raw: "371602#20#1#0&24|990313|1#3716#在云鹤村市集听到有关金光圃河边的传闻后，你决定前往那里查看。到达金光圃后，你发现有三位江湖人士身中剧毒，他们似乎被人下了毒手。#0#371601#0#####0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "在云鹤村市集听到有关金光圃河边的传闻后，你决定前往那里查看。到达金光圃后，你发现有三位江湖人士身中剧毒，他们似乎被人下了毒手。"
-    translated: "After hearing rumors about the Jin Guangpu Riverbank at the Cloud Crane Village market, you decide to go there and investigate. Upon arriving at Jin Guangpu, you discover three figures from the Jianghu who are suffering from severe poisoning, as if someone has poisoned them deliberately."
+    translated: "After hearing rumors about Golden Grove by the river at the market in Cloud Crane Village, you decide to go there and check it out. Upon arriving at Golden Grove, you discover three Jianghu figures who have been poisoned severely; it appears they've been poisoned intentionally."
 - raw: "371603#20#1#0&24|990305|1#3716##0##0#####0##0#替众人解毒##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 16
@@ -6052,7 +6052,7 @@
   splits:
   - split: 5
     text: "幸好得知陀学智等人在村北门口的猪艚里藏了解毒丸。我急忙前往猪艚，并经过一番搜索，终于找到了解毒丸。现在，我需要迅速返回金光圃河边，帮助这些江湖人士解毒。"
-    translated: "Fortunately, I learned that Dao Xu Zhi and others hid the antidote pills in a pig cart at the north gate of the village. I quickly went to the pig cart and, after searching for some time, finally found the antidotes. Now, I need to swiftly return to the banks of the Jin Guang Pu River to help these Jianghu figures with the antidote."
+    translated: "Fortunately, I learned that Brother Tu and his associates had hidden antidote pills in a pigpen at the north gate of the village. I hurried over to the pigpen and, after some searching, finally found the antidote pills. Now, I need to quickly return to the banks of Golden Grove River to help these Jianghu people with the antidotes."
 - raw: "371607#20#1#0&24|973713|1#3716##0##0#####0##0#听众人交谈##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 16
@@ -6062,7 +6062,7 @@
   splits:
   - split: 5
     text: "回到金光圃河边后，我成功地为众人解毒。他们感激地表达了谢意，并告诉他们此行的目的是为了追寻虞令羽的宝藏。他们还提到，在虞令羽的墓地上，他们曾看到一位姑娘正在祭拜。"
-    translated: "Upon returning to the banks of the Jin Guangpu River, I successfully administered an antidote for everyone. They expressed their gratitude and shared that the purpose of their journey was to seek out Yu Lingyu's treasure. They also mentioned seeing a girl paying respects at Yu Lingyu's grave."
+    translated: "After returning to the shore of Golden Grove, I successfully detoxified everyone. They gratefully expressed their thanks and told us that they were searching for Yu Lingyu's treasure on this journey. They also mentioned that they had seen a girl worshipping at Yu Lingyu's tomb."
 - raw: "371701#20#1#0&24|990273|1#3717#路过云鹤村市集时，偶然听到乐鸿博等人喝醉后吹牛，无意中透露了他们从不夜京购得情报和钥匙的事情。我意识到这是一个宝贵的机会，如果想得到那把钥匙，<color=&&8d5429>可以与他们建立良好的关系求取，或者选择与他们决斗并夺取钥匙。</color>#0##0#####0##0#得到钥匙与情报##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
@@ -6083,7 +6083,7 @@
     translated: "After rescuing Da Xu Zhi and others, a girl was found worshipping Yu Lingyu on the mound. <color=&&8d5429>Perhaps I should go see who this person is.</color>"
   - split: 16
     text: "去虞令羽之墓查探"
-    translated: "Go investigate Yulingyu's tomb"
+    translated: "Visit Yu Lingyu's tomb to investigate"
 - raw: "371802#20#1#0&24|990289|1#3718#救下陀学智等人后，发现坟山上有一位祭拜虞令羽的姑娘，而她就是步琪。#0#371801#0#####0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
@@ -6145,15 +6145,15 @@
   splits:
   - split: 5
     text: "从村长夫人那里听说飞炼瀑附近的竹林湖边有一位江湖侠客出现，<color=&&8d5429>对此感到好奇，于是打算前往湖边探寻。</color>"
-    translated: "I heard from the village head's wife that a Jianghu wanderer appeared near the Bamboo Forest Lake by Fly Refining Falls. <color=&&8d5429>I was curious about this and decided to go to the lakeside to investigate.</color>"
+    translated: "Hearing from the village head's wife about a Jianghu Wanderer appearing near the Bamboo Forest by the lake adjacent to Flying Forge Falls, I felt curious and decided to go to the lakeside to investigate. <color=&&8d5429></color>"
   - split: 16
     text: "去飞炼瀑竹林湖边"
-    translated: "Go to the Pukuzhilin Lake by the flying furnace"
+    translated: "Go to the Bamboo Grove by Flying Forge Falls."
 - raw: "372102#20#1#0&24|972465|1#3721#从村长夫人那里听说飞炼瀑附近的竹林湖边有一位江湖侠客出现，对此感到好奇，于是打算前往湖边探寻。果然，在湖边你发现了村长夫人所提到的江湖侠客。#0#372101#0#####0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "从村长夫人那里听说飞炼瀑附近的竹林湖边有一位江湖侠客出现，对此感到好奇，于是打算前往湖边探寻。果然，在湖边你发现了村长夫人所提到的江湖侠客。"
-    translated: "You heard from the village chief's wife that a Jianghu wanderer had appeared near Fly‑Refined Waterfall in the bamboo forest by Lake Bamboo. Intrigued, you decided to go to the lakeside to investigate. As expected, you found the Jianghu wanderer mentioned by the village chief's wife at the lakeside."
+    translated: "Upon hearing from the village chief's wife about a Jianghu Wanderer appearing near the Bamboo Forest by Flying Forge Falls, you feel curious and decide to head there. Indeed, upon reaching the lakeside, you discover the Jianghu Wanderer mentioned by the village chief's wife."
 - raw: "372103#20#1#0&24|972465|1#3721##0##0#####0##0#尽力抵抗夏寅的攻击##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 16
@@ -6186,7 +6186,7 @@
   splits:
   - split: 5
     text: "路过云鹤村市集时听到李承誉嘀咕，说是他兄弟李三问因为江湖醉喝光了心情不好，向李承誉口打听后得知，原来龙蛇寨的山贼将抢走的江湖醉藏在龙蛇寨宝库之中。"
-    translated: "While passing through the Cloud Crane Village market, Li Chengyu overheard mumbling that his brother, Li Sanwen, had drunk all of Jianghu Drunken and was in a foul mood. After asking around, he discovered that the bandits from Longshe Fort had hidden the stolen bottles of Jianghu Drunken in their treasure vault."
+    translated: "While passing through the market in Cloud Crane Village, I overheard Li Chengyu muttering that his brother, Li Sanwen, was upset because he had drunk too much of Jianghu Zhi and was feeling down. After asking around, Li Chengyu found out that the bandits from Dragon Snake Fort had hidden the stolen Jianghu Zhi in their treasure vault."
 - raw: "372203#20#1#0&24|970572|1#3722##0##0#####0##0#得到江湖醉##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 16
@@ -6198,7 +6198,7 @@
   splits:
   - split: 5
     text: "从龙蛇寨宝窟中得到了江湖醉，将江湖醉交给李三问应当就能让心情重新振作起来。"
-    translated: "Receiving the Jianghu Zui from the Dragon and Snake Fortress treasure trove and giving it to Li Sanwen should help lift one's spirits again."
+    translated: "By obtaining the Jianghu Elixir from the Dragon Snake Fort's treasure trove and giving it to Li Sanwen, one should be able to regain their spirits."
   - split: 16
     text: "交给李三问江湖醉"
     translated: "Entrust to Li Sanwen, drunk in the Jianghu."
@@ -6206,12 +6206,12 @@
   splits:
   - split: 5
     text: "从龙蛇寨宝窟中得到了江湖醉，带着江湖醉回到村中，将其交给了李三问。李三问得到江湖醉后，心情重新振作起来。"
-    translated: "Having obtained the Jianghu Zui from the Dragon and Snake Den's treasure trove, I returned to the village with it and gave it to Li Sanwen. Upon receiving the Jianghu Zui, Li Sanwen's spirits were revived."
+    translated: "From the Dragon Snake Fort treasure trove, I obtained a Jianghu Potion. Returning to the village with the Jianghu Potion, I gave it to Li Sanwen. Upon receiving the Jianghu Potion, Li Sanwen's spirits were revived."
 - raw: "372301#20#1#0&30|971281|1#3723#在清然林的竹林上上听到了名叫秦一的江湖人士谈论在云鹤村中寻找霞璃的事情，似乎是在<color=&&8d5429>云鹤村中寻找霞璃。</color>#971253##0#####0##0#找郑婶和村长问问##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "在清然林的竹林上上听到了名叫秦一的江湖人士谈论在云鹤村中寻找霞璃的事情，似乎是在<color=&&8d5429>云鹤村中寻找霞璃。</color>"
-    translated: "In the bamboo grove of Qingran Forest, I overheard a person from the Jianghu named Qin Yi discussing the matter of searching for Xia Li in Cloud Crane Village. It seemed to be about <color=&&8d5429>searching for Xia Li in Cloud Crane Village.</color>"
+    translated: "In the bamboo grove of Serene Forest, a Jianghu figure named Qin Yi was heard discussing the search for Xia Li in Cloud Crane Village, as if he were <color=&&8d5429>in Cloud Crane Village searching for Xia Li.</color>"
   - split: 16
     text: "找郑婶和村长问问"
     translated: "Go find Auntie Zheng and the village head to ask them"
@@ -6219,7 +6219,7 @@
   splits:
   - split: 5
     text: "在清然林的竹林上上听到了名叫秦一的江湖人士谈论在云鹤村中寻找霞璃的事情，似乎是在在云鹤村中寻找霞璃。"
-    translated: "In the bamboo groves of Qingran Forest, someone overheard a person known as Qin Yi from the Jianghu discussing their search for Xi Li in Cloud Crane Village. It seemed they were looking for Xi Li in Cloud Crane Village."
+    translated: "In the bamboo grove of Serene Forest, I overheard a Jianghu figure named Qin Yi discussing someone searching for Xiali in Cloud Crane Village. It seemed they were indeed looking for Xiali within Cloud Crane Village."
 - raw: "372303#20#1#0&24|971251|1#3723#经过一番探查，获得了一些线索，<color=&&8d5429>发现甄寅似乎了解有关霞璃的信息。</color>#0##0#####0##0#去找甄寅##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
@@ -6289,20 +6289,20 @@
   splits:
   - split: 5
     text: "从山贼头目身上的亲笔信中发现，<color=&&8d5429>伯子越似乎和龙蛇寨</color>有关系。"
-    translated: "From the autograph letter of the bandit chief, it was discovered that <color=&&8d5429>Master Yu seems to have a connection with Dragon and Snake Camp.</color>"
+    translated: "From the personal letter written by the bandit leader, it seems that <color=&&8d5429>Bo Ziyue is somehow related to Dragon Snake Fort.</color>"
   - split: 16
     text: "去见伯子越"
-    translated: "Go see Brother Yu"
+    translated: "Go see Bo Ziyue"
 - raw: "372802#20#1#0&24|961059|1#3728#从山贼头目身上的亲笔信中发现，伯子越似乎和龙蛇寨有关系。#0#372801#0#####0##0###1#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "从山贼头目身上的亲笔信中发现，伯子越似乎和龙蛇寨有关系。"
-    translated: "It was discovered from a handwritten letter found on the body of the bandit leader that Brother Xu apparently has connections with Longshe Fort"
+    translated: "From the autograph letter taken from the bandit leader's person, it appears that Bo Ziyue seems to have a connection with Dragon Snake Fort."
 - raw: "372803#20#1#0&24|954363|1#3728#在村里做好准备后去见伯子越。#0##0#####0##0#找冯尔真王铁任天游等人寻求帮助##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "在村里做好准备后去见伯子越。"
-    translated: "After making preparations in the village, go to see Uncle Xiyou"
+    translated: "After making preparations in the village, go to see Brother Bo Ziyue."
   - split: 16
     text: "找冯尔真王铁任天游等人寻求帮助"
     translated: "Seek help from Feng Erzhen, Wang Tie, and Ren Tianyou."
@@ -6310,7 +6310,7 @@
   splits:
   - split: 5
     text: "一切准备就绪，去清然林找伯子越。"
-    translated: "Everything is ready; go to Qingshan Forest to find Brother Yue"
+    translated: "Everything is ready; let's go to the Serene Forest to find Brother Bo Ziyue."
 - raw: "372901#20#1#0&72|30520|30520003|1#3729#万事通大叔飞鸽传书言明村中有门名叫养剑术的独门秘术，但万事通似乎也并不清楚其中原委，他指明让我们<color=&&8d5429>去寻找村长</color>。#0##0#####0##0#去找村长了解情况##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
@@ -6328,12 +6328,12 @@
   splits:
   - split: 16
     text: "去虞令羽之墓祭拜"
-    translated: "Visit the tomb of Brother Yu to offer sacrifices"
+    translated: "Visit Yu Lingyu's tomb to pay respects"
 - raw: "372904#20#1#0&24|957506|1#3729#虞令羽…日后我定要成为他这般无二的厉害人物！#0#372903#0#####0##0###1#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "虞令羽…日后我定要成为他这般无二的厉害人物！"
-    translated: "Yu Ling Yu... One day, I must become as unrivaled and formidable a person as he is!"
+    translated: "Yu Lingyu... In the future, I must become someone as exceptional and unparalleled as him!"
 - raw: "373001#20#1#0&24|942188|1#3730#成为内门弟子后从王溪那得知山庄有祭圣传统#0##0#####0##0#前往砚溪山庄西侧拜见先贤##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
@@ -6377,20 +6377,20 @@
   splits:
   - split: 5
     text: "万事通告知东西被龙蛇寨二当家截胡，这群恶人无恶不作，<color=&&8d5429>平日里就在龙蛇寨附近的房子上居住。</color>"
-    translated: "Wan Shi Tong informs that the goods were intercepted by the Second Boss of Long She Zhai. This group of villains does no evil, <color=&&8d5429>and in their everyday lives, they reside in houses near Long She Zhai.</color>"
+    translated: "Wan Shi Tong reports that the east and west were intercepted by the Second Boss of Dragon Snake Fort. These villains are without any sense of morality; <color=&&8d5429>they reside in the houses around Dragon Snake Fort during the day.</color>"
   - split: 16
     text: "前往龙蛇寨寻找宝物"
-    translated: "Embark on a quest to the Dragon‑Snake Encampment in search of treasures"
+    translated: "Embark on a journey to the Dragon Snake Fort in search of treasures."
 - raw: "373204#20#1#0&27|93842|0;27|93843|0;27|93844|0;27|93845|0;27|93846|0;27|93847|0#3732#万事通告知东西被龙蛇寨二当家截胡，这群恶人无恶不作，平日里就在龙蛇寨附近的房子上居住，将这群家伙收拾之后，还没有发现被抢走的宝物。#939786#373203#0#####0##0###1#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "万事通告知东西被龙蛇寨二当家截胡，这群恶人无恶不作，平日里就在龙蛇寨附近的房子上居住，将这群家伙收拾之后，还没有发现被抢走的宝物。"
-    translated: "Wan Shi Tong informs that the East and West were intercepted by the Second Boss of Long She Zhai. This group of villains is up to no good; during the day, they reside in houses near Long She Zhai, but even after dealing with them, the stolen treasure hasn't been recovered yet."
+    translated: "Wan Shi Tong reports that the Second Boss of Dragon Snake Fort intercepted supplies from the east and west. These bandits are up to no good; they typically reside in houses near Dragon Snake Fort and have yet to be dealt with, let alone discover the stolen treasures."
 - raw: "373205#20#1#0&24|939812|1#3732#万事通告知东西被龙蛇寨二当家截胡，这群恶人无恶不作，平日里就在龙蛇寨附近的房子上居住，来到这里之后才发现，原来是万事通把我给骗了！#0#373203#0#####0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "万事通告知东西被龙蛇寨二当家截胡，这群恶人无恶不作，平日里就在龙蛇寨附近的房子上居住，来到这里之后才发现，原来是万事通把我给骗了！"
-    translated: "Wan Shi Tong informs that the Second Boss of Long She Zhai has intercepted the east‑west path. This group of evil people are without scruples and usually live in houses near Long She Zhai; after arriving here, it turns out they were misled by Wan Shi Tong to believe I was someone else!"
+    translated: "Wan Shi Tong informed us that the east and west routes were intercepted by the Second Boss of Dragon Snake Fort. These villains are up to no good; they usually reside in houses near Dragon Snake Fort. Upon arriving here, we discovered that it was actually Wan Shi Tong who deceived me!"
 - raw: "373206#20#1#0&24|939812|1#3732#原来一切竟然是被万事通骗了，此事一定要<color=&&8d5429>回去找万事通要个说法！</color>#0##0#####0##0#回去质问万事通##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
@@ -9648,7 +9648,7 @@
   splits:
   - split: 5
     text: "当我探查到机杼传承所在，就在龙蛇寨附近，大概<color=&&8d5429>(1044,1360)</color>的位置"
-    translated: "When I investigated and discovered the whereabouts of the Machine Spindle's inheritance, it was located near Longshe Village, approximately in position <color=&&8d5429>(1044,1360)</color>."
+    translated: "When I discovered the location of the Weaving Mill legacy, it was near Dragon Snake Fort, approximately <color=&&8d5429>(1044,1360)</color> away."
   - split: 16
     text: "获得机杼传承"
     translated: "Obtain the inheritance of the Jade Loom"
@@ -9656,12 +9656,12 @@
   splits:
   - split: 5
     text: "当我探查到机杼传承所在，就在龙蛇寨附近，大概在<color=&&8d5429>(1044,1360)</color>的位置"
-    translated: "When I discovered the location of the machine loom's transmission, it was near the Dragon and Snake Camp, roughly around <color=&&8d5429>(1044,1360)</color>."
+    translated: "When I investigated where the loom legacy was located, it seemed to be near Dragon Snake Fort, approximately in the <color=&&8d5429>(1044,1360)</color> area."
 - raw: "397007#20#1#0&24|944904|1#3970#已经知道传承所在，我便赶往龙蛇寨附近<color=&&8d5429>(1044,1360)</color>查看，以获得机杼传承#0##0#####0##0#获得机杼传承##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "已经知道传承所在，我便赶往龙蛇寨附近<color=&&8d5429>(1044,1360)</color>查看，以获得机杼传承"
-    translated: "I already know where the legacy is located, so I went to look around near Dragon and Snake Camp on <color=&&8d5429>(1044,1360)</color> in order to obtain the Weaver's Legacy."
+    translated: "Knowing where the legacy is located, I hurried to the area near Dragon Snake Fort on <color=&&8d5429>(1044,1360)</color> to investigate and acquire the loom legacy."
   - split: 16
     text: "获得机杼传承"
     translated: "Obtain the inheritance of the Jade Loom"
@@ -9669,7 +9669,7 @@
   splits:
   - split: 5
     text: "已经知道传承所在，我便赶往龙蛇寨附近<color=&&8d5429>(1044,1360)</color>查看，最后获得了机杼传承。"
-    translated: "Having discovered the location of the legacy, I hastened to the vicinity of Longshe Encampment on <color=&&8d5429>(1044,1360)</color> to investigate and ultimately obtained the Jiangzhe Legacy."
+    translated: "Having learned the location of the lineage, I hurried to near Dragon Snake Fort to investigate <color=&&8d5429>(1044,1360)</color>, ultimately acquiring the loom heritage."
 - raw: "397101#20#1#0&18|1|68|200000|>=#3971#包里也算小有钱了，听闻不夜京御者附近有人在卖岛契，或许我可以去看看。#0#0#0#0#0###0##0#不夜京御者处寻商人##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5

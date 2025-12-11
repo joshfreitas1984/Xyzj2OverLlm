@@ -1273,7 +1273,7 @@
   splits:
   - split: 23
     text: "吴德和伯子越机缘巧合得到了一些与百战刀圣相关的东西，但又相互提防，所以便一人分了一半。而百战刀圣所隐匿之地应该就在<color=FF0000>云鹤村附近的飞练瀑的山壁之上</color>！"
-    translated: "Wu De and Brother Zhuo, by a twist of fate, acquired some items related to the Sword Saint of Hundred Battles. However, they were wary of each other and thus decided to split them equally between themselves. The hidden place of the Sword Saint of Hundred Battles should be on the cliff above Feilian Waterfall near <color=FF0000>Cloud Crane Village</color>."
+    translated: "Wu De and Bo Ziyue coincidentally acquired some items related to the Sword Saint of a Hundred Battles, but they were wary of each other. So, they divided them equally between themselves. The hiding place of the Sword Saint of a Hundred Battles should be on the mountain wall above the Flying Cultivation Falls near <color=FF0000>Cloud Crane Village</color>!"
 - raw: "201321#4#0#0#0#0#0#0#0#0#0#0#0#969494#401011#0#110136#0#0#0#2&1115|1116|1117|1118#0#0#柳成絮因家产一事对柳老爷心怀怨怼，从而下毒毒死了柳老爷，并把此事嫁祸给了方珏。##0#0#0#0#"
   splits:
   - split: 23

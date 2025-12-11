@@ -1545,7 +1545,7 @@
     translated: "Resolve the Demon God"
   - split: 9
     text: "击败在云鹤村附近埋伏的伯子越"
-    translated: "Defeated the ambush by Brother Zhu in the vicinity of Cloud Crane Village."
+    translated: "Defeat Bo Ziyue, who was ambushing near Cloud Crane Village."
   - split: 14
     text: "煞神遇真命，剑下魂归宁。清风拂山谷，正气净天地。"
     translated: "The immortal spirit encounters true fate; under the sword's influence, souls return home. A clear breeze sweeps through the mountains and valleys, purifying the earth and heavens with righteous energy."
@@ -6118,13 +6118,13 @@
   splits:
   - split: 1
     text: "金光圃旁"
-    translated: "By the side of Jin Guang Pu"
+    translated: "Beside the Golden Grove"
   - split: 9
     text: "完成奇遇任务《金光圃旁》"
-    translated: "Complete the adventure quest Beside the Garden of Golden Light."
+    translated: "Complete the quest Near the Golden Grove"
   - split: 14
     text: "金光圃旁晚，花影舞轻扬。闲步中沉思，岁月静好长。"
-    translated: "Beside the golden orchard at dusk, flower shadows dance lightly. In leisurely steps, immersed in thought, as time flows peacefully and long."
+    translated: "In the gentle evening light of the Golden Grove, shadows dance among the flowers. Walking leisurely, thoughts wander as time stretches out peacefully."
 - raw: "2416#酒楼轶闻#1#1#2416#1#3#60008|1;9083|3;21042|1#0&3|37033|1;3|37090|1#完成奇遇任务《酒楼轶闻》##200###酒楼传轶闻，故事醉人心。举杯邀月影，佳话共欢欣。#0#0#1##"
   splits:
   - split: 1

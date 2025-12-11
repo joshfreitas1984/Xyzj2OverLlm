@@ -1643,7 +1643,7 @@
     translated: "Waterfall Body Conditioning"
   - split: 6
     text: "从郑婶那里路过时，听到她再次夸耀她孩子年幼时的事迹，其中涉及到了飞炼瀑。"
-    translated: "While passing by Aunt Zheng's place, I heard her once again boasting about the exploits of her children when they were young, which involved flying to Misty Falls."
+    translated: "While passing by Aunt Zheng's place, I heard her boasting again about the feats of her child during his youth, which involved the Flying Forge Falls."
 - raw: "60008#落跑公主#6#0&30|972550|1#0&24|988544|1#落跑公主#得知甄寅家的公猪和公主不慎在走失，身为云鹤村的一份子，深感自己有责任伸出援手，全力以赴协助寻找。#0#60008#"
   splits:
   - split: 1
@@ -1692,13 +1692,13 @@
   splits:
   - split: 1
     text: "金光圃边"
-    translated: "At the edge of the Golden Light Field"
+    translated: "Beside the Golden Grove"
   - split: 5
     text: "金光圃边"
-    translated: "At the edge of the Golden Light Field"
+    translated: "Beside the Golden Grove"
   - split: 6
     text: "在云鹤村市集听到一些村里的传闻，发现金光圃的河边有几个打扮像江湖人士的人。"
-    translated: "At the market in Cloud Crane Village, I overheard some village rumors and discovered that there were a few people dressed like Jianghu figures by the riverside of Jin Guang Pu."
+    translated: "At the market in Cloud Crane Village, I heard some rumors from the villagers and discovered that there were a few people dressed like Jianghu figures by the riverside of Golden Grove."
 - raw: "60013#酒楼轶闻#6#0&24|990273|1#0&3|37033|1;3|37090|1#酒楼轶闻#在云鹤村市集听到一些村里的传闻，偶然发现乐鸿博无意中透露了他们从不夜京购得情报和钥匙的事情。#0#60013#"
   splits:
   - split: 1
@@ -1731,7 +1731,7 @@
     translated: "Moonlit Sword Dance"
   - split: 6
     text: "从村长夫人那里听说飞炼瀑附近的竹林湖边有一位江湖侠客出现。"
-    translated: "I heard from the village head's wife that a Jianghu wanderer appeared near the Bamboo Forest Lake beside Flying Refining Falls."
+    translated: "I heard from the village head's wife that a Jianghu wanderer appeared near the bamboo forest by Lake on the outskirts of Flying Forge Falls."
 - raw: "60016#江湖一醉#6#0&24|957692|1#0&24|971704|1#江湖一醉#路过云鹤村市集时听到李承誉嘀咕，说是他兄弟李三问因为江湖醉喝光了心情不好，向李承誉打听或许能知道些有关于江湖醉的事情。#0#60016#"
   splits:
   - split: 1
@@ -2523,7 +2523,7 @@
     translated: "Legacy of looms"
   - split: 6
     text: "我对墨学有所感悟，若想精进武学，还需前往龙蛇寨附近山上寻<color=&&DEB887>机杼人偶(1044,1360)</color>。最好是墨学达到三百再去。"
-    translated: "I've gained some insight into Mohism; to further my martial skills, I need to find the <color=&&DEB887>machine‑made human figures (1044,1360)</color> in the mountains near Dragon and Snake Encampment. It would be best if I reached three hundred in Mohism before going there."
+    translated: "I have gained some insights into Mohism, and if I wish to advance my martial arts, I need to find the <color=&&DEB887>machine puppet (1044,1360) </color> in the mountains near Dragon Snake Fort. It would be best to reach a level of 300 in Mohism before going."
 - raw: "60091#购买岛契#6#0&18|1|68|200000|>=#0&24|937704|1#购买岛契#包里也算小有钱了，听闻不夜京御者附近有人在卖岛契，或许我可以去看看。#0#60091#"
   splits:
   - split: 1
