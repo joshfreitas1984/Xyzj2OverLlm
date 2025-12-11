@@ -354,7 +354,7 @@
   splits:
   - split: 4
     text: "澄心湖"
-    translated: "Cheng Xin Lake"
+    translated: "Clear Heart Lake"
   - split: 6
     text: "湖畔青山环绕，绿树成荫，水天一色，清幽秀丽。传闻剑道宗师吴道子曾静坐湖面，清心定意聚真阳，一念成剑法通神。"
     translated: "The lakeside is surrounded by green hills, with trees casting shadows and the sky merging seamlessly with the water in a scene of serene beauty. It is said that the sword art master Wu Daozi once sat in meditation on the lake's surface, concentrating his mind to cultivate Yang Qi into one thought, thus achieving divine proficiency in swordsmanship."
@@ -362,7 +362,7 @@
   splits:
   - split: 4
     text: "澄心湖"
-    translated: "Cheng Xin Lake"
+    translated: "Clear Heart Lake"
   - split: 6
     text: "湖畔青山环绕，绿树成荫，水天一色，清幽秀丽。传闻剑道宗师吴道子曾静坐湖面，清心定意聚真阳，一念成剑法通神。"
     translated: "The lakeside is surrounded by green hills, with trees casting shadows and the sky merging seamlessly with the water in a scene of serene beauty. It is said that the sword art master Wu Daozi once sat in meditation on the lake's surface, concentrating his mind to cultivate Yang Qi into one thought, thus achieving divine proficiency in swordsmanship."
@@ -370,7 +370,7 @@
   splits:
   - split: 4
     text: "澄心湖"
-    translated: "Cheng Xin Lake"
+    translated: "Clear Heart Lake"
   - split: 6
     text: "湖畔青山环绕，绿树成荫，水天一色，清幽秀丽。传闻剑道宗师吴道子曾静坐湖面，清心定意聚真阳，一念成剑法通神。"
     translated: "The lakeside is surrounded by green hills, with trees casting shadows and the sky merging seamlessly with the water in a scene of serene beauty. It is said that the sword art master Wu Daozi once sat in meditation on the lake's surface, concentrating his mind to cultivate Yang Qi into one thought, thus achieving divine proficiency in swordsmanship."
@@ -378,7 +378,7 @@
   splits:
   - split: 4
     text: "澄心湖"
-    translated: "Cheng Xin Lake"
+    translated: "Clear Heart Lake"
   - split: 6
     text: "湖畔青山环绕，绿树成荫，水天一色，清幽秀丽。传闻剑道宗师吴道子曾静坐湖面，清心定意聚真阳，一念成剑法通神。"
     translated: "The lakeside is surrounded by green hills, with trees casting shadows and the sky merging seamlessly with the water in a scene of serene beauty. It is said that the sword art master Wu Daozi once sat in meditation on the lake's surface, concentrating his mind to cultivate Yang Qi into one thought, thus achieving divine proficiency in swordsmanship."
@@ -386,7 +386,7 @@
   splits:
   - split: 4
     text: "澄心湖"
-    translated: "Cheng Xin Lake"
+    translated: "Clear Heart Lake"
   - split: 6
     text: "湖畔青山环绕，绿树成荫，水天一色，清幽秀丽。传闻剑道宗师吴道子曾静坐湖面，清心定意聚真阳，一念成剑法通神。"
     translated: "The lakeside is surrounded by green hills, with trees casting shadows and the sky merging seamlessly with the water in a scene of serene beauty. It is said that the sword art master Wu Daozi once sat in meditation on the lake's surface, concentrating his mind to cultivate Yang Qi into one thought, thus achieving divine proficiency in swordsmanship."
@@ -394,7 +394,7 @@
   splits:
   - split: 4
     text: "澄心湖"
-    translated: "Cheng Xin Lake"
+    translated: "Clear Heart Lake"
   - split: 6
     text: "湖畔青山环绕，绿树成荫，水天一色，清幽秀丽。传闻剑道宗师吴道子曾静坐湖面，清心定意聚真阳，一念成剑法通神。"
     translated: "The lakeside is surrounded by green hills, with trees casting shadows and the sky merging seamlessly with the water in a scene of serene beauty. It is said that the sword art master Wu Daozi once sat in meditation on the lake's surface, concentrating his mind to cultivate Yang Qi into one thought, thus achieving divine proficiency in swordsmanship."
@@ -402,7 +402,7 @@
   splits:
   - split: 4
     text: "澄心湖"
-    translated: "Cheng Xin Lake"
+    translated: "Clear Heart Lake"
   - split: 6
     text: "湖畔青山环绕，绿树成荫，水天一色，清幽秀丽。传闻剑道宗师吴道子曾静坐湖面，清心定意聚真阳，一念成剑法通神。"
     translated: "The lakeside is surrounded by green hills, with trees casting shadows and the sky merging seamlessly with the water in a scene of serene beauty. It is said that the sword art master Wu Daozi once sat in meditation on the lake's surface, concentrating his mind to cultivate Yang Qi into one thought, thus achieving divine proficiency in swordsmanship."
@@ -410,7 +410,7 @@
   splits:
   - split: 4
     text: "澄心湖"
-    translated: "Cheng Xin Lake"
+    translated: "Clear Heart Lake"
   - split: 6
     text: "湖畔青山环绕，绿树成荫，水天一色，清幽秀丽。传闻剑道宗师吴道子曾静坐湖面，清心定意聚真阳，一念成剑法通神。"
     translated: "The lakeside is surrounded by green hills, with trees casting shadows and the sky merging seamlessly with the water in a scene of serene beauty. It is said that the sword art master Wu Daozi once sat in meditation on the lake's surface, concentrating his mind to cultivate Yang Qi into one thought, thus achieving divine proficiency in swordsmanship."

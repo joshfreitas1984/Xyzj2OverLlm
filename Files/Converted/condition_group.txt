@@ -13939,12 +13939,12 @@
   splits:
   - split: 5
     text: "前往无心地宫口"
-    translated: "Head toward the entrance of Wuxin's Secret Garden."
+    translated: "Heading to the entrance of the Wuxin Underground Palace."
 - raw: "4007310#19#1#1119.833,346.471,1304.485,1#40073#进入无心地宫#0#4007309#0#0#0###0##0##0#0#0#0#0#0#101000#897681#0#0#0#0#1128.749&346.471&1303.903&196.3201&1#0#0#0##40294#"
   splits:
   - split: 5
     text: "进入无心地宫"
-    translated: "Enter the Realm of Wu Xing"
+    translated: "Entering the Wuxin Underground Palace"
 - raw: "4007401#19#1#1380.575,252.6149,719.2841,1#40074#跟随白无瑕#0#0#0#0#0###0##0##0#0#0#0#0#0#101000#897639#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5

@@ -565,7 +565,7 @@
     translated: "Month by month"
   - split: 6
     text: "四野定后，常有轶闻，有说客道皓月当空有人于澄心湖间逐月而去惹来笑料，说客掷于桌面，其鞋晶莹剔透，处处泛着月光，众人将才半信，赠名逐月。"
-    translated: "In the vast lands, tales abound about the post‑crowning period. A storyteller once claimed that under a bright moon in the sky, someone set off to chase the moon across Cheng Xin Lake, stirring laughter among listeners. The storyteller flung his shoes onto the table; they shone brilliantly and were as clear and translucent as crystal, reflecting the moonlight in every spot. Although only half‑believed by the onlookers, the tale earned its teller the nickname Chase‑the‑Moon."
+    translated: "Throughout the four regions, it is common to hear unusual tales. One such story involves a guest who spoke of someone in the open air beneath the full moon by Clear Heart Lake, who purportedly chased the moon across its surface, causing amusement among listeners. When asked for proof, the speaker threw his shoe onto the table; it was dazzling and transparent everywhere, shimmering with moonlight. While the onlookers were only half convinced, they nonetheless bestowed upon him the nickname Chaser of the Moon."
 - raw: "20048#天机#2###50547#四野定后，常有异人，有人趋利避害如窥天机，此戒亦如是，配之可洞悉无遗，只是有违天道，持有者皆英年早逝，但仍令人趋之若鹜。##0#"
   splits:
   - split: 1
@@ -3969,10 +3969,10 @@
   splits:
   - split: 1
     text: "辰星流转"
-    translated: "Stars shift at dawn"
+    translated: "Turning Star Flow"
   - split: 6
     text: "砚溪山庄传承的古书，书页已泛黄陈旧。若能通读一遍，便可领略传世已久的护体绝技辰星流转。"
-    translated: "The ancient texts of Ink Stream Mountain Villa have yellowed and aged over time. By reading them through, one can appreciate the long‑enduring body‑protection techniques known as Chen Xing Liu Zhuan."
+    translated: "The ancient scrolls inherited by Ink Stream Mountain Villa have yellowed and aged over time. If one can read through them, they will be able to appreciate the body‑protecting secret technique Turning Star Flow that has been passed down for generations."
 - raw: "134463#砚海潮声#3#0#0#34463#砚溪山庄传承的古书，书页已泛黄陈旧。若能通读一遍，便可领略传世已久的护体绝技砚海潮声。#0#34463#"
   splits:
   - split: 1
@@ -4583,7 +4583,7 @@
     translated: "Monkey Sage's Fingers Dance"
   - split: 6
     text: "据说在澄心湖有一只精通棋艺的猴子。"
-    translated: "It is said that there is a monkey at Cheng Xin Lake who is proficient in the art of chess."
+    translated: "It is said that there is a monkey at Clear Heart Lake who is skilled in chess."
 - raw: "1146001#“将门虎子”#6#0&24|939292|1;66|1|>=|3#0&1|1146001|1#“将门虎子”#云鹤村似乎有一位神秘男子。#0#1146001#"
   splits:
   - split: 1

@@ -3252,22 +3252,22 @@
   splits:
   - split: 1
     text: "无心地宫AI"
-    translated: "Wuxin's Palace AI"
+    translated: "Wuxin Underground Palace AI"
 - raw: "180337#无心地宫AI2#0#0#0#0#0#0#0#0#0#1#1135.45#338.494#1355.4#36.4#1#53038#0#0#0##100#0##3061#0#0#0##1##0####0#"
   splits:
   - split: 1
     text: "无心地宫AI2"
-    translated: "No intention, AI 2"
+    translated: "Wuxin Underground Palace AI 2"
 - raw: "180338#无心地宫AI3#0#0#0#0#0#0#0#0#0#1#1152.05#337.716#1353.57#137.9#1#53039#0#0#0##100#0##3061#0#0#0##1##0####0#"
   splits:
   - split: 1
     text: "无心地宫AI3"
-    translated: "Unintentional AI 3"
+    translated: "Wuxin Underground Palace AI 3"
 - raw: "180339#无心地宫AI4#0#0#0#0#0#0#0#0#0#1#1155.89#336.991#1344.01#172.9#1#53040#0#0#0##100#0##3061#0#0#0##1##0####0#"
   splits:
   - split: 1
     text: "无心地宫AI4"
-    translated: "The AI of the Wuxia realm, 4"
+    translated: "Wuxin Underground Palace AI 4"
 - raw: "180340#金石矿洞AI#0#0#0#0#0#0#0#0#0#1#874.415#378.278#1518.01#88.6498#1#53041#0#0#0##100#0##3061#0#0#0##1##0####0#"
   splits:
   - split: 1
@@ -7247,37 +7247,37 @@
   splits:
   - split: 1
     text: "硼砂(澄心湖)"
-    translated: "Borax (Cheng Xin Lake)"
+    translated: "Sodium borate (Clear Heart Lake)"
 - raw: "1100101#银矿(澄心湖)#5010#0#2#5#0#462#0#2#62010#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3052#2048#0#0####50000000##0##0#"
   splits:
   - split: 1
     text: "银矿(澄心湖)"
-    translated: "Silver Mine (Cheng Xin Lake)"
+    translated: "Silver Mine (Clear Heart Lake)"
 - raw: "1100111#硼砂(澄心湖)#5008#0#2#5#0#462#0#2#62011#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3052#2048#0#0####50000000##0##0#"
   splits:
   - split: 1
     text: "硼砂(澄心湖)"
-    translated: "Borax (Cheng Xin Lake)"
+    translated: "Sodium borate (Clear Heart Lake)"
 - raw: "1100121#清云石(澄心湖)#5049#0#2#5#0#462#0#2#62012#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3052#2048#0#0####50000000##0##0#"
   splits:
   - split: 1
     text: "清云石(澄心湖)"
-    translated: "Qingyun Stone (Cheng Xin Lake)"
+    translated: "Clear Heart Lake (Chengxin Hu) Stone Clouds"
 - raw: "1100131#益母草(澄心湖)#9002#0#2#5#0#462#0#1#62013#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3053#1024#0#0####50000000##0##0#"
   splits:
   - split: 1
     text: "益母草(澄心湖)"
-    translated: "Meadow Sweet (Cheng Xin Lake)"
+    translated: "Motherwort (Clear Heart Lake)"
 - raw: "1100141#天泽香(澄心湖)#9082#0#2#5#0#462#0#5#62014#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3053#1024#0#0####50000000##0##0#"
   splits:
   - split: 1
     text: "天泽香(澄心湖)"
-    translated: "Tianze Xiang (Cheng Xin Lake)"
+    translated: "Celestial Fragrance (Clear Heart Lake)"
 - raw: "1100151#合欢花(澄心湖)#9080#0#2#5#0#462#0#5#62015#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3053#1024#0#0####50000000##0##0#"
   splits:
   - split: 1
     text: "合欢花(澄心湖)"
-    translated: "Lotus (Cheng Xin Lake)"
+    translated: "Clove Flower (Clear Heart Lake)"
 - raw: "1100161#银矿(千机峰)#5010#0#2#5#0#462#0#2#62016#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3052#2048#0#0####50000000##0##0#"
   splits:
   - split: 1

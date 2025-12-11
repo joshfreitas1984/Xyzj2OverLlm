@@ -4251,7 +4251,7 @@
   literal: Lu Xuan
 - raw: 澄心
   result: Cheng Xin
-  badtrans: true
+  badtrans: false
   direct: Clear Heart
   literal: Cheng Xin
 - raw: 南门函
@@ -5451,6 +5451,16 @@
   literal: Li San wen  
 
 # Factions & Places
+- raw: 澄心湖
+  result: Clear Heart Lake
+  badtrans: true
+  direct: clear heart lake
+  literal: chengxin hu
+- raw: 无心地宫
+  result: Wuxin Underground Palace
+  badtrans: true
+  direct: no heart underground palace
+  literal: wuxin digong
 - raw: 龙骨岛
   result: Dragonbone Island
   badtrans: true
@@ -6758,6 +6768,21 @@
 
 
 # Martial Arts
+- raw: 机杼剑法
+  result: Loom Weaving Sword Technique
+  badtrans: true
+  direct: loom-weave sword method
+  literal: jizhu jianfa
+- raw: 辰星流转
+  result: Turning Star Flow
+  badtrans: true
+  direct: star-flow turning
+  literal: chenxing liuzhuan
+- raw: 墨染尘心
+  result: Ink-Stained Heart
+  badtrans: true
+  direct: ink dye dust heart
+  literal: moran chenxin
 - raw: 擎苍枪
   result: Qingcang Spear
   badtrans: true

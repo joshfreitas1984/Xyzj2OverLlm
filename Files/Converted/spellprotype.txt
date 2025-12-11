@@ -5913,7 +5913,7 @@
     translated: "Kong Sang Lin"
   - split: 4
     text: "蝉鸣空桑林，八月萧关道。机杼剑法，一招出势，以敌方血肉哺自身。"
-    translated: "Cicadas sing in the empty mulberry grove; on August's edge of Xiao Guan Road. The sword technique of the loom is unleashed with one move, feeding off the enemy's blood and flesh to nourish oneself."
+    translated: "Cicadas sing in the empty mulberry forest; on August's Xiao Guan Road. The Loom Weaving Sword Technique: with one move unleashing force, feeding off the enemy's flesh to nourish oneself."
   - split: 11
     text: "身前直线6米"
     translated: "Straight ahead 6 meters"
@@ -5924,7 +5924,7 @@
     translated: "Liu Guang"
   - split: 4
     text: "秋水明落日，流光灭远山。机杼剑法，一招出势，以敌方内力哺自身。"
-    translated: "Autumn waters reflect the setting sun; a luminous flow dims distant mountains. In this technique of swordsmanship, a single move is executed with skill to draw on the opponent's inner power to strengthen oneself."
+    translated: "Autumn waters mirror the setting sun; luminous brilliance eclipses distant mountains. The loom weaving sword technique: with a single move unleashed, it draws strength from the enemy's inner power to nourish itself."
   - split: 11
     text: "身前1.7米160度扇形"
     translated: "A sector of 160 degrees within a radius of 1.7 meters."
@@ -5932,7 +5932,7 @@
   splits:
   - split: 2
     text: "墨染尘心"
-    translated: "Smudged by Ink, Heart Adrift"
+    translated: "Ink‑Stained Heart"
   - split: 4
     text: "墨雪飞舞染尘心，化作春痕一点红。机枢绝学之一，战斗中能将目标的伤害吸收转化为自身护盾。"
     translated: "Smoke and snow dance in the air, staining the heart with a hint of spring red. This is one of the ultimate techniques: during battle, it can absorb the target's damage and convert it into its own shield"
@@ -6135,7 +6135,7 @@
     translated: "Inclusive Love"
   - split: 4
     text: "机杼剑法，看似威力并不强，但是柔中带刚，出剑迅猛无比，但是要发挥出此招核心威力还需要更加深入研究。"
-    translated: "The Machine Loom Sword Art may seem to lack strong power at first glance, but it incorporates softness with strength. Its attacks are exceptionally swift and fierce. However, to fully unleash the core power of this technique, deeper study is required."
+    translated: "The Loom Weaving Sword Technique may seem to lack strong power, but it possesses a blend of softness and hardness. Its swordplay is incredibly swift, yet fully harnessing the core might of this technique requires more in‑depth study."
   - split: 11
     text: "前方2.5米270度扇形"
     translated: "A fan‑shaped area extending 270 degrees, located 2.5 meters ahead."
@@ -13188,7 +13188,7 @@
     translated: "Kong Sang Lin"
   - split: 4
     text: "蝉鸣空桑林，八月萧关道。机杼剑法，一招出势，以敌方血肉哺自身。"
-    translated: "Cicadas sing in the empty mulberry grove; on August's edge of Xiao Guan Road. The sword technique of the loom is unleashed with one move, feeding off the enemy's blood and flesh to nourish oneself."
+    translated: "Cicadas sing in the empty elm forest as August approaches on the Xiao River. The loom weaving sword technique‑launching one strike, drawing strength from the enemy's flesh and blood to sustain oneself."
   - split: 11
     text: "身前直线6米"
     translated: "Straight ahead 6 meters"
@@ -13199,7 +13199,7 @@
     translated: "Liu Guang"
   - split: 4
     text: "秋水明落日，流光灭远山。机杼剑法，一招出势，以敌方内力哺自身。"
-    translated: "Autumn waters reflect the setting sun; a luminous flow dims distant mountains. In this technique of swordsmanship, a single move is executed with skill to draw on the opponent's inner power to strengthen oneself."
+    translated: "Autumn waters illuminate the setting sun; the luminous flow extinguishes distant mountains. The loom weaving sword technique: a single move is launched with such power that it drains the enemy's inner strength to nourish itself."
   - split: 11
     text: "身前1.7米160度扇形"
     translated: "A sector of 160 degrees within a radius of 1.7 meters."
@@ -13207,7 +13207,7 @@
   splits:
   - split: 2
     text: "墨染尘心"
-    translated: "Smudged by Ink, Heart Adrift"
+    translated: "Ink‑Stained Heart"
   - split: 4
     text: "墨雪飞舞染尘心，化作春痕一点红。机枢绝学之一，战斗中能将目标的伤害吸收转化为自身护盾。"
     translated: "Smoke and snow dance in the air, staining the heart with a hint of spring red. This is one of the ultimate techniques: during battle, it can absorb the target's damage and convert it into its own shield"
@@ -13359,7 +13359,7 @@
     translated: "Inclusive Love"
   - split: 4
     text: "机杼剑法，看似威力并不强，但是柔中带刚，出剑迅猛无比，但是要发挥出此招核心威力还需要更加深入研究。"
-    translated: "The Machine Loom Sword Art may seem to lack strong power at first glance, but it incorporates softness with strength. Its attacks are exceptionally swift and fierce. However, to fully unleash the core power of this technique, deeper study is required."
+    translated: "The Loom Weaving Sword Technique appears not to have great power at first glance, but it embodies softness with an underlying hardness. Its strikes are incredibly swift, yet fully unleashing the core might of this technique requires further in‑depth study."
   - split: 11
     text: "前方2.5米270度扇形"
     translated: "A fan‑shaped area extending 270 degrees, located 2.5 meters ahead."
@@ -23310,7 +23310,7 @@
   splits:
   - split: 2
     text: "辰星流转"
-    translated: "Stars shift at dawn"
+    translated: "Turning Star Flow"
   - split: 4
     text: "将围棋之智与武道之力巧妙融合。剑出如落子星位，直击要害。剑守则如星幕流转，轻易将敌人杀势化解，一招一式皆如下棋般精妙，总能寻得最优的应对之策，使对手陷入被动。"
     translated: "The intelligence of Go and the martial prowess are seamlessly integrated. When attacking, the sword strikes like a falling star to hit vital points directly. In defense, it moves like a shifting constellation, effortlessly countering the opponent's offensive thrusts. Each move is as exquisite as making a precise play in a game of Go, always finding the best strategy to respond, leaving the adversary in a passive position."

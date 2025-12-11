@@ -3711,7 +3711,7 @@
     translated: "Qing Yun Shi"
   - split: 41
     text: "可在澄心湖采集"
-    translated: "Can be collected at Cheng Xin Lake"
+    translated: "Gatherable at Clear Heart Lake"
 - raw: "5050#水银#3#2#12#12#96#99999#0#1#0#0#yaopin7#5050#0#7050#0#3600#0##34&3#11&2|3#DAOJU#0#0#0#8650#1#1####0###0##1|8423000#0#0#0#可在齐军、家园、坠龙坡、信陵宗、落凤原采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -3775,7 +3775,7 @@
     translated: "Smartweed"
   - split: 41
     text: "可在朔海派、朔海派、岭花谷、澄心湖采集"
-    translated: "In the North Sea Sect, you can collect at the North Sea Sect, Ridge Flower Valley, and Cheng Xin Lake."
+    translated: "Can be collected in the North Sea Sect, Ridge Flower Valley, and Clear Heart Lake."
 - raw: "9003#白芨#3#3#10#10#25#99999#0#1#0#0#chazixin#9003#0#11003#0#3600#0##20&2#11&1#DANYAO#0#0#0#8513#1#1###all#0###0##1|8423000#0#0#18001#可在神兵山庄采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -4399,7 +4399,7 @@
     translated: "Lovebirds flower"
   - split: 41
     text: "可在澄心湖采集"
-    translated: "Can be collected at Cheng Xin Lake"
+    translated: "Gatherable at Clear Heart Lake"
 - raw: "9081#七叶莲#3#3#13#14#223#99999#0#1#0#0#new1_jshhc#9081#0#11081#0#3600#0##57&4#11&1#DANYAO#0#0#0#8554#1#1###all#0###0##1|8423000#0#0#18020|18034#可在问剑道采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -4415,7 +4415,7 @@
     translated: "Celestial Fragrance"
   - split: 41
     text: "可在澄心湖采集"
-    translated: "Can be collected at Cheng Xin Lake"
+    translated: "Gatherable at Clear Heart Lake"
 - raw: "9083#仙鹤草#3#3#13#14#223#99999#0#1#0#0#xianhecao#9083#0#11083#0#3600#0##57&4#11&1#DANYAO#0#0#0#8551#1#1###all#0###0##1|8423000#0#0#18029#可在千霁峰、无涯海采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -13386,7 +13386,7 @@
   splits:
   - split: 1
     text: "辰星流转"
-    translated: "Stars shift at dawn"
+    translated: "Turning Star Flow"
   - split: 41
     text: "砚溪山庄贡献堂主处可获得"
     translated: "At the Contribution Hall Master's location at Ink Stream Mountain Villa, you can obtain."

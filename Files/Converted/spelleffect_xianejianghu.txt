@@ -18874,10 +18874,10 @@
   splits:
   - split: 1
     text: "墨染尘心"
-    translated: "Smudged by Ink, Heart Adrift"
+    translated: "Ink‑Stained Heart"
   - split: 32
     text: "墨染尘心"
-    translated: "Smudged by Ink, Heart Adrift"
+    translated: "Ink‑Stained Heart"
   - split: 33
     text: "提升凝元叠加层数2层，同时被攻击有20%叠加一次凝元，调息5秒。"
     translated: "Enhance the Ning Yuan layer count by 2 layers, and when attacked, there is a 20% chance to add an additional Ning Yuan. Enter meditative state for 5 seconds."
@@ -18885,7 +18885,7 @@
   splits:
   - split: 1
     text: "墨染尘心-护盾"
-    translated: "Smudge‑stained heart ‑ Shield"
+    translated: "Ink‑Stained Heart ‑ A shield"
 - raw: "196250#点墨#1#31#0#1#-1#0#0#0#0#0#0#0#0#0#10000#0#0#0#0#0#0#50148#1#0#0##0#1#0#0#点墨#在点墨状态下，提升凝元叠加层数3层，攻击与被攻击都有20%几率触发砌柔。#buffnew_ziqidonglai#0#0#196250#0#0#0#0#0#196250##5#0#196251|196252#0.0#0.0###"
   splits:
   - split: 1
@@ -38023,15 +38023,15 @@
     translated: "Ink Sword Style"
   - split: 33
     text: "施展机杼剑法时触发墨染尘心，持续10秒，调息20秒。墨染尘心：持续时间内，增加机杼*0.5的内外防，每5次命中目标给自己叠加一个免疫一次伤害的气盾。"
-    translated: "Upon executing the Jiuzhu Sword Technique, activate Mo Ran Chen Xin for 10 seconds and recover breath for 20 seconds. Mo Ran Chen Xin: During the duration, increase the internal and external defense of the machine loom by *0.5. Each time it hits a target, it stacks an immunity shield that protects against one instance of damage on yourself for 5 occurrences."
+    translated: "When activating the Loom Weaving Sword Technique, it triggers Ink‑Stained Heart for 10 seconds and takes 20 seconds to recover breath. Ink‑Stained Heart: During the duration, increase the internal and external defense of *0.5, and each time you hit the target 5 times, apply a damage immunity shield to yourself that stacks once."
 - raw: "100100071#墨染尘心#1#23#0#1#10000#0#0#0#0#0#0#1#0#0#10000#0#0#0#2#0#0#5000#0#0#46#22|23#0#1#0#0#墨染尘心#在持续时间内，目标获得双防增加机杼*0.5的防御值，每5次命中目标给自己叠加一个免疫一次伤害的气盾。#buffnew_ziqidonglai#0#0#100100071#0#0#0#0#0#100100071##0#0#0#0.0#0.0###"
   splits:
   - split: 1
     text: "墨染尘心"
-    translated: "Smudged by Ink, Heart Adrift"
+    translated: "Ink‑Stained Heart"
   - split: 32
     text: "墨染尘心"
-    translated: "Smudged by Ink, Heart Adrift"
+    translated: "Ink‑Stained Heart"
   - split: 33
     text: "在持续时间内，目标获得双防增加机杼*0.5的防御值，每5次命中目标给自己叠加一个免疫一次伤害的气盾。"
     translated: "During the specified duration, the target gains a defensive boost of *0.5* from Double Defense. Every 5 hit on the target grants themselves an additional layer of a shield that grants immunity to one instance of damage."
@@ -38039,7 +38039,7 @@
   splits:
   - split: 1
     text: "墨染尘心"
-    translated: "Smudged by Ink, Heart Adrift"
+    translated: "Ink‑Stained Heart"
 - raw: "100100080#伤剑诀#1#8#0#1#-1#0##0#0#0#0#1#0#0#10000#0#0#0#0#0#0#0#0#0#20##0#1#0#0#伤剑诀#攻击附加20%吸血，力道内力增加魔学*0.1，根骨减少其他学识*1%的百分比，受到伤害增加20%。#buffnew_ziqidonglai#0#0#100100080#0#0#0#0#0#100100080##5#0#100100081|100100082|100100083|100100084|100100085|100100086#0.0#0.0###"
   splits:
   - split: 1

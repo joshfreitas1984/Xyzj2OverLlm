@@ -258,7 +258,7 @@
   splits:
   - split: 12
     text: "澄心湖上有个奇怪的祭台。"
-    translated: "On Cheng Xin lake, there was a strange altar."
+    translated: "On Clear Heart Lake, there is an unusual altar."
   - split: 14
     text: "疑点结论"
     translated: "Concluding Remarks on Suspicious Points"

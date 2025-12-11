@@ -5997,10 +5997,10 @@
   splits:
   - split: 1
     text: "无心地宫"
-    translated: "Wu Xin's Buddhist Monastery"
+    translated: "Wuxin Underground Palace"
   - split: 9
     text: "破解无心地宫之谜"
-    translated: "Unraveling the Mystery of the Wuxin Temple"
+    translated: "Solving the Mystery of the Wuxin Underground Palace."
   - split: 14
     text: "无心之地宫，机关锁古謎。冒险者无畏，秘宝光芒里。"
     translated: "The Guan Mansion of the Unintended Realm, its ancient mechanism a mystery. Adventurers undaunted, within the glow of the secret treasure."

@@ -22993,12 +22993,12 @@
   splits:
   - split: 1
     text: "澄心湖剑意点"
-    translated: "Cheng Xin Lake Sword Intent Point"
+    translated: "Clear Heart Lake Sword Intention Point"
 - raw: "31275#澄心湖修炼点#610071#0#1#13#0#0#5091#0#0#1#1098.05#419.609#1708.66#0.0#1#0#0##62141##0#0#0#3061#0#0#0########0#"
   splits:
   - split: 1
     text: "澄心湖修炼点"
-    translated: "Cheng Xin Lake Cultivation Site"
+    translated: "Clear Heart Lake cultivation spot"
 - raw: "31280#茅草堆#150013#0#1#13#0#0#0#961947#0#1#1058.59#369.598#1526.27#0.0#0#0#0##62141##100#0#0#3061#0#0#0########0#"
   splits:
   - split: 1
@@ -27249,7 +27249,7 @@
   splits:
   - split: 1
     text: "景天澄心湖刻文"
-    translated: "Jing Tian inscribes on Cheng Xin's Lake"
+    translated: "Jing Tian, Cheng Xin, inscribed at Clear Heart Lake."
 - raw: "32482#景天桃花坞刻文#0#0#1#13#0#0#0#954389#0#1#603.158#379.195#1622.94#0.0#1#0#0##62141##100#0##3061#0#0#0########0#"
   splits:
   - split: 1
@@ -27486,27 +27486,27 @@
   splits:
   - split: 1
     text: "无心地宫阀门机关"
-    translated: "Without intention, the palace door's mechanism was triggered"
+    translated: "Wuxin Underground Palace floodgate mechanism"
 - raw: "32542#无心地宫宝箱#0#0#1#6#0#0#0#0#3059#1#1127.65#335.115#1379.07#0.0#1#0#0##62141##0#0##3062#0#0#0########0#"
   splits:
   - split: 1
     text: "无心地宫宝箱"
-    translated: "Unintentional Palace Treasure Box"
+    translated: "Wuxin Underground Palace treasure chest"
 - raw: "32543#无心地宫丹炉#150033#0#1#13#0#0#0#0#0#1#1168.51#346.219#1297.45#0.0#1#0#0##62141##100#0##3061#0#18077#0########0#"
   splits:
   - split: 1
     text: "无心地宫丹炉"
-    translated: "A Wudang‑style furnace for refining elixirs, crafted without any particular intention."
+    translated: "Wuxin Underground Palace Alchemical Furnace"
 - raw: "32544#无心地宫修炼点#100087#0#1#13#0#0#5266#0#0#1#1094.16#344.76#1317.72#99.1755#1#0#0##62141##100#0##3061#0#0#0########0#"
   splits:
   - split: 1
     text: "无心地宫修炼点"
-    translated: "Nox, while training in the Wuyin Palace"
+    translated: "Wuxin Underground Palace cultivation point"
 - raw: "32545#无心地宫钥匙开门#0#0#1#0#0#462#5267#0#0#1#1154.57#336.837#1341.96#0.0#1#0#0##62141##0#0##3061#0#0#0########0#"
   splits:
   - split: 1
     text: "无心地宫钥匙开门"
-    translated: "Unintentionally, he used the palace key to open the door"
+    translated: "The key to the Wuxin Underground Palace opens the door."
 - raw: "32546#无心书架#150086#0#1#13#0#0#0#0#0#1#1132.11#339.0#1355.2#81.0093#1#0#0##62141##100#0##3061#512#60009#0########0#"
   splits:
   - split: 1
@@ -69562,37 +69562,37 @@
   splits:
   - split: 1
     text: "硼砂(澄心湖)"
-    translated: "Borax (Cheng Xin Lake)"
+    translated: "Sodium borate (Clear Heart Lake)"
 - raw: "110010#银矿(澄心湖)#5010#0#2#5#0#462#0#2#62010#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3052#2048#0#0########0#"
   splits:
   - split: 1
     text: "银矿(澄心湖)"
-    translated: "Silver Mine (Cheng Xin Lake)"
+    translated: "Silver Mine (Clear Heart Lake)"
 - raw: "110011#硼砂(澄心湖)#5008#0#2#5#0#462#0#2#62011#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3052#2048#0#0########0#"
   splits:
   - split: 1
     text: "硼砂(澄心湖)"
-    translated: "Borax (Cheng Xin Lake)"
+    translated: "Sodium borate (Clear Heart Lake)"
 - raw: "110012#清云石(澄心湖)#5049#0#2#5#0#462#0#2#62012#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3052#2048#0#0########0#"
   splits:
   - split: 1
     text: "清云石(澄心湖)"
-    translated: "Qingyun Stone (Cheng Xin Lake)"
+    translated: "Clear Heart Lake (Chengxin Hu) Stone Clouds"
 - raw: "110013#益母草(澄心湖)#9002#0#2#5#0#462#0#1#62013#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3053#1024#0#0########0#"
   splits:
   - split: 1
     text: "益母草(澄心湖)"
-    translated: "Meadow Sweet (Cheng Xin Lake)"
+    translated: "Motherwort (Clear Heart Lake)"
 - raw: "110014#天泽香(澄心湖)#9082#0#2#5#0#462#0#5#62014#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3053#1024#0#0########0#"
   splits:
   - split: 1
     text: "天泽香(澄心湖)"
-    translated: "Tianze Xiang (Cheng Xin Lake)"
+    translated: "Celestial Fragrance (Clear Heart Lake)"
 - raw: "110015#合欢花(澄心湖)#9080#0#2#5#0#462#0#5#62015#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3053#1024#0#0########0#"
   splits:
   - split: 1
     text: "合欢花(澄心湖)"
-    translated: "Lotus (Cheng Xin Lake)"
+    translated: "Clove Flower (Clear Heart Lake)"
 - raw: "110016#银矿(千机峰)#5010#0#2#5#0#462#0#2#62016#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3052#2048#0#0########0#"
   splits:
   - split: 1

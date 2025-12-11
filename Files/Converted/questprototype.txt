@@ -1188,7 +1188,7 @@
   splits:
   - split: 23
     text: "澄心湖祭台石像之谜只需要将古币放入对应方位的石像便能揭晓。"
-    translated: "The mystery of the stone statues at Cheng Xin Lake's altar can be revealed by placing the ancient coins in their corresponding positions."
+    translated: "The mystery of the stone statue on the altar at Clear Heart Lake can be revealed by placing the ancient coin in the corresponding position."
 - raw: "201304#4#0#0#0#0#0#0#0#0#0#0#0#952198#110021#0#110022#0#0#0#1&1043|1044#0#0#相传蛮蛮比翼则会携宝而至，而藏宝地点便是在崇吾涧的河边（1472,817）。##0#0#0#0#"
   splits:
   - split: 23

@@ -557,7 +557,7 @@
   splits:
   - split: 3
     text: "澄心湖"
-    translated: "Cheng Xin Lake"
+    translated: "Clear Heart Lake"
 - raw: "407#2#1083.801,0.900,1500.209#云鹤村市集##0#0#"
   splits:
   - split: 3
