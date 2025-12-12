@@ -56,7 +56,18 @@
   sampleText: "Affection Value:921"
   idealFontSize: 20
   allowWordWrap: true
+
 - path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/NpcAutoChatViewByX/Scroll View/Viewport/Content/ChatMsgPrefab(Clone)/ContentText"
   sampleText: "It seems like they have everything planned out."
-  idealFontSize: 28
+  idealFontSize: 16
   allowWordWrap: true
+  allowAutoSizing: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/NpcAutoChatView/Scroll View/Viewport/Content/ChatMsgPrefab(Clone)/ChatMsg/NameBg/NameText"
+  sampleText: "Wu Ming"
+  idealFontSize: 20
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/NpcAutoChatView/Scroll View/Viewport/Content/ChatMsgPrefab(Clone)/ChatMsg/ContentBg/ContentText"
+  sampleText: "It seems to be the key for opening the Demon‑Trapping Pool..."
+  idealFontSize: 16
+  allowWordWrap: true
+  allowAutoSizing: false

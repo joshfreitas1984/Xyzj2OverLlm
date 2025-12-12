@@ -23767,7 +23767,7 @@
   splits:
   - split: 2
     text: "不老长春功"
-    translated: "Elixir of Immortality"
+    translated: "Spring of Eternal Youth Skill"
   - split: 4
     text: "身覆紫微帝辉，战意滔天：受创越深，星冕护体愈坚，杀伐之力愈烈！濒死之际帝星觉醒，每滴鲜血皆化噬敌獠牙，掠取生机反补己身。天若压我，便以倾天之势逆伐星穹，喋血之地即是帝座重生之时！"
     translated: "Bathed in the imperial aura of Ziwei, their battle fervor knows no bounds: The deeper the wounds, the stronger the star crown protection becomes; the more intense the decisive power grows! At the brink of death, the divine star awakens: every drop of blood turns into teeth that devour enemies, seizing vitality to replenish one's own body. If Heaven tries to crush me, I will retaliate against the heavens with a force beyond compare, and the ground soaked in blood shall be the time when the imperial throne is reborn!"

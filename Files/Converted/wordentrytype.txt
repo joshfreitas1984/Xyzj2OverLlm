@@ -1639,7 +1639,7 @@
   splits:
   - split: 1
     text: "一炁归元"
-    translated: "Return to One Essence"
+    translated: "Qi Unification"
 - raw: "30003#混元无始#10#0#0#100110#0#1200|1201#1#0#0#0#0#0#"
   splits:
   - split: 1

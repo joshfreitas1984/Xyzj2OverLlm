@@ -2083,6 +2083,11 @@
   literal: ji neng juan
 
 # Items and Minerals
+- raw: 翡翠钥匙
+  result: Emerald Jade Key
+  badtrans: true
+  direct: emerald jade key
+  literal: fei cui yao shi
 - raw: 天清墨玉
   result: Celestial Ink Jade
   badtrans: true
@@ -3173,6 +3178,31 @@
   literal: "{P} jiang jun"
 
 # Names
+- raw: 捭阖众
+  result: Baihe Followers
+  badtrans: true
+  direct: open-close crowd
+  literal: bai he zhong
+- raw: 血刀众
+  result: Blood Saber Followers
+  badtrans: true
+  direct: blood knife crowd
+  literal: xue dao zhong
+- raw: 毒龙尊者
+  result: Poison Dragon
+  badtrans: true
+  direct: poison dragon revered-person
+  literal: du long zun zhe
+- raw: 毒龙尊者
+  result: Venerable Poison Dragon
+  badtrans: true
+  direct: poison dragon revered-person
+  literal: du long zun zhe
+- raw: 苏墨染
+  result: Su Moran
+  badtrans: true
+  direct: Su ink dye
+  literal: su mo ran
 - raw: 虞令羽
   result: Yu Lingyu
   badtrans: true
@@ -6156,11 +6186,16 @@
   badtrans: true  
   direct: Golden Feather Sect  
   literal: Jin yu jiao  
-- raw: 血刃门  
-  result: Blood Blade Sect  
-  badtrans: true  
-  direct: Blood Blade Sect  
-  literal: Xue ren men  
+- raw: 血刀门
+  result: Blood Saber Sect
+  badtrans: true
+  direct: blood knife sect
+  literal: xue dao men
+- raw: 血刃门
+  result: Blood Edge Sect
+  badtrans: true
+  direct: blood blade sect
+  literal: xue ren men 
 - raw: 北斗宗  
   result: Big Dipper Sect  
   badtrans: true  
@@ -7567,3 +7602,18 @@
   badtrans: true
   direct: Dao meaning
   literal: dao yi
+- raw: 不老长春功
+  result: Spring of Eternal Youth Skill
+  badtrans: true
+  direct: not-old long-spring skill
+  literal: bu lao chang chun gong
+- raw: 一炁归元
+  result: Qi Unification
+  badtrans: true
+  direct: one qi return-origin
+  literal: yi qi gui yuan
+- raw: 阴阳合欢禅
+  result: Yin Yang Union Meditation
+  badtrans: true
+  direct: yin-yang join-joy meditation
+  literal: yin yang he huan chan

@@ -23918,7 +23918,7 @@
   splits:
   - split: 2
     text: "不老长春功"
-    translated: "Elixir of Immortality"
+    translated: "Spring of Eternal Youth Skill"
   - split: 4
     text: "每克一敌，即有概率汲取其溃散生机，化作汩汩春泉愈合伤躯；更兼长春罡气护体，诸般袭身之威皆如风拂老松，未及根骨已自减三成。身如古木，愈战愈盛！"
     translated: "For every ounce of Qi consumed from defeating an enemy, there is a chance to absorb their dissipated life essence, transforming into a rejuvenating spring that heals injuries. Furthermore, it is accompanied by Long Spring's protective aura, reducing the impact of all assaults on the body as if being brushed off by wind against ancient pines, with potential diminished by three parts in ten. The body becomes like an ancient tree; the more it fights, the stronger it grows!"

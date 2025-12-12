@@ -22637,12 +22637,12 @@
   splits:
   - split: 1
     text: "一炁归元-伤害"
-    translated: "Return to the origin in one qi ‑ Harm"
+    translated: "Qi Unification ‑ Harm"
 - raw: "1001001#一炁归元-附伤#0#1#2#1#0#0##0#0#0#0#0#3.5#1.2#10000#0#0#0#0#2#10#20#21#0#0##109101#40#8#100#归元#招式命中敌人时额外造成一段伤害，自身每拥有一层气，额外的这段伤害会增加10%。#0#0#0#1001001#0#0#0#0#0#1001001#hurt&10000&dead|dead_2|dead_4|dead_6&2000|2000|2000|2000#0#0#0#0.0#0.0###1#"
   splits:
   - split: 1
     text: "一炁归元-附伤"
-    translated: "Return to the primal qi ‑ Healing wounds."
+    translated: "Qi Unification ‑ Afflicting injury"
   - split: 32
     text: "归元"
     translated: "Return to the Origin"
@@ -22653,7 +22653,7 @@
   splits:
   - split: 1
     text: "一炁归元-伤害"
-    translated: "Return to the origin in one qi ‑ Harm"
+    translated: "Qi Unification ‑ Harm"
 - raw: "1001100#混元无始-伤害#0#1#3#1#0#0#SFX_Char_Weapon_Hurt_05#0#0#0#0#0#1.8#135.0#10000#0#0#0#0#0#0#20#21#0#0##0#80#5#100#0#0#0#0#0#1001100#0#sfx_hero_main_11_hit#0#0#0#1001100#hurt&10000&dead|dead_2|dead_4|dead_6&2000|2000|2000|2000#0#0#0#1.5#0.0###1#"
   splits:
   - split: 1

@@ -23836,7 +23836,7 @@
   splits:
   - split: 2
     text: "不老长春功"
-    translated: "Elixir of Immortality"
+    translated: "Spring of Eternal Youth Skill"
   - split: 4
     text: "身覆紫微帝辉，战意滔天：受创越深，星冕护体愈坚，杀伐之力愈烈！濒死之际帝星觉醒，每滴鲜血皆化噬敌獠牙，掠取生机反补己身。天若压我，便以倾天之势逆伐星穹，喋血之地即是帝座重生之时！"
     translated: "Clothed in celestial purple, his battle intentions as vast as the heavens: The deeper the wound, the stronger the star crown armor becomes; the more intense the force of destruction grows. On the brink of death, when the Star Emperor awakens, every drop of fresh blood transforms into a fang to devour enemies and absorb their life essence, replenishing one's own body. If Heaven seeks to crush me, then I shall counterattack the starry sky with overwhelming might! The land soaked in blood will be the moment of rebirth for the Star Emperor!"

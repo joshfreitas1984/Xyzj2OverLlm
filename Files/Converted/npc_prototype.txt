@@ -7675,7 +7675,7 @@
   splits:
   - split: 1
     text: "捭阖众模板"
-    translated: "Manipulate diverse templates"
+    translated: "Baihe Followers Template"
 - raw: "6608#巨虎#3134001#0#1#0#0#0#0#0#5061#1#844.502#223.402#643.877#83.9526#1#0#0##62146##300#0##3134001#274#0#0########0#"
   splits:
   - split: 1
@@ -85294,7 +85294,7 @@
   splits:
   - split: 1
     text: "毒龙尊者"
-    translated: "Poison Dragon Venerable"
+    translated: "Venerable Poison Dragon"
 - raw: "165865#灵儿#165865001#0#0#0#0#0#0#0#0#1#1676.57#263.405#519.266#231.181#0#0#0##0#45004|46004|46014|57004|49004|49024|49014#100#0##331501#0#0#0#0#1#1###0##0#"
   splits:
   - split: 1
@@ -85304,17 +85304,17 @@
   splits:
   - split: 1
     text: "血刀众"
-    translated: "The Swordsmen of the Blood Knife Sect"
+    translated: "Blood Saber Followers"
 - raw: "165867#血刀众#165867001#0#0#0#0#0#0#0#0#1#1152.78#405.082#1568.04#184.05#0#0#0##0#0#100#0##1752#0#0#0#0#1#1###2|4|8|16##0#"
   splits:
   - split: 1
     text: "血刀众"
-    translated: "The Swordsmen of the Blood Knife Sect"
+    translated: "Blood Saber Followers"
 - raw: "165868#血刀众#165868001#0#0#0#0#0#0#0#0#1#1153.85#404.995#1568.28#179.3#0#0#0##0#0#100#0##1752#0#0#0#0#1#1###2|4|8|16##0#"
   splits:
   - split: 1
     text: "血刀众"
-    translated: "The Swordsmen of the Blood Knife Sect"
+    translated: "Blood Saber Followers"
 - raw: "165869#年轻剑客#165869001#0#0#0#0#0#0#0#0#1#1076.15#368.616#1516.88#37.2999#0#0#0##0#0#100#0##1355#0#0#0#0#1#1###2|4|8|16##0#"
   splits:
   - split: 1
@@ -85324,17 +85324,17 @@
   splits:
   - split: 1
     text: "血刀众"
-    translated: "The Swordsmen of the Blood Knife Sect"
+    translated: "Blood Saber Followers"
 - raw: "165871#血刀众#165871001#0#0#0#0#0#0#0#0#1#1152.78#405.082#1568.04#184.05#0#0#0##0#0#100#0##1752#0#0#0#0#1#1###2|4|8|16##0#"
   splits:
   - split: 1
     text: "血刀众"
-    translated: "The Swordsmen of the Blood Knife Sect"
+    translated: "Blood Saber Followers"
 - raw: "165872#血刀众#165872001#0#0#0#0#0#0#0#0#1#1153.85#404.995#1568.28#179.3#0#0#0##0#0#100#0##1752#0#0#0#0#1#1###2|4|8|16##0#"
   splits:
   - split: 1
     text: "血刀众"
-    translated: "The Swordsmen of the Blood Knife Sect"
+    translated: "Blood Saber Followers"
 - raw: "165874#姥姥#165874001#0#0#0#0#0#0#0#0#1#1675.95#263.271#520.197#219.931#0#0#0##0#0#100#0##3302#0#0#0#0#1#1###0##0#"
   splits:
   - split: 1

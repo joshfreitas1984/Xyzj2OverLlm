@@ -13998,7 +13998,7 @@
   splits:
   - split: 1
     text: "不老长春功"
-    translated: "Elixir of Immortality"
+    translated: "Spring of Eternal Youth Skill"
 - raw: "34711#不死印法#4#20#14#14#21090#99999#0#0#0#0#miji_b5#34711#0#36711#0#0#0#10050040#4###0#0#0#0#0#0####0###0####0####0#0#1##"
   splits:
   - split: 1
@@ -16284,7 +16284,7 @@
   splits:
   - split: 1
     text: "翡翠钥匙"
-    translated: "Nephrite Key"
+    translated: "Emerald Jade Key"
 - raw: "37372#钻玉钥匙#2#2#14#14#0#99999#0#0#0#0#baoxiangys#37372#0#39372#0#3600#0#####0#0#0#0#0#0#10005|10000&1083|10000###0###0##0#0#0#0#0#0#0#0#1#0#"
   splits:
   - split: 1
@@ -34068,7 +34068,7 @@
   splits:
   - split: 1
     text: "阴阳合欢禅"
-    translated: "Yin Yang Hehuan Chan"
+    translated: "Yin Yang Union Meditation"
 - raw: "80024#村长的私房钱#2#6#12#11#0#99999#0#0#0#0#shuxin1#80024#0#81024#0#3600#0#955280#80024###0#0#0#0#0#0####0###0##0#1#0#0#0#0#0#0#1#0#"
   splits:
   - split: 1
@@ -41745,7 +41745,7 @@
   splits:
   - split: 1
     text: "化境卷·一炁归元"
-    translated: "Transcendence Scroll · One Essence Returns to the Origin"
+    translated: "Transcendence Scroll · Qi Unification"
 - raw: "96350#化境卷·混元无始#4#21#12#14#8112#99999#0#0#0#0#miji5#96350#0#596350#0#3600#0#34001#100110|10011030#12&10011030##0#0#0#0#0#0####0###0##0#1#0#0#0#0#0#0#0#0#"
   splits:
   - split: 1

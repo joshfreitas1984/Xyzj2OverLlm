@@ -16554,12 +16554,12 @@
   splits:
   - split: 5
     text: "击杀血刀众"
-    translated: "Defeat the Blood‑Blade Sect"
+    translated: "Defeat the Blood Saber Followers"
 - raw: "4015804#5#1#165864#40158#击杀毒龙尊者#0#4015803#40544#####0##0##0#0#0#0#0#0#0############"
   splits:
   - split: 5
     text: "击杀毒龙尊者"
-    translated: "Defeat the Venomous Dragon Patriarch"
+    translated: "Defeat the Venerable Poison Dragon"
 - raw: "4015901#19#1#1074.332,366.4389,1504.928,1#40159#准备出发#887611##0#####0##0##0#0#0#0#0#0#0############"
   splits:
   - split: 5
@@ -16574,7 +16574,7 @@
   splits:
   - split: 5
     text: "击败血刀众"
-    translated: "Defeat the Blood and Blade Sect"
+    translated: "Defeat the Blood Saber Followers"
 - raw: "4015904#19#1#1113.002,415.0745,1582.161,1#40159#前往悬崖边上#0#4015903#40546#####0##0##0#0#0#0#0#0#0############"
   splits:
   - split: 5
@@ -16584,7 +16584,7 @@
   splits:
   - split: 5
     text: "击败毒龙尊者"
-    translated: "Defeat the Toxic Dragon Master"
+    translated: "Defeat the Venerable Poison Dragon"
 - raw: "4015906#19#1#1082.872,372.0245,1593.534,1#40159#前往崖下#0#4015905#40548#####0##0##0#0#0#0#0#0#0############"
   splits:
   - split: 5
