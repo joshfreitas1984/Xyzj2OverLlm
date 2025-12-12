@@ -220,7 +220,7 @@
     translated: "Heartless"
   - split: 5
     text: "据传千山学斋徐赫一游历至升仙湖时偶然获得一柄绝世宝剑，或许此剑正是无心。"
-    translated: "It is said that when Xu Heyi of the Thousand Mountain Academy was traveling to Shengxian Lake, he fortuitously obtained a peerless sword. Perhaps this very sword is what they call without intention."
+    translated: "Legend has it that when Xu Heyi of the Thousand Mountain Academy traveled to Immortal Ascent Lake, he fortuitously acquired a peerless sword. Perhaps this was truly unintentional."
   - split: 12
     text: "器"
     translated: "Instrument"

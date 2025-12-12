@@ -597,7 +597,7 @@
   splits:
   - split: 1
     text: "御者长旌军"
-    translated: "Charioteer of the Long Standard Army"
+    translated: "Charioteer of the Long Banner Army"
 - raw: "2094#御者枰栌南#3087003#0#0#300#602#2#0#1#0#1#868.94#249.179#938.158#-85.6#1#0#0##62141#46001|46011|57002#100#0#0#3087#0#0#0####50000000####0#"
   splits:
   - split: 1
@@ -1382,7 +1382,7 @@
   splits:
   - split: 1
     text: "长旌军矿石"
-    translated: "Long Standard Army ore"
+    translated: "Long Banner Army mineral stone"
 - raw: "54022#周军矿石#9000#0#2#5#0#462#0#1#822#1#0.0#0.0#0.0#0.0#0#0#0#0#62141##100#0#0#3052#2048#0#0#0#1##50000000####0#"
   splits:
   - split: 1
@@ -1452,7 +1452,7 @@
   splits:
   - split: 1
     text: "爻光谷矿石"
-    translated: "Mineral from the Light of Divination Valley"
+    translated: "Trigram Light Valley ore"
 - raw: "54036#冼星堂矿石#9000#0#2#5#0#462#0#5#836#1#0.0#0.0#0.0#0.0#0#0#0#0#62141##100#0#0#3052#2048#0#0#0#1##50000000####0#"
   splits:
   - split: 1
@@ -1872,7 +1872,7 @@
   splits:
   - split: 1
     text: "长旌军草药"
-    translated: "Long Standard Army herbs"
+    translated: "Long Banner Army herb"
 - raw: "54121#周军草药#13000#0#2#5#0#462#0#1#522#1#0.0#0.0#0.0#0.0#0#0#0#0#62141##100#0#0#3056#1024#0#0#0#1##50000000####0#"
   splits:
   - split: 1
@@ -1942,7 +1942,7 @@
   splits:
   - split: 1
     text: "爻光谷草药"
-    translated: "Herbs from the Light of Divination Valley"
+    translated: "Trigram Light Valley Herbs"
 - raw: "54135#冼星堂草药#13000#0#2#5#0#462#0#5#536#1#0.0#0.0#0.0#0.0#0#0#0#0#62141##100#0#0#3053#1024#0#0#0#1##50000000####0#"
   splits:
   - split: 1
@@ -2252,7 +2252,7 @@
   splits:
   - split: 1
     text: "御者爻光谷"
-    translated: "Conductor of the Light of Divination Valley"
+    translated: "Charioteer of Trigram Light Valley"
 - raw: "55223#御者不夜京#3087003#0#0#300#602#2#0#1#0#1#992.218#239.68#372.009#-89.419#1#0#0##62141#46001|46011|57002#100#0#0#3087#0#0#0##8000##50000000####0#"
   splits:
   - split: 1
@@ -4002,97 +4002,97 @@
   splits:
   - split: 1
     text: "长旌军逃兵"
-    translated: "Deserter from the Long Standard Army"
+    translated: "Deserter from the Long Banner Army"
 - raw: "260002#长旌军逃兵#1400260002#0#2#0#0#0#0#0#260002#1#0.0#0.0#0.0#0.0#1#0#0#0#62141#46002|46012|57002|45032#100#0#19#3107#2#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "长旌军逃兵"
-    translated: "Deserter from the Long Standard Army"
+    translated: "Deserter from the Long Banner Army"
 - raw: "260003#长旌军逃兵#1400260003#0#2#0#0#0#0#0#260003#1#0.0#0.0#0.0#0.0#1#0#0#0#62141#46002|46012|57002|45032#100#0#19#3107#2#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "长旌军逃兵"
-    translated: "Deserter from the Long Standard Army"
+    translated: "Deserter from the Long Banner Army"
 - raw: "260004#长旌军守备兵#1400260004#0#2#0#0#0#0#0#260004#1#0.0#0.0#0.0#0.0#1#0#0#0#62143#46003|46013|57003|49002|49011|45033#100#0#19#3107#2#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "长旌军守备兵"
-    translated: "Long Standard Army Garrison Soldier"
+    translated: "Long Banner Army garrison soldier"
 - raw: "260005#长旌军守备兵#1400260005#0#2#0#0#0#0#0#260005#1#0.0#0.0#0.0#0.0#1#0#0#0#62143#46003|46013|57003|49002|49011|45033#100#0#19#3107#2#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "长旌军守备兵"
-    translated: "Long Standard Army Garrison Soldier"
+    translated: "Long Banner Army garrison soldier"
 - raw: "260006#长旌军守备兵#1400260006#0#2#0#0#0#0#0#260006#1#0.0#0.0#0.0#0.0#1#0#0#0#62143#46003|46013|57003|49002|49011|45033#100#0#19#3107#2#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "长旌军守备兵"
-    translated: "Long Standard Army Garrison Soldier"
+    translated: "Long Banner Army garrison soldier"
 - raw: "260007#长旌军先锋#1400260007#0#2#0#0#0#0#0#260007#1#0.0#0.0#0.0#0.0#1#0#0#0#62145#46004|46013|57003|49003|49012|49023|45034#100#0#19#3204#2#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "长旌军先锋"
-    translated: "Vanguard of the Long Standard Army"
+    translated: "Vanguard of the Long Banner Army"
 - raw: "260008#长旌军先锋#1400260008#0#2#0#0#0#0#0#260008#1#0.0#0.0#0.0#0.0#1#0#0#0#62145#46004|46013|57003|49003|49012|49023|45034#100#0#19#3204#2#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "长旌军先锋"
-    translated: "Vanguard of the Long Standard Army"
+    translated: "Vanguard of the Long Banner Army"
 - raw: "260009#长旌军先锋#1400260009#0#2#0#0#0#0#0#260009#1#0.0#0.0#0.0#0.0#1#0#0#0#62145#46004|46013|57003|49003|49012|49023|45034#100#0#19#3204#2#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "长旌军先锋"
-    translated: "Vanguard of the Long Standard Army"
+    translated: "Vanguard of the Long Banner Army"
 - raw: "260010#长旌军总兵#1400260010#0#2#0#0#0#0#0#260010#1#0.0#0.0#0.0#0.0#1#0#0#0#62147#46005|46014|57005|49004|49013|49024|45035#100#0#19#3204#2#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "长旌军总兵"
-    translated: "Commander‑in‑Chief of the Long Standard Army"
+    translated: "Commander of the Long Banner Army"
 - raw: "260011#长旌军总兵#1400260011#0#2#0#0#0#0#0#260011#1#0.0#0.0#0.0#0.0#1#0#0#0#62147#46005|46014|57005|49004|49013|49024|45035#100#0#19#3204#2#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "长旌军总兵"
-    translated: "Commander‑in‑Chief of the Long Standard Army"
+    translated: "Commander of the Long Banner Army"
 - raw: "260012#长旌军总兵#1400260012#0#2#0#0#0#0#0#260012#1#0.0#0.0#0.0#0.0#1#0#0#0#62147#46005|46014|57005|49004|49013|49024|45035#100#0#19#3204#2#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "长旌军总兵"
-    translated: "Commander‑in‑Chief of the Long Standard Army"
+    translated: "Commander of the Long Banner Army"
 - raw: "260013#长旌军副都统#1400260013#0#2#0#0#0#0#0#260013#1#0.0#0.0#0.0#0.0#1#0#0#0#62149#46005|46014|57005|49004|49013|49024|45035#100#0#19#3210#2#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "长旌军副都统"
-    translated: "Deputy Commander‑in‑Chief of the Long Standard Army"
+    translated: "Deputy Commander‑in‑Chief of the Long Banner Army"
 - raw: "260014#长旌军校尉#1400260014#0#2#0#0#0#0#0#260014#1#0.0#0.0#0.0#0.0#1#0#0#0#62149#46006|46016|57006|49005|49015|49025|45036#100#0#19#3210#18#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "长旌军校尉"
-    translated: "Captain of the Long Standard Army"
+    translated: "Long Banner Army Centurion"
 - raw: "260015#长旌军校尉#1400260015#0#2#0#0#0#0#0#260015#1#0.0#0.0#0.0#0.0#1#0#0#0#62149#46006|46016|57006|49005|49015|49025|45036#100#0#19#3210#18#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "长旌军校尉"
-    translated: "Captain of the Long Standard Army"
+    translated: "Long Banner Army Centurion"
 - raw: "260016#长旌军校尉#1400260016#0#2#0#0#0#0#0#260016#1#0.0#0.0#0.0#0.0#1#0#0#0#62149#46006|46016|57006|49005|49015|49025|45036#100#0#19#3210#18#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "长旌军校尉"
-    translated: "Captain of the Long Standard Army"
+    translated: "Long Banner Army Centurion"
 - raw: "260017#长旌军校尉#1400260017#0#2#0#0#0#0#0#260017#1#0.0#0.0#0.0#0.0#1#0#0#0#62149#46006|46016|57006|49005|49015|49025|45036#100#0#19#3210#18#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "长旌军校尉"
-    translated: "Captain of the Long Standard Army"
+    translated: "Long Banner Army Centurion"
 - raw: "260018#长旌军校尉#1400260018#0#2#0#0#0#0#0#260018#1#0.0#0.0#0.0#0.0#1#0#0#0#62149#46006|46016|57006|49005|49015|49025|45036#100#0#19#3210#18#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "长旌军校尉"
-    translated: "Captain of the Long Standard Army"
+    translated: "Long Banner Army Centurion"
 - raw: "260019#长旌军校尉#1400260019#0#2#0#0#0#0#0#260019#1#0.0#0.0#0.0#0.0#1#0#0#0#62149#46006|46016|57006|49005|49015|49025|45036#100#0#19#3210#18#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "长旌军校尉"
-    translated: "Captain of the Long Standard Army"
+    translated: "Long Banner Army Centurion"
 - raw: "260020#萧深#1400260020#1400260040#2#0#0#0#0#0#260020#1#0.0#0.0#0.0#0.0#1#0#0#0#62151#46008|46017|57008|49008|49017|49028|45038|53011#100#0#19#3033#18#0#0#0#1##50000000####0#"
   splits:
   - split: 1
@@ -5167,37 +5167,37 @@
   splits:
   - split: 1
     text: "爻光谷传功长老"
-    translated: "Martial Arts Instructor of the Light of Divination Valley Elders"
+    translated: "Trigram Light Valley Transmission Master Elder"
 - raw: "370015#爻光谷传功长老#1400370015#0#2#0#0#0#0#0#370015#1#0.0#0.0#0.0#0.0#1#0#0#0#62152#45026|46006|46016|57006|49006|49026|49016#100#0#37#2001#18#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "爻光谷传功长老"
-    translated: "Martial Arts Instructor of the Light of Divination Valley Elders"
+    translated: "Trigram Light Valley Transmission Master Elder"
 - raw: "370016#爻光谷传功长老#1400370016#0#2#0#0#0#0#0#370016#1#0.0#0.0#0.0#0.0#1#0#0#0#62152#45026|46006|46016|57006|49006|49026|49016#100#0#37#2001#18#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "爻光谷传功长老"
-    translated: "Martial Arts Instructor of the Light of Divination Valley Elders"
+    translated: "Trigram Light Valley Transmission Master Elder"
 - raw: "370017#爻光谷传功长老#1400370017#0#2#0#0#0#0#0#370017#1#0.0#0.0#0.0#0.0#1#0#0#0#62152#45026|46006|46016|57006|49006|49026|49016#100#0#37#2001#18#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "爻光谷传功长老"
-    translated: "Martial Arts Instructor of the Light of Divination Valley Elders"
+    translated: "Trigram Light Valley Transmission Master Elder"
 - raw: "370018#爻光谷传功长老#1400370018#0#2#0#0#0#0#0#370018#1#0.0#0.0#0.0#0.0#1#0#0#0#62152#45026|46006|46016|57006|49006|49026|49016#100#0#37#2001#18#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "爻光谷传功长老"
-    translated: "Martial Arts Instructor of the Light of Divination Valley Elders"
+    translated: "Trigram Light Valley Transmission Master Elder"
 - raw: "370019#爻光谷传功长老#1400370019#0#2#0#0#0#0#0#370019#1#0.0#0.0#0.0#0.0#1#0#0#0#62152#45026|46006|46016|57006|49006|49026|49016#100#0#37#2001#18#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "爻光谷传功长老"
-    translated: "Martial Arts Instructor of the Light of Divination Valley Elders"
+    translated: "Trigram Light Valley Transmission Master Elder"
 - raw: "370020#爻光谷贡献堂主#1400370020#1400370040#2#0#0#0#0#0#370020#1#0.0#0.0#0.0#0.0#1#0#0#0#62151#45025|46005|46015|57005|49005|49025|49015#100#0#37#2003#18#0#0#0#1##50000000####0#"
   splits:
   - split: 1
     text: "爻光谷贡献堂主"
-    translated: "Contribution Hall Master of the Light of Divination Valley."
+    translated: "Trigram Light Valley Contribution Hall Master"
 - raw: "380001#神兵山庄记名弟子#1400380001#0#2#0#0#0#0#0#380001#1#0.0#0.0#0.0#0.0#1#0#0#0#62142#46002|46012|57002|45012#100#0#15#3209#2#0#0#0#1##50000000####0#"
   splits:
   - split: 1
@@ -7402,42 +7402,42 @@
   splits:
   - split: 1
     text: "锡矿(莲花渡)"
-    translated: "Tin mine (Lotus Bridge)"
+    translated: "Tin mine (Lotus Ferry)"
 - raw: "1100411#玉英(莲花渡)#5051#0#2#5#0#462#0#3#62041#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3052#2048#0#0####50000000##0##0#"
   splits:
   - split: 1
     text: "玉英(莲花渡)"
-    translated: "Jade Blossom (Lotus Bridge)"
+    translated: "Yu Ying (Lotus Ferry)"
 - raw: "1100421#黑铁(莲花渡)#5022#0#2#5#0#462#0#4#62042#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3052#2048#0#0####50000000##0##0#"
   splits:
   - split: 1
     text: "黑铁(莲花渡)"
-    translated: "Dark Iron (Lotus Bridge)"
+    translated: "Dark Iron (Lotus Ferry)"
 - raw: "1100431#黄铜(莲花渡)#5009#0#2#5#0#462#0#2#62043#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3052#2048#0#0####50000000##0##0#"
   splits:
   - split: 1
     text: "黄铜(莲花渡)"
-    translated: "Tin (The Lotus Bridge)"
+    translated: "Tin (Lotus Ferry)"
 - raw: "1100441#红花(莲花渡)#9012#0#2#5#0#462#0#1#62044#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3053#1024#0#0####50000000##0##0#"
   splits:
   - split: 1
     text: "红花(莲花渡)"
-    translated: "Red Flower (Lotus Bridge)"
+    translated: "Red Flower (Lotus Ferry)"
 - raw: "1100451#茯苓(莲花渡)#9075#0#2#5#0#462#0#5#62045#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3053#1024#0#0####50000000##0##0#"
   splits:
   - split: 1
     text: "茯苓(莲花渡)"
-    translated: "Poria (The Lotus Crossing)"
+    translated: "Poria (Lotus Ferry)"
 - raw: "1100461#广木香(莲花渡)#9028#0#2#5#0#462#0#2#62046#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3053#1024#0#0####50000000##0##0#"
   splits:
   - split: 1
     text: "广木香(莲花渡)"
-    translated: "Wang Xiang (Lotus Crossing)"
+    translated: "Broad Fragrant Wood (Lotus Ferry)"
 - raw: "1100471#红景天(莲花渡)#9086#0#2#5#0#462#0#5#62047#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3053#1024#0#0####50000000##0##0#"
   splits:
   - split: 1
     text: "红景天(莲花渡)"
-    translated: "Red Jiange (Lotus Bridge)"
+    translated: "Hong Jingtian (Lotus Ferry)"
 - raw: "1100481#黄铜(桃花)#5009#0#2#5#0#462#0#2#62048#1#0.0#0.0#0.0#0.0#1#0#0##62141##100#0##3052#2048#0#0####50000000##0##0#"
   splits:
   - split: 1

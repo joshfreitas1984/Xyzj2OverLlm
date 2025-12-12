@@ -258,7 +258,7 @@
   splits:
   - split: 4
     text: "升仙湖"
-    translated: "Ascension Lake"
+    translated: "Immortal Ascent Lake"
   - split: 6
     text: "泉水潺潺，时常有灵气氤氲，湖面如镜，不时有飞鸟掠过。传闻千年前曾有仙人无心舍去所有身外之物，于此湖羽化飞升。"
     translated: "The streamlet babbles softly, often infused with a mystical aura. The lake's surface mirrors the sky so perfectly that it occasionally gets skimmed by passing birds. Legend has it that a thousand years ago, an immortal named Wu Xin renounced all worldly possessions here and ascended to heaven from this very lake."
@@ -266,7 +266,7 @@
   splits:
   - split: 4
     text: "升仙湖"
-    translated: "Ascension Lake"
+    translated: "Immortal Ascent Lake"
   - split: 6
     text: "泉水潺潺，时常有灵气氤氲，湖面如镜，不时有飞鸟掠过。传闻千年前曾有仙人无心舍去所有身外之物，于此湖羽化飞升。"
     translated: "The streamlet babbles softly, often infused with a mystical aura. The lake's surface mirrors the sky so perfectly that it occasionally gets skimmed by passing birds. Legend has it that a thousand years ago, an immortal named Wu Xin renounced all worldly possessions here and ascended to heaven from this very lake."
@@ -274,7 +274,7 @@
   splits:
   - split: 4
     text: "升仙湖"
-    translated: "Ascension Lake"
+    translated: "Immortal Ascent Lake"
   - split: 6
     text: "泉水潺潺，时常有灵气氤氲，湖面如镜，不时有飞鸟掠过。传闻千年前曾有仙人无心舍去所有身外之物，于此湖羽化飞升。"
     translated: "The streamlet babbles softly, often infused with a mystical aura. The lake's surface mirrors the sky so perfectly that it occasionally gets skimmed by passing birds. Legend has it that a thousand years ago, an immortal named Wu Xin renounced all worldly possessions here and ascended to heaven from this very lake."
@@ -282,7 +282,7 @@
   splits:
   - split: 4
     text: "升仙湖"
-    translated: "Ascension Lake"
+    translated: "Immortal Ascent Lake"
   - split: 6
     text: "泉水潺潺，时常有灵气氤氲，湖面如镜，不时有飞鸟掠过。传闻千年前曾有仙人无心舍去所有身外之物，于此湖羽化飞升。"
     translated: "The streamlet babbles softly, often infused with a mystical aura. The lake's surface mirrors the sky so perfectly that it occasionally gets skimmed by passing birds. Legend has it that a thousand years ago, an immortal named Wu Xin renounced all worldly possessions here and ascended to heaven from this very lake."
@@ -290,7 +290,7 @@
   splits:
   - split: 4
     text: "升仙湖"
-    translated: "Ascension Lake"
+    translated: "Immortal Ascent Lake"
   - split: 6
     text: "泉水潺潺，时常有灵气氤氲，湖面如镜，不时有飞鸟掠过。传闻千年前曾有仙人无心舍去所有身外之物，于此湖羽化飞升。"
     translated: "The streamlet babbles softly, often infused with a mystical aura. The lake's surface mirrors the sky so perfectly that it occasionally gets skimmed by passing birds. Legend has it that a thousand years ago, an immortal named Wu Xin renounced all worldly possessions here and ascended to heaven from this very lake."
@@ -298,7 +298,7 @@
   splits:
   - split: 4
     text: "升仙湖"
-    translated: "Ascension Lake"
+    translated: "Immortal Ascent Lake"
   - split: 6
     text: "泉水潺潺，时常有灵气氤氲，湖面如镜，不时有飞鸟掠过。传闻千年前曾有仙人无心舍去所有身外之物，于此湖羽化飞升。"
     translated: "The streamlet babbles softly, often infused with a mystical aura. The lake's surface mirrors the sky so perfectly that it occasionally gets skimmed by passing birds. Legend has it that a thousand years ago, an immortal named Wu Xin renounced all worldly possessions here and ascended to heaven from this very lake."
@@ -306,7 +306,7 @@
   splits:
   - split: 4
     text: "升仙湖"
-    translated: "Ascension Lake"
+    translated: "Immortal Ascent Lake"
   - split: 6
     text: "泉水潺潺，时常有灵气氤氲，湖面如镜，不时有飞鸟掠过。传闻千年前曾有仙人无心舍去所有身外之物，于此湖羽化飞升。"
     translated: "The streamlet babbles softly, often infused with a mystical aura. The lake's surface mirrors the sky so perfectly that it occasionally gets skimmed by passing birds. Legend has it that a thousand years ago, an immortal named Wu Xin renounced all worldly possessions here and ascended to heaven from this very lake."
@@ -314,7 +314,7 @@
   splits:
   - split: 4
     text: "升仙湖"
-    translated: "Ascension Lake"
+    translated: "Immortal Ascent Lake"
   - split: 6
     text: "泉水潺潺，时常有灵气氤氲，湖面如镜，不时有飞鸟掠过。传闻千年前曾有仙人无心舍去所有身外之物，于此湖羽化飞升。"
     translated: "The streamlet babbles softly, often infused with a mystical aura. The lake's surface mirrors the sky so perfectly that it occasionally gets skimmed by passing birds. Legend has it that a thousand years ago, an immortal named Wu Xin renounced all worldly possessions here and ascended to heaven from this very lake."
@@ -322,7 +322,7 @@
   splits:
   - split: 4
     text: "升仙湖"
-    translated: "Ascension Lake"
+    translated: "Immortal Ascent Lake"
   - split: 6
     text: "泉水潺潺，时常有灵气氤氲，湖面如镜，不时有飞鸟掠过。传闻千年前曾有仙人无心舍去所有身外之物，于此湖羽化飞升。"
     translated: "The streamlet babbles softly, often infused with a mystical aura. The lake's surface mirrors the sky so perfectly that it occasionally gets skimmed by passing birds. Legend has it that a thousand years ago, an immortal named Wu Xin renounced all worldly possessions here and ascended to heaven from this very lake."
@@ -330,7 +330,7 @@
   splits:
   - split: 4
     text: "升仙湖"
-    translated: "Ascension Lake"
+    translated: "Immortal Ascent Lake"
   - split: 6
     text: "泉水潺潺，时常有灵气氤氲，湖面如镜，不时有飞鸟掠过。传闻千年前曾有仙人无心舍去所有身外之物，于此湖羽化飞升。"
     translated: "The streamlet babbles softly, often infused with a mystical aura. The lake's surface mirrors the sky so perfectly that it occasionally gets skimmed by passing birds. Legend has it that a thousand years ago, an immortal named Wu Xin renounced all worldly possessions here and ascended to heaven from this very lake."
@@ -338,7 +338,7 @@
   splits:
   - split: 4
     text: "升仙湖"
-    translated: "Ascension Lake"
+    translated: "Immortal Ascent Lake"
   - split: 6
     text: "泉水潺潺，时常有灵气氤氲，湖面如镜，不时有飞鸟掠过。传闻千年前曾有仙人无心舍去所有身外之物，于此湖羽化飞升。"
     translated: "The streamlet babbles softly, often infused with a mystical aura. The lake's surface mirrors the sky so perfectly that it occasionally gets skimmed by passing birds. Legend has it that a thousand years ago, an immortal named Wu Xin renounced all worldly possessions here and ascended to heaven from this very lake."
@@ -346,7 +346,7 @@
   splits:
   - split: 4
     text: "升仙湖"
-    translated: "Ascension Lake"
+    translated: "Immortal Ascent Lake"
   - split: 6
     text: "泉水潺潺，时常有灵气氤氲，湖面如镜，不时有飞鸟掠过。传闻千年前曾有仙人无心舍去所有身外之物，于此湖羽化飞升。"
     translated: "The streamlet babbles softly, often infused with a mystical aura. The lake's surface mirrors the sky so perfectly that it occasionally gets skimmed by passing birds. Legend has it that a thousand years ago, an immortal named Wu Xin renounced all worldly possessions here and ascended to heaven from this very lake."
@@ -490,7 +490,7 @@
   splits:
   - split: 4
     text: "困魔池"
-    translated: "Enchanted Lake of Peril"
+    translated: "Demon‑Trapping Pool"
   - split: 6
     text: "在武林中被誉为最为恐怖的牢狱之一。据传，这里是太初剑宗关押魔头的最终之地。曾有许多祸乱天下的魔头都被关押于此渡过余生，如今关押着一位名叫苦不苦不的魔头，其功力深不可测，语言滔溢荒诞，令人生畏。"
     translated: "In the Wulin, it is renowned as one of the most terrifying prisons. It is said to be the final place where the Primordial Origin Sword Sect confines evil masters. Many malevolent figures who have caused chaos across the land have spent their remaining days here, and now it holds a master known as Ku Bu Bu, whose power is unfathomable and whose language overflows with absurdity, instilling fear in those who hear of him."
@@ -498,7 +498,7 @@
   splits:
   - split: 4
     text: "困魔池"
-    translated: "Enchanted Lake of Peril"
+    translated: "Demon‑Trapping Pool"
   - split: 6
     text: "在武林中被誉为最为恐怖的牢狱之一。据传，这里是太初剑宗关押魔头的最终之地。曾有许多祸乱天下的魔头都被关押于此渡过余生，如今关押着一位名叫苦不苦不的魔头，其功力深不可测，语言滔溢荒诞，令人生畏。"
     translated: "In the Wulin, it is renowned as one of the most terrifying prisons. It is said to be the final place where the Primordial Origin Sword Sect confines evil masters. Many malevolent figures who have caused chaos across the land have spent their remaining days here, and now it holds a master known as Ku Bu Bu, whose power is unfathomable and whose language overflows with absurdity, instilling fear in those who hear of him."
@@ -506,7 +506,7 @@
   splits:
   - split: 4
     text: "困魔池"
-    translated: "Enchanted Lake of Peril"
+    translated: "Demon‑Trapping Pool"
   - split: 6
     text: "在武林中被誉为最为恐怖的牢狱之一。据传，这里是太初剑宗关押魔头的最终之地。曾有许多祸乱天下的魔头都被关押于此渡过余生，如今关押着一位名叫苦不苦不的魔头，其功力深不可测，语言滔溢荒诞，令人生畏。"
     translated: "In the Wulin, it is renowned as one of the most terrifying prisons. It is said to be the final place where the Primordial Origin Sword Sect confines evil masters. Many malevolent figures who have caused chaos across the land have spent their remaining days here, and now it holds a master known as Ku Bu Bu, whose power is unfathomable and whose language overflows with absurdity, instilling fear in those who hear of him."
@@ -514,7 +514,7 @@
   splits:
   - split: 4
     text: "困魔池"
-    translated: "Enchanted Lake of Peril"
+    translated: "Demon‑Trapping Pool"
   - split: 6
     text: "在武林中被誉为最为恐怖的牢狱之一。据传，这里是太初剑宗关押魔头的最终之地。曾有许多祸乱天下的魔头都被关押于此渡过余生，如今关押着一位名叫苦不苦不的魔头，其功力深不可测，语言滔溢荒诞，令人生畏。"
     translated: "In the Wulin, it is renowned as one of the most terrifying prisons. It is said to be the final place where the Primordial Origin Sword Sect confines evil masters. Many malevolent figures who have caused chaos across the land have spent their remaining days here, and now it holds a master known as Ku Bu Bu, whose power is unfathomable and whose language overflows with absurdity, instilling fear in those who hear of him."
@@ -522,7 +522,7 @@
   splits:
   - split: 4
     text: "困魔池"
-    translated: "Enchanted Lake of Peril"
+    translated: "Demon‑Trapping Pool"
   - split: 6
     text: "在武林中被誉为最为恐怖的牢狱之一。据传，这里是太初剑宗关押魔头的最终之地。曾有许多祸乱天下的魔头都被关押于此渡过余生，如今关押着一位名叫苦不苦不的魔头，其功力深不可测，语言滔溢荒诞，令人生畏。"
     translated: "In the Wulin, it is renowned as one of the most terrifying prisons. It is said to be the final place where the Primordial Origin Sword Sect confines evil masters. Many malevolent figures who have caused chaos across the land have spent their remaining days here, and now it holds a master known as Ku Bu Bu, whose power is unfathomable and whose language overflows with absurdity, instilling fear in those who hear of him."
@@ -530,7 +530,7 @@
   splits:
   - split: 4
     text: "莲花渡"
-    translated: "Lotus Bridge"
+    translated: "Lotus Ferry"
   - split: 6
     text: "这里气候温和，四季如春，花草繁盛，极富生机。渡口之前是一片浅滩，水流清澈见底，跨水而渡的人儿身影在阳光下颇为引人注目。而岸边则是一望无垠的碧绿山林，山势高峻，蜿蜒盘旋，令人目不暇接。"
     translated: "The climate here is mild, with all four seasons resembling spring. The flowers and plants are flourishing, brimming with vitality. Before the crossing, there's a shallow sandbar where the clear water reveals its bottom. People crossing by foot stand out beautifully in the sunlight. On the shore, there stretches an endless expanse of lush green forests. The mountains rise steeply, winding and curling in a way that captures one's gaze without pause."
@@ -538,7 +538,7 @@
   splits:
   - split: 4
     text: "莲花渡"
-    translated: "Lotus Bridge"
+    translated: "Lotus Ferry"
   - split: 6
     text: "这里气候温和，四季如春，花草繁盛，极富生机。渡口之前是一片浅滩，水流清澈见底，跨水而渡的人儿身影在阳光下颇为引人注目。而岸边则是一望无垠的碧绿山林，山势高峻，蜿蜒盘旋，令人目不暇接。"
     translated: "The climate here is mild, with all four seasons resembling spring. The flowers and plants are flourishing, brimming with vitality. Before the crossing, there's a shallow sandbar where the clear water reveals its bottom. People crossing by foot stand out beautifully in the sunlight. On the shore, there stretches an endless expanse of lush green forests. The mountains rise steeply, winding and curling in a way that captures one's gaze without pause."
@@ -546,7 +546,7 @@
   splits:
   - split: 4
     text: "莲花渡"
-    translated: "Lotus Bridge"
+    translated: "Lotus Ferry"
   - split: 6
     text: "这里气候温和，四季如春，花草繁盛，极富生机。渡口之前是一片浅滩，水流清澈见底，跨水而渡的人儿身影在阳光下颇为引人注目。而岸边则是一望无垠的碧绿山林，山势高峻，蜿蜒盘旋，令人目不暇接。"
     translated: "The climate here is mild, with all four seasons resembling spring. The flowers and plants are flourishing, brimming with vitality. Before the crossing, there's a shallow sandbar where the clear water reveals its bottom. People crossing by foot stand out beautifully in the sunlight. On the shore, there stretches an endless expanse of lush green forests. The mountains rise steeply, winding and curling in a way that captures one's gaze without pause."
@@ -554,7 +554,7 @@
   splits:
   - split: 4
     text: "莲花渡"
-    translated: "Lotus Bridge"
+    translated: "Lotus Ferry"
   - split: 6
     text: "这里气候温和，四季如春，花草繁盛，极富生机。渡口之前是一片浅滩，水流清澈见底，跨水而渡的人儿身影在阳光下颇为引人注目。而岸边则是一望无垠的碧绿山林，山势高峻，蜿蜒盘旋，令人目不暇接。"
     translated: "The climate here is mild, with all four seasons resembling spring. The flowers and plants are flourishing, brimming with vitality. Before the crossing, there's a shallow sandbar where the clear water reveals its bottom. People crossing by foot stand out beautifully in the sunlight. On the shore, there stretches an endless expanse of lush green forests. The mountains rise steeply, winding and curling in a way that captures one's gaze without pause."
@@ -562,7 +562,7 @@
   splits:
   - split: 4
     text: "莲花渡"
-    translated: "Lotus Bridge"
+    translated: "Lotus Ferry"
   - split: 6
     text: "这里气候温和，四季如春，花草繁盛，极富生机。渡口之前是一片浅滩，水流清澈见底，跨水而渡的人儿身影在阳光下颇为引人注目。而岸边则是一望无垠的碧绿山林，山势高峻，蜿蜒盘旋，令人目不暇接。"
     translated: "The climate here is mild, with all four seasons resembling spring. The flowers and plants are flourishing, brimming with vitality. Before the crossing, there's a shallow sandbar where the clear water reveals its bottom. People crossing by foot stand out beautifully in the sunlight. On the shore, there stretches an endless expanse of lush green forests. The mountains rise steeply, winding and curling in a way that captures one's gaze without pause."
@@ -765,7 +765,7 @@
     translated: "Seven‑Star Chessboard"
   - split: 6
     text: "由爻光谷初代掌门闻人天下所设计，棋局布局独特，能够让下棋者在出现七颗相连的棋子时，斗转星移，日月星辰均无法测算。据说，这棋局有两种结果，一是黑主死死而无生，二则是白主生生而无死，棋局规则独特且玄妙，被称作“天下绝局”。"
-    translated: "Designed by the first Sect Leader of Light of Divination Valley, Wen Ren Tianxia, this chessboard layout is unique. It allows players to experience a transformation when seven connected pieces appear, making it impossible for stars and celestial bodies to predict the outcome. According to legend, this chess game has two possible outcomes: either Black ends in certain death with no chance of survival, or White continues living with no possibility of death. Due to its unique and mysterious rules, it is known as The Ultimate Checkmate."
+    translated: "Designed by the first Sect Leader of Trigram Light Valley, Wen Ren Tianxia, this unique chessboard layout allows players to experience a shift in fate when seven connected pieces appear; even the sun, moon, and stars cannot predict the outcome. It is said that there are two possible outcomes: one where Black is doomed with no hope of life, and another where White lives on indefinitely. The rules of this chess game are unique and mysterious, earning it the title “The Ultimate Checkmate.”"
 - raw: "97#25#2#293.106,0.200,1044.660#七星棋局#0#由爻光谷初代掌门闻人天下所设计，棋局布局独特，能够让下棋者在出现七颗相连的棋子时，斗转星移，日月星辰均无法测算。据说，这棋局有两种结果，一是黑主死死而无生，二则是白主生生而无死，棋局规则独特且玄妙，被称作“天下绝局”。#0#0##"
   splits:
   - split: 4
@@ -773,7 +773,7 @@
     translated: "Seven‑Star Chessboard"
   - split: 6
     text: "由爻光谷初代掌门闻人天下所设计，棋局布局独特，能够让下棋者在出现七颗相连的棋子时，斗转星移，日月星辰均无法测算。据说，这棋局有两种结果，一是黑主死死而无生，二则是白主生生而无死，棋局规则独特且玄妙，被称作“天下绝局”。"
-    translated: "Designed by the first Sect Leader of Light of Divination Valley, Wen Ren Tianxia, this chessboard layout is unique. It allows players to experience a transformation when seven connected pieces appear, making it impossible for stars and celestial bodies to predict the outcome. According to legend, this chess game has two possible outcomes: either Black ends in certain death with no chance of survival, or White continues living with no possibility of death. Due to its unique and mysterious rules, it is known as The Ultimate Checkmate."
+    translated: "Designed by the first Sect Leader of Trigram Light Valley, Wen Ren Tianxia, this unique chessboard layout allows players to experience a shift in fate when seven connected pieces appear; even the sun, moon, and stars cannot predict the outcome. It is said that there are two possible outcomes: one where Black is doomed with no hope of life, and another where White lives on indefinitely. The rules of this chess game are unique and mysterious, earning it the title “The Ultimate Checkmate.”"
 - raw: "98#25#2#310.444,0.200,1020.729#七星棋局#0#由爻光谷初代掌门闻人天下所设计，棋局布局独特，能够让下棋者在出现七颗相连的棋子时，斗转星移，日月星辰均无法测算。据说，这棋局有两种结果，一是黑主死死而无生，二则是白主生生而无死，棋局规则独特且玄妙，被称作“天下绝局”。#0#0##"
   splits:
   - split: 4
@@ -781,7 +781,7 @@
     translated: "Seven‑Star Chessboard"
   - split: 6
     text: "由爻光谷初代掌门闻人天下所设计，棋局布局独特，能够让下棋者在出现七颗相连的棋子时，斗转星移，日月星辰均无法测算。据说，这棋局有两种结果，一是黑主死死而无生，二则是白主生生而无死，棋局规则独特且玄妙，被称作“天下绝局”。"
-    translated: "Designed by the first Sect Leader of Light of Divination Valley, Wen Ren Tianxia, this chessboard layout is unique. It allows players to experience a transformation when seven connected pieces appear, making it impossible for stars and celestial bodies to predict the outcome. According to legend, this chess game has two possible outcomes: either Black ends in certain death with no chance of survival, or White continues living with no possibility of death. Due to its unique and mysterious rules, it is known as The Ultimate Checkmate."
+    translated: "Designed by the first Sect Leader of Trigram Light Valley, Wen Ren Tianxia, this unique chessboard layout allows players to experience a shift in fate when seven connected pieces appear; even the sun, moon, and stars cannot predict the outcome. It is said that there are two possible outcomes: one where Black is doomed with no hope of life, and another where White lives on indefinitely. The rules of this chess game are unique and mysterious, earning it the title “The Ultimate Checkmate.”"
 - raw: "99#25#2#305.743,0.200,982.146#七星棋局#0#由爻光谷初代掌门闻人天下所设计，棋局布局独特，能够让下棋者在出现七颗相连的棋子时，斗转星移，日月星辰均无法测算。据说，这棋局有两种结果，一是黑主死死而无生，二则是白主生生而无死，棋局规则独特且玄妙，被称作“天下绝局”。#0#0##"
   splits:
   - split: 4
@@ -789,7 +789,7 @@
     translated: "Seven‑Star Chessboard"
   - split: 6
     text: "由爻光谷初代掌门闻人天下所设计，棋局布局独特，能够让下棋者在出现七颗相连的棋子时，斗转星移，日月星辰均无法测算。据说，这棋局有两种结果，一是黑主死死而无生，二则是白主生生而无死，棋局规则独特且玄妙，被称作“天下绝局”。"
-    translated: "Designed by the first Sect Leader of Light of Divination Valley, Wen Ren Tianxia, this chessboard layout is unique. It allows players to experience a transformation when seven connected pieces appear, making it impossible for stars and celestial bodies to predict the outcome. According to legend, this chess game has two possible outcomes: either Black ends in certain death with no chance of survival, or White continues living with no possibility of death. Due to its unique and mysterious rules, it is known as The Ultimate Checkmate."
+    translated: "Designed by the first Sect Leader of Trigram Light Valley, Wen Ren Tianxia, this unique chessboard layout allows players to experience a shift in fate when seven connected pieces appear; even the sun, moon, and stars cannot predict the outcome. It is said that there are two possible outcomes: one where Black is doomed with no hope of life, and another where White lives on indefinitely. The rules of this chess game are unique and mysterious, earning it the title “The Ultimate Checkmate.”"
 - raw: "100#25#2#255.195,0.200,990.815#七星棋局#0#由爻光谷初代掌门闻人天下所设计，棋局布局独特，能够让下棋者在出现七颗相连的棋子时，斗转星移，日月星辰均无法测算。据说，这棋局有两种结果，一是黑主死死而无生，二则是白主生生而无死，棋局规则独特且玄妙，被称作“天下绝局”。#0#0##"
   splits:
   - split: 4
@@ -797,7 +797,7 @@
     translated: "Seven‑Star Chessboard"
   - split: 6
     text: "由爻光谷初代掌门闻人天下所设计，棋局布局独特，能够让下棋者在出现七颗相连的棋子时，斗转星移，日月星辰均无法测算。据说，这棋局有两种结果，一是黑主死死而无生，二则是白主生生而无死，棋局规则独特且玄妙，被称作“天下绝局”。"
-    translated: "Designed by the first Sect Leader of Light of Divination Valley, Wen Ren Tianxia, this chessboard layout is unique. It allows players to experience a transformation when seven connected pieces appear, making it impossible for stars and celestial bodies to predict the outcome. According to legend, this chess game has two possible outcomes: either Black ends in certain death with no chance of survival, or White continues living with no possibility of death. Due to its unique and mysterious rules, it is known as The Ultimate Checkmate."
+    translated: "Designed by the first Sect Leader of Trigram Light Valley, Wen Ren Tianxia, this unique chessboard layout allows players to experience a shift in fate when seven connected pieces appear; even the sun, moon, and stars cannot predict the outcome. It is said that there are two possible outcomes: one where Black is doomed with no hope of life, and another where White lives on indefinitely. The rules of this chess game are unique and mysterious, earning it the title “The Ultimate Checkmate.”"
 - raw: "101#25#2#269.847,0.200,973.477#七星棋局#0#由爻光谷初代掌门闻人天下所设计，棋局布局独特，能够让下棋者在出现七颗相连的棋子时，斗转星移，日月星辰均无法测算。据说，这棋局有两种结果，一是黑主死死而无生，二则是白主生生而无死，棋局规则独特且玄妙，被称作“天下绝局”。#0#0##"
   splits:
   - split: 4
@@ -805,7 +805,7 @@
     translated: "Seven‑Star Chessboard"
   - split: 6
     text: "由爻光谷初代掌门闻人天下所设计，棋局布局独特，能够让下棋者在出现七颗相连的棋子时，斗转星移，日月星辰均无法测算。据说，这棋局有两种结果，一是黑主死死而无生，二则是白主生生而无死，棋局规则独特且玄妙，被称作“天下绝局”。"
-    translated: "Designed by the first Sect Leader of Light of Divination Valley, Wen Ren Tianxia, this chessboard layout is unique. It allows players to experience a transformation when seven connected pieces appear, making it impossible for stars and celestial bodies to predict the outcome. According to legend, this chess game has two possible outcomes: either Black ends in certain death with no chance of survival, or White continues living with no possibility of death. Due to its unique and mysterious rules, it is known as The Ultimate Checkmate."
+    translated: "Designed by the first Sect Leader of Trigram Light Valley, Wen Ren Tianxia, this unique chessboard layout allows players to experience a shift in fate when seven connected pieces appear; even the sun, moon, and stars cannot predict the outcome. It is said that there are two possible outcomes: one where Black is doomed with no hope of life, and another where White lives on indefinitely. The rules of this chess game are unique and mysterious, earning it the title “The Ultimate Checkmate.”"
 - raw: "102#26#2#990.333,0.200,1238.597#连横隘#0#连横隘，以其危险险峻的地形而著名，古为通衢大道，是通向中原的唯一通道，其它路程都必须绕路行进。这个独特的地理环境造就了连横隘变成了武林中最活跃的舞台之一。#0#0#bgm_changjing_shenbingshanzhuang#"
   splits:
   - split: 4
@@ -858,50 +858,50 @@
   splits:
   - split: 4
     text: "合纵道"
-    translated: "Alliance Path"
+    translated: "Coalition Path"
   - split: 6
     text: "合纵道位于连横隘不远处。许多武林人物都将会在合纵道上相遇，纵谈武林，论理想。刀锋剑芒之下，无不浸透着一股让人心惊胆战的气息。曾有许多纵横家在这里浮现于前沿，试图对江湖与国家的格局造成决定性的影响。"
-    translated: "The Alliance Path is located not far from the United Front Pass. Many figures of Wulin are expected to meet here, engaging in discussions about martial arts and ideals. Beneath the glinting blades and flashing swords, there's an unmistakable aura that sends shivers down one's spine. Over time, numerous strategists have emerged at this frontier, attempting to decisively influence the landscape of Jianghu and the nation."
+    translated: "The Coalition Path is located not far from the United Front Pass. Many martial world figures will meet here to discuss martial arts and ideals. Beneath the blades and sword edges, there is an unmistakable aura that leaves one's heart racing with trepidation. Many strategists have emerged on this front line over time, attempting to exert decisive influence on the landscape of both the Jianghu and the nation."
 - raw: "109#27#2#1320.362,0.200,1444.688#合纵道#0#合纵道位于连横隘不远处。许多武林人物都将会在合纵道上相遇，纵谈武林，论理想。刀锋剑芒之下，无不浸透着一股让人心惊胆战的气息。曾有许多纵横家在这里浮现于前沿，试图对江湖与国家的格局造成决定性的影响。#0#0#bgm_changjing_shenbingshanzhuang#"
   splits:
   - split: 4
     text: "合纵道"
-    translated: "Alliance Path"
+    translated: "Coalition Path"
   - split: 6
     text: "合纵道位于连横隘不远处。许多武林人物都将会在合纵道上相遇，纵谈武林，论理想。刀锋剑芒之下，无不浸透着一股让人心惊胆战的气息。曾有许多纵横家在这里浮现于前沿，试图对江湖与国家的格局造成决定性的影响。"
-    translated: "The Alliance Path is located not far from the United Front Pass. Many figures of Wulin are expected to meet here, engaging in discussions about martial arts and ideals. Beneath the glinting blades and flashing swords, there's an unmistakable aura that sends shivers down one's spine. Over time, numerous strategists have emerged at this frontier, attempting to decisively influence the landscape of Jianghu and the nation."
+    translated: "The Coalition Path is located not far from the United Front Pass. Many martial world figures will meet here to discuss martial arts and ideals. Beneath the blades and sword edges, there is an unmistakable aura that leaves one's heart racing with trepidation. Many strategists have emerged on this front line over time, attempting to exert decisive influence on the landscape of both the Jianghu and the nation."
 - raw: "110#27#2#1373.098,0.200,1373.384#合纵道#0#合纵道位于连横隘不远处。许多武林人物都将会在合纵道上相遇，纵谈武林，论理想。刀锋剑芒之下，无不浸透着一股让人心惊胆战的气息。曾有许多纵横家在这里浮现于前沿，试图对江湖与国家的格局造成决定性的影响。#0#0#bgm_changjing_shenbingshanzhuang#"
   splits:
   - split: 4
     text: "合纵道"
-    translated: "Alliance Path"
+    translated: "Coalition Path"
   - split: 6
     text: "合纵道位于连横隘不远处。许多武林人物都将会在合纵道上相遇，纵谈武林，论理想。刀锋剑芒之下，无不浸透着一股让人心惊胆战的气息。曾有许多纵横家在这里浮现于前沿，试图对江湖与国家的格局造成决定性的影响。"
-    translated: "The Alliance Path is located not far from the United Front Pass. Many figures of Wulin are expected to meet here, engaging in discussions about martial arts and ideals. Beneath the glinting blades and flashing swords, there's an unmistakable aura that sends shivers down one's spine. Over time, numerous strategists have emerged at this frontier, attempting to decisively influence the landscape of Jianghu and the nation."
+    translated: "The Coalition Path is located not far from the United Front Pass. Many martial world figures will meet here to discuss martial arts and ideals. Beneath the blades and sword edges, there is an unmistakable aura that leaves one's heart racing with trepidation. Many strategists have emerged on this front line over time, attempting to exert decisive influence on the landscape of both the Jianghu and the nation."
 - raw: "111#27#2#1347.012,0.200,1273.737#合纵道#0#合纵道位于连横隘不远处。许多武林人物都将会在合纵道上相遇，纵谈武林，论理想。刀锋剑芒之下，无不浸透着一股让人心惊胆战的气息。曾有许多纵横家在这里浮现于前沿，试图对江湖与国家的格局造成决定性的影响。#0#0#bgm_changjing_shenbingshanzhuang#"
   splits:
   - split: 4
     text: "合纵道"
-    translated: "Alliance Path"
+    translated: "Coalition Path"
   - split: 6
     text: "合纵道位于连横隘不远处。许多武林人物都将会在合纵道上相遇，纵谈武林，论理想。刀锋剑芒之下，无不浸透着一股让人心惊胆战的气息。曾有许多纵横家在这里浮现于前沿，试图对江湖与国家的格局造成决定性的影响。"
-    translated: "The Alliance Path is located not far from the United Front Pass. Many figures of Wulin are expected to meet here, engaging in discussions about martial arts and ideals. Beneath the glinting blades and flashing swords, there's an unmistakable aura that sends shivers down one's spine. Over time, numerous strategists have emerged at this frontier, attempting to decisively influence the landscape of Jianghu and the nation."
+    translated: "The Coalition Path is located not far from the United Front Pass. Many martial world figures will meet here to discuss martial arts and ideals. Beneath the blades and sword edges, there is an unmistakable aura that leaves one's heart racing with trepidation. Many strategists have emerged on this front line over time, attempting to exert decisive influence on the landscape of both the Jianghu and the nation."
 - raw: "112#27#2#1190.610,0.200,1249.806#合纵道#0#合纵道位于连横隘不远处。许多武林人物都将会在合纵道上相遇，纵谈武林，论理想。刀锋剑芒之下，无不浸透着一股让人心惊胆战的气息。曾有许多纵横家在这里浮现于前沿，试图对江湖与国家的格局造成决定性的影响。#0#0#bgm_changjing_shenbingshanzhuang#"
   splits:
   - split: 4
     text: "合纵道"
-    translated: "Alliance Path"
+    translated: "Coalition Path"
   - split: 6
     text: "合纵道位于连横隘不远处。许多武林人物都将会在合纵道上相遇，纵谈武林，论理想。刀锋剑芒之下，无不浸透着一股让人心惊胆战的气息。曾有许多纵横家在这里浮现于前沿，试图对江湖与国家的格局造成决定性的影响。"
-    translated: "The Alliance Path is located not far from the United Front Pass. Many figures of Wulin are expected to meet here, engaging in discussions about martial arts and ideals. Beneath the glinting blades and flashing swords, there's an unmistakable aura that sends shivers down one's spine. Over time, numerous strategists have emerged at this frontier, attempting to decisively influence the landscape of Jianghu and the nation."
+    translated: "The Coalition Path is located not far from the United Front Pass. Many martial world figures will meet here to discuss martial arts and ideals. Beneath the blades and sword edges, there is an unmistakable aura that leaves one's heart racing with trepidation. Many strategists have emerged on this front line over time, attempting to exert decisive influence on the landscape of both the Jianghu and the nation."
 - raw: "113#27#2#1205.018,0.200,1398.144#合纵道#0#合纵道位于连横隘不远处。许多武林人物都将会在合纵道上相遇，纵谈武林，论理想。刀锋剑芒之下，无不浸透着一股让人心惊胆战的气息。曾有许多纵横家在这里浮现于前沿，试图对江湖与国家的格局造成决定性的影响。#0#0#bgm_changjing_shenbingshanzhuang#"
   splits:
   - split: 4
     text: "合纵道"
-    translated: "Alliance Path"
+    translated: "Coalition Path"
   - split: 6
     text: "合纵道位于连横隘不远处。许多武林人物都将会在合纵道上相遇，纵谈武林，论理想。刀锋剑芒之下，无不浸透着一股让人心惊胆战的气息。曾有许多纵横家在这里浮现于前沿，试图对江湖与国家的格局造成决定性的影响。"
-    translated: "The Alliance Path is located not far from the United Front Pass. Many figures of Wulin are expected to meet here, engaging in discussions about martial arts and ideals. Beneath the glinting blades and flashing swords, there's an unmistakable aura that sends shivers down one's spine. Over time, numerous strategists have emerged at this frontier, attempting to decisively influence the landscape of Jianghu and the nation."
+    translated: "The Coalition Path is located not far from the United Front Pass. Many martial world figures will meet here to discuss martial arts and ideals. Beneath the blades and sword edges, there is an unmistakable aura that leaves one's heart racing with trepidation. Many strategists have emerged on this front line over time, attempting to exert decisive influence on the landscape of both the Jianghu and the nation."
 - raw: "114#39#2#828.706,0.200,909.172#高家#0#曾为梁王立下汗马功劳，后因受伤退出官场，如今高家名声不显，但其家传绝学纵横百花枪仍然闻名于世，无人敢轻视。#0#0#bgm_changjing_pinglu#"
   splits:
   - split: 4
@@ -978,15 +978,15 @@
   splits:
   - split: 4
     text: "千奇坊"
-    translated: "Thousand Odd Pavilion"
+    translated: "Thousand Wonders Workshop"
   - split: 6
     text: "千奇坊位于枰栌的繁华区域，它是城中最受欢迎的交易和娱乐中心。传闻这里出售的商品价值精良，广受江湖侠士喜爱。"
-    translated: "Qianqifang is located in the bustling area of Pinglu and is the most popular trading and entertainment center in the city. Rumors have it that the goods sold here are exquisite and widely cherished by heroes of the Jianghu."
+    translated: "Thousand Wonders Workshop is located in the bustling area of Pinglu and serves as the most popular trading and entertainment center in the city. It is rumored that the goods sold here are exquisite, greatly favored by heroes from Jianghu."
 - raw: "124#41#2#941.153,0.200,969.116#千奇坊#0#燕国内的镖局，在燕国内伫立已有百余年。无论什么任务，都以其铁的原则——“镖不二价，货到才收银，一路平安或者全款退回”。#0#0##"
   splits:
   - split: 4
     text: "千奇坊"
-    translated: "Thousand Odd Pavilion"
+    translated: "Thousand Wonders Workshop"
   - split: 6
     text: "燕国内的镖局，在燕国内伫立已有百余年。无论什么任务，都以其铁的原则——“镖不二价，货到才收银，一路平安或者全款退回”。"
     translated: "The Yinguo Branch of the Express Bureau has been established in the Yan Kingdom for over a hundred years. For any task, they adhere to their ironclad principles: one price for the express, cash on delivery upon arrival, and either safe passage or full refund."
@@ -994,7 +994,7 @@
   splits:
   - split: 4
     text: "千奇坊"
-    translated: "Thousand Odd Pavilion"
+    translated: "Thousand Wonders Workshop"
   - split: 6
     text: "燕国内的镖局，在燕国内伫立已有百余年。无论什么任务，都以其铁的原则——“镖不二价，货到才收银，一路平安或者全款退回”。"
     translated: "The Yinguo Branch of the Express Bureau has been established in the Yan Kingdom for over a hundred years. For any task, they adhere to their ironclad principles: one price for the express, cash on delivery upon arrival, and either safe passage or full refund."
@@ -1002,7 +1002,7 @@
   splits:
   - split: 4
     text: "千奇坊"
-    translated: "Thousand Odd Pavilion"
+    translated: "Thousand Wonders Workshop"
   - split: 6
     text: "燕国内的镖局，在燕国内伫立已有百余年。无论什么任务，都以其铁的原则——“镖不二价，货到才收银，一路平安或者全款退回”。"
     translated: "The Yinguo Branch of the Express Bureau has been established in the Yan Kingdom for over a hundred years. For any task, they adhere to their ironclad principles: one price for the express, cash on delivery upon arrival, and either safe passage or full refund."
@@ -1010,7 +1010,7 @@
   splits:
   - split: 4
     text: "千奇坊"
-    translated: "Thousand Odd Pavilion"
+    translated: "Thousand Wonders Workshop"
   - split: 6
     text: "燕国内的镖局，在燕国内伫立已有百余年。无论什么任务，都以其铁的原则——“镖不二价，货到才收银，一路平安或者全款退回”。燕国内的镖局，在燕国内伫立已有百余年。无论什么任务，都以其铁的原则——“镖不二价，货到才收银，一路平安或者全款退回”。"
     translated: "The Yanguo Escort Service has been established in the Yan Kingdom for over a hundred years. Regardless of the task, they adhere to their ironclad principles: No price changes for an escort; payment only upon delivery; safe arrival or full refund. The Yanguo Escort Service has been established in the Yan Kingdom for over a hundred years. Regardless of the task, they adhere to their ironclad principles: No price changes for an escort; payment only upon delivery; safe arrival or full refund."
@@ -1018,7 +1018,7 @@
   splits:
   - split: 4
     text: "后山墓地"
-    translated: "Hou Mountain Cemetery"
+    translated: "Rear Hill Cemetery"
   - split: 6
     text: "云鹤村墓地，是村民们的长眠之地。"
     translated: "The cemetery of Cloud Crane Village is where the villagers rest in eternal peace."
@@ -1026,7 +1026,7 @@
   splits:
   - split: 4
     text: "后山墓地"
-    translated: "Hou Mountain Cemetery"
+    translated: "Rear Hill Cemetery"
   - split: 6
     text: "云鹤村墓地，是村民们的长眠之地。"
     translated: "The cemetery of Cloud Crane Village is where the villagers rest in eternal peace."
@@ -1034,7 +1034,7 @@
   splits:
   - split: 4
     text: "后山墓地"
-    translated: "Hou Mountain Cemetery"
+    translated: "Rear Hill Cemetery"
   - split: 6
     text: "云鹤村墓地，是村民们的长眠之地。"
     translated: "The cemetery of Cloud Crane Village is where the villagers rest in eternal peace."
@@ -1042,7 +1042,7 @@
   splits:
   - split: 4
     text: "后山墓地"
-    translated: "Hou Mountain Cemetery"
+    translated: "Rear Hill Cemetery"
   - split: 6
     text: "云鹤村墓地，是村民们的长眠之地。"
     translated: "The cemetery of Cloud Crane Village is where the villagers rest in eternal peace."
@@ -1050,7 +1050,7 @@
   splits:
   - split: 4
     text: "后山墓地"
-    translated: "Hou Mountain Cemetery"
+    translated: "Rear Hill Cemetery"
   - split: 6
     text: "云鹤村墓地，是村民们的长眠之地。"
     translated: "The cemetery of Cloud Crane Village is where the villagers rest in eternal peace."
@@ -1362,7 +1362,7 @@
   splits:
   - split: 4
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
   - split: 6
     text: "位于山间幽静之处，四周群峰环抱，郁郁葱葱绿意盎然。宗门之人须观潮起潮落，看云舒云卷起伏不居，山峦如剑，高耸入云霄。赏星河流转，见日月万千交替于天穹，交相辉映下仿佛又是一幅回环往复、变幻无穷的画卷，如此往复成就无上神功。"
     translated: "Nestled in a secluded mountain area, surrounded by peaks on all sides and lush with verdant life. The disciples of the sect must observe the ebb and flow of tides, watch clouds stretch and fold, rising and falling without rest. The mountains stand like swords, soaring into the heavens. They marvel at the shifting celestial river, witnessing the sun and moon's countless cycles across the sky dome, reflecting each other in a boundless panorama that seems to endlessly loop back on itself‑a constantly transforming scroll of infinite variety‑achieving ultimate divine skill through this ceaseless cycle."
@@ -1370,7 +1370,7 @@
   splits:
   - split: 4
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
   - split: 6
     text: "位于山间幽静之处，四周群峰环抱，郁郁葱葱绿意盎然。宗门之人须观潮起潮落，看云舒云卷起伏不居，山峦如剑，高耸入云霄。赏星河流转，见日月万千交替于天穹，交相辉映下仿佛又是一幅回环往复、变幻无穷的画卷，如此往复成就无上神功。"
     translated: "Nestled in a secluded mountain area, surrounded by peaks on all sides and lush with verdant life. The disciples of the sect must observe the ebb and flow of tides, watch clouds stretch and fold, rising and falling without rest. The mountains stand like swords, soaring into the heavens. They marvel at the shifting celestial river, witnessing the sun and moon's countless cycles across the sky dome, reflecting each other in a boundless panorama that seems to endlessly loop back on itself‑a constantly transforming scroll of infinite variety‑achieving ultimate divine skill through this ceaseless cycle."
@@ -1378,7 +1378,7 @@
   splits:
   - split: 4
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
   - split: 6
     text: "位于山间幽静之处，四周群峰环抱，郁郁葱葱绿意盎然。宗门之人须观潮起潮落，看云舒云卷起伏不居，山峦如剑，高耸入云霄。赏星河流转，见日月万千交替于天穹，交相辉映下仿佛又是一幅回环往复、变幻无穷的画卷，如此往复成就无上神功。"
     translated: "Nestled in a secluded mountain area, surrounded by peaks on all sides and lush with verdant life. The disciples of the sect must observe the ebb and flow of tides, watch clouds stretch and fold, rising and falling without rest. The mountains stand like swords, soaring into the heavens. They marvel at the shifting celestial river, witnessing the sun and moon's countless cycles across the sky dome, reflecting each other in a boundless panorama that seems to endlessly loop back on itself‑a constantly transforming scroll of infinite variety‑achieving ultimate divine skill through this ceaseless cycle."
@@ -1386,7 +1386,7 @@
   splits:
   - split: 4
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
   - split: 6
     text: "位于山间幽静之处，四周群峰环抱，郁郁葱葱绿意盎然。宗门之人须观潮起潮落，看云舒云卷起伏不居，山峦如剑，高耸入云霄。赏星河流转，见日月万千交替于天穹，交相辉映下仿佛又是一幅回环往复、变幻无穷的画卷，如此往复成就无上神功。"
     translated: "Nestled in a secluded mountain area, surrounded by peaks on all sides and lush with verdant life. The disciples of the sect must observe the ebb and flow of tides, watch clouds stretch and fold, rising and falling without rest. The mountains stand like swords, soaring into the heavens. They marvel at the shifting celestial river, witnessing the sun and moon's countless cycles across the sky dome, reflecting each other in a boundless panorama that seems to endlessly loop back on itself‑a constantly transforming scroll of infinite variety‑achieving ultimate divine skill through this ceaseless cycle."
@@ -1394,7 +1394,7 @@
   splits:
   - split: 4
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
   - split: 6
     text: "位于山间幽静之处，四周群峰环抱，郁郁葱葱绿意盎然。宗门之人须观潮起潮落，看云舒云卷起伏不居，山峦如剑，高耸入云霄。赏星河流转，见日月万千交替于天穹，交相辉映下仿佛又是一幅回环往复、变幻无穷的画卷，如此往复成就无上神功。"
     translated: "Nestled in a secluded mountain area, surrounded by peaks on all sides and lush with verdant life. The disciples of the sect must observe the ebb and flow of tides, watch clouds stretch and fold, rising and falling without rest. The mountains stand like swords, soaring into the heavens. They marvel at the shifting celestial river, witnessing the sun and moon's countless cycles across the sky dome, reflecting each other in a boundless panorama that seems to endlessly loop back on itself‑a constantly transforming scroll of infinite variety‑achieving ultimate divine skill through this ceaseless cycle."
@@ -1402,7 +1402,7 @@
   splits:
   - split: 4
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
   - split: 6
     text: "位于山间幽静之处，四周群峰环抱，郁郁葱葱绿意盎然。宗门之人须观潮起潮落，看云舒云卷起伏不居，山峦如剑，高耸入云霄。赏星河流转，见日月万千交替于天穹，交相辉映下仿佛又是一幅回环往复、变幻无穷的画卷，如此往复成就无上神功。"
     translated: "Nestled in a secluded mountain area, surrounded by peaks on all sides and lush with verdant life. The disciples of the sect must observe the ebb and flow of tides, watch clouds stretch and fold, rising and falling without rest. The mountains stand like swords, soaring into the heavens. They marvel at the shifting celestial river, witnessing the sun and moon's countless cycles across the sky dome, reflecting each other in a boundless panorama that seems to endlessly loop back on itself‑a constantly transforming scroll of infinite variety‑achieving ultimate divine skill through this ceaseless cycle."
@@ -1410,7 +1410,7 @@
   splits:
   - split: 4
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
   - split: 6
     text: "位于山间幽静之处，四周群峰环抱，郁郁葱葱绿意盎然。宗门之人须观潮起潮落，看云舒云卷起伏不居，山峦如剑，高耸入云霄。赏星河流转，见日月万千交替于天穹，交相辉映下仿佛又是一幅回环往复、变幻无穷的画卷，如此往复成就无上神功。"
     translated: "Nestled in a secluded mountain area, surrounded by peaks on all sides and lush with verdant life. The disciples of the sect must observe the ebb and flow of tides, watch clouds stretch and fold, rising and falling without rest. The mountains stand like swords, soaring into the heavens. They marvel at the shifting celestial river, witnessing the sun and moon's countless cycles across the sky dome, reflecting each other in a boundless panorama that seems to endlessly loop back on itself‑a constantly transforming scroll of infinite variety‑achieving ultimate divine skill through this ceaseless cycle."
@@ -1418,7 +1418,7 @@
   splits:
   - split: 4
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
   - split: 6
     text: "位于山间幽静之处，四周群峰环抱，郁郁葱葱绿意盎然。宗门之人须观潮起潮落，看云舒云卷起伏不居，山峦如剑，高耸入云霄。赏星河流转，见日月万千交替于天穹，交相辉映下仿佛又是一幅回环往复、变幻无穷的画卷，如此往复成就无上神功。"
     translated: "Nestled in a secluded mountain area, surrounded by peaks on all sides and lush with verdant life. The disciples of the sect must observe the ebb and flow of tides, watch clouds stretch and fold, rising and falling without rest. The mountains stand like swords, soaring into the heavens. They marvel at the shifting celestial river, witnessing the sun and moon's countless cycles across the sky dome, reflecting each other in a boundless panorama that seems to endlessly loop back on itself‑a constantly transforming scroll of infinite variety‑achieving ultimate divine skill through this ceaseless cycle."
@@ -1746,7 +1746,7 @@
   splits:
   - split: 4
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
   - split: 6
     text: "燕国将门世家，祖辈段承君曾协助年幼的燕国皇帝镇压藩王，稳定局势，并且封存了嘉和帝的秘藏并设定了一系列玄门发展的规则，才使得燕国没有走上人人沉迷修行，无人生产的衰景，段家儿女恪守家规，侍奉主君，不敢僭越。"
     translated: "The Yan Kingdom's noble family of generals, ancestral ancestor Duan Chengjun once assisted the young emperor of the Yan Kingdom in suppressing feudal lords and stabilizing the situation. He also sealed away the hidden treasures of Emperor Jiahe and established a series of rules for Xuanmen development, preventing the Yan Kingdom from falling into the bleak scenario where everyone was obsessed with cultivation to the point that no one produced anything. The descendants of the Duan family faithfully adhere to family rules, serve their sovereign, and dare not overstep."
@@ -1754,7 +1754,7 @@
   splits:
   - split: 4
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
   - split: 6
     text: "燕国将门世家，祖辈段承君曾协助年幼的燕国皇帝镇压藩王，稳定局势，并且封存了嘉和帝的秘藏并设定了一系列玄门发展的规则，才使得燕国没有走上人人沉迷修行，无人生产的衰景，段家儿女恪守家规，侍奉主君，不敢僭越。"
     translated: "The Yan Kingdom's noble family of generals, ancestral ancestor Duan Chengjun once assisted the young emperor of the Yan Kingdom in suppressing feudal lords and stabilizing the situation. He also sealed away the hidden treasures of Emperor Jiahe and established a series of rules for Xuanmen development, preventing the Yan Kingdom from falling into the bleak scenario where everyone was obsessed with cultivation to the point that no one produced anything. The descendants of the Duan family faithfully adhere to family rules, serve their sovereign, and dare not overstep."
@@ -1762,7 +1762,7 @@
   splits:
   - split: 4
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
   - split: 6
     text: "燕国将门世家，祖辈段承君曾协助年幼的燕国皇帝镇压藩王，稳定局势，并且封存了嘉和帝的秘藏并设定了一系列玄门发展的规则，才使得燕国没有走上人人沉迷修行，无人生产的衰景，段家儿女恪守家规，侍奉主君，不敢僭越。"
     translated: "The Yan Kingdom's noble family of generals, ancestral ancestor Duan Chengjun once assisted the young emperor of the Yan Kingdom in suppressing feudal lords and stabilizing the situation. He also sealed away the hidden treasures of Emperor Jiahe and established a series of rules for Xuanmen development, preventing the Yan Kingdom from falling into the bleak scenario where everyone was obsessed with cultivation to the point that no one produced anything. The descendants of the Duan family faithfully adhere to family rules, serve their sovereign, and dare not overstep."
@@ -1770,7 +1770,7 @@
   splits:
   - split: 4
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
   - split: 6
     text: "燕国将门世家，祖辈段承君曾协助年幼的燕国皇帝镇压藩王，稳定局势，并且封存了嘉和帝的秘藏并设定了一系列玄门发展的规则，才使得燕国没有走上人人沉迷修行，无人生产的衰景，段家儿女恪守家规，侍奉主君，不敢僭越。"
     translated: "The Yan Kingdom's noble family of generals, ancestral ancestor Duan Chengjun once assisted the young emperor of the Yan Kingdom in suppressing feudal lords and stabilizing the situation. He also sealed away the hidden treasures of Emperor Jiahe and established a series of rules for Xuanmen development, preventing the Yan Kingdom from falling into the bleak scenario where everyone was obsessed with cultivation to the point that no one produced anything. The descendants of the Duan family faithfully adhere to family rules, serve their sovereign, and dare not overstep."
@@ -1778,7 +1778,7 @@
   splits:
   - split: 4
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
   - split: 6
     text: "燕国将门世家，祖辈段承君曾协助年幼的燕国皇帝镇压藩王，稳定局势，并且封存了嘉和帝的秘藏并设定了一系列玄门发展的规则，才使得燕国没有走上人人沉迷修行，无人生产的衰景，段家儿女恪守家规，侍奉主君，不敢僭越。"
     translated: "The Yan Kingdom's noble family of generals, ancestral ancestor Duan Chengjun once assisted the young emperor of the Yan Kingdom in suppressing feudal lords and stabilizing the situation. He also sealed away the hidden treasures of Emperor Jiahe and established a series of rules for Xuanmen development, preventing the Yan Kingdom from falling into the bleak scenario where everyone was obsessed with cultivation to the point that no one produced anything. The descendants of the Duan family faithfully adhere to family rules, serve their sovereign, and dare not overstep."
@@ -1786,7 +1786,7 @@
   splits:
   - split: 4
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
   - split: 6
     text: "燕国将门世家，祖辈段承君曾协助年幼的燕国皇帝镇压藩王，稳定局势，并且封存了嘉和帝的秘藏并设定了一系列玄门发展的规则，才使得燕国没有走上人人沉迷修行，无人生产的衰景，段家儿女恪守家规，侍奉主君，不敢僭越。"
     translated: "The Yan Kingdom's noble family of generals, ancestral ancestor Duan Chengjun once assisted the young emperor of the Yan Kingdom in suppressing feudal lords and stabilizing the situation. He also sealed away the hidden treasures of Emperor Jiahe and established a series of rules for Xuanmen development, preventing the Yan Kingdom from falling into the bleak scenario where everyone was obsessed with cultivation to the point that no one produced anything. The descendants of the Duan family faithfully adhere to family rules, serve their sovereign, and dare not overstep."
@@ -1794,7 +1794,7 @@
   splits:
   - split: 4
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
   - split: 6
     text: "燕国将门世家，祖辈段承君曾协助年幼的燕国皇帝镇压藩王，稳定局势，并且封存了嘉和帝的秘藏并设定了一系列玄门发展的规则，才使得燕国没有走上人人沉迷修行，无人生产的衰景，段家儿女恪守家规，侍奉主君，不敢僭越。"
     translated: "The Yan Kingdom's noble family of generals, ancestral ancestor Duan Chengjun once assisted the young emperor of the Yan Kingdom in suppressing feudal lords and stabilizing the situation. He also sealed away the hidden treasures of Emperor Jiahe and established a series of rules for Xuanmen development, preventing the Yan Kingdom from falling into the bleak scenario where everyone was obsessed with cultivation to the point that no one produced anything. The descendants of the Duan family faithfully adhere to family rules, serve their sovereign, and dare not overstep."
@@ -1938,26 +1938,26 @@
   splits:
   - split: 4
     text: "合纵道"
-    translated: "Alliance Path"
+    translated: "Coalition Path"
   - split: 6
     text: "合纵道位于连横隘不远处。许多武林人物都将会在合纵道上相遇，纵谈武林，论理想。刀锋剑芒之下，无不浸透着一股让人心惊胆战的气息。曾有许多纵横家在这里浮现于前沿，试图对江湖与国家的格局造成决定性的影响。"
-    translated: "The Alliance Path is located not far from the United Front Pass. Many figures of Wulin are expected to meet here, engaging in discussions about martial arts and ideals. Beneath the glinting blades and flashing swords, there's an unmistakable aura that sends shivers down one's spine. Over time, numerous strategists have emerged at this frontier, attempting to decisively influence the landscape of Jianghu and the nation."
+    translated: "The Coalition Path is located not far from the United Front Pass. Many martial world figures will meet here to discuss martial arts and ideals. Beneath the blades and sword edges, there is an unmistakable aura that leaves one's heart racing with trepidation. Many strategists have emerged on this front line over time, attempting to exert decisive influence on the landscape of both the Jianghu and the nation."
 - raw: "244#27#1#1187.436,0.100,1332.710#合纵道#0#合纵道位于连横隘不远处。许多武林人物都将会在合纵道上相遇，纵谈武林，论理想。刀锋剑芒之下，无不浸透着一股让人心惊胆战的气息。曾有许多纵横家在这里浮现于前沿，试图对江湖与国家的格局造成决定性的影响。#0#0#bgm_changjing_shenbingshanzhuang#"
   splits:
   - split: 4
     text: "合纵道"
-    translated: "Alliance Path"
+    translated: "Coalition Path"
   - split: 6
     text: "合纵道位于连横隘不远处。许多武林人物都将会在合纵道上相遇，纵谈武林，论理想。刀锋剑芒之下，无不浸透着一股让人心惊胆战的气息。曾有许多纵横家在这里浮现于前沿，试图对江湖与国家的格局造成决定性的影响。"
-    translated: "The Alliance Path is located not far from the United Front Pass. Many figures of Wulin are expected to meet here, engaging in discussions about martial arts and ideals. Beneath the glinting blades and flashing swords, there's an unmistakable aura that sends shivers down one's spine. Over time, numerous strategists have emerged at this frontier, attempting to decisively influence the landscape of Jianghu and the nation."
+    translated: "The Coalition Path is located not far from the United Front Pass. Many martial world figures will meet here to discuss martial arts and ideals. Beneath the blades and sword edges, there is an unmistakable aura that leaves one's heart racing with trepidation. Many strategists have emerged on this front line over time, attempting to exert decisive influence on the landscape of both the Jianghu and the nation."
 - raw: "245#27#1#1263.991,0.100,1286.435#合纵道#0#合纵道位于连横隘不远处。许多武林人物都将会在合纵道上相遇，纵谈武林，论理想。刀锋剑芒之下，无不浸透着一股让人心惊胆战的气息。曾有许多纵横家在这里浮现于前沿，试图对江湖与国家的格局造成决定性的影响。#0#0#bgm_changjing_shenbingshanzhuang#"
   splits:
   - split: 4
     text: "合纵道"
-    translated: "Alliance Path"
+    translated: "Coalition Path"
   - split: 6
     text: "合纵道位于连横隘不远处。许多武林人物都将会在合纵道上相遇，纵谈武林，论理想。刀锋剑芒之下，无不浸透着一股让人心惊胆战的气息。曾有许多纵横家在这里浮现于前沿，试图对江湖与国家的格局造成决定性的影响。"
-    translated: "The Alliance Path is located not far from the United Front Pass. Many figures of Wulin are expected to meet here, engaging in discussions about martial arts and ideals. Beneath the glinting blades and flashing swords, there's an unmistakable aura that sends shivers down one's spine. Over time, numerous strategists have emerged at this frontier, attempting to decisively influence the landscape of Jianghu and the nation."
+    translated: "The Coalition Path is located not far from the United Front Pass. Many martial world figures will meet here to discuss martial arts and ideals. Beneath the blades and sword edges, there is an unmistakable aura that leaves one's heart racing with trepidation. Many strategists have emerged on this front line over time, attempting to exert decisive influence on the landscape of both the Jianghu and the nation."
 - raw: "246#28#1#1175.798,0.100,1234.070#捭阖谷#0#在七国混乱时期，捭阖谷弟子游走各国之间，凭借着卓越的捭阖之术被各国重视处于巅峰时期。但随着三国的相互制约，天下趋于稳定，捭阖谷再无用武之地逐渐被人们遗忘。#0#0#bgm_changjing_luanzanggang#"
   splits:
   - split: 4
@@ -2226,7 +2226,7 @@
   splits:
   - split: 4
     text: "誓盟碑"
-    translated: "Oath Alliance Monument"
+    translated: "Alliance Oath Monument"
   - split: 6
     text: "碑高约三丈，整块由一种罕见的青玉石雕琢而成，碑身所刻的文字深入骨髓，经岁月摧残而永不褪色，乃当初立誓讨魔所立，引得无数性情中人来此参拜。"
     translated: "The stele stands about three zhang high and is carved from a rare green jade. The inscriptions on the stone are deeply etched and remain unfaded despite the ravages of time, having been erected as an oath to vanquish demons. This has drawn countless admirers to come here in worship."
@@ -2234,7 +2234,7 @@
   splits:
   - split: 4
     text: "誓盟碑"
-    translated: "Oath Alliance Monument"
+    translated: "Alliance Oath Monument"
   - split: 6
     text: "碑高约三丈，整块由一种罕见的青玉石雕琢而成，碑身所刻的文字深入骨髓，经岁月摧残而永不褪色，乃当初立誓讨魔所立，引得无数性情中人来此参拜。"
     translated: "The stele stands about three zhang high and is carved from a rare green jade. The inscriptions on the stone are deeply etched and remain unfaded despite the ravages of time, having been erected as an oath to vanquish demons. This has drawn countless admirers to come here in worship."
@@ -2242,7 +2242,7 @@
   splits:
   - split: 4
     text: "誓盟碑"
-    translated: "Oath Alliance Monument"
+    translated: "Alliance Oath Monument"
   - split: 6
     text: "碑高约三丈，整块由一种罕见的青玉石雕琢而成，碑身所刻的文字深入骨髓，经岁月摧残而永不褪色，乃当初立誓讨魔所立，引得无数性情中人来此参拜。"
     translated: "The stele stands about three zhang high and is carved from a rare green jade. The inscriptions on the stone are deeply etched and remain unfaded despite the ravages of time, having been erected as an oath to vanquish demons. This has drawn countless admirers to come here in worship."
@@ -2250,7 +2250,7 @@
   splits:
   - split: 4
     text: "誓盟碑"
-    translated: "Oath Alliance Monument"
+    translated: "Alliance Oath Monument"
   - split: 6
     text: "碑高约三丈，整块由一种罕见的青玉石雕琢而成，碑身所刻的文字深入骨髓，经岁月摧残而永不褪色，乃当初立誓讨魔所立，引得无数性情中人来此参拜。"
     translated: "The stele stands about three zhang high and is carved from a rare green jade. The inscriptions on the stone are deeply etched and remain unfaded despite the ravages of time, having been erected as an oath to vanquish demons. This has drawn countless admirers to come here in worship."
@@ -2258,7 +2258,7 @@
   splits:
   - split: 4
     text: "誓盟碑"
-    translated: "Oath Alliance Monument"
+    translated: "Alliance Oath Monument"
   - split: 6
     text: "碑高约三丈，整块由一种罕见的青玉石雕琢而成，碑身所刻的文字深入骨髓，经岁月摧残而永不褪色，乃当初立誓讨魔所立，引得无数性情中人来此参拜。"
     translated: "The stele stands about three zhang high and is carved from a rare green jade. The inscriptions on the stone are deeply etched and remain unfaded despite the ravages of time, having been erected as an oath to vanquish demons. This has drawn countless admirers to come here in worship."
@@ -2266,7 +2266,7 @@
   splits:
   - split: 4
     text: "誓盟碑"
-    translated: "Oath Alliance Monument"
+    translated: "Alliance Oath Monument"
   - split: 6
     text: "碑高约三丈，整块由一种罕见的青玉石雕琢而成，碑身所刻的文字深入骨髓，经岁月摧残而永不褪色，乃当初立誓讨魔所立，引得无数性情中人来此参拜。"
     translated: "The stele stands about three zhang high and is carved from a rare green jade. The inscriptions on the stone are deeply etched and remain unfaded despite the ravages of time, having been erected as an oath to vanquish demons. This has drawn countless admirers to come here in worship."
@@ -3986,7 +3986,7 @@
   splits:
   - split: 4
     text: "迦南遗址"
-    translated: "Canaanite Ruins"
+    translated: "Canaan Ruins"
   - split: 6
     text: "迦南城，曾经在沙漠中建立起来的繁华城市，迦南人每逢重要节日便会在夜晚时分在城市西南方举行祭典，因为他们相信西南方的星辰是力量之源，但不知为何突然之间迦南人全部失踪，只留下这一片废墟和传说中的珍宝。"
     translated: "The city of Gan Nai, once a bustling metropolis established in the desert, is known for its annual festival held every important holiday at night on the southwest side of the city. The people of Gan Nai believe that the stars to the southwest are the source of power, and yet, inexplicably, all the citizens vanished overnight, leaving only this ruin and a legendary treasure behind"
@@ -3994,7 +3994,7 @@
   splits:
   - split: 4
     text: "迦南遗址"
-    translated: "Canaanite Ruins"
+    translated: "Canaan Ruins"
   - split: 6
     text: "迦南城，曾经在沙漠中建立起来的繁华城市，迦南人每逢重要节日便会在夜晚时分在城市西南方举行祭典，因为他们相信西南方的星辰是力量之源，但不知为何突然之间迦南人全部失踪，只留下这一片废墟和传说中的珍宝。"
     translated: "The city of Gan Nai, once a bustling metropolis established in the desert, is known for its annual festival held every important holiday at night on the southwest side of the city. The people of Gan Nai believe that the stars to the southwest are the source of power, and yet, inexplicably, all the citizens vanished overnight, leaving only this ruin and a legendary treasure behind"
@@ -4002,7 +4002,7 @@
   splits:
   - split: 4
     text: "迦南遗址"
-    translated: "Canaanite Ruins"
+    translated: "Canaan Ruins"
   - split: 6
     text: "迦南城，曾经在沙漠中建立起来的繁华城市，迦南人每逢重要节日便会在夜晚时分在城市西南方举行祭典，因为他们相信西南方的星辰是力量之源，但不知为何突然之间迦南人全部失踪，只留下这一片废墟和传说中的珍宝。"
     translated: "The city of Gan Nai, once a bustling metropolis established in the desert, is known for its annual festival held every important holiday at night on the southwest side of the city. The people of Gan Nai believe that the stars to the southwest are the source of power, and yet, inexplicably, all the citizens vanished overnight, leaving only this ruin and a legendary treasure behind"
@@ -4010,7 +4010,7 @@
   splits:
   - split: 4
     text: "迦南遗址"
-    translated: "Canaanite Ruins"
+    translated: "Canaan Ruins"
   - split: 6
     text: "迦南城，曾经在沙漠中建立起来的繁华城市，迦南人每逢重要节日便会在夜晚时分在城市西南方举行祭典，因为他们相信西南方的星辰是力量之源，但不知为何突然之间迦南人全部失踪，只留下这一片废墟和传说中的珍宝。"
     translated: "The city of Gan Nai, once a bustling metropolis established in the desert, is known for its annual festival held every important holiday at night on the southwest side of the city. The people of Gan Nai believe that the stars to the southwest are the source of power, and yet, inexplicably, all the citizens vanished overnight, leaving only this ruin and a legendary treasure behind"
@@ -4018,7 +4018,7 @@
   splits:
   - split: 4
     text: "迦南遗址"
-    translated: "Canaanite Ruins"
+    translated: "Canaan Ruins"
   - split: 6
     text: "迦南城，曾经在沙漠中建立起来的繁华城市，迦南人每逢重要节日便会在夜晚时分在城市西南方举行祭典，因为他们相信西南方的星辰是力量之源，但不知为何突然之间迦南人全部失踪，只留下这一片废墟和传说中的珍宝。"
     translated: "The city of Gan Nai, once a bustling metropolis established in the desert, is known for its annual festival held every important holiday at night on the southwest side of the city. The people of Gan Nai believe that the stars to the southwest are the source of power, and yet, inexplicably, all the citizens vanished overnight, leaving only this ruin and a legendary treasure behind"
@@ -4026,7 +4026,7 @@
   splits:
   - split: 4
     text: "迦南遗址"
-    translated: "Canaanite Ruins"
+    translated: "Canaan Ruins"
   - split: 6
     text: "迦南城，曾经在沙漠中建立起来的繁华城市，迦南人每逢重要节日便会在夜晚时分在城市西南方举行祭典，因为他们相信西南方的星辰是力量之源，但不知为何突然之间迦南人全部失踪，只留下这一片废墟和传说中的珍宝。"
     translated: "The city of Gan Nai, once a bustling metropolis established in the desert, is known for its annual festival held every important holiday at night on the southwest side of the city. The people of Gan Nai believe that the stars to the southwest are the source of power, and yet, inexplicably, all the citizens vanished overnight, leaving only this ruin and a legendary treasure behind"
@@ -4885,7 +4885,7 @@
     translated: "Chu army"
   - split: 6
     text: "楚国大军屯住的大营,扼守江流要冲,南镇淮陵,北探枰栌,横可横行聚灵川,退可顺九曜津而下,在麓山书院和普贤门的支持下,抗拒燕国的长旌军"
-    translated: "The large encampment of the Chu Kingdom's main army was strategically positioned at a vital river crossing. It secured control over key points: to the south guarding Huailing and to the north reaching Pinglu. The forces could advance across Spirit Gathering River or, if needed, retreat via Nine Luminaries Crossing downstream. With support from Mount Lu Academy and Universal Virtue Gate, they were prepared to resist the Yan Kingdom's Long Standard Army."
+    translated: "The main camp of the Chu Kingdom's large army was stationed at a strategic encampment, controlling the vital waterways. They fortified deep in Huailing to the south and advanced as far north as Pinglu. From there, they could potentially traverse Spirit Gathering River or retreat down Nine Luminaries Crossing. With support from Mount Lu Academy and Universal Virtue Gate, they were prepared to resist the Long Banner Army of the Yan Kingdom."
 - raw: "612#94#1#569.066,0.100,889.278#楚军#0#楚国大军屯住的大营,扼守江流要冲,南镇淮陵,北探枰栌,横可横行聚灵川,退可顺九曜津而下,在麓山书院和普贤门的支持下,抗拒燕国的长旌军#0#0##"
   splits:
   - split: 4
@@ -4893,7 +4893,7 @@
     translated: "Chu army"
   - split: 6
     text: "楚国大军屯住的大营,扼守江流要冲,南镇淮陵,北探枰栌,横可横行聚灵川,退可顺九曜津而下,在麓山书院和普贤门的支持下,抗拒燕国的长旌军"
-    translated: "The large encampment of the Chu Kingdom's main army was strategically positioned at a vital river crossing. It secured control over key points: to the south guarding Huailing and to the north reaching Pinglu. The forces could advance across Spirit Gathering River or, if needed, retreat via Nine Luminaries Crossing downstream. With support from Mount Lu Academy and Universal Virtue Gate, they were prepared to resist the Yan Kingdom's Long Standard Army."
+    translated: "The main camp of the Chu Kingdom's large army was stationed at a strategic encampment, controlling the vital waterways. They fortified deep in Huailing to the south and advanced as far north as Pinglu. From there, they could potentially traverse Spirit Gathering River or retreat down Nine Luminaries Crossing. With support from Mount Lu Academy and Universal Virtue Gate, they were prepared to resist the Long Banner Army of the Yan Kingdom."
 - raw: "613#94#1#587.680,0.100,838.514#楚军#0#楚国大军屯住的大营,扼守江流要冲,南镇淮陵,北探枰栌,横可横行聚灵川,退可顺九曜津而下,在麓山书院和普贤门的支持下,抗拒燕国的长旌军#0#0##"
   splits:
   - split: 4
@@ -4901,7 +4901,7 @@
     translated: "Chu army"
   - split: 6
     text: "楚国大军屯住的大营,扼守江流要冲,南镇淮陵,北探枰栌,横可横行聚灵川,退可顺九曜津而下,在麓山书院和普贤门的支持下,抗拒燕国的长旌军"
-    translated: "The large encampment of the Chu Kingdom's main army was strategically positioned at a vital river crossing. It secured control over key points: to the south guarding Huailing and to the north reaching Pinglu. The forces could advance across Spirit Gathering River or, if needed, retreat via Nine Luminaries Crossing downstream. With support from Mount Lu Academy and Universal Virtue Gate, they were prepared to resist the Yan Kingdom's Long Standard Army."
+    translated: "The main camp of the Chu Kingdom's large army was stationed at a strategic encampment, controlling the vital waterways. They fortified deep in Huailing to the south and advanced as far north as Pinglu. From there, they could potentially traverse Spirit Gathering River or retreat down Nine Luminaries Crossing. With support from Mount Lu Academy and Universal Virtue Gate, they were prepared to resist the Long Banner Army of the Yan Kingdom."
 - raw: "614#94#1#553.937,0.100,727.262#楚军#0#楚国大军屯住的大营,扼守江流要冲,南镇淮陵,北探枰栌,横可横行聚灵川,退可顺九曜津而下,在麓山书院和普贤门的支持下,抗拒燕国的长旌军#0#0##"
   splits:
   - split: 4
@@ -4909,7 +4909,7 @@
     translated: "Chu army"
   - split: 6
     text: "楚国大军屯住的大营,扼守江流要冲,南镇淮陵,北探枰栌,横可横行聚灵川,退可顺九曜津而下,在麓山书院和普贤门的支持下,抗拒燕国的长旌军"
-    translated: "The large encampment of the Chu Kingdom's main army was strategically positioned at a vital river crossing. It secured control over key points: to the south guarding Huailing and to the north reaching Pinglu. The forces could advance across Spirit Gathering River or, if needed, retreat via Nine Luminaries Crossing downstream. With support from Mount Lu Academy and Universal Virtue Gate, they were prepared to resist the Yan Kingdom's Long Standard Army."
+    translated: "The main camp of the Chu Kingdom's large army was stationed at a strategic encampment, controlling the vital waterways. They fortified deep in Huailing to the south and advanced as far north as Pinglu. From there, they could potentially traverse Spirit Gathering River or retreat down Nine Luminaries Crossing. With support from Mount Lu Academy and Universal Virtue Gate, they were prepared to resist the Long Banner Army of the Yan Kingdom."
 - raw: "615#94#1#492.833,0.100,740.893#楚军#0#楚国大军屯住的大营,扼守江流要冲,南镇淮陵,北探枰栌,横可横行聚灵川,退可顺九曜津而下,在麓山书院和普贤门的支持下,抗拒燕国的长旌军#0#0##"
   splits:
   - split: 4
@@ -4917,7 +4917,7 @@
     translated: "Chu army"
   - split: 6
     text: "楚国大军屯住的大营,扼守江流要冲,南镇淮陵,北探枰栌,横可横行聚灵川,退可顺九曜津而下,在麓山书院和普贤门的支持下,抗拒燕国的长旌军"
-    translated: "The large encampment of the Chu Kingdom's main army was strategically positioned at a vital river crossing. It secured control over key points: to the south guarding Huailing and to the north reaching Pinglu. The forces could advance across Spirit Gathering River or, if needed, retreat via Nine Luminaries Crossing downstream. With support from Mount Lu Academy and Universal Virtue Gate, they were prepared to resist the Yan Kingdom's Long Standard Army."
+    translated: "The main camp of the Chu Kingdom's large army was stationed at a strategic encampment, controlling the vital waterways. They fortified deep in Huailing to the south and advanced as far north as Pinglu. From there, they could potentially traverse Spirit Gathering River or retreat down Nine Luminaries Crossing. With support from Mount Lu Academy and Universal Virtue Gate, they were prepared to resist the Long Banner Army of the Yan Kingdom."
 - raw: "616#97#1#556.375,0.100,1621.111#唐门#0#唐门是一个历史悠久、神秘莫测的门派，以其独特的暗器、机关和毒药技术闻名于世。内部组织严密，分为内外两门。内门由唐姓子弟组成，负责门派的核心事务和绝技的传承；外门则是外姓弟子，负责门派的日常运作和对外事务。唐门还设有多个堂，分别负责毒药配方与#0#0##"
   splits:
   - split: 4

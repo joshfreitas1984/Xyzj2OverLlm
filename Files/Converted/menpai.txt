@@ -205,7 +205,7 @@
   splits:
   - split: 2
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
   - split: 11
     text: "燕国将门世家。祖辈段承君曾协助年幼的燕国皇帝镇压藩王，稳定局势，并且封存了嘉和帝的秘藏并设定了一系列玄门发展的规则，才使得燕国没有走上人人沉迷修行，无人生产的衰景。而此之后段家也备受君王器重，成为燕国最为庞大的家族之一。只是随着燕国发展，燕国君王势力亦逐渐强大不再完全依附于段家势力，段家权力亦一再被削弱。但纵使如此，段家儿女依旧恪守家规，侍奉主君，不敢僭越。"
     translated: "The Segeng family of the Yan Kingdom is a distinguished military lineage. The ancestor, Du Chengjun, once assisted the young emperor of the Yan Kingdom in suppressing rebellious princes and stabilizing the situation. He also secured the hidden treasures of Emperor Jiahe and established a series of rules for the development of Xuanmen arts. This prevented the Yan Kingdom from descending into chaos where everyone was absorbed in cultivation with no one left to produce goods. Following this, the Segeng family was held in high regard by the kings and became one of the largest families in the Yan Kingdom. However, as the Yan Kingdom developed, the power of its kings also grew stronger, diminishing their reliance on the Segeng family's influence. As a result, the Segeng family's power was gradually weakened. Nevertheless, the children of the Segeng family continued to adhere strictly to their household rules and serve their sovereigns without overstepping their bounds."
@@ -403,7 +403,7 @@
   splits:
   - split: 2
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
   - split: 11
     text: "尧光谷自建谷以来便不喜江湖纷争，于普贤寺外偏安一偶。擅长手上功夫。门中修炼需看云舒云卷，观潮起潮落，修炼至高深处更需赏星河流转，见日月万千。自从闻人骏年接手掌门谷主之后对于管理愈加松散，常由太上长老典文君代为管理。"
     translated: "Since its founding, Yao Guang Valley has not been fond of Jianghu conflicts and has preferred a secluded existence outside the Pu Xian Temple. It excels in martial arts techniques. Cultivation within the valley requires observing cloud patterns‑expanding and contracting‑as well as monitoring the ebb and flow of tides. At the highest levels of cultivation, one must also appreciate the movement of the Milky Way and witness countless suns and moons. Since Rong Ren Jun took over as the Sect Leader, management has become increasingly lax, often being handled by Elder Cen Wenjun instead."
@@ -1000,7 +1000,7 @@
   splits:
   - split: 2
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
 - raw: "1220#1220#楚军#0#1#8|13#1#0#5000911|5000912|5000913|5000914#65020#0#0#0#0#0#"
   splits:
   - split: 2
@@ -1090,7 +1090,7 @@
   splits:
   - split: 2
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "1238#1238#福兴镖局#0#3#8|13#1#0#5000771|5000772|5000773|5000774|5000775#65038#0#0#0#0#0#"
   splits:
   - split: 2
@@ -1138,7 +1138,7 @@
   splits:
   - split: 2
     text: "誓盟碑"
-    translated: "Oath Alliance Monument"
+    translated: "Alliance Oath Monument"
   - split: 11
     text: "碑高约三丈，整块由一种罕见的青玉石雕琢而成，碑身所刻的文字深入骨髓，经岁月摧残而永不褪色，乃当初立誓讨魔所立，引得无数性情中人来此参拜。"
     translated: "The stele stands approximately three zhang tall and is entirely carved from a rare type of green jade stone. The inscriptions on the stele are deeply engraved, withstanding the ravages of time without fading, bearing witness to an ancient vow made to vanquish demons. This has drawn countless seekers to come here for worship."
@@ -1258,10 +1258,10 @@
   splits:
   - split: 2
     text: "合纵道"
-    translated: "Alliance Path"
+    translated: "Coalition Path"
   - split: 11
     text: "合纵道位于连横隘不远处。许多武林人物都将会在合纵道上相遇，纵谈武林，论理想。刀锋剑芒之下，无不浸透着一股让人心惊胆战的气息。曾有许多纵横家在这里浮现于前沿，试图对江湖与国家的格局造成决定性的影响。"
-    translated: "The Alliance Path is located not far from the United Front Pass. Many figures of Wulin will meet and discuss martial affairs or ideals here. Under blades and sword points, an atmosphere that makes one's heart race with fear permeates everything. Throughout history, many strategists have emerged on this frontline, seeking to decisively influence the layout of Jianghu and the nation."
+    translated: "The Coalition Path is located not far from the United Front Pass. Many martial artists often meet on the Coalition Path to discuss martial arts and ideals. Beneath the gleam of blades and swords, there's an unmistakable aura that sends shivers down one's spine. Throughout history, many strategists have emerged here at the forefront, attempting to decisively influence the dynamics of the Jianghu and the nation."
 - raw: "9017#9017#连横隘#0#0#0#0#0##0#0#连横隘，以其危险险峻的地形而著名，古为通衢大道，是通向中原的唯一通道，其它路程都必须绕路行进。这个独特的地理环境造就了连横隘变成了武林中最活跃的舞台之一。#0#0#3003#"
   splits:
   - split: 2
@@ -1314,7 +1314,7 @@
   splits:
   - split: 2
     text: "迦南遗址"
-    translated: "Canaanite Ruins"
+    translated: "Canaan Ruins"
   - split: 11
     text: "迦南城，曾经在沙漠中建立起来的繁华城市，迦南人每逢重要节日便会在夜晚时分在城市西南方举行祭典，因为他们相信西南方的星辰是力量之源，但不知为何突然之间迦南人全部失踪，只留下这一片废墟和传说中的珍宝。"
     translated: "Gan Nancheng, once a bustling city established in the desert, held its festivals on important occasions at night towards the southwest. The Gan'an people believed that the stars in this direction were the source of power. However, inexplicably, all of them vanished one day, leaving only ruins and tales of legendary treasures"
@@ -1610,10 +1610,10 @@
   splits:
   - split: 2
     text: "桂宫道"
-    translated: "Way of the Osmanthus Palace"
+    translated: "Osmanthus Palace Way"
   - split: 11
     text: "桂宫道"
-    translated: "Way of the Osmanthus Palace"
+    translated: "Osmanthus Palace Way"
 - raw: "9061#9061#雁州#0#0###0##0#0#雁州###3003#"
   splits:
   - split: 2
@@ -1637,7 +1637,7 @@
     translated: "Wanderers of the Jianghu"
   - split: 11
     text: "桂宫道"
-    translated: "Way of the Osmanthus Palace"
+    translated: "Osmanthus Palace Way"
 - raw: "10001#10001#白凤门#0#1#0#1#0#0#0#0#0#0#0#3003#"
   splits:
   - split: 2

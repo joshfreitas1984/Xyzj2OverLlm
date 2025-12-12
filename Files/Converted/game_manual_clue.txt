@@ -882,7 +882,7 @@
   splits:
   - split: 2
     text: "<color=&&00ff00ff>百殊刀</color>听闻在<color=&&00ff00ff>长旌军贡献堂主</color>身上可以获得。"
-    translated: "It is said that the <color=&&00ff00ff>Hundred Divergent Blades</color> can be obtained from the <color=&&00ff00ff>Long Standard Army Contribution Hall Master</color>."
+    translated: "It is said that the Hundred Divergent Blades can be obtained from the Contributions Hall Master of the Long Banner Army."
 - raw: "34121004#34121#<color=&&00ff00ff>八方藏刀诀</color>听闻在<color=&&00ff00ff>武馆教头（雁州）</color>身上可以获得。#1&3|34106|1;3|34100|1;3|34422|1;3|34109|1#0#0#"
   splits:
   - split: 2
@@ -1022,7 +1022,7 @@
   splits:
   - split: 2
     text: "惊武回风拳也许在迦南遗址里"
-    translated: "The Surprise Wind Returning Fist might also be found at the Canaanite Ruins."
+    translated: "Surprise Wind Returning Fist might also be found in the Canaan Ruins."
 - raw: "34303001#34303#在<color=&&00ff00ff>昭月宗贡献堂主</color>处有概率获得##0##"
   splits:
   - split: 2
@@ -1057,7 +1057,7 @@
   splits:
   - split: 2
     text: "在<color=&&00ff00ff>爻光谷贡献堂主</color>处有概率获得"
-    translated: "At the <color=&&00ff00ff>Light of Divination Valley Contribution Hall Master</color>, there is a chance to obtain."
+    translated: "At the <color=&&00ff00ff>Trigram Light Valley Contributions Hall Master</color>, there is a chance to receive."
 - raw: "34310001#34310#江湖游历中奇遇获得##0##"
   splits:
   - split: 2
@@ -1097,7 +1097,7 @@
   splits:
   - split: 2
     text: "在<color=&&00ff00ff>爻光谷</color>探索有概率获得"
-    translated: "Exploring the <color=&&00ff00ff>Light of Divination Valley</color> has a chance to yield results."
+    translated: "Exploring in <color=&&00ff00ff>Trigram Light Valley</color> has a chance to obtain."
 - raw: "34317001#34317#江湖游历中奇遇获得##0##"
   splits:
   - split: 2
@@ -1672,7 +1672,7 @@
   splits:
   - split: 2
     text: "<color=&&00ff00ff>杨家霸王枪</color>听闻在<color=&&00ff00ff>长旌军营地附近（718,1087）</color>处可以获得。"
-    translated: "The <color=&&00ff00ff>Yang Family Imperial Spear</color> is said to be obtainable at the <color=&&00ff00ff>Long Standard Army encampment nearby(718,1087)</color>."
+    translated: "The Yang Family's King Spear is said to be obtainable in the vicinity of <color=&&00ff00ff>Long Banner Army Camp (718,1087)</color>."
 - raw: "34480005#34480#<color=&&00ff00ff>锻武堪禅</color>听闻在<color=&&00ff00ff>嵩室山贡献堂主</color>身上可以获得。#1&3|34200|1;3|34215|1;3|34214|1;3|34205|1#0#0#"
   splits:
   - split: 2
@@ -2262,12 +2262,12 @@
   splits:
   - split: 2
     text: "将麻婆豆腐交给李味道之后,他传授给了我一个名为扫雪烹茶的秘法,<color=&&DEB887>并请求我们前往千奇坊寻找至尊皇帝炒饭配方的线索。</color>"
-    translated: "After Li Weidao received the Mapo Tofu, he passed on to me a secret technique called Sweeping Snow for Brewing Tea. <color=&&DEB887>He then requested that we seek clues for the Supreme Emperor Fried Rice recipe at Qianqi Hall.</color>"
+    translated: "After Li Weidao received the Mapo Tofu, he taught me a secret technique called Saoxue Pengcha. <color=&&DEB887>He then asked us to go to Thousand Wonders Workshop to find clues for the Supreme Emperor Fried Rice formula.</color>"
 - raw: "60024003#60024#在千奇坊一番调查之后,<color=&&DEB887>总算得知屈画似乎了解其中的一些事情。</color>#0&24|952977|1#0##"
   splits:
   - split: 2
     text: "在千奇坊一番调查之后,<color=&&DEB887>总算得知屈画似乎了解其中的一些事情。</color>"
-    translated: "After a thorough investigation in Qiqifang, <color=&&DEB887>it was finally discovered that Qu Hua seemed to know something about it.</color>"
+    translated: "After an investigation at the Thousand Wonders Workshop, it was finally discovered that Qu Hua seemed to know something about it. <color=&&DEB887></color>"
 - raw: "60024004#60024#屈画告诉我要想知道这些事情,<color=&&DEB887>只需要从他那里购买三个千机盒。</color>#0&24|952974|1#0##"
   splits:
   - split: 2

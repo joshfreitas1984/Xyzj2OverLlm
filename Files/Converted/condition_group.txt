@@ -202,7 +202,7 @@
   splits:
   - split: 5
     text: "在升仙湖采三株乌草"
-    translated: "Ascend to Mount Xian Lake and collect three stalks of Black Grass."
+    translated: "Collect three plants of Black Grass from the Immortal Ascent Lake."
 - raw: "1206#13#1#5411#13#将乌草交于李承誉#0#1205#3302#5411|989523#37001|3###0##13###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
@@ -367,7 +367,7 @@
   splits:
   - split: 5
     text: "准备好后返回长旌军营地"
-    translated: "Ready after preparations, return to the Long Standard Army camp."
+    translated: "Return to the Long Banner Army encampment once ready."
 - raw: "2302#13#1#15002#24#与段鸿鸣交谈#0#2301#1038#####0##22###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
@@ -657,7 +657,7 @@
   splits:
   - split: 5
     text: "回长旌军营地"
-    translated: "Return to the Long Standard Army encampment"
+    translated: "Return to the Long Banner Army camp"
 - raw: "4902#13#1#15014#50#询问王虎嘉和帝秘窟一事#0#4901#1084#####0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
@@ -5783,7 +5783,7 @@
   splits:
   - split: 5
     text: "根据藏宝图上的坐标指示，<color=&&8d5429>我确定宝藏的位置应该在升仙湖旁的小桥处。</color>"
-    translated: "According to the coordinates indicated on the treasure map, <color=&&8d5429>I am certain that the treasure's location should be at the small bridge beside the Shengxian Lake.</color>"
+    translated: "Based on the coordinates indicated on the treasure map, <color=&&8d5429>I am certain that the treasure's location should be at the small bridge next to Immortal Ascent Lake.</color>"
   - split: 16
     text: "拿取宝藏"
     translated: "Acquire the treasure"
@@ -5791,7 +5791,7 @@
   splits:
   - split: 5
     text: "根据藏宝图上的坐标指示，我确定宝藏的位置应该在升仙湖旁的小桥处。我按照指示来到那里，终于顺利地找到了宝藏，并将其成功取得。"
-    translated: "According to the coordinates on the treasure map, I determined that the treasure should be located near the Xianchuan Lake by a small bridge. Following the instructions, I arrived there and successfully found and retrieved the treasure"
+    translated: "According to the coordinates on the treasure map, I determined that the treasure should be located by the small bridge next to Immortal Ascent Lake. Following the instructions, I arrived at the location and successfully found and retrieved the treasure."
 - raw: "370701#20#1#0&30|972492|1#3707#司昌盛养了一条名叫二黄的狗，这只狗极为与众不同，尽管它是一只狗，却像一只猫一样喜爱吃鱼。<color=&&8d5429>它对草鱼、鲫鱼、鲤鱼、鲶鱼、香鱼的热爱让人觉得十分神奇。</color>#0##0#####0##0#去找二黄##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
@@ -6237,7 +6237,7 @@
   splits:
   - split: 5
     text: "在升仙湖的湖边，瞧见蒙浪倒在地上昏迷不醒，简单看了一下，<color=&&8d5429>救治蒙浪需要醒脑丸。</color>"
-    translated: "At the shores of Shengxian Lake, I saw Meng Lang lying unconscious on the ground. After a quick look, <color=&&8d5429>I realized that treating Meng Lang required awakening pills.</color>"
+    translated: "On the shore of Immortal Ascent Lake, I saw Meng Lang lying unconscious on the ground. After a quick look, <color=&&8d5429>I realized that treating Meng Lang required an awakening pill.</color>"
   - split: 16
     text: "救治蒙浪"
     translated: "Treating Master Meng Lang"
@@ -6245,7 +6245,7 @@
   splits:
   - split: 5
     text: "在升仙湖的湖边，瞧见蒙浪倒在地上昏迷不醒，简单看了一下，救治蒙浪需要高超的医术。"
-    translated: "At the shores of Shengxian Lake, I saw Mong Lang lying unconscious on the ground. A quick glance revealed that healing Mong Lang required exceptional medical skills"
+    translated: "At the edge of Immortal Ascent Lake, I saw Meng Lang lying unconscious on the ground. Upon a quick glance, it was clear that reviving Meng Lang would require superior medical skills."
 - raw: "372501#20#1#0&72|30520|30520001|1#3725#从万事通大叔发来的飞鸽传书中听说，有人在<color=&&8d5429>云鹤村的茅草堆</color>鬼鬼祟祟的不知道在做些什么。#0##3879#####0##0#去各个茅草堆瞧瞧##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
@@ -6529,20 +6529,20 @@
   splits:
   - split: 5
     text: "将麻婆豆腐交给李味道之后，他传授给了我一个名为扫雪烹茶的秘法，<color=&&8d5429>并请求我们前往千奇坊寻找至尊皇帝炒饭配方的线索。</color>"
-    translated: "After Li Weidao received the mapo tofu, he taught me a secret method called Sweeping Snow Brewed Tea. <color=&&8d5429>He requested that we go to Qiqi Hall in search of clues for the recipe of the Imperial Emperor Fried Rice.</color>"
+    translated: "After giving the Mapo Tofu to Li Weidao, he taught me a secret technique called Sweeping Snow Brew Tea. <color=&&8d5429>He then requested that we go to Thousand Wonders Workshop to find clues about the Supreme Emperor Fried Rice recipe.</color>"
   - split: 16
     text: "去千奇坊寻找至尊皇帝炒饭的线索"
-    translated: "Go to Qianqi Fang to find clues about the Emperor's Supreme Fried Rice"
+    translated: "Go to the Thousand Wonders Workshop to search for clues about the Emperor's Supreme Fried Rice."
 - raw: "380208#20#1#0&24|952977|1#3802#将麻婆豆腐交给李味道之后，他传授给了我一个名为扫雪烹茶的秘法，并请求我们前往千奇坊寻找至尊皇帝炒饭配方的线索。#0#380207#0#####0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "将麻婆豆腐交给李味道之后，他传授给了我一个名为扫雪烹茶的秘法，并请求我们前往千奇坊寻找至尊皇帝炒饭配方的线索。"
-    translated: "After Li Weidao received the Mapo Tofu, he imparted to me a secret technique called Sweeping Snow and Brewing Tea and requested that we go to Qiqi Fang in search of clues for the Supreme Emperor Fried Rice recipe"
+    translated: "After Li Weidao received the Mapo Tofu from me, he imparted to me a secret method called Sweeping Snow Brewing Tea and asked us to go to Thousand Wonders Workshop to find clues for the Imperial Supreme Fried Rice formula."
 - raw: "380209#20#1#0&24|952977|1#3802#在千奇坊一番调查之后，<color=&&8d5429>总算得知屈画似乎了解其中的一些事情。</color>#0##0#####0##0#去找屈画##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "在千奇坊一番调查之后，<color=&&8d5429>总算得知屈画似乎了解其中的一些事情。</color>"
-    translated: "After a thorough investigation by Qianqifang, <color=&&8d5429>it was finally discovered that Qu Hua seemed to know something about it.</color>"
+    translated: "After a thorough investigation at the Thousand Wonders Workshop, they finally found out that Qu Hua seemed to know something about it. <color=&&8d5429></color>"
   - split: 16
     text: "去找屈画"
     translated: "Go find Qu Hua"
@@ -6550,7 +6550,7 @@
   splits:
   - split: 5
     text: "在千奇坊一番调查之后，总算得知屈画似乎了解其中的一些事情。"
-    translated: "After a thorough investigation in Qiqifang, it was finally discovered that Qu Huasi seemed to have some knowledge about the matter"
+    translated: "After a thorough investigation at the Thousand Wonders Workshop, it was finally learned that Qu Hua seemed to have some knowledge of the matter."
 - raw: "380211#20#1#0&24|952974|1#3802#屈画告诉我要想知道这些事情，<color=&&8d5429>只需要从他那里购买三个千机盒。</color>#0##0#####0##0#购买三个千机盒后再询问屈画##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
@@ -25651,7 +25651,7 @@
   splits:
   - split: 5
     text: "前往困魔池"
-    translated: "Go to the Quelling Demon Pond"
+    translated: "Proceed to the Demon‑Trapping Pool"
 - raw: "200170041#19#1#861.020203,385.343048,1495.7655#20017#与老剑神对话#932776#200170031#0#####0#0#0#0#0#0#0#0#0#0#100106##155045&0##########"
   splits:
   - split: 5

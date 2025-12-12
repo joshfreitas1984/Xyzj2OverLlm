@@ -2162,7 +2162,7 @@
     translated: "The prize purse of the arena"
   - split: 24
     text: "新练就的枪法枪舞惊鸿，回风飒沓，没准还能与那长旌军一较高下！我不愧是这一届最优秀的弟子，现在便高价征五个{I}，下次擂台赛便以这些枪套作彩头！"
-    translated: "The newly mastered spear art and its dance‑like movements are breathtaking, with the wind swirling in a rush. It might even stand up to a test against the Long Standard Army! I do not disappoint as this generation's most outstanding disciple; now I will hire five of you at a high price, {I}, using these spear sets as rewards for the next tournament!"
+    translated: "The newly mastered spear technique and dance are breathtaking; the swirling winds suggest it might even match up to the Long Banner Army. As the most outstanding disciple of this generation, I'm now offering a high price for five {I}s, using these spears as prizes in the next tournament showdown!"
   - split: 34
     text: "获得{I}（{NeedItemInfoCount}/{N})"
     translated: "Obtained {I} ({NeedItemInfoCount}/{N})"
@@ -4306,7 +4306,7 @@
   splits:
   - split: 1
     text: "委托得出示道具段鸿鸣（长旌军）"
-    translated: "The commission requires the presentation of equipment by Duan Hongming (from the Long Standard Army)."
+    translated: "The commission requires presenting the item to Brother Duan Hongming (Long Banner Army)."
   - split: 34
     text: "到达目标点{GetZhiYingTargetPos}并观察周围（{IsCanFinish:0:1}/1）"
     translated: "Reach the target location {GetZhiYingTargetPos} and observe your surroundings ({IsCanFinish:0:1}/1)."
@@ -4348,7 +4348,7 @@
   splits:
   - split: 1
     text: "委托寻茶（长旌军江湖故事）"
-    translated: "Commission to Seek Tea (Long Standard Army Jianghu Tales)"
+    translated: "Commission to Search for Tea (Long Banner Army Jianghu Tales)"
   - split: 34
     text: "获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
     translated: "Obtained {I} ({HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
@@ -4362,7 +4362,7 @@
   splits:
   - split: 1
     text: "委托寻茶（长旌军江湖故事）"
-    translated: "Commission to Seek Tea (Long Standard Army Jianghu Tales)"
+    translated: "Commission to Search for Tea (Long Banner Army Jianghu Tales)"
   - split: 34
     text: "获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
     translated: "Obtained {I} ({HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
@@ -9496,7 +9496,7 @@
   splits:
   - split: 1
     text: "誓盟碑1"
-    translated: "Oath Alliance Monument 1"
+    translated: "Alliance Oath Monument 1"
   - split: 34
     text: "获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
     translated: "Obtained {I} ({HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
@@ -9507,7 +9507,7 @@
   splits:
   - split: 1
     text: "誓盟碑3"
-    translated: "Oath Alliance Monument 3"
+    translated: "Alliance Oath Monument 3"
   - split: 34
     text: "{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
     translated: "{WaitLifeSkillUseAttritypeName} {WaitLifeSkillUseAttritypeCount} times ({HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
@@ -10420,7 +10420,7 @@
   splits:
   - split: 1
     text: "拜访长旌军"
-    translated: "Visit the Long Standard Army"
+    translated: "Visit the Long Banner Army"
   - split: 34
     text: "与{E}交谈（{IsCanFinish:0:1}/1）"
     translated: "Converse with {E} ({IsCanFinish:0:1}/1)"
@@ -10429,7 +10429,7 @@
     translated: "Report to {A}"
   - split: 37
     text: "拜访长旌军"
-    translated: "Visit the Long Standard Army"
+    translated: "Visit the Long Banner Army"
 - raw: "360015#拜访楚军#1#1200#0#952156#952149#952147##65020|30####0#7001|2&7006|1#0##0#0#24#952153|75067#0##0##0##0#0#0##0#0#0#与{E}交谈（{IsCanFinish:0:1}/1）#回禀{A}#1#拜访楚军#0###0#0#"
   splits:
   - split: 1
@@ -10644,7 +10644,7 @@
   splits:
   - split: 1
     text: "拜访爻光谷"
-    translated: "Visit the Light of Divination Valley"
+    translated: "Visit Trigram Light Valley"
   - split: 34
     text: "与{E}交谈（{IsCanFinish:0:1}/1）"
     translated: "Converse with {E} ({IsCanFinish:0:1}/1)"
@@ -10653,7 +10653,7 @@
     translated: "Report to {A}"
   - split: 37
     text: "拜访爻光谷"
-    translated: "Visit the Light of Divination Valley"
+    translated: "Visit Trigram Light Valley"
 - raw: "360031#拜访福兴镖局#1#1200#0#952156#952149#952147##65038|30####0#7001|2&7006|1#0##0#0#24#952153|75123#0##0##0##0#0#0##0#0#0#与{E}交谈（{IsCanFinish:0:1}/1）#回禀{A}#1#拜访福兴镖局#0###0#0#"
   splits:
   - split: 1
@@ -15365,7 +15365,7 @@
   splits:
   - split: 1
     text: "莲花渡1"
-    translated: "Lotus Bridge 1"
+    translated: "Lotus Ferry 1"
   - split: 34
     text: "与{E}交谈（{IsCanFinish:0:1}/1）"
     translated: "Talk to {E} ({IsCanFinish:0:1}/1)"
@@ -15376,7 +15376,7 @@
   splits:
   - split: 1
     text: "莲花渡2"
-    translated: "Lotus Bridge 2"
+    translated: "Lotus Ferry 2"
   - split: 34
     text: "获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
     translated: "Obtained {I} ({HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
@@ -15387,7 +15387,7 @@
   splits:
   - split: 1
     text: "莲花渡3"
-    translated: "Lotus Bridge 3"
+    translated: "Lotus Ferry 3"
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1）"
     translated: "Ambush and Kill {E} ({IsCanFinish:0:1}/1)"
@@ -15398,7 +15398,7 @@
   splits:
   - split: 1
     text: "莲花渡4"
-    translated: "Lotus Bridge 4"
+    translated: "Lotus Ferry 4"
   - split: 34
     text: "与{E}交谈（{IsCanFinish:0:1}/1）"
     translated: "Talk to {E} ({IsCanFinish:0:1}/1)"
@@ -15409,7 +15409,7 @@
   splits:
   - split: 1
     text: "莲花渡5"
-    translated: "Lotus Bridge 5"
+    translated: "Lotus Ferry 5"
   - split: 34
     text: "获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
     translated: "Obtained {I} ({HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
@@ -15420,7 +15420,7 @@
   splits:
   - split: 1
     text: "莲花渡6"
-    translated: "Lotus Bridge to 6"
+    translated: "Lotus Ferry 6"
   - split: 34
     text: "与{E}交谈（{IsCanFinish:0:1}/1）"
     translated: "Talk to {E} ({IsCanFinish:0:1}/1)"
@@ -15431,7 +15431,7 @@
   splits:
   - split: 1
     text: "莲花渡7"
-    translated: "Lotus Bridge 7"
+    translated: "Lotus Ferry 7"
   - split: 34
     text: "获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
     translated: "Obtained {I} ({HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
@@ -15442,7 +15442,7 @@
   splits:
   - split: 1
     text: "莲花渡9"
-    translated: "Lotus Bridge 9"
+    translated: "Lotus Ferry 9"
   - split: 34
     text: "与{E}切磋并获胜（{WaitEntrustTargetNpcId:0:1}/1)"
     translated: "Sparring with {E} and emerging victorious ({WaitEntrustTargetNpcId:0:1}/1)"
@@ -15453,7 +15453,7 @@
   splits:
   - split: 1
     text: "莲花渡10"
-    translated: "Lotus Crossing 10"
+    translated: "Lotus Ferry 10"
   - split: 34
     text: "阅读｛I}｛N}次（{WaitEntrustTargetItemMatchCount}/{N})"
     translated: "Read {I}{N} times ({WaitEntrustTargetItemMatchCount}/{N})"
@@ -15464,7 +15464,7 @@
   splits:
   - split: 1
     text: "莲花渡11"
-    translated: "Lotus Bridge 11"
+    translated: "Lotus Ferry 11"
   - split: 34
     text: "与{E}切磋并获胜（{WaitEntrustTargetNpcId:0:1}/1)"
     translated: "Sparring with {E} and emerging victorious ({WaitEntrustTargetNpcId:0:1}/1)"
@@ -15475,7 +15475,7 @@
   splits:
   - split: 1
     text: "莲花渡12"
-    translated: "Lotus Crossing 12"
+    translated: "Lotus Ferry 12"
   - split: 34
     text: "{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
     translated: "{WaitLifeSkillUseAttritypeName}: Wait {WaitLifeSkillUseAttritypeCount} times ({HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
@@ -16474,7 +16474,7 @@
   splits:
   - split: 1
     text: "长旌军1"
-    translated: "Long Standard Army 1"
+    translated: "Long Banner Army 1"
   - split: 34
     text: "获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
     translated: "Obtained {I} ({HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
@@ -16485,7 +16485,7 @@
   splits:
   - split: 1
     text: "长旌军2"
-    translated: "Long Standard Army 2"
+    translated: "Long Banner Army 2"
   - split: 34
     text: "获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
     translated: "Obtained {I} ({HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
@@ -16496,7 +16496,7 @@
   splits:
   - split: 1
     text: "长旌军3"
-    translated: "Long Standard Army 3"
+    translated: "Long Banner Army 3"
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1）"
     translated: "Ambush and Kill {E} ({IsCanFinish:0:1}/1)"
@@ -16507,7 +16507,7 @@
   splits:
   - split: 1
     text: "长旌军4"
-    translated: "Long Standard Army 4"
+    translated: "Long Banner Army 4"
   - split: 34
     text: "与{E}交谈（{IsCanFinish:0:1}/1）"
     translated: "Talk to {E} ({IsCanFinish:0:1}/1)"
@@ -16518,7 +16518,7 @@
   splits:
   - split: 1
     text: "长旌军5"
-    translated: "Long Standard Army 5"
+    translated: "Long Banner Army 5"
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1）"
     translated: "Ambush and Kill {E} ({IsCanFinish:0:1}/1)"
@@ -17089,7 +17089,7 @@
   splits:
   - split: 1
     text: "长旌军悬赏"
-    translated: "Long Standard Army offers a reward"
+    translated: "Long Banner Army Rewards Announcement"
   - split: 24
     text: "维护世间太平，乃军伍之中不二之选，故发布此令通缉江洋大盗{E}。"
     translated: "To maintain peace in the world, he is an unparalleled choice among the ranks of the army. Therefore, this edict is issued to apprehend the notorious bandit {E}."
@@ -17103,7 +17103,7 @@
   splits:
   - split: 1
     text: "长旌军悬赏"
-    translated: "Long Standard Army offers a reward"
+    translated: "Long Banner Army Rewards Announcement"
   - split: 24
     text: "正所谓兵马未动，粮草先行，特征些{I}供军中使用。"
     translated: "As it is often said, When troops are not yet mobilized, logistics must move first. To this end, a certain amount of {I} has been provided for use in the military."
@@ -17117,7 +17117,7 @@
   splits:
   - split: 1
     text: "长旌军悬赏"
-    translated: "Long Standard Army offers a reward"
+    translated: "Long Banner Army Rewards Announcement"
   - split: 24
     text: "军中机密过多，常记录在{I}中，前些时日军中着火失了窃，其中就有{I}，经查明在{E}手中，特寻英杰夺回，若是落到穆特手中，少不得又是一番腥风血雨！"
     translated: "There are too many military secrets, often recorded in {I}. Recently, a fire broke out at the camp and several were lost to theft, including {I}. It has been confirmed that they are now in the hands of {E}. We urgently seek brave heroes to recover them. If they fall into Mu Te's hands, it will inevitably lead to another round of bloodshed!"
@@ -17131,7 +17131,7 @@
   splits:
   - split: 1
     text: "长旌军悬赏"
-    translated: "Long Standard Army offers a reward"
+    translated: "Long Banner Army Rewards Announcement"
   - split: 24
     text: "{E}手中的{I}，对于我军来说有大用，因此请人夺来{I}。"
     translated: "The {I} in {E}'s hands is very useful for our army, so please have someone seize it from {I}."
@@ -17145,7 +17145,7 @@
   splits:
   - split: 1
     text: "长旌军悬赏"
-    translated: "Long Standard Army offers a reward"
+    translated: "Long Banner Army Rewards Announcement"
   - split: 24
     text: "军中尚武之风尤盛，本月冠军{E}特寻豪杰与他切磋。"
     translated: "The martial spirit within the military is particularly strong this month. The champion {E} has specifically sought out a hero to spar with him."
@@ -24409,7 +24409,7 @@
     translated: "What remains?"
   - split: 24
     text: "常来莲花渡作恶的{E}身受重伤，我桃花坞已查明其所在之处，请天下英雄豪杰共除之。"
-    translated: "The villainous {E}, who frequently commits evil deeds at Lotus Blossom Ferry, has been severely injured. Peach Blossom Cove has located their whereabouts, and we call upon heroes from across the land to join forces in eliminating them."
+    translated: "The villainous {E}, who often came to Lotus Ferry to cause trouble and was severely injured, has been located by Peach Blossom Cove. We seek the assistance of heroes from all over the world to eliminate him together."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
     translated: "Raid Kill {E} ({IsCanFinish:0:1}/1)"

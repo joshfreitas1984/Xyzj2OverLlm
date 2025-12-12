@@ -567,7 +567,7 @@
   splits:
   - split: 1
     text: "长旌军-据点"
-    translated: "Long Standard Army ‑ Outpost"
+    translated: "Long Banner Army ‑ Outpost"
 - raw: "1020#楚军-据点#1#0#92120#KONG#5008#3#0#0##0#0#0#0#1#1#0#0#YunXiaoDian##-1#"
   splits:
   - split: 1
@@ -657,7 +657,7 @@
   splits:
   - split: 1
     text: "爻光谷-据点"
-    translated: "Light of Divination Valley ‑ Outpost"
+    translated: "Trigram Light Valley ‑ Outpost"
 - raw: "1038#福兴镖局-据点#1#0#92138#KONG#5008#3#0#0##0#0#0#0#1#1#0#0#YunXiaoDian##-1#"
   splits:
   - split: 1
@@ -717,7 +717,7 @@
   splits:
   - split: 1
     text: "誓盟碑-据点"
-    translated: "Oath Alliance Monument ‑ Outpost"
+    translated: "Alliance Oath Monument ‑ Outpost"
 - raw: "1050#四圣峰-据点#1#0#92150#KONG#5008#3#0#0##0#0#0#0#1#1#0#0#YunXiaoDian##-1#"
   splits:
   - split: 1
@@ -792,7 +792,7 @@
   splits:
   - split: 1
     text: "合纵道-据点"
-    translated: "Alliance Path ‑ Outpost"
+    translated: "Coalition Path ‑ Outpost"
 - raw: "1065#连横隘-据点#1#0#92165#KONG#5008#3#0#0##0#0#0#0#1#1#0#0#YunXiaoDian##-1#"
   splits:
   - split: 1
@@ -822,7 +822,7 @@
   splits:
   - split: 1
     text: "迦南遗址-据点"
-    translated: "Canaanite Ruins ‑ Outpost"
+    translated: "Canaan Ruins ‑ Outpost"
 - raw: "1071#星陨荒-据点#1#0#92171#KONG#5008#3#0#0##0#0#0#0#1#1#0#0#YunXiaoDian##-1#"
   splits:
   - split: 1
@@ -987,7 +987,7 @@
   splits:
   - split: 1
     text: "桂宫道-据点"
-    translated: "Way of the Osmanthus Palace ‑ Outpost"
+    translated: "Osmanthus Palace Way ‑ Outpost"
 - raw: "2001#昌瑞楼#1#22#96001#ChangRuiLou#77019#64#8#480##2#0#0#0#0#1##0#ChangRuiLou#矗立宗门之巅，巍峨壮观，如日中天。庆典灯火辉煌，映照四方，彰显宗门荣耀。主要负责发展繁荣，<color=FFD700>能够指派弟子完成任务提升门派繁荣。</color>#1#"
   splits:
   - split: 1
@@ -1849,17 +1849,17 @@
   splits:
   - split: 1
     text: "桂宫道-煤场"
-    translated: "Way of the Osmanthus Palace ‑ Coal Yard"
+    translated: "Osmanthus Palace Way ‑ Coal Yard"
 - raw: "5055#桂宫道-农田#10#34#96155#KONG#77019#64#8#480##2#8#75#2#1#6#26#16#NongTian##2#"
   splits:
   - split: 1
     text: "桂宫道-农田"
-    translated: "Way of the Osmanthus Palace ‑ Crop field."
+    translated: "Osmanthus Palace Way ‑ Crop Field"
 - raw: "5056#桂宫道-铜矿场#10#34#96156#KONG#77019#64#8#480##2#10#45#2#1#6#30#9#KuangChang##2#"
   splits:
   - split: 1
     text: "桂宫道-铜矿场"
-    translated: "Way of the Osmanthus Palace ‑ Copper mine."
+    translated: "Osmanthus Palace Way ‑ Copper Mine"
 - raw: "5057#合气岛-草药园#10#34#96157#KONG#77019#64#8#480##2#9#60#2#1#6#27#13#CaoYaoYuan##2#"
   splits:
   - split: 1
@@ -1879,17 +1879,17 @@
   splits:
   - split: 1
     text: "合纵道-棉花田"
-    translated: "Alliance Path ‑ Cotton Field"
+    translated: "Coalition Path ‑ Cotton Field"
 - raw: "5061#合纵道-人参园#10#34#96161#KONG#77019#64#8#480##2#9#60#2#1#6#27#13#RenShengYuan##2#"
   splits:
   - split: 1
     text: "合纵道-人参园"
-    translated: "Alliance Path ‑ Ginseng Garden"
+    translated: "Coalition Path ‑ Ginseng Garden"
 - raw: "5062#合纵道-石料厂#10#34#96162#KONG#77019#64#8#480##2#77020#10#1#1#9##0#KuangChang##2#"
   splits:
   - split: 1
     text: "合纵道-石料厂"
-    translated: "Alliance Path ‑ Stone Quarry"
+    translated: "Coalition Path ‑ Stone Quarry"
 - raw: "5063#黑沙寨-锯木厂#10#34#96163#KONG#77019#64#8#480##2#77019#8#1#1#9##0#JuMuChang##2#"
   splits:
   - split: 1
@@ -1954,17 +1954,17 @@
   splits:
   - split: 1
     text: "迦南遗址-锯木厂"
-    translated: "Canaanite Ruins ‑ Sawmill"
+    translated: "Canaan Ruins ‑ Sawmill"
 - raw: "5076#迦南遗址-人参园#10#34#96176#KONG#77019#64#8#480##2#9#60#2#1#6#27#13#RenShengYuan##2#"
   splits:
   - split: 1
     text: "迦南遗址-人参园"
-    translated: "Canaanite Ruins ‑ Ginseng Garden"
+    translated: "Canaan Ruins ‑ Ginseng Garden"
 - raw: "5077#迦南遗址-铜矿场#10#34#96177#KONG#77019#64#8#480##2#10#45#2#1#6#30#9#KuangChang##2#"
   splits:
   - split: 1
     text: "迦南遗址-铜矿场"
-    translated: "Canaanite Ruins ‑ Copper Mine"
+    translated: "Canaan Ruins ‑ Copper Mine"
 - raw: "5078#九曜津-锯木厂#10#34#96178#KONG#77019#64#8#480##2#77019#8#1#1#9##0#JuMuChang##2#"
   splits:
   - split: 1
@@ -2509,17 +2509,17 @@
   splits:
   - split: 1
     text: "誓盟碑-锯木厂"
-    translated: "Oath Alliance Monument ‑ Sawmill"
+    translated: "Alliance Oath Monument ‑ Sawmill"
 - raw: "5187#誓盟碑-人参园#10#34#96287#KONG#77019#64#8#480##2#9#60#2#1#6#27#13#RenShengYuan##2#"
   splits:
   - split: 1
     text: "誓盟碑-人参园"
-    translated: "Oath Alliance Monument ‑ Ginseng Garden"
+    translated: "Alliance Oath Monument ‑ Ginseng Garden"
 - raw: "5188#誓盟碑-珠宝坊#10#34#96288#KONG#77019#64#8#480##2#8#75#2#1#6#25#16#ZhuBaoFang##2#"
   splits:
   - split: 1
     text: "誓盟碑-珠宝坊"
-    translated: "Oath Alliance Monument ‑ Jewelry Workshop"
+    translated: "Alliance Oath Monument ‑ Jewelry Workshop"
 - raw: "5189#双修府-炼丹坊#10#34#96289#KONG#77019#64#8#480##2#9#60#2#1#6#27#13#LianDanFang##2#"
   splits:
   - split: 1
@@ -2869,17 +2869,17 @@
   splits:
   - split: 1
     text: "爻光谷-草药园"
-    translated: "Light of Divination Valley ‑ Herb Garden"
+    translated: "Trigram Light Valley ‑ Herb Garden"
 - raw: "5259#爻光谷-农田#10#34#96359#KONG#77019#64#8#480##2#8#75#2#1#6#26#16#NongTian##2#"
   splits:
   - split: 1
     text: "爻光谷-农田"
-    translated: "Light of Divination Valley ‑ Crop field"
+    translated: "Trigram Light Valley ‑ Crop Field"
 - raw: "5260#爻光谷-石料厂#10#34#96360#KONG#77019#64#8#480##2#77020#10#1#1#9##0#KuangChang##2#"
   splits:
   - split: 1
     text: "爻光谷-石料厂"
-    translated: "Light of Divination Valley ‑ Stone Quarry"
+    translated: "Trigram Light Valley ‑ Stone Quarry"
 - raw: "5261#遥雪峰-草药园#10#34#96361#KONG#77019#64#8#480##2#9#60#2#1#6#27#13#CaoYaoYuan##2#"
   splits:
   - split: 1
@@ -3004,17 +3004,17 @@
   splits:
   - split: 1
     text: "长旌军-锯木厂"
-    translated: "Long Standard Army ‑ Sawmill"
+    translated: "Long Banner Army ‑ Sawmill"
 - raw: "5286#长旌军-牧场#10#34#96386#KONG#77019#64#8#480##2#8#75#2#1#6#26#16#MuChang##2#"
   splits:
   - split: 1
     text: "长旌军-牧场"
-    translated: "Long Standard Army ‑ Pasture"
+    translated: "Long Banner Army ‑ Pasture"
 - raw: "5287#长旌军-胭脂坊#10#34#96387#KONG#77019#64#8#480##2#8#75#2#1#6#25#16#YanZhi##2#"
   splits:
   - split: 1
     text: "长旌军-胭脂坊"
-    translated: "Long Standard Army ‑ Cosmetic Workshop"
+    translated: "Long Banner Army ‑ Cosmetic Workshop"
 - raw: "5288#昭月宗-煤场#10#34#96388#KONG#77019#64#8#480##2#10#45#2#1#6#30#9#KuangChang##2#"
   splits:
   - split: 1

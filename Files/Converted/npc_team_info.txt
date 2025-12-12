@@ -92,7 +92,7 @@
   splits:
   - split: 1
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
 - raw: "20#楚军#"
   splits:
   - split: 1
@@ -182,7 +182,7 @@
   splits:
   - split: 1
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "38#福兴镖局#"
   splits:
   - split: 1

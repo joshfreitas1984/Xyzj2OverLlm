@@ -7,7 +7,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "3#2090#2110#望尘客栈#0#0#1000#10#1010#"
   splits:
   - split: 3
@@ -172,7 +172,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "36#2090#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -277,7 +277,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "64#2094#2101#云潇山庄#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -392,7 +392,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "87#2094#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -492,7 +492,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "114#2095#2101#云潇山庄#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -607,7 +607,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "137#2095#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -707,7 +707,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "164#2097#2101#云潇山庄#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -822,7 +822,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "187#2097#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -897,7 +897,7 @@
   splits:
   - split: 3
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
 - raw: "208#2096#2094#枰栌南###1000#13#1013#"
   splits:
   - split: 3
@@ -1077,7 +1077,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "244#2096#55223#不夜京###1000#13#1013#"
   splits:
   - split: 3
@@ -1122,7 +1122,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "258#2098#2090#云鹤村#0#0#1000#18#1018#"
   splits:
   - split: 3
@@ -1247,7 +1247,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "283#2098#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -1342,7 +1342,7 @@
   splits:
   - split: 3
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
 - raw: "308#2099#2094#枰栌南###1000#13#1013#"
   splits:
   - split: 3
@@ -1517,7 +1517,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "343#2099#55223#不夜京###1000#6#1006#"
   splits:
   - split: 3
@@ -1562,7 +1562,7 @@
   splits:
   - split: 3
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
 - raw: "358#2100#2094#枰栌南###1000#12#1012#"
   splits:
   - split: 3
@@ -1742,7 +1742,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "394#2100#55223#不夜京###1000#7#1007#"
   splits:
   - split: 3
@@ -1887,7 +1887,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "428#2101#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -1912,7 +1912,7 @@
   splits:
   - split: 3
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
 - raw: "433#2101#2095#枰栌西###1000#12#1012#"
   splits:
   - split: 3
@@ -2132,7 +2132,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "483#2102#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -2152,7 +2152,7 @@
   splits:
   - split: 3
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
 - raw: "487#2102#2096#枰栌北###1000#10#1010#"
   splits:
   - split: 3
@@ -2342,7 +2342,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "532#2103#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -2367,7 +2367,7 @@
   splits:
   - split: 3
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
 - raw: "537#2103#2096#枰栌北###1000#12#1012#"
   splits:
   - split: 3
@@ -2562,7 +2562,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "582#2104#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -2587,7 +2587,7 @@
   splits:
   - split: 3
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
 - raw: "587#2104#2096#枰栌北###1000#4#1004#"
   splits:
   - split: 3
@@ -2667,7 +2667,7 @@
   splits:
   - split: 3
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
 - raw: "609#2105#2094#枰栌南###1000#12#1012#"
   splits:
   - split: 3
@@ -2842,7 +2842,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "644#2105#55223#不夜京###1000#7#1007#"
   splits:
   - split: 3
@@ -2917,7 +2917,7 @@
   splits:
   - split: 3
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
 - raw: "664#2106#2096#枰栌北###1000#12#1012#"
   splits:
   - split: 3
@@ -3067,7 +3067,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "694#2106#55223#不夜京###1000#4#1004#"
   splits:
   - split: 3
@@ -3092,7 +3092,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "705#2107#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
@@ -3282,7 +3282,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "743#2107#55223#不夜京###1000#4#1004#"
   splits:
   - split: 3
@@ -3307,7 +3307,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "754#2092#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
@@ -3457,7 +3457,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "784#2092#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -3672,7 +3672,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "834#2108#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -3692,7 +3692,7 @@
   splits:
   - split: 3
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
 - raw: "838#2108#2096#枰栌北###1000#4#1004#"
   splits:
   - split: 3
@@ -3892,7 +3892,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "884#2109#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -3912,7 +3912,7 @@
   splits:
   - split: 3
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
 - raw: "888#2109#2096#枰栌北###1000#4#1004#"
   splits:
   - split: 3
@@ -4117,7 +4117,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "935#2110#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -4137,7 +4137,7 @@
   splits:
   - split: 3
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
 - raw: "939#2110#2096#枰栌北###1000#19#1019#"
   splits:
   - split: 3
@@ -4227,7 +4227,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "964#2111#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -4342,7 +4342,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "987#2111#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -4392,7 +4392,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "1004#2091#2094#枰栌南#0#0#1000#1#1001#"
   splits:
   - split: 3
@@ -4562,7 +4562,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "1038#2091#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -4772,7 +4772,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "1087#2093#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -4877,7 +4877,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "1115#55201#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -4987,7 +4987,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "1137#55201#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -5092,7 +5092,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "1165#55202#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -5202,7 +5202,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "1187#55202#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -5307,7 +5307,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "1215#55203#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -5417,7 +5417,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "1237#55203#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -5527,7 +5527,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "1266#55204#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -5637,7 +5637,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "1288#55204#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -5742,7 +5742,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "1315#55205#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -5852,7 +5852,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "1337#55205#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -5957,7 +5957,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "1365#55206#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -6067,7 +6067,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "1387#55206#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -6172,7 +6172,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "1415#55207#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -6282,7 +6282,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "1437#55207#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -6387,7 +6387,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "1465#55208#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -6497,7 +6497,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "1487#55208#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -6602,7 +6602,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "1515#55209#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -6712,7 +6712,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "1537#55209#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -6817,7 +6817,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "1565#55210#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -6927,7 +6927,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "1587#55210#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -7032,7 +7032,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "1615#55211#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -7142,7 +7142,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "1637#55211#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -7247,7 +7247,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "1665#55212#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -7357,7 +7357,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "1687#55212#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -7462,7 +7462,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "1715#55213#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -7572,7 +7572,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "1737#55213#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -7677,7 +7677,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "1765#55214#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -7787,7 +7787,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "1787#55214#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -7892,7 +7892,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "1815#55215#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -8002,7 +8002,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "1837#55215#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -8107,7 +8107,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "1865#55216#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -8217,7 +8217,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "1887#55216#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -8322,7 +8322,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "1915#55217#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -8432,7 +8432,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "1937#55217#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -8537,7 +8537,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "1965#55218#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -8647,7 +8647,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "1987#55218#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -8752,7 +8752,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "2015#55219#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -8862,7 +8862,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "2037#55219#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -8967,7 +8967,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "2065#55220#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -9077,7 +9077,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "2087#55220#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -9182,7 +9182,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "2115#55221#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -9292,7 +9292,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "2137#55221#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -9397,7 +9397,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "2165#55222#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -9612,7 +9612,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "2215#55223#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -9727,7 +9727,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "2238#55223#2092#御虚门###1000#19#1019#"
   splits:
   - split: 3
@@ -9827,7 +9827,7 @@
   splits:
   - split: 3
     text: "长旌军营地"
-    translated: "Long Standard Army Camp"
+    translated: "Long Banner Army encampment"
 - raw: "2265#55224#2100#云潇码头#0#0#1000#13#1013#"
   splits:
   - split: 3
@@ -9942,7 +9942,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "2288#55224#55223#不夜京#0#0#1000#9#1009#"
   splits:
   - split: 3
@@ -10317,7 +10317,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "2372#55225#55223#不夜京###1000#12#1012#"
   splits:
   - split: 3
@@ -10347,7 +10347,7 @@
   splits:
   - split: 3
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
 - raw: "2378#55225#2094#枰栌南###1000#17#1017#"
   splits:
   - split: 3

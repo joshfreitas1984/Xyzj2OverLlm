@@ -1299,7 +1299,7 @@
     translated: "Divine Craft Map · Volume Four Formulae"
   - split: 41
     text: "云潇山庄护法弟子(617,616)处有机会获得|可在爻光谷贡献堂主处,内门弟子一栏购买"
-    translated: "The disciple of the protector at Cloudy Breeze Mountain Villa has an opportunity to obtain (617,616).|Purchases can be made under the column for inner disciples at the Contribution Hall Master in the Light of Divination Valley."
+    translated: "A disciple of the Cloudy Breeze Mountain Villa Guardian has an opportunity at (617,616).|You can purchase the Inner Gate Disciple entry at the Contribution Hall Master's location in Trigram Light Valley."
 - raw: "1190#天工图谱·卷五配方#4#7#14#15#11233#99999#0#1#0#0#peifang#1190#0#3190#0#3600#0#####0#0#0#0#0#0###1|1000&2|1000&3|1000&4|1000&5|1000&6|1000&7|1000&8|1000&9|1000&10|1000&11|1000&42|1000&43|1000#0##0&18|1|52|550|>=#0##0#0#0#0#素怀(757,1309),素怀(757,1309),捭阖地宫宝箱(1281,1063)处有机会获得|可在信陵宗贡献堂主处,关门弟子一栏购买#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -1339,7 +1339,7 @@
     translated: "Cen Hui San's prescription formula"
   - split: 41
     text: "长旌军叛军(762,1030)处有机会获得"
-    translated: "The Long Standard Army rebel forces at location (762,1030) have an opportunity to obtain."
+    translated: "The rebels of the Long Banner Army have an opportunity at location (762,1030)."
 - raw: "1195#昔远光散配方#4#7#12#12#670#99999#0#1#0#0#peifang#1195#0#3195#0#3600#0#####0#0#0#0#0#0####0##0&18|1|50|100|>=#0##0#0#0#0#楚军守备兵(533,695)处有机会获得#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -1591,7 +1591,7 @@
     translated: "Simple street‑stir‑fried mix recipe"
   - split: 41
     text: "长旌军叛军(762,1030)处有机会获得"
-    translated: "The Long Standard Army rebel forces at location (762,1030) have an opportunity to obtain."
+    translated: "The rebels of the Long Banner Army have an opportunity at location (762,1030)."
 - raw: "1231#乌玉饺子配方#4#7#12#13#838#99999#0#1#0#0#peifang#1231#0#3231#0#3600#0#####0#0#0#0#0#0####0##0&18|1|55|250|>=#0##0#0#0#0#御虚门试炼弟子(496,1189)处有机会获得#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -2163,7 +2163,7 @@
     translated: "Song Yue Jiu Recipe"
   - split: 41
     text: "九天神女(273,1516)处有机会获得|可在长旌军贡献堂主处,关门弟子一栏购买"
-    translated: "There is an opportunity to acquire the Nine Heavens Divine Maiden (273,1516).|You can purchase the Closed‑door Disciple entry at the Contribution Hall Master of the Long Standard Army."
+    translated: "There is a chance to obtain (273,1516) at the Nine Heavens Goddess's place.|You can purchase under the Disciple of a Closed Door column at the Contribution Hall Master's office in the Long Banner Army."
 - raw: "1307#益寄春配方#4#7#14#16#7018#99999#0#1#0#0#peifang#1307#0#3307#0#3600#0#####0#0#0#0#0#0####0##0&18|1|54|700|>=#0##0#0#0#0#云未央(607,625)处有机会获得|可在长旌军贡献堂主处,亲传弟子一栏购买#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -2171,7 +2171,7 @@
     translated: "Yi Ji Chun Prescription"
   - split: 41
     text: "云未央(607,625)处有机会获得|可在长旌军贡献堂主处,亲传弟子一栏购买"
-    translated: "There may be opportunities in (607,625)|You can purchase an apprentice under the direct transmission category at the Contribution Hall Master's office of the Long Standard Army."
+    translated: "There is a chance to obtain it at Yun Weiyang's (607,625).|Purchase under the Direct Disciple column at the Contributions Hall Master of the Long Banner Army."
 - raw: "1308#宣朗酒配方#4#7#14#16#7018#99999#0#1#0#0#peifang#1308#0#3308#0#3600#0#####0#0#0#0#0#0####0##0&89|7305#0##0#0#0#0#洛煜齐(1248,752)处有机会获得|可在长旌军贡献堂主处,亲传弟子一栏购买#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -2179,7 +2179,7 @@
     translated: "Explosive Elixir recipe by Xuan Lang"
   - split: 41
     text: "洛煜齐(1248,752)处有机会获得|可在长旌军贡献堂主处,亲传弟子一栏购买"
-    translated: "Luo Yu has the opportunity to obtain something at (1248,752).|You can purchase the Directly Inherited Disciple slot at the Contribution Hall Master of the Long Standard Army."
+    translated: "Luoyu Qi has a chance to obtain at location (1248,752).|You can purchase the disciple under direct transmission at the Contributions Hall Master of the Long Banner Army."
 - raw: "1309#旷芳泽配方#4#7#14#16#7018#99999#0#1#0#0#peifang#1309#0#3309#0#3600#0#####0#0#0#0#0#0####0##0&18|1|54|700|>=#0##0#0#0#0#唐宁罕(429,1236)处有机会获得|可在流云镖局贡献堂主处,内门弟子一栏购买#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -3327,7 +3327,7 @@
     translated: "Copper mine"
   - split: 41
     text: "可在升仙湖、云鹤村、西域王、穆特前线、昭月宗、凌云宗、迦南遗址采集"
-    translated: "Can be collected at Heavenly Lake, Cloud Crane Village, King of the Western Regions, Mu Te Frontline, Bright Moon Clan, Soaring Clouds Sect, and Canaanite Ruins."
+    translated: "You can collect at Immortal Ascent Lake, Cloud Crane Village, Western King, Mu Te Frontline, Bright Moon Clan, Soaring Clouds Sect, and Canaan Ruins."
 - raw: "5002#铁矿#3#2#10#10#30#99999#0#1#0#0#tie_4#5002#0#7002#0#3600#0##7&2#11&2|3#DAOJU#0#0#0#8602#1#1###all#0###0##1|8423000#0#0#45058|45031|45054|45055|45002|45012|45021|45022|45032|45056|45057|45001|45011#可在升仙湖、云鹤村、天门山、合纵道、捭阖谷、连横隘、星陨荒东采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -3335,7 +3335,7 @@
     translated: "Iron Ore"
   - split: 41
     text: "可在升仙湖、云鹤村、天门山、合纵道、捭阖谷、连横隘、星陨荒东采集"
-    translated: "You can collect in the eastern regions of Ascend to Heaven Lake, Cloud Crane Village, Heavenly Gate Mountain, Alliance Path, Baihe Valley, United Front Pass, and Starfall Wasteland."
+    translated: "You can gather in the east at Immortal Ascent Lake, Cloud Crane Village, Heavenly Gate Mountain, Coalition Path, Baihe Valley, United Front Pass, and Starfall Wasteland."
 - raw: "5003#锡矿#3#2#10#10#30#99999#0#1#0#0#new2_xikuang#5003#0#7003#0#3600#0##7&2#11&2|3#DAOJU#0#0#0#8603#1#1###all#0###0##1|8423000#0#0#49002|49022#可在云鹤村、龙蛇寨、朔海派、拂松门、遥雪峰采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -3383,7 +3383,7 @@
     translated: "Borax"
   - split: 41
     text: "可在登天流、雁州城、长旌军、伊宁镇、黑沙寨、不周岭、贪狼道采集"
-    translated: "You can collect in the Heavenly Ascent Sect, Yan Prefecture City, Long Standard Army, Yining Town, Black Sand Stronghold, Unbroken Ridge, and Greedy Wolf Path."
+    translated: "Gather at the Heavenly Ascent Sect, Yan Prefecture City, Long Banner Army, Yining Town, Black Sand Stronghold, Unbroken Ridge, and Greedy Wolf Path."
 - raw: "5009#黄铜#3#2#11#11#55#99999#0#1#0#0#new1_lhwd#5009#0#7009#0#3600#0##26&2#11&2|3#DAOJU#0#0#0#8609#1#1###all#0###0##1|8423000#0#0#0#可在登天流、天门山、长旌军、拂松门、菩提山、嵩室山、聚灵川、桃隐村采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -3391,7 +3391,7 @@
     translated: "Copper alloy"
   - split: 41
     text: "可在登天流、天门山、长旌军、拂松门、菩提山、嵩室山、聚灵川、桃隐村采集"
-    translated: "You can gather in the Heavenly Ascent Sect, Heavenly Gate Mountain, Long Standard Army, Pine Brushing Gate, Enlightenment Mountain, Songshi Mountain, Spirit Gathering River, and Hidden Peach Village."
+    translated: "It can be collected at Heavenly Ascent Sect, Heavenly Gate Mountain, Long Banner Army, Pine Brushing Gate, Enlightenment Mountain, Songshi Mountain, Spirit Gathering River, Hidden Peach Village."
 - raw: "5010#银矿#3#2#11#11#55#99999#0#1#0#0#new1_jiuqugang#5010#0#7010#0#3600#0##10&2#11&2|3#DAOJU#0#0#0#8610#1#1###all#0###0##1|8423000#0#0#49003|49013|49023|49004|49014|49024#可在太初剑宗、合纵道、老君山、普贤门、爻光谷、落凤原西采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -3399,7 +3399,7 @@
     translated: "Silver Mine"
   - split: 41
     text: "可在太初剑宗、合纵道、老君山、普贤门、爻光谷、落凤原西采集"
-    translated: "Can collect in the western areas of Primordial Origin Sword Sect, Alliance Path, Old Sage Mountain, Universal Virtue Gate, Light of Divination Valley, and Fallen Phoenix Plain."
+    translated: "One can collect from the west in the Primordial Origin Sword Sect, Coalition Path, Old Sage Mountain, Universal Virtue Gate, Trigram Light Valley, and Fallen Phoenix Plain."
 - raw: "5011#赤铜#3#2#11#11#55#99999#0#1#0#0#new1_lhwd#5011#0#7011#0#3600#0##10&2#11&2|3#DAOJU#0#0#0#8611#1#1###all#0###0##1|8423000#0#0#45003|45004|45013|45033|45063|45024|45023#可在枰栌、困魔池、捭阖谷、求缘树采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -3407,7 +3407,7 @@
     translated: "Red Bronze"
   - split: 41
     text: "可在枰栌、困魔池、捭阖谷、求缘树采集"
-    translated: "Can be collected at Pinglu, Kumo Pool, Baihe Valley, and the Tree of Destiny."
+    translated: "These can be collected in Pinglu, the Demon‑Trapping Pool, Baihe Valley, and the Tree of Destiny."
 - raw: "5012#蓝田玉#3#2#11#11#55#99999#0#1#0#0#yu_4#5012#0#7012#0#3600#0##26&2#11&2|3#DAOJU#0#0#0#8612#1#1###all#0###0##1|8423000#0#0#49002|49012|49022#可在太初剑宗、连横隘、麓山书院、祈灵川采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -3423,7 +3423,7 @@
     translated: "Ruili"
   - split: 41
     text: "可在化龙瀑、困魔池、西域王、穆特前线、昭月宗、凌云宗采集"
-    translated: "Can be collected at Transforming Dragon Waterfall, Trapping Demon Pond, Western Region King, Mu Te Frontline, Bright Moon Clan, Soaring Clouds Sect."
+    translated: "Items can be collected at Transforming Dragon Waterfall, Demon‑Trapping Pool, Western King, Mu Te Frontline, Bright Moon Clan, Soaring Clouds Sect."
 - raw: "5014#黄晶#3#2#11#11#55#99999#0#1#0#0#new1_cijin#5014#0#7014#0#3600#0##26&2#11&2|3#DAOJU#0#0#0#8614#1#1###all#0###0##1|8423000#0#0#49023#可在蓬莱村、四圣峰、天门山、合纵道、捭阖谷、连横隘、星陨荒东采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -3431,7 +3431,7 @@
     translated: "Huang Jing"
   - split: 41
     text: "可在蓬莱村、四圣峰、天门山、合纵道、捭阖谷、连横隘、星陨荒东采集"
-    translated: "You can collect items in the east of Penglai Village, Four Sacred Peaks, Heavenly Gate Mountain, Alliance Path, Baihe Valley, United Front Pass, and Starfall Wasteland."
+    translated: "You can collect in the east of Penglai Village, Four Sacred Peaks, Heavenly Gate Mountain, Coalition Path, Baihe Valley, United Front Pass, and Starfall Wasteland."
 - raw: "5015#橄榄石#3#2#11#11#55#99999#0#1#0#0#new2_ganlanshi#5015#0#7015#0#3600#0##26&2#11&2|3#DAOJU#0#0#0#8615#1#1###all#0###0##1|8423000#0#0#49013#可在星陨荒东、楚军、九曜津采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -3455,7 +3455,7 @@
     translated: "Qunwu Shi"
   - split: 41
     text: "可在老君山、誓盟碑、莲玉泊、普贤门、爻光谷、落凤原西采集"
-    translated: "You may collect in the western areas of Old Sage Mountain, Oath Alliance Monument, Lianyu Pier, Universal Virtue Gate, Light of Divination Valley, and Fallen Phoenix Plain."
+    translated: "You can collect in the west of Old Sage Mountain, Alliance Oath Monument, Lianyu Pier, Universal Virtue Gate, Trigram Light Valley, and Fallen Phoenix Plain."
 - raw: "5018#精铁#3#2#12#12#96#99999#0#1#0#0#tie_6#5018#0#7018#0#3600#0##14&3#11&2|3#DAOJU#0#0#0#8618#1#1###all#0###0##1|8423000#0#0#45005|45015|45025|45035|45004|45014|45034#可在化龙瀑、法华村、丐门、枯容山、胜景林、十二连环坞采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -3479,7 +3479,7 @@
     translated: "Emerald Jade"
   - split: 41
     text: "可在御虚门、王府、捭阖谷、誓盟碑采集"
-    translated: "Can be gathered at the Imperial Void Gate, Royal Residence, Baihe Valley, and Oath Alliance Monument."
+    translated: "Items can be collected at the Imperial Void Gate, Royal Residence, Baihe Valley, and Alliance Oath Monument."
 - raw: "5021#碧玺#3#2#12#12#96#99999#0#1#0#0#new1_flb#5021#0#7021#0#3600#0##34&3#11&2|3#DAOJU#0#0#0#8621#1#1###all#0###0##1|8423000#0#0#0#可在御虚门、王府、菩提山、嵩室山、桃隐村、豫京采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -3495,7 +3495,7 @@
     translated: "Dark Iron"
   - split: 41
     text: "可在枰栌、蓬莱村、莲花渡、桃花渡、祈灵川采集"
-    translated: "You can gather herbs at Pinglu, Penglai Village, Lotus Bridge, Peach Blossom Bridge, and Spirit Prayer River."
+    translated: "You can collect items at Pinglu, Penglai Village, Lotus Ferry, Peach Blossom Ferry, and Spirit Prayer River."
 - raw: "5023#松石#3#2#12#13#148#99999#0#1#0#0#st_4#5023#0#7023#0#3600#0##44&3#11&2|3#DAOJU#0#0#0#8623#1#1###all#0###0##1|8423000#0#0#0#可在不夜京、伊宁镇、黑沙寨、不周岭、贪狼道、余晖潭采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -3511,7 +3511,7 @@
     translated: "Ink Jade"
   - split: 41
     text: "可在老君山、莲玉泊、普贤门、爻光谷、落凤原西采集"
-    translated: "You may collect in the west of Old Sage Mountain, Lotus Jade Wharf, Universal Virtue Gate, Light of Divination Valley, and Fallen Phoenix Plain."
+    translated: "You can collect in the west of Old Sage Mountain, Lotus Jade Wharf, Universal Virtue Gate, Trigram Light Valley, and Fallen Phoenix Plain."
 - raw: "5025#绿泥石#3#2#12#13#148#99999#0#1#0#0#new1_flb#5025#0#7025#0#3600#0##44&3#11&2|3#DAOJU#0#0#0#8625#1#1###all#0###0##1|8423000#0#0#0#可在法华村、丐门、枯容山、胜景林、十二连环坞采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -3551,7 +3551,7 @@
     translated: "Eye of the Fish Stone"
   - split: 41
     text: "可在合纵道采集"
-    translated: "Can be collected on the Alliance Path"
+    translated: "Gather along the Coalition Path"
 - raw: "5030#石刚金#3#2#13#14#267#99999#0#1#0#0#baoshi6#5030#0#7030#0#3600#0##28&4#11&2|3#DAOJU#0#0#0#8630#1#1###all#0###0##1|8423000#0#0#49007|49017|49027#可在齐军采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -3727,7 +3727,7 @@
     translated: "Jade Dew"
   - split: 41
     text: "可在莲花渡、桃花渡、祈灵川、仙州采集"
-    translated: "You can collect at Lotus Bridge, Peach Blossom Bridge, Spirit Prayer River, and Xianzhou."
+    translated: "Materials can be gathered at the Lotus Ferry, Peach Blossom Ferry, Spirit Prayer River, and Xianzhou."
 - raw: "5052#玉屑#3#2#13#14#267#99999#0#1#0#0#baoshi7#5052#0#7052#0#3600#0##57&4#11&1|2|3#DAOJU#0#0#0#8652#1#1####0###0##1|8423000#0#0#0#可在仙州采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -3767,7 +3767,7 @@
     translated: "Red Peony"
   - split: 41
     text: "可在天门山、合纵道、捭阖谷、连横隘、星陨荒东采集"
-    translated: "You can collect resources in the east of Heavenly Gate Mountain, Alliance Path, Baihe Valley, United Front Pass, and Starfall Wasteland."
+    translated: "You can collect resources in the eastern regions of Heavenly Gate Mountain, Coalition Path, Baihe Valley, United Front Pass, and Starfall Wasteland."
 - raw: "9002#益母草#3#3#10#10#25#99999#0#1#0#0#caoyao7#9002#0#11002#0#3600#0##20&2#11&1#DANYAO#0#0#0#8511#1#1###all#0###0##1|8423000#0#0#0#可在朔海派、朔海派、岭花谷、澄心湖采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -3831,7 +3831,7 @@
     translated: "Huang Cen"
   - split: 41
     text: "可在合纵道、捭阖谷采集"
-    translated: "Can be collected in the Alliance Path, Baihe Valley."
+    translated: "Can be collected on the Coalition Path and in Baihe Valley."
 - raw: "9010#冰片#3#3#10#10#25#99999#0#1#0#0#shexiang#9010#0#11010#0#3600#0##20&2#11&1#DANYAO#0#0#0#8515#1#1###all#0###0##1|8423000#0#0#0#可在三十六洞采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -3855,7 +3855,7 @@
     translated: "Red Flower"
   - split: 41
     text: "可在莲花渡、祈灵川采集"
-    translated: "You may collect at Lotus Bridge or Spirit Prayer River."
+    translated: "You can collect at the Lotus Ferry and Spirit Prayer River."
 - raw: "9013#大黄#3#3#10#10#25#99999#0#1#0#0#caoyao7#9013#0#11013#0#3600#0##20&2#11&1#DANYAO#0#0#0#8513#1#1###all#0###0##1|8423000#0#0#0#可在重天门采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -3895,7 +3895,7 @@
     translated: "Polygonum multiflorum"
   - split: 41
     text: "可在合纵道、捭阖谷采集"
-    translated: "Can be collected in the Alliance Path, Baihe Valley."
+    translated: "Can be collected on the Coalition Path and in Baihe Valley."
 - raw: "9018#茶子心#3#3#10#10#25#99999#0#1#0#0#chazixin#9018#0#11018#0#3600#0##20&2#11&1#DANYAO#0#0#0#8513#1#1###all#0###0##1|8423000#0#0#54057#可在雁州城采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -3935,7 +3935,7 @@
     translated: "Myrrh"
   - split: 41
     text: "可在老君山、莲玉泊、普贤门、爻光谷、仙州采集"
-    translated: "Gather in Old Sage Mountain, Lotus Jade Pond, Universal Virtue Gate, Light of Divination Valley, and Immortal State."
+    translated: "You can gather herbs at Old Sage Mountain, Lotus Jade Bay, Universal Virtue Gate, Trigram Light Valley, and Xian State."
 - raw: "9023#丹参#3#3#11#11#46#99999#0#1#0#0#new1_qnniuxi#9023#0#11023#0#3600#0##26&2#11&1#DANYAO#0#0#0#8524#1#1###all#0###0##1|8423000#0#0#18005#可在法华村、丐门、枯容山、十二连环坞、砚溪山庄采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -3983,7 +3983,7 @@
     translated: "Rhododendron leaf"
   - split: 41
     text: "可在莲花渡、祈灵川采集"
-    translated: "You may collect at Lotus Bridge or Spirit Prayer River."
+    translated: "You can collect at the Lotus Ferry and Spirit Prayer River."
 - raw: "9029#远志#3#3#11#11#46#99999#0#1#0#0#new1_qnhsw#9029#0#11029#0#3600#0##26&2#11&1#DANYAO#0#0#0#8525#1#1###all#0###0##1|8423000#0#0#18146#可在七十二福、无涯海、胜云山、三十六洞、无涯岛采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -3999,7 +3999,7 @@
     translated: "Ancient Mother"
   - split: 41
     text: "可在老君山、莲玉泊、普贤门、爻光谷、落凤原西采集"
-    translated: "You may collect in the west of Old Sage Mountain, Lotus Jade Wharf, Universal Virtue Gate, Light of Divination Valley, and Fallen Phoenix Plain."
+    translated: "You can collect in the west of Old Sage Mountain, Lotus Jade Wharf, Universal Virtue Gate, Trigram Light Valley, and Fallen Phoenix Plain."
 - raw: "9031#红枣#3#3#11#11#46#99999#0#1#0#0#zao#9031#0#11031#0#3600#0##26&2#11&1#DANYAO#0#0#0#8522#1#1###all#0###0##1|8423000#0#0#0#可在丐门、十二连环坞、淮陵、一气屿采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -4079,7 +4079,7 @@
     translated: "Mountain yam"
   - split: 41
     text: "可在迦南遗址、冼星堂、星陨荒、望尘客栈、雁州城采集"
-    translated: "Gather at the Canaanite Ruins, Xian Star Hall, Starfall Wasteland, Whispering Dust Inn, or Yan Prefecture City."
+    translated: "Collections can be made at Canaan Ruins, Xian Star Hall, Starfall Wasteland, Whispering Dust Inn, and Yan Prefecture City."
 - raw: "9041#胆南星#3#3#12#12#82#99999#0#1#0#0#dannanxing#9041#0#11041#0#3600#0##34&3#11&1#DANYAO#0#0#0#8531#1#1###all#0###0##1|8423000#0#0#0#可在伊宁镇、黑沙寨、不周岭、贪狼道、余晖潭采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -4143,7 +4143,7 @@
     translated: "Hawthorn leaves"
   - split: 41
     text: "可在迦南遗址、冼星堂、星陨荒、望尘客栈、雁州城采集"
-    translated: "Gather at the Canaanite Ruins, Xian Star Hall, Starfall Wasteland, Whispering Dust Inn, or Yan Prefecture City."
+    translated: "Collections can be made at Canaan Ruins, Xian Star Hall, Starfall Wasteland, Whispering Dust Inn, and Yan Prefecture City."
 - raw: "9049#姜黄#3#3#12#12#82#99999#0#1#0#0#new1_xhc#9049#0#11049#0#3600#0##34&3#11&1#DANYAO#0#0#0#8534#1#1###all#0###0##1|8423000#0#0#0#可在贪狼道采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -4239,7 +4239,7 @@
     translated: "Aconite"
   - split: 41
     text: "可在合纵道、留樱林、祈灵川采集"
-    translated: "Can be collected at the Alliance Path, Lingering Cherry Grove, and Spirit Prayer River."
+    translated: "Can be collected at Coalition Path, Lingering Cherry Grove, and Spirit Prayer River."
 - raw: "9061#豆蔻#3#3#12#13#124#99999#0#1#0#0#caoyao2#9061#0#11061#0#3600#0##44&3#11&1#DANYAO#0#0#0#8545#1#1###all#0###0##1|8423000#0#0#0#可在捭阖谷、瑶华原、祈灵川采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -4359,7 +4359,7 @@
     translated: "Poria"
   - split: 41
     text: "可在莲花渡采集"
-    translated: "Collect at Lianhua Guo"
+    translated: "You can collect at the Lotus Ferry"
 - raw: "9076#人参#3#3#13#14#223#99999#0#1#0#0#new1_jiuqurensheng#9076#0#11076#0#3600#0##57&4#11&1#DANYAO#0#0#0#8554#1#1###all#0###0##1|8423000#0#0#0#可在桃花坞南采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -4375,7 +4375,7 @@
     translated: "Agarwood"
   - split: 41
     text: "可在爻光谷、桃花渡采集"
-    translated: "You can gather in the Light of Divination Valley and Peach Blossom Ferry."
+    translated: "Can collect at Trigram Light Valley, Peach Blossom Crossing."
 - raw: "9078#石榕#3#3#13#14#223#99999#0#1#0#0#shirong#9078#0#11078#0#3600#0##57&4#11&1#DANYAO#0#0#0#8551#1#1###all#0###0##1|8423000#0#0#0#可在楚军采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -4447,7 +4447,7 @@
     translated: "Red Jiangtian"
   - split: 41
     text: "可在普贤门、莲花渡采集"
-    translated: "Can be collected at Universal Virtue Gate, Lotus Flower Crossing."
+    translated: "Collections can be made at the Universal Virtue Gate and Lotus Ferry."
 - raw: "9087#空青#3#3#13#14#223#99999#0#1#0#0#caoyao3#9087#0#11087#0#3600#0##57&4#11&1#DANYAO#0#0#0#8555#1#1###all#0###0##1|8423000#0#0#0#可在落凤原西采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -4591,7 +4591,7 @@
     translated: "Snow Chrysanthemum"
   - split: 41
     text: "可在迦南遗址、朔海派、遥雪峰采集"
-    translated: "Can be collected at the Canaanite Ruins, North Sea Sect, and Distant Snow Peak."
+    translated: "Can be collected at the Canaan Ruins, North Sea Sect, and Distant Snow Peak."
 - raw: "9105#山桂#3#3#14#16#604#99999#0#1#0#0#caoyao2#9105#0#11105#0#3600#0##96&6#11&1#DANYAO#0#0#0#8572#1#1####0###0##1|8423000#0#0#18040#可在伊宁镇、神兵山庄采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -10723,7 +10723,7 @@
     translated: "Buddhism · Mountain Yiltujiuzhang · Mortal Tier"
   - split: 41
     text: "可在长旌军贡献堂主处有概率买到"
-    translated: "You may have a chance to buy it at the Contribution Hall Master of the Long Standard Army."
+    translated: "There's a chance to buy it from the Contributions Hall Master at the Long Banner Army."
 - raw: "33142#佛学·山越九章·黄阶#4#8#13#15#3374#99999#0#1#0#0#miji12#33142#0#35142#0#3600#0##43&18&0###0#0#0#0#0#0###3|1000&6|1000#0##0&28|33142|<|1#0##0#0#0#0##0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -12254,7 +12254,7 @@
     translated: "Hundred Divergent Blades"
   - split: 41
     text: "长旌军贡献堂主处可获得"
-    translated: "Rewards are available at the Contribution Hall Master's position of the Long Standard Army."
+    translated: "Contribution Hall Master at the Long Banner Army headquarters."
 - raw: "34101#天罡极刃#4#15#10#10#6240#99999#0#1#0#0#miji12#34101#0#36101#0#3600#0#201#1###0#0#0#0#0#0##10009|2500&10010|2500&10011|2500&10012|2500##0#65008|48&65009|48&65035|48&65040|48##0##0#0#1#0#鸿月派贡献堂主处可获得#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -12658,7 +12658,7 @@
     translated: "Bridge Over Shu"
   - split: 41
     text: "爻光谷贡献堂主处可获得"
-    translated: "You can obtain it from the Contribution Hall Master in Light of Divination Valley."
+    translated: "At the Contributions Hall Master's location in Trigram Light Valley, you can obtain it."
 - raw: "34310#撕碑手#4#15#11#11#4800#99999#0#1#0#0#miji11#34310#0#36310#0#3600#0#410#3###0#0#0#0#0#0####0#65011|48&65026|48##0##0#0#0#0#丐门贡献堂主处可获得#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -12819,7 +12819,7 @@
   splits:
   - split: 1
     text: "猿神拳法"
-    translated: "Monkey God Fist"
+    translated: "Ape God Fist Technique"
 - raw: "34335#白骨神功#4#15#14#14#20111#99999#0#1#0#0#miji10#34335#0#36335#0#3600#0#435#3###0#0#0#0#0#0####0###0##0#0#0#0##0#0#0#1#0#1#"
   splits:
   - split: 1
@@ -18758,47 +18758,47 @@
   splits:
   - split: 1
     text: "长旌军赤铜甲"
-    translated: "Long Standard Army's Red Copper Armor"
+    translated: "Long Banner Army's red bronze armor"
 - raw: "38218#长旌军青金甲#1#2#1000#25#7236#1#0#1#0#0#ruanjia3#38001218#0#40001218#0#3602#30006#####0#0#0#6003#3#5####0###0##0#0#0#0##0#2#0#1#0#0#"
   splits:
   - split: 1
     text: "长旌军青金甲"
-    translated: "Long Standard Army's Green Gold Armor"
+    translated: "Long Banner Army's Blue‑Gold Armor"
 - raw: "38219#长旌军玄铁甲#1#2#1000#26#12663#1#0#1#0#0#tiejia1#38001219#0#40001219#0#3602#30006#####0#0#0#6004#4#6####0###0##0#0#0#0##0#2#0#1#0#0#"
   splits:
   - split: 1
     text: "长旌军玄铁甲"
-    translated: "Long Standard Army's Dark Steel Armor"
+    translated: "Long Banner Army's dark steel armor"
 - raw: "38220#长旌军赤铜带#1#4#1000#22#1575#1#0#1#0#0#yaodai3#38001220#0#40001220#0#3602#30008#####0#0#0#6002#2#4####0###0##0#0#0#0##0#2#0#1#0#0#"
   splits:
   - split: 1
     text: "长旌军赤铜带"
-    translated: "Long Standard Army Red Copper Belt"
+    translated: "Long Banner Army's Red Copper Belt"
 - raw: "38221#长旌军青金带#1#4#1000#25#4823#1#0#1#0#0#yaodai6#38001221#0#40001221#0#3602#30008#####0#0#0#6003#3#5####0###0##0#0#0#0##0#2#0#1#0#0#"
   splits:
   - split: 1
     text: "长旌军青金带"
-    translated: "Green Jade Belt of the Long Standard Army."
+    translated: "Long Banner Army's Blue Gold Belt"
 - raw: "38222#长旌军玄铁带#1#4#1000#26#8440#1#0#1#0#0#yaodai8#38001222#0#40001222#0#3602#30008#####0#0#0#6004#4#6####0###0##0#0#0#0##0#2#0#1#0#0#"
   splits:
   - split: 1
     text: "长旌军玄铁带"
-    translated: "Long Standard Army Dark Steel Belt"
+    translated: "Long Banner Army Dark Steel Belt"
 - raw: "38223#长旌军赤铜履#1#4#1000#22#1575#1#0#1#0#0#xie4#38001223#0#40001223#0#3602#30008#####0#0#0#6002#2#4####0###0##0#0#0#0##0#2#0#1#0#0#"
   splits:
   - split: 1
     text: "长旌军赤铜履"
-    translated: "Long Standard Army's Crimson Copper Soles"
+    translated: "Long Banner Army Red Copper Boots"
 - raw: "38224#长旌军青金履#1#4#1000#25#4823#1#0#1#0#0#xie7#38001224#0#40001224#0#3602#30008#####0#0#0#6003#3#5####0###0##0#0#0#0##0#2#0#1#0#0#"
   splits:
   - split: 1
     text: "长旌军青金履"
-    translated: "Long Standard Army Green Jade Slippers"
+    translated: "Long Banner Army's cyan jade shoes"
 - raw: "38225#长旌军玄铁履#1#4#1000#26#8440#1#0#1#0#0#xie9#38001225#0#40001225#0#3602#30008#####0#0#0#6004#4#6####0###0##0#0#0#0##0#2#0#1#0#0#"
   splits:
   - split: 1
     text: "长旌军玄铁履"
-    translated: "Long Standard Army dark steel boots"
+    translated: "Long Banner Army dark steel shoes"
 - raw: "38226#齐军赤铜甲#1#2#1000#22#2363#1#0#1#0#0#tiejia4#38001226#0#40001226#0#3602#30006#####0#0#0#6002#2#4####0###0##0#0#0#0##0#2#0#1#0#0#"
   splits:
   - split: 1
@@ -19073,47 +19073,47 @@
   splits:
   - split: 1
     text: "爻光谷初尘衣"
-    translated: "Light of Divination Valley, Dawn Garment"
+    translated: "Trigram Light Valley's First Dust Robe"
 - raw: "38281#爻光谷行者衣#1#2#1000#24#4135#1#0#1#0#0#ruanjia3#38001281#0#40001281#0#3602#30006#####0#0#0#6003#3#5####0###0##0#0#0#0##0#2#0#1#0#0#"
   splits:
   - split: 1
     text: "爻光谷行者衣"
-    translated: "Traveler's Robe from the Light of Divination Valley."
+    translated: "Traveler's Robe of Trigram Light Valley"
 - raw: "38282#爻光谷无尚衣#1#2#1000#26#12663#1#0#1#0#0#tiejia1#38001282#0#40001282#0#3602#30006#####0#0#0#6004#4#6####0###0##0#0#0#0##0#2#0#1#0#0#"
   splits:
   - split: 1
     text: "爻光谷无尚衣"
-    translated: "Unsurpassed Attire of the Light of Divination Valley."
+    translated: "Trigram Light Valley's Master of Ceremonies is absent."
 - raw: "38283#爻光谷初尘带#1#4#1000#22#1575#1#0#1#0#0#yaodai3#38001283#0#40001283#0#3602#30008#####0#0#0#6002#2#4####0###0##0#0#0#0##0#2#0#1#0#0#"
   splits:
   - split: 1
     text: "爻光谷初尘带"
-    translated: "Initial Dust Wearing, from Light of Divination Valley."
+    translated: "Trigram Light Valley Chief Dust Braid"
 - raw: "38284#爻光谷行者带#1#4#1000#24#2756#1#0#1#0#0#yaodai6#38001284#0#40001284#0#3602#30008#####0#0#0#6003#3#5####0###0##0#0#0#0##0#2#0#1#0#0#"
   splits:
   - split: 1
     text: "爻光谷行者带"
-    translated: "Wanderer of the Light of Divination Valley"
+    translated: "Trigram Light Valley Traveler's Belt"
 - raw: "38285#爻光谷无尚带#1#4#1000#26#8440#1#0#1#0#0#yaodai8#38001285#0#40001285#0#3602#30008#####0#0#0#6004#4#6####0###0##0#0#0#0##0#2#0#1#0#0#"
   splits:
   - split: 1
     text: "爻光谷无尚带"
-    translated: "Unrivaled in the Light of Divination Valley"
+    translated: "Trigram Light Valley No.1 Leader."
 - raw: "38286#爻光谷初尘履#1#4#1000#22#1575#1#0#1#0#0#xie4#38001286#0#40001286#0#3602#30008#####0#0#0#6002#2#4####0###0##0#0#0#0##0#2#0#1#0#0#"
   splits:
   - split: 1
     text: "爻光谷初尘履"
-    translated: "Initial Duststep in the Light of Divination Valley."
+    translated: "Trigram Light Valley, Step One of Dust"
 - raw: "38287#爻光谷行者履#1#4#1000#24#2756#1#0#1#0#0#xie7#38001287#0#40001287#0#3602#30008#####0#0#0#6003#3#5####0###0##0#0#0#0##0#2#0#1#0#0#"
   splits:
   - split: 1
     text: "爻光谷行者履"
-    translated: "Traveler of the Light of Divination Valley"
+    translated: "Traveler of Trigram Light Valley"
 - raw: "38288#爻光谷无尚履#1#4#1000#26#8440#1#0#1#0#0#xie9#38001288#0#40001288#0#3602#30008#####0#0#0#6004#4#6####0###0##0#0#0#0##0#2#0#1#0#0#"
   splits:
   - split: 1
     text: "爻光谷无尚履"
-    translated: "In the Light of Divination Valley, there is no path superior to this one."
+    translated: "Trigram Light Valley, Supreme Footsteps"
 - raw: "38289#骆家军赤铜甲#1#2#1000#22#2363#1#0#1#0#0#tiejia4#38001289#0#40001289#0#3602#30006#####0#0#0#6002#2#4####0###0##0#0#0#0##0#2#0#1#0#0#"
   splits:
   - split: 1
@@ -27978,7 +27978,7 @@
   splits:
   - split: 1
     text: "升仙湖练剑感悟"
-    translated: "Training in Shaolin at Shengxian Lake, Gaining Insights into Swordsmanship"
+    translated: "Practice and enlightenment at the Immortal Ascent Lake with the sword."
 - raw: "60149#飞炼瀑练刀感悟#4#23#11#12#403#99999#0#1#0#0#miji3#60149#0#62149#0#3605#0##92350###0#0#0#0#0#0####0##0&18|1|73|20|>#0##0#0#0#0##0#0#0#1#0#1#"
   splits:
   - split: 1
@@ -34808,7 +34808,7 @@
   splits:
   - split: 1
     text: "长旌军情报"
-    translated: "Long Standard Army Intelligence Report"
+    translated: "Long Banner Army Intelligence Report"
 - raw: "80283#草药情报#2#6#12#12#5000#99999#0#1#0#0#shuxin1#931601#0#931600##3600#0#931599#80283###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#1#0#0#"
   splits:
   - split: 1

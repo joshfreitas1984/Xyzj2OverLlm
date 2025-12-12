@@ -1160,7 +1160,7 @@
     translated: "Esteemed Guests of Honor"
   - split: 9
     text: "于长旌军贡献堂主处累积购买二十次"
-    translated: "Accumulate twenty purchases at the Contributions Hall Master of the Long Standard Army."
+    translated: "Accumulated a purchase of twenty times at the Contributions Hall Master of the Long Banner Army."
   - split: 14
     text: "长旌动风尘，马蹄声远传，山河战鼓动，英名世间传。"
     translated: "The flags flutter in the winds of dust; hooves' echoes resound afar. Mountains and rivers shake with drums of war; a hero's fame spreads through all lands."
@@ -1358,7 +1358,7 @@
     translated: "Esteemed Guest of Yaoguang"
   - split: 9
     text: "于爻光谷贡献堂主处累积购买二十次"
-    translated: "Accumulate twenty purchases at the Contributions Hall Master in the Light of Divination Valley."
+    translated: "Accumulated 20 purchases at the Contribution Hall Master in Trigram Light Valley."
   - split: 14
     text: "爻光破晓来，黎明前最暗，新日希望生，心携光明行。"
     translated: "As daybreak emerges from the darkness of dawn, new hope arises with the rising sun, and we walk together with light in our hearts."
@@ -1476,7 +1476,7 @@
   splits:
   - split: 1
     text: "升仙湖主"
-    translated: "Master of Shengxian Lake"
+    translated: "Immortal Ascent Lake Master"
   - split: 9
     text: "击败徐赫一"
     translated: "Defeat Xu Heyi"
@@ -5849,7 +5849,7 @@
     translated: "Solving the mystery of the Canaanite ruins"
   - split: 14
     text: "迦南遗址古，圣地述往事。探寻跨古今，尘封宝自露。"
-    translated: "The ancient site of the Canaanite Ruins is sacred and recounts past tales. It spans across time, revealing treasures once concealed in dust."
+    translated: "The ancient Canaan Ruins, a sacred site recounting tales of the past. In search across time, treasures long concealed are revealed."
 - raw: "2306#枯荣秘藏#1#1#2306#1#3#18097|2;5034|3;1045|1#0&1|201309|1;24|952105|1#破解枯荣秘藏之谜##400#0#0#枯荣之秘密，生死界限间。洞中珍宝亮，光芒穿古杉。#0#0#2#chengjiu_2306#"
   splits:
   - split: 1
@@ -11544,7 +11544,7 @@
     translated: "Leave the encampment to venture into the distant horizon."
   - split: 9
     text: "离开长旌军营"
-    translated: "Leaving the Long Standard Army camp"
+    translated: "Leaving the Long Banner Army camp"
   - split: 14
     text: "告别熟悉的军营生活，卸下肩头的责任与束缚，向着远方的江湖迈出坚定的步伐，去追寻更广阔的天地。"
     translated: "Farewell to the familiar life in the military camp; shed the responsibilities and burdens from your shoulders. With determined steps, head towards the distant Jianghu, pursuing a broader expanse of horizons."

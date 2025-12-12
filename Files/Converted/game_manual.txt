@@ -197,7 +197,7 @@
     translated: "Heartless"
   - split: 6
     text: "仙人无心，故剑无心，曾是仙人之佩剑，千年前被沉入升仙湖中，沧海桑田，如今重见世间已不复当年之威。"
-    translated: "The Immortal had no attachment to the sword; thus, the Sword itself had no attachment. Once it was a sword borne by an immortal, and a thousand years ago, it was submerged in Ascension Lake. Amidst the changing seas and mulberry fields, now resurfaced into the world, it does not possess its former glory."
+    translated: "The sword of the Immortal had no intention; thus, the sword itself had no intention. It once belonged to an Immortal as a pendant sword and was sunk into Immortal Ascent Lake a thousand years ago. In those mulberry fields that have become seas over time, it is now seen again in the world, but its former glory has faded."
 - raw: "20002#缘虑#2###50501#镌邪者仵今雨曾见心明性铸剑真如，又融玄铁成三件，此为集起，此剑以竹为型，缘起为斩断虚妄攀缘之剑。##0#"
   splits:
   - split: 1
@@ -1483,10 +1483,10 @@
   splits:
   - split: 1
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
   - split: 5
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
   - split: 6
     text: "尧光谷自建谷以来便不喜江湖纷争，于普贤寺外偏安一偶。擅长手上功夫。门中修炼需看云舒云卷，观潮起潮落，修炼至高深处更需赏星河流转，见日月万千。自从闻人骏年接手掌门谷主之后对于管理愈加松散，常由太上长老典文君代为管理。（此门派无法晋升为掌门）"
     translated: "Since its founding, Yao Guanggu has avoided involvement in Jianghu disputes and has remained a small, secluded establishment near Putiexing Temple. It specializes in hand techniques. Cultivation within the sect requires observing the unfolding and retracting of clouds, watching the ebb and flow of tides, and at higher levels, appreciating the movement of starry skies and witnessing the myriad suns and moons. Since Yunjun Ruan took over as Sect Leader, management has become more lax, with Tai Shang Elder Zhenwen Jun often stepping in to manage affairs (this sect cannot promote a leader)."
@@ -1720,7 +1720,7 @@
     translated: "One who performs veneration"
   - split: 6
     text: "救下陀学智等人后，从他们口中得知此行的目的是为了虞令羽的宝藏。他们还提到，后山墓地上有一位祭拜虞令羽的姑娘。"
-    translated: "After rescuing Da Xu Zhi and the others, they learned from them that their mission was to find Yu Lingyu's treasure. They also mentioned a girl who worships at the tombs in the hills"
+    translated: "After rescuing Tao Xu Zhi and others, they revealed that their mission was to find Yu Lingyu's treasure. They also mentioned a girl who worships at the Rear Hill Cemetery in honor of Yu Lingyu."
 - raw: "60015#月下剑舞#6#0&24|959587|1#1&24|972460|1;24|972450|1#月下剑舞#从村长夫人那里听说飞炼瀑附近的竹林湖边有一位江湖侠客出现。#0#60015#"
   splits:
   - split: 1
@@ -1753,7 +1753,7 @@
     translated: "One who has fallen into the water"
   - split: 6
     text: "在升仙湖的湖边，瞧见蒙浪倒在湖边，似乎昏迷了过去，<color=&&DEB887>若想让蒙浪清醒过来，必须要醒脑丸不可。</color>"
-    translated: "On the shores of Shengxian Lake, they saw Meng Lang lying unconscious by the water's edge. <color=&&DEB887>To awaken Meng Lang, one must use the Xingnao Pill.</color>"
+    translated: "On the shore of Immortal Ascent Lake, I saw Mong Lang lying on the ground by the lake, seemingly unconscious. <color=&&DEB887>To wake Mong Lang up, it is essential to have an awakening brain pill.</color>"
 - raw: "60018#茅草暗藏#6#0&72|30520|30520001|1#0&24|961945|1#茅草暗藏#从万事通大叔发来的飞鸽传书中听说，<color=&&DEB887>有人在云鹤村的茅草堆鬼鬼祟祟的不知道在做些什么。</color>#0#0#"
   splits:
   - split: 1

@@ -5451,6 +5451,51 @@
   literal: Li San wen  
 
 # Factions & Places
+- raw: 桂宫道
+  result: Osmanthus Palace Way
+  badtrans: true
+  direct: osmanthus palace path
+  literal: gui gong dao
+- raw: 誓盟碑
+  result: Alliance Oath Monument
+  badtrans: true
+  direct: pledge alliance monument
+  literal: shi meng bei
+- raw: 爻光谷
+  result: Trigram Light Valley
+  badtrans: true
+  direct: trigrams light valley
+  literal: yao guang gu
+- raw: 后山墓地
+  result: Rear Hill Cemetery
+  badtrans: true
+  direct: back mountain graveyard
+  literal: hou shan mu di
+- raw: 千奇坊
+  result: Thousand Wonders Workshop
+  badtrans: true
+  direct: thousand strange workshop
+  literal: qian qi fang
+- raw: 合纵道
+  result: Coalition Path
+  badtrans: true
+  direct: unite-verticals path
+  literal: he zong dao
+- raw: 莲花渡
+  result: Lotus Ferry
+  badtrans: true
+  direct: lotus flower ferry-crossing
+  literal: lian hua du
+- raw: 困魔池
+  result: Demon-Trapping Pool
+  badtrans: true
+  direct: trap demon pool
+  literal: kun mo chi
+- raw: 升仙湖
+  result: Immortal Ascent Lake
+  badtrans: true
+  direct: ascend-immortal lake
+  literal: sheng xian hu
 - raw: 澄心湖
   result: Clear Heart Lake
   badtrans: true
@@ -5637,7 +5682,7 @@
   result: Soaring Clouds Sect
   badtrans: true
 - raw: 长旌军
-  result: Long Standard Army
+  result: Long Banner Army
   badtrans: true
 - raw: 楚军
   result: Chu Army
@@ -5684,9 +5729,6 @@
 - raw: 流云镖局
   result: Flowing Cloud Escort Agency
   badtrans: true
-- raw: 爻光谷
-  result: Light of Divination Valley
-  badtrans: true
 - raw: 福兴镖局
   result: Great Prosperity Escort Agency
   badtrans: true
@@ -5719,9 +5761,6 @@
   badtrans: true
 - raw: 龙首渡
   result: Dragon's Head Crossing
-  badtrans: true
-- raw: 誓盟碑
-  result:  Oath Alliance Monument
   badtrans: true
 - raw: 四圣峰
   result: Four Sacred Peaks
@@ -5759,9 +5798,6 @@
 - raw: 天上山
   result: Heavenly Mountain
   badtrans: true
-- raw: 合纵道
-  result: Alliance Path
-  badtrans: true
 - raw: 连横隘
   result: United Front Pass
   badtrans: true
@@ -5775,7 +5811,7 @@
   result: Dragon Fishing Lake
   badtrans: true
 - raw: 迦南遗址
-  result: Canaanite Ruins
+  result: Canaan Ruins
   badtrans: true
 - raw: 星陨荒
   result: Starfall Wasteland
@@ -5878,9 +5914,6 @@
   badtrans: true
 - raw: 七十二福
   result: Seventy-Two Blessings
-  badtrans: true
-- raw: 桂宫道
-  result: Way of the Osmanthus Palace
   badtrans: true
 - raw: 豫京
   result: Yu Capital
@@ -6768,6 +6801,11 @@
 
 
 # Martial Arts
+- raw: 猿神拳法
+  result: Ape God Fist Technique
+  badtrans: true
+  direct: ape god fist-method
+  literal: yuan shen quan fa
 - raw: 机杼剑法
   result: Loom Weaving Sword Technique
   badtrans: true

@@ -535,10 +535,10 @@
     translated: "There is no constant formation in war"
   - split: 3
     text: "长旌军中一位少年从军的先锋官所创，此人读书不多，但对军事极为敏感，其用兵如神，兵法出神入化。 效果：<color=&&97a36d>装备后提升阴属性</color>"
-    translated: "A vanguard officer of the Long Standard Army, this young soldier who joined with limited formal education exhibited a remarkable sensitivity to military matters. His strategic acumen was likened to divine inspiration, and his mastery of martial tactics seemed both magical in entrance and transformative in application. The results were extraordinary: <color=&&97a36d>Increase Yin attribute after equipping.</color>"
+    translated: "A vanguard officer of the Long Banner Army, this young soldier from a military family created a unique approach. Though not extensively educated, he was highly sensitive to military affairs and had an almost divine skill in command. His strategy and tactics were extraordinary, transforming like magic. The results were remarkable: <color=&&97a36d>Boost Yin attribute after equipping</color>"
   - split: 11
     text: "长旌军中一位少年从军的先锋官所创，此人读书不多，但对军事极为敏感，其用兵如神，兵法出神入化。 效果：<color=&&97a36d>装备后根据对应属性点数占最大值比例，提升阴属性"
-    translated: "Created by a young officer of the Long Standard Army who was not highly educated but had an acute sensitivity to military matters, this person's strategic acumen was extraordinary. Their mastery in military tactics was so profound it seemed almost supernatural. The effects were remarkable: <color=&&97a36d>After equipping, enhance the Yin attribute based on the percentage of its points relative to the maximum value."
+    translated: "A pioneering officer from the Long Banner Army, a young soldier who had not studied extensively yet was highly sensitive to military matters. His command of troops was almost divine, and his strategies were incredibly refined and adaptable. The results were outstanding: <color=&&97a36d>Upon equipping, enhance the Yin attribute based on the proportion of attribute points relative to their maximum value."
   - split: 12
     text: " 线索：<color=&&c3804e>寻天下兵法之道达到武卒之上的兵家。据闻于(939,891)处有此等高人前辈。</color>"
     translated: "Clue: <color=&&c3804e>Seeking the path of military strategy to surpass even the finest soldiers, there are said to be such eminent elders at (939,891).</color>"

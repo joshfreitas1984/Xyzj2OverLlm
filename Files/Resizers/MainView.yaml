@@ -102,11 +102,9 @@
   idealFontSize: 16
   overflowMode: "Overflow"
   allowWordWrap: true
-
-- path: "GameStart/GameUIRoot/UICamera/FormRoot/WaitingUILayer/NpcBubbleChatView/UIRoot/BubblePool/Bubble*/Text"
-  sampleText: "What has happened in the past cannot be advised against, but what is to come can still be pursued. I hope everyone will understand this lesson sooner rather than later."
-  idealFontSize: 20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/NpcBubbleChatView/UIRoot/BubblePool/Bubble(Clone)/Text"
+  sampleText: "Don't look at me like this; when I was young, I too was a talented person, with a free‑spirited and dashing charm."
+  idealFontSize: 16
   allowWordWrap: true
-  allowAutoSizing: false
-  adjustX: -50
-  adjustWidth: -40
+  adjustX: -100
+  adjustWidth: -140

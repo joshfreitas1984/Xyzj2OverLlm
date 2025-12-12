@@ -47,7 +47,7 @@
   splits:
   - split: 3
     text: "誓盟碑"
-    translated: "Oath Alliance Monument"
+    translated: "Alliance Oath Monument"
 - raw: "204#1#880.846,354.7628,1334.268#太初剑宗##2#0#"
   splits:
   - split: 3
@@ -167,7 +167,7 @@
   splits:
   - split: 3
     text: "合纵道"
-    translated: "Alliance Path"
+    translated: "Coalition Path"
 - raw: "228#1#1138.578,0.900,1198.982#连横隘##12#0#"
   splits:
   - split: 3
@@ -222,7 +222,7 @@
   splits:
   - split: 3
     text: "迦南遗址"
-    translated: "Canaanite Ruins"
+    translated: "Canaan Ruins"
 - raw: "239#1#1745.194,0.900,1332.570#星陨荒##17#0#"
   splits:
   - split: 3
@@ -242,7 +242,7 @@
   splits:
   - split: 3
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
 - raw: "243#1#542.064,0.900,1043.286#王府##19#0#"
   splits:
   - split: 3
@@ -432,7 +432,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "281#1#255.449,0.900,842.550#求缘树##37#0#"
   splits:
   - split: 3
@@ -512,7 +512,7 @@
   splits:
   - split: 3
     text: "桂宫道"
-    translated: "Way of the Osmanthus Palace"
+    translated: "Osmanthus Palace Way"
 - raw: "297#1#586.383,0.900,1556.826#唐门##45#0#"
   splits:
   - split: 3
@@ -552,7 +552,7 @@
   splits:
   - split: 3
     text: "升仙湖"
-    translated: "Ascension Lake"
+    translated: "Immortal Ascent Lake"
 - raw: "406#2#1117.853,0.900,1678.313#澄心湖##0#0#"
   splits:
   - split: 3
@@ -567,12 +567,12 @@
   splits:
   - split: 3
     text: "千奇坊"
-    translated: "Thousand Odd Pavilion"
+    translated: "Thousand Wonders Workshop"
 - raw: "409#2#1102.849,0.900,1578.829#后山墓地##0#0#"
   splits:
   - split: 3
     text: "后山墓地"
-    translated: "Hou Mountain Cemetery"
+    translated: "Rear Hill Cemetery"
 - raw: "410#2#848.790,0.900,990.120#雄武台##0#0#"
   splits:
   - split: 3
@@ -747,7 +747,7 @@
   splits:
   - split: 3
     text: "誓盟碑"
-    translated: "Oath Alliance Monument"
+    translated: "Alliance Oath Monument"
 - raw: "904#4#856.293,0.900,1422.913#太初剑宗#taichujianzong#2#856.293,0.900,1422.913#"
   splits:
   - split: 3
@@ -867,7 +867,7 @@
   splits:
   - split: 3
     text: "合纵道"
-    translated: "Alliance Path"
+    translated: "Coalition Path"
 - raw: "928#4#1138.578,0.900,1198.982#连横隘#lianhengai#9017#1138.578,0.900,1198.982#"
   splits:
   - split: 3
@@ -922,7 +922,7 @@
   splits:
   - split: 3
     text: "迦南遗址"
-    translated: "Canaanite Ruins"
+    translated: "Canaan Ruins"
 - raw: "939#4#1745.194,0.900,1332.570#星陨荒#xingyunhuang#9024#1745.194,0.900,1332.570#"
   splits:
   - split: 3
@@ -942,7 +942,7 @@
   splits:
   - split: 3
     text: "长旌军"
-    translated: "Long Standard Army"
+    translated: "Long Banner Army"
 - raw: "943#4#542.064,0.900,1043.286#王府#wangfu#9026#542.064,0.900,1043.286#"
   splits:
   - split: 3
@@ -1132,7 +1132,7 @@
   splits:
   - split: 3
     text: "爻光谷"
-    translated: "Light of Divination Valley"
+    translated: "Trigram Light Valley"
 - raw: "981#4#255.449,0.900,842.550#求缘树#qiuyuanshu#9051#255.449,0.900,842.550#"
   splits:
   - split: 3
@@ -1212,7 +1212,7 @@
   splits:
   - split: 3
     text: "桂宫道"
-    translated: "Way of the Osmanthus Palace"
+    translated: "Osmanthus Palace Way"
 - raw: "997#4#586.383,0.900,1556.826#唐门#tangmen#45#586.383,0.900,1556.826#"
   splits:
   - split: 3
