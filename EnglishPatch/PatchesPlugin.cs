@@ -3,6 +3,7 @@ using BepInEx.Logging;
 using EnglishPatch.Patches;
 using HarmonyLib;
 using SweetPotato;
+using UnityEngine;
 
 namespace EnglishPatch;
 
@@ -28,6 +29,6 @@ public class PatchesPlugin : BaseUnityPlugin
         Harmony.CreateAndPatchAll(typeof(QuestIconPatch));
         Harmony.CreateAndPatchAll(typeof(NanDuViewPatch));
         Harmony.CreateAndPatchAll(typeof(NewCharacterScreenPatch));
-        Logger.LogWarning($"Plugin {MyPluginInfo.PLUGIN_GUID} should be patched!");
-    }
+        Logger.LogWarning($"Plugin {MyPluginInfo.PLUGIN_GUID} should be patched!");    
+    }    
 }

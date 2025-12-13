@@ -27,6 +27,7 @@
   idealFontSize: 30
   allowWordWrap: true
   allowAutoSizing: false
+  characterSpacing: 0
 - path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FileView/imag/fileRoot/FilelistScrollView/Viewport/Content1/fixedItem/gbhave/nandu/text"
   sampleText: "Wushu Grandmaster"
   idealFontSize: 20

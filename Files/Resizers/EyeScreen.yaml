@@ -26,7 +26,7 @@
   allowWordWrap: true
 - path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/GameManualView/ItemDetailsPanel/ItemDescription"
   sampleText: "At the market in Cloud Crane Village, I overheard some rumors about the village and accidentally discovered that Yue Hongbo inadvertently revealed how they had acquired intelligence and keys from Evernight Capital."
-  idealFontSize: 24
+  idealFontSize: 20
   allowWordWrap: true
 - path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/GameManualView/ItemDetailsPanel/ItemInfoPanel/Quality"
   idealFontSize: 24

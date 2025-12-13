@@ -2835,6 +2835,11 @@
   badtrans: true
 
 # Places
+- raw: 红妆苑
+  result: Crimson Adornment Court
+  badtrans: true
+  direct: red adornment courtyard
+  literal: hong zhuang yuan
 - raw: 茶庄
   result: Tea Estate
   badtrans: true
@@ -5481,6 +5486,16 @@
   literal: Li San wen  
 
 # Factions & Places
+- raw: 中原高手
+  result: Central Plains Expert
+  badtrans: true
+  direct: central plains skilled person
+  literal: zhong yuan gao shou
+- raw: 天狼帮
+  result: Heavenly Wolf Gang
+  badtrans: true
+  direct: heaven wolf gang
+  literal: tian lang bang
 - raw: 桂宫道
   result: Osmanthus Palace Way
   badtrans: true

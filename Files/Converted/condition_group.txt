@@ -12142,7 +12142,7 @@
   splits:
   - split: 5
     text: "前往红妆苑"
-    translated: "Go to Hongzhuang Yuan"
+    translated: "Head to the Crimson Adornment Court"
 - raw: "3900204#13#1#132079#39002#跟随陈花匠#0#3900203#39008#####0##0###0#0#0#0#0#0############"
   splits:
   - split: 5
@@ -12157,7 +12157,7 @@
   splits:
   - split: 5
     text: "离开红妆苑"
-    translated: "Leaving Hong Zhuang Yuan"
+    translated: "Leaving the Crimson Adornment Court"
 - raw: "3900303#19#1#-124.051,223.2193,-92.79166,79.54998#39003#前往山下房子#0#3900302#39011#####0##0###0#0#0#0#0#0############"
   splits:
   - split: 5
@@ -14524,7 +14524,7 @@
   splits:
   - split: 5
     text: "前往天狼帮"
-    translated: "Head to the Tianlang Gang"
+    translated: "Head to the Heavenly Wolf Gang"
 - raw: "4008806#19#1#1518.386,329.7981,1399.229,1#40088#出城探险#0#4008805#40327#####0##0##0#0#0#0#0#0#0############"
   splits:
   - split: 5

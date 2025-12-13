@@ -53,13 +53,13 @@
   allowWordWrap: true
 - path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/Attri/DataScroll/Viewport/Content/attriRoot*/Title*/Text"
   sampleText: "  Basic Attributes"
-  idealFontSize: 20
+  idealFontSize: 16
   allowWordWrap: true
   allowLeftTrimText: true
   adjustWidth: 50
 - path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/Attri/DataScroll/Viewport/Content/attriRoot*/*"
   sampleText: "Lifeforce"
-  idealFontSize: 22
+  idealFontSize: 16
   allowWordWrap: true
 - path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/Attri/DataScroll/Viewport/Content/talentRoot/Talent*/Name"
   sampleText: "Peerless talent"
