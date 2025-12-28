@@ -827,7 +827,7 @@
   splits:
   - split: 2
     text: "在<color=&&00ff00ff>天机老头</color>处有概率获得"
-    translated: "You may have a chance to obtain at <color=&&00ff00ff>Tianji Laotou</color>."
+    translated: "There is a chance to obtain at <color=&&00ff00ff>Tianji Old Man</color>."
 - raw: "34112001#34112#在<color=&&00ff00ff>昭月祭坛</color>探索有概率获得##0##"
   splits:
   - split: 2
@@ -1092,7 +1092,7 @@
   splits:
   - split: 2
     text: "在<color=&&00ff00ff>天机老头</color>处有概率获得"
-    translated: "You may have a chance to obtain at <color=&&00ff00ff>Tianji Laotou</color>."
+    translated: "There is a chance to obtain at <color=&&00ff00ff>Tianji Old Man</color>."
 - raw: "34316001#34316#在<color=&&00ff00ff>爻光谷</color>探索有概率获得##0##"
   splits:
   - split: 2

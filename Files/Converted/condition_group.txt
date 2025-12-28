@@ -15379,7 +15379,7 @@
   splits:
   - split: 5
     text: "与天机阁成员对话"
-    translated: "Talking to a member of the Celestial Secrets Lodge."
+    translated: "Speaking with members of Tianji Pavilion"
 - raw: "4011502#19#1#1589.656,275.8139,879.2324,1#40115#前往飞鸿原#0#4011501#40451#####0##0##0#0#0#0#0#0#0############"
   splits:
   - split: 5
@@ -15394,7 +15394,7 @@
   splits:
   - split: 5
     text: "击败柳如烟"
-    translated: "Defeat Liuyu Yan"
+    translated: "Defeat Liu Ruyan"
 - raw: "4011601#13#1#7021#40116#前去送信#891691##0#####0##0##0#0#0#0#0#0#0############"
   splits:
   - split: 5

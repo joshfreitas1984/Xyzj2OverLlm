@@ -14681,7 +14681,7 @@
   splits:
   - split: 3
     text: "天机阁打听之物，使命必达。你所打听的（"
-    translated: "Mysterious matters of Tianji Hall: The mission must be accomplished. What are you seeking? ("
+    translated: "Tianji Pavilion seeks whatever you inquire about; the mission must be accomplished. What is it that you are seeking to know? ("
 - raw: "XiaYunLuManager,OnDaTingFeiGeSend,692,）已送达。,[DaTingInfo]"
   splits:
   - split: 3
@@ -14691,7 +14691,7 @@
   splits:
   - split: 3
     text: "天机阁打听之物，使命必达。你所打听的（"
-    translated: "Mysterious matters of Tianji Hall: The mission must be accomplished. What are you seeking? ("
+    translated: "Tianji Pavilion seeks whatever you inquire about; the mission must be accomplished. What is it that you are seeking to know? ("
 - raw: "XiaYunLuManager,OnDaTingFeiGeSend,845,）已送达。,[DaTingInfo]"
   splits:
   - split: 3
@@ -14701,7 +14701,7 @@
   splits:
   - split: 3
     text: "天机阁打听之物，使命必达。你所打听的（"
-    translated: "Mysterious matters of Tianji Hall: The mission must be accomplished. What are you seeking? ("
+    translated: "Tianji Pavilion seeks whatever you inquire about; the mission must be accomplished. What is it that you are seeking to know? ("
 - raw: "XiaYunLuManager,OnDaTingFeiGeSend,983,）已送达。,[DaTingInfo]"
   splits:
   - split: 3

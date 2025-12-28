@@ -24423,7 +24423,7 @@
   splits:
   - split: 1
     text: "天机阁"
-    translated: "Heaven's Secret Pavilion"
+    translated: "Tianji Pavilion"
 - raw: "31714#府泰宏#3015029#0#0#0#0#462#0#0#0#1#703.664#373.422#1571.27#-138.85#1#0#0##62143##100#0#0#3015#0#0#0########0#"
   splits:
   - split: 1
@@ -36883,7 +36883,7 @@
   splits:
   - split: 1
     text: "天机老头"
-    translated: "The Old Man of the Hidden Mechanism"
+    translated: "Tianji Old Man"
 - raw: "34826#高乃阳#160122#160585#0#0#0#462#0#0#4092#1#782.033#289.504#1118.55#311.428#1#0#160615##62148#46003|46013|57003|49003|49012|45034#100#0#36|1818#3107#24#0#0########0#"
   splits:
   - split: 1
@@ -52125,7 +52125,7 @@
   splits:
   - split: 1
     text: "柳如烟"
-    translated: "Liu Ruoyan"
+    translated: "Liu Ruyan"
 - raw: "55651#苏慕雪#55651#0#1#18#0#0#0#0#0#1#891.715#509.504#2016.48#180.0#1#0#0##62144#46003|46013|57003|49003|49012|49021|45014#100#0##3089#0#0#0######0##0#"
   splits:
   - split: 1
@@ -53100,7 +53100,7 @@
   splits:
   - split: 1
     text: "天机阁"
-    translated: "Heaven's Secret Pavilion"
+    translated: "Tianji Pavilion"
 - raw: "70010#不详#0#0#3#101#0#186#0#0#0#1#0.0#0.0#0.0#0.0#1#103#0##62141##100#0#0#0#64#0#0####500000####0#"
   splits:
   - split: 1
@@ -83509,7 +83509,7 @@
   splits:
   - split: 1
     text: "天狼帮众2"
-    translated: "Heavenly Wolf Gang Members 2."
+    translated: "Heavenly Wolf Gang Members 2"
 - raw: "165506#擂台高手1#165506001#0#0#0#0#0#0#0#0#1#1598.49#262.789#954.89#359.095#0#0#0##0##100#0##3095#0#0#0######0##0#"
   splits:
   - split: 1
@@ -84619,7 +84619,7 @@
   splits:
   - split: 1
     text: "天机阁成员"
-    translated: "Members of Tianji Hall"
+    translated: "Members of Tianji Pavilion"
 - raw: "165729#间尘#165729001#0#0#0#0#0#0#0#0#1#1592.09#276.294#878.355#223.85#0#0#0##0#0#100#0##3075#0#0#0#0#1#1#####0#"
   splits:
   - split: 1

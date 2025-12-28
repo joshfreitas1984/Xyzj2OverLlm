@@ -2083,6 +2083,11 @@
   literal: ji neng juan
 
 # Items and Minerals
+- raw: 天下密卷
+  result: Tian Xia Secret Scrolls
+  badtrans: true
+  direct: Heaven Under Secret Scroll
+  literal: tian xia mi juan
 - raw: 翡翠钥匙
   result: Emerald Jade Key
   badtrans: true
@@ -3183,6 +3188,16 @@
   literal: "{P} jiang jun"
 
 # Names
+- raw: 天机老头
+  result: Tianji Old Man
+  badtrans: true
+  direct: Heaven Mechanism Old Man
+  literal: tian ji lao tou
+- raw: 柳如烟
+  result: Liu Ruyan
+  badtrans: true
+  direct: Willow Like Smoke
+  literal: liu ru yan
 - raw: 捭阖众
   result: Baihe Followers
   badtrans: true
@@ -5486,6 +5501,11 @@
   literal: Li San wen  
 
 # Factions & Places
+- raw: 天机阁
+  result: Tianji Pavilion
+  badtrans: true
+  direct: Heaven Mechanism Pavilion
+  literal: tian ji ge
 - raw: 中原高手
   result: Central Plains Expert
   badtrans: true

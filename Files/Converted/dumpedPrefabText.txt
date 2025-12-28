@@ -10179,7 +10179,7 @@
 - raw: " 天机老头"
   splits:
   - text: " 天机老头"
-    translated: "Old Man Tianji"
+    translated: "Tianji Old Man"
 - raw: "卧龙"
   splits:
   - text: "卧龙"
@@ -10207,7 +10207,7 @@
 - raw: "天机老头"
   splits:
   - text: "天机老头"
-    translated: "Old Sage Tianji"
+    translated: "Tianji Old Man"
 - raw: "江湖名望"
   splits:
   - text: "江湖名望"
