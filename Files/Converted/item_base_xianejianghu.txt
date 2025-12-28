@@ -23412,6 +23412,14 @@
   - split: 1
     text: "石王剑"
     translated: "Sky‑King Sword"
+- raw: "50641#真武剑#1#1#14#16#37231#1#0#1#0#0#jian10#1700005#0#1700009#3906#3601#30000#####0#0#0#6005#5#7####0###0###1#0##传闻-武林大会##1#0#1##"
+  splits:
+  - split: 1
+    text: "真武剑"
+    translated: "Zhenwu Sword"
+  - split: 41
+    text: "传闻-武林大会"
+    translated: "Rumors have it.. ‑ Wulin Dachui"
 - raw: "53001#七翎匣#1#8#1000#26#16884#1#0#1#0#0#jianqiao1#53001#0#55001#3801#3604#30009#####0#0#0#7011#3#7####0#65013|24#0&43|0#0##0#1#0#0#0#0#3#0#1#0#"
   splits:
   - split: 1
@@ -25587,6 +25595,14 @@
   - split: 41
     text: "巧手获得"
     translated: "Skilled hands are acquired"
+- raw: "54438#天工图谱·卷五（拍卖会固定品质）#4#19#14#16#16986#1#0#1#0#0#tiangongtu#54437#0#56437##3600#0#####0#0#0#0#0#0####0###0####0##拍卖会专属品质##0#0#0##"
+  splits:
+  - split: 1
+    text: "天工图谱·卷五（拍卖会固定品质）"
+    translated: "Divine Craft Map · Volume Five (Fixed Quality Auction Event)"
+  - split: 41
+    text: "拍卖会专属品质"
+    translated: "Auction‑exclusive quality"
 - raw: "54440#劣等绛霜丝#3#17#10#10#150#99999#0#1#0#0#jiangshuangsi#54440#0#56440#0#3600#0##1000###0#0#0#0#0#0###2|3000&3|3000&4|4000&5|3000&6|3000&7|4000&1|1000&999|1000#0###0##0#0#0#0#0#0#0#0#1#0#"
   splits:
   - split: 1
@@ -34639,11 +34655,6 @@
   - split: 1
     text: "恩怨名册"
     translated: "Register of Grievances"
-- raw: "80287#冷香坞情报#2#6#12#12#5000#99999#0#1#0#0#shuxin1#931573#0#931572#0#3600#0#931571#80287###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#1#0#"
-  splits:
-  - split: 1
-    text: "冷香坞情报"
-    translated: "Cold Fragrance Cove Intelligence Report"
 - raw: "80288#骆家军情报#2#6#12#12#5000#99999#0#1#0#0#shuxin1#931567#0#931566#0#3600#0#931565#80288###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#1#0#"
   splits:
   - split: 1
@@ -39169,14 +39180,17 @@
   - split: 46
     text: "纯外观DLC《江湖初见》解锁获得"
     translated: "Unlock obtained purely for visual DLC 'First Impressions of the Jianghu.'"
-- raw: "83004#太极鲤影#1#10#13#14#0#99999#0#1#800#0#bw_smbl_banshu#83004#0#8400902#0#3600#0#83004#802###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《舞弄太极》解锁获得#0#0#0#0##"
+- raw: "83004#太极鲤影#1#10#13#14#0#99999#0#1#800#0#bw_smbl_banshu#83004#0#8400902#0#3600#0#83004#802###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《舞弄太极》解锁获得#0#0#0#0#纯外观DLC《日月玄宗》解锁获得#"
   splits:
   - split: 1
     text: "太极鲤影"
     translated: "Taiji Carp Shadow"
   - split: 41
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Unlocked upon obtaining 'Pure Appearance DLC ‑ Dance of Taiji'"
+    translated: "Unlocked upon obtaining 'Pure Aesthetic DLC: Wumeng Taiji.'"
+  - split: 46
+    text: "纯外观DLC《日月玄宗》解锁获得"
+    translated: "Purely visual DLC Xuanyuan Zong unlocked and obtained."
 - raw: "83005#笑傲江湖#1#10#13#14#0#99999#0#1#800#0#bw_smbl_banshu#83005#0#158938#0#3600#0#83005#803###0#0#0#0#0#0####0###0##0#0#0#0#PC专属福利#0#0#0#0##"
   splits:
   - split: 1
@@ -39433,10 +39447,10 @@
     translated: "Supreme Ultimate Sword"
   - split: 41
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Unlocked upon obtaining 'Pure Appearance DLC ‑ Dance of Taiji'"
+    translated: "Unlocked upon obtaining 'Pure Aesthetic DLC: Wumeng Taiji.'"
   - split: 46
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Unlocked upon obtaining 'Pure Appearance DLC ‑ Dance of Taiji'"
+    translated: "Unlocked upon obtaining 'Pure Aesthetic DLC: Wumeng Taiji.'"
 - raw: "84010#太极拳#6#1#14#15#0#99999#0#1#0#0#miji14#8401001#0#8401002#0#3600#0#132900#sfx_main_hero_130620&0&true&true###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《舞弄太极》解锁获得#0#0#0#1#纯外观DLC《舞弄太极》解锁获得#"
   splits:
   - split: 1
@@ -39444,10 +39458,10 @@
     translated: "Tai Chi Fist"
   - split: 41
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Unlocked upon obtaining 'Pure Appearance DLC ‑ Dance of Taiji'"
+    translated: "Unlocked upon obtaining 'Pure Aesthetic DLC: Wumeng Taiji.'"
   - split: 46
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Unlocked upon obtaining 'Pure Appearance DLC ‑ Dance of Taiji'"
+    translated: "Unlocked upon obtaining 'Pure Aesthetic DLC: Wumeng Taiji.'"
 - raw: "84011#棒打狗头#6#1#14#15#0#99999#0#1#0#0#miji14#8401101#0#8401102#0#3600#0#121500#sfx_main_hero_140570&0&true&true###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《舞弄太极》解锁获得#0#0#0#1#纯外观DLC《风华绝代》解锁获得#"
   splits:
   - split: 1
@@ -39455,7 +39469,7 @@
     translated: "Beating a dog's head with a stick"
   - split: 41
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Unlocked upon obtaining 'Pure Appearance DLC ‑ Dance of Taiji'"
+    translated: "Unlocked upon obtaining 'Pure Aesthetic DLC: Wumeng Taiji.'"
   - split: 46
     text: "纯外观DLC《风华绝代》解锁获得"
     translated: "Purely Aesthetic DLC 'Fenghua Juedeai' Unlocked Obtained"
@@ -39466,7 +39480,7 @@
     translated: "There are no dogs in the world"
   - split: 41
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Unlocked upon obtaining 'Pure Appearance DLC ‑ Dance of Taiji'"
+    translated: "Unlocked upon obtaining 'Pure Aesthetic DLC: Wumeng Taiji.'"
   - split: 46
     text: "纯外观DLC《风华绝代》解锁获得"
     translated: "Purely Aesthetic DLC 'Fenghua Juedeai' Unlocked Obtained"
@@ -39477,7 +39491,7 @@
     translated: "Frozen three feet thick"
   - split: 41
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Unlocked upon obtaining 'Pure Appearance DLC ‑ Dance of Taiji'"
+    translated: "Unlocked upon obtaining 'Pure Aesthetic DLC: Wumeng Taiji.'"
   - split: 46
     text: "纯外观DLC《风华绝代》解锁获得"
     translated: "Purely Aesthetic DLC 'Fenghua Juedeai' Unlocked Obtained"
@@ -39488,7 +39502,7 @@
     translated: "Frosty Blade, Heart of Ice"
   - split: 41
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Unlocked upon obtaining 'Pure Appearance DLC ‑ Dance of Taiji'"
+    translated: "Unlocked upon obtaining 'Pure Aesthetic DLC: Wumeng Taiji.'"
   - split: 46
     text: "纯外观DLC《风华绝代》解锁获得"
     translated: "Purely Aesthetic DLC 'Fenghua Juedeai' Unlocked Obtained"
@@ -39970,10 +39984,10 @@
     translated: "Taming Taiji · Paid Fashion 12: The Shadow Glides Through the Wind"
   - split: 41
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Unlocked upon obtaining 'Pure Appearance DLC ‑ Dance of Taiji'"
+    translated: "Unlocked upon obtaining 'Pure Aesthetic DLC: Wumeng Taiji.'"
   - split: 46
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Unlocked upon obtaining 'Pure Appearance DLC ‑ Dance of Taiji'"
+    translated: "Unlocked upon obtaining 'Pure Aesthetic DLC: Wumeng Taiji.'"
 - raw: "86013#舞弄太极·付费时装13：金鹤凌云#1#11#13#14#0#99999#0#1#0#0#shizhuang_86013#86013#0#8601301#0#3600#0#21600#810###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《舞弄太极》解锁获得#0#0#1|4|8|16|33#0#纯外观DLC《舞弄太极》解锁获得#"
   splits:
   - split: 1
@@ -39981,10 +39995,10 @@
     translated: "Manipulating Taijiquan · Paid Outfit 13: Golden Phoenix Ascending to the Clouds"
   - split: 41
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Unlocked upon obtaining 'Pure Appearance DLC ‑ Dance of Taiji'"
+    translated: "Unlocked upon obtaining 'Pure Aesthetic DLC: Wumeng Taiji.'"
   - split: 46
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Unlocked upon obtaining 'Pure Appearance DLC ‑ Dance of Taiji'"
+    translated: "Unlocked upon obtaining 'Pure Aesthetic DLC: Wumeng Taiji.'"
 - raw: "86014#免费时装14：天穹锦霞#1#11#13#14#0#99999#0#1#0#0#shizhuang_86014#86014#0#8601401#0#3600#0#21700#810###0#0#0#0#0#0####0###0##0#0#0#0#PC专属福利#0#0#1|4|8|16|33#0#PC专属福利#"
   splits:
   - split: 1
@@ -40029,7 +40043,7 @@
   - split: 46
     text: "PC专属，2024年万圣节福利"
     translated: "PC exclusive, 2024 year Halloween promotion"
-- raw: "86018#日月神教衣服男：日曜朱衣#1#11#13#14#0#99999#0#1#0#0#shizhuang_86018#86018#0#8601801#0#3600#0#22100#810###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《日月同辉》解锁获得#0#0#1|4|8|16|33#0#纯外观DLC《日月同辉》解锁获得#"
+- raw: "86018#日月神教衣服男：日曜朱衣#1#11#13#14#0#99999#0#1#0#0#shizhuang_86018#86018#0#8601801#0#3600#0#22100#810###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《日月同辉》解锁获得#0#0#1|4|8|16|33#0#纯外观DLC《日月玄宗》解锁获得#"
   splits:
   - split: 1
     text: "日月神教衣服男：日曜朱衣"
@@ -40038,8 +40052,8 @@
     text: "纯外观DLC《日月同辉》解锁获得"
     translated: "Unlock and obtain purely cosmetic DLC 'Day and Night Shine Together'."
   - split: 46
-    text: "纯外观DLC《日月同辉》解锁获得"
-    translated: "Unlock and obtain purely cosmetic DLC 'Day and Night Shine Together'."
+    text: "纯外观DLC《日月玄宗》解锁获得"
+    translated: "Purely visual DLC Xuanyuan Zong unlocked and obtained."
 - raw: "86020#书生线时装1:青云书衣#1#11#13#14#0#99999#0#1#0#0#shizhuang_86020#86020#0#8602001#0#3600#0#28000#810###0#0#0#0#0#0####0###0##0#0#0#0##0#0#1|4|8|16|33#0##"
   splits:
   - split: 1
@@ -40190,17 +40204,17 @@
   - split: 1
     text: "原皮时装50：飞燕流云"
     translated: "Vintage leather costume 50: Feathered Swallow and Drifting Clouds"
-- raw: "86051#舞弄太极·付费时装51：冰澜雅裳#1#11#13#14#0#99999#0#1#0#0#shizhuang_86051#86051#0#8605101#0#3600#0#27100#810##1#0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《舞弄太极》解锁获得##0#2#0#纯外观DLC《舞弄太极》解锁获得#"
+- raw: "86051#舞弄太极·付费时装51：冰澜雅裳#1#11#13#14#0#99999#0#1#0#0#shizhuang_86051#86051#0#8605101#0#3600#0#27100#810##1#0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《舞弄太极》解锁获得##0#2#0#纯外观DLC《风华绝代》解锁获得#"
   splits:
   - split: 1
     text: "舞弄太极·付费时装51：冰澜雅裳"
     translated: "Dancing Tai Chi · Paid Fashion 51: Frosty Ripples of Graceful Robes"
   - split: 41
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Unlocked upon obtaining 'Pure Appearance DLC ‑ Dance of Taiji'"
+    translated: "Unlocked upon obtaining 'Pure Aesthetic DLC: Wumeng Taiji.'"
   - split: 46
-    text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Unlocked upon obtaining 'Pure Appearance DLC ‑ Dance of Taiji'"
+    text: "纯外观DLC《风华绝代》解锁获得"
+    translated: "Purely Aesthetic DLC 'Fenghua Juedeai' Unlocked Obtained"
 - raw: "86052#舞弄太极·付费时装52：鹤梦云裳#1#11#13#14#0#99999#0#1#0#0#shizhuang_86052#86052#0#8605201#0#3600#0#27200#810##1#0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《舞弄太极》解锁获得##0#2#0#纯外观DLC《舞弄太极》解锁获得#"
   splits:
   - split: 1
@@ -40208,10 +40222,10 @@
     translated: "Taiji Performance · Pay‑to‑Wear Outfit 52: Swan Dream Robe"
   - split: 41
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Unlocked upon obtaining 'Pure Appearance DLC ‑ Dance of Taiji'"
+    translated: "Unlocked upon obtaining 'Pure Aesthetic DLC: Wumeng Taiji.'"
   - split: 46
     text: "纯外观DLC《舞弄太极》解锁获得"
-    translated: "Unlocked upon obtaining 'Pure Appearance DLC ‑ Dance of Taiji'"
+    translated: "Unlocked upon obtaining 'Pure Aesthetic DLC: Wumeng Taiji.'"
 - raw: "86053#免费时装53：琼华月影#1#11#13#14#0#99999#0#1#0#0#shizhuang_86053#86053#0#8605301#0#3600#0#27300#810###0#0#0#0#0#0####0###0##0#0#0#0#PC专属福利#0#0#2#0#PC专属福利#"
   splits:
   - split: 1
@@ -40256,7 +40270,7 @@
   - split: 46
     text: "PC专属，2024年万圣节福利"
     translated: "PC exclusive, 2024 year Halloween promotion"
-- raw: "86057#日月神教衣服女： 皓阳绛裳#1#11#13#14#0#99999#0#1#0#0#shizhuang_86057#86057#0#8605701#0#3600#0#27600#810###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《日月同辉》解锁获得#0#0#2#0#纯外观DLC《日月同辉》解锁获得#"
+- raw: "86057#日月神教衣服女： 皓阳绛裳#1#11#13#14#0#99999#0#1#0#0#shizhuang_86057#86057#0#8605701#0#3600#0#27600#810###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《日月同辉》解锁获得#0#0#2#0#纯外观DLC《日月玄宗》解锁获得#"
   splits:
   - split: 1
     text: "日月神教衣服女： 皓阳绛裳"
@@ -40265,9 +40279,9 @@
     text: "纯外观DLC《日月同辉》解锁获得"
     translated: "Unlock and obtain purely cosmetic DLC 'Day and Night Shine Together'."
   - split: 46
-    text: "纯外观DLC《日月同辉》解锁获得"
-    translated: "Unlock and obtain purely cosmetic DLC 'Day and Night Shine Together'."
-- raw: "86058#DLC时装女: 墨锦华裳#1#11#13#14#0#99999#0#1#0#0#shizhuang_86057#86058#0#8605801#0#3600#0#27720#810###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《传世降龙》解锁获得#0#0#2#0#纯外观DLC《传世降龙》解锁获得#"
+    text: "纯外观DLC《日月玄宗》解锁获得"
+    translated: "Purely visual DLC Xuanyuan Zong unlocked and obtained."
+- raw: "86058#DLC时装女: 墨锦华裳#1#11#13#14#0#99999#0#1#0#0#shizhuang_86057#86058#0#8605801#0#3600#0#27720#810###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《传世降龙》解锁获得#0#0#2#0#纯外观DLC《江湖初见》解锁获得#"
   splits:
   - split: 1
     text: "DLC时装女: 墨锦华裳"
@@ -40276,8 +40290,8 @@
     text: "纯外观DLC《传世降龙》解锁获得"
     translated: "Unlock and obtain the purely cosmetic DLC 'Dragon Subduing.'"
   - split: 46
-    text: "纯外观DLC《传世降龙》解锁获得"
-    translated: "Unlock and obtain the purely cosmetic DLC 'Dragon Subduing.'"
+    text: "纯外观DLC《江湖初见》解锁获得"
+    translated: "Unlock obtained purely for visual DLC 'First Impressions of the Jianghu.'"
 - raw: "86059#DLC时装女:红裘绯衣#1#11#13#14#0#99999#0#1#0#0#shizhuang_86057#86059#0#8605901#0#3600#0#27710#810###0#0#0#0#0#0####0###0##0#0#0#0#PC专属，2025年新春福利#0#0#2#0#PC专属，2025年新春福利#"
   splits:
   - split: 1
@@ -40289,7 +40303,7 @@
   - split: 46
     text: "PC专属，2025年新春福利"
     translated: "PC exclusive, 2025 year New Year's welfare"
-- raw: "86060#剑指六脉·付费时装60：琅嬛玉魄#1#11#13#14#0#99999#0#1#0#0#bujia3#86060#0#156456#0#3600#0#27730#810###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《剑指六脉》解锁获得#0#0#2#0#纯外观DLC《剑指六脉》解锁获得#"
+- raw: "86060#剑指六脉·付费时装60：琅嬛玉魄#1#11#13#14#0#99999#0#1#0#0#bujia3#86060#0#156456#0#3600#0#27730#810###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《剑指六脉》解锁获得#0#0#2#0#纯外观DLC《风华绝代》解锁获得#"
   splits:
   - split: 1
     text: "剑指六脉·付费时装60：琅嬛玉魄"
@@ -40298,8 +40312,8 @@
     text: "纯外观DLC《剑指六脉》解锁获得"
     translated: "Purely cosmetic DLC 'Sword Point at the Six Meridians' unlocked obtained."
   - split: 46
-    text: "纯外观DLC《剑指六脉》解锁获得"
-    translated: "Purely cosmetic DLC 'Sword Point at the Six Meridians' unlocked obtained."
+    text: "纯外观DLC《风华绝代》解锁获得"
+    translated: "Purely Aesthetic DLC 'Fenghua Juedeai' Unlocked Obtained"
 - raw: "86061#补偿时装61：天舞幻韵#1#11#13#14#0#99999#0#1#0#0#bujia3#86061#0#156458#0#3600#0#27740#810###0#0#0#0#0#0####0###0##0#0#0#0#PC专属福利#0#0#2#0#PC专属福利#"
   splits:
   - split: 1

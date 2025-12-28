@@ -64,11 +64,11 @@ public static class ToolsPatch
             var dateTime = new DateTime(year, month, day);
             var shortMonth = dateTime.ToString("MMM");
 
-            return $"{day}-{shortMonth}-JY{year} {Tools.SHI_CHENG_STR[hour / 2]}";
+            return $"{day}-{shortMonth}-JY{year} {LocalStringArray.DI_ZHI[hour / 2]}";
         }
         catch         
         {
-            return $"{day}-{month}-JY{year} {Tools.SHI_CHENG_STR[hour / 2]}";
+            return $"{day}-{month}-JY{year} {LocalStringArray.DI_ZHI[hour / 2]}";
         }
         
     }
@@ -106,7 +106,7 @@ public static class ToolsPatch
             var shortMonth = dateTime.ToString("MMM");
 
             if (certainHour)
-                return $"{day}-{shortMonth}-JY{year} {Tools.SHI_CHENG_STR[hour / 2]}";
+                return $"{day}-{shortMonth}-JY{year} {LocalStringArray.DI_ZHI[hour / 2]}";
 
             return $"{day}-{shortMonth}-JY{year}";
         }
@@ -117,7 +117,7 @@ public static class ToolsPatch
             PatchesPlugin.Logger.LogWarning($"Certainhour: {certainHour} addOriginalTime: {addOriginalTime}");
 
             if (certainHour)
-                return $"{day}-{month}-JY{year} {Tools.SHI_CHENG_STR[hour / 2]}";
+                return $"{day}-{month}-JY{year} {LocalStringArray.DI_ZHI[hour / 2]}";
 
             return $"{day}-{month}-JY{year}";
         }

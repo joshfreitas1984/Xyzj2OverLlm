@@ -24,7 +24,7 @@ namespace EnglishPatch.Patches
                 AttriType attriType = InstantiateViewNewNew_mobile.GetAttriType(index);
                 string attriDesc = InstantiateViewNewNew_mobile.GetAttriDesc(attriType);
 
-                m_shuxingitems[index].text = Tools.m_AttrName[(int)attriType] + "<color=#616161><size=20>(" + attriDesc + ")";
+                m_shuxingitems[index].text = LocalStringArray.m_AttrName[(int)attriType] + "<color=#616161><size=20>(" + attriDesc + ")";
             }
 
             return false; // Skip original method

@@ -238,6 +238,51 @@
   - split: 5
     text: "风华绝代DLC"
     translated: "DLC: Unrivaled Beauty of the Times"
+- raw: "4039#4#460#86018|1#0#日月玄宗DLC#1#"
+  splits:
+  - split: 5
+    text: "日月玄宗DLC"
+    translated: "Day and Moon Emperor Xuanzong DLC"
+- raw: "4040#4#460#86057|1#0#日月玄宗DLC#1#"
+  splits:
+  - split: 5
+    text: "日月玄宗DLC"
+    translated: "Day and Moon Emperor Xuanzong DLC"
+- raw: "4041#4#460#84016|1#0#日月玄宗DLC#1#"
+  splits:
+  - split: 5
+    text: "日月玄宗DLC"
+    translated: "Day and Moon Emperor Xuanzong DLC"
+- raw: "4042#4#460#84017|1#0#日月玄宗DLC#1#"
+  splits:
+  - split: 5
+    text: "日月玄宗DLC"
+    translated: "Day and Moon Emperor Xuanzong DLC"
+- raw: "4043#4#460#84018|1#0#日月玄宗DLC#1#"
+  splits:
+  - split: 5
+    text: "日月玄宗DLC"
+    translated: "Day and Moon Emperor Xuanzong DLC"
+- raw: "4044#4#460#84009|1#0#日月玄宗DLC#1#"
+  splits:
+  - split: 5
+    text: "日月玄宗DLC"
+    translated: "Day and Moon Emperor Xuanzong DLC"
+- raw: "4045#4#460#84010|1#0#日月玄宗DLC#1#"
+  splits:
+  - split: 5
+    text: "日月玄宗DLC"
+    translated: "Day and Moon Emperor Xuanzong DLC"
+- raw: "4046#4#460#83004|1#0#日月玄宗DLC#1#"
+  splits:
+  - split: 5
+    text: "日月玄宗DLC"
+    translated: "Day and Moon Emperor Xuanzong DLC"
+- raw: "4047#4#460#34610|1#0#日月玄宗DLC#1#"
+  splits:
+  - split: 5
+    text: "日月玄宗DLC"
+    translated: "Day and Moon Emperor Xuanzong DLC"
 - raw: "6002#6#2#86006|1#0#激活码道具#1#"
   splits:
   - split: 5
@@ -328,193 +373,238 @@
   - split: 5
     text: "激活码道具"
     translated: "Activation Code Item"
-- raw: "7001#7#316#83002|1#0#江湖初见DLC#1#"
+- raw: "7001#7#3161#83002|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7002#7#316#83003|1#0#江湖初见DLC#1#"
+- raw: "7002#7#3161#83003|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7003#7#316#84021|1#0#江湖初见DLC#1#"
+- raw: "7003#7#3161#84021|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7004#7#316#84022|1#0#江湖初见DLC#1#"
+- raw: "7004#7#3161#84022|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7005#7#316#84023|1#0#江湖初见DLC#1#"
+- raw: "7005#7#3161#84023|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7006#7#316#84024|1#0#江湖初见DLC#1#"
+- raw: "7006#7#3161#84024|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7007#7#316#84025|1#0#江湖初见DLC#1#"
+- raw: "7007#7#3161#84025|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7008#7#316#84026|1#0#江湖初见DLC#1#"
+- raw: "7008#7#3161#84026|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7009#7#316#84027|1#0#江湖初见DLC#1#"
+- raw: "7009#7#3161#84027|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7010#7#316#84028|1#0#江湖初见DLC#1#"
+- raw: "7010#7#3161#84028|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7011#7#316#84029|1#0#江湖初见DLC#1#"
+- raw: "7011#7#3161#84029|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7012#7#316#84030|1#0#江湖初见DLC#1#"
+- raw: "7012#7#3161#84030|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7013#7#316#84031|1#0#江湖初见DLC#1#"
+- raw: "7013#7#3161#84031|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7014#7#316#84032|1#0#江湖初见DLC#1#"
+- raw: "7014#7#3161#84032|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7015#7#316#84033|1#0#江湖初见DLC#1#"
+- raw: "7015#7#3161#84033|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7016#7#316#84001|1#0#江湖初见DLC#1#"
+- raw: "7016#7#3161#84001|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7017#7#316#84002|1#0#江湖初见DLC#1#"
+- raw: "7017#7#3161#84002|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7018#7#316#84003|1#0#江湖初见DLC#1#"
+- raw: "7018#7#3161#84003|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7019#7#316#84004|1#0#江湖初见DLC#1#"
+- raw: "7019#7#3161#84004|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7020#7#316#84034|1#0#江湖初见DLC#1#"
+- raw: "7020#7#3161#84034|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7021#7#316#84005|1#0#江湖初见DLC#1#"
+- raw: "7021#7#3161#84005|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7022#7#316#84006|1#0#江湖初见DLC#1#"
+- raw: "7022#7#3161#84006|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7023#7#316#84007|1#0#江湖初见DLC#1#"
+- raw: "7023#7#3161#84007|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7024#7#316#84008|1#0#江湖初见DLC#1#"
+- raw: "7024#7#3161#84008|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7025#7#316#86022|1#0#江湖初见DLC#1#"
+- raw: "7025#7#3161#86022|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7026#7#316#86058|1#0#江湖初见DLC#1#"
+- raw: "7026#7#3161#86058|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7027#7#316#39004|1#0#江湖初见DLC#1#"
+- raw: "7027#7#3161#39004|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7028#7#316#39006|1#0#江湖初见DLC#1#"
+- raw: "7028#7#3161#39006|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7029#7#316#86036|1#0#江湖初见DLC#1#"
+- raw: "7029#7#3161#86036|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7030#7#316#86064|1#0#江湖初见DLC#1#"
+- raw: "7030#7#3161#86064|1#0#江湖初见DLC#1#"
   splits:
   - split: 5
     text: "江湖初见DLC"
     translated: "First Encounter in the Jianghu DLC"
-- raw: "7031#7#349#86067|1#0#风华绝代DLC#1#"
+- raw: "7031#7#3491#86067|1#0#风华绝代DLC#1#"
   splits:
   - split: 5
     text: "风华绝代DLC"
     translated: "DLC: Unrivaled Beauty of the Times"
-- raw: "7032#7#349#86051|1#0#风华绝代DLC#1#"
+- raw: "7032#7#3491#86051|1#0#风华绝代DLC#1#"
   splits:
   - split: 5
     text: "风华绝代DLC"
     translated: "DLC: Unrivaled Beauty of the Times"
-- raw: "7033#7#349#86060|1#0#风华绝代DLC#1#"
+- raw: "7033#7#3491#86060|1#0#风华绝代DLC#1#"
   splits:
   - split: 5
     text: "风华绝代DLC"
     translated: "DLC: Unrivaled Beauty of the Times"
-- raw: "7034#7#349#86066|1#0#风华绝代DLC#1#"
+- raw: "7034#7#3491#86066|1#0#风华绝代DLC#1#"
   splits:
   - split: 5
     text: "风华绝代DLC"
     translated: "DLC: Unrivaled Beauty of the Times"
-- raw: "7035#7#349#84011|1#0#风华绝代DLC#1#"
+- raw: "7035#7#3491#84011|1#0#风华绝代DLC#1#"
   splits:
   - split: 5
     text: "风华绝代DLC"
     translated: "DLC: Unrivaled Beauty of the Times"
-- raw: "7036#7#349#84012|1#0#风华绝代DLC#1#"
+- raw: "7036#7#3491#84012|1#0#风华绝代DLC#1#"
   splits:
   - split: 5
     text: "风华绝代DLC"
     translated: "DLC: Unrivaled Beauty of the Times"
-- raw: "7037#7#349#84013|1#0#风华绝代DLC#1#"
+- raw: "7037#7#3491#84013|1#0#风华绝代DLC#1#"
   splits:
   - split: 5
     text: "风华绝代DLC"
     translated: "DLC: Unrivaled Beauty of the Times"
-- raw: "7038#7#349#84014|1#0#风华绝代DLC#1#"
+- raw: "7038#7#3491#84014|1#0#风华绝代DLC#1#"
   splits:
   - split: 5
     text: "风华绝代DLC"
     translated: "DLC: Unrivaled Beauty of the Times"
+- raw: "7039#7#385#86018|1#0#日月玄宗DLC#1#"
+  splits:
+  - split: 5
+    text: "日月玄宗DLC"
+    translated: "Day and Moon Emperor Xuanzong DLC"
+- raw: "7040#7#385#86057|1#0#日月玄宗DLC#1#"
+  splits:
+  - split: 5
+    text: "日月玄宗DLC"
+    translated: "Day and Moon Emperor Xuanzong DLC"
+- raw: "7041#7#385#84016|1#0#日月玄宗DLC#1#"
+  splits:
+  - split: 5
+    text: "日月玄宗DLC"
+    translated: "Day and Moon Emperor Xuanzong DLC"
+- raw: "7042#7#385#84017|1#0#日月玄宗DLC#1#"
+  splits:
+  - split: 5
+    text: "日月玄宗DLC"
+    translated: "Day and Moon Emperor Xuanzong DLC"
+- raw: "7043#7#385#84018|1#0#日月玄宗DLC#1#"
+  splits:
+  - split: 5
+    text: "日月玄宗DLC"
+    translated: "Day and Moon Emperor Xuanzong DLC"
+- raw: "7044#7#385#84009|1#0#日月玄宗DLC#1#"
+  splits:
+  - split: 5
+    text: "日月玄宗DLC"
+    translated: "Day and Moon Emperor Xuanzong DLC"
+- raw: "7045#7#385#84010|1#0#日月玄宗DLC#1#"
+  splits:
+  - split: 5
+    text: "日月玄宗DLC"
+    translated: "Day and Moon Emperor Xuanzong DLC"
+- raw: "7046#7#385#83004|1#0#日月玄宗DLC#1#"
+  splits:
+  - split: 5
+    text: "日月玄宗DLC"
+    translated: "Day and Moon Emperor Xuanzong DLC"
+- raw: "7047#7#385#34610|1#0#日月玄宗DLC#1#"
+  splits:
+  - split: 5
+    text: "日月玄宗DLC"
+    translated: "Day and Moon Emperor Xuanzong DLC"

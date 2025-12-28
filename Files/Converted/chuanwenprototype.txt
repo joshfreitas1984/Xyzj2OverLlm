@@ -108,3 +108,11 @@
   - split: 9
     text: "[不夜京]擂台赛"
     translated: "[Evernight Capital] Arena Tournament"
+- raw: "8000001#104#0#0###360#江湖风波未平，魔教暗流涌动。为以此匡扶正义，定武林之序，特邀天下豪杰。聚遥雪峰之巅，设擂比武，胜者为武林至尊，号令群雄。#8#[江湖]武林大会#0&130|5|1|360;66|1|>=|13#53049#0#"
+  splits:
+  - split: 7
+    text: "江湖风波未平，魔教暗流涌动。为以此匡扶正义，定武林之序，特邀天下豪杰。聚遥雪峰之巅，设擂比武，胜者为武林至尊，号令群雄。"
+    translated: "The ripples of the Jianghu have not yet settled; dark currents from the Demon Sect are surging. To uphold justice and restore order in Wulin, I am inviting heroes from across the land. We will gather at the peak of Distant Snow Peak to hold a martial arts contest. The victor shall be proclaimed the Martial World's Supreme Sovereign, commanding all others."
+  - split: 9
+    text: "[江湖]武林大会"
+    translated: "[Jianghu] Martial World Grand Assembly"

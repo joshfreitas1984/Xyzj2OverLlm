@@ -1606,3 +1606,27 @@
   - split: 2
     text: "心魔劫起，天下大乱。命定之人，应劫而出。最大生命值增加15%。"
     translated: "The inner demon emerges, chaos ensues across the land. The destined one must rise to meet this challenge. Maximum health increased by 15%."
+- raw: "20700#断金之利#二人意气相投，刀剑挥舞间仿佛有一股无形的锋锐之气流转。当一人出手受阻时，另一人的攻势将变得势不可挡，无坚不摧。上阵时，自身的内外攻增加3%。#0#20700#0#0#0#0#0##0##0#0#0#"
+  splits:
+  - split: 1
+    text: "断金之利"
+    translated: "The sharpness that cuts through gold"
+  - split: 2
+    text: "二人意气相投，刀剑挥舞间仿佛有一股无形的锋锐之气流转。当一人出手受阻时，另一人的攻势将变得势不可挡，无坚不摧。上阵时，自身的内外攻增加3%。"
+    translated: "The two people were in perfect harmony, and as they wielded their blades and swords, it seemed as if an invisible surge of sharp energy was flowing between them. When one person's strike was blocked, the other's offensive became unstoppable and invincible. In battle, their own internal and external attacks increase by 3%."
+- raw: "20710#生死同袍#曾对天盟誓，不求同生，但求同死。战斗之时，二人相互关照。一人受伤，另一人便为其撑起一片天。自身的内外防增加3%。#0#20710#0#0#0#0#0##0##0#0#0#"
+  splits:
+  - split: 1
+    text: "生死同袍"
+    translated: "Companions in life and death"
+  - split: 2
+    text: "曾对天盟誓，不求同生，但求同死。战斗之时，二人相互关照。一人受伤，另一人便为其撑起一片天。自身的内外防增加3%。"
+    translated: "Once sworn an oath to the Heavens with his comrade, pledging not for shared life but for a shared death. In battle, they watched over one another. If one were wounded, the other would hold up a piece of heaven for them. Their own external defense increased by 3%."
+- raw: "20720#灵犀相映#二人无需言语，甚至无需眼神交汇，便能知晓对方下一招的落点。刀光剑影中，一人为虚，一人为实，虚实转换只在一念之间，令敌人防不胜防。上阵时，自身的诛心与要害增加3%。#0#20720#0#0#0#0#0##0##0#0#0#"
+  splits:
+  - split: 1
+    text: "灵犀相映"
+    translated: "Mutual spiritual resonance"
+  - split: 2
+    text: "二人无需言语，甚至无需眼神交汇，便能知晓对方下一招的落点。刀光剑影中，一人为虚，一人为实，虚实转换只在一念之间，令敌人防不胜防。上阵时，自身的诛心与要害增加3%。"
+    translated: "The two need neither words nor eye contact to know where each other's next move will land. Amidst the flashes of blades and swords, one is feinting while the other is attacking; the shift between feints and attacks occurs in a split second, leaving opponents unable to defend themselves. When engaging, their mind attack and vital points are increased by 3%."

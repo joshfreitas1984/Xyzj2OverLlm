@@ -37,7 +37,7 @@ namespace EnglishPatch.Patches
                 AttriType attrType = InstantiateViewNewNew_mobile.GetAttriType(index);
                 string attriDesc = InstantiateViewNewNew_mobile.GetAttriDesc(attrType);
 
-                string str = $"<color={GetColorString(attrType)}>{Tools.m_AttrName[(int)attrType]}</color> <size=20>{attriDesc}</size>";
+                string str = $"<color={GetColorString(attrType)}>{LocalStringArray.m_AttrName[(int)attrType]}</color> <size=20>{attriDesc}</size>";
                 m_shuxingitems[index].FindChildCustom<TextMeshProUGUI>("name").text = str;
             }
         }
