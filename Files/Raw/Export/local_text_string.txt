@@ -18848,13 +18848,10 @@
   splits:
   - split: 2
     text: "筛选"
-- raw: "102706#ExpObj/root/des/Text#在一处零起点奇遇大师，得到一定修为，快"
+- raw: "102706#ExpObj/root/des/Text#在一处零起点奇遇大师，得到一定修为，快乐得不得了不得了不得了！#"
   splits:
   - split: 2
-    text: "在一处零起点奇遇大师，得到一定修为，快"
-- raw: "乐得不得了不得了不得了！#"
-  splits:
-  - text: "乐得不得了不得了不得了！"
+    text: "在一处零起点奇遇大师，得到一定修为，快乐得不得了不得了不得了！"
 - raw: "102707#ExpObj_mobile/root/des/Text#你撞见了刺客#"
   splits:
   - split: 2

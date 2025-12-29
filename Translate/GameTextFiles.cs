@@ -27,7 +27,6 @@ public class GameTextFiles
         //new() {Path = "dlc_data.txt", PackageOutput = true },
 
         new() {Path = "ai_dialog.txt", PackageOutput = true},
-
         new() {Path = "local_text_string.txt", PackageOutput = true, TextFileType = TextFileType.LocalTextString },
         new() {Path = "dlcinfo.txt", PackageOutput = true },
         

@@ -23399,15 +23399,11 @@
   - split: 2
     text: "筛选"
     translated: "Filtering"
-- raw: "102706#ExpObj/root/des/Text#在一处零起点奇遇大师，得到一定修为，快"
+- raw: "102706#ExpObj/root/des/Text#在一处零起点奇遇大师，得到一定修为，快乐得不得了不得了不得了！#"
   splits:
   - split: 2
-    text: "在一处零起点奇遇大师，得到一定修为，快"
-    translated: "In a place of zero starting point encounters, having attained some cultivation level, quickly."
-- raw: "乐得不得了不得了不得了！#"
-  splits:
-  - text: "乐得不得了不得了不得了！"
-    translated: "Extremely delighted beyond words!"
+    text: "在一处零起点奇遇大师，得到一定修为，快乐得不得了不得了不得了！"
+    translated: "At a place of zero beginning, after encountering a master and gaining some proficiency, I am extremely delighted beyond words!"
 - raw: "102707#ExpObj_mobile/root/des/Text#你撞见了刺客#"
   splits:
   - split: 2
@@ -30494,7 +30490,7 @@
   splits:
   - split: 2
     text: "云鹤村的这个器械为<color=3ad67c>初级</color>，所能承受的坚韧值不够高，<color=8F1D22>无法放入过多的材料</color>。许多大城和以锻造出名的门派里有更高级的器械，不过那需要<color=3ad67c>更高等级的身份</color>才能使用。"
-    translated: "The equipment in Cloud Crane Village is at a <color=3ad67c>basic level</color>, so it cannot withstand very high toughness values and thus <color=8F1D22>cannot hold too many materials</color>. Many large cities and renowned sects for forging have more advanced equipment, but that requires a <color=3ad67c>higher identity rank</color> to use."
+    translated: "The device from Cloud Crane Village is <color=3ad67c>basic‑level</color>, and it cannot withstand a high toughness value, <color=8F1D22>making it impossible to put in too many materials</color>. Many large cities and famous forging sects have more advanced devices, but they require <color=3ad67c>a higher level of identity</color> to use."
 - raw: "104332#FabricationView_mobile/mask/duanluTip/ChatMsg/NameBg/NameText#灵均#"
   splits:
   - split: 2
@@ -88292,7 +88288,7 @@
   splits:
   - split: 2
     text: "朝廷国宝失窃，现发红色追击令。"
-    translated: "Imperial Court national treasure stolen; a red pursuit order has been issued."
+    translated: "The imperial court's national treasure has been stolen; a red pursuit order is now issued."
 - raw: "117832#XuanShangBangView_mobile/Mask/dibian/items/XuanShangLingItem_1/dian (1)/Text (TMP)#委托：#"
   splits:
   - split: 2

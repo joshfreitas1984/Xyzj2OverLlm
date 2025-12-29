@@ -1,4 +1,5 @@
-﻿using System.Text.RegularExpressions;
+﻿using System.Text;
+using System.Text.RegularExpressions;
 using Translate.Utility;
 
 namespace Translate;
@@ -76,7 +77,12 @@ public class InputFileHandling
 
         Directory.CreateDirectory(outputPath);
 
-        var lines = File.ReadAllLines($"{inputPath}/db1.txt");
+        //var lines = File.ReadAllLines($"{inputPath}/db1.txt");
+        using FileStream fileStream = new FileStream($"{inputPath}/db1.txt", FileMode.Open, FileAccess.Read);
+        using BinaryReader binaryReader = new BinaryReader(fileStream);
+        var bytes =  binaryReader.ReadBytes((int)fileStream.Length);
+        var lines = Encoding.UTF8.GetString(bytes).Split('\n');
+
         var splitDbName = string.Empty;
         var splitDbCount = 0;
         var hasChinese = false;
@@ -85,6 +91,9 @@ public class InputFileHandling
 
         foreach (var line in lines)
         {
+            if (string.IsNullOrWhiteSpace(line))
+                continue;
+
             // New File Split
             if (line.Contains('|') && !line.Contains('#'))
             {
@@ -107,7 +116,11 @@ public class InputFileHandling
                 if (Regex.IsMatch(line, pattern))
                     hasChinese = true;
 
-            currentSplitLines.Add(line);
+            // We have a bad breakpoint (usually local_text_string)
+            if (line.Contains("\r"))
+                currentSplitLines.Add(line.Replace("\r", string.Empty));
+            else
+                currentSplitLines.Add(line);
         }
 
         //Trailing Write

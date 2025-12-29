@@ -4872,8 +4872,7 @@
 102703#ExperienceMapNew_mobile/buttonGroup/ButtonChengzhang/Text (TMP)#成长#
 102704#ExperienceMapNew_mobile/buttonGroup/ButtonShijian/Text (TMP)#事件#
 102705#ExperienceMapNew_mobile/Button/Text (TMP)#筛选#
-102706#ExpObj/root/des/Text#在一处零起点奇遇大师，得到一定修为，快
-乐得不得了不得了不得了！#
+102706#ExpObj/root/des/Text#在一处零起点奇遇大师，得到一定修为，快乐得不得了不得了不得了！#
 102707#ExpObj_mobile/root/des/Text#你撞见了刺客#
 102708#LineObj/ImageTag/TextName#NAME#
 102709#LineObjNew/ImageTag/TextName#朋友#

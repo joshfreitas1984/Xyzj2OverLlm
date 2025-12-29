@@ -29,6 +29,8 @@ public class PatchesPlugin : BaseUnityPlugin
         Harmony.CreateAndPatchAll(typeof(QuestIconPatch));
         Harmony.CreateAndPatchAll(typeof(NanDuViewPatch));
         Harmony.CreateAndPatchAll(typeof(NewCharacterScreenPatch));
+        Harmony.CreateAndPatchAll(typeof(LocalTextStringPatch));
+
         Logger.LogWarning($"Plugin {MyPluginInfo.PLUGIN_GUID} should be patched!");    
     }    
 }
