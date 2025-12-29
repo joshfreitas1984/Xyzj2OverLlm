@@ -6,27 +6,29 @@ public class GameTextFiles
     public static string[] SplitCharactersList = [":", "<br>", "\\n", "-", "|"];
 
     public static string[] FilesNotHandled = [
-        "ai_dialog.txt",
+        //"ai_dialog.txt",
         "keywordfilter.txt",
         "custom_data.txt",
         "born_points.txt",
         "emoji.txt",
         "dlc_prototype.txt",
+        "dlc_prototype_mobile.txt",
         "dlc_data.txt",
     ];
 
     public static readonly TextFileToSplit[] TextFilesToSplit = [
-        // Invalid for translation
-        //new() {Path = "ai_dialog.txt"},
+        // Invalid for translation        
         //new() {Path = "keywordfilter.txt"},
         //new() {Path = "custom_data.txt", Output = true, OutputRawResource = true},
         //new() {Path = "born_points.txt", Output = true},
         //new() {Path = "emoji.txt", PackageOutput = true},
         //new() {Path = "dlc_prototype.txt", PackageOutput = true },
+        //new() {Path = "dlc_prototype_mobile.txt", PackageOutput = true },
         //new() {Path = "dlc_data.txt", PackageOutput = true },
 
+        new() {Path = "ai_dialog.txt", PackageOutput = true},
+
         new() {Path = "local_text_string.txt", PackageOutput = true, TextFileType = TextFileType.LocalTextString },
-        new() {Path = "dlc_prototype_mobile.txt", PackageOutput = true },
         new() {Path = "dlcinfo.txt", PackageOutput = true },
         
         new() {Path = "achievement.txt", PackageOutput = true},

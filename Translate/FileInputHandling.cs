@@ -8,6 +8,7 @@ public class InputFileHandling
     public static void ExportTextAssetsToCustomFormat(string workingDirectory)
     {
         string outputPath = $"{workingDirectory}/Raw/Export";
+        string convertedPath = $"{workingDirectory}/Converted";
 
         if (!Directory.Exists(outputPath))
             Directory.CreateDirectory(outputPath);
@@ -58,6 +59,10 @@ public class InputFileHandling
             // Write the found lines
             var yaml = serializer.Serialize(foundLines);
             File.WriteAllText($"{outputPath}/{file.Name}", yaml);
+
+            // Add missing converted file if it doesnt exist yet
+            if (!File.Exists($"{convertedPath}/{file.Name}"))
+                File.WriteAllText($"{convertedPath}/{file.Name}", yaml);
         }
     }
     
@@ -66,8 +71,10 @@ public class InputFileHandling
         string inputPath = $"{workingDirectory}/Raw/DB";
         string outputPath = $"{workingDirectory}/Raw/SplitDb";
 
-        if (!Directory.Exists(outputPath))
-            Directory.CreateDirectory(outputPath);
+        if (Directory.Exists(outputPath))
+            Directory.Delete(outputPath, true);
+
+        Directory.CreateDirectory(outputPath);
 
         var lines = File.ReadAllLines($"{inputPath}/db1.txt");
         var splitDbName = string.Empty;
