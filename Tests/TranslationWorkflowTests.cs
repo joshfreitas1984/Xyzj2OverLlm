@@ -139,6 +139,21 @@ public class TranslationWorkflowTests
         if (!split.SafeToTranslate)
             return false;
 
+        if (textFile.TextFileType == TextFileType.LocalTextString)
+        {
+            if (TranslationService.IsGameObjectReference(split.Text))
+            {
+                if (split.Text != split.Translated)
+                {
+                    split.Translated = split.Text;
+                    split.ResetFlags();
+                    return true;
+                }
+                else
+                    return false;
+            }
+        }
+
         // If it is already translated or just special characters return it
         var preparedRaw = LineValidation.PrepareRaw(split.Text, tokenReplacer);
         var cleanedRaw = LineValidation.CleanupLineBeforeSaving(split.Text, split.Text, textFile, tokenReplacer);
@@ -183,7 +198,7 @@ public class TranslationWorkflowTests
                 split.SafeToTranslate = false;
                 return true;
             }
-        }
+        }       
 
         // Add Manual Translations in that are missing
         if (textFile.EnableGlossary)

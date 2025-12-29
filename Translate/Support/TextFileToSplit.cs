@@ -8,6 +8,7 @@ public enum TextFileType
     RegularDb,
     PrefabText,
     DynamicStrings,
+    LocalTextString
 }
 
 public class TextFileToSplit
@@ -32,6 +33,8 @@ public class TextFileToSplit
     public bool RemoveExtraFullStop { get; set; } = true;
 
     public bool RemoveExtraThe { get; set; } = true;
+
+    public bool IgnoreGameObjects { get; set; } = false;
 
     public bool NameCleanupRoutines { get; set; } = false;
 

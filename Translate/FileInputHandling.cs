@@ -290,16 +290,7 @@ public class InputFileHandling
         Console.WriteLine($"Writing Split {fileName}.. Should have..{shouldHave} Have..{lines.Count}");
 
         // Files we split but not actually changing
-        if (fileName == "ai_dialog"
-            || fileName == "keywordfilter"
-            //|| fileName == "living_assemblyskill"
-            //|| fileName == "living_assemblyskill_zhenshijianghu"
-            //|| fileName == "questprototype"
-            || fileName == "dlc_data"
-            || fileName == "dlc_prototype"
-            || fileName == "born_points"
-            || fileName == "custom_data"
-            || fileName == "emoji")
+        if (GameTextFiles.FilesNotHandled.Contains($"{fileName}.txt"))
             hasChinese = false;
 
         if (hasChinese)

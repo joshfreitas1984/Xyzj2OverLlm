@@ -5,6 +5,16 @@ public class GameTextFiles
     // "。" doesnt work like u think it would   
     public static string[] SplitCharactersList = [":", "<br>", "\\n", "-", "|"];
 
+    public static string[] FilesNotHandled = [
+        "ai_dialog.txt",
+        "keywordfilter.txt",
+        "custom_data.txt",
+        "born_points.txt",
+        "emoji.txt",
+        "dlc_prototype.txt",
+        "dlc_data.txt",
+    ];
+
     public static readonly TextFileToSplit[] TextFilesToSplit = [
         // Invalid for translation
         //new() {Path = "ai_dialog.txt"},
@@ -13,12 +23,12 @@ public class GameTextFiles
         //new() {Path = "born_points.txt", Output = true},
         //new() {Path = "emoji.txt", PackageOutput = true},
         //new() {Path = "dlc_prototype.txt", PackageOutput = true },
-        new() {Path = "local_text_string.txt", PackageOutput = true, IgnoreGameObjects = true },
-
-        new() {Path = "dlc_prototype_mobile.txt", PackageOutput = true },
-        new() {Path = "dlcinfo.txt", PackageOutput = true },
         //new() {Path = "dlc_data.txt", PackageOutput = true },
 
+        new() {Path = "local_text_string.txt", PackageOutput = true, TextFileType = TextFileType.LocalTextString },
+        new() {Path = "dlc_prototype_mobile.txt", PackageOutput = true },
+        new() {Path = "dlcinfo.txt", PackageOutput = true },
+        
         new() {Path = "achievement.txt", PackageOutput = true},
         new() {Path = "achievement_xianejianghu.txt", PackageOutput = true},
         new() {Path = "achievement_zhenshijianghu.txt", PackageOutput = true},
@@ -29,7 +39,6 @@ public class GameTextFiles
         new() {Path = "condition_group_dangmojianghu.txt", PackageOutput = true},
         new() {Path = "condition_show_anim.txt", PackageOutput = true},
         new() {Path = "dumpedPrefabText.txt", TextFileType = TextFileType.PrefabText, AllowMissingColorTags = false},
-
         new() {Path = "dynamicStrings.txt", TextFileType = TextFileType.DynamicStrings, AllowMissingColorTags = false},
         new() {Path = "entrust_event_prototype.txt", PackageOutput = true},
         new() {Path = "fuben_prototype.txt", PackageOutput = true},

@@ -348,6 +348,19 @@ public static class TranslationService
         return (false, string.Empty);
     }
 
+    public static bool IsGameObjectReference(string raw)
+    {
+        // Check if it looks like a game object reference
+        if (raw.Contains("/")
+                && (raw.Contains("View")
+                || raw.Contains("btn")
+                || raw.Contains("Part")
+                || raw.Contains("Text")))
+            return true;
+        return false;
+    }
+
+
     public static async Task<ValidationResult> TranslateSplitAsync(LlmConfig config, string? raw, HttpClient client, TextFileToSplit textFile, string additionalPrompts = "")
     {
         if (string.IsNullOrEmpty(raw))
@@ -358,6 +371,13 @@ public static class TranslationService
         // If it is already translated or just special characters return it
         if (!Regex.IsMatch(raw, pattern))
             return new ValidationResult(true, raw);
+
+        if (textFile.TextFileType == TextFileType.LocalTextString)
+        {
+            // Check if it looks like a game object reference
+            if (IsGameObjectReference(raw))
+                return new ValidationResult(true, raw);
+        }
 
         // Prepare the raw by stripping out anything the LLM can't support
         var tokenReplacer = new StringTokenReplacer();

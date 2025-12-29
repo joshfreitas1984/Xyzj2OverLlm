@@ -133,7 +133,8 @@ public class FileOutputHandling
             }
 
             // Do not want to package prefabs into main db
-            if (textFileToTranslate.TextFileType == TextFileType.RegularDb)
+            if (textFileToTranslate.TextFileType == TextFileType.RegularDb 
+                || textFileToTranslate.TextFileType == TextFileType.LocalTextString)
             {
                 finalDb.Add($"{Path.GetFileNameWithoutExtension(outputFile)}|{fileLines.Count}");
                 finalDb.AddRange(outputLines);

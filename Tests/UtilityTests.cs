@@ -1,4 +1,5 @@
 ﻿using SharedAssembly.DynamicStrings;
+using SweetPotato;
 using System.Text.RegularExpressions;
 using Translate.Utility;
 
@@ -116,8 +117,8 @@ public class UtilityTests
 
     [Theory]
     [InlineData("<size=30>可分配点数<color=#ff0000>不足</color></size>", "<size=3>0 Allocatable Points <color=#ff0000>Insufficient</color></size>", false)]
-    [InlineData("<size=30>可分配点数<color=#ff0000>不足</color></size>", "<size=30> Allocatable Points <color=#ff0000>Insufficient</color></size>", true)]
-    [InlineData("<size=30>可分配点数<color=#ff0000>不足</color></size>", "<size=30> Allocatable Points Insufficient</size>", true, true)]
+    [InlineData("<size=30>可分配点数<color=#ff0000>不足</color></size>", "<size=21> Allocatable Points <color=#ff0000>Insufficient</color></size>", true)]
+    [InlineData("<size=30>可分配点数<color=#ff0000>不足</color></size>", "<size=21> Allocatable Points Insufficient</size>", true, true)]
     [InlineData("<size=30>可分配点数<color=#ff0000>不足</color></size>", "<size=30> Allocatable Points Insufficient</size>", false, false)]
     [InlineData("<b>Hello</b>", "<b>Bonjour</b>", true)]
     [InlineData("<i>Test</i>", "<b>Test</b>", false)]
@@ -222,5 +223,13 @@ public class UtilityTests
 
         // Assert
         Assert.Equal(valid, validationResult.Valid);
+    }
+
+    [Fact]
+    public void LocalStringTest()
+    {
+        string[] lines = File.ReadAllLines($"{workingDirectory}/Mod/Formatted/local_text_string.txt");
+
+        LocalTextString.CreateFromCsvRow(lines);
     }
 }

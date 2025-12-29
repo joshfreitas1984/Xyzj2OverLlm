@@ -27,6 +27,6 @@ public static class MinimapPatch
         var shortMonth = dateTime.ToString("MMM");
 
         //MainView.RefreshDateTimeText uses 年 and put the first half into year display and second half below
-        return $"JY{year}年{day}\n{shortMonth}\n{LocalStringArray.DI_ZHI[hour / 2]}";        
+        return $"JY{year}{LocalString.year}{day}\n{shortMonth}\n{LocalStringArray.DI_ZHI[hour / 2]}";        
     }   
 }

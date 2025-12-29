@@ -1962,6 +1962,15 @@
 - raw: 七阶  
   result: Tier 7
   badtrans: false
+- raw: 八阶  
+  result: Tier 8
+  badtrans: false
+- raw: 九阶  
+  result: Tier 9
+  badtrans: false
+- raw: 十阶  
+  result: Tier 10
+  badtrans: false
 
 # Qualities
 - raw: 无双  
