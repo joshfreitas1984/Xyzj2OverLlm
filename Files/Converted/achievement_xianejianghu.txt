@@ -2396,14 +2396,14 @@
   - split: 14
     text: "八珍绕竿游，御术动乾坤。钓尽天下贵，宗师立昆仑。"
     translated: "The Eight Treasures dance around the pole, performing magic that moves heaven and earth. All the precious ones of the world are caught in their net; a master is established on Mount Kunlun."
-- raw: "417#钓破虚空#1#2#410#8#6#60004|1;5024|3;54378|3#8&96|14030|1;96|14031|1;96|14032|1;96|14033|1;96|14091|1;96|14092|1;96|14093|1;96|14094|1#获得八种五阶鱼##600#0#0#八稀有鲲鹏，竿裂沧海东。钓破虚空界，笑傲云雾中。#0#0#5#chengjiu_417#"
+- raw: "417#钓破虚空#1#2#410#8#6#60004|1;5024|3;54378|3#0&96|14030|1;96|14031|1;96|14032|1;96|14033|1;96|14091|1;96|14092|1;96|14093|1;96|14094|1#获得八种七阶鱼##600#0#0#八稀有鲲鹏，竿裂沧海东。钓破虚空界，笑傲云雾中。#0#0#5#chengjiu_417#"
   splits:
   - split: 1
     text: "钓破虚空"
     translated: "Hook a hole in emptiness"
   - split: 9
-    text: "获得八种五阶鱼"
-    translated: "Obtain eight types of tier five fish"
+    text: "获得八种七阶鱼"
+    translated: "Obtain eight types of Tier 7 fish"
   - split: 14
     text: "八稀有鲲鹏，竿裂沧海东。钓破虚空界，笑傲云雾中。"
     translated: "Rare Kraken, splitting the ocean's east. Fishing through void realms, laughing amidst clouds and mist."
@@ -3727,14 +3727,14 @@
   - split: 14
     text: "元气集神起，真龙腾九天，万法归宗道，一念定乾坤。"
     translated: "Vitality gathers and focuses to the point of divine awakening; a true dragon soars across the nine heavens. All phenomena return to the root of the Dao; with a single thought, they set the fate of heaven and earth."
-- raw: "1405#扫霞琉璃#1#3#1400#6#11#54435|1;60015|1;60029|1#0&3|50527|1#拥有神兵武器扫霞琉璃##200#0#0#扫去霞光外，琉璃世界开，一步跨虚空，身入仙成长。#0#0#1##"
+- raw: "1405#扫霞琉璃#1#3#1400#6#11#54435|1;60015|1;60029|1#0&3|50527|1#拥有神兵武器踏月归墟##200#0#0#扫去霞光外，琉璃世界开，一步跨虚空，身入仙成长。#0#0#1##"
   splits:
   - split: 1
     text: "扫霞琉璃"
     translated: "Scattering the Misty Jade"
   - split: 9
-    text: "拥有神兵武器扫霞琉璃"
-    translated: "Wielding the divine weapon, the Sweeping Skies Jade"
+    text: "拥有神兵武器踏月归墟"
+    translated: "Possessing a divine weapon, tread the path of returning to one's roots by moonlight."
   - split: 14
     text: "扫去霞光外，琉璃世界开，一步跨虚空，身入仙成长。"
     translated: "Expel the glow beyond the horizon; the world of glass opens up. In one step, traverse the void and enter a realm where immortals grow."

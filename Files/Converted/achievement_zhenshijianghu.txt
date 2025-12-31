@@ -2396,14 +2396,14 @@
   - split: 14
     text: "八珍绕竿游，御术动乾坤。钓尽天下贵，宗师立昆仑。"
     translated: "Eight rare treasures encircle a pole and move, their skills able to shift the heavens and earth. They catch all that is precious in the world; the master stands on Mount Kunlun."
-- raw: "417#钓破虚空#1#2#410#8#6#60004|1;5024|3;54378|3#8&96|14030|1;96|14031|1;96|14032|1;96|14033|1;96|14091|1;96|14092|1;96|14093|1;96|14094|1#获得八种五阶鱼##600#0#0#八稀有鲲鹏，竿裂沧海东。钓破虚空界，笑傲云雾中。#0#0#5#chengjiu_417#"
+- raw: "417#钓破虚空#1#2#410#8#6#60004|1;5024|3;54378|3#0&96|14030|1;96|14031|1;96|14032|1;96|14033|1;96|14091|1;96|14092|1;96|14093|1;96|14094|1#获得八种七阶鱼##600#0#0#八稀有鲲鹏，竿裂沧海东。钓破虚空界，笑傲云雾中。#0#0#5#chengjiu_417#"
   splits:
   - split: 1
     text: "钓破虚空"
     translated: "Hook a hole in emptiness"
   - split: 9
-    text: "获得八种五阶鱼"
-    translated: "Obtain eight types of tier five fish"
+    text: "获得八种七阶鱼"
+    translated: "Obtain eight types of Tier 7 fish"
   - split: 14
     text: "八稀有鲲鹏，竿裂沧海东。钓破虚空界，笑傲云雾中。"
     translated: "The rare Peng of the Kraken tears open the sea to the east. Fishing through the void beyond realms, it laughs amidst the clouds and mists."
@@ -3727,14 +3727,14 @@
   - split: 14
     text: "元气集神起，真龙腾九天，万法归宗道，一念定乾坤。"
     translated: "Gathering one's vitality and focus of spirit, the true dragon soars through the nine heavens; all methods return to the Way. A single thought determines heaven and earth."
-- raw: "1405#扫霞琉璃#1#3#1400#6#11#54435|1;60015|1;60029|1#0&3|50527|1#拥有神兵武器扫霞琉璃##200#0#0#扫去霞光外，琉璃世界开，一步跨虚空，身入仙成长。#0#0#1##"
+- raw: "1405#扫霞琉璃#1#3#1400#6#11#54435|1;60015|1;60029|1#0&3|50527|1#拥有神兵武器踏月归墟##200#0#0#扫去霞光外，琉璃世界开，一步跨虚空，身入仙成长。#0#0#1##"
   splits:
   - split: 1
     text: "扫霞琉璃"
     translated: "Scattering the Misty Jade"
   - split: 9
-    text: "拥有神兵武器扫霞琉璃"
-    translated: "Wielding the divine weapon, the Sweeping Skies Jade"
+    text: "拥有神兵武器踏月归墟"
+    translated: "Possessing a divine weapon, tread the path of returning to one's roots by moonlight."
   - split: 14
     text: "扫去霞光外，琉璃世界开，一步跨虚空，身入仙成长。"
     translated: "Dispelling the celestial glow beyond, the world of jade opens up; one step across the void, and they enter a realm of divine growth."
