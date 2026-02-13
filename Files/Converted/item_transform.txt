@@ -1,0 +1,664 @@
+- raw: "1#37114#0#奇遇-拔剑#1&96|37114|1#0#0#"
+  splits:
+  - split: 3
+    text: "奇遇-拔剑"
+    translated: "Adventure ‑ Unsheathing a sword"
+- raw: "2#37255#0#解密-炎鸿铸剑#1&96|37255|1#0#0#"
+  splits:
+  - split: 3
+    text: "解密-炎鸿铸剑"
+    translated: "Decryption ‑ Yan Hong Zhu Forging Sword"
+- raw: "3#45001#0#获得任意一把铁剑#1&96|45001|1;96|45101|1;96|45201|1;96|45301|1;96|45401|1;96|82201|1;96|82301|1;96|82401|1;96|82501|1;96|82001|1;96|81001|1;96|81101|1;96|81201|1;96|81301|1;96|81401|1;96|45042|1;96|45050|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把铁剑"
+    translated: "Obtain any iron sword"
+- raw: "4#45002#0#获得任意一把青锋剑#1&96|45002|1;96|45102|1;96|45202|1;96|45302|1;96|45402|1;96|82202|1;96|82302|1;96|82402|1;96|82502|1;96|82002|1;96|81002|1;96|81102|1;96|81202|1;96|81302|1;96|81402|1;96|45043|1;96|45054|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把青锋剑"
+    translated: "Obtain any Green‑Edged Sword"
+- raw: "5#45003#0#获得任意一把秘银剑#1&96|45003|1;96|45103|1;96|45203|1;96|45303|1;96|45403|1;96|82203|1;96|82303|1;96|82403|1;96|82503|1;96|82003|1;96|81003|1;96|81103|1;96|81203|1;96|81303|1;96|81403|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把秘银剑"
+    translated: "Obtain any one of the secret silver swords."
+- raw: "6#45004#0#获得任意一把精铁剑#1&96|45004|1;96|45104|1;96|45204|1;96|45304|1;96|45404|1;96|82204|1;96|82304|1;96|82404|1;96|82504|1;96|82004|1;96|81004|1;96|81104|1;96|81204|1;96|81304|1;96|81404|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把精铁剑"
+    translated: "Acquire any one sword made of refined steel."
+- raw: "7#45005#0#获得任意一把春风手#1&96|45005|1;96|45105|1;96|45205|1;96|45305|1;96|45405|1;96|82205|1;96|82305|1;96|82405|1;96|82505|1;96|82005|1;96|81005|1;96|81105|1;96|81205|1;96|81305|1;96|81405|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把春风手"
+    translated: "Obtain any Chunfeng Sword at will"
+- raw: "8#45006#0#获得任意一把山有枢#1&96|45006|1;96|45106|1;96|45206|1;96|45306|1;96|45406|1;96|82206|1;96|82306|1;96|82406|1;96|82506|1;96|82006|1;96|81006|1;96|81106|1;96|81206|1;96|81306|1;96|81406|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把山有枢"
+    translated: "Acquire any sword that has a secret technique or art."
+- raw: "9#45007#0#获得任意一把三十六峰#1&96|45007|1;96|45107|1;96|45207|1;96|45307|1;96|45407|1;96|82207|1;96|82307|1;96|82407|1;96|82507|1;96|82007|1;96|81007|1;96|81107|1;96|81207|1;96|81307|1;96|81407|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把三十六峰"
+    translated: "Obtain any one of the Thirty‑Six Peaks swords."
+- raw: "10#45008#0#获得任意一把劈水#1&96|45008|1;96|45108|1;96|45208|1;96|45308|1;96|45408|1;96|82208|1;96|82308|1;96|82408|1;96|82508|1;96|82008|1;96|45059|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把劈水"
+    translated: "Obtain any water‑dividing sword"
+- raw: "11#45009#0#获得任意一把重阳天#1&96|45009|1;96|45109|1;96|45209|1;96|45309|1;96|45409|1;96|82209|1;96|82309|1;96|82409|1;96|82509|1;96|82009|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把重阳天"
+    translated: "Obtain any one of the Reigning on High swords."
+- raw: "12#45010#0#获得任意一把天瀑#1&96|45010|1;96|45110|1;96|45210|1;96|45310|1;96|45410|1;96|82210|1;96|82310|1;96|82410|1;96|82510|1;96|82010|1;96|100016|1;96|100017|1;96|100018|1;96|100019|1;96|100020|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把天瀑"
+    translated: "Obtain any one of the Heavenly Waterfalls swords."
+- raw: "13#45011#0#获得任意一把铁刀#1&96|45011|1;96|45111|1;96|45211|1;96|45311|1;96|45411|1;96|82211|1;96|82311|1;96|82411|1;96|82511|1;96|82011|1;96|81011|1;96|81111|1;96|81211|1;96|81311|1;96|81411|1;96|1000000|1;96|1000001|1;96|45048|1;96|45053|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把铁刀"
+    translated: "Obtain any iron blade"
+- raw: "14#45012#0#获得任意一把马刀#1&96|45012|1;96|45112|1;96|45212|1;96|45312|1;96|45412|1;96|82212|1;96|82312|1;96|82412|1;96|82512|1;96|82012|1;96|81012|1;96|81112|1;96|81212|1;96|81312|1;96|81412|1;96|45049|1;96|45055|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把马刀"
+    translated: "Obtain any saber"
+- raw: "15#45013#0#获得任意一把云头刀#1&96|45013|1;96|45113|1;96|45213|1;96|45313|1;96|45413|1;96|82213|1;96|82313|1;96|82413|1;96|82513|1;96|82013|1;96|81013|1;96|81113|1;96|81213|1;96|81313|1;96|81413|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把云头刀"
+    translated: "Obtain any one Cloudtop Blade"
+- raw: "16#45014#0#获得任意一把九环刀#1&96|45014|1;96|45114|1;96|45214|1;96|45314|1;96|45414|1;96|82214|1;96|82314|1;96|82414|1;96|82514|1;96|82014|1;96|81014|1;96|81114|1;96|81214|1;96|81314|1;96|81414|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把九环刀"
+    translated: "Obtain any one of the nine ring blades."
+- raw: "17#45015#0#获得任意一把乱鸦#1&96|45015|1;96|45115|1;96|45215|1;96|45315|1;96|45415|1;96|82215|1;96|82315|1;96|82415|1;96|82515|1;96|82015|1;96|81015|1;96|81115|1;96|81215|1;96|81315|1;96|81415|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把乱鸦"
+    translated: "Obtain any one of the Chaotic Crows swords."
+- raw: "18#45016#0#获得任意一把白人骨#1&96|45016|1;96|45116|1;96|45216|1;96|45316|1;96|45416|1;96|82216|1;96|82316|1;96|82416|1;96|82516|1;96|82016|1;96|81016|1;96|81116|1;96|81216|1;96|81316|1;96|81416|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把白人骨"
+    translated: "Obtain any one White Bone artifact"
+- raw: "19#45017#0#获得任意一把月露宵光#1&96|45017|1;96|45117|1;96|45217|1;96|45317|1;96|45417|1;96|82217|1;96|82317|1;96|82417|1;96|82517|1;96|82017|1;96|81017|1;96|81117|1;96|81217|1;96|81317|1;96|81417|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把月露宵光"
+    translated: "Obtain any Moonlit Nightfall blade"
+- raw: "20#45018#0#获得任意一把万鼓雷#1&96|45018|1;96|45118|1;96|45218|1;96|45318|1;96|45418|1;96|82218|1;96|82318|1;96|82418|1;96|82518|1;96|82018|1;96|45060|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把万鼓雷"
+    translated: "Obtain any one of the Ten Drum Thunder Swords."
+- raw: "21#45019#0#获得任意一把双金斗#1&96|45019|1;96|45119|1;96|45219|1;96|45319|1;96|45419|1;96|82219|1;96|82319|1;96|82419|1;96|82519|1;96|82019|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把双金斗"
+    translated: "Obtain any one of the Double Golden Daggers."
+- raw: "22#45020#0#获得任意一把霜天晓角#1&96|45020|1;96|45120|1;96|45220|1;96|45320|1;96|45420|1;96|82220|1;96|82320|1;96|82420|1;96|82520|1;96|82020|1;96|100011|1;96|100012|1;96|100013|1;96|100014|1;96|100015|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把霜天晓角"
+    translated: "Obtain any Frost Moon Dawn Pipe"
+- raw: "23#45021#0#获得任意一个白护缠#1&96|45021|1;96|45121|1;96|45221|1;96|45321|1;96|45421|1;96|82221|1;96|82321|1;96|82421|1;96|82521|1;96|82021|1;96|81021|1;96|81121|1;96|81221|1;96|81321|1;96|81421|1;96|45044|1;96|45051|1#1#0#"
+  splits:
+  - split: 3
+    text: "获得任意一个白护缠"
+    translated: "Obtain any one White Guard Wrap"
+- raw: "24#45022#0#获得任意一个兽皮拳套#1&96|45022|1;96|45122|1;96|45222|1;96|45322|1;96|45422|1;96|82222|1;96|82322|1;96|82422|1;96|82522|1;96|82022|1;96|81022|1;96|81122|1;96|81222|1;96|81322|1;96|81422|1;96|45045|1;96|45056|1#1#0#"
+  splits:
+  - split: 3
+    text: "获得任意一个兽皮拳套"
+    translated: "Obtain any one animal hide fist wrap"
+- raw: "25#45023#0#获得任意一个蚕丝缠#1&96|45023|1;96|45123|1;96|45223|1;96|45323|1;96|45423|1;96|82223|1;96|82323|1;96|82423|1;96|82523|1;96|82023|1;96|81023|1;96|81123|1;96|81223|1;96|81323|1;96|81423|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一个蚕丝缠"
+    translated: "Obtain any one of the Silk Cocoon Curses."
+- raw: "26#45024#0#获得任意一个精铁拳套#1&96|45024|1;96|45124|1;96|45224|1;96|45324|1;96|45424|1;96|82224|1;96|82324|1;96|82424|1;96|82524|1;96|82024|1;96|81024|1;96|81124|1;96|81224|1;96|81324|1;96|81424|1#1#0#"
+  splits:
+  - split: 3
+    text: "获得任意一个精铁拳套"
+    translated: "Obtain any one of the Fine Iron Glove Sets."
+- raw: "27#45025#0#获得任意一个鹤梦重续#1&96|45025|1;96|45125|1;96|45225|1;96|45325|1;96|45425|1;96|82225|1;96|82325|1;96|82425|1;96|82525|1;96|82025|1;96|81025|1;96|81125|1;96|81225|1;96|81325|1;96|81425|1#1#0#"
+  splits:
+  - split: 3
+    text: "获得任意一个鹤梦重续"
+    translated: "Obtain any one of Crane's Dream Reborn"
+- raw: "28#45026#0#获得任意一个战骨寒#1&96|45026|1;96|45126|1;96|45226|1;96|45326|1;96|45426|1;96|82226|1;96|82326|1;96|82426|1;96|82526|1;96|82026|1;96|81026|1;96|81126|1;96|81226|1;96|81326|1;96|81426|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一个战骨寒"
+    translated: "Obtain any one of the Battlebone Chills"
+- raw: "29#45027#0#获得任意一个星祁#1&96|45027|1;96|45127|1;96|45227|1;96|45327|1;96|45427|1;96|82227|1;96|82327|1;96|82427|1;96|82527|1;96|82027|1;96|81027|1;96|81127|1;96|81227|1;96|81327|1;96|81427|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一个星祁"
+    translated: "Obtain any one Star Qi"
+- raw: "30#45028#0#获得任意一个踏沙#1&96|45028|1;96|45128|1;96|45228|1;96|45328|1;96|45428|1;96|82228|1;96|82328|1;96|82428|1;96|82528|1;96|82028|1;96|45061|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一个踏沙"
+    translated: "Obtain any Tasha Sand Step"
+- raw: "31#45029#0#获得任意一个催醉#1&96|45029|1;96|45129|1;96|45229|1;96|45329|1;96|45429|1;96|82229|1;96|82329|1;96|82429|1;96|82529|1;96|82029|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一个催醉"
+    translated: "Obtain any one of the sleep‑inducing techniques"
+- raw: "32#45030#0#获得任意一个龙窟动#1&96|45030|1;96|45130|1;96|45230|1;96|45330|1;96|45430|1;96|82230|1;96|82330|1;96|82430|1;96|82530|1;96|82030|1;96|100006|1;96|100007|1;96|100008|1;96|100009|1;96|100010|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一个龙窟动"
+    translated: "Obtain any one Dragon's Cave Stirs"
+- raw: "33#45031#0#获得任意一根木棍#1&96|45031|1;96|45131|1;96|45231|1;96|45331|1;96|45431|1;96|82231|1;96|82331|1;96|82431|1;96|82531|1;96|82031|1;96|81031|1;96|81131|1;96|81231|1;96|81331|1;96|81431|1;96|45046|1;96|45052|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一根木棍"
+    translated: "Acquire any one wooden staff"
+- raw: "34#45032#0#获得任意一把骨矛枪#1&96|45032|1;96|45132|1;96|45232|1;96|45332|1;96|45432|1;96|82232|1;96|82332|1;96|82432|1;96|82532|1;96|82032|1;96|81032|1;96|81132|1;96|81232|1;96|81332|1;96|81432|1;96|45047|1;96|45057|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把骨矛枪"
+    translated: "Obtain any spear made of bone"
+- raw: "35#45033#0#获得任意一根盘龙棍#1&96|45033|1;96|45133|1;96|45233|1;96|45333|1;96|45433|1;96|82233|1;96|82333|1;96|82433|1;96|82533|1;96|82033|1;96|81033|1;96|81133|1;96|81233|1;96|81333|1;96|81433|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一根盘龙棍"
+    translated: "Obtain any one Dragon Spiral Staff"
+- raw: "36#45034#0#获得任意一把花枪#1&96|45034|1;96|45134|1;96|45234|1;96|45334|1;96|45434|1;96|82234|1;96|82334|1;96|82434|1;96|82534|1;96|82034|1;96|81034|1;96|81134|1;96|81234|1;96|81334|1;96|81434|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把花枪"
+    translated: "Obtain any one flower spear"
+- raw: "37#45035#0#获得任意一把乌鸢#1&96|45035|1;96|45135|1;96|45235|1;96|45335|1;96|45435|1;96|82235|1;96|82335|1;96|82435|1;96|82535|1;96|82035|1;96|81035|1;96|81135|1;96|81235|1;96|81335|1;96|81435|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把乌鸢"
+    translated: "Obtain any one Wuyan sword"
+- raw: "38#45036#0#获得任意一把断肠#1&96|45036|1;96|45136|1;96|45236|1;96|45336|1;96|45436|1;96|82236|1;96|82336|1;96|82436|1;96|82536|1;96|82036|1;96|81036|1;96|81136|1;96|81236|1;96|81336|1;96|81436|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把断肠"
+    translated: "Obtain a sword capable of severing one's heartstrings."
+- raw: "39#45037#0#获得任意一把百重波#1&96|45037|1;96|45137|1;96|45237|1;96|45337|1;96|45437|1;96|82237|1;96|82337|1;96|82437|1;96|82537|1;96|82037|1;96|81037|1;96|81137|1;96|81237|1;96|81337|1;96|81437|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把百重波"
+    translated: "Obtain any one Hundred‑Weight Wave blade"
+- raw: "40#45038#0#获得任意一把拥云间#1&96|45038|1;96|45138|1;96|45238|1;96|45338|1;96|45438|1;96|82238|1;96|82338|1;96|82438|1;96|82538|1;96|82038|1;96|45062|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把拥云间"
+    translated: "Acquire any sword from Among Clouds"
+- raw: "41#45039#0#获得任意一把古月摧#1&96|45039|1;96|45139|1;96|45239|1;96|45339|1;96|45439|1;96|82239|1;96|82339|1;96|82439|1;96|82539|1;96|82039|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把古月摧"
+    translated: "Obtain any one of the ancient swords from the Guxi clan."
+- raw: "42#45040#0#获得任意一把引龙驹#1&96|45040|1;96|45140|1;96|45240|1;96|45340|1;96|45440|1;96|82240|1;96|82340|1;96|82440|1;96|82540|1;96|82040|1;96|100001|1;96|100002|1;96|100003|1;96|100004|1;96|100005|1#0#0#"
+  splits:
+  - split: 3
+    text: "获得任意一把引龙驹"
+    translated: "Obtain any copy of Invitation to Dragon's Foal."
+- raw: "43#50500#0#击败徐赫一#1&96|50500|1#0#0#"
+  splits:
+  - split: 3
+    text: "击败徐赫一"
+    translated: "Defeat Xu Heyi"
+- raw: "44#50501#0#巧取陈鸣#1&96|50501|1#0#0#"
+  splits:
+  - split: 3
+    text: "巧取陈鸣"
+    translated: "Outwit Chen Ming"
+- raw: "45#50502#0#在云鹤村购买平平无奇的刀并使用#1&96|50502|1#0#0#"
+  splits:
+  - split: 3
+    text: "在云鹤村购买平平无奇的刀并使用"
+    translated: "Purchase ordinary knives in Cloud Crane Village and use them."
+- raw: "46#50503#0#打造获得#1&96|50503|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "47#50504#0#奇遇-击败湖中人#1&96|50504|1#1#0#"
+  splits:
+  - split: 3
+    text: "奇遇-击败湖中人"
+    translated: "Adventure ‑ Defeat the Lake Dweller"
+- raw: "48#50511#0#百战山洞#1&96|50511|1#0#0#"
+  splits:
+  - split: 3
+    text: "百战山洞"
+    translated: "Bai Zhan Mountain Cave"
+- raw: "49#50512#0#打造获得#1&96|50512|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "50#50513#0#打造获得#1&96|50513|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "51#50514#0#流云镖局贡献堂#1&96|50514|1#0#0#"
+  splits:
+  - split: 3
+    text: "流云镖局贡献堂"
+    translated: "Flowing Cloud Escort Agency Hall of Merit"
+- raw: "52#50515#0#打造获得#1&96|50515|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "53#50516#0#打造获得#1&96|50516|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "54#50517#0#宝箱（601,1361）#1&96|50517|1#0#0#"
+  splits:
+  - split: 3
+    text: "宝箱（601,1361）"
+    translated: "Treasure Chest (601,1361)"
+- raw: "55#50527#0#打造获得#1&96|50527|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "56#50529#0#奇遇-四象龙珠#1&96|50529|1#0#0#"
+  splits:
+  - split: 3
+    text: "奇遇-四象龙珠"
+    translated: "Adventure ‑ Four Symbol Dragon Balls"
+- raw: "57#50530#0#解密-沙匪宝藏#1&96|50530|1#0#0#"
+  splits:
+  - split: 3
+    text: "解密-沙匪宝藏"
+    translated: "Decryption ‑ Sand Bandits' Treasure"
+- raw: "58#50531#0#打造获得#1&96|50531|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "59#50532#0#打造获得#1&96|50532|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "60#50533#0#打造获得#1&96|50533|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "61#50534#0#打造获得#1&96|50534|1#1#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "62#50535#0#打造获得#1&96|50535|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "63#50536#0#挑战常贤#1&96|50536|1#0#0#"
+  splits:
+  - split: 3
+    text: "挑战常贤"
+    translated: "Challenge Chang Xian"
+- raw: "64#50537#0#打造获得#1&96|50537|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "65#50538#0#打造获得#1&96|50538|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "66#50539#0#打造获得#1&96|50539|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "67#50550#0#京谕珠兑换#1&96|50550|1;96|45041|1#0#0#"
+  splits:
+  - split: 3
+    text: "京谕珠兑换"
+    translated: "Imperial edict concerning pearl exchange"
+- raw: "68#50551#0#打造获得#1&96|50551|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "69#50552#0#打造获得#1&96|50552|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "70#50553#0#坠龙坡地宫#1&96|50553|1#0#0#"
+  splits:
+  - split: 3
+    text: "坠龙坡地宫"
+    translated: "Falling Dragon Slope's Underground Palace"
+- raw: "71#50554#0#打造获得#1&96|50554|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "72#50555#0#打造获得#1&96|50555|1#1#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "73#50556#0#打造获得#1&96|50556|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "74#50557#0#打造获得#1&96|50557|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "75#50558#0#宝箱（689,1128）#1&96|50558|1#0#0#"
+  splits:
+  - split: 3
+    text: "宝箱（689,1128）"
+    translated: "Treasure Chest (689,1128)"
+- raw: "76#50559#0#击败冼铅华#1&96|50559|1#0#0#"
+  splits:
+  - split: 3
+    text: "击败冼铅华"
+    translated: "Defeat Xian Qianhua"
+- raw: "77#50560#0#打造获得#1&96|50560|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "78#50568#0#打造获得#1&96|50568|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "79#50569#0#打造获得#1&96|50569|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "80#50570#0#神兵山庄贡献堂#1&96|50570|1#0#0#"
+  splits:
+  - split: 3
+    text: "神兵山庄贡献堂"
+    translated: "Contribution Hall of the Divine Weapon Mountain Villa."
+- raw: "81#50571#0#挑战刘青#1&96|50571|1#0#0#"
+  splits:
+  - split: 3
+    text: "挑战刘青"
+    translated: "Challenge Liu Qing"
+- raw: "82#50572#0#三十六洞地宫#1&96|50572|1#0#0#"
+  splits:
+  - split: 3
+    text: "三十六洞地宫"
+    translated: "Thirty‑Six Caves Dungeon"
+- raw: "83#50573#0#打造获得#1&96|50573|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "84#50574#0#王府宝库#1&96|50574|1#0#0#"
+  splits:
+  - split: 3
+    text: "王府宝库"
+    translated: "Royal Residence Treasury"
+- raw: "85#50575#0#打造获得#1&96|50575|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "86#50576#0#枯荣秘宝洞穴#1&96|50576|1#0#0#"
+  splits:
+  - split: 3
+    text: "枯荣秘宝洞穴"
+    translated: "The Ruin and Prosperity Secret Treasure Cave"
+- raw: "87#50577#0#四圣峰地宫#1&96|50577|1#0#0#"
+  splits:
+  - split: 3
+    text: "四圣峰地宫"
+    translated: "Caverns of the Four Sacred Peaks"
+- raw: "88#50585#0#打造获得#1&96|50585|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "89#50586#0#神武将军墓#1&96|50586|1#0#0#"
+  splits:
+  - split: 3
+    text: "神武将军墓"
+    translated: "The Tomb of the Divine Martial General"
+- raw: "90#50587#0#鸣剑谷#1&96|50587|1#0#0#"
+  splits:
+  - split: 3
+    text: "鸣剑谷"
+    translated: "Bell Valley of Swords"
+- raw: "91#50588#0#藏器山洞#1&96|50588|1#0#0#"
+  splits:
+  - split: 3
+    text: "藏器山洞"
+    translated: "Hidden Cave of Cangqi Mountain"
+- raw: "92#50589#0#挑战巩致#1&96|50589|1#0#0#"
+  splits:
+  - split: 3
+    text: "挑战巩致"
+    translated: "Challenge Gong Zhi"
+- raw: "93#50590#0#法华村洞穴#1&96|50590|1#0#0#"
+  splits:
+  - split: 3
+    text: "法华村洞穴"
+    translated: "Dharma Blossom Village Cave"
+- raw: "94#50591#0#神兵山庄贡献堂#1&96|50591|1#0#0#"
+  splits:
+  - split: 3
+    text: "神兵山庄贡献堂"
+    translated: "Contribution Hall of the Divine Weapon Mountain Villa."
+- raw: "95#50592#0#打造获得#1&96|50592|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "96#50593#0#仙洲地宫#1&96|50593|1#0#0#"
+  splits:
+  - split: 3
+    text: "仙洲地宫"
+    translated: "Immortal Isle Subterranean Palace"
+- raw: "97#50594#0#十二连环坞贡献堂#1&96|50594|1#0#0#"
+  splits:
+  - split: 3
+    text: "十二连环坞贡献堂"
+    translated: "Hall of Contribution at the Twelve‑linked Fortress"
+- raw: "98#50602#0#打造获得#1&96|50602|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "99#50603#0#珈南遗址#1&96|50603|1#0#0#"
+  splits:
+  - split: 3
+    text: "珈南遗址"
+    translated: "Ji'nan Ruins"
+- raw: "100#50604#0#打造获得#1&96|50604|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "101#50605#0#神兵山庄贡献堂#1&96|50605|1#0#0#"
+  splits:
+  - split: 3
+    text: "神兵山庄贡献堂"
+    translated: "Contribution Hall of the Divine Weapon Mountain Villa."
+- raw: "102#50606#0#奇遇-当世第一#1&96|50606|1#0#0#"
+  splits:
+  - split: 3
+    text: "奇遇-当世第一"
+    translated: "Adventure ‑ The best in the world today"
+- raw: "103#50607#0#打造获得#1&96|50607|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "104#50608#0#神兵山庄贡献堂#1&96|50608|1#0#0#"
+  splits:
+  - split: 3
+    text: "神兵山庄贡献堂"
+    translated: "Contribution Hall of the Divine Weapon Mountain Villa."
+- raw: "105#50609#0#打造获得#1&96|50609|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "106#50616#0#打造获得#1&96|50616|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "107#50617#0#打造获得#1&96|50617|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "108#50618#0#打造获得#1&96|50618|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "109#50619#0#打造获得#1&96|50619|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "110#50626#0#钓鱼（1050，-63）#1&96|50626|1#0#0#"
+  splits:
+  - split: 3
+    text: "钓鱼（1050，-63）"
+    translated: "Fishing (1050,‑63)"
+- raw: "111#50627#0#钓鱼（250,1396）#1&96|50627|1#0#0#"
+  splits:
+  - split: 3
+    text: "钓鱼（250,1396）"
+    translated: "Fishing on (250,1396)"
+- raw: "112#50628#0#钓鱼（309,656）#1&96|50628|1#0#0#"
+  splits:
+  - split: 3
+    text: "钓鱼（309,656）"
+    translated: "Fishing (309,656)"
+- raw: "113#50629#0#钓鱼（1938,1489）#1&96|50629|1#0#0#"
+  splits:
+  - split: 3
+    text: "钓鱼（1938,1489）"
+    translated: "Fishing on (1938,1489)"
+- raw: "114#50630#0#打造获得#1&96|50630|1#0#0#"
+  splits:
+  - split: 3
+    text: "打造获得"
+    translated: "Forging Achieved"
+- raw: "115#50631#0#击败守山人残骸#1&96|50631|1#0#0#"
+  splits:
+  - split: 3
+    text: "击败守山人残骸"
+    translated: "Defeat the remnants of the mountain guardsmen"
+- raw: "116#50632#0#击败守山人残骸#1&96|50632|1#0#0#"
+  splits:
+  - split: 3
+    text: "击败守山人残骸"
+    translated: "Defeat the remnants of the mountain guardsmen"
+- raw: "117#50633#0#招募镜无双#1&96|50633|1#0#0#"
+  splits:
+  - split: 3
+    text: "招募镜无双"
+    translated: "Recruit Jing Wushuang"
+- raw: "118#50635#0#随机糖葫芦商NPC#1&96|50635|1#0#0#"
+  splits:
+  - split: 3
+    text: "随机糖葫芦商NPC"
+    translated: "Random Candy Corn Vendor NPC"
+- raw: "119#50636#0#奇遇-糖葫芦棍#1&96|50636|1#0#0#"
+  splits:
+  - split: 3
+    text: "奇遇-糖葫芦棍"
+    translated: "Adventure ‑ Rattan sugar cane staff"
+- raw: "120#50638#0#巨剑顶（922,325）#1&96|50638|1#0#0#"
+  splits:
+  - split: 3
+    text: "巨剑顶（922,325）"
+    translated: "The colossal sword rests atop (922,325)"
+- raw: "121#50639#0#巨剑顶（881,1484）#1&96|50639|1#0#0#"
+  splits:
+  - split: 3
+    text: "巨剑顶（881,1484）"
+    translated: "Great Sword atop (881,1484)"
+- raw: "122#50640#0#巨剑顶（1351,634）#1&96|50640|1#0#0#"
+  splits:
+  - split: 3
+    text: "巨剑顶（1351,634）"
+    translated: "Giant Sword atop (1351,634)"
+- raw: "123#50641#0#支线-初逢画圣·残卷涧中寻#1&96|50641|1#0#0#"
+  splits:
+  - split: 3
+    text: "支线-初逢画圣·残卷涧中寻"
+    translated: "Side quest ‑ First encounter with the Sage of Painting · Searching for fragments in the Valley Stream."
+- raw: "124#82101#0#凌云宗贡献堂#1&96|82101|1#0#0#"
+  splits:
+  - split: 3
+    text: "凌云宗贡献堂"
+    translated: "Soaring Clouds Sect Contribution Hall"
+- raw: "125#82693#0#支线-湖底剑神#1&96|82693|1#0#0#"
+  splits:
+  - split: 3
+    text: "支线-湖底剑神"
+    translated: "Side quest ‑ Lake Bottom Sword God"
+- raw: "126#82695#0#丐门兽斗裁判#1&96|82695|1#0#0#"
+  splits:
+  - split: 3
+    text: "丐门兽斗裁判"
+    translated: "Beggar Sect Beastfighting Referee"
+- raw: "127#82696#0#丐门兽斗裁判#1&96|82696|1#0#0#"
+  splits:
+  - split: 3
+    text: "丐门兽斗裁判"
+    translated: "Beggar Sect Beastfighting Referee"
+- raw: "128#82697#0#击败白长老#1&96|82697|1#0#0#"
+  splits:
+  - split: 3
+    text: "击败白长老"
+    translated: "Defeated White Elder"
+- raw: "129#82698#0#绝剑门亲传额外隐藏任务#1&96|82698|1#0#0#"
+  splits:
+  - split: 3
+    text: "绝剑门亲传额外隐藏任务"
+    translated: "Sword Breaker Gate Secret Legacy Quests"
+- raw: "130#82711#0#支线-神兵初现·碎玉试锋#1&96|82711|1#0#0#"
+  splits:
+  - split: 3
+    text: "支线-神兵初现·碎玉试锋"
+    translated: "Side quest ‑ Divine Weapons Reveal Themselves · Jade Shatters in Testing the Edge"
+- raw: "131#82712#0#支线-神兵初现·碎玉试锋#1&96|82712|1#0#0#"
+  splits:
+  - split: 3
+    text: "支线-神兵初现·碎玉试锋"
+    translated: "Side quest ‑ Divine Weapons Reveal Themselves · Jade Shatters in Testing the Edge"
+- raw: "132#82713#0#支线-神兵初现·碎玉试锋#1&96|82713|1#0#0#"
+  splits:
+  - split: 3
+    text: "支线-神兵初现·碎玉试锋"
+    translated: "Side quest ‑ Divine Weapons Reveal Themselves · Jade Shatters in Testing the Edge"
+- raw: "133#82714#1#0#1&96|82714|1#0#1#"
+  splits: []
+- raw: "134#82715#1#0#1&96|82715|1#0#1#"
+  splits: []

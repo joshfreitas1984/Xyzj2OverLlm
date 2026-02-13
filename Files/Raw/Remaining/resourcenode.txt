@@ -758,6 +758,8 @@
 5002#5002_creature_huachuan#
 5003#5003_create_6_wujian_yizi_01#
 5004#5004_create_6_wujian_xiaochituiche_zhuozi#
+8006#8006_weapon_zhentianjian#
+8007#8007_weapon_zhenlongdao#
 9999#3312_creature_daomendizi3#
 20000#20000_clothes_main_hero#
 20101#20101_weapon_jian_01#

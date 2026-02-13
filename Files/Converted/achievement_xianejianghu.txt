@@ -5916,7 +5916,7 @@
   - split: 14
     text: "沙匪藏黄金，烈日下沉默。探宝穿风沙，月下金光闪。"
     translated: "Sand bandits hide yellow gold, silent under the scorching sun. Treasure seekers traverse the windswept dunes; by moonlight, glints of golden light flash."
-- raw: "2312#沙鼠藏宝#1#1#2312#1#3#18097|2;21058|3;1204|1#0&1|201312|1;24|951194|1#破解沙鼠藏宝之谜##400#0#0#沙鼠宝藏谜，漠中深处探。英豪热沙行，金银自现形。#0#0#2#chengjiu_2312#4#"
+- raw: "2312#沙鼠藏宝#1#1#2312#1#3#18097|2;21058|3;1204|1#0&1|201312|1#破解沙鼠藏宝之谜##400#0#0#沙鼠宝藏谜，漠中深处探。英豪热沙行，金银自现形。#0#0#2#chengjiu_2312#4#"
   splits:
   - split: 1
     text: "沙鼠藏宝"
@@ -11603,7 +11603,7 @@
   - split: 14
     text: "一生征战，为家族、为家国立下赫赫战功，最终实现将门的荣耀与梦想，成为江湖与朝堂中令人敬仰的传奇人物，其事迹代代相传。"
     translated: "Throughout a lifetime of campaigns for the family and nation, they achieved illustrious military feats and ultimately realized the glory and dreams of their noble lineage. They became a legendary figure revered in both Jianghu and court, with their deeds passed down through generations."
-- raw: "7007#权臣霸业终章#1#1#7007#1#1#54436|2;54047|2;54040|4#0&24|946517|1#完成权臣线结局##500#0#0#一生征战，为家族、为家国立下赫赫战功，最终实现将门的荣耀与梦想，成为江湖与朝堂中令人敬仰的传奇人物，其事迹代代相传。#0#0#4#chengjiu_7007#8#"
+- raw: "7007#权臣霸业终章#1#1#7007#1#1#54436|2;54047|2;54040|4#1&24|946517|1;24|942774|1#完成权臣线结局##500#0#0#一生征战，为家族、为家国立下赫赫战功，最终实现将门的荣耀与梦想，成为江湖与朝堂中令人敬仰的传奇人物，其事迹代代相传。#0#0#4#chengjiu_7007#8#"
   splits:
   - split: 1
     text: "权臣霸业终章"
@@ -11889,7 +11889,7 @@
   - split: 14
     text: "抽丝剥茧，识破幕后黑手的连环布局，锁定复仇目标。"
     translated: "Unraveling layer by layer and exposing the hidden mastermind behind the elaborate scheme to identify the target for revenge."
-- raw: "7201#血债血偿#1#1#7201#1#1#60010|2;18112|2;54013|4;54041|4#0&24|902012|1#为自己父亲报仇手刃仇人##300#0#0#刀锋染血，恩怨一剑消。#0#0#2##4#"
+- raw: "7201#血债血偿#1#1#7201#1#1#60010|2;18112|2;54013|4;54041|4#0&24|902030|1#为自己父亲报仇手刃仇人##300#0#0#刀锋染血，恩怨一剑消。#0#0#2##4#"
   splits:
   - split: 1
     text: "血债血偿"

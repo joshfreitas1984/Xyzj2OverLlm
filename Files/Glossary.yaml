@@ -1267,6 +1267,7 @@
     - Dress
     - Attire
     - Worn
+    - Equip
   badtrans: true
   context: Refers to the act of dressing or the attire one wears.
 - raw: 境界

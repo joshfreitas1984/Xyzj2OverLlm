@@ -27,3 +27,4 @@
 1022#7#3161#江湖初见DLC#jhcj_1_bg#jhcj_1_icon#0#
 1024#7#3491#风华绝代DLC#fhjd_1_bg#fhjd_1_icon#0#
 1025#7#385#日月玄宗DLC#ryxz_1_bg#ryxz_1_icon#0#
+1026#7#487#六脉齐发DLC#lmqf_1_bg#lmqf_1_icon#0#

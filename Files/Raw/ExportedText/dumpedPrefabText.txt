@@ -176,6 +176,8 @@
 已学习
 使用冷却中\n<size=36>0.5秒
 使用冷却中：\n0.5秒
+批量
+全选
 太阴八卦
 反击
 没有敌方目标
@@ -1098,8 +1100,8 @@ ddddddddddddddddw到我ddddddddddddddddw到我ddddddddddddddddw到我ddddddddddd
 实力：
 特质
 对对对对对对对对对对对对对对对对对对对对对对对对对对对对对对对对对对对对对对对
-万家剑法
 万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法
+万家剑法
 兴趣：乐器
 沈雁弓，名将之后。\n因意外
 母亲
@@ -1242,7 +1244,7 @@ ddddddddddddddddw到我ddddddddddddddddw到我ddddddddddddddddw到我ddddddddddd
 隐藏属性
 突破
 消耗修为：100000000000
-帮助信息：\n1、境界是经脉提升到一定强度之后激活的等级效果，<color=#3ad67c>满足条件</color>激活境界可获得<color=#3ad67c>额外的属性</color>。\n2、激活境界的条件除了最基本的修为值需求外，还分为两个，<color=#3ad67c>固定属性</color>包含<color=#3ad67c>境界丹，打通的经脉和属性值</color>，<color=#3ad67c>特殊属性</color>包含<color=#3ad67c>属性丹药和更高的属性值</color>，同时只有<color=#3ad67c>满足固定属性的条件</color>才可查看。\n3、固定属性中的<color=#3ad67c>境界丹</color>可在少侠的<color=#3ad67c>旅程中</color>获得，也可在<color=#3ad67c>杂货商，游吟商人</color>购买。有传言说有些<color=#3ad67c>强力敌人</color>也会随身携带，也有人在一些<color=#3ad67c>隐秘的宝箱</color>中找到过。\n4、特殊属性中的<color=#3ad67c>属性丹药</color>可通过<color=#3ad67c>习得配方自行炼制</color>，也可在少侠的<color=#3ad67c>旅程中</color>获得，也可在<color=#3ad67c>杂货商，游吟商人</color>购买。有传言说有些<color=#3ad67c>强力敌人</color>也会随身携带，也有人在一些<color=#3ad67c>隐秘的宝箱</color>中找到过。
+帮助信息：\n1、境界是经脉提升到一定强度之后激活的等级效果，<color=#3ad67c>满足条件</color>激活境界可获得<color=#3ad67c>额外的属性</color>。\n2、激活境界的条件除了最基本的修为值需求外，还分为两个，<color=#3ad67c>固定属性</color>包含<color=#3ad67c>境界丹，打通的经脉和属性值</color>，<color=#3ad67c>特殊属性</color>包含<color=#3ad67c>属性丹药和更高的属性值</color>，同时只有<color=#3ad67c>满足固定属性的条件</color>才可查看。\n3、固定属性中的<color=#3ad67c>境界丹</color>可在少侠的<color=#3ad67c>旅程中</color>获得，也可在<color=#3ad67c>杂货商，游吟商人</color>购买。有传言说有些<color=#3ad67c>强力敌人</color>也会随身携带，也有人在一些<color=#3ad67c>隐秘的宝箱</color>中找到过。\n4、特殊属性中的<color=#3ad67c>属性丹药</color>可通过<color=#3ad67c>习得配方自行炼制</color>，也可在少侠的<color=#3ad67c>旅程中</color>获得，也可在<color=#3ad67c>杂货商，游吟商人</color>购买。有传言说有些<color=#3ad67c>强力敌人</color>也会随身携带，也有人在一些<color=#3ad67c>隐秘的宝箱</color>中找到过。\n5、提升不同的境界需要不同的心法，低阶境界只能使用低品质心法，反之，高阶境界只能使用高阶心法。
 境界介绍
 心法选择
 心法：
@@ -1267,6 +1269,9 @@ ddddddddddddddddw到我ddddddddddddddddw到我ddddddddddddddddw到我ddddddddddd
 配饰
 特效
 时装
+幻化
+武器预设
+宝物预设
 状态
 刀法
 熟练度：
@@ -1276,6 +1281,9 @@ ddddddddddddddddw到我ddddddddddddddddw到我ddddddddddddddddw到我ddddddddddd
 此处为<color=#3ad67c>快捷道具栏</color>，可以配置<color=#3ad67c>各类恢复药品</color>方便在<color=#3ad67c>战斗时用快捷按键</color>使用。现在请点击一个<color=#3ad67c>快捷道具栏位</color>，选择一个恢复道具<color=#3ad67c>装备</color>起来。
 辅助属性分为人格、战术、学识、生活、技艺，可以从此处切换。
 使用冷却中：0.5秒
+批量丢弃
+一键全选
+确认丢弃
 行囊界面可以看到<color=#3ad67c>当前持有</color>的物品，可以通过上方的<color=#3ad67c>搜索栏</color>搜索想要查询的道具，<color=#3ad67c>单击左键</color>可选中物品。
 选中物品后可在右侧<color=#3ad67c>物品详情页</color>查看详情，同时也可以<color=#3ad67c>对物品进行操作</color>。请点击<color=#3ad67c>使用</color>按钮使用秘卷物品。
 请点击<color=#3ad67c>上方的武学</color>标签页，用以查看学习过的<color=#3ad67c>秘籍或者秘卷</color>。
@@ -1423,7 +1431,6 @@ xx的经历
 降渊恒力·流火长阵
 防具
 武器宝物预设
-宝物预设
 返回装备
 玄机
 <color=#7e8184>等级</color> 1
@@ -2362,7 +2369,7 @@ Y轴向下
 雾气品质
 加载距离翻倍(翻倍视野距离会严重影响性能)
 启用日志
-隐藏伤害提示
+隐藏伤害/技能cd/效果提示
 返回游戏
 存储进度
 云账号登录
@@ -2548,6 +2555,11 @@ aaa啊啊啊啊啊啊啊啊啊啊啊啊啊aaa啊啊啊啊啊啊啊啊啊啊啊�
 苌净+7
 添加材料：
 锤炼7
+武器幻化
+替换所有
+替换当前
+取消幻化
+				幻化说明\n\n1.只要获取过武器即可解锁对应的外观（即使被卖出或者丢弃，也不会再次锁上）\n2.幻化时，请保持主角当前所穿戴的武器类型一致\n3.武器简介可以下滑，在尾部有获取提示\n4.幻化只变化外观，不会影响当前的装备属性与词条\n5.幻化时选择“替换所有”，背包内所有的同类型武器会一起幻化
 对方回礼
 容我想想...
 开!

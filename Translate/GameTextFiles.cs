@@ -29,7 +29,10 @@ public class GameTextFiles
         new() {Path = "ai_dialog.txt", PackageOutput = true},
         new() {Path = "local_text_string.txt", PackageOutput = true, TextFileType = TextFileType.LocalTextString },
         new() {Path = "dlcinfo.txt", PackageOutput = true },
-        
+
+        new() {Path = "item_transform.txt", PackageOutput = true },
+        new() {Path = "guanqiainfo_dangmojianghu.txt", PackageOutput = true },
+
         new() {Path = "achievement.txt", PackageOutput = true},
         new() {Path = "achievement_xianejianghu.txt", PackageOutput = true},
         new() {Path = "achievement_zhenshijianghu.txt", PackageOutput = true},

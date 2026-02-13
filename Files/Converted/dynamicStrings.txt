@@ -188,7 +188,7 @@
   - split: 3
     text: "门派管理员已满员"
     translated: "The sect administrator positions are now fully staffed."
-- raw: "AutomatManager,Script_StartSteal,55,没有东西可以偷窃,[AutomatScript，CallFunc]"
+- raw: "AutomatManager,Script_StartSteal,56,没有东西可以偷窃,[AutomatScript，CallFunc]"
   splits:
   - split: 3
     text: "没有东西可以偷窃"
@@ -393,11 +393,6 @@
   - split: 3
     text: "{0}创建运镖劫镖队伍错误，创建队伍时的队伍类型只能为1或2"
     translated: "{0} encountered an error while creating a courier or ambush team; the type of team must be either 1 or 2 during creation."
-- raw: "CameraControllerNew,UpdateWheel,35,当前为锁定视角，请切换自由视角后调整距离,[System.Single]"
-  splits:
-  - split: 3
-    text: "当前为锁定视角，请切换自由视角后调整距离"
-    translated: "The current view is locked; please switch to free view mode and adjust the distance afterward."
 - raw: "LocalTextString,CreateFromCsvRow,87,id = {0} 与 id = {1} key冲突！,[System.String[]]"
   splits:
   - split: 3
@@ -11531,6 +11526,211 @@
   - split: 3
     text: "取消多选"
     translated: "Cancel multiple selections"
+- raw: "ComString,.cctor,21847,执行中：{0}日后,[]"
+  splits:
+  - split: 3
+    text: "执行中：{0}日后"
+    translated: "In progress: Day after {0}"
+- raw: "ComString,.cctor,21857,多丢,[]"
+  splits:
+  - split: 3
+    text: "多丢"
+    translated: "Dao liu"
+- raw: "ComString,.cctor,21867,全选,[]"
+  splits:
+  - split: 3
+    text: "全选"
+    translated: "Select All"
+- raw: "ComString,.cctor,21877,清空,[]"
+  splits:
+  - split: 3
+    text: "清空"
+    translated: "Clear all"
+- raw: "ComString,.cctor,21887,请选择一位主将,[]"
+  splits:
+  - split: 3
+    text: "请选择一位主将"
+    translated: "Choose a general commander"
+- raw: "ComString,.cctor,21897,是否取消当前装备幻化？,[]"
+  splits:
+  - split: 3
+    text: "是否取消当前装备幻化？"
+    translated: "Cancel current equipment transmogrification?"
+- raw: "ComString,.cctor,21907,江湖本篇,[]"
+  splits:
+  - split: 3
+    text: "江湖本篇"
+    translated: "Jianghu Chronicles"
+- raw: "ComString,.cctor,21917,DLC扩展,[]"
+  splits:
+  - split: 3
+    text: "DLC扩展"
+    translated: "Downloadable Content expansion"
+- raw: "ComString,.cctor,21927,当前为锁定视角，请切换自由视角后调整距离,[]"
+  splits:
+  - split: 3
+    text: "当前为锁定视角，请切换自由视角后调整距离"
+    translated: "The current view is locked; please switch to free view mode and adjust the distance afterward."
+- raw: "ComString,.cctor,21937,请在背包切换至对应武器，再行幻化,[]"
+  splits:
+  - split: 3
+    text: "请在背包切换至对应武器，再行幻化"
+    translated: "Please switch your backpack to the corresponding weapon before shapeshifting."
+- raw: "ComString,.cctor,21947,正在进入藏经阁,[]"
+  splits:
+  - split: 3
+    text: "正在进入藏经阁"
+    translated: "Entering the Scripture Repository"
+- raw: "ComString,.cctor,21957,第{0}轮,[]"
+  splits:
+  - split: 3
+    text: "第{0}轮"
+    translated: "Round {0}"
+- raw: "ComString,.cctor,21967,正在进入战神塔,[]"
+  splits:
+  - split: 3
+    text: "正在进入战神塔"
+    translated: "Entering the God of War Tower"
+- raw: "ComString,.cctor,21977,正在离开战神塔,[]"
+  splits:
+  - split: 3
+    text: "正在离开战神塔"
+    translated: "Leaving War God Tower"
+- raw: "ComString,.cctor,21987,正在传送,[]"
+  splits:
+  - split: 3
+    text: "正在传送"
+    translated: "Currently transferring"
+- raw: "ComString,.cctor,21997,当前区域无法存档,[]"
+  splits:
+  - split: 3
+    text: "当前区域无法存档"
+    translated: "Current area cannot be saved"
+- raw: "ComString,.cctor,22007,战神图录,[]"
+  splits:
+  - split: 3
+    text: "战神图录"
+    translated: "Chronicles of the War God"
+- raw: "ComString,.cctor,22017,查看记录,[]"
+  splits:
+  - split: 3
+    text: "查看记录"
+    translated: "View records"
+- raw: "ComString,.cctor,22027,退出挑战,[]"
+  splits:
+  - split: 3
+    text: "退出挑战"
+    translated: "Exit challenge"
+- raw: "ComString,.cctor,22037,开始下一轮,[]"
+  splits:
+  - split: 3
+    text: "开始下一轮"
+    translated: "Begin next round"
+- raw: "ComString,.cctor,22047,该玩法难度较大，建议通关暗黑主线再来进行挑战，现在是否进入挑战,[]"
+  splits:
+  - split: 3
+    text: "该玩法难度较大，建议通关暗黑主线再来进行挑战，现在是否进入挑战"
+    translated: "This play style has a high difficulty level; it is recommended to complete the main storyline of Dark Mode before attempting this challenge. Are you sure about entering the challenge now?"
+- raw: "ComString,.cctor,22057,当前为<color=#6abbff>随机覆写</color>,[]"
+  splits:
+  - split: 3
+    text: "当前为<color=#6abbff>随机覆写</color>"
+    translated: "Currently, this is a <color=#6abbff>random overwrite</color>"
+- raw: "ComString,.cctor,22067,当前覆写词条  ,[]"
+  splits:
+  - split: 3
+    text: "当前覆写词条  "
+    translated: "Current rewrite of the article."
+- raw: "ComString,.cctor,22077,  (无上限),[]"
+  splits:
+  - split: 3
+    text: "  (无上限)"
+    translated: "Limitless (or Boundless)"
+- raw: "ComString,.cctor,22087,覆写成功率为：<color=#7ffc58><size=36>{0}%</size></color> ({1}%<color=#ff5d5d>{2}%</color><color=#7ffc58>{3}%</color>),[]"
+  splits:
+  - split: 3
+    text: "覆写成功率为：<color=#7ffc58><size=36>{0}%</size></color> ({1}%<color=#ff5d5d>{2}%</color><color=#7ffc58>{3}%</color>)"
+    translated: "Rewrite success rate: <color=#7ffc58><size=25>{0}%</size></color> ({1}%<color=#ff5d5d>{2}%</color><color=#7ffc58>{3}%</color>)"
+- raw: "ComString,.cctor,22097,当前为<color=#ffec6a>指定覆写</color>,[]"
+  splits:
+  - split: 3
+    text: "当前为<color=#ffec6a>指定覆写</color>"
+    translated: "The current setting is <color=#ffec6a>overwrite specified</color>"
+- raw: "ComString,.cctor,22107,请指定一个词条位置进行覆写,[]"
+  splits:
+  - split: 3
+    text: "请指定一个词条位置进行覆写"
+    translated: "Please specify a term to be rewritten in its designated position."
+- raw: "ComString,.cctor,22117,覆写失败， 目标物品的该类型词条数量已达上限,[]"
+  splits:
+  - split: 3
+    text: "覆写失败， 目标物品的该类型词条数量已达上限"
+    translated: "Copy failed; the quantity of items of this type has reached its limit."
+- raw: "ComString,.cctor,22127,覆写失败， 请选择目标物品,[]"
+  splits:
+  - split: 3
+    text: "覆写失败， 请选择目标物品"
+    translated: "Rewrite failed, please select a target item."
+- raw: "ComString,.cctor,22137,覆写失败， 请先萃取再覆写,[]"
+  splits:
+  - split: 3
+    text: "覆写失败， 请先萃取再覆写"
+    translated: "Rewrite failed, please extract first before rewriting."
+- raw: "ComString,.cctor,22147,<color=#da914e>{0}</color>/刻,[]"
+  splits:
+  - split: 3
+    text: "<color=#da914e>{0}</color>/刻"
+    translated: "At precisely <color=#da914e>{0}</color> o'clock"
+- raw: "ComString,.cctor,22157,<color=#a8a8a8>{0}</color>/刻,[]"
+  splits:
+  - split: 3
+    text: "<color=#a8a8a8>{0}</color>/刻"
+    translated: "<color=#a8a8a8>{0}</color> at that moment/second/moment"
+- raw: "ComString,.cctor,22167,当前任职位：<color=#{0}>{1}</color>，收益加成：<color=#da914b>{2}倍</color><color=#a8a8a8>预计收益</color>,[]"
+  splits:
+  - split: 3
+    text: "当前任职位：<color=#{0}>{1}</color>，收益加成：<color=#da914b>{2}倍</color><color=#a8a8a8>预计收益</color>"
+    translated: "Current Position: <color=#{0}>{1}</color>, Earnings Bonus: <color=#da914b>{2}x</color><color=#a8a8a8>Estimated Earnings</color>"
+- raw: "ComString,.cctor,22177,<商贩>,[]"
+  splits:
+  - split: 3
+    text: "<商贩>"
+    translated: "<Merchant>"
+- raw: "ComString,.cctor,22187,蓄伤:,[]"
+  splits:
+  - split: 3
+    text: "蓄伤:"
+    translated: "Stockpile injuries:"
+- raw: "ComString,.cctor,22197,生辰箴言,[]"
+  splits:
+  - split: 3
+    text: "生辰箴言"
+    translated: "Birth Oath Sayings"
+- raw: "ComString,.cctor,22207,生成箴言：\\n\\n{0}\\n\\n批注：{1},[]"
+  splits:
+  - split: 3
+    text: "生成箴言：\\n\\n{0}\\n\\n批注：{1}"
+    translated: "Create a maxim: \\n\\n{0}\\n\\nAnnotation: {1}"
+- raw: "ComString,.cctor,22217,少侠请满18岁再来,[]"
+  splits:
+  - split: 3
+    text: "少侠请满18岁再来"
+    translated: "Young hero, please return once you are 18 years old."
+- raw: "ComString,.cctor,22227,身份未知,[]"
+  splits:
+  - split: 3
+    text: "身份未知"
+    translated: "Identity unknown"
+- raw: "ComString,.cctor,22237,未拥有,[]"
+  splits:
+  - split: 3
+    text: "未拥有"
+    translated: "Not possessing"
+- raw: "ComString,.cctor,22247,{0}{1}/十天,[]"
+  splits:
+  - split: 3
+    text: "{0}{1}/十天"
+    translated: "{0} {1} ten days"
 - raw: "EndingView,Show,109,game_end没有id为{0}的数据,[System.Int32]"
   splits:
   - split: 3
@@ -12238,31 +12438,6 @@
     text: "Prefab/UISprite/UI_ItemBG/道具框-"
     translated: "Item Frame ‑"
     safeToTranslate: false
-- raw: "StaffSlot,OnReset,334,<color=#da914e>{0}</color>/刻,[]"
-  splits:
-  - split: 3
-    text: "<color=#da914e>{0}</color>/刻"
-    translated: "At precisely <color=#da914e>{0}</color> o'clock"
-- raw: "StaffSlot,OnReset,385,<color=#da914e>任职收益</color>,[]"
-  splits:
-  - split: 3
-    text: "<color=#da914e>任职收益</color>"
-    translated: "<color=#da914e>In‑office earnings/profit.</color>"
-- raw: "StaffSlot,OnReset,430,<color=#a8a8a8>预计收益</color>,[]"
-  splits:
-  - split: 3
-    text: "<color=#a8a8a8>预计收益</color>"
-    translated: "<color=#a8a8a8>Predicted earnings/profit.</color>"
-- raw: "StaffSlot,OnReset,446,<color=#a8a8a8>{0}</color>/刻,[]"
-  splits:
-  - split: 3
-    text: "<color=#a8a8a8>{0}</color>/刻"
-    translated: "<color=#a8a8a8>{0}</color> at that moment/second/moment"
-- raw: "StaffSlot,OnSelected,51,当前任职位：<color=#{0}>{1}</color>，收益加成：<color=#da914b>{2}倍</color><color=#a8a8a8>预计收益</color>,[]"
-  splits:
-  - split: 3
-    text: "当前任职位：<color=#{0}>{1}</color>，收益加成：<color=#da914b>{2}倍</color><color=#a8a8a8>预计收益</color>"
-    translated: "Current Position: <color=#{0}>{1}</color>, Earnings Bonus: <color=#da914b>{2}x</color><color=#a8a8a8>Estimated Earnings</color>"
 - raw: "StaffSlot,.ctor,95,头牌,[]"
   splits:
   - split: 3
@@ -12441,6 +12616,11 @@
   - split: 3
     text: "(未持有)"
     translated: "(Unowned)"
+- raw: "ItemTransformHolder,UpdateFromModel,46,Prefab/UISprite/UI_ItemBG_mobile/背包品质{0},[SweetPotato.UIItemData]"
+  splits:
+  - split: 3
+    text: "Prefab/UISprite/UI_ItemBG_mobile/背包品质{0}"
+    safeToTranslate: false
 - raw: "XiaYunLuViewBaiHuaHolder,UpdateFromModel,56,id={0}的npc不存在！！！,[SweetPotato.UIItemData]"
   splits:
   - split: 3
@@ -13879,12 +14059,12 @@
   - split: 3
     text: "guid:{0}，m_NpcPrototypeId:{1}，NpcPrototypeBaseId:{2}，prfomulaBaseID:{3}的精力最大值为0"
     translated: "Guid: {0},m_NpcPrototypeId: {1},NpcPrototypeBaseId: {2},prfomulaBaseID: The maximum energy value of {3} is 0."
-- raw: "SweetPotato.PlayerEntity,Update,716,游戏进入了新的一天 年:{0} 月:{1} 日:{2},[]"
+- raw: "SweetPotato.PlayerEntity,Update,750,游戏进入了新的一天 年:{0} 月:{1} 日:{2},[]"
   splits:
   - split: 3
     text: "游戏进入了新的一天 年:{0} 月:{1} 日:{2}"
     translated: "The game enters a new day in the year: The month of {0}: {1} day: {2}"
-- raw: "SweetPotato.PlayerEntity,Update,983,游戏进入了新的时辰 {0},[]"
+- raw: "SweetPotato.PlayerEntity,Update,1017,游戏进入了新的时辰 {0},[]"
   splits:
   - split: 3
     text: "游戏进入了新的时辰 {0}"
@@ -14086,16 +14266,6 @@
   - split: 3
     text: "错误"
     translated: "Incorrect"
-- raw: "SweetPotato.SingleUnitIcon2D,SetCustomGangName,111,<商贩>,[]"
-  splits:
-  - split: 3
-    text: "<商贩>"
-    translated: "<Merchant>"
-- raw: "SweetPotato.SingleUnitIcon2D,OnShowStoreDamageSlider,57,蓄伤:,[System.Int32，System.Int32，System.Boolean]"
-  splits:
-  - split: 3
-    text: "蓄伤:"
-    translated: "Stockpile injuries:"
 - raw: "SweetPotato.UpEquipView,OnClickShowChongZhu,205,武器,[]"
   splits:
   - split: 3
@@ -14747,11 +14917,6 @@
   - split: 3
     text: "传送 ： "
     translated: "Teleportation:"
-- raw: "SweetPotato.WashIntensify.WashPanel,OpenPanel,23,回锻,[SweetPotato.Item]"
-  splits:
-  - split: 3
-    text: "回锻"
-    translated: "Reforging"
 - raw: "SweetPotato.GambleGame.BettingPanel,OpenPanel,49,大,[SweetPotato.GambleGame.DiceBettingItemSlot]"
   splits:
   - split: 3
@@ -14922,137 +15087,137 @@
   - split: 3
     text: "输入内容"
     translated: "Input content"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,98,是否删除整个任务连,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,94,是否删除整个任务连,[]"
   splits:
   - split: 3
     text: "是否删除整个任务连"
     translated: "Is the entire task chain to be deleted?"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,116,确定,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,112,确定,[]"
   splits:
   - split: 3
     text: "确定"
     translated: "Confirmed"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,121,取消,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,117,取消,[]"
   splits:
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,146,是否删除对话组,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,138,是否删除对话组,[]"
   splits:
   - split: 3
     text: "是否删除对话组"
     translated: "Should I delete the dialogue group?"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,164,确定,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,156,确定,[]"
   splits:
   - split: 3
     text: "确定"
     translated: "Confirmed"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,169,取消,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,161,取消,[]"
   splits:
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,194,是否删除Npc,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,182,是否删除Npc,[]"
   splits:
   - split: 3
     text: "是否删除Npc"
     translated: "Should we delete the NPC?"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,212,确定,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,200,确定,[]"
   splits:
   - split: 3
     text: "确定"
     translated: "Confirmed"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,217,取消,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,205,取消,[]"
   splits:
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,242,是否删除Shop组,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,226,是否删除Shop组,[]"
   splits:
   - split: 3
     text: "是否删除Shop组"
     translated: "Should the Shop group be deleted?"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,260,确定,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,244,确定,[]"
   splits:
   - split: 3
     text: "确定"
     translated: "Confirmed"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,265,取消,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,249,取消,[]"
   splits:
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,290,是否删除掉落组,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,270,是否删除掉落组,[]"
   splits:
   - split: 3
     text: "是否删除掉落组"
     translated: "Should I delete the drop group?"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,308,确定,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,288,确定,[]"
   splits:
   - split: 3
     text: "确定"
     translated: "Confirmed"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,313,取消,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,293,取消,[]"
   splits:
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,338,是否删除道具,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,314,是否删除道具,[]"
   splits:
   - split: 3
     text: "是否删除道具"
     translated: "Should the item be deleted?"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,356,确定,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,332,确定,[]"
   splits:
   - split: 3
     text: "确定"
     translated: "Confirmed"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,361,取消,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,337,取消,[]"
   splits:
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,386,是否删除词条,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,358,是否删除词条,[]"
   splits:
   - split: 3
     text: "是否删除词条"
     translated: "Should I delete the entry?"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,404,确定,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,376,确定,[]"
   splits:
   - split: 3
     text: "确定"
     translated: "Confirmed"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,409,取消,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,381,取消,[]"
   splits:
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,431,是否删除脚本,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,402,是否删除脚本,[]"
   splits:
   - split: 3
     text: "是否删除脚本"
     translated: "Should I delete the script?"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,449,确定,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,420,确定,[]"
   splits:
   - split: 3
     text: "确定"
     translated: "Confirmed"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,454,取消,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,425,取消,[]"
   splits:
   - split: 3
     text: "取消"
     translated: "Cancel"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,476,是否删除触发器,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,446,是否删除触发器,[]"
   splits:
   - split: 3
     text: "是否删除触发器"
     translated: "Should I delete the trigger?"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,494,确定,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,464,确定,[]"
   splits:
   - split: 3
     text: "确定"
     translated: "Confirmed"
-- raw: "ModSpace.DataGroupItemSlot,DeleteData,499,取消,[]"
+- raw: "ModSpace.DataGroupItemSlot,DeleteData,469,取消,[]"
   splits:
   - split: 3
     text: "取消"
@@ -15077,6 +15242,11 @@
   - split: 3
     text: "无描述"
     translated: "No description"
+- raw: "ModSpace.LocalModelPanel,RefreshDetails,250,模组目录:,[ModSpace.ModelSlot]"
+  splits:
+  - split: 3
+    text: "模组目录:"
+    translated: "Module Directory:"
 - raw: "ModSpace.ModelUploadView,Init,62,公开,[]"
   splits:
   - split: 3

@@ -5140,38 +5140,38 @@
   - split: 41
     text: "钓鱼获得"
     translated: "Reap rewards from fishing"
-- raw: "14030#银鳞金鲤#4#4#14#16#950#99999#0#1#0#0#caoyu#38845#0#38893#0#3600#0##8&5&0###0#0#0#0#0#0####0##0&28|14030|<|1#0##0#0#0#0#垂钓获得#0#0#0#1#0#1#"
+- raw: "14030#银鳞金鲤#4#4#14#16#950#99999#0#1#0#0#caoyu#38845#0#38893#0#3600#0##8&5&0###0#0#0#0#0#0####0##0&28|14030|<|1#0##0#0#0#0#垂钓获得（696,1018）#0#0#0#0#0#1#"
   splits:
   - split: 1
     text: "银鳞金鲤"
     translated: "Silver Scales and Golden Carp"
   - split: 41
-    text: "垂钓获得"
-    translated: "Achieved through fishing"
-- raw: "14031#黑金铁甲蟹#4#4#14#16#950#99999#0#1#0#0#new1_huaxie#38846#0#38894#0#3600#0##9&5&0###0#0#0#0#0#0####0##0&28|14031|<|1#0##0#0#0#0#垂钓获得#0#0#0#1#0#1#"
+    text: "垂钓获得（696,1018）"
+    translated: "Caught (696,1018) through fishing"
+- raw: "14031#黑金铁甲蟹#4#4#14#16#950#99999#0#1#0#0#new1_huaxie#38846#0#38894#0#3600#0##9&5&0###0#0#0#0#0#0####0##0&28|14031|<|1#0##0#0#0#0#垂钓获得（185,543）#0#0#0#0#0#1#"
   splits:
   - split: 1
     text: "黑金铁甲蟹"
     translated: "Black Gold Iron Armor Crab"
   - split: 41
-    text: "垂钓获得"
-    translated: "Achieved through fishing"
-- raw: "14032#艾鲲#4#4#14#16#950#99999#0#1#0#0#jiyu#38847#0#38895#0#3600#0##10&5&0###0#0#0#0#0#0####0##0&28|14032|<|1#0##0#0#0#0#垂钓获得#0#0#0#1#0#1#"
+    text: "垂钓获得（185,543）"
+    translated: "Fishing yielded (185,543)"
+- raw: "14032#艾鲲#4#4#14#16#950#99999#0#1#0#0#jiyu#38847#0#38895#0#3600#0##10&5&0###0#0#0#0#0#0####0##0&28|14032|<|1#0##0#0#0#0#垂钓获得（784,245）#0#0#0#0#0#1#"
   splits:
   - split: 1
     text: "艾鲲"
     translated: "Ice Tortoise"
   - split: 41
-    text: "垂钓获得"
-    translated: "Achieved through fishing"
-- raw: "14033#翡玉虾#4#4#14#16#950#99999#0#1#0#0#new1_maoxia#38848#0#38896#0#3600#0##11&5&0###0#0#0#0#0#0####0##0&28|14033|<|1#0##0#0#0#0#垂钓获得#0#0#0#1#0#1#"
+    text: "垂钓获得（784,245）"
+    translated: "Fishing acquired (784,245)"
+- raw: "14033#翡玉虾#4#4#14#16#950#99999#0#1#0#0#new1_maoxia#38848#0#38896#0#3600#0##11&5&0###0#0#0#0#0#0####0##0&28|14033|<|1#0##0#0#0#0#垂钓获得（1479,690）#0#0#0#0#0#1#"
   splits:
   - split: 1
     text: "翡玉虾"
     translated: "Crimson Pearl Shrimp"
   - split: 41
-    text: "垂钓获得"
-    translated: "Achieved through fishing"
+    text: "垂钓获得（1479,690）"
+    translated: "Fishing yielded (1479,690)"
 - raw: "14051#云鱼#4#4#12#12#130#99999#0#1#0#0#jiyu#38801#0#38849#0#3600#0##20&1&0###0#0#0#0#0#0####0##0&28|14051|<|3#0##0#0#0#0#垂钓获得#0#0#0#1#0#1#"
   splits:
   - split: 1
@@ -5492,38 +5492,38 @@
   - split: 41
     text: "垂钓获得"
     translated: "Achieved through fishing"
-- raw: "14091#不云潜#4#4#14#16#950#99999#0#1#0#0#caoyu#38841#0#38889#0#3600#0##4&5&0###0#0#0#0#0#0####0##0&28|14091|<|1#0##0#0#0#0#垂钓获得#0#0#0#1#0#1#"
+- raw: "14091#不云潜#4#4#14#16#950#99999#0#1#0#0#caoyu#38841#0#38889#0#3600#0##4&5&0###0#0#0#0#0#0####0##0&28|14091|<|1#0##0#0#0#0#垂钓获得（595,1934/1165,1421）#0#0#0#0#0#1#"
   splits:
   - split: 1
     text: "不云潜"
     translated: "Bu Yun Qian"
   - split: 41
-    text: "垂钓获得"
-    translated: "Achieved through fishing"
-- raw: "14092#尾鹤鱵#4#4#14#16#950#99999#0#1#0#0#huiyu#38842#0#38890#0#3600#0##5&5&0###0#0#0#0#0#0####0##0&28|14092|<|1#0##0#0#0#0#垂钓获得#0#0#0#1#0#1#"
+    text: "垂钓获得（595,1934/1165,1421）"
+    translated: "Fishing acquired (595, 1934 out of 1165, 1421)."
+- raw: "14092#尾鹤鱵#4#4#14#16#950#99999#0#1#0#0#huiyu#38842#0#38890#0#3600#0##5&5&0###0#0#0#0#0#0####0##0&28|14092|<|1#0##0#0#0#0#垂钓获得（-149,747）#0#0#0#0#0#1#"
   splits:
   - split: 1
     text: "尾鹤鱵"
     translated: "Swan's Tail Eel"
   - split: 41
-    text: "垂钓获得"
-    translated: "Achieved through fishing"
-- raw: "14093#玉龙魂#4#4#14#16#950#99999#0#1#0#0#huiyu#38843#0#38891#0#3600#0##6&5&0###0#0#0#0#0#0####0##0&28|14093|<|1#0##0#0#0#0#垂钓获得#0#0#0#1#0#1#"
+    text: "垂钓获得（-149,747）"
+    translated: "Fishing obtained (‑149,747)"
+- raw: "14093#玉龙魂#4#4#14#16#950#99999#0#1#0#0#huiyu#38843#0#38891#0#3600#0##6&5&0###0#0#0#0#0#0####0##0&28|14093|<|1#0##0#0#0#0#垂钓获得（1553,1869）#0#0#0#0#0#1#"
   splits:
   - split: 1
     text: "玉龙魂"
     translated: "Jade Dragon Soul"
   - split: 41
-    text: "垂钓获得"
-    translated: "Achieved through fishing"
-- raw: "14094#阴阳游#4#4#14#16#950#99999#0#1#0#0#new1_niqiu#38844#0#38892#0#3600#0##7&5&0###0#0#0#0#0#0####0##0&28|14094|<|1#0##0#0#0#0#垂钓获得#0#0#0#1#0#1#"
+    text: "垂钓获得（1553,1869）"
+    translated: "Fishing yielded (1553,1869)"
+- raw: "14094#阴阳游#4#4#14#16#950#99999#0#1#0#0#new1_niqiu#38844#0#38892#0#3600#0##7&5&0###0#0#0#0#0#0####0##0&28|14094|<|1#0##0#0#0#0#垂钓获得（1765,1687）#0#0#0#0#0#1#"
   splits:
   - split: 1
     text: "阴阳游"
     translated: "Yin‑Yang Wanderer"
   - split: 41
-    text: "垂钓获得"
-    translated: "Achieved through fishing"
+    text: "垂钓获得（1765,1687）"
+    translated: "Fishing yields (1765,1687)"
 - raw: "17001#苹果#3#1#10#10#35#99999#0#1#0#0#new_pinguo#17001#0#19001#0#3600#0##20&2###0#0#0#0#0#0####0###0##0#0#0#0##0#0#0#1#0#1#"
   splits:
   - split: 1
@@ -6167,19 +6167,19 @@
   - split: 41
     text: "炼丹获得"
     translated: "Successful in Alchemy"
-- raw: "18072#特制定魂丹#4#5#12#13#5319#99999#0#1#0#0#yaopin1#18072#0#20072#0#3605#0##1&25&0#0|0&10&0##0#0#0#0#0#0#34798|10000###0##0&28|18072|<|3#0##0#1#0#0#炼丹获得#0#0#0#0#0#1#"
+- raw: "18072#特制碧莹丹#4#5#12#13#5319#99999#0#1#0#0#yaopin1#18072#0#20072#0#3605#0##1&25&0#0|0&10&0##0#0#0#0#0#0#34798|10000###0##0&28|18072|<|3#0##0#1#0#0#炼丹获得#0#0#0#0#0#1#"
   splits:
   - split: 1
-    text: "特制定魂丹"
-    translated: "A specially prepared Soul Elixir"
+    text: "特制碧莹丹"
+    translated: "Custom‑made Biying Pill"
   - split: 41
     text: "炼丹获得"
     translated: "Successful in Alchemy"
-- raw: "18073#特制辟谷丹#4#5#12#13#5319#99999#0#1#0#0#yaopin5#18073#0#20073#0#3605#0##0&100&0#0|1&10&0##0#0#0#0#0#0#34798|10000###0##0&28|18073|<|3#0##0#1#0#0#炼丹获得#0#0#0#0#0#1#"
+- raw: "18073#特制生骨丹#4#5#12#13#5319#99999#0#1#0#0#yaopin5#18073#0#20073#0#3605#0##0&100&0#0|1&10&0##0#0#0#0#0#0#34798|10000###0##0&28|18073|<|3#0##0#1#0#0#炼丹获得#0#0#0#0#0#1#"
   splits:
   - split: 1
-    text: "特制辟谷丹"
-    translated: "Customized Fasting Elixir"
+    text: "特制生骨丹"
+    translated: "Custom‑made Bone‑Mending Pills"
   - split: 41
     text: "炼丹获得"
     translated: "Successful in Alchemy"
@@ -23564,7 +23564,47 @@
   - split: 1
     text: "九霄环佩匣"
     translated: "Nine Heavens Jade Pendant Box"
-- raw: "54001#劣等空冥玉#3#6#10#10#150#99999#0#1#0#0#new1_syqinm#54001#0#56001#0#3600#0##2000###0#0#0#0#0#0###all#0###0##0#0#0#0##0#0#0#1#0#0#"
+- raw: "53017#九剑心决·破枪式#3#1#14#14#5000#99999#0#0#0#0#miji_b5#53017#0#55017#0#3604#0#####0#0#0#0#0#0####0###0##0#1#0#0##0#0#0#1#0#0#"
+  splits:
+  - split: 1
+    text: "九剑心决·破枪式"
+    translated: "Nine Swords Heart Decision · Break Spear Technique"
+- raw: "53018#九剑心决·破掌式#3#1#14#14#5000#99999#0#0#0#0#miji_b5#53018#0#55018##3604#0#####0#0#0#0#0#0####0###0###1#0####0#0#1#0#0#"
+  splits:
+  - split: 1
+    text: "九剑心决·破掌式"
+    translated: "Jiujian Xinjue · Pozhang Shi"
+- raw: "53019#九剑心决·破刀式#3#1#14#14#5000#99999#0#0#0#0#miji_b5#53019#0#55019##3604#0#####0#0#0#0#0#0####0###0###1#0####0#0#1#0#0#"
+  splits:
+  - split: 1
+    text: "九剑心决·破刀式"
+    translated: "Nine Swords Heart Resolve · Break Blade Form"
+- raw: "53020#九剑心决·破箭式#3#1#14#14#5000#99999#0#0#0#0#miji_b5#53020#0#55020##3604#0#####0#0#0#0#0#0####0###0###1#0####0#0#1#0#0#"
+  splits:
+  - split: 1
+    text: "九剑心决·破箭式"
+    translated: "Nine Swords Heart Decision · Piercing Arrow Technique"
+- raw: "53021#九剑心决·破索式#3#1#14#14#5000#99999#0#0#0#0#miji_b5#53021#0#55021##3604#0#####0#0#0#0#0#0####0###0###1#0####0#0#1#0#0#"
+  splits:
+  - split: 1
+    text: "九剑心决·破索式"
+    translated: "Nine Swords Heart Resolve · Breaking Bond Technique"
+- raw: "53022#九剑心决·破鞭式#3#1#14#14#5000#99999#0#0#0#0#miji_b5#53022#0#55022##3604#0#####0#0#0#0#0#0####0###0###1#0####0#0#1#0#0#"
+  splits:
+  - split: 1
+    text: "九剑心决·破鞭式"
+    translated: "Nine Swords Resolve · Shattering Whip Technique"
+- raw: "53023#九剑心决·破剑式#3#1#14#14#5000#99999#0#0#0#0#miji_b5#53023#0#55023##3604#0#####0#0#0#0#0#0####0###0###1#0####0#0#1#0#0#"
+  splits:
+  - split: 1
+    text: "九剑心决·破剑式"
+    translated: "Nine Swords Heart Resolve · Sword‑Breaking Technique"
+- raw: "53024#九剑心决·归藏剑意#3#1#14#14#5000#99999#0#0#0#0#miji_b5#53024#0#55024##3604#0#####0#0#0#0#0#0####0###0###1#0####0#0#1#0#0#"
+  splits:
+  - split: 1
+    text: "九剑心决·归藏剑意"
+    translated: "Nine Swords of the Heart Decision · Return Concealment Sword Intent"
+- raw: "54001#劣等空冥玉#3#6#10#10#150#99999#0#1#0#0#new1_syqinm#54001#0#56001##3600#0##2000###0#0#0#0#0#0###all#0###0####0####0#0#1##0#"
   splits:
   - split: 1
     text: "劣等空冥玉"
@@ -39390,6 +39430,16 @@
   - split: 1
     text: "陨铁重剑"
     translated: "Meteorite Iron Heavy Sword"
+- raw: "82714#真天剑#8#1#14#16#31026#1#0#1#0#0#jian_yitianjian#700023#0#47081#8006#3601#30000#####0#0#0#6005#5#7####0###0####0####1#0#0##0#"
+  splits:
+  - split: 1
+    text: "真天剑"
+    translated: "True Heavens Sword"
+- raw: "82715#真龙刀#8#1#14#16#31026#1#0#1#0#0#dao_tulongdao#700024#0#47082#8007#3601#30000#####0#0#0#80034#5#7####0###0####0####1#0#0##0#"
+  splits:
+  - split: 1
+    text: "真龙刀"
+    translated: "True Dragon Blade"
 - raw: "83001#江湖守卫者#1#10#11#14#0#99999#0#1#800#0#bw_smbl_banshu#83001#0#8300101#0#3600#0#83001#800###0#0#0#0#0#0####0###0##0#0#0#0#PC专属福利#0#0#0#1##0#"
   splits:
   - split: 1
@@ -39925,7 +39975,7 @@
   - split: 46
     text: "纯外观DLC《江湖初见》解锁获得"
     translated: "Unlock and obtain purely visual DLC 'Jianghu Debut.'"
-- raw: "84035#少冲#6#1#14#15#0#99999#0#1#0#0#miji14#8403501#0#8403502#0#3600#0#134510#sfx_main_hero_130821&0&true&true###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《剑指六脉》解锁获得#0#0#0#1##0#"
+- raw: "84035#少冲#6#1#14#15#0#99999#0#1#0#0#miji14#8403501#0#8403502#0#3600#0#134510#sfx_main_hero_130821&0&true&true###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《剑指六脉》解锁获得#0#0#0#1#纯外观DLC《六脉齐发》解锁获得#0#"
   splits:
   - split: 1
     text: "少冲"
@@ -39933,7 +39983,10 @@
   - split: 41
     text: "纯外观DLC《剑指六脉》解锁获得"
     translated: "Purely cosmetic DLC 'Sword to the Six Meridians' unlocked and acquired."
-- raw: "84036#关冲#6#1#14#15#0#99999#0#1#0#0#miji14#8403601#0#8403602#0#3600#0#134520#sfx_main_hero_130822&0&true&true###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《剑指六脉》解锁获得#0#0#0#1##0#"
+  - split: 46
+    text: "纯外观DLC《六脉齐发》解锁获得"
+    translated: "Purely Cosmetic DLC 'Six Meridians Unleashed' Unlocked and Acquired."
+- raw: "84036#关冲#6#1#14#15#0#99999#0#1#0#0#miji14#8403601#0#8403602#0#3600#0#134520#sfx_main_hero_130822&0&true&true###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《剑指六脉》解锁获得#0#0#0#1#纯外观DLC《六脉齐发》解锁获得#0#"
   splits:
   - split: 1
     text: "关冲"
@@ -39941,7 +39994,10 @@
   - split: 41
     text: "纯外观DLC《剑指六脉》解锁获得"
     translated: "Purely cosmetic DLC 'Sword to the Six Meridians' unlocked and acquired."
-- raw: "84037#中冲#6#1#14#15#0#99999#0#1#0#0#miji14#8403701#0#8403702#0#3600#0#134530#sfx_main_hero_130823&0&true&true###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《剑指六脉》解锁获得#0#0#0#1##0#"
+  - split: 46
+    text: "纯外观DLC《六脉齐发》解锁获得"
+    translated: "Purely Cosmetic DLC 'Six Meridians Unleashed' Unlocked and Acquired."
+- raw: "84037#中冲#6#1#14#15#0#99999#0#1#0#0#miji14#8403701#0#8403702#0#3600#0#134530#sfx_main_hero_130823&0&true&true###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《剑指六脉》解锁获得#0#0#0#1#纯外观DLC《六脉齐发》解锁获得#0#"
   splits:
   - split: 1
     text: "中冲"
@@ -39949,7 +40005,10 @@
   - split: 41
     text: "纯外观DLC《剑指六脉》解锁获得"
     translated: "Purely cosmetic DLC 'Sword to the Six Meridians' unlocked and acquired."
-- raw: "84038#商阳#6#1#14#15#0#99999#0#1#0#0#miji14#8403801#0#8403802#0#3600#0#134540#sfx_main_hero_130824&0&true&true###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《剑指六脉》解锁获得#0#0#0#1##0#"
+  - split: 46
+    text: "纯外观DLC《六脉齐发》解锁获得"
+    translated: "Purely Cosmetic DLC 'Six Meridians Unleashed' Unlocked and Acquired."
+- raw: "84038#商阳#6#1#14#15#0#99999#0#1#0#0#miji14#8403801#0#8403802#0#3600#0#134540#sfx_main_hero_130824&0&true&true###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《剑指六脉》解锁获得#0#0#0#1#纯外观DLC《六脉齐发》解锁获得#0#"
   splits:
   - split: 1
     text: "商阳"
@@ -39957,7 +40016,10 @@
   - split: 41
     text: "纯外观DLC《剑指六脉》解锁获得"
     translated: "Purely cosmetic DLC 'Sword to the Six Meridians' unlocked and acquired."
-- raw: "84039#少商#6#1#14#15#0#99999#0#1#0#0#miji14#8403901#0#8403902#0#3600#0#134550#sfx_main_hero_130825&0&true&true###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《剑指六脉》解锁获得#0#0#0#1##0#"
+  - split: 46
+    text: "纯外观DLC《六脉齐发》解锁获得"
+    translated: "Purely Cosmetic DLC 'Six Meridians Unleashed' Unlocked and Acquired."
+- raw: "84039#少商#6#1#14#15#0#99999#0#1#0#0#miji14#8403901#0#8403902#0#3600#0#134550#sfx_main_hero_130825&0&true&true###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《剑指六脉》解锁获得#0#0#0#1#纯外观DLC《六脉齐发》解锁获得#0#"
   splits:
   - split: 1
     text: "少商"
@@ -39965,7 +40027,10 @@
   - split: 41
     text: "纯外观DLC《剑指六脉》解锁获得"
     translated: "Purely cosmetic DLC 'Sword to the Six Meridians' unlocked and acquired."
-- raw: "84040#六脉齐发#6#1#14#15#0#99999#0#1#0#0#miji14#8404001#0#8404002#0#3600#0#134561#sfx_main_hero_130826&0&true&true###0#0#0#0#0#0####0###0####0##纯外观DLC《剑指六脉》解锁获得##0#0#1##0#"
+  - split: 46
+    text: "纯外观DLC《六脉齐发》解锁获得"
+    translated: "Purely Cosmetic DLC 'Six Meridians Unleashed' Unlocked and Acquired."
+- raw: "84040#六脉齐发#6#1#14#15#0#99999#0#1#0#0#miji14#8404001#0#8404002#0#3600#0#134561#sfx_main_hero_130826&0&true&true###0#0#0#0#0#0####0###0####0##纯外观DLC《剑指六脉》解锁获得##0#0#1#纯外观DLC《六脉齐发》解锁获得#0#"
   splits:
   - split: 1
     text: "六脉齐发"
@@ -39973,7 +40038,10 @@
   - split: 41
     text: "纯外观DLC《剑指六脉》解锁获得"
     translated: "Purely cosmetic DLC 'Sword to the Six Meridians' unlocked and acquired."
-- raw: "84041#少泽#6#1#14#15#0#99999#0#1#0#0#miji14#8404101#0#8404102#0#3600#0#134570#sfx_main_hero_130820&0&true&true###0#0#0#0#0#0####0###0####0##纯外观DLC《剑指六脉》解锁获得##0#0#1#0#0#"
+  - split: 46
+    text: "纯外观DLC《六脉齐发》解锁获得"
+    translated: "Purely Cosmetic DLC 'Six Meridians Unleashed' Unlocked and Acquired."
+- raw: "84041#少泽#6#1#14#15#0#99999#0#1#0#0#miji14#8404101#0#8404102#0#3600#0#134570#sfx_main_hero_130820&0&true&true###0#0#0#0#0#0####0###0####0##纯外观DLC《剑指六脉》解锁获得##0#0#1#纯外观DLC《六脉齐发》解锁获得#0#"
   splits:
   - split: 1
     text: "少泽"
@@ -39981,6 +40049,73 @@
   - split: 41
     text: "纯外观DLC《剑指六脉》解锁获得"
     translated: "Purely cosmetic DLC 'Sword to the Six Meridians' unlocked and acquired."
+  - split: 46
+    text: "纯外观DLC《六脉齐发》解锁获得"
+    translated: "Purely Cosmetic DLC 'Six Meridians Unleashed' Unlocked and Acquired."
+- raw: "84042#九剑心决·破枪式#6#1#14#15#0#99999#0#1#0#0#miji14#159000#0#159008#0#3600#0#103420#sfx_main_hero_100670&0&true&true###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《剑过无痕》解锁获得#0#0#0#1##0#"
+  splits:
+  - split: 1
+    text: "九剑心决·破枪式"
+    translated: "Nine Swords Heart Decision · Break Spear Technique"
+  - split: 41
+    text: "纯外观DLC《剑过无痕》解锁获得"
+    translated: "Purely cosmetic DLC 'Jian Guo Wu Xun' unlocked and obtained."
+- raw: "84043#九剑心决·破掌式#6#1#14#15#0#99999#0#1#0#0#miji14#159001#0#159009#0#3600#0#103430#sfx_main_hero_100680&0&true&true###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《剑过无痕》解锁获得#0#0#0#1##0#"
+  splits:
+  - split: 1
+    text: "九剑心决·破掌式"
+    translated: "Jiujian Xinjue · Pozhang Shi"
+  - split: 41
+    text: "纯外观DLC《剑过无痕》解锁获得"
+    translated: "Purely cosmetic DLC 'Jian Guo Wu Xun' unlocked and obtained."
+- raw: "84044#九剑心决·破刀式#6#1#14#15#0#99999#0#1#0#0#miji14#159002#0#159010#0#3600#0#103440#sfx_main_hero_100690&0&true&true###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《剑过无痕》解锁获得#0#0#0#1##0#"
+  splits:
+  - split: 1
+    text: "九剑心决·破刀式"
+    translated: "Nine Swords Heart Resolve · Break Blade Form"
+  - split: 41
+    text: "纯外观DLC《剑过无痕》解锁获得"
+    translated: "Purely cosmetic DLC 'Jian Guo Wu Xun' unlocked and obtained."
+- raw: "84045#九剑心决·破箭式#6#1#14#15#0#99999#0#1#0#0#miji14#159003#0#159011#0#3600#0#103450#sfx_main_hero_100700&0&true&true###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《剑过无痕》解锁获得#0#0#0#1##0#"
+  splits:
+  - split: 1
+    text: "九剑心决·破箭式"
+    translated: "Nine Swords Heart Decision · Piercing Arrow Technique"
+  - split: 41
+    text: "纯外观DLC《剑过无痕》解锁获得"
+    translated: "Purely cosmetic DLC 'Jian Guo Wu Xun' unlocked and obtained."
+- raw: "84046#九剑心决·破索式#6#1#14#15#0#99999#0#1#0#0#miji14#159004#0#159012#0#3600#0#103460#sfx_main_hero_100710&0&true&true###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《剑过无痕》解锁获得#0#0#0#1##0#"
+  splits:
+  - split: 1
+    text: "九剑心决·破索式"
+    translated: "Nine Swords Heart Resolve · Breaking Bond Technique"
+  - split: 41
+    text: "纯外观DLC《剑过无痕》解锁获得"
+    translated: "Purely cosmetic DLC 'Jian Guo Wu Xun' unlocked and obtained."
+- raw: "84047#九剑心决·破鞭式#6#1#14#15#0#99999#0#1#0#0#miji14#159005#0#159013#0#3600#0#103470#sfx_main_hero_100720&0&true&true###0#0#0#0#0#0####0###0####0##纯外观DLC《剑过无痕》解锁获得##0#0#1##0#"
+  splits:
+  - split: 1
+    text: "九剑心决·破鞭式"
+    translated: "Nine Swords Resolve · Shattering Whip Technique"
+  - split: 41
+    text: "纯外观DLC《剑过无痕》解锁获得"
+    translated: "Purely cosmetic DLC 'Jian Guo Wu Xun' unlocked and obtained."
+- raw: "84048#九剑心决·破剑式#6#1#14#15#0#99999#0#1#0#0#miji14#159006#0#159014#0#3600#0#103480#sfx_main_hero_100730&0&true&true###0#0#0#0#0#0####0###0####0##纯外观DLC《剑过无痕》解锁获得##0#0#1#0#0#"
+  splits:
+  - split: 1
+    text: "九剑心决·破剑式"
+    translated: "Nine Swords Heart Resolve · Sword‑Breaking Technique"
+  - split: 41
+    text: "纯外观DLC《剑过无痕》解锁获得"
+    translated: "Purely cosmetic DLC 'Jian Guo Wu Xun' unlocked and obtained."
+- raw: "84049#九剑心决·归藏剑意#6#1#14#15#0#99999#0#1#0#0#miji14#159007#0#159015#0#3600#0#103491#sfx_main_hero_LingYu&0&true&true###0#0#0#0#0#0####0###0##0#0#0#0#纯外观DLC《剑过无痕》解锁获得#0#0#0#1##0#"
+  splits:
+  - split: 1
+    text: "九剑心决·归藏剑意"
+    translated: "Nine Swords of the Heart Decision · Return Concealment Sword Intent"
+  - split: 41
+    text: "纯外观DLC《剑过无痕》解锁获得"
+    translated: "Purely cosmetic DLC 'Jian Guo Wu Xun' unlocked and obtained."
 - raw: "85001#尧月卷#4#21#13#14#5273#1#0#0#0#0#miji5#85001#0#87001#0#3600#0#34020#102000|10200030#12&10200030##0#0#0#0#0#0####0###0##0#0#0#0##0#0#0#0#0#0#"
   splits:
   - split: 1

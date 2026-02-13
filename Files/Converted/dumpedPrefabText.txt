@@ -710,6 +710,14 @@
   splits:
   - text: "使用冷却中：\\n0.5秒"
     translated: "On cooldown: \\n0.5 seconds"
+- raw: "批量"
+  splits:
+  - text: "批量"
+    translated: "Bulk"
+- raw: "全选"
+  splits:
+  - text: "全选"
+    translated: "Select All"
 - raw: "太阴八卦"
   splits:
   - text: "太阴八卦"
@@ -4407,14 +4415,14 @@
   splits:
   - text: "对对对对对对对对对对对对对对对对对对对对对对对对对对对对对对对对对对对对对对对"
     translated: "Agree, agree"
-- raw: "万家剑法"
-  splits:
-  - text: "万家剑法"
-    translated: "Wanjia Sword Art"
 - raw: "万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法"
   splits:
   - text: "万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法万家剑法"
     translated: "Wanjia Sword Art Wanjia Sword Art Wanjia Sword Art Wanjia Sword Art Wanjia Sword Art Wanjia Sword Art Wanjia Sword Art Wanjia Sword Art Wanjia Sword Art Wanjia Sword Art Wanjia Sword Art Wanjia Sword Art Wanjia Sword Art Wanjia Sword Art Wanjia Sword Art Wanjia Sword Art Wanjia Sword Art"
+- raw: "万家剑法"
+  splits:
+  - text: "万家剑法"
+    translated: "Wanjia Sword Art"
 - raw: "兴趣：乐器"
   splits:
   - text: "兴趣：乐器"
@@ -4987,10 +4995,10 @@
   splits:
   - text: "消耗修为：100000000000"
     translated: "Deplete one's internal energy: 100000000000"
-- raw: "帮助信息：\\n1、境界是经脉提升到一定强度之后激活的等级效果，<color=#3ad67c>满足条件</color>激活境界可获得<color=#3ad67c>额外的属性</color>。\\n2、激活境界的条件除了最基本的修为值需求外，还分为两个，<color=#3ad67c>固定属性</color>包含<color=#3ad67c>境界丹，打通的经脉和属性值</color>，<color=#3ad67c>特殊属性</color>包含<color=#3ad67c>属性丹药和更高的属性值</color>，同时只有<color=#3ad67c>满足固定属性的条件</color>才可查看。\\n3、固定属性中的<color=#3ad67c>境界丹</color>可在少侠的<color=#3ad67c>旅程中</color>获得，也可在<color=#3ad67c>杂货商，游吟商人</color>购买。有传言说有些<color=#3ad67c>强力敌人</color>也会随身携带，也有人在一些<color=#3ad67c>隐秘的宝箱</color>中找到过。\\n4、特殊属性中的<color=#3ad67c>属性丹药</color>可通过<color=#3ad67c>习得配方自行炼制</color>，也可在少侠的<color=#3ad67c>旅程中</color>获得，也可在<color=#3ad67c>杂货商，游吟商人</color>购买。有传言说有些<color=#3ad67c>强力敌人</color>也会随身携带，也有人在一些<color=#3ad67c>隐秘的宝箱</color>中找到过。"
+- raw: "帮助信息：\\n1、境界是经脉提升到一定强度之后激活的等级效果，<color=#3ad67c>满足条件</color>激活境界可获得<color=#3ad67c>额外的属性</color>。\\n2、激活境界的条件除了最基本的修为值需求外，还分为两个，<color=#3ad67c>固定属性</color>包含<color=#3ad67c>境界丹，打通的经脉和属性值</color>，<color=#3ad67c>特殊属性</color>包含<color=#3ad67c>属性丹药和更高的属性值</color>，同时只有<color=#3ad67c>满足固定属性的条件</color>才可查看。\\n3、固定属性中的<color=#3ad67c>境界丹</color>可在少侠的<color=#3ad67c>旅程中</color>获得，也可在<color=#3ad67c>杂货商，游吟商人</color>购买。有传言说有些<color=#3ad67c>强力敌人</color>也会随身携带，也有人在一些<color=#3ad67c>隐秘的宝箱</color>中找到过。\\n4、特殊属性中的<color=#3ad67c>属性丹药</color>可通过<color=#3ad67c>习得配方自行炼制</color>，也可在少侠的<color=#3ad67c>旅程中</color>获得，也可在<color=#3ad67c>杂货商，游吟商人</color>购买。有传言说有些<color=#3ad67c>强力敌人</color>也会随身携带，也有人在一些<color=#3ad67c>隐秘的宝箱</color>中找到过。\\n5、提升不同的境界需要不同的心法，低阶境界只能使用低品质心法，反之，高阶境界只能使用高阶心法。"
   splits:
-  - text: "帮助信息：\\n1、境界是经脉提升到一定强度之后激活的等级效果，<color=#3ad67c>满足条件</color>激活境界可获得<color=#3ad67c>额外的属性</color>。\\n2、激活境界的条件除了最基本的修为值需求外，还分为两个，<color=#3ad67c>固定属性</color>包含<color=#3ad67c>境界丹，打通的经脉和属性值</color>，<color=#3ad67c>特殊属性</color>包含<color=#3ad67c>属性丹药和更高的属性值</color>，同时只有<color=#3ad67c>满足固定属性的条件</color>才可查看。\\n3、固定属性中的<color=#3ad67c>境界丹</color>可在少侠的<color=#3ad67c>旅程中</color>获得，也可在<color=#3ad67c>杂货商，游吟商人</color>购买。有传言说有些<color=#3ad67c>强力敌人</color>也会随身携带，也有人在一些<color=#3ad67c>隐秘的宝箱</color>中找到过。\\n4、特殊属性中的<color=#3ad67c>属性丹药</color>可通过<color=#3ad67c>习得配方自行炼制</color>，也可在少侠的<color=#3ad67c>旅程中</color>获得，也可在<color=#3ad67c>杂货商，游吟商人</color>购买。有传言说有些<color=#3ad67c>强力敌人</color>也会随身携带，也有人在一些<color=#3ad67c>隐秘的宝箱</color>中找到过。"
-    translated: "Assistance Information: \\n1, Realm is an activated rank effect that occurs when the meridians are enhanced to a certain strength. Meeting the <color=#3ad67c>conditions</color> for activating the realm allows you to gain <color=#3ad67c>additional attributes</color>.\\n2, the conditions for activating a realm include not only the basic requirement of cultivation value but also two aspects: <color=#3ad67c>fixed attributes</color> which comprise <color=#3ad67c>dantian, opened meridians, and attribute values</color>, and <color=#3ad67c>special attributes</color> which consist of <color=#3ad67c>attribute tonics and higher attribute values</color>. Additionally, only those who meet the conditions for <color=#3ad67c>fixed attributes</color> can view it.\\n3, the <color=#3ad67c>Gongji Dan</color> within fixed attributes can be obtained during your journey as a young hero or purchased from <color=#3ad67c>general merchants and wandering minstrels</color>. Rumors suggest that some <color=#3ad67c>powerful foes</color> might also carry them, and there are tales of people finding them in certain <color=#3ad67c>hidden treasure chests</color>.\\n4, the special attribute <color=#3ad67c>attribute elixir</color> can be obtained through <color=#3ad67c>cultivating a recipe and crafting it yourself</color>, acquired during the Young Hero's <color=#3ad67c>journey</color>, or purchased from <color=#3ad67c>peddlers, wandering merchants</color>. There are rumors that some <color=#3ad67c>powerful enemies</color> also carry them, and others have found them in certain <color=#3ad67c>hidden treasure chests</color>."
+  - text: "帮助信息：\\n1、境界是经脉提升到一定强度之后激活的等级效果，<color=#3ad67c>满足条件</color>激活境界可获得<color=#3ad67c>额外的属性</color>。\\n2、激活境界的条件除了最基本的修为值需求外，还分为两个，<color=#3ad67c>固定属性</color>包含<color=#3ad67c>境界丹，打通的经脉和属性值</color>，<color=#3ad67c>特殊属性</color>包含<color=#3ad67c>属性丹药和更高的属性值</color>，同时只有<color=#3ad67c>满足固定属性的条件</color>才可查看。\\n3、固定属性中的<color=#3ad67c>境界丹</color>可在少侠的<color=#3ad67c>旅程中</color>获得，也可在<color=#3ad67c>杂货商，游吟商人</color>购买。有传言说有些<color=#3ad67c>强力敌人</color>也会随身携带，也有人在一些<color=#3ad67c>隐秘的宝箱</color>中找到过。\\n4、特殊属性中的<color=#3ad67c>属性丹药</color>可通过<color=#3ad67c>习得配方自行炼制</color>，也可在少侠的<color=#3ad67c>旅程中</color>获得，也可在<color=#3ad67c>杂货商，游吟商人</color>购买。有传言说有些<color=#3ad67c>强力敌人</color>也会随身携带，也有人在一些<color=#3ad67c>隐秘的宝箱</color>中找到过。\\n5、提升不同的境界需要不同的心法，低阶境界只能使用低品质心法，反之，高阶境界只能使用高阶心法。"
+    translated: "Help Information: \\n1, the realm is an effect of level enhancement that activates once the meridians reach a certain intensity. <color=#3ad67c>Fulfilling the conditions</color> to activate the realm grants <color=#3ad67c>additional attributes</color>.\\n2, to activate the realm, the conditions beyond the basic requirement of cultivation value are divided into two: <color=#3ad67c>fixed attributes</color> include <color=#3ad67c>realm pills, opened meridians, and attribute values</color>, while <color=#3ad67c>special attributes</color> involve <color=#3ad67c>attribute elixirs and higher attribute values</color>. Importantly, only when the <color=#3ad67c>conditions for fixed attributes are met</color> can they be viewed.\\n3, the <color=#3ad67c>Realm Pills</color>, which are fixed attributes, can be obtained during the Hero's <color=#3ad67c>journey</color> or purchased from <color=#3ad67c>Hucksters and Minstrels</color>. There are rumors that some <color=#3ad67c>powerful enemies</color> also carry them, and others have found them in certain <color=#3ad67c>hidden treasure chests</color>.\\n4, the <color=#3ad67c>attribute elixir</color> under special attributes can be crafted through a <color=#3ad67c>learned formula at your own discretion</color>, or obtained during the <color=#3ad67c>Hero's journey</color>. It is also available for purchase from <color=#3ad67c>general goods merchants, itinerant traders</color>. There are rumors that some <color=#3ad67c>powerful foes</color> might carry them as well. Additionally, people have found them in some <color=#3ad67c>mysterious treasure chests</color>.\\n5, improving different realms requires different Heart Methods. Lower step realms can only use low‑quality Heart Methods, whereas higher step realms can only utilize high‑level Heart Methods."
 - raw: "境界介绍"
   splits:
   - text: "境界介绍"
@@ -5087,6 +5095,18 @@
   splits:
   - text: "时装"
     translated: "Fashion"
+- raw: "幻化"
+  splits:
+  - text: "幻化"
+    translated: "Metamorphose"
+- raw: "武器预设"
+  splits:
+  - text: "武器预设"
+    translated: "Weapon Preset"
+- raw: "宝物预设"
+  splits:
+  - text: "宝物预设"
+    translated: "Treasure Preset"
 - raw: "状态"
   splits:
   - text: "状态"
@@ -5123,6 +5143,18 @@
   splits:
   - text: "使用冷却中：0.5秒"
     translated: "Using cooldown: 0.5 seconds"
+- raw: "批量丢弃"
+  splits:
+  - text: "批量丢弃"
+    translated: "Batch discard"
+- raw: "一键全选"
+  splits:
+  - text: "一键全选"
+    translated: "Select All at Once"
+- raw: "确认丢弃"
+  splits:
+  - text: "确认丢弃"
+    translated: "Confirm discard"
 - raw: "行囊界面可以看到<color=#3ad67c>当前持有</color>的物品，可以通过上方的<color=#3ad67c>搜索栏</color>搜索想要查询的道具，<color=#3ad67c>单击左键</color>可选中物品。"
   splits:
   - text: "行囊界面可以看到<color=#3ad67c>当前持有</color>的物品，可以通过上方的<color=#3ad67c>搜索栏</color>搜索想要查询的道具，<color=#3ad67c>单击左键</color>可选中物品。"
@@ -5711,10 +5743,6 @@
   splits:
   - text: "武器宝物预设"
     translated: "Weapon Relics Preset"
-- raw: "宝物预设"
-  splits:
-  - text: "宝物预设"
-    translated: "Treasure Preset"
 - raw: "返回装备"
   splits:
   - text: "返回装备"
@@ -9476,10 +9504,10 @@
   splits:
   - text: "启用日志"
     translated: "Enable logging"
-- raw: "隐藏伤害提示"
+- raw: "隐藏伤害/技能cd/效果提示"
   splits:
-  - text: "隐藏伤害提示"
-    translated: "Hidden Damage Indicator"
+  - text: "隐藏伤害/技能cd/效果提示"
+    translated: "Hidden damage/skill cooldown/effect prompt"
 - raw: "返回游戏"
   splits:
   - text: "返回游戏"
@@ -10220,6 +10248,26 @@
   splits:
   - text: "锤炼7"
     translated: "Forge the 7"
+- raw: "武器幻化"
+  splits:
+  - text: "武器幻化"
+    translated: "Weapon Transformation"
+- raw: "替换所有"
+  splits:
+  - text: "替换所有"
+    translated: "Replace all"
+- raw: "替换当前"
+  splits:
+  - text: "替换当前"
+    translated: "Replace current"
+- raw: "取消幻化"
+  splits:
+  - text: "取消幻化"
+    translated: "Cancel transformation"
+- raw: "				幻化说明\\n\\n1.只要获取过武器即可解锁对应的外观（即使被卖出或者丢弃，也不会再次锁上）\\n2.幻化时，请保持主角当前所穿戴的武器类型一致\\n3.武器简介可以下滑，在尾部有获取提示\\n4.幻化只变化外观，不会影响当前的装备属性与词条\\n5.幻化时选择“替换所有”，背包内所有的同类型武器会一起幻化"
+  splits:
+  - text: "				幻化说明\\n\\n1.只要获取过武器即可解锁对应的外观（即使被卖出或者丢弃，也不会再次锁上）\\n2.幻化时，请保持主角当前所穿戴的武器类型一致\\n3.武器简介可以下滑，在尾部有获取提示\\n4.幻化只变化外观，不会影响当前的装备属性与词条\\n5.幻化时选择“替换所有”，背包内所有的同类型武器会一起幻化"
+    translated: "Transmog Instructions\\n\\n1. Once you have obtained a weapon, its appearance is permanently unlocked (even if it is sold or discarded, it will not be locked again).\\n2. When transmogrifying, please ensure the protagonist's currently equipped weapon type remains the same.\\n3. You can scroll down the weapon description; acquisition details are shown at the bottom.\\n4. Transmogrification only changes appearance and does not affect current equipment attributes or affixes.\\n5. When transmogrifying, selecting 'Replace All' will apply the appearance to all weapons of the same type in your inventory."
 - raw: "对方回礼"
   splits:
   - text: "对方回礼"

@@ -36,7 +36,8 @@ public class PromptTuningTests
         var batchSize = config.BatchSize ?? 50;
 
         var testLines = new List<TranslatedRaw> {
-            new("而且我已经不再迷惘，已经在你的帮助下……更加坚定了。"),
+            //new("而且我已经不再迷惘，已经在你的帮助下……更加坚定了。"),
+            new("\" 幻化说明\\\\n\\\\n1.只要获取过武器即可解锁对应的外观（即使被卖出或者丢弃，也不会再次锁上）\\\\n2.幻化时，请保持主角当前所穿戴的武器类型一致\\\\n3.武器简介可以下滑，在尾部有获取提示\\\\n4.幻化只变化外观，不会影响当前的装备属性与词条\\\\n5.幻化时选择“替换所有”，背包内所有的同类型武器会一起幻化\"")
             //new("{{限}}{0}"),
             //new("当前任职位：<color=#f1c36b>头牌</color>，收益加成：<color=#da914b>2倍</color><color=#a8a8a8>预计收益</color>")
             //new("<color=#b8b8b8>性别：</color>{0}"),

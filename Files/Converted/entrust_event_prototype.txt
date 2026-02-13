@@ -1053,7 +1053,7 @@
   - split: 37
     text: "战前准备"
     translated: "Preparation before the battle"
-- raw: "30032#覆灭穆特#0#0#0#950587#950575#950576##65025|999#0&24|950562|1#0&79|0|30031|1|1##0#7001|2&7002|2#0##5335#5337#0##0##0##0##0#0#0##0#0#0#覆灭穆特前线的所有穆特族（{IsCanFinish:0:1}/1）#回禀{A}#0#覆灭穆特#0###0#0#"
+- raw: "30032#覆灭穆特#0#0#0#950587#950575#950576##65025|999#0&24|950562|1#0&79|0|30031|1|1##0#7001|2&7002|2#0##53051#5337#0##0##0##0##0#0#0##0#0#0#覆灭穆特前线的所有穆特族（{IsCanFinish:0:1}/1）#回禀{A}#0#覆灭穆特#0###0#0#"
   splits:
   - split: 1
     text: "覆灭穆特"
@@ -12187,17 +12187,6 @@
   - split: 35
     text: "将{I}交给{A}"
     translated: "Give {I} to {A}"
-- raw: "375086#雁州采药#0#1200#0#5470315#5470317#5470316###0&39|57|1###0#7001|2&7007|2#0##0#0#11#57|1#0##0##0##0#0#0##0#0#0#{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})#回禀{A}#0##0###0#0#"
-  splits:
-  - split: 1
-    text: "雁州采药"
-    translated: "Harvesting herbs in Yan Prefecture"
-  - split: 34
-    text: "{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
-    translated: "{WaitLifeSkillUseAttritypeName}: Wait {WaitLifeSkillUseAttritypeCount} times ({HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
-  - split: 35
-    text: "回禀{A}"
-    translated: "Report to {A}"
 - raw: "375087#雁州琴艺独立#0#1200#0#5470320#5470322#5470321###0&39|58|10###0#7001|2&7007|2#0##0#0#11#58|10#0##0##0##0#0#0##0#0#0#琴艺达到10以上#回禀{A}#0##0###0#0#"
   splits:
   - split: 1
@@ -12745,17 +12734,6 @@
   - split: 34
     text: "与{E}切磋并获胜（{WaitEntrustTargetNpcId:0:1}/1)"
     translated: "Sparring with {E} and emerging victorious ({WaitEntrustTargetNpcId:0:1}/1)"
-  - split: 35
-    text: "回禀{A}"
-    translated: "Report to {A}"
-- raw: "375137#合纵属性-诡学#1#1200#0#957752#957750#957751######0#7001|2&7007|2#0##0#0#11#47|1#0##0##0##0#0#0##0#0#0#{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})#回禀{A}#0##0###0#0#"
-  splits:
-  - split: 1
-    text: "合纵属性-诡学"
-    translated: "Coordinated Attributes ‑ Xuegong, the School of Illusion."
-  - split: 34
-    text: "{WaitLifeSkillUseAttritypeName}｛WaitLifeSkillUseAttritypeCount}次（{HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
-    translated: "{WaitLifeSkillUseAttritypeName}: Wait {WaitLifeSkillUseAttritypeCount} times ({HaveWaitLifeSkillUseAttritypeCount}/{WaitLifeSkillUseAttritypeCount})"
   - split: 35
     text: "回禀{A}"
     translated: "Report to {A}"

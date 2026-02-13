@@ -23577,6 +23577,246 @@
   - split: 1
     text: "破灭式-击飞"
     translated: "Explosive Disintegration Style ‑ Fly‑kicking"
+- raw: "1034200#破枪式-伤害1#0#1#0#0#0#0#SFX_Char_Weapon_Hurt_01###0##0#0#0#10000##0#0#0#0#0#20#21#0#0##0#0#53#100####0#0#1034200#0#sfx_hero_main_11_hit#0#0#0#1034200#hurt&10000&dead|dead_1|dead_3|dead_5&2000|2000|2000|2000#0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破枪式-伤害1"
+    translated: "Broken Spear Technique ‑ Harm 1"
+- raw: "1034201#破枪式-伤害2#0#1#0#0#0#0#SFX_Char_Weapon_Hurt_01###0##0#0#0#10000##0#0#0#0#0#20#21#0#0##0#0#53#100####0#0#1034201#0#sfx_hero_main_11_hit#0#0#0#1034201#hurt&10000&dead|dead_1|dead_3|dead_5&2000|2000|2000|2000#0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破枪式-伤害2"
+    translated: "Broken Spear Technique ‑ Harm 2"
+- raw: "1034202#破枪式-折戟#1#15#0#0#15000#0####0##2#0#0#10000#32768#8000#0#0#0#0#0#0#0#1437#2#0#1#0#0#折戟#15秒内，当目标使用枪法招式时，8秒内持续损失目标外攻*1.2与内攻*1.2的生命值##0#0#1034202#0##0#0#0#1034202##0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破枪式-折戟"
+    translated: "Broken Spear Technique ‑ Broken sword"
+  - split: 32
+    text: "折戟"
+    translated: "Bowed Head in Defeat"
+  - split: 33
+    text: "15秒内，当目标使用枪法招式时，8秒内持续损失目标外攻*1.2与内攻*1.2的生命值"
+    translated: "Within 15 seconds, when the target uses a spear technique, they will continuously lose health equal to their external attack multiplied by 1.2 and internal attack multiplied by 1.2 for 8 seconds."
+- raw: "1034203#通用破体伤害1#1#1#0#1#8000#1000####0##2#0#0#10000##0#0#2#0#0#15000#0#0#20##0#1#0#0####0#0#1034203#0##0#0#0#1034203##1#0#1034204#0.0#0.0###"
+  splits:
+  - split: 1
+    text: "通用破体伤害1"
+    translated: "Universal Damage from Broken Style: 1"
+- raw: "1034204#通用破体伤害2#1#1#0#1#8000#1000####0##2#0#0#10000##0#0#2#0#0#15000#0#0#21##0#1#0#0####0#0#1034204#0##0#0#0#1034204##0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "通用破体伤害2"
+    translated: "Universal Bone‑Crushing Damage 2"
+- raw: "1034300#破掌式-伤害1#0#1#0#0#0#0#SFX_Char_Weapon_Hurt_01###0##0#0#0#10000##0#0#0#0#0#20#21#0#0##0#0#84#100####0#0#1034300#0#sfx_hero_main_11_hit#0#0#0#1034300#hurt&10000&dead|dead_1|dead_3|dead_5&2000|2000|2000|2000#0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破掌式-伤害1"
+    translated: "Crushing Palm Technique ‑ Harm 1"
+- raw: "1034301#破掌式-伤害2#0#1#0#0#0#0#SFX_Char_Weapon_Hurt_01###0##0#0#0#10000##0#0#0#0#0#20#21#0#0##0#0#84#100####0#0#1034301#0#sfx_hero_main_11_hit#0#0#0#1034301#hurt&10000&dead|dead_1|dead_3|dead_5&2000|2000|2000|2000#0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破掌式-伤害2"
+    translated: "Bristling Palm Technique ‑ Harm 2"
+- raw: "1034302#破掌式-断劲#1#15#0#0#15000#0####0##2#0#0#10000#32768#8000#0#0#0#0#0#0#0#1437#3#0#1#0#0#断劲#15秒内，当目标使用拳法招式时，8秒内持续损失目标外攻*1.2与内攻*1.2的生命值##0#0#1034302#0##0#0#0#1034302##0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破掌式-断劲"
+    translated: "Broken Palm Technique ‑ Jarring jolt"
+  - split: 32
+    text: "断劲"
+    translated: "Lost momentum"
+  - split: 33
+    text: "15秒内，当目标使用拳法招式时，8秒内持续损失目标外攻*1.2与内攻*1.2的生命值"
+    translated: "Within 15 seconds, when the target uses a martial arts technique, they will continuously lose health equal to their external attack multiplied by 1.2 and internal attack multiplied by 1.2 for 8 seconds."
+- raw: "1034400#破刀式-伤害1#0#1#0#0#0#0#SFX_Char_Weapon_Hurt_01###0##0#0#0#10000##0#0#0#0#0#20#21#0#0##0#0#70#100####0#0#1034400#0#sfx_hero_main_11_hit#0#0#0#1034400#hurt&10000&dead|dead_1|dead_3|dead_5&2000|2000|2000|2000#0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破刀式-伤害1"
+    translated: "Broken Blade Form ‑ Harm 1"
+- raw: "1034401#破刀式-伤害2#0#1#0#0#0#0#SFX_Char_Weapon_Hurt_01###0##0#0#0#10000##0#0#0#0#0#20#21#0#0##0#0#70#100####0#0#1034401#0#sfx_hero_main_11_hit#0#0#0#1034401#hurt&10000&dead|dead_1|dead_3|dead_5&2000|2000|2000|2000#0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破刀式-伤害2"
+    translated: "Broken Blade Form ‑ Harm 2"
+- raw: "1034402#破刀式-摧锋#1#15#0#0#15000#0####0##2#0#0#10000#32768#8000#0#0#0#0#0#0#0#1437#1#0#1#0#0#摧锋#15秒内，当目标使用刀法招式时，8秒内持续损失目标外攻*1.2与内攻*1.2的生命值##0#0#1034402#0##0#0#0#1034402##0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破刀式-摧锋"
+    translated: "Broken Blade Form ‑ Crush the vanguard"
+  - split: 32
+    text: "摧锋"
+    translated: "To shatter swords"
+  - split: 33
+    text: "15秒内，当目标使用刀法招式时，8秒内持续损失目标外攻*1.2与内攻*1.2的生命值"
+    translated: "Within 15 seconds, when the target uses a blade art technique, they will continuously lose health equal to their external attack multiplied by 1.2 and internal attack multiplied by 1.2 for 8 seconds."
+- raw: "1034500#破箭式-伤害1#0#1#0#0#0#0#SFX_Char_Weapon_Hurt_01###0##0#0#0#10000##0#0#0#0#0#20#21#0#0##0#0#60#100####0#0#1034500#0#sfx_hero_main_11_hit#0#0#0#1034500#hurt&10000&dead|dead_1|dead_3|dead_5&2000|2000|2000|2000#0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破箭式-伤害1"
+    translated: "Arrow‑Piercing Style ‑ Harm 1"
+- raw: "1034501#破箭式-伤害2#0#1#0#0#0#0#SFX_Char_Weapon_Hurt_01###0##0#0#0#10000##0#0#0#0#0#20#21#0#0##0#0#60#100####0#0#1034501#0#sfx_hero_main_11_hit#0#0#0#1034501#hurt&10000&dead|dead_1|dead_3|dead_5&2000|2000|2000|2000#0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破箭式-伤害2"
+    translated: "Broken Arrow Technique ‑ Harm 2"
+- raw: "1034502#破箭式-听风#1#4#0#1#2666#0####0##0#0#0#10000##0#0#1#0#0#13#1075#0#0##0#1#0#0#听风#招式使用期间增加主角25%闪避，招式结束持续10秒的12%闪避加成。##0#0#1034502#0##0#0#0#1034502##0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破箭式-听风"
+    translated: "Broken Arrow Technique ‑ Listening to the wind"
+  - split: 32
+    text: "听风"
+    translated: "Listening to the wind"
+  - split: 33
+    text: "招式使用期间增加主角25%闪避，招式结束持续10秒的12%闪避加成。"
+    translated: "During the use of this technique, the protagonist gains an additional 25% dodge. Upon completion of the technique, a 12% bonus to dodge is maintained for 10 seconds."
+- raw: "1034503#破箭式-听风#1#4#0#1#12666#0####0##0#0#0#10000##0#0#1#0#0#12#1075#0#0##0#1#0#0#听风#招式使用期间增加主角25%闪避，招式结束持续10秒的12%闪避加成。#buffnew_yiwei#0#0#1034503#0##0#0#0#1034503##0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破箭式-听风"
+    translated: "Broken Arrow Technique ‑ Listening to the wind"
+  - split: 32
+    text: "听风"
+    translated: "Listening to the wind"
+  - split: 33
+    text: "招式使用期间增加主角25%闪避，招式结束持续10秒的12%闪避加成。"
+    translated: "During the use of this technique, the protagonist gains an additional 25% dodge. Upon completion of the technique, a 12% bonus to dodge is maintained for 10 seconds."
+- raw: "1034600#破索式-伤害1#0#1#0#0#0#0#SFX_Char_Weapon_Hurt_01###0##0#0#0#10000##0#0#0#0#0#20#21#0#0##0#0#84#100####0#0#1034600#0#sfx_hero_main_11_hit#0#0#0#1034600#hurt&10000&dead|dead_1|dead_3|dead_5&2000|2000|2000|2000#0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破索式-伤害1"
+    translated: "Broken Thread Pattern ‑ Harm 1"
+- raw: "1034601#破索式-伤害2#0#1#0#0#0#0#SFX_Char_Weapon_Hurt_01###0##0#0#0#10000##0#0#0#0#0#20#21#0#0##0#0#84#100####0#0#1034601#0#sfx_hero_main_11_hit#0#0#0#1034601#hurt&10000&dead|dead_1|dead_3|dead_5&2000|2000|2000|2000#0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破索式-伤害2"
+    translated: "Breakaway Knot Style ‑ Harm 2"
+- raw: "1034602#破索式-束缚#1#20#0#0#6000#0####0##2#0#0#10000##0#0#0#0#0#0#0#0#0##0#1#0#0#束缚#定身目标，持续6秒##0#0#1034602#0##0#0#0#1034602##0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破索式-束缚"
+    translated: "Chain‑breaking style ‑ Restraint"
+  - split: 32
+    text: "束缚"
+    translated: "Restraint"
+  - split: 33
+    text: "定身目标，持续6秒"
+    translated: "Stun target, lasting 6 seconds"
+- raw: "1034700#破鞭式-伤害1#0#1#0#0#0#0#SFX_Char_Weapon_Hurt_01###0##0#0#0#10000##0#0#0#0#0#20#21#0#0##0#0#105#100####0#0#1034700#0#sfx_hero_main_11_hit#0#0#0#1034700#hurt&10000&dead|dead_1|dead_3|dead_5&2000|2000|2000|2000#0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破鞭式-伤害1"
+    translated: "Breaking Whip Technique ‑ Harm 1"
+- raw: "1034701#破鞭式-伤害2#0#1#0#0#0#0#SFX_Char_Weapon_Hurt_01###0##0#0#0#10000##0#0#0#0#0#20#21#0#0##0#0#105#100####0#0#1034701#0#sfx_hero_main_11_hit#0#0#0#1034701#hurt&10000&dead|dead_1|dead_3|dead_5&2000|2000|2000|2000#0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破鞭式-伤害2"
+    translated: "Break Whip Style ‑ Injure 2"
+- raw: "1034702#破鞭式-迟缓#1#4#0#0#10000#0####0##2#0#0#10000##0#0#1#0#0#-30#1090#0#0##0#1#0#0#迟缓#减少目标30%移动速度，持续10秒##0#0#1034702#0##0#0#0#1034702##0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破鞭式-迟缓"
+    translated: "Cracking Whip Style ‑ Sluggishness"
+  - split: 32
+    text: "迟缓"
+    translated: "Sluggishness"
+  - split: 33
+    text: "减少目标30%移动速度，持续10秒"
+    translated: "Reduce target's movement speed by 30%, lasting for 10 seconds."
+- raw: "1034800#破剑式-伤害1#0#1#0#0#0#0#SFX_Char_Weapon_Hurt_01###0##0#0#0#10000##0#0#0#0#0#20#21#0#0##0#0#47#100####0#0#1034800#0#sfx_hero_main_11_hit#0#0#0#1034800#hurt&10000&dead|dead_1|dead_3|dead_5&2000|2000|2000|2000#0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破剑式-伤害1"
+    translated: "Broken Sword Style ‑ Harm 1"
+- raw: "1034801#破剑式-伤害2#0#1#0#0#0#0#SFX_Char_Weapon_Hurt_01###0##0#0#0#10000##0#0#0#0#0#20#21#0#0##0#0#47#100####0#0#1034801#0#sfx_hero_main_11_hit#0#0#0#1034801#hurt&10000&dead|dead_1|dead_3|dead_5&2000|2000|2000|2000#0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破剑式-伤害2"
+    translated: "Broken Sword Style ‑ Harm 2"
+- raw: "1034802#破剑式-伤害3#0#1#0#0#0#0#SFX_Char_Weapon_Hurt_01###0##0#0#0#10000##0#0#0#0#0#20#21#0#0##0#0#47#100####0#0#1034802#0#sfx_hero_main_11_hit#0#0#0#1034802#hurt&10000&dead|dead_1|dead_3|dead_5&2000|2000|2000|2000#0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破剑式-伤害3"
+    translated: "Broken Sword Style ‑ Harm 3"
+- raw: "1034803#破剑式-伤害4#0#1#0#0#0#0#SFX_Char_Weapon_Hurt_01###0##0#0#0#10000##0#0#0#0#0#20#21#0#0##0#0#47#100####0#0#1034803#0#sfx_hero_main_11_hit#0#0#0#1034803#hurt&10000&dead|dead_1|dead_3|dead_5&2000|2000|2000|2000#0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破剑式-伤害4"
+    translated: "Broken Sword Style ‑ Harm 4"
+- raw: "1034804#破剑式-绝剑#1#15#0#0#15000#0####0##2#0#0#10000#32768#8000#0#0#0#0#0#0#0#1437#0#0#1#0#0#绝剑#15秒内，当目标使用剑法招式时，8秒内持续损失目标外攻*1.2与内攻*1.2的生命值##0#0#1034804#0##0#0#0#1034804##0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "破剑式-绝剑"
+    translated: "Broken Sword Style ‑ Ultimate Swordsmanship"
+  - split: 32
+    text: "绝剑"
+    translated: "Invincible Sword"
+  - split: 33
+    text: "15秒内，当目标使用剑法招式时，8秒内持续损失目标外攻*1.2与内攻*1.2的生命值"
+    translated: "Within 15 seconds, when the target uses a sword technique move, for 8 seconds they continuously lose health equal to their external attack multiplied by 1.2 and internal attack multiplied by 1.2."
+- raw: "1034900##1#15#0#1#0#0####0##0#0#0#10000#16777216#30000#0#0#0#0#0#0#0#103492#103400#0#1#0#0#归藏#九式合一，万法归藏。九剑尽出后生成领域，领域内敌人受到30%破防效果#buffnew_longxiang#0#0#1034900#0##0#0#0#1034900##1#0#1034901|1034902|1034903|1034904|1034905|1034906|1034907|1034908#0.0#0.0###"
+  splits:
+  - split: 32
+    text: "归藏"
+    translated: "Return to Storage"
+  - split: 33
+    text: "九式合一，万法归藏。九剑尽出后生成领域，领域内敌人受到30%破防效果"
+    translated: "Unified into one technique, all laws are gathered. After the Nine Swords have been exhausted, a domain is generated; within this domain, enemies suffer from a 30% vulnerability effect."
+- raw: "1034901##1#15#0#1#0#0####0##0#0#0#10000#16777216#30000#0#0#0#0#0#0#0#103492#103410#0#1#0#0####0#0#1034901#0##0#0#0#1034901##0#0##0.0#0.0###"
+  splits: []
+- raw: "1034902##1#15#0#1#0#0####0##0#0#0#10000#16777216#30000#0#0#0#0#0#0#0#103492#103420#0#1#0#0####0#0#1034902#0##0#0#0#1034902##0#0##0.0#0.0###"
+  splits: []
+- raw: "1034903##1#15#0#1#0#0####0##0#0#0#10000#16777216#30000#0#0#0#0#0#0#0#103492#103430#0#1#0#0####0#0#1034903#0##0#0#0#1034903##0#0##0.0#0.0###"
+  splits: []
+- raw: "1034904##1#15#0#1#0#0####0##0#0#0#10000#16777216#30000#0#0#0#0#0#0#0#103492#103440#0#1#0#0####0#0#1034904#0##0#0#0#1034904##0#0##0.0#0.0###"
+  splits: []
+- raw: "1034905##1#15#0#1#0#0####0##0#0#0#10000#16777216#30000#0#0#0#0#0#0#0#103492#103450#0#1#0#0####0#0#1034905#0##0#0#0#1034905##0#0##0.0#0.0###"
+  splits: []
+- raw: "1034906##1#15#0#1#0#0####0##0#0#0#10000#16777216#30000#0#0#0#0#0#0#0#103492#103460#0#1#0#0####0#0#1034906#0##0#0#0#1034906##0#0##0.0#0.0###"
+  splits: []
+- raw: "1034907##1#15#0#1#0#0####0##0#0#0#10000#16777216#30000#0#0#0#0#0#0#0#103492#103470#0#1#0#0####0#0#1034907#0##0#0#0#1034907##0#0##0.0#0.0###"
+  splits: []
+- raw: "1034908##1#15#0#1#0#0####0##0#0#0#10000#16777216#30000#0#0#0#0#0#0#0#103492#103480#0#1#0#0####0#0#1034908#0##0#0#0#1034908##0#0##0.0#0.0###"
+  splits: []
+- raw: "1034909##1#4#0#1#10000#0####0##0#0#0#10000##0#0#1#0#1#0#10#0#0##103493#1#0#0#九剑·天罗#无招胜有招，连续使出九剑后后会有奇妙变化#buffnew_liaoyuan#0#0#1034909#0##0#5#9#1034909##2#0##0.0#0.0###"
+  splits:
+  - split: 32
+    text: "九剑·天罗"
+    translated: "Nine Swords · Tieluo"
+  - split: 33
+    text: "无招胜有招，连续使出九剑后后会有奇妙变化"
+    translated: "Without skill surpasses with skill; after continuously using the nine swords, there will be a marvelous transformation."
+- raw: "1034910#领域触发#1#15#0#1#1000#0####0##0#0#0#10000#1048576#400#0#0#0#0#0#0#0#103494##0#1#0#0####0#0#1034910#0##0#0#0#1034910##0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "领域触发"
+    translated: "Domain Triggered"
+- raw: "1034911#领域触发#1#4#0#1#1000#0####0##0#0#0#10000##0#0#0#0#4#0#10#0#0##103491#1#0#0####0#0#1034911#0##0#5#2#1034911##2#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "领域触发"
+    translated: "Domain Triggered"
+- raw: "1034912#无招胜有招-伤害1#0#1#3#1#0#0#SFX_Char_Weapon_Hurt_01###0##0#8.0#180.0#10000##0#0#0#0#0#20#21#0#0##0#0#84#100####0#0#1034912#0#sfx_hero_main_11_hit#0#0#0#1034912#hurt&10000&dead|dead_1|dead_3|dead_5&2000|2000|2000|2000#0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "无招胜有招-伤害1"
+    translated: "No plan is better than a good one ‑ Harm 1"
+- raw: "1034913#无招胜有招-伤害2#0#1#0#0#0#0#SFX_Char_Weapon_Hurt_01###0##0#0#0#10000##0#0#0#0#0#20#21#0#0##0#0#84#100####0#0#1034913#0#sfx_hero_main_11_hit#0#0#0#1034913#hurt&10000&dead|dead_1|dead_3|dead_5&2000|2000|2000|2000#0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "无招胜有招-伤害2"
+    translated: "No skill surpasses having no skill ‑ Harm 2"
+- raw: "1034914#无招胜有招-陷阱#0#13#0#1#2400#0####0##0#6.0#0#10000##0#0#3#0#8#1#240#10#103495##0#1#0#0####0#0#1034914#0##0#0#0#1034914##0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "无招胜有招-陷阱"
+    translated: "Having no strategy can be more effective than having one ‑ Trap"
+- raw: "1034915#无招胜有招-破防#1#23#3#1#15000#0####0##2#8.0#180.0#10000##0#0#1#0#0#-30#0#0#0#1022|1023#0#1#0#0####0#0#1034915#0##0#0#0#1034915##0#0##0.0#0.0###"
+  splits:
+  - split: 1
+    text: "无招胜有招-破防"
+    translated: "No technique surpasses no technique ‑ Fallen apart at the seams"
 - raw: "1036000#荒古至今我为尊-伤害#0#1#0#0#0#0#0#0#0#0#0#0#0#0#10000#0#0#0#0#0#0#20#21#0#0##0#258#258#100#0#0#0#0#0#1036000#0#sfx_hero_main_11_hit#0#0#0#1036000#hurt_qishen#0#0#0#0.0#0.0###"
   splits:
   - split: 1

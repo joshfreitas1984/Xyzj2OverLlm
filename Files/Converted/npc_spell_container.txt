@@ -238,6 +238,30 @@
   - split: 4
     text: "据自身所学，集众家之长，为一套组合招式。出拳势不可档，攻敌要害。守招不动如山，窥敌之破绽予以反击，攻敌之不能守。"
     translated: "Based on my own studies, combining the strengths of all schools into a set of combined techniques. The strikes must be continuous and unrelenting, targeting the opponent's vital points. In defense, one stands firm as immovable as a mountain, observing the opponent's weaknesses to counterattack and exploit their inability to defend."
+- raw: "2001#10000|10001|10002|10003|10004|10005#求败剑法#10#破尽万法者，唯力与智合一；重剑无锋处，沧海亦可截流#"
+  splits:
+  - split: 2
+    text: "求败剑法"
+    translated: "Invitation to Defeat Sword Technique"
+  - split: 4
+    text: "破尽万法者，唯力与智合一；重剑无锋处，沧海亦可截流"
+    translated: "The breaker of a thousand laws is the one where force and wisdom are united; at the point where the heavy sword has no edge, even the vast ocean can be cleaved."
+- raw: "2002#10000|10001|10002|10003|10004|10005#诗仙剑法#10#以身为笔，以剑为墨，江湖为卷，泼墨由心#"
+  splits:
+  - split: 2
+    text: "诗仙剑法"
+    translated: "Sword Immortal's Sword Technique"
+  - split: 4
+    text: "以身为笔，以剑为墨，江湖为卷，泼墨由心"
+    translated: "Using one's body as a brush and the sword as ink, with Jianghu as the scroll, to paint with heartfelt strokes."
+- raw: "2003#3161000|3161001|3161002#胖子拳法#quan_1011#在靖延一十二年，第一次在淮陵打自由搏击就夺得第一了；靖延二十三年打赢了豫京第一人；接着连续十年打败所有武林高手；赢得全武林自由搏击冠军！江湖古拳法，出招刚柔并济，败敌无数，被喻为万拳至尊#"
+  splits:
+  - split: 2
+    text: "胖子拳法"
+    translated: "Fatty's Fist Technique"
+  - split: 4
+    text: "在靖延一十二年，第一次在淮陵打自由搏击就夺得第一了；靖延二十三年打赢了豫京第一人；接着连续十年打败所有武林高手；赢得全武林自由搏击冠军！江湖古拳法，出招刚柔并济，败敌无数，被喻为万拳至尊"
+    translated: "In the twelfth year of Jingyan, they became the champion at the first free combat event in Huailing; in the twenty‑third year of Jingyan, they defeated the top fighter from the Yu Capital. Following that, for ten consecutive years, they bested all martial world masters. They won the title of Free Combat Champion of the entire Martial World! Their ancient Jianghu boxing style, which combines hard and soft techniques to produce a formidable array of punches, has defeated countless opponents and is hailed as the Supreme among Ten Thousand Fists."
 - raw: "3107#3107000|3107001|3107002#黄沙掌法#xinfa9#来自西域的掌法。#"
   splits:
   - split: 2
