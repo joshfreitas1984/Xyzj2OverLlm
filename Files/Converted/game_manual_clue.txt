@@ -218,16 +218,16 @@
   - split: 2
     text: "前往(659,1776)附近，击败守山人，有概率直接掉落装备的打造材料。材料十分稀有，只能获得一次。"
     translated: "Head to the area near (659,1776), defeat the mountain guardian, and there is a chance of directly obtaining forging materials for equipment. These materials are very uncommon and can only be obtained once."
-- raw: "2012101#2012101#前往(934,735)附近，击败宗和，有概率直接掉落装备。装备十分稀有，只能获得一次。#0#1#934.974,735.125#"
+- raw: "2012101#2012101#在将门线中击败宗和，直接掉落装备。装备十分稀有，只能获得一次。#0#1#0#"
   splits:
   - split: 2
-    text: "前往(934,735)附近，击败宗和，有概率直接掉落装备。装备十分稀有，只能获得一次。"
-    translated: "Head to the area near (934,735), defeat Zong He, and there is a chance to directly drop rare equipment. The equipment is very uncommon and can only be obtained once."
-- raw: "2012201#2012101#前往(1296,1082)附近，击败澄道，有概率直接掉落装备。装备十分稀有，只能获得一次。#0#1#659.107,1776.71#"
+    text: "在将门线中击败宗和，直接掉落装备。装备十分稀有，只能获得一次。"
+    translated: "Defeat Zong He in the aristocratic bloodline and directly drop the equipment. The equipment is extremely uncommon and can only be obtained once."
+- raw: "2012201#2012101#在千金线中击败宗和，直接掉落装备。装备十分稀有，只能获得一次。#0#1#0#"
   splits:
   - split: 2
-    text: "前往(1296,1082)附近，击败澄道，有概率直接掉落装备。装备十分稀有，只能获得一次。"
-    translated: "Head to the area near (1296,1082), defeat Qing Dao, and there is a chance you will directly drop rare equipment. This equipment is very uncommon and can only be obtained once."
+    text: "在千金线中击败宗和，直接掉落装备。装备十分稀有，只能获得一次。"
+    translated: "In the Thousand Gold Line, defeating Zong He directly drops equipment. The equipment is very rare and can only be obtained once."
 - raw: "2012401#2012401#前往(1296,1082)附近，击败游逸，有概率直接掉落装备。装备十分稀有，只能获得一次。#0#1#1296.86,1082.03#"
   splits:
   - split: 2
@@ -2143,11 +2143,11 @@
   - split: 2
     text: "从狗子口中得知<color=&&DEB887>只有拥有福缘的人才能看到井中的荧光。</color>"
     translated: "Learned from Gouzi that <color=&&DEB887>only those with good fortune can see the glow in the well.</color>"
-- raw: "60005003#60050#<color=&&DEB887>冉骏打算送母亲春盟作为寿礼,如果可以我倒是想为他准备。</color>#0&24|956748|1#0##"
+- raw: "60005003#60050#<color=&&DEB887>冉骏打算送母亲春盟作为寿礼,城内杂货商应该有此种礼品售卖,如果可以我倒是想为他准备。</color>#0&24|956748|1#0##"
   splits:
   - split: 2
-    text: "<color=&&DEB887>冉骏打算送母亲春盟作为寿礼,如果可以我倒是想为他准备。</color>"
-    translated: "<color=&&DEB887>Ran Jun plans to give his mother a Spring Alliance as a birthday gift. If possible, I would like to prepare one for him as well.</color>"
+    text: "<color=&&DEB887>冉骏打算送母亲春盟作为寿礼,城内杂货商应该有此种礼品售卖,如果可以我倒是想为他准备。</color>"
+    translated: "<color=&&DEB887>Ran Jun plans to give his mother the Chun Meng as a birthday gift. There should be such gifts for sale at general stores within the city. If possible, I would like to prepare one for him.</color>"
 - raw: "60006001#60006#从狗子口中得知水井中会泛起淡淡荧光,<color=&&DEB887>或许是琉璃石也说不定！</color>#0&30|973606|1#1#1068,1477#"
   splits:
   - split: 2

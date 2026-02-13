@@ -2280,6 +2280,21 @@
   - split: 1
     text: "假面"
     translated: "Masked face"
+- raw: "1409#天剑配方#4#7#14#16#11233#99999#0#1#0#0#peifang#1409#0#3409##3600#0#####0#0#0#0#0#0####0##0&18|1|51|700|>=#0####0####0#0#0##1#"
+  splits:
+  - split: 1
+    text: "天剑配方"
+    translated: "Tianjian formula"
+- raw: "1410#龙刀配方#4#7#14#16#11233#99999#0#1#0#0#peifang#1410#0#3410##3600#0#####0#0#0#0#0#0####0##0&18|1|51|700|>=#0####0####0#0#0##1#"
+  splits:
+  - split: 1
+    text: "龙刀配方"
+    translated: "Dragon Blade Formula"
+- raw: "1411#陨铁重剑配方#4#7#14#16#11233#99999#0#1#0#0#peifang#1411#0#3411##3600#0#####0#0#0#0#0#0####0##0&18|1|51|700|>=#0####0####0#0#0##1#"
+  splits:
+  - split: 1
+    text: "陨铁重剑配方"
+    translated: "Meteorite Heavy Sword Formula"
 - raw: "1501#无心配方#4#7#14#10#391#99999#0#1#0#0#peifang#1501#0#3501#0#3600#0#####0#0#0#0#0#0####0##0&18|1|51|10|>=#0##0#1#0#0##0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -3760,6 +3775,16 @@
   - split: 41
     text: "可在齐军、家园、坠龙坡、信陵宗、落凤原采集"
     translated: "Can be collected at the Qi Army, home base, Falling Dragon Slope, Xinling Sect, and Fallen Phoenix Plain."
+- raw: "5056#破损的天剑#3#1#13#15#31026#99999#0#1#0#0#jian_yitianjian#5056001#0#5056002##3600#0##10&2###0#0#0#0#0#0####0###0####0####0#0#1##1#"
+  splits:
+  - split: 1
+    text: "破损的天剑"
+    translated: "Damaged Heaven's Sword"
+- raw: "5057#破损的龙刀#3#1#13#15#31026#99999#0#1#0#0#dao_tulongdao#5057001#0#5057002##3600#0##10&2###0#0#0#0#0#0####0###0####0####0#0#1##1#"
+  splits:
+  - split: 1
+    text: "破损的龙刀"
+    translated: "Damaged dragon sword"
 - raw: "9001#赤芍#3#3#10#10#25#99999#0#1#0#0#chishao#9001#0#11001#0#3600#0##7&2#11&1#DANYAO#0#0#0#8512#1#1###all#0###0##1|8423000# #0#18001|18002|18101|18108#可在天门山、合纵道、捭阖谷、连横隘、星陨荒东采集#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -12217,11 +12242,11 @@
   - split: 1
     text: "蚀骨剑"
     translated: "Erosive Bone Sword"
-- raw: "34048#天外飞仙#4#15#14#14#21090#99999#0#1#0#0#miji10#34048#0#36048#0#0#0#148#0###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#1#0#0#"
+- raw: "34048#青霄惊鸿#4#15#14#14#21090#99999#0#1#0#0#miji10#34048#0#36048#0#0#0#148#0###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#1#0#0#"
   splits:
   - split: 1
-    text: "天外飞仙"
-    translated: "Flying Immortal from Beyond the Heavens"
+    text: "青霄惊鸿"
+    translated: "Swooping Swallows in Azure Heights"
 - raw: "34049#剑二十三#4#15#14#14#21090#99999#0#1#0#0#miji10#34049#0#36049#0#0#0#149#0###0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#1#0#0#"
   splits:
   - split: 1
@@ -12242,11 +12267,16 @@
   - split: 1
     text: "天遁剑法"
     translated: "Celestial Traveling Sword Technique"
-- raw: "34053#神剑诀#4#15#14#14#13710#99999#0#1#0#0#miji10#34053#0#36053##3600#0#153#0###0#0#0#0#0#0####0#65006|138##0####0####0#0#0#0#1#"
+- raw: "34053#神剑诀#4#15#14#14#13710#99999#0#1#0#0#miji10#34053#0#36053##3600#0#153#0###0#0#0#0#0#0####0#65006|138##0####0####0#0#0##1#"
   splits:
   - split: 1
     text: "神剑诀"
     translated: "The Sword Technique of the Divine Sword"
+- raw: "34054#无锋剑诀#4#15#14#14#18710#99999#0#1#0#0#miji10#34054#0#36054##3600#0#154#0###0#0#0#0#0#0####0#65006|138##0####0####0#0#0##1#"
+  splits:
+  - split: 1
+    text: "无锋剑诀"
+    translated: "Wu Feng Sword Technique"
 - raw: "34100#百殊刀#4#15#11#11#6240#99999#0#1#0#0#miji11#34100#0#36100#0#3600#0#200#1###0#0#0#0#0#0##10009|2500&10010|2500&10011|2500&10012|2500##0#65023|63##0##0#0#1#0#长旌军贡献堂主处可获得#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -12895,6 +12925,11 @@
   - split: 1
     text: "万劫"
     translated: "Eternal Perdition"
+- raw: "34350#圣火令#4#15#14#14#18710#99999#0#1#0#0#miji10#34350#0#36350##3600#0#450#3###0#0#0#0#0#0####0#65006|138##0####0####0#0#0##1#"
+  splits:
+  - split: 1
+    text: "圣火令"
+    translated: "Divine Fire Order"
 - raw: "34400#养剑术#4#20#12#12#8112#99999#0#1#0#0#miji_b3#34400#0#36400#0#3600#0#10010002#0###0#0#0#0#0#0##10009|2500&10010|2500&10011|2500&10012|2500##0###0##0#0#1#0#武馆教头（枰栌）处可获得#0#0#0#0#0#1#"
   splits:
   - split: 1
@@ -23201,11 +23236,11 @@
   - split: 1
     text: "空千亦"
     translated: "Kong Qianyi"
-- raw: "50593#悟悠#1#1#14#14#14761#1#0#1#0#0#qiang1#50593#0#52593#3771#3601#30002#####0#0#0#80094#4#7####0###0##0#1#0#0##0#1#0#1#0#1#"
+- raw: "50593#吞吴#1#1#14#14#14761#1#0#1#0#0#qiang1#50593#0#52593#3771#3601#30002#####0#0#0#80094#4#7####0###0##0#1#0#0##0#1#0#1#0#1#"
   splits:
   - split: 1
-    text: "悟悠"
-    translated: "Wu You"
+    text: "吞吴"
+    translated: "Conquer Wu"
 - raw: "50594#续素#1#1#14#15#25834#1#0#1#0#0#qiang3#50594#0#52594#3769#3601#30002#####0#0#0#80095#4#7####0###0##0#1#0#0##0#1#0#1#0#1#"
   splits:
   - split: 1
@@ -39340,6 +39375,21 @@
   - split: 41
     text: "炼器获得"
     translated: "Refinement achieved"
+- raw: "82711#天剑#1#1#14#16#31026#1#0#1#0#0#jian_yitianjian#45081#0#47081#3720#3601#30000#####0#0#0#6005#5#7####0###0####0####1#0#0##0#"
+  splits:
+  - split: 1
+    text: "天剑"
+    translated: "Celestial Sword"
+- raw: "82712#龙刀#1#1#14#16#31026#1#0#1#0#0#dao_tulongdao#45082#0#47082#3739#3601#30000#####0#0#0#80034#5#7####0###0####0####1#0#0##0#"
+  splits:
+  - split: 1
+    text: "龙刀"
+    translated: "Dragon Blade"
+- raw: "82713#陨铁重剑#1#1#14#16#31026#1#0#1#0#0#jian_xuantiezhongjian#45083#0#47083#3913#3601#30001#####0#0#0#80070#5#7####0###0####0####1#0#0##0#"
+  splits:
+  - split: 1
+    text: "陨铁重剑"
+    translated: "Meteorite Iron Heavy Sword"
 - raw: "83001#江湖守卫者#1#10#11#14#0#99999#0#1#800#0#bw_smbl_banshu#83001#0#8300101#0#3600#0#83001#800###0#0#0#0#0#0####0###0##0#0#0#0#PC专属福利#0#0#0#1##0#"
   splits:
   - split: 1
@@ -42045,6 +42095,374 @@
   - split: 1
     text: "化境卷·道心种魔"
     translated: "Transcendence Scroll · Demon Seed in Tao's Heart"
+- raw: "100001#引龙驹（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#new_3765#45040#0#47040#3765#3601#30002#####0#0#0#6005#4#7####0#65019|96##0####0##（7阶完美固定品质）##1#0#1##1#"
+  splits:
+  - split: 1
+    text: "引龙驹（7阶完美固定品质）"
+    translated: "Summon Dragon Foal (7 Level Perfect Fixed Quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100002#流光·引龙驹（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#new_3765#45140#0#47040#3765#3601#40001#####0#0#0#6005#4#7####0#65019|96##0####0##（7阶完美固定品质）##1#0#1##0#"
+  splits:
+  - split: 1
+    text: "流光·引龙驹（7阶完美固定品质）"
+    translated: "Liu Guang · Invoke the Steed (7 Step Perfect Fixed Quality) ·"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100003#渊银·引龙驹（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#new_3765#45240#0#47040#3765#3601#40002#####0#0#0#6005#4#7####0#65019|96##0####0##（7阶完美固定品质）##1#0#1##0#"
+  splits:
+  - split: 1
+    text: "渊银·引龙驹（7阶完美固定品质）"
+    translated: "Yuan Yin · Yin Long Ju (7 Step Perfect Fixed Quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100004#刺锋·引龙驹（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#new_3765#45340#0#47040#3765#3601#40003#####0#0#0#6005#4#7####0#65019|96##0####0##（7阶完美固定品质）##1#0#1##0#"
+  splits:
+  - split: 1
+    text: "刺锋·引龙驹（7阶完美固定品质）"
+    translated: "Spinal Blade · Summon the Steed (7 Step Perfect Fixed Quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100005#碎铁·引龙驹（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#new_3765#45440#0#47040#3765#3601#40004#####0#0#0#6005#4#7####0#65019|96##0####0##（7阶完美固定品质）##1#0#1##0#"
+  splits:
+  - split: 1
+    text: "碎铁·引龙驹（7阶完美固定品质）"
+    translated: "Shuitie · Yin Longru (7 Jie wanmei guding pinzi)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100006#龙窟动（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#new_3760#45030#0#47030#1&3760|2&3986#3601#30003#####0#0#0#6005#4#7####0#65001|96&65023|96##0####0##（7阶完美固定品质）##1#0#1##1#"
+  splits:
+  - split: 1
+    text: "龙窟动（7阶完美固定品质）"
+    translated: "Dragon's Cave Stirs (7 Tier Perfect Fixed Quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100007#流光·龙窟动（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#new_3760#45130#0#47030#1&3760|2&3986#3601#40001#####0#0#0#6005#4#7####0#65001|96&65023|96##0####0##（7阶完美固定品质）##1#0#1##0#"
+  splits:
+  - split: 1
+    text: "流光·龙窟动（7阶完美固定品质）"
+    translated: "Liu Guang · Dragon's Cave Stirs (7 Step Perfect Fixed Quality) ·"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100008#渊银·龙窟动（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#new_3760#45230#0#47030#1&3760|2&3986#3601#40002#####0#0#0#6005#4#7####0#65001|96&65023|96##0####0##（7阶完美固定品质）##1#0#1##0#"
+  splits:
+  - split: 1
+    text: "渊银·龙窟动（7阶完美固定品质）"
+    translated: "Yuan Yin · Dragon's Cave Stirs (7 Step Perfect Fixed Quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100009#刺锋·龙窟动（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#new_3760#45330#0#47030#1&3760|2&3986#3601#40003#####0#0#0#6005#4#7####0#65001|96&65023|96##0####0##（7阶完美固定品质）##1#0#1##0#"
+  splits:
+  - split: 1
+    text: "刺锋·龙窟动（7阶完美固定品质）"
+    translated: "Spiked Tip · Dragon's Cave Stirs (7 Step Perfect Fixed Quality) ·"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100010#碎铁·龙窟动（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#new_3760#45430#0#47030#1&3760|2&3986#3601#40004#####0#0#0#6005#4#7####0#65001|96&65023|96##0####0##（7阶完美固定品质）##1#0#1##0#"
+  splits:
+  - split: 1
+    text: "碎铁·龙窟动（7阶完美固定品质）"
+    translated: "Puzzle Iron · Dragon's Cave Stirs (7 Step Perfect Fixed Quality) ·"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100011#霜天晓角（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#new_3723#45020#0#47020#3723#3601#30001#####0#0#0#6005#4#7####0#65041|96##0####0##（7阶完美固定品质）##1#0#1##1#"
+  splits:
+  - split: 1
+    text: "霜天晓角（7阶完美固定品质）"
+    translated: "Frosty Dawn Bells (7 Step Perfect Fixed Quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100012#流光·霜天晓角（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#new_3723#45120#0#47020#3723#3601#40001#####0#0#0#6005#4#7####0#65041|96##0####0##（7阶完美固定品质）##1#0#1##0#"
+  splits:
+  - split: 1
+    text: "流光·霜天晓角（7阶完美固定品质）"
+    translated: "Liu Guang · Dawn Chimes in a Snowy Sky (7 Step Perfect Fixed Quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100013#渊银·霜天晓角（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#new_3723#45220#0#47020#3723#3601#40002#####0#0#0#6005#4#7####0#65041|96##0####0##（7阶完美固定品质）##1#0#1##0#"
+  splits:
+  - split: 1
+    text: "渊银·霜天晓角（7阶完美固定品质）"
+    translated: "Yuanyin · Shuang Tian Xiao Jiao (7 step perfect fixed quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100014#刺锋·霜天晓角（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#new_3723#45320#0#47020#3723#3601#40003#####0#0#0#6005#4#7####0#65041|96##0####0##（7阶完美固定品质）##1#0#1##0#"
+  splits:
+  - split: 1
+    text: "刺锋·霜天晓角（7阶完美固定品质）"
+    translated: "Crisp Point, Frosty Dawn Horn (7 Step Perfect Fixed Quality) ·"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100015#碎铁·霜天晓角（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#new_3723#45420#0#47020#3723#3601#40004#####0#0#0#6005#4#7####0#65041|96##0####0##（7阶完美固定品质）##1#0#1##0#"
+  splits:
+  - split: 1
+    text: "碎铁·霜天晓角（7阶完美固定品质）"
+    translated: "Splintered Iron · Frosty Dawn Horn (7 stage perfected fixed quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100016#天瀑（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#new_3707#45010#0#47010#3707#3601#30000#####0#0#0#6005#4#7####0#65022|96##0####0##（7阶完美固定品质）##1#0#1##1#"
+  splits:
+  - split: 1
+    text: "天瀑（7阶完美固定品质）"
+    translated: "Celestial Waterfall (7 Steps Perfect Fixed Quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100017#流光·天瀑（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#new_3707#45110#0#47010#3707#3601#40001#####0#0#0#6005#4#7####0#65022|96##0####0##（7阶完美固定品质）##1#0#1##0#"
+  splits:
+  - split: 1
+    text: "流光·天瀑（7阶完美固定品质）"
+    translated: "Liu Guang · Tian Pu (7 Step Perfect Fixed Quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100018#渊银·天瀑（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#new_3707#45210#0#47010#3707#3601#40002#####0#0#0#6005#4#7####0#65022|96##0####0##（7阶完美固定品质）##1#0#1##0#"
+  splits:
+  - split: 1
+    text: "渊银·天瀑（7阶完美固定品质）"
+    translated: "Yuan Yin Tian Pu (7 Step Perfect Fixed Quality) ·"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100019#刺锋·天瀑（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#new_3707#45310#0#47010#3707#3601#40003#####0#0#0#6005#4#7####0#65022|96##0####0##（7阶完美固定品质）##1#0#1##0#"
+  splits:
+  - split: 1
+    text: "刺锋·天瀑（7阶完美固定品质）"
+    translated: "Spinning Blade · Skyfall (7 Stage Perfect Fixed Quality) ·"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100020#碎铁·天瀑（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#new_3707#45410#0#47010#3707#3601#40004#####0#0#0#6005#4#7####0#65022|96##0####0##（7阶完美固定品质）##1#0#1##0#"
+  splits:
+  - split: 1
+    text: "碎铁·天瀑（7阶完美固定品质）"
+    translated: "Shuitie · Tianpu (7 level perfect fixed quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100021#冰魄银针（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#anqi_xueyingzhen#45080#0#47080##3601#30000#####0#0#0#6005#4#7####0###0####0##（7阶完美固定品质）##1#0#1##1#"
+  splits:
+  - split: 1
+    text: "冰魄银针（7阶完美固定品质）"
+    translated: "Frost Essence Silver Needle (7 step perfect fixed quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100022#流光·冰魄银针（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#anqi_xueyingzhen#45510#0#47080##3601#40001#####0#0#0#6005#4#7####0###0####0##（7阶完美固定品质）##1#0#1##0#"
+  splits:
+  - split: 1
+    text: "流光·冰魄银针（7阶完美固定品质）"
+    translated: "Liu Guang · Bing Po Silver Needle (7 Step Perfect Fixed Quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100023#渊银·冰魄银针（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#anqi_xueyingzhen#45520#0#47080##3601#40002#####0#0#0#6005#4#7####0###0####0##（7阶完美固定品质）##1#0#1##0#"
+  splits:
+  - split: 1
+    text: "渊银·冰魄银针（7阶完美固定品质）"
+    translated: "Yuan Yin · Bing Po Silver Needle (7 Step Perfect Fixed Quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100024#刺锋·冰魄银针（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#anqi_xueyingzhen#45530#0#47080##3601#40003#####0#0#0#6005#4#7####0###0####0##（7阶完美固定品质）##1#0#1##0#"
+  splits:
+  - split: 1
+    text: "刺锋·冰魄银针（7阶完美固定品质）"
+    translated: "Ice Spirit Silver Needle (7 Stage Perfect Fixed Quality) · Keen Blade"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100025#碎铁·冰魄银针（7阶完美固定品质）#1#1#14#16#31026#1#0#1#0#0#anqi_xueyingzhen#45540#0#47080##3601#40004#####0#0#0#6005#4#7####0###0####0##（7阶完美固定品质）##1#0#1##0#"
+  splits:
+  - split: 1
+    text: "碎铁·冰魄银针（7阶完美固定品质）"
+    translated: "Shuitie · Bingpo Yinden (7 jie wanmei guding pinzhi)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100026#羽暮（7阶完美固定品质）#1#3#14#16#25848#1#0#1#0#0#xie2#57010#0#59010##3603#30007#####0#0#0#6005#4#7####0#65003|96##0####0##（7阶完美固定品质）##2#0#1##1#"
+  splits:
+  - split: 1
+    text: "羽暮（7阶完美固定品质）"
+    translated: "Feather Dusk (Level 7 Fixed Quality Perfected)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100027#钓丝风（7阶完美固定品质）#1#2#14#16#38780#1#0#1#0#0#tiejia3#46010#0#48010##3602#30006#####0#0#0#6005#4#7####0#65015|96##0####0##（7阶完美固定品质）##2#0#1##1#"
+  splits:
+  - split: 1
+    text: "钓丝风（7阶完美固定品质）"
+    translated: "Diao Sifeng (7 step perfect fixed quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100028#敲月催金（7阶完美固定品质）#1#4#14#16#25848#1#0#1#0#0#yaodai10#46020#0#48020##3602#30008#####0#0#0#6005#4#7####0#65013|96##0####0##（7阶完美固定品质）##2#0#1##1#"
+  splits:
+  - split: 1
+    text: "敲月催金（7阶完美固定品质）"
+    translated: "Pound the month to accelerate gold quality (7 step perfect fixed quality)."
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100029#天涯暮（7阶完美固定品质）#1#5#14#16#41365#1#0#1#0#0#jiezhi10#49010#0#51010##3604#30005#####0#0#0#6005#4#7####0#65015|96##0####0##（7阶完美固定品质）##3#0#1##1#"
+  splits:
+  - split: 1
+    text: "天涯暮（7阶完美固定品质）"
+    translated: "Dusk at the Edge of the World (Fixed Quality with 7 Step Perfection)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100030#陀罗玉（7阶完美固定品质）#1#7#14#16#41365#1#0#1#0#0#erhuan3#49020#0#51020##3604#30013#####0#0#0#6005#4#7####0#65003|96##0####0##（7阶完美固定品质）##3#0#1##1#"
+  splits:
+  - split: 1
+    text: "陀罗玉（7阶完美固定品质）"
+    translated: "Daluoyu (7 Step Perfect Fixed Quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100031#龙醉（7阶完美固定品质）#1#6#14#16#41365#1#0#1#0#0#shoushi4#49030#0#51030##3604#30004#####0#0#0#6005#4#7####0#65001|96&65020|96##0####0##（7阶完美固定品质）##3#0#1##1#"
+  splits:
+  - split: 1
+    text: "龙醉（7阶完美固定品质）"
+    translated: "Dragon Intoxication (7 step perfect fixed quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100032#七翎匣（7阶完美固定品质）#1#8#14#16#16884#1#0#1#0#0#jianqiao1#53001#0#55001#3801#3604#30009#####0#0#0#7011#4#7####0#65013|24#0&43|0#0###1#0##（7阶完美固定品质）##3#0#1##1#"
+  splits:
+  - split: 1
+    text: "七翎匣（7阶完美固定品质）"
+    translated: "Seven‑plume Box (7 step perfect fixed quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100033#凤翅月明（7阶完美固定品质）#1#8#14#16#16884#1#0#1#0#0#jianqiao2#53002#0#55002#3805#3604#30009#####0#0#0#7012#4#7####0#65004|24#0&43|0#0###1#0##（7阶完美固定品质）##3#0#1##1#"
+  splits:
+  - split: 1
+    text: "凤翅月明（7阶完美固定品质）"
+    translated: "Bright Feather Moon (Perfectly Fixed Quality at 7 Stage)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100034#八宝荷叶匣（7阶完美固定品质）#1#8#14#16#29547#1#0#1#0#0#jianqiao3#53003#0#55003#3801#3604#30009#####0#0#0#7013#4#7####0#65014|48#0&43|0#0###1#0##（7阶完美固定品质）##3#0#1##1#"
+  splits:
+  - split: 1
+    text: "八宝荷叶匣（7阶完美固定品质）"
+    translated: "Baobao Heli Xiang (7 Jie Wanshi Gongding Pinzhixing) (Eight Treasures Lotus Leaf Casket Fixed Quality, Perfect 7 Step)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100035#赤鹤（7阶完美固定品质）#1#8#14#16#16884#1#0#1#0#0#daoqiao1#53004#0#55004#3822#3604#30010#####0#0#0#7111#4#7####0#65012|24#0&43|1#0###1#0##（7阶完美固定品质）##3#0#1##1#"
+  splits:
+  - split: 1
+    text: "赤鹤（7阶完美固定品质）"
+    translated: "Crimson Crane (a 7‑Step Perfect Fixed Quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100036#星狼（7阶完美固定品质）#1#8#14#16#16884#1#0#1#0#0#daoqiao2#53005#0#55005#3823#3604#30010#####0#0#0#7112#4#7####0#65008|24#0&43|1#0###1#0##（7阶完美固定品质）##3#0#1##1#"
+  splits:
+  - split: 1
+    text: "星狼（7阶完美固定品质）"
+    translated: "Star Wolf (Level 7 Perfect Fixed Quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100037#龙凤宝鞘（7阶完美固定品质）#1#8#14#16#29547#1#0#1#0#0#daoqiao3#53006#0#55006#3822#3604#30010#####0#0#0#7113#4#7####0#65015|48#0&43|1#0###1#0##（7阶完美固定品质）##3#0#1##1#"
+  splits:
+  - split: 1
+    text: "龙凤宝鞘（7阶完美固定品质）"
+    translated: "Dragon and Phoenix Treasure Sheath (Fixed Quality at 7 Step Perfect)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100038#闹银龙（7阶完美固定品质）#1#8#14#16#16884#1#0#1#0#0#qiangtao1#53007#0#55007##3604#30011#####0#0#0#7211#4#7####0#65019|24#0&43|2#0###1#0##（7阶完美固定品质）##3#0#1##1#"
+  splits:
+  - split: 1
+    text: "闹银龙（7阶完美固定品质）"
+    translated: "Nao Yin Long (7 Step Perfect Fixed Quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100039#百尺彩（7阶完美固定品质）#1#8#14#16#16884#1#0#1#0#0#qiangtao2#53008#0#55008##3604#30011#####0#0#0#7212#4#7####0#65009|24#0&43|2#0###1#0##（7阶完美固定品质）##3#0#1##1#"
+  splits:
+  - split: 1
+    text: "百尺彩（7阶完美固定品质）"
+    translated: "Hundred‑foot Spectrum (7 Level Perfect Fixed Quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100040#血挡梅花（7阶完美固定品质）#1#8#14#16#29547#1#0#1#0#0#qiangtao3#53009#0#55009##3604#30011#####0#0#0#7213#4#7####0#65036|48#0&43|2#0###1#0##（7阶完美固定品质）##3#0#1##1#"
+  splits:
+  - split: 1
+    text: "血挡梅花（7阶完美固定品质）"
+    translated: "Blood‑Blocked Plum Blossom (7 Step Perfect Fixed Quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100041#霜节（7阶完美固定品质）#1#8#14#16#16884#1#0#1#0#0#hutui1#53010#0#55010##3604#30012#####0#0#0#7311#4#7####0#65022|24#0&43|3#0###1#0##（7阶完美固定品质）##3#0#1##1#"
+  splits:
+  - split: 1
+    text: "霜节（7阶完美固定品质）"
+    translated: "Frost Stage (7 step perfect fixed quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100042#排须甲（7阶完美固定品质）#1#8#14#16#16884#1#0#1#0#0#hutui2#53011#0#55011##3604#30012#####0#0#0#7312#4#7####0#65025|24#0&43|3#0###1#0##（7阶完美固定品质）##3#0#1##1#"
+  splits:
+  - split: 1
+    text: "排须甲（7阶完美固定品质）"
+    translated: "Fixed Quality Perfection Rank 7 (Perfect Fixed Quality of the Plaited Hair Ornament)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100043#心无著（7阶完美固定品质）#1#8#14#16#29547#1#0#1#0#0#hutui3#53012#0#55012##3604#30012#####0#0#0#7313#4#7####0#65003|48#0&43|3#0###1#0##（7阶完美固定品质）##3#0#1##1#"
+  splits:
+  - split: 1
+    text: "心无著（7阶完美固定品质）"
+    translated: "Heart Unattached (Step 7 Fixed Quality of Perfection)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100044#百宝囊（7阶完美固定品质）#1#8#14#16#16884#1#0#1#0#0#baibaodai#53014#0#55014##3604#30009#####0#0#0#7111#4#7####0#65051|24#0&43|5#0###1#0##（7阶完美固定品质）##3#0#1##1#"
+  splits:
+  - split: 1
+    text: "百宝囊（7阶完美固定品质）"
+    translated: "Mysterious Bag (7 Step Perfect Fixed Quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100045#乾坤袋（7阶完美固定品质）#1#8#14#16#16884#1#0#1#0#0#qiankundai#53015#0#55015##3604#30009#####0#0#0#7112#4#7####0#65051|24#0&43|5#0###1#0##（7阶完美固定品质）##3#0#1##1#"
+  splits:
+  - split: 1
+    text: "乾坤袋（7阶完美固定品质）"
+    translated: "The Bag of Heaven and Earth (7 step perfect fixed quality)."
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
+- raw: "100046#九霄环佩匣（7阶完美固定品质）#1#8#14#16#29547#1#0#1#0#0#jiuxiaohuanfeixia#53016#0#55016##3604#30009#####0#0#0#7113#4#7####0#65050|48#0&43|5#0###1#0##（7阶完美固定品质）##3#0#1##1#"
+  splits:
+  - split: 1
+    text: "九霄环佩匣（7阶完美固定品质）"
+    translated: "Nine Heavens Ornament Box (7 Tier Perfect Fixed Quality)"
+  - split: 41
+    text: "（7阶完美固定品质）"
+    translated: "(perfect fixed quality at 7 step)"
 - raw: "150001#小米#3#1#10#10#10#99999#1#1#0#0#shuidao#150001005#0#0#0#3600#0#####0#0#0#0#0#0####0###0##0#0#0#0#0#0#0#0#1#0#1#"
   splits:
   - split: 1
@@ -42175,6 +42593,26 @@
   - split: 1
     text: "天魔策情报溯海派"
     translated: "Tianmo's Strategy Involves Gathering Intelligence on the River's Source Faction."
+- raw: "180015#郭字令#4#16#12#14#0#1#0#1#0#0#bw_sjl#18001501#0#18001503##3605#0#####0#0#0#0#0#0####0###0####0####0#0#1##0#"
+  splits:
+  - split: 1
+    text: "郭字令"
+    translated: "Guo Zi Ling"
+- raw: "180016#灭字令#4#16#12#14#0#1#0#1#0#0#bw_sjl#18001601#0#18001603##3605#0#####0#0#0#0#0#0####0###0####0####0#0#1##0#"
+  splits:
+  - split: 1
+    text: "灭字令"
+    translated: "Order of Annihilation"
+- raw: "180017#周字令#4#16#12#14#0#1#0#1#0#0#bw_sjl#18001701#0#18001703##3605#0#####0#0#0#0#0#0####0###0####0####0#0#1##0#"
+  splits:
+  - split: 1
+    text: "周字令"
+    translated: "Commander Zhou"
+- raw: "180018#纪字令#4#16#12#14#0#1#0#1#0#0#bw_sjl#18001801#0#18001803##3605#0#####0#0#0#0#0#0####0###0####0####0#0#1##0#"
+  splits:
+  - split: 1
+    text: "纪字令"
+    translated: "Ji Zi Ling"
 - raw: "550001#万兽秘技-月德#3#23#14#16#560#99999#0#1#0#0#miji15#550001#0#551001#0#3600#0##3600###0#0#0#0#0#0####0###0##0#1#0#0##0#0#0#1#0#0#"
   splits:
   - split: 1

@@ -213,11 +213,11 @@
 213#AttriTipDic_YuXin#减少暴击伤害比例。#
 214#AttriTipDic_YaoHai#提升暴击伤害的几率。#
 215#AttriTipDic_HuaJie#降低暴击伤害触发几率。#
-216#AttriTipDic_Yin#当使用阴属性招式，角色进入阴属性状态，此时角色获得阴属性战斗加成和一些特殊效果：1：角色切换进入阴属性招式状态，此时攻击柔状态的角色会获得伤害比例加成。反之如果攻击阳属性偏向的，则伤害会走相抵系数。2：进入阴状态的角色需要相合的内功进行配合：     相合：阴状态需要阴偏向的内功来催动，进入内功-招式相合状态。     相克：阴状态的的技能如果使用阳偏向、柔偏向的内功，自身会根据阴属性与柔、阳属性的差距出现气血不畅或是气血贯通。     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。3#
-217#AttriTipDic_Yang#当使用阳属性招式，角色进入阳属性状，此时角色获得阳属性战斗加成和一些特殊效果：1：角色切换进入阳属性招式状态，此时攻击阴状态的角色会获得伤害比例加成。反之如果攻击毒属性偏向的，则伤害会走相抵系数。2：进入阳状态的角色需要相生或者相合的属性的心法进行配合：     相合：阳状态需要阳偏向的内功来催动，进入内功-招式相合状态。     相克：阳状态的的技能如果使用阴偏向、毒偏向的内功，自身会根据阳属性与阴、毒属性的差距出现气血不畅或是气血贯通。     相生：没有任何生克的内功和招式搭配，没有任何特#
-218#AttriTipDic_Gang#当使用刚属性招式，角色进入刚属性状态，此时角色获得刚属性加成和一些特殊效果：1：角色切换进入刚属性招式状态，此时攻击毒状态的角色会获得伤害比例加成。反之如果攻击柔属性偏向的，则伤害会走相抵系数。2：进入刚状态的角色需要相合的内功进行配合：     相合：刚状态需要刚偏向的内功来催动，进入内功-招式相合状态。     相克：刚状态的的技能如果使用柔偏向、毒偏向的内功，自身会根据刚属性与柔、毒属性的差距出现气血不畅或是气血贯通。     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。3：刚#
-219#AttriTipDic_Rou#当使用柔属性招式，角色进入柔属性状态，此时角色获得柔属性加成和一些特殊效果：1：角色切换进入柔属性招式状态，此时攻击刚状态的角色会获得伤害比例加成。反之如果攻击阴属性偏向的，则伤害会走相抵系数。2：进入柔状态的角色需要相合的内功进行配合：     相合：柔状态需要柔偏向的内功来催动，进入内功-招式相合状态。     相克：柔状态的的技能如果使用刚偏向、阴偏向的内功，自身会根据柔属性与阴、刚属性的差距出现气血不畅或是气血贯通。     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。3：柔#
-220#AttriTipDic_Du#当使用毒属性招式，角色进入毒属性状态，此时角色获得毒属性加成和一些特殊效果：1：角色切换进入毒属性属性招式状态，此时攻击阳状态的角色会获得伤害比例加成。反之如果攻击刚属性偏向的，则伤害会走相抵系数。2：进入毒状态的角色需要相合的内功进行配合：     相合：毒状态需要毒偏向的内功来催动，进入内功-招式相合状态。     相克：毒状态的的技能如果使用刚偏向、阳偏向的内功，自身会根据毒属性与阳、刚属性的差距出现气血不畅或是气血贯通。     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。3#
+216#AttriTipDic_Yin#当使用阴属性招式，角色进入阴属性状态，此时角色获得阴属性战斗加成和一些特殊效果：1：角色切换进入阴属性招式状态，此时攻击柔状态的角色会获得伤害比例加成。反之如果攻击阳属性偏向的，则伤害会走相抵系数。2：进入阴状态的角色需要相合的内功进行配合：     相合：阴状态需要阴偏向的内功来催动，进入内功-招式相合状态。     相克：阴状态的的技能如果使用阳偏向、柔偏向的内功，自身会根据阴属性与柔、阳属性的差距出现气血不畅或是气血贯通。     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。3：阴属性达到一定程度后开启冰封效果，相合状态下，每次阴属性攻击会累加自身阴属性与阳、柔属性的差值，累加值达到2300触发冰封，对自身周围敌人施加一个霜冻效果。     霜冻：冻住目标，使目标无法进行任何动作，持续一段时间。#
+217#AttriTipDic_Yang#当使用阳属性招式，角色进入阳属性状，此时角色获得阳属性战斗加成和一些特殊效果：1：角色切换进入阳属性招式状态，此时攻击阴状态的角色会获得伤害比例加成。反之如果攻击毒属性偏向的，则伤害会走相抵系数。2：进入阳状态的角色需要相生或者相合的属性的心法进行配合：     相合：阳状态需要阳偏向的内功来催动，进入内功-招式相合状态。     相克：阳状态的的技能如果使用阴偏向、毒偏向的内功，自身会根据阳属性与阴、毒属性的差距出现气血不畅或是气血贯通。     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。3：阳属性达到一定程度后开启焚烧效果，相合状态下，每次阳属性攻击会累加自身阳属性与阴、毒属性的差值，累加值达1250触发焚烧，对自身周围敌人施加一个灼烧效果。     灼烧：每秒造成自身阳属性一定比例伤害。#
+218#AttriTipDic_Gang#当使用刚属性招式，角色进入刚属性状态，此时角色获得刚属性加成和一些特殊效果：1：角色切换进入刚属性招式状态，此时攻击毒状态的角色会获得伤害比例加成。反之如果攻击柔属性偏向的，则伤害会走相抵系数。2：进入刚状态的角色需要相合的内功进行配合：     相合：刚状态需要刚偏向的内功来催动，进入内功-招式相合状态。     相克：刚状态的的技能如果使用柔偏向、毒偏向的内功，自身会根据刚属性与柔、毒属性的差距出现气血不畅或是气血贯通。     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。3：刚属性达到一定程度可以开启无坚不摧，相合状态下，每次刚属性攻击会累加自身刚属性与柔、毒属性的差值，累加值达到1550触发猛攻。     猛攻：持续时间内，提升5%暴击几率，可叠加至10层。#
+219#AttriTipDic_Rou#当使用柔属性招式，角色进入柔属性状态，此时角色获得柔属性加成和一些特殊效果：1：角色切换进入柔属性招式状态，此时攻击刚状态的角色会获得伤害比例加成。反之如果攻击阴属性偏向的，则伤害会走相抵系数。2：进入柔状态的角色需要相合的内功进行配合：     相合：柔状态需要柔偏向的内功来催动，进入内功-招式相合状态。     相克：柔状态的的技能如果使用刚偏向、阴偏向的内功，自身会根据柔属性与阴、刚属性的差距出现气血不畅或是气血贯通。     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。3：柔属性达到一定程度可以开启柔化万物，相合状态下，每次柔属性攻击会累加自身柔属性与阴、刚属性的差值，累加值达到1800触发化解。     化解：持续时间内免疫负面效果。#
+220#AttriTipDic_Du#当使用毒属性招式，角色进入毒属性状态，此时角色获得毒属性加成和一些特殊效果：1：角色切换进入毒属性属性招式状态，此时攻击阳状态的角色会获得伤害比例加成。反之如果攻击刚属性偏向的，则伤害会走相抵系数。2：进入毒状态的角色需要相合的内功进行配合：     相合：毒状态需要毒偏向的内功来催动，进入内功-招式相合状态。     相克：毒状态的的技能如果使用刚偏向、阳偏向的内功，自身会根据毒属性与阳、刚属性的差距出现气血不畅或是气血贯通。     相生：没有任何生克的内功和招式搭配，没有任何特殊作用。3：毒属性达到一定程度后开启枯萎效果，相合状态下，每次毒属性攻击会累加自身毒属性与刚、阳属性的差值，累加值达到1550触发毒瘴。     毒瘴：对周围目标施加瘴气效果，持续时间内减少目标治疗效果、降低目标输出、使目标受伤增加。#
 221#AttriTipDic_QingGongMax#轻功决定了移动速度和开启各种高级轻功的能力。#
 222#AttriTipDic_WuXing#影响学习能力和战斗获得感悟的多少。#
 223#AttriTipDic_YuanQi#增加大量真气，并少量增加内防和化解。#
@@ -1330,9 +1330,9 @@
 1330#costunsatisfied#消耗不满足#
 1331#joined#你加入了{0}#
 1332#left#你离开了{0}#
-1333#became#你成为了{0}#
+1333#became#你成为了{0}{1}#
 1334#shili#势力[{0}]好感度{1}{2},当前好感:{3}#
-1335#dizi#你成为了{0}{1}{2}#
+1335#dizi#弟子#
 1336#renge#人格#
 1337#thinking#容我考虑。#
 1338#naxian_1#关于这件事的的话……（{0}）应该会很合适吧。#
@@ -1498,7 +1498,7 @@
 1498#jingpaifail#{0}竞拍失败#
 1499#spend#花费#
 1500#lockguapai#解锁此挂牌格，需要达到以下条件：与{0}好感度达到{1}/{2}不夜京贡献值{3}/{4}#
-1501#lockguapai2#解锁此挂牌格，需要达到以下条件：与0好感度达到1/2不夜京贡献值3/4花费铜钱5/6花费龙角令7/8#
+1501#lockguapai2#解锁此挂牌格，需要达到以下条件：与{0}好感度达到{1}/{2}不夜京贡献值{3}/{4}花费铜钱{5}/{6}花费龙角令{7}/{8}#
 1502#refreshsuccess#刷新成功,刷新次数剩余{0}次#
 1503#norefreshtimes#刷新次数不足#
 1504#mytanwei#我的摊位    {0}/{1}#
@@ -2167,6 +2167,16 @@
 2167#plot#剧情#
 2168#identity2#身份#
 2169#tansuo#探索#
+2170#kaishipaimai#开始拍卖#
+2171#jingpai#竞拍#
+2172#yazhoubaowu#压轴宝物???#
+2173#shangjia#上架#
+2174#xiajia#下架#
+2175#shouchu#售出#
+2176#jiage#价格#
+2177#pingjinidentity2#{0}已达到瓶颈,提升身份后方可突破瓶颈#
+2178#inheritPoint#继承点数：{0}#
+2179#getinheritpoint#获得继承点#
 100001#ActionState/ActionProgress/Text#进度：#
 100002#ActionState/Image/TxtState#垂钓中......#
 100003#ActionState/PerformerObj/Performer/Text#爵士舞攻#
@@ -2528,7 +2538,7 @@
 100359#jingjiePartNew 1/mask/DiLan/XiuWeiText#修为：10000#
 100360#jingjiePartNew 1/mask/DiLan/GanwuText#感悟：10000#
 100361#jingjiePartNew 1/mask/ShouJiLvText#收集率：10000#
-100362#jingjiePartNew 1/mask/Tip/Text (TMP)#帮助信息：1、境界是经脉提升到一定强度之后激活的等级效果，<color=3ad67c>满足条件</color>激活境界可获得<color=3ad67c>额外的属性</color>。2、激活境界的条件除了最基本的修为值需求外，还分为两个，<color=3ad67c>固定属性</color>包含<color=3ad67c>境界丹，打通的经脉和属性值</color>，<color=3ad67c>特殊属性</color>包含<color=3ad67c>属性丹药和更高的属性值</color>，同时只有<colo#
+100362#jingjiePartNew 1/mask/Tip/Text (TMP)#帮助信息：1、境界是经脉提升到一定强度之后激活的等级效果，<color=3ad67c>满足条件</color>激活境界可获得<color=3ad67c>额外的属性</color>。2、激活境界的条件除了最基本的修为值需求外，还分为两个，<color=3ad67c>固定属性</color>包含<color=3ad67c>境界丹，打通的经脉和属性值</color>，<color=3ad67c>特殊属性</color>包含<color=3ad67c>属性丹药和更高的属性值</color>，同时只有<color=3ad67c>满足固定属性的条件</color>才可查看。3、固定属性中的<color=3ad67c>境界丹</color>可在少侠的<color=3ad67c>旅程中</color>获得，也可在<color=3ad67c>杂货商，游吟商人</color>购买。有传言说有些<color=3ad67c>强力敌人</color>也会随身携带，也有人在一些<color=3ad67c>隐秘的宝箱</color>中找到过。4、特殊属性中的<color=3ad67c>属性丹药</color>可通过<color=3ad67c>习得配方自行炼制</color>，也可在少侠的<color=3ad67c>旅程中</color>获得，也可在<color=3ad67c>杂货商，游吟商人</color>购买。有传言说有些<color=3ad67c>强力敌人</color>也会随身携带，也有人在一些<color=3ad67c>隐秘的宝箱</color>中找到过。#
 100363#jingjiePartNew 1/mask/btn_tip/Text (TMP)#境界介绍#
 100364#jingjiePartNew 1/SelectXinFaPanel/Title/Text (TMP)#心法选择#
 100365#jingjiePartNew 1/SelectXinFaPanel/Scroll View/Viewport/Content/XinFaItem/XinFaText#心法：#
@@ -2660,7 +2670,7 @@
 100491#jingmaiPartNew/jingmai/Scroll View/Viewport/Content/partGraph/item/name#任脉#
 100492#jingmaiPartNew/jingmai/zhenli/Text (TMP)#真力值#
 100493#jingmaiPartNew/jingmai/zhenli/valueText#1200/12000#
-100494#jingmaiPartNew/jingmai/TipBg/Text (TMP)#帮助信息：1、满足修为和前置经脉点位条件即可进行激活操作。2、激活时可添加心法附加特殊属性，可添加秘卷附加隐藏属性。3、添加秘卷时会新增秘卷使用条件，只有额外满足秘卷的使用条件才可激活。4、激活后可针对特殊属性、附加属性进行洗练，以获得更适合自己的属性。洗练时必须添加对应的心法或秘卷。5、激活经脉主界面上的六条经脉后方可对任督二脉进行激活操作。八条经脉都全部激活才可进行五脏激活。6、点击中心的双鱼图标可进入任督二脉和心法配置界面。外圈为任督二脉点位，中心为心法配置。7、配置心法会获得对应的真#
+100494#jingmaiPartNew/jingmai/TipBg/Text (TMP)#帮助信息：1、满足修为和前置经脉点位条件即可进行激活操作。2、激活时可添加心法附加特殊属性，可添加秘卷附加隐藏属性。3、添加秘卷时会新增秘卷使用条件，只有额外满足秘卷的使用条件才可激活。4、激活后可针对特殊属性、附加属性进行洗练，以获得更适合自己的属性。洗练时必须添加对应的心法或秘卷。5、激活经脉主界面上的六条经脉后方可对任督二脉进行激活操作。八条经脉都全部激活才可进行五脏激活。6、点击中心的双鱼图标可进入任督二脉和心法配置界面。外圈为任督二脉点位，中心为心法配置。7、配置心法会获得对应的真力值，主心法获得百分百的真力效果，辅心法获得百分之三十的真力效果。最多可保存三套心法配置。8、配置了心法后可进行经脉的周天运行和五脏淬炼。周天运行可获得额外的效果，淬炼过的五脏属性才会生效。9、经脉周天运行必须满足至少三个点位组成的循环才会生效。没有属性效果的周天运行无法生效。#
 100495#jingmaiPartNew/jingmaiRenDu/partGraph/Scroll View/Viewport/Content/partGraph/renmai/Text (TMP)#任脉#
 100496#jingmaiPartNew/jingmaiRenDu/partGraph/Scroll View/Viewport/Content/partGraph/dumai/Text (TMP)#督脉#
 100497#jingmaiPartNew/jingmaiRenDu/partGraph/Scroll View/Viewport/Content/partGraph/planpart/toggroup/taolu1/Background/Checkmark/text#套路1#
@@ -3648,7 +3658,7 @@
 101479#jingjiePartNew/mask/DiLan/XiuWeiText#修为：10000#
 101480#jingjiePartNew/mask/DiLan/GanwuText#感悟：10000#
 101481#jingjiePartNew/mask/ShouJiLvText#收集率：10000#
-101482#jingjiePartNew/mask/Tip/Text (TMP)#帮助信息：1、境界是经脉提升到一定强度之后激活的等级效果，<color=3ad67c>满足条件</color>激活境界可获得<color=3ad67c>额外的属性</color>。2、激活境界的条件除了最基本的修为值需求外，还分为两个，<color=3ad67c>固定属性</color>包含<color=3ad67c>境界丹，打通的经脉和属性值</color>，<color=3ad67c>特殊属性</color>包含<color=3ad67c>属性丹药和更高的属性值</color>，同时只有<colo#
+101482#jingjiePartNew/mask/Tip/Text (TMP)#帮助信息：1、境界是经脉提升到一定强度之后激活的等级效果，<color=3ad67c>满足条件</color>激活境界可获得<color=3ad67c>额外的属性</color>。2、激活境界的条件除了最基本的修为值需求外，还分为两个，<color=3ad67c>固定属性</color>包含<color=3ad67c>境界丹，打通的经脉和属性值</color>，<color=3ad67c>特殊属性</color>包含<color=3ad67c>属性丹药和更高的属性值</color>，同时只有<color=3ad67c>满足固定属性的条件</color>才可查看。3、固定属性中的<color=3ad67c>境界丹</color>可在少侠的<color=3ad67c>旅程中</color>获得，也可在<color=3ad67c>杂货商，游吟商人</color>购买。有传言说有些<color=3ad67c>强力敌人</color>也会随身携带，也有人在一些<color=3ad67c>隐秘的宝箱</color>中找到过。4、特殊属性中的<color=3ad67c>属性丹药</color>可通过<color=3ad67c>习得配方自行炼制</color>，也可在少侠的<color=3ad67c>旅程中</color>获得，也可在<color=3ad67c>杂货商，游吟商人</color>购买。有传言说有些<color=3ad67c>强力敌人</color>也会随身携带，也有人在一些<color=3ad67c>隐秘的宝箱</color>中找到过。#
 101483#jingjiePartNew/mask/btn_tip/Text (TMP)#境界介绍#
 101484#jingjiePartNew/SelectXinFaPanel/Title/Text (TMP)#心法选择#
 101485#jingjiePartNew/SelectXinFaPanel/Scroll View/Viewport/Content/XinFaItem/XinFaText#心法：#
@@ -3774,7 +3784,7 @@
 101605#jingmaiPartNew/jingmai/tip/Text (TMP)#点击中心<color=D7924A>双鱼图标</color>，可切换到心法配置#
 101606#jingmaiPartNew/jingmai/zhenli/Text (TMP)#真力值#
 101607#jingmaiPartNew/jingmai/zhenli/valueText#1200/12000#
-101608#jingmaiPartNew/jingmai/TipBg/Scroll View/Viewport/Content/Text (TMP)#帮助信息：1、满足修为和前置经脉点位条件即可进行激活操作。2、激活时可添加心法附加特殊属性，可添加秘卷附加隐藏属性。3、添加秘卷时会新增秘卷使用条件，只有额外满足秘卷的使用条件才可激活。4、激活后可针对特殊属性、附加属性进行洗练，以获得更适合自己的属性。洗练时必须添加对应的心法或秘卷。5、激活经脉主界面上的六条经脉后方可对任督二脉进行激活操作。八条经脉都全部激活才可进行五脏激活。6、点击中心的双鱼图标可进入任督二脉和心法配置界面。外圈为任督二脉点位，中心为心法配置。7、配置心法会获得对应的真#
+101608#jingmaiPartNew/jingmai/TipBg/Scroll View/Viewport/Content/Text (TMP)#帮助信息：1、满足修为和前置经脉点位条件即可进行激活操作。2、激活时可添加心法附加特殊属性，可添加秘卷附加隐藏属性。3、添加秘卷时会新增秘卷使用条件，只有额外满足秘卷的使用条件才可激活。4、激活后可针对特殊属性、附加属性进行洗练，以获得更适合自己的属性。洗练时必须添加对应的心法或秘卷。5、激活经脉主界面上的六条经脉后方可对任督二脉进行激活操作。八条经脉都全部激活才可进行五脏激活。6、点击中心的双鱼图标可进入任督二脉和心法配置界面。外圈为任督二脉点位，中心为心法配置。7、配置心法会获得对应的真力值，主心法获得百分百的真力效果，辅心法获得百分之三十的真力效果。最多可保存三套心法配置。8、配置了心法后可进行经脉的周天运行和五脏淬炼。周天运行可获得额外的效果，淬炼过的五脏属性才会生效。9、经脉周天运行必须满足至少三个点位组成的循环才会生效。没有属性效果的周天运行无法生效。#
 101609#jingmaiPartNew/jingmaiRenDu/partGraph/Scroll View/Viewport/Content/partGraph/renmai/Text (TMP)#任脉#
 101610#jingmaiPartNew/jingmaiRenDu/partGraph/Scroll View/Viewport/Content/partGraph/dumai/Text (TMP)#督脉#
 101611#jingmaiPartNew/jingmaiRenDu/partGraph/Scroll View/Viewport/Content/partGraph/planpart/toggroup/taolu1/Background/Checkmark/text#套路1#
@@ -10965,7 +10975,7 @@
 108796#LearnViewNew/PartRoot/jingjiePartNew/mask/DiLan/XiuWeiText#修为：10000#
 108797#LearnViewNew/PartRoot/jingjiePartNew/mask/DiLan/GanwuText#感悟：10000#
 108798#LearnViewNew/PartRoot/jingjiePartNew/mask/ShouJiLvText#收集率：10000#
-108799#LearnViewNew/PartRoot/jingjiePartNew/mask/Tip/Text (TMP)#帮助信息：1、境界是经脉提升到一定强度之后激活的等级效果，<color=3ad67c>满足条件</color>激活境界可获得<color=3ad67c>额外的属性</color>。2、激活境界的条件除了最基本的修为值需求外，还分为两个，<color=3ad67c>固定属性</color>包含<color=3ad67c>境界丹，打通的经脉和属性值</color>，<color=3ad67c>特殊属性</color>包含<color=3ad67c>属性丹药和更高的属性值</color>，同时只有<colo#
+108799#LearnViewNew/PartRoot/jingjiePartNew/mask/Tip/Text (TMP)#帮助信息：1、境界是经脉提升到一定强度之后激活的等级效果，<color=3ad67c>满足条件</color>激活境界可获得<color=3ad67c>额外的属性</color>。2、激活境界的条件除了最基本的修为值需求外，还分为两个，<color=3ad67c>固定属性</color>包含<color=3ad67c>境界丹，打通的经脉和属性值</color>，<color=3ad67c>特殊属性</color>包含<color=3ad67c>属性丹药和更高的属性值</color>，同时只有<color=3ad67c>满足固定属性的条件</color>才可查看。3、固定属性中的<color=3ad67c>境界丹</color>可在少侠的<color=3ad67c>旅程中</color>获得，也可在<color=3ad67c>杂货商，游吟商人</color>购买。有传言说有些<color=3ad67c>强力敌人</color>也会随身携带，也有人在一些<color=3ad67c>隐秘的宝箱</color>中找到过。4、特殊属性中的<color=3ad67c>属性丹药</color>可通过<color=3ad67c>习得配方自行炼制</color>，也可在少侠的<color=3ad67c>旅程中</color>获得，也可在<color=3ad67c>杂货商，游吟商人</color>购买。有传言说有些<color=3ad67c>强力敌人</color>也会随身携带，也有人在一些<color=3ad67c>隐秘的宝箱</color>中找到过。#
 108800#LearnViewNew/PartRoot/jingjiePartNew/mask/btn_tip/Text (TMP)#境界介绍#
 108801#LearnViewNew/PartRoot/jingjiePartNew/SelectXinFaPanel/Title/Text (TMP)#心法选择#
 108802#LearnViewNew/PartRoot/jingjiePartNew/SelectXinFaPanel/Scroll View/Viewport/Content/XinFaItem/XinFaText#心法：#
@@ -11313,7 +11323,7 @@
 109144#LearnViewNew/PartRoot/jingmaiPartNew/jingmai/Scroll View/Viewport/Content/partGraph/item/name#任脉#
 109145#LearnViewNew/PartRoot/jingmaiPartNew/jingmai/zhenli/Text (TMP)#真力值#
 109146#LearnViewNew/PartRoot/jingmaiPartNew/jingmai/zhenli/valueText#1200/12000#
-109147#LearnViewNew/PartRoot/jingmaiPartNew/jingmai/TipBg/Text (TMP)#帮助信息：1、满足修为和前置经脉点位条件即可进行激活操作。2、激活时可添加心法附加特殊属性，可添加秘卷附加隐藏属性。3、添加秘卷时会新增秘卷使用条件，只有额外满足秘卷的使用条件才可激活。4、激活后可针对特殊属性、附加属性进行洗练，以获得更适合自己的属性。洗练时必须添加对应的心法或秘卷。5、激活经脉主界面上的六条经脉后方可对任督二脉进行激活操作。八条经脉都全部激活才可进行五脏激活。6、点击中心的双鱼图标可进入任督二脉和心法配置界面。外圈为任督二脉点位，中心为心法配置。7、配置心法会获得对应的真#
+109147#LearnViewNew/PartRoot/jingmaiPartNew/jingmai/TipBg/Text (TMP)#帮助信息：1、满足修为和前置经脉点位条件即可进行激活操作。2、激活时可添加心法附加特殊属性，可添加秘卷附加隐藏属性。3、添加秘卷时会新增秘卷使用条件，只有额外满足秘卷的使用条件才可激活。4、激活后可针对特殊属性、附加属性进行洗练，以获得更适合自己的属性。洗练时必须添加对应的心法或秘卷。5、激活经脉主界面上的六条经脉后方可对任督二脉进行激活操作。八条经脉都全部激活才可进行五脏激活。6、点击中心的双鱼图标可进入任督二脉和心法配置界面。外圈为任督二脉点位，中心为心法配置。7、配置心法会获得对应的真力值，主心法获得百分百的真力效果，辅心法获得百分之三十的真力效果。最多可保存三套心法配置。8、配置了心法后可进行经脉的周天运行和五脏淬炼。周天运行可获得额外的效果，淬炼过的五脏属性才会生效。9、经脉周天运行必须满足至少三个点位组成的循环才会生效。没有属性效果的周天运行无法生效。#
 109148#LearnViewNew/PartRoot/jingmaiPartNew/jingmaiRenDu/partGraph/Scroll View/Viewport/Content/partGraph/renmai/Text (TMP)#任脉#
 109149#LearnViewNew/PartRoot/jingmaiPartNew/jingmaiRenDu/partGraph/Scroll View/Viewport/Content/partGraph/dumai/Text (TMP)#督脉#
 109150#LearnViewNew/PartRoot/jingmaiPartNew/jingmaiRenDu/partGraph/Scroll View/Viewport/Content/partGraph/planpart/toggroup/taolu1/Background/Checkmark/text#套路1#
@@ -12132,7 +12142,7 @@
 109963#LoginViewNew/Image/Text (TMP)#温馨提示：本游戏因为采用付费买断制盈利，不需要联网就可以进行游戏，为贯彻落实防沉迷相关政策，固而使用未成年人不能进行游戏的方式进行防止未成年人沉迷游戏。   #
 109964#LoginViewNew/Image/title#适龄提示#
 109965#LoginViewNew/Image/Image (1)/Text (TMP)#确定#
-109966#LoginViewNew/Image/Scroll View/Viewport/Content/text#       1、本游戏是一款单机武侠游戏，采用付费买断制盈利，不需要联网就可以进行游戏，为贯彻落实防沉送相关政策，故本游戏仅适用于年满18周岁及以上年龄的用户，实名认证为未成年人的用户不能进行游戏，但家长仍可在了解游戏内容的前提下，指导并监督已满16周岁但未满18周岁的青少年适度体验，引导其正确认识游戏中的武侠精神和传统文化，同时避免过度沉迷。       2、本游戏以传统武侠文化为题材背景，围绕主角为了寻找身世，行侠仗义的剧情展开。游戏内人物、场景、道具设计等创作融入了中国传统民俗文化元素，有助#
+109966#LoginViewNew/Image/Scroll View/Viewport/Content/text#       1、本游戏是一款单机武侠游戏，采用付费买断制盈利，不需要联网就可以进行游戏，为贯彻落实防沉送相关政策，故本游戏仅适用于年满18周岁及以上年龄的用户，实名认证为未成年人的用户不能进行游戏，但家长仍可在了解游戏内容的前提下，指导并监督已满16周岁但未满18周岁的青少年适度体验，引导其正确认识游戏中的武侠精神和传统文化，同时避免过度沉迷。       2、本游戏以传统武侠文化为题材背景，围绕主角为了寻找身世，行侠仗义的剧情展开。游戏内人物、场景、道具设计等创作融入了中国传统民俗文化元素，有助于玩家了解认识中国传统文化。      3、根据《中华人民共和国未成年人保护法(2020修订)》《关于进一步严格管理切实防止未成年人沉迷网络游戏的通知》《关于开展文娱领域综合治理工作的通知》等要求，本游戏实行严格的实名认证制度。未成年人用户将无法进行游戏登录和充值操作。      4、本游戏适合18周岁及以上、对武侠文化有浓厚兴趣的成年玩家。游戏中丰富的剧情、精彩的玩法和深度的文化内涵将为您带来沉浸式的武侠体验。同时，我们也提醒广大玩家合理安排游戏时间，享受健康的游戏生活。#
 109967#LoginViewNew/banbenbg/banbentext#当前版本:1.00#
 109968#LoginViewNew/screen/bgyapin/Title#选择语言包#
 109969#LoginViewNew/screen/bgyapin/root/item/title#中文#
@@ -12157,7 +12167,7 @@
 109988#LoginViewNew_mobile/content/Image/Text (TMP)#温馨提示：本游戏因为采用付费买断制盈利，不需要联网就可以进行游戏，为贯彻落实防沉迷相关政策，固而使用未成年人不能进行游戏的方式进行防止未成年人沉迷游戏。   #
 109989#LoginViewNew_mobile/content/Image/title#适龄提示#
 109990#LoginViewNew_mobile/content/Image/Image (1)/Text (TMP)#确定#
-109991#LoginViewNew_mobile/content/Image/Scroll View/Viewport/Content/text#       1、本游戏是一款单机武侠游戏，采用付费买断制盈利，不需要联网就可以进行游戏，为贯彻落实防沉送相关政策，故本游戏仅适用于年满18周岁及以上年龄的用户，实名认证为未成年人的用户不能进行游戏，但家长仍可在了解游戏内容的前提下，指导并监督已满16周岁但未满18周岁的青少年适度体验，引导其正确认识游戏中的武侠精神和传统文化，同时避免过度沉迷。       2、本游戏以传统武侠文化为题材背景，围绕主角为了寻找身世，行侠仗义的剧情展开。游戏内人物、场景、道具设计等创作融入了中国传统民俗文化元素，有助#
+109991#LoginViewNew_mobile/content/Image/Scroll View/Viewport/Content/text#       1、本游戏是一款单机武侠游戏，采用付费买断制盈利，不需要联网就可以进行游戏，为贯彻落实防沉送相关政策，故本游戏仅适用于年满18周岁及以上年龄的用户，实名认证为未成年人的用户不能进行游戏，但家长仍可在了解游戏内容的前提下，指导并监督已满16周岁但未满18周岁的青少年适度体验，引导其正确认识游戏中的武侠精神和传统文化，同时避免过度沉迷。       2、本游戏以传统武侠文化为题材背景，围绕主角为了寻找身世，行侠仗义的剧情展开。游戏内人物、场景、道具设计等创作融入了中国传统民俗文化元素，有助于玩家了解认识中国传统文化。      3、根据《中华人民共和国未成年人保护法(2020修订)》《关于进一步严格管理切实防止未成年人沉迷网络游戏的通知》《关于开展文娱领域综合治理工作的通知》等要求，本游戏实行严格的实名认证制度。未成年人用户将无法进行游戏登录和充值操作。      4、本游戏适合18周岁及以上、对武侠文化有浓厚兴趣的成年玩家。游戏中丰富的剧情、精彩的玩法和深度的文化内涵将为您带来沉浸式的武侠体验。同时，我们也提醒广大玩家合理安排游戏时间，享受健康的游戏生活。#
 109992#LoginViewNew_mobile/content/copyright#出版物号：ISBN 978-7-498-13258-1 ICP备案号：蜀ICP备2020028310号-3A著作权人：成都忆墨轩网络科技有限公司    运营单位：成都忆墨轩网络科技有限公司抵制不良游戏，拒绝盗版游戏。主要自我保护，谨防上当受骗。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。#
 109993#LoginViewNew_mobile/content/banbenbg/banbentext#当前版本:1.00#
 109994#LoginViewNew_mobile/content/Announcement/name#公告#
@@ -18883,61 +18893,61 @@
 116714#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail/EquipDiscardObj/BtnCancel/Text#取消#
 116715#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail/DetailFabrication/title#制作用途#
 116716#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail/DetailFabrication/Scroll View/Viewport/TextDescription#此物可用于打造无心此物可用于打造无心此物可用于打#
-116717#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/quality/TextName#斩仙#
-116718#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/quality/ObjSell/Text#出售价格：#
-116719#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/quality/ObjSell/TextPrice#7000#
-116720#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/quality/BlackBG/TextQuality#品质：人阶-超一流武学#
-116721#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/quality/BlackBG/TextLevel#等级：#
-116722#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/quality/BlackBG/TextRequest#要求：#
-116723#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/quality/BlackBG/TextDurability#耐久#
-116724#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/TextDescription#此物吸收天地发的大大大大苏打大大大苏打大撒啊擦擦#
-116725#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/DetailFabrication/title# 制作用途#
-116726#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/DetailFabrication/TextDescription#此物可用于打造无心此物可用于打造无心此物可用于打#
-116727#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Text# 装备属性#
-116728#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttri0#外功#
-116729#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue00#9999#
-116730#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue0#9999#
-116731#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttri0#外功#
-116732#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue00#9999#
-116733#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue0#9999#
-116734#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttri0#外功#
-116735#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue00#9999#
-116736#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue0#9999#
-116737#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttri0#外功#
-116738#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue00#9999#
-116739#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue0#9999#
-116740#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/UsableAttri#外功#
-116741#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/UsableDes#外功#
-116742#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/EquipData/Tenacity/TextValue#100/1000#
-116743#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/EquipData/Tenacity/Text#坚韧#
-116744#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/EquipData/Sharp/TextValue#100/1000#
-116745#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/EquipData/Sharp/Text#锋锐#
-116746#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Citiao/Text#  词条属性#
-116747#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Citiao/NoWord#无效果#
-116748#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Citiao/Layout/EffectItem/WordText#<color=3AD67C>道生一，一生二，二生三，三生万物；提升玄机的速度增加+2(4)</color>#
-116749#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Citiao/Layout/EffectItem/WordText/name#吸血#
-116750#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/title (1)#  获取途径#
-116751#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/npcpos/UseDes (1)/TextDescription#王铁(1000，1000)#
-116752#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/sourceprefab/Scroll View/Viewport/Content/bg/TextDescription#一二三四五六七八九十一二三四五六七八九十#
-116753#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/sourceprefab/Scroll View/Viewport/Content/bg (1)/TextDescription#一二三四五六七八九十#
-116754#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/sourceprefab/Scroll View/Viewport/Content/bg (2)/TextDescription#一二三四五六七八九十#
-116755#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/sourceprefab/Scroll View/Viewport/Content/bg (3)/TextDescription#一二三四五六七八九十#
-116756#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/btngroup/ButtonDisCard/Text#丢弃#
-116757#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/btngroup/ButtonEquip/Text#装备#
-116758#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/btngroup/ButtonUse/Text#使用#
-116759#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/btngroup/ButtonYuShe/Text#使用#
-116760#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/btngroup/ButtonAdd/Text#添加#
-116761#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/Text#持有数量#
-116762#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/Amount/TextAmount#3/99#
-116763#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/DiscardObj/BtnMask/Text#Button#
-116764#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/DiscardObj/BtnSub/Text#Button#
-116765#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/DiscardObj/BtnAdd/Text#Button#
-116766#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/DiscardObj/BtnComfirm/Text#确认#
-116767#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/DiscardObj/BtnCancel/Text#取消#
-116768#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/EquipDiscardObj/BtnMask/Text#Button#
-116769#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/EquipDiscardObj/Text#此物品已装备，是否丢弃？#
-116770#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/EquipDiscardObj/BtnComfirm/Text#确认#
-116771#ShopViewNew_mobile/Root/mask/panels/node/right (1)/ItemDetail_mobile/EquipDiscardObj/BtnCancel/Text#取消#
+116717#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/quality/TextName#斩仙#
+116718#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/quality/ObjSell/Text#出售价格：#
+116719#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/quality/ObjSell/TextPrice#7000#
+116720#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/quality/BlackBG/TextQuality#品质：人阶-超一流武学#
+116721#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/quality/BlackBG/TextLevel#等级：#
+116722#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/quality/BlackBG/TextRequest#要求：#
+116723#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/quality/BlackBG/TextDurability#耐久#
+116724#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/TextDescription#此物吸收天地发的大大大大苏打大大大苏打大撒啊擦擦#
+116725#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/DetailFabrication/title# 制作用途#
+116726#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/DetailFabrication/TextDescription#此物可用于打造无心此物可用于打造无心此物可用于打#
+116727#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Text# 装备属性#
+116728#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttri0#外功#
+116729#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue00#9999#
+116730#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue0#9999#
+116731#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttri0#外功#
+116732#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue00#9999#
+116733#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue0#9999#
+116734#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttri0#外功#
+116735#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue00#9999#
+116736#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue0#9999#
+116737#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttri0#外功#
+116738#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue00#9999#
+116739#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue0#9999#
+116740#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/UsableAttri#外功#
+116741#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/UsableDes#外功#
+116742#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/EquipData/Tenacity/TextValue#100/1000#
+116743#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/EquipData/Tenacity/Text#坚韧#
+116744#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/EquipData/Sharp/TextValue#100/1000#
+116745#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/EquipData/Sharp/Text#锋锐#
+116746#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Citiao/Text#  词条属性#
+116747#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Citiao/NoWord#无效果#
+116748#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Citiao/Layout/EffectItem/WordText#<color=3AD67C>道生一，一生二，二生三，三生万物；提升玄机的速度增加+2(4)</color>#
+116749#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Citiao/Layout/EffectItem/WordText/name#吸血#
+116750#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/title (1)#  获取途径#
+116751#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/npcpos/UseDes (1)/TextDescription#王铁(1000，1000)#
+116752#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/sourceprefab/Scroll View/Viewport/Content/bg/TextDescription#一二三四五六七八九十一二三四五六七八九十#
+116753#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/sourceprefab/Scroll View/Viewport/Content/bg (1)/TextDescription#一二三四五六七八九十#
+116754#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/sourceprefab/Scroll View/Viewport/Content/bg (2)/TextDescription#一二三四五六七八九十#
+116755#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/sourceprefab/Scroll View/Viewport/Content/bg (3)/TextDescription#一二三四五六七八九十#
+116756#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/btngroup/ButtonDisCard/Text#丢弃#
+116757#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/btngroup/ButtonEquip/Text#装备#
+116758#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/btngroup/ButtonUse/Text#使用#
+116759#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/btngroup/ButtonYuShe/Text#使用#
+116760#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/bg/btngroup/ButtonAdd/Text#添加#
+116761#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/Text#持有数量#
+116762#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/Background/Amount/TextAmount#3/99#
+116763#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/DiscardObj/BtnMask/Text#Button#
+116764#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/DiscardObj/BtnSub/Text#Button#
+116765#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/DiscardObj/BtnAdd/Text#Button#
+116766#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/DiscardObj/BtnComfirm/Text#确认#
+116767#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/DiscardObj/BtnCancel/Text#取消#
+116768#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/EquipDiscardObj/BtnMask/Text#Button#
+116769#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/EquipDiscardObj/Text#此物品已装备，是否丢弃？#
+116770#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/EquipDiscardObj/BtnComfirm/Text#确认#
+116771#InheritView/Root/mask/panels/node/right (1)/ItemDetail_mobile/EquipDiscardObj/BtnCancel/Text#取消#
 116772#ShopViewNew_mobile/Root/mask/panels/node/left/Text#装备图鉴#
 116773#ShopViewNew_mobile/Root/mask/panels/node/left/smallTog/all/Text#全部#
 116774#ShopViewNew_mobile/Root/mask/panels/node/left/smallTog/all (1)/Text#典籍#
@@ -18946,7 +18956,7 @@
 116777#ShopViewNew_mobile/Root/mask/panels/node/left/smallTog/all (4)/Text#消耗#
 116778#ShopViewNew_mobile/Root/mask/panels/node/left/smallTog/all (5)/Text#材料#
 116779#ShopViewNew_mobile/Root/mask/panels/node/left/OSA/Viewport/Item/Views/level#一阶#
-116780#ShopViewNew_mobile/Root/mask/panels/node/left/OSA/Viewport/Item/Views/nameBg/name#青龙发生发大水#
+116780#InheritView/Root/mask/panels/node/left/OSA/Viewport/Item/Views/nameBg/name#青龙发生发大水#
 116781#ShopViewNew_mobile/Root/mask/panels/node/left/OSA/Viewport/Item/Views/amount#x 1#
 116782#ShopViewNew_mobile/Root/mask/panels/node/left/OSA/Viewport/Item/Views/GameObject/price#500#
 116783#ShopViewNew_mobile/Root/mask/panels/node/left/OSA/Viewport/Item/Views/yixuexi#已学习#
@@ -18954,10 +18964,10 @@
 116785#ShopViewNew_mobile/Root/mask/panels/node/left/FindRoot/InputField (TMP)/Text Area/Placeholder#搜索道具......#
 116786#ShopViewNew_mobile/Root/mask/panels/node/left/FindRoot/InputField (TMP)/Text Area/Text#​#
 116787#ShopViewNew_mobile/Root/mask/panels/node/left/PiLiangChuShouBtn/Text (TMP)#批量操作#
-116788#ShopViewNew_mobile/Root/mask/panels/node/left/PlayerInputField/Text Area/Placeholder##
-116789#ShopViewNew_mobile/Root/mask/panels/node/left/PlayerInputField/Text Area/Text#​#
-116790#ShopViewNew_mobile/Root/mask/panels/node/left/PlayerInputField/reduceBtn/Text (TMP)#-#
-116791#ShopViewNew_mobile/Root/mask/panels/node/left/PlayerInputField/addBtn/Text (TMP)#+#
+116788#InheritView/Root/mask/panels/node/right (1)/PlayerInputField/Text Area/Placeholder##
+116789#InheritView/Root/mask/panels/node/right (1)/PlayerInputField/Text Area/Text#​#
+116790#InheritView/Root/mask/panels/node/right (1)/PlayerInputField/reduceBtn/Text (TMP)#-#
+116791#InheritView/Root/mask/panels/node/right (1)/PlayerInputField/addBtn/Text (TMP)#+#
 116792#ShopViewNew_mobile/Root/mask/panels/node/left/GouMaiBtn/Text (TMP)#购买#
 116793#ShopViewNew_mobile/Root/mask/panels/node/left/GouMaiBtn/koucaipriceText#(口才-100)#
 116794#ShopViewNew_mobile/Root/mask/panels/node/left/ShuaXingBtn/Text (TMP)#刷新#
@@ -20186,115 +20196,115 @@
 118017#EditorMode/DetailInfo/edittrans/larger/Text#放大#
 118018#EditorMode/DetailInfo/edittrans/smaller/Text#缩小#
 118019#EditorMode/DetailInfo/edittrans/serch/Text#名称匹配数据#
-118020#ItemDetail/Background/Description/Viewport/TextDescription#此物吸收天地发的大大大大苏打大大大苏打大撒啊擦擦#
-118021#ItemDetail/Background/Equip/Image/Text#装备属性#
-118022#ItemDetail/Background/Equip/Attribute/AttriBG/TextAttri0#外功#
-118023#ItemDetail/Background/Equip/Attribute/AttriBG/TextAttriValue00#9999#
-118024#ItemDetail/Background/Equip/Attribute/AttriBG/TextAttriValue0#9999#
-118025#ItemDetail/Background/Equip/Attribute/AttriBG/TextAttri0#外功#
-118026#ItemDetail/Background/Equip/Attribute/AttriBG/TextAttriValue00#9999#
-118027#ItemDetail/Background/Equip/Attribute/AttriBG/TextAttriValue0#9999#
-118028#ItemDetail/Background/Equip/Attribute/AttriBG/TextAttri0#外功#
-118029#ItemDetail/Background/Equip/Attribute/AttriBG/TextAttriValue00#9999#
-118030#ItemDetail/Background/Equip/Attribute/AttriBG/TextAttriValue0#9999#
-118031#ItemDetail/Background/Equip/Attribute/AttriBG/TextAttri0#外功#
-118032#ItemDetail/Background/Equip/Attribute/AttriBG/TextAttriValue00#9999#
-118033#ItemDetail/Background/Equip/Attribute/AttriBG/TextAttriValue0#9999#
-118034#ItemDetail/Background/Equip/Attribute/UsableAttri#外功#
-118035#ItemDetail/Background/Equip/Attribute/UsableDes#外功#
-118036#ItemDetail/Background/Equip/EquipData/Tenacity/TextValue#100/1000#
-118037#ItemDetail/Background/Equip/EquipData/Tenacity/Text#坚韧#
-118038#ItemDetail/Background/Equip/EquipData/Sharp/TextValue#100/1000#
-118039#ItemDetail/Background/Equip/EquipData/Sharp/Text#锋锐#
-118040#ItemDetail/Background/Text#词条属性#
-118041#ItemDetail/Background/NoWord#无效果#
-118042#ItemDetail/Background/Layout/EffectItem/WordText#<color=3AD67C>道生一，一生二，二生三，三生万物；提升玄机的速度增加+2(4)</color>#
-118043#ItemDetail/Background/Layout/EffectItem/WordText/name#吸血#
-118044#ItemDetail/Background/ButtonDisCard/Text#丢弃#
-118045#ItemDetail/Background/ButtonEquip/Text#装备#
-118046#ItemDetail/Background/ButtonUse/Text#使用#
-118047#ItemDetail/Background/ObjSell/Text#出售价格：#
-118048#ItemDetail/Background/ObjSell/TextPrice#7000#
-118049#ItemDetail/Background/TextName#琉璃石#
-118050#ItemDetail/Background/BlackBG/TextLevel#等级#
-118051#ItemDetail/Background/BlackBG/TextQuality#品质:  人阶-超一流武学#
-118052#ItemDetail/Background/BlackBG/TextRequest#要求#
-118053#ItemDetail/Background/BlackBG/TextDurability#耐久#
-118054#ItemDetail/Background/Text#持有数量#
-118055#ItemDetail/Background/Amount/TextAmount#3/99#
-118056#ItemDetail/Background/title (1)#获取途径#
-118057#ItemDetail/Background/npcpos/UseDes (1)/TextDescription#王铁(1000，1000)#
-118058#ItemDetail/Background/npcpos/tip2/TextDescription (1)##
-118059#ItemDetail/Background/sourceprefab/Scroll View/Viewport/Content/bg/TextDescription#一二三四五六七八九十一二三四五六七八九十#
-118060#ItemDetail/Background/sourceprefab/Scroll View/Viewport/Content/bg (1)/TextDescription#一二三四五六七八九十#
-118061#ItemDetail/Background/sourceprefab/Scroll View/Viewport/Content/bg (2)/TextDescription#一二三四五六七八九十#
-118062#ItemDetail/Background/sourceprefab/Scroll View/Viewport/Content/bg (3)/TextDescription#一二三四五六七八九十#
-118063#ItemDetail/DiscardObj/BtnMask/Text#Button#
-118064#ItemDetail/DiscardObj/BtnSub/Text#Button#
-118065#ItemDetail/DiscardObj/BtnAdd/Text#Button#
-118066#ItemDetail/DiscardObj/BtnComfirm/Text#确认#
-118067#ItemDetail/DiscardObj/BtnCancel/Text#取消#
-118068#ItemDetail/EquipDiscardObj/BtnMask/Text#Button#
-118069#ItemDetail/EquipDiscardObj/Text#此物品已装备，是否丢弃？#
-118070#ItemDetail/EquipDiscardObj/BtnComfirm/Text#确认#
-118071#ItemDetail/EquipDiscardObj/BtnCancel/Text#取消#
-118072#ItemDetail/DetailFabrication/title#制作用途#
-118073#ItemDetail/DetailFabrication/Scroll View/Viewport/TextDescription#此物可用于打造无心此物可用于打造无心此物可用于打#
-118074#ItemDetail_mobile/Background/quality/TextName#斩仙#
-118075#ItemDetail_mobile/Background/quality/ObjSell/Text#出售价格：#
-118076#ItemDetail_mobile/Background/quality/ObjSell/TextPrice#7000#
-118077#ItemDetail_mobile/Background/quality/BlackBG/TextQuality#品质：人阶-超一流武学#
-118078#ItemDetail_mobile/Background/quality/BlackBG/TextLevel#等级：#
-118079#ItemDetail_mobile/Background/quality/BlackBG/TextRequest#要求：#
-118080#ItemDetail_mobile/Background/quality/BlackBG/TextDurability#耐久#
-118081#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/TextDescription#此物吸收天地发的大大大大苏打大大大苏打大撒啊擦擦#
-118082#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/DetailFabrication/title# 制作用途#
-118083#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/DetailFabrication/TextDescription#此物可用于打造无心此物可用于打造无心此物可用于打#
-118084#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Text# 装备属性#
-118085#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttri0#外功#
-118086#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue00#9999#
-118087#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue0#9999#
-118088#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttri0#外功#
-118089#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue00#9999#
-118090#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue0#9999#
-118091#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttri0#外功#
-118092#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue00#9999#
-118093#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue0#9999#
-118094#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttri0#外功#
-118095#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue00#9999#
-118096#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue0#9999#
-118097#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/UsableAttri#外功#
-118098#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/UsableDes#外功#
-118099#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/EquipData/Tenacity/TextValue#100/1000#
-118100#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/EquipData/Tenacity/Text#坚韧#
-118101#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/EquipData/Sharp/TextValue#100/1000#
-118102#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/EquipData/Sharp/Text#锋锐#
-118103#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Citiao/Text#  词条属性#
-118104#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Citiao/NoWord#无效果#
-118105#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Citiao/Layout/EffectItem/WordText#<color=3AD67C>道生一，一生二，二生三，三生万物；提升玄机的速度增加+2(4)</color>#
-118106#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Citiao/Layout/EffectItem/WordText/name#吸血#
-118107#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/title (1)#  获取途径#
-118108#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/npcpos/UseDes (1)/TextDescription#王铁(1000，1000)#
-118109#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/sourceprefab/Scroll View/Viewport/Content/bg/TextDescription#一二三四五六七八九十一二三四五六七八九十#
-118110#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/sourceprefab/Scroll View/Viewport/Content/bg (1)/TextDescription#一二三四五六七八九十#
-118111#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/sourceprefab/Scroll View/Viewport/Content/bg (2)/TextDescription#一二三四五六七八九十#
-118112#ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/sourceprefab/Scroll View/Viewport/Content/bg (3)/TextDescription#一二三四五六七八九十#
-118113#ItemDetail_mobile/Background/bg/btngroup/ButtonDisCard/Text#丢弃#
-118114#ItemDetail_mobile/Background/bg/btngroup/ButtonEquip/Text#装备#
-118115#ItemDetail_mobile/Background/bg/btngroup/ButtonUse/Text#使用#
-118116#ItemDetail_mobile/Background/bg/btngroup/ButtonYuShe/Text#使用#
-118117#ItemDetail_mobile/Background/bg/btngroup/ButtonAdd/Text#添加#
-118118#ItemDetail_mobile/Background/Text#持有数量#
-118119#ItemDetail_mobile/Background/Amount/TextAmount#3/99#
-118120#ItemDetail_mobile/DiscardObj/BtnMask/Text#Button#
-118121#ItemDetail_mobile/DiscardObj/BtnSub/Text#Button#
-118122#ItemDetail_mobile/DiscardObj/BtnAdd/Text#Button#
-118123#ItemDetail_mobile/DiscardObj/BtnComfirm/Text#确认#
-118124#ItemDetail_mobile/DiscardObj/BtnCancel/Text#取消#
-118125#ItemDetail_mobile/EquipDiscardObj/BtnMask/Text#Button#
-118126#ItemDetail_mobile/EquipDiscardObj/Text#此物品已装备，是否丢弃？#
-118127#ItemDetail_mobile/EquipDiscardObj/BtnComfirm/Text#确认#
-118128#ItemDetail_mobile/EquipDiscardObj/BtnCancel/Text#取消#
+118020#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Description/Viewport/TextDescription#此物吸收天地发的大大大大苏打大大大苏打大撒啊擦擦#
+118021#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Equip/Image/Text#装备属性#
+118022#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Equip/Attribute/AttriBG/TextAttri0#外功#
+118023#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Equip/Attribute/AttriBG/TextAttriValue00#9999#
+118024#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Equip/Attribute/AttriBG/TextAttriValue0#9999#
+118025#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Equip/Attribute/AttriBG/TextAttri0#外功#
+118026#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Equip/Attribute/AttriBG/TextAttriValue00#9999#
+118027#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Equip/Attribute/AttriBG/TextAttriValue0#9999#
+118028#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Equip/Attribute/AttriBG/TextAttri0#外功#
+118029#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Equip/Attribute/AttriBG/TextAttriValue00#9999#
+118030#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Equip/Attribute/AttriBG/TextAttriValue0#9999#
+118031#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Equip/Attribute/AttriBG/TextAttri0#外功#
+118032#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Equip/Attribute/AttriBG/TextAttriValue00#9999#
+118033#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Equip/Attribute/AttriBG/TextAttriValue0#9999#
+118034#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Equip/Attribute/UsableAttri#外功#
+118035#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Equip/Attribute/UsableDes#外功#
+118036#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Equip/EquipData/Tenacity/TextValue#100/1000#
+118037#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Equip/EquipData/Tenacity/Text#坚韧#
+118038#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Equip/EquipData/Sharp/TextValue#100/1000#
+118039#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Equip/EquipData/Sharp/Text#锋锐#
+118040#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Text#词条属性#
+118041#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/NoWord#无效果#
+118042#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Layout/EffectItem/WordText#<color=3AD67C>道生一，一生二，二生三，三生万物；提升玄机的速度增加+2(4)</color>#
+118043#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Layout/EffectItem/WordText/name#吸血#
+118044#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/ButtonDisCard/Text#丢弃#
+118045#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/ButtonEquip/Text#装备#
+118046#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/ButtonUse/Text#使用#
+118047#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/ObjSell/Text#出售价格：#
+118048#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/ObjSell/TextPrice#7000#
+118049#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/TextName#琉璃石#
+118050#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/BlackBG/TextLevel#等级#
+118051#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/BlackBG/TextQuality#品质:  人阶-超一流武学#
+118052#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/BlackBG/TextRequest#要求#
+118053#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/BlackBG/TextDurability#耐久#
+118054#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Text#持有数量#
+118055#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/Amount/TextAmount#3/99#
+118056#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/title (1)#获取途径#
+118057#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/npcpos/UseDes (1)/TextDescription#王铁(1000，1000)#
+118058#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/npcpos/tip2/TextDescription (1)##
+118059#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/sourceprefab/Scroll View/Viewport/Content/bg/TextDescription#一二三四五六七八九十一二三四五六七八九十#
+118060#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/sourceprefab/Scroll View/Viewport/Content/bg (1)/TextDescription#一二三四五六七八九十#
+118061#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/sourceprefab/Scroll View/Viewport/Content/bg (2)/TextDescription#一二三四五六七八九十#
+118062#AuctionHouseView/Panel_ItemDetail/ItemDetail/Background/sourceprefab/Scroll View/Viewport/Content/bg (3)/TextDescription#一二三四五六七八九十#
+118063#AuctionHouseView/Panel_ItemDetail/ItemDetail/DiscardObj/BtnMask/Text#Button#
+118064#AuctionHouseView/Panel_ItemDetail/ItemDetail/DiscardObj/BtnSub/Text#Button#
+118065#AuctionHouseView/Panel_ItemDetail/ItemDetail/DiscardObj/BtnAdd/Text#Button#
+118066#AuctionHouseView/Panel_ItemDetail/ItemDetail/DiscardObj/BtnComfirm/Text#确认#
+118067#AuctionHouseView/Panel_ItemDetail/ItemDetail/DiscardObj/BtnCancel/Text#取消#
+118068#AuctionHouseView/Panel_ItemDetail/ItemDetail/EquipDiscardObj/BtnMask/Text#Button#
+118069#AuctionHouseView/Panel_ItemDetail/ItemDetail/EquipDiscardObj/Text#此物品已装备，是否丢弃？#
+118070#AuctionHouseView/Panel_ItemDetail/ItemDetail/EquipDiscardObj/BtnComfirm/Text#确认#
+118071#AuctionHouseView/Panel_ItemDetail/ItemDetail/EquipDiscardObj/BtnCancel/Text#取消#
+118072#AuctionHouseView/Panel_ItemDetail/ItemDetail/DetailFabrication/title#制作用途#
+118073#AuctionHouseView/Panel_ItemDetail/ItemDetail/DetailFabrication/Scroll View/Viewport/TextDescription#此物可用于打造无心此物可用于打造无心此物可用于打#
+118074#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/quality/TextName#斩仙#
+118075#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/quality/ObjSell/Text#出售价格：#
+118076#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/quality/ObjSell/TextPrice#7000#
+118077#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/quality/BlackBG/TextQuality#品质：人阶-超一流武学#
+118078#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/quality/BlackBG/TextLevel#等级：#
+118079#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/quality/BlackBG/TextRequest#要求：#
+118080#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/quality/BlackBG/TextDurability#耐久#
+118081#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/TextDescription#此物吸收天地发的大大大大苏打大大大苏打大撒啊擦擦#
+118082#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/DetailFabrication/title# 制作用途#
+118083#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/DetailFabrication/TextDescription#此物可用于打造无心此物可用于打造无心此物可用于打#
+118084#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Text# 装备属性#
+118085#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttri0#外功#
+118086#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue00#9999#
+118087#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue0#9999#
+118088#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttri0#外功#
+118089#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue00#9999#
+118090#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue0#9999#
+118091#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttri0#外功#
+118092#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue00#9999#
+118093#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue0#9999#
+118094#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttri0#外功#
+118095#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue00#9999#
+118096#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/AttriBG/TextAttriValue0#9999#
+118097#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/UsableAttri#外功#
+118098#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/Attribute/UsableDes#外功#
+118099#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/EquipData/Tenacity/TextValue#100/1000#
+118100#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/EquipData/Tenacity/Text#坚韧#
+118101#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/EquipData/Sharp/TextValue#100/1000#
+118102#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Equip/EquipData/Sharp/Text#锋锐#
+118103#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Citiao/Text#  词条属性#
+118104#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Citiao/NoWord#无效果#
+118105#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Citiao/Layout/EffectItem/WordText#<color=3AD67C>道生一，一生二，二生三，三生万物；提升玄机的速度增加+2(4)</color>#
+118106#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Citiao/Layout/EffectItem/WordText/name#吸血#
+118107#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/title (1)#  获取途径#
+118108#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/npcpos/UseDes (1)/TextDescription#王铁(1000，1000)#
+118109#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/sourceprefab/Scroll View/Viewport/Content/bg/TextDescription#一二三四五六七八九十一二三四五六七八九十#
+118110#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/sourceprefab/Scroll View/Viewport/Content/bg (1)/TextDescription#一二三四五六七八九十#
+118111#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/sourceprefab/Scroll View/Viewport/Content/bg (2)/TextDescription#一二三四五六七八九十#
+118112#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/Scroll View/Viewport/Content/Source/sourceprefab/Scroll View/Viewport/Content/bg (3)/TextDescription#一二三四五六七八九十#
+118113#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/btngroup/ButtonDisCard/Text#丢弃#
+118114#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/btngroup/ButtonEquip/Text#装备#
+118115#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/btngroup/ButtonUse/Text#使用#
+118116#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/btngroup/ButtonYuShe/Text#使用#
+118117#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/bg/btngroup/ButtonAdd/Text#添加#
+118118#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/Text#持有数量#
+118119#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/Background/Amount/TextAmount#3/99#
+118120#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/DiscardObj/BtnMask/Text#Button#
+118121#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/DiscardObj/BtnSub/Text#Button#
+118122#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/DiscardObj/BtnAdd/Text#Button#
+118123#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/DiscardObj/BtnComfirm/Text#确认#
+118124#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/DiscardObj/BtnCancel/Text#取消#
+118125#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/EquipDiscardObj/BtnMask/Text#Button#
+118126#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/EquipDiscardObj/Text#此物品已装备，是否丢弃？#
+118127#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/EquipDiscardObj/BtnComfirm/Text#确认#
+118128#AuctionHouseView/Panel_ItemDetail/ItemDetail_mobile/EquipDiscardObj/BtnCancel/Text#取消#
 118129#mapPart/UI_Map/Text (TMP) (3)#子#
 118130#mapPart/UI_Map/Text (TMP) (4)#子#
 118131#mapPart/UI_Map/Text (TMP) (5)#巳#

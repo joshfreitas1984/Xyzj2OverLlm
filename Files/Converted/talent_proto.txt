@@ -398,14 +398,14 @@
   - split: 2
     text: "富贵荣华极品隆，公侯卿相在其中。获得金钱、修为、感悟<color=e0834c>增加20%</color>，伤害<color=e0854c>增加5%</color>，受到伤害<color=e0834c>降低5%</color>。"
     translated: "Wealth and honor, the ultimate in prestige, encompass lords and ministers. Gaining money, improving skills, and enhancing understanding increases by <color=e0834c>20%</color>; damage dealt is increased by <color=e0854c>5%</color>, while received damage is reduced by <color=e0834c>5%</color>."
-- raw: "51#福寿双全#不须愁虑苦劳心，又富又贵乐平生。大幅<color=e0834c>提升</color>自身暴击的几率和暴击伤害，诛心<color=e0834c>增加10%</color>，要害<color=e0834c>增加10%</color>，同时在暴击时可以触发额外吸血。#0#10490#0#0#0#0#4#1|2|3|4|25#0##0#0#150#"
+- raw: "51#福寿双全#富贵由天莫苦求，万金家计不须谋。学识<color=e0834c>增加25</color>，要害、真气<color=e0834c>增加75</color>，并且习得学识类属性的效果<color=e0834c>增加50%</color>。#0#10490#0#0#0#0#4#1|2|3|4|25#0##0#0#150#"
   splits:
   - split: 1
     text: "福寿双全"
     translated: "Fu and Shou both live long lives"
   - split: 2
-    text: "不须愁虑苦劳心，又富又贵乐平生。大幅<color=e0834c>提升</color>自身暴击的几率和暴击伤害，诛心<color=e0834c>增加10%</color>，要害<color=e0834c>增加10%</color>，同时在暴击时可以触发额外吸血。"
-    translated: "No need to worry or labor over hardships; enjoy a life of wealth and comfort. Greatly enhance your chances of critical hits and the damage from them, with Mind Attack increased by <color=e0834c>10%</color>, Vital Point increased by <color=e0834c>10%</color>, while triggering additional blood absorption upon landing a critical hit."
+    text: "富贵由天莫苦求，万金家计不须谋。学识<color=e0834c>增加25</color>，要害、真气<color=e0834c>增加75</color>，并且习得学识类属性的效果<color=e0834c>增加50%</color>。"
+    translated: "Fortune is bestowed by the heavens and should not be pursued with toil; wealth need not be planned for meticulously. Learnings <color=e0834c>increase by 25</color>, vital points, true Qi <color=e0834c>increase by 75</color>, and also gain an enhancement of effect for learning attributes of <color=e0834c>50%</color>."
 - raw: "52#紫薇天降#一生自有逍遥福，安享富贵胜班超。天生获得庇佑，战斗中有一定几率会获得上苍庇佑，获得<color=e0834c>免疫伤害</color>的能力，同时还可以获得<color=e0834c>福气加成</color>。#0#10510#0#0#0#0#4#1|2|3|4|5|25#0##0#0#210#"
   splits:
   - split: 1

@@ -454,7 +454,7 @@
   splits:
   - split: 3
     text: "贴图丢失 : "
-- raw: "ItemDetailView,ShowItem,5912,造成伤害,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
+- raw: "ItemDetailView,ShowItem,6136,造成伤害,[SweetPotato.Item，System.Boolean，System.Int32，SweetPotato.Item，System.Boolean]"
   splits:
   - split: 3
     text: "造成伤害"
@@ -486,10 +486,6 @@
   splits:
   - split: 3
     text: "支付宝回调"
-- raw: "AchievementTip,AddRewards,167,获得天赋点{0},[]"
-  splits:
-  - split: 3
-    text: "获得天赋点{0}"
 - raw: "AchievementView,CheckRedPoint,304,成就id={0}类型配置有误！,[]"
   splits:
   - split: 3
@@ -5842,18 +5838,18 @@
   splits:
   - split: 3
     text: "你离开了{0}"
-- raw: "ComString,.cctor,13320,你成为了{0},[]"
+- raw: "ComString,.cctor,13320,你成为了{0}{1},[]"
   splits:
   - split: 3
-    text: "你成为了{0}"
+    text: "你成为了{0}{1}"
 - raw: "ComString,.cctor,13330,势力[{0}]好感度{1}{2}，当前好感:{3},[]"
   splits:
   - split: 3
     text: "势力[{0}]好感度{1}{2}，当前好感:{3}"
-- raw: "ComString,.cctor,13340,你成为了{0}{1}{2},[]"
+- raw: "ComString,.cctor,13340,弟子,[]"
   splits:
   - split: 3
-    text: "你成为了{0}{1}{2}"
+    text: "弟子"
 - raw: "ComString,.cctor,13350,人格,[]"
   splits:
   - split: 3
@@ -9198,6 +9194,34 @@
   splits:
   - split: 3
     text: "价格"
+- raw: "ComString,.cctor,21777,{0}已达到瓶颈，提升身份后方可突破瓶颈,[]"
+  splits:
+  - split: 3
+    text: "{0}已达到瓶颈，提升身份后方可突破瓶颈"
+- raw: "ComString,.cctor,21787,继承点数：{0},[]"
+  splits:
+  - split: 3
+    text: "继承点数：{0}"
+- raw: "ComString,.cctor,21797,获得继承点,[]"
+  splits:
+  - split: 3
+    text: "获得继承点"
+- raw: "ComString,.cctor,21807,批量操作,[]"
+  splits:
+  - split: 3
+    text: "批量操作"
+- raw: "ComString,.cctor,21817,退出批量操作,[]"
+  splits:
+  - split: 3
+    text: "退出批量操作"
+- raw: "ComString,.cctor,21827,一键全选,[]"
+  splits:
+  - split: 3
+    text: "一键全选"
+- raw: "ComString,.cctor,21837,取消多选,[]"
+  splits:
+  - split: 3
+    text: "取消多选"
 - raw: "EndingView,Show,109,game_end没有id为{0}的数据,[System.Int32]"
   splits:
   - split: 3
@@ -9610,6 +9634,10 @@
   splits:
   - split: 3
     text: "等 待"
+- raw: "InheritHolder,UpdateFromModel,160,Prefab/UISprite/UI_ItemBG_mobile/背包品质{0},[SweetPotato.UIItemData]"
+  splits:
+  - split: 3
+    text: "Prefab/UISprite/UI_ItemBG_mobile/背包品质{0}"
 - raw: "ChooseItemSlot_mobile,GetIconByQua,12,Prefab/UISprite/UI_ItemBG_mobile/背包品质,[System.Int32]"
   splits:
   - split: 3
@@ -9694,7 +9722,7 @@
   splits:
   - split: 3
     text: "Prefab/UISprite/UI_MapMark/标记"
-- raw: "MapViewNew,UpdateTeleportDetails,1518,未找到Entity id:{0},[]"
+- raw: "MapViewNew,UpdateTeleportDetails,1523,未找到Entity id:{0},[]"
   splits:
   - split: 3
     text: "未找到Entity id:{0}"
@@ -10294,39 +10322,39 @@
   splits:
   - split: 3
     text: "检测更新:本地版本号:{0}"
-- raw: "PatchManager,updateState,98,检测更新:本地版本号:{0},[]"
+- raw: "PatchManager,updateState,104,检测更新:本地版本号:{0},[]"
   splits:
   - split: 3
     text: "检测更新:本地版本号:{0}"
-- raw: "PatchManager,updateState,203,获取补丁文件列表:{0},[]"
+- raw: "PatchManager,updateState,215,获取补丁文件列表:{0},[]"
   splits:
   - split: 3
     text: "获取补丁文件列表:{0}"
-- raw: "PatchManager,updateState,221,本地文件校验[{0}]... {1},[]"
+- raw: "PatchManager,updateState,239,本地文件校验[{0}]... {1},[]"
   splits:
   - split: 3
     text: "本地文件校验[{0}]... {1}"
-- raw: "PatchManager,updateState,465,本地版本:{0} 最新版本:{1},[]"
+- raw: "PatchManager,updateState,489,本地版本:{0} 最新版本:{1},[]"
   splits:
   - split: 3
     text: "本地版本:{0} 最新版本:{1}"
-- raw: "PatchManager,updateState,515,清理本地缓存...,[]"
+- raw: "PatchManager,updateState,545,清理本地缓存...,[]"
   splits:
   - split: 3
     text: "清理本地缓存..."
-- raw: "PatchManager,updateState,595,安装补丁文件:{0} {1} [{2}%],[]"
+- raw: "PatchManager,updateState,631,安装补丁文件:{0} {1} [{2}%],[]"
   splits:
   - split: 3
     text: "安装补丁文件:{0} {1} [{2}%]"
-- raw: "PatchManager,updateState,643,下载缺失文件:{0} {1}/{2},[]"
+- raw: "PatchManager,updateState,686,下载缺失文件:{0} {1}/{2},[]"
   splits:
   - split: 3
     text: "下载缺失文件:{0} {1}/{2}"
-- raw: "PatchManager,updateState,696,更新完成.,[]"
+- raw: "PatchManager,updateState,745,更新完成.,[]"
   splits:
   - split: 3
     text: "更新完成."
-- raw: "PatchManager,updateState,742,更新出错:{0},[]"
+- raw: "PatchManager,updateState,797,更新出错:{0},[]"
   splits:
   - split: 3
     text: "更新出错:{0}"
@@ -10382,10 +10410,6 @@
   splits:
   - split: 3
     text: "正在应用补丁"
-- raw: "ResUpdate,patchFinish,6,游戏安装中...,[]"
-  splits:
-  - split: 3
-    text: "游戏安装中..."
 - raw: "Com.TheFallenGames.OSA.Demos.Hierarchy.TuJianTreeViewsHolder,UpdateViews,478,(未持有),[Com.TheFallenGames.OSA.Demos.Hierarchy.IHierarchyNodeModel]"
   splits:
   - split: 3
@@ -11558,10 +11582,6 @@
   splits:
   - split: 3
     text: "全部字段总内存: "
-- raw: "SweetPotato.AttriManager,ModAttriField,386,已达到瓶颈，提升身份后方可突破瓶颈,[SweetPotato.AttriType，System.Int32，System.Boolean，System.Int32，System.Int32，System.Boolean，System.Boolean，System.Boolean，System.Boolean，System.Boolean]"
-  splits:
-  - split: 3
-    text: "已达到瓶颈，提升身份后方可突破瓶颈"
 - raw: "SweetPotato.AttriManager,SetXiuWeiByJingjie,31,随机Npc，guid:{0}属性配置错误，导致初始修为在设置之前就不为0,[]"
   splits:
   - split: 3

@@ -235,6 +235,102 @@
 - raw: "正在干啥，是否认输？"
   splits:
   - text: "正在干啥，是否认输？"
+- raw: "拍卖"
+  splits:
+  - text: "拍卖"
+- raw: "上架"
+  splits:
+  - text: "上架"
+- raw: "竞品展示"
+  splits:
+  - text: "竞品展示"
+- raw: "钥匙"
+  splits:
+  - text: "钥匙"
+- raw: "底价"
+  splits:
+  - text: "底价"
+- raw: "已竞拍"
+  splits:
+  - text: "已竞拍"
+- raw: "已出价"
+  splits:
+  - text: "已出价"
+- raw: "竞价"
+  splits:
+  - text: "竞价"
+- raw: "压轴宝物"
+  splits:
+  - text: "压轴宝物"
+- raw: "拍完前5件物品\\n显示压轴宝物"
+  splits:
+  - text: "拍完前5件物品\\n显示压轴宝物"
+- raw: "选择你要竞拍的物品"
+  splits:
+  - text: "选择你要竞拍的物品"
+- raw: "稀有珍宝，价高者得"
+  splits:
+  - text: "稀有珍宝，价高者得"
+- raw: "开始拍卖"
+  splits:
+  - text: "开始拍卖"
+- raw: "全程拍卖"
+  splits:
+  - text: "全程拍卖"
+- raw: "(完整拍卖所有物品，该模式中途<color=#c96a51>无法退出</color>)"
+  splits:
+  - text: "(完整拍卖所有物品，该模式中途<color=#c96a51>无法退出</color>)"
+- raw: "选择拍卖"
+  splits:
+  - text: "选择拍卖"
+- raw: "(仅竞价所选物品)"
+  splits:
+  - text: "(仅竞价所选物品)"
+- raw: "委托拍卖"
+  splits:
+  - text: "委托拍卖"
+- raw: "(原拍卖流程)"
+  splits:
+  - text: "(原拍卖流程)"
+- raw: "当前竞价"
+  splits:
+  - text: "当前竞价"
+- raw: "正在竞拍物品..."
+  splits:
+  - text: "正在竞拍物品..."
+- raw: "选择你的操作"
+  splits:
+  - text: "选择你的操作"
+- raw: "单倍加价"
+  splits:
+  - text: "单倍加价"
+- raw: "双倍加价"
+  splits:
+  - text: "双倍加价"
+- raw: "三倍加价"
+  splits:
+  - text: "三倍加价"
+- raw: "放弃加价"
+  splits:
+  - text: "放弃加价"
+- raw: "我的摊位    0/12"
+  splits:
+  - text: "我的摊位    0/12"
+- raw: "生铁剑"
+  splits:
+  - text: "生铁剑"
+- raw: "出售成功\\n点击领取货款"
+  splits:
+  - text: "出售成功\\n点击领取货款"
+- raw: "出售失败\\n点击领取物品"
+  splits:
+  - text: "出售失败\\n点击领取物品"
+- raw: "未达到解锁条件"
+  splits:
+  - text: "未达到解锁条件"
+- raw: "交易记录"
+  splits:
+  - text: "交易记录"
 - raw: "装备属性"
   splits:
   - text: "装备属性"
@@ -295,9 +391,6 @@
 - raw: "王铁(1000，1000)"
   splits:
   - text: "王铁(1000，1000)"
-- raw: "追踪位置"
-  splits:
-  - text: "追踪位置"
 - raw: "一二三四五六七八九十一二三四五六七八九十"
   splits:
   - text: "一二三四五六七八九十一二三四五六七八九十"
@@ -319,6 +412,60 @@
 - raw: "此物可用于打造无心此物可用于打造无心此物可用于打"
   splits:
   - text: "此物可用于打造无心此物可用于打造无心此物可用于打"
+- raw: "斩仙"
+  splits:
+  - text: "斩仙"
+- raw: "品质：人阶-超一流武学"
+  splits:
+  - text: "品质：人阶-超一流武学"
+- raw: "等级："
+  splits:
+  - text: "等级："
+- raw: "要求："
+  splits:
+  - text: "要求："
+- raw: " 制作用途"
+  splits:
+  - text: " 制作用途"
+- raw: " 装备属性"
+  splits:
+  - text: " 装备属性"
+- raw: "  词条属性"
+  splits:
+  - text: "  词条属性"
+- raw: "  获取途径"
+  splits:
+  - text: "  获取途径"
+- raw: "添加"
+  splits:
+  - text: "添加"
+- raw: "竞拍出价"
+  splits:
+  - text: "竞拍出价"
+- raw: "出价"
+  splits:
+  - text: "出价"
+- raw: "当前竞拍成功率"
+  splits:
+  - text: "当前竞拍成功率"
+- raw: "拍卖行"
+  splits:
+  - text: "拍卖行"
+- raw: "1521万"
+  splits:
+  - text: "1521万"
+- raw: "交易记录最多保留20条"
+  splits:
+  - text: "交易记录最多保留20条"
+- raw: "鱼人泪"
+  splits:
+  - text: "鱼人泪"
+- raw: "花费"
+  splits:
+  - text: "花费"
+- raw: "追踪位置"
+  splits:
+  - text: "追踪位置"
 - raw: "青龙"
   splits:
   - text: "青龙"
@@ -370,33 +517,6 @@
 - raw: "隐藏物品信息"
   splits:
   - text: "隐藏物品信息"
-- raw: "斩仙"
-  splits:
-  - text: "斩仙"
-- raw: "品质：人阶-超一流武学"
-  splits:
-  - text: "品质：人阶-超一流武学"
-- raw: "等级："
-  splits:
-  - text: "等级："
-- raw: "要求："
-  splits:
-  - text: "要求："
-- raw: " 制作用途"
-  splits:
-  - text: " 制作用途"
-- raw: " 装备属性"
-  splits:
-  - text: " 装备属性"
-- raw: "  词条属性"
-  splits:
-  - text: "  词条属性"
-- raw: "  获取途径"
-  splits:
-  - text: "  获取途径"
-- raw: "添加"
-  splits:
-  - text: "添加"
 - raw: "上阵"
   splits:
   - text: "上阵"
@@ -880,9 +1000,6 @@
 - raw: "下注数："
   splits:
   - text: "下注数："
-- raw: "1521万"
-  splits:
-  - text: "1521万"
 - raw: "纯外观DLC  <size=30><color=#8b8d8f>(不影响任何剧情、数值)"
   splits:
   - text: "纯外观DLC  <size=30><color=#8b8d8f>(不影响任何剧情、数值)"
@@ -2434,6 +2551,36 @@
 - raw: "(请根据提示内容到指定地点解锁)"
   splits:
   - text: "(请根据提示内容到指定地点解锁)"
+- raw: "继承"
+  splits:
+  - text: "继承"
+- raw: "刀"
+  splits:
+  - text: "刀"
+- raw: "青龙发生发大水"
+  splits:
+  - text: "青龙发生发大水"
+- raw: "继承数量"
+  splits:
+  - text: "继承数量"
+- raw: "确定继承"
+  splits:
+  - text: "确定继承"
+- raw: "消耗点数"
+  splits:
+  - text: "消耗点数"
+- raw: "完成继承"
+  splits:
+  - text: "完成继承"
+- raw: "已选继承"
+  splits:
+  - text: "已选继承"
+- raw: "继承点数：122"
+  splits:
+  - text: "继承点数：122"
+- raw: "				    提示\\n\\n1.继承点可在游戏中点亮成就后，领取奖励获得。\\n2.同一成就无法叠加继承点，同一成就即使在多档达成，继承点也不会额外增加。\\n3.选择完成后，物品在开局直接获得。"
+  splits:
+  - text: "				    提示\\n\\n1.继承点可在游戏中点亮成就后，领取奖励获得。\\n2.同一成就无法叠加继承点，同一成就即使在多档达成，继承点也不会额外增加。\\n3.选择完成后，物品在开局直接获得。"
 - raw: "按键设置"
   splits:
   - text: "按键设置"
@@ -2626,9 +2773,6 @@
 - raw: "攻击：丙     防御：乙    命中：甲"
   splits:
   - text: "攻击：丙     防御：乙    命中：甲"
-- raw: "刀"
-  splits:
-  - text: "刀"
 - raw: "攻击：乙     防御：甲    命中：乙"
   splits:
   - text: "攻击：乙     防御：甲    命中：乙"
@@ -4318,6 +4462,12 @@
 - raw: "当前版本:1.00"
   splits:
   - text: "当前版本:1.00"
+- raw: "选择语言包"
+  splits:
+  - text: "选择语言包"
+- raw: "中文"
+  splits:
+  - text: "中文"
 - raw: "旧的记忆"
   splits:
   - text: "旧的记忆"
@@ -5213,9 +5363,6 @@
 - raw: "品质耗材说明\\n越高品阶的材料，数量越多，提升对应产出品质概率越高"
   splits:
   - text: "品质耗材说明\\n越高品阶的材料，数量越多，提升对应产出品质概率越高"
-- raw: "生铁剑"
-  splits:
-  - text: "生铁剑"
 - raw: "持有太初剑宗令牌："
   splits:
   - text: "持有太初剑宗令牌："
@@ -5237,9 +5384,6 @@
 - raw: "亲传弟子"
   splits:
   - text: "亲传弟子"
-- raw: "底价"
-  splits:
-  - text: "底价"
 - raw: "藏红花"
   splits:
   - text: "藏红花"
@@ -6416,9 +6560,6 @@
 - raw: "好感"
   splits:
   - text: "好感"
-- raw: "青龙发生发大水"
-  splits:
-  - text: "青龙发生发大水"
 - raw: "内门"
   splits:
   - text: "内门"
@@ -6461,9 +6602,6 @@
 - raw: "当前底价"
   splits:
   - text: "当前底价"
-- raw: "出价"
-  splits:
-  - text: "出价"
 - raw: "当前竞拍成功率："
   splits:
   - text: "当前竞拍成功率："
@@ -6479,30 +6617,9 @@
 - raw: "七星"
   splits:
   - text: "七星"
-- raw: "未达到解锁条件"
-  splits:
-  - text: "未达到解锁条件"
 - raw: "竞拍货架"
   splits:
   - text: "竞拍货架"
-- raw: "交易记录"
-  splits:
-  - text: "交易记录"
-- raw: "竞拍出价"
-  splits:
-  - text: "竞拍出价"
-- raw: "当前竞拍成功率"
-  splits:
-  - text: "当前竞拍成功率"
-- raw: "交易记录最多保留20条"
-  splits:
-  - text: "交易记录最多保留20条"
-- raw: "鱼人泪"
-  splits:
-  - text: "鱼人泪"
-- raw: "花费"
-  splits:
-  - text: "花费"
 - raw: "我们经常在口语中以「梦周公」来形容打盹小睡一下，请问这里指的周公是谁？"
   splits:
   - text: "我们经常在口语中以「梦周公」来形容打盹小睡一下，请问这里指的周公是谁？"
@@ -6992,6 +7109,9 @@
 - raw: "启用日志"
   splits:
   - text: "启用日志"
+- raw: "隐藏伤害提示"
+  splits:
+  - text: "隐藏伤害提示"
 - raw: "返回游戏"
   splits:
   - text: "返回游戏"
@@ -7607,6 +7727,9 @@
 - raw: "百花谱"
   splits:
   - text: "百花谱"
+- raw: "黑榜"
+  splits:
+  - text: "黑榜"
 - raw: "人榜潜力天骄"
   splits:
   - text: "人榜潜力天骄"

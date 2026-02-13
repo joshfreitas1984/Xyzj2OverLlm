@@ -534,16 +534,25 @@ public static class TranslationService
 
         // Send correction & Get result
         HttpContent content = new StringContent(requestData, Encoding.UTF8, "application/json");
-        HttpResponseMessage response = await client.PostAsync(config.Url, content);
-        response.EnsureSuccessStatusCode();
-        string responseBody = await response.Content.ReadAsStringAsync();
-        using var jsonDoc = JsonDocument.Parse(responseBody);
-        var result = jsonDoc.RootElement
-            .GetProperty("message")!
-            .GetProperty("content")!
-            .GetString()
-            ?.Trim() ?? string.Empty;
 
-        return result;
+        try
+        {
+            HttpResponseMessage response = await client.PostAsync(config.Url, content);
+            response.EnsureSuccessStatusCode();
+            string responseBody = await response.Content.ReadAsStringAsync();
+            using var jsonDoc = JsonDocument.Parse(responseBody);
+            var result = jsonDoc.RootElement
+                .GetProperty("message")!
+                .GetProperty("content")!
+                .GetString()
+                ?.Trim() ?? string.Empty;
+
+            return result;
+        }
+        catch
+        {
+            Console.WriteLine($"Exception on: {requestData}");
+            throw;
+        }
     }
 }

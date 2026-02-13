@@ -17743,11 +17743,11 @@
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
-- raw: "420041#出去祸患#1#1200#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#听闻{E}一直以来都在给凌云门传递书院消息，此人势必会祸害整个书院一脉。望能有英雄前去除此祸患！#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0##0###0#0#"
+- raw: "420041#除去祸患#1#1200#0#0#0#0######0#8001|1&8011|1&8012|1#0##0#0#102#1#1##0#听闻{E}一直以来都在给凌云门传递书院消息，此人势必会祸害整个书院一脉。望能有英雄前去除此祸患！#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0##0###0#0#"
   splits:
   - split: 1
-    text: "出去祸患"
-    translated: "Escape trouble"
+    text: "除去祸患"
+    translated: "Remove calamity"
   - split: 24
     text: "听闻{E}一直以来都在给凌云门传递书院消息，此人势必会祸害整个书院一脉。望能有英雄前去除此祸患！"
     translated: "It has been heard that {E} has long been conveying messages to the Soaring Clouds Sect on behalf of our academy, which will surely bring calamity upon the entire lineage. We hope a hero can come to eliminate this threat!"

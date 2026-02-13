@@ -6955,6 +6955,17 @@
   - split: 2
     text: "玄甲剑盾-触发"
     translated: "Dark Armor Sword Shield ‑ Triggered"
+- raw: "105400#0#无锋剑诀#11#运足千钧内劲，施展无锋之剑猛然斩下。剑势虽无锋芒，却凭万钧重压强行撕裂目标防御，瞬间造成巨额物理伤害并引动【血崩】之厄。中招者经脉受损，气血如决堤般狂泻不止，且伤势极难愈合，药石罔效。#1540#4300#0#0###身前4米，半径4米#0##spell_100740_go#sfx_main_hero_100740&0&true&true##0#0#0#0#410#1054000#1054000#1054000#1054000#1054001#0#0#0#0#0#566#1000#1500#2000#2400#0#0#0#0#0#0#sfx_main_hero_100740##64#0#30000#0#3##0#4#0#0##0#0#3#6#4.0#4.0#0#0#0#0#0##0###4#0##3.0##1##0#1#"
+  splits:
+  - split: 2
+    text: "无锋剑诀"
+    translated: "Wu Feng Sword Technique"
+  - split: 4
+    text: "运足千钧内劲，施展无锋之剑猛然斩下。剑势虽无锋芒，却凭万钧重压强行撕裂目标防御，瞬间造成巨额物理伤害并引动【血崩】之厄。中招者经脉受损，气血如决堤般狂泻不止，且伤势极难愈合，药石罔效。"
+    translated: "Harnessing a powerful internal force equivalent to a thousand jin, they unleashed the Unsharpened Sword technique with a sudden slash. Although the sword lacked sharp edges, its impact relied on immense pressure, forcefully tearing through the target's defenses and inflicting massive physical damage in an instant, triggering the dreaded Blood Collapse. The struck individual suffered meridian injuries, leading to a relentless torrent of lifeforce loss akin to breached floodgates, with their wounds proving extremely difficult to heal. Medicinal remedies were ineffective against this condition."
+  - split: 11
+    text: "身前4米，半径4米"
+    translated: "A distance of 4 meters ahead, with a radius of 4 meters."
 - raw: "110000#0#破釜沉舟#11#破釜沉舟，置死地而后生，竭力一击，刀劲四溅。#dao_1000#666#0#0#0#0#身前1.5米180度扇形#0#0#spell_110010_go#sfx_main_hero_110010&0&true&true#0#0#0#0#0#81#1100000#0#0#0#0#0#0#0#0#41028#333#0#0#0#0#0#0#0#0#333#0#sound_spell_110010_go#0#0#0#15000#1#3#0#0#1#0#0#0#35#5#1#3#1.5#90.0#0#0#0#0#0#0#0#0##1#0#0#0.4#0#1#0#0#0#"
   splits:
   - split: 2
@@ -10622,6 +10633,19 @@
     translated: "A range of 1.5 meters within a distance of 0.5 meters ahead."
 - raw: "134901#0##0###0#0#1####0#####0#0#0#0#0#1349010#1349011#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###0#0#0#0#0##0#0#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###0#0##0.5##0##0#0#"
   splits: []
+- raw: "135000#0#神火令#11#聚气于臂，猛然掷出神火令，令牌旋转呼啸而出，裹挟灼热气劲将沿途敌人强行击退；落地瞬间激发令中炎劲，引动地火喷涌，化作炼狱火海，持续灼烧范围内的一切敌人，使其寸步难行。#quan_1500#3666#0#0###身前7米，半径4米#0##spell_130870_go#sfx_main_hero_130870&0&true&true##0#0#0#0#410#1350000#1350002#1350003#0#0#0#0#0#0#0#2400#1200#2266#0#0#0#0#0#0#0#0#sfx_main_hero_130870##65#0#30000#3#3##0#4#0#0##0#0#0#6#4.0#7.0#0#0#0#0#0##0###4#0##3.0##1##0#1#"
+  splits:
+  - split: 2
+    text: "神火令"
+    translated: "Divine Fire Decree"
+  - split: 4
+    text: "聚气于臂，猛然掷出神火令，令牌旋转呼啸而出，裹挟灼热气劲将沿途敌人强行击退；落地瞬间激发令中炎劲，引动地火喷涌，化作炼狱火海，持续灼烧范围内的一切敌人，使其寸步难行。"
+    translated: "Channeling Qi into their arm, they forcefully throw out the Divine Fire Command, sending the token spinning with a whistling roar. It carries searing Qi Force that forcibly repels enemies along its path. Upon landing, it triggers the fiery force within the command, unleashing subterranean flames to erupt as a sea of purgatory fire, continuously scorching everything in range and preventing any enemy movement."
+  - split: 11
+    text: "身前7米，半径4米"
+    translated: "Within 7 meters in front, radius 4 meters."
+- raw: "135001#0##0###0#0#1####0#####0#0#0#0#0#1350004#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###0#0#0#0#0##0#0#0#0##0#0#-1#0#0.0#0.0#0#0#0#0#0##0###0#0##0.5##0##0#0#"
+  splits: []
 - raw: "150000#0#百战圣功#7#经百战之磨砺，历尽沙场险恶。内力深厚，刚柔相济。#xinfa_1000#2112#2#2#0#0#0#0#0#spell_103_go#sfx_tongyongxuqi_gang&0&true#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#150000#90000#4#4#0#0#3#0#0#0#0#0#3#0#0.0#0.0#1|2009&2|2010&3|2011&4|2016#150001#0#9284#0#0#0#0##3#960#0#0.5#72120|72130|72140|72150#0#0#0#0#"
   splits:
   - split: 2
@@ -11240,7 +11264,7 @@
     translated: "Raising his head to drink all the wine from the pot, he was so inebriated that it seemed as if he had fallen into a dream."
 - raw: "153421#0##0###0#0#1####0#####0#0#0#0#0#1534202#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###0#0#0#0#0##0#0#0#0##0#0#0#0#0.0#0.0#0#0#0#0#0##0###0#0##0.5##0##0#0#"
   splits: []
-- raw: "153500#0#乾坤挪移#1#以内力感知对手劲力方向，顺势牵引，使其自伤。#xinfa1242#5667#2#0#0#0#0#0#0#spell_120570_go#sfx_main_hero_120570&0&true&true#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#sfx_main_hero_120570#0#65#0#90000#4#4#0#0#4#0#0##0#0#-1#0#0.0#0.0#1|2017&2|2018&3|2019&4|2020#153501#0#9313#0#0#0#0##4#0#0#0.5#0#1#0#0#0#"
+- raw: "153500#0#乾坤挪移#1#以内力感知对手劲力方向，顺势牵引，使其自伤。#xinfa1242#5667#2#0#0#0#0#0#0#spell_120570_go#sfx_main_hero_120570&0&true&true#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#sfx_main_hero_120570#0#65#0#90000#4#4#0#0#4#0#0##0#0#-1#0#0.0#0.0#1|2017&2|2018&3|2019&4|2020#153501#0#9313#0#0#0#0##4#0#0#0.5#75160|75170|75180|75190|75200#1#0#0#0#"
   splits:
   - split: 2
     text: "乾坤挪移"
@@ -11260,7 +11284,7 @@
   splits: []
 - raw: "153503#0##0###0#0#1####0#####0#0#0#0#0#1535003#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0###0#0#0#0#0##0#0#0#0##0#0#0#0#0.0#0.0#0#0#0#0#0##0###0#0##0.5##0##0#0#"
   splits: []
-- raw: "153600#0#魔相神功#1#“舍身饲魔证本心，业火焚躯铸金身。”运功之际自断生机以饲心中魔相，引得虚空业火破体而出，虽自身气血受损，然周遭敌寇皆受业力反噬，不得善终#xinfa1259#2600#2#0#0#0#0#0#0#spell_120600_go#sfx_main_hero_120600&0&true&true#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#Skill_03#0#65#153600#90000#4#4#0#0#4#0#0##0#0#-1#0#0.0#0.0#1|2017&2|2018&3|2019&4|2020#153601#0#9313#0#0#0#0##4#3500#0#0.5#0#1#0#0#0#"
+- raw: "153600#0#魔相神功#1#“舍身饲魔证本心，业火焚躯铸金身。”运功之际自断生机以饲心中魔相，引得虚空业火破体而出，虽自身气血受损，然周遭敌寇皆受业力反噬，不得善终#xinfa1259#2600#2#0#0#0#0#0#0#spell_120600_go#sfx_main_hero_120600&0&true&true#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#Skill_03#0#65#153600#90000#4#4#0#0#4#0#0##0#0#-1#0#0.0#0.0#1|2017&2|2018&3|2019&4|2020#153601#0#9313#0#0#0#0##4#3500#0#0.5#75160|75170|75180|75190|75200#1#0#0#0#"
   splits:
   - split: 2
     text: "魔相神功"
@@ -11276,7 +11300,7 @@
   - split: 4
     text: "对周围敌人造成300点的基础伤害，额外附加业力层数*300的伤害，自身每秒损失1%生命值"
     translated: "Deals a base damage of 300 to surrounding enemies and additional damage based on the layer count of business karma multiplied by 300, while the caster loses 1% health per second."
-- raw: "153700#0#紫气天罗#1#“紫气东来织罗网，经纬错落困游龙。”指尖劲气化作无数紫色丝线，瞬间布下天罗地网封锁四方，待收网之时，丝线爆裂，将困于阵中之敌绞杀至晕厥#xinfa1260#1835#2#0#0#0#0#0#0#spell_120610_go#sfx_main_hero_120610&0&true&true#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#Skill_02#0#65#153700#90000#4#4#0#0#4#0#0##0#0#-1#0#0.0#0.0#1|2017&2|2018&3|2019&4|2020#153701#0#9313#0#0#0#0##4#3500#0#0.5#0#1#0#0#0#"
+- raw: "153700#0#紫气天罗#1#“紫气东来织罗网，经纬错落困游龙。”指尖劲气化作无数紫色丝线，瞬间布下天罗地网封锁四方，待收网之时，丝线爆裂，将困于阵中之敌绞杀至晕厥#xinfa1260#1835#2#0#0#0#0#0#0#spell_120610_go#sfx_main_hero_120610&0&true&true#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#Skill_02#0#65#153700#90000#4#4#0#0#4#0#0##0#0#-1#0#0.0#0.0#1|2017&2|2018&3|2019&4|2020#153701#0#9313#0#0#0#0##4#3500#0#0.5#75160|75170|75180|75190|75200#1#0#0#0#"
   splits:
   - split: 2
     text: "紫气天罗"
