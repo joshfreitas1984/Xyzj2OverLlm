@@ -28809,7 +28809,7 @@
   - split: 37
     text: "与凌云宗筑基弟子切磋"
     translated: "Practice sparring with a Foundational Disciple of the Soaring Clouds Sect."
-- raw: "3200037#紧要：追捕焚天教卧底#0#0#0#0#0#0##37990|1##0&109|963|>|9##0#7001|2&7006|1#0##0#0#102#0|34604#1##0#携弟子来此方世界之时，有焚天宗隐藏其中一同来此，此人名叫{E}，若能取其首级，以外门待之。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#紧要：追捕焚天教卧底#0###0#0#"
+- raw: "3200037#紧要：追捕焚天教卧底#0#0#0#0#0#0##37990|1##0&109|963|>|3##0#7001|2&7006|1#0##0#0#102#0|34604#1##0#携弟子来此方世界之时，有焚天宗隐藏其中一同来此，此人名叫{E}，若能取其首级，以外门待之。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#紧要：追捕焚天教卧底#0###0#0#"
   splits:
   - split: 1
     text: "紧要：追捕焚天教卧底"
@@ -28819,14 +28819,14 @@
     translated: "When you arrive in this world with your disciples, someone from the Burnt Heaven Sect will be among them. This person's name is {E}. If you can take their head, treat them as an outsider."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Kidnapping and assassination attempt on {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
     text: "紧要：追捕焚天教卧底"
     translated: "Crucial: Pursuing the undercover agent of Zhu Tian Jiao."
-- raw: "3200038#紧要：缉拿叛宗者弟子#0#0#0#0#0#0##37991|1##0&109|963|>|19;3|37990|1##0#7001|2&7006|1#0##0#0#102#0|34605#1##0#宗内有弟子{E}叛教……乃宗门之耻，若有人除掉此害，以内门待着。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#紧要：缉拿叛宗者弟子#0###0#0#"
+- raw: "3200038#紧要：缉拿叛宗者弟子#0#0#0#0#0#0##37991|1##0&109|963|>|6;3|37990|1##0#7001|2&7006|1#0##0#0#102#0|34605#1##0#宗内有弟子{E}叛教……乃宗门之耻，若有人除掉此害，以内门待着。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#紧要：缉拿叛宗者弟子#0###0#0#"
   splits:
   - split: 1
     text: "紧要：缉拿叛宗者弟子"
@@ -28836,14 +28836,14 @@
     translated: "A disciple, {E}, has defected within the Sect... This is a disgrace to the Sect. Should anyone eliminate this threat, they will be treated as an insider."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Kidnapping and assassination attempt on {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
     text: "紧要：缉拿叛宗者弟子"
     translated: "Critical: Apprehend the disciple of the traitor against the sect."
-- raw: "3200039#紧要：消灭密谋者元凶#0#0#0#0#0#0##37992|1##0&109|963|>|29;3|37991|1##0#7001|2&7006|1#0##0#0#102#0|34606#1##0#近来发现宗门不清净，调查之下发现有人图谋不轨，为首之人叫做{E}，若有人拿下此人，以关门待之。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#紧要：消灭密谋者元凶#0###0#0#"
+- raw: "3200039#紧要：消灭密谋者元凶#0#0#0#0#0#0##37992|1##0&109|963|>|9;3|37991|1##0#7001|2&7006|1#0##0#0#102#0|34606#1##0#近来发现宗门不清净，调查之下发现有人图谋不轨，为首之人叫做{E}，若有人拿下此人，以关门待之。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#紧要：消灭密谋者元凶#0###0#0#"
   splits:
   - split: 1
     text: "紧要：消灭密谋者元凶"
@@ -28853,14 +28853,14 @@
     translated: "Lately, it has come to light that the sect is not pure. Upon investigation, we found someone plotting rebellion; the ringleader's name is {E}. Anyone who captures this person shall be rewarded with guardianship of the gate."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Kidnapping and assassination attempt on {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"
   - split: 37
     text: "紧要：消灭密谋者元凶"
     translated: "Crucial: Eliminate the mastermind behind the conspiracy"
-- raw: "3200040#紧要：击杀逆元机化身#0#0#0#0#0#0##37993|1##0&109|963|>|39;3|37992|1##0#7001|2&7006|1#0##0#0#102#0|34607#1##0#凌云宗来此为的是追寻元凶{E}，近来发现其化身踪迹，若有人能除掉此人，以亲传待之。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#紧要：击杀逆元机化身#0###0#0#"
+- raw: "3200040#紧要：击杀逆元机化身#0#0#0#0#0#0##37993|1##0&109|963|>|12;3|37992|1##0#7001|2&7006|1#0##0#0#102#0|34607#1##0#凌云宗来此为的是追寻元凶{E}，近来发现其化身踪迹，若有人能除掉此人，以亲传待之。#0##0#0#0##0#0#0#劫杀{E}（{IsCanFinish:0:1}/1)#回禀{AA}#0#紧要：击杀逆元机化身#0###0#0#"
   splits:
   - split: 1
     text: "紧要：击杀逆元机化身"
@@ -28870,7 +28870,7 @@
     translated: "The Soaring Clouds Sect has come here to pursue the mastermind {E}. Recently, they have discovered traces of this person's transformations. If someone can eliminate this individual, they will be rewarded with a lineage transmission."
   - split: 34
     text: "劫杀{E}（{IsCanFinish:0:1}/1)"
-    translated: "Kidnapping and assassination attempt on {E} ({IsCanFinish:0:1}/1)"
+    translated: "Robbery and murder of {E} ({IsCanFinish:0:1}/1)"
   - split: 35
     text: "回禀{AA}"
     translated: "Report to {AA}"

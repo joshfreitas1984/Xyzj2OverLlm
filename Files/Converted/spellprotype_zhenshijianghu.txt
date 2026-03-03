@@ -6477,14 +6477,14 @@
   - split: 11
     text: "周围5米"
     translated: "Within 5 meters"
-- raw: "103410#0#破气式#11#九九归一，神而明之，存乎一心，可打断其他正在施展招式强制释放，可使目标强制受伤#1341#3000#0#0#0#0#周围5米#0#0#spell_100511_go#sfx_main_hero_100510_2_1&0&true&true#0#0#0#0#0#410#1034100#1034105#1034101#1034106#0#0#0#0#0#41102#666#0#1767#1767#0#0#0#0#0#333#0#sound_spell_103410#0#67#0#25000#0#3#0#0#4#0#0#0#0#0#2#3#5.0#180.0#0#0#0#0#0#0#0#0##4#0#0#2.5#0#1#0#0#0#"
+- raw: "103410#0#破气式#11#九九归一，神而明之，存乎一心，可使目标强制受伤#1341#3000#0#0#0#0#周围5米#0#0#spell_100511_go#sfx_main_hero_100510_2_1&0&true&true#0#0#0#0#0#410#1034100#1034105#1034101#1034106#0#0#0#0#0#41102#666#0#1767#1767#0#0#0#0#0#333#0#sound_spell_103410#0#65#0#25000#0#3#0#0#4#0#0#0#0#0#2#3#5.0#180.0#0#0#0#0#0#0#0#0##4#0#0#2.5#0#1#0#0#0#"
   splits:
   - split: 2
     text: "破气式"
     translated: "Breaking Qi Technique"
   - split: 4
-    text: "九九归一，神而明之，存乎一心，可打断其他正在施展招式强制释放，可使目标强制受伤"
-    translated: "Ninety‑nine return to one, divine it and make it clear, stored in one heart. This can interrupt other characters performing techniques and forcibly release them, causing the target to be forced to take damage"
+    text: "九九归一，神而明之，存乎一心，可使目标强制受伤"
+    translated: "Ninety‑nine parts to one, divine and enlightened, residing in the heart; can make the target suffer forced injury."
   - split: 11
     text: "周围5米"
     translated: "Within 5 meters"

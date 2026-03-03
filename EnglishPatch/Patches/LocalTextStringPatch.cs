@@ -49,7 +49,7 @@ public class LocalTextStringPatch
         {
             int num = 0;
             // Fix array[num++] bug - hopefully they fix soon
-            if (int.TryParse(array[num], out var result))
+            if (!int.TryParse(array[num], out var result))
                 PatchesPlugin.Logger.LogError($"Not an Int: {array.Length} array0: {array[0]} array1: {array[1]} LocalTextString.mTemplateList: {LocalTextString.mTemplateList[0]}");
 
             if (LocalTextString.mTemplateList.TryGetValue(result, out var value))
